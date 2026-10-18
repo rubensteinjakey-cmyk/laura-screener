@@ -1,0 +1,81 @@
+{
+  "ticker": "WFC",
+  "company_name": "Wells Fargo & Company",
+  "sector": "Financials",
+  "run_id": "test_second_look",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1"
+  ],
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "accession_number": "0000072971-26-000133",
+  "scored_at": "2026-10-18T20:21:36",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "quote_check": "passed",
+      "level_reason": "Level 0: Item 1 describes no creative, artistic, publishing or storytelling activity.",
+      "quotes": []
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "quote_check": "passed",
+      "level_reason": "Level 2 (one specific practice): the filing describes a tuition reimbursement program and dollar spending on employee learning, but no school, nonprofit, mentoring or community partnerships with numbers, so the lower level applies.",
+      "quotes": [
+        {
+          "quote": "Additionally, we provide tuition reimbursement to eligible employees.",
+          "found": true
+        },
+        {
+          "quote": "During 2025, we invested approximately $200 million in a variety of employee learning and development programs, including functional training, required risk and regulatory compliance training, leadership and professional development, and early talent development programs.",
+          "found": true
+        }
+      ]
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "quote_check": "passed",
+      "level_reason": "Level 1: only general welcoming language and workforce demographic percentages, with no specific inclusion practice described.",
+      "quotes": [
+        {
+          "quote": "provide an environment that welcomes people from different backgrounds and with different experiences.",
+          "found": true
+        },
+        {
+          "quote": "In the U.S., 50% of our workforce identified as white, 49% identified as other races/ethnicities, and 1% did not declare.",
+          "found": true
+        }
+      ]
+    },
+    "entrepreneurship": {
+      "ai_score": 2,
+      "score": 2,
+      "quote_check": "passed",
+      "level_reason": "Level 2 (one specific practice): small business lending is named as a product, but there is no measurable data on small businesses served.",
+      "quotes": [
+        {
+          "quote": "We provide consumer financial products and services including checking and savings accounts, credit and debit cards, and home, auto, personal, and small business lending.",
+          "found": true
+        }
+      ]
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 2
+  },
+  "final_score": 22.0,
+  "quote_check_status": "passed",
+  "thin_filing": false,
+  "thin_filing_trigger": "",
+  "human_capital_words": 418,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}

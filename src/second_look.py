@@ -328,9 +328,14 @@ def main():
     cfg = load_config()
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--run-id", default=cfg["run_id"])
+    p.add_argument("--test-tickers", default="",
+                   help="TESTING ONLY: also run for these tickers even if not thin "
+                        "(use with a separate --run-id so real results aren't affected)")
     args = p.parse_args()
+    forced = {x.strip().upper() for x in args.test_tickers.split(",") if x.strip()}
     thin = [read_json(f) for f in sorted(VERIFIED.glob(f"*_{args.run_id}.json"))]
-    thin = [r for r in thin if r.get("run_id") == args.run_id and r.get("thin_filing")]
+    thin = [r for r in thin if r.get("run_id") == args.run_id
+            and (r.get("thin_filing") or r["ticker"] in forced)]
     log("second_look", f"{len(thin)} thin filing(s) in run '{args.run_id}'")
     for r in thin:
         try:

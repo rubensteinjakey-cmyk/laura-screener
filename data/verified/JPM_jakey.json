@@ -1,0 +1,89 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase & Co.",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1"
+  ],
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "accession_number": "0001628280-26-008131",
+  "scored_at": "2026-10-18T20:20:58",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "quote_check": "passed",
+      "level_reason": "Level 0: nothing in Item 1 relates to creative work; 'design' appears only for risk governance frameworks, which is a trap.",
+      "quotes": []
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "quote_check": "passed",
+      "level_reason": "Level 2: one specific practice (an employee tuition assistance benefit), with internal internships and a leadership center mentioned only briefly and without numbers, so the lower level applies.",
+      "quotes": [
+        {
+          "quote": "counseling and resources related to mental health, time away policies, child care access and support, tuition assistance, and financial education.",
+          "found": true
+        },
+        {
+          "quote": "These opportunities range from internship training programs for students to entry-level, management and executive careers.",
+          "found": true
+        },
+        {
+          "quote": "Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.",
+          "found": true
+        }
+      ]
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "quote_check": "passed",
+      "level_reason": "Level 1: general inclusion language and workforce demographic statistics only, with no ERGs, accessibility, multilingual or named inclusion programs described.",
+      "quotes": [
+        {
+          "quote": "JPMorganChase believes that its long-term growth and success depend on its ability to identify, attract, develop, retain and engage talented employees and foster an inclusive work environment.",
+          "found": true
+        },
+        {
+          "quote": "Information on LGBTQ+ and veteran statuses is based on all U.S. employees, and all members of the Operating Committee and the Board of Directors.",
+          "found": true
+        }
+      ]
+    },
+    "entrepreneurship": {
+      "ai_score": 2,
+      "score": 2,
+      "quote_check": "passed",
+      "level_reason": "Level 2: one specific practice (financial services and lending for small businesses), with no measurable data on small-business customers to reach level 4.",
+      "quotes": [
+        {
+          "quote": "The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.",
+          "found": true
+        },
+        {
+          "quote": "The CFPB also has jurisdiction over small business lending activities with respect to fair lending and the Equal Credit Opportunity Act.",
+          "found": true
+        }
+      ]
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 2
+  },
+  "final_score": 22.0,
+  "quote_check_status": "passed",
+  "thin_filing": false,
+  "thin_filing_trigger": "",
+  "human_capital_words": 897,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}
