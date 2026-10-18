@@ -160,9 +160,19 @@
   ],
   "notes": "The Human Capital section is short and covers only employee pay, benefits, development and work-life matters. Item 1 says nothing about philanthropy, a foundation, external education or community investment, and it incorporates additional information by reference to the 2025 Annual Report to Shareholders. Community and Cross-cultural are therefore marked insufficient and should get the automated second look using the sustainability report. The $200 million development figure includes required risk and regulatory compliance training, which cannot be separated out. This does not change the score, because the employee-development cap of 2 applies either way. These items were checked and excluded as non-qualifying: the Community Reinvestment Act, which appears only as regulatory description; 'communities' in the Item 7 Risk and Culture paragraph, which is culture language; 'diversified' products; 'stockholders' equity'; international operations; and the technology/'innovations' references in the Competition section. The Item 7 excerpt describing Consumer Banking and Lending as serving consumers and small businesses is the same small-business lending activity as E5, so it is not counted twice. Item 7 references counts of digital/mobile active consumer and small business customers, but the excerpt contains no figures. The filing also discloses an ongoing FRB consent order (asset cap removed June 2025) and an OCC formal agreement on AML/sanctions. These are recorded for context only and are not scored.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 418,
   "score_source": "10-K",
   "report_url": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

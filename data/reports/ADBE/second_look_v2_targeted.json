@@ -2,19 +2,18 @@
   "ticker": "ADBE",
   "run_id": "v2_targeted",
   "model": "claude-opus-5-5",
-  "done_at": "2026-10-18T22:17:38",
+  "done_at": "2026-10-18T22:24:18",
   "themes_rescored": [
     "community",
     "cross_cultural"
   ],
-  "report_url": "https://www.adobe.com/cc-shared/assets/pdf/corporate-responsibility/adobe-csr-report-2024.pdf",
-  "report_year": 2025,
-  "report_pdf": "report_2025.pdf",
-  "domain_note": "",
-  "status": "no usable table of contents",
+  "status": "no report found",
   "log": [
     "company domains found in 10-K: ['adobe.com', 'amazon.com']",
-    "search suggested 2 candidate(s)",
-    "accepted https://www.adobe.com/cc-shared/assets/pdf/corporate-responsibility/adobe-csr-report-2024.pdf (year 2025)"
+    "search suggested 4 candidate(s)",
+    "rejected (no usable table of contents / chapters): https://www.adobe.com/cc-shared/assets/pdf/corporate-responsibility/adobe-csr-report-2024.pdf",
+    "rejected (no usable table of contents / chapters): https://www.adobe.com/cc-shared/assets/pdf/corporate-responsibility/adobe-2026-cdp-final.pdf",
+    "rejected (no usable table of contents / chapters): https://www.adobe.com/cc-shared/assets/pdf/corporate-responsibility/adbe-2025-cdp-response.pdf",
+    "rejected (no usable table of contents / chapters): https://www.adobe.com/cc-shared/assets/pdf/corporate-responsibility/adbe-2024-cdp-response.pdf"
   ]
 }

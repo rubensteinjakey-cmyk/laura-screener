@@ -220,6 +220,9 @@ TARGET_TERMS = re.compile(
     r"artists?|accessib\w*|multilingual)\b", re.I)
 
 
+NUMBER_LINE = re.compile(r"^(?:[\d$(.\-–—]|(?:thousand|million|billion|trillion|%)\s*$)", re.I)
+
+
 def targeted_mda(item7):
     """Return (excerpt_text, paragraphs_kept, paragraphs_total)."""
     paras = [p.strip() for p in item7.split("\n") if p.strip()]
@@ -229,9 +232,21 @@ def targeted_mda(item7):
             continue
         # a short table label ("Small business customers (in millions)") has
         # its numbers on the next line ("7.4 | 7.0 | 6.4"): keep them together
-        nxt = paras[i + 1] if i + 1 < len(paras) else ""
-        if len(p.split()) <= 12 and re.match(r"^[\d$(.\-–—]", nxt):
-            p = p + "\n" + nxt
+        # Some layouts put the figure BEFORE the label ("$33" / "billion" /
+        # "Credit for U.S. small businesses"), so also keep up to two
+        # number/unit lines just before it.
+        if len(p.split()) <= 12:
+            nxt = paras[i + 1] if i + 1 < len(paras) else ""
+            if NUMBER_LINE.match(nxt):
+                p = p + "\n" + nxt
+            before = []
+            for j in (i - 1, i - 2):
+                if j >= 0 and NUMBER_LINE.match(paras[j]) and len(paras[j].split()) <= 4:
+                    before.insert(0, paras[j])
+                else:
+                    break
+            if before:
+                p = "\n".join(before) + "\n" + p
         kept.append(p)
     return "\n\n".join(kept), len(kept), len(paras)
 

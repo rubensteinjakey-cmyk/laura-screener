@@ -25,20 +25,24 @@
       "coverage_trigger": ""
     },
     "community": {
-      "ai_score": 2,
-      "score": 2,
-      "coverage": "insufficient",
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
       "evidence_ids": [
-        "E2",
-        "E6"
+        "SL-E1",
+        "SL-E2",
+        "SL-E3"
       ],
       "valid_evidence_ids": [
-        "E2",
-        "E6"
+        "SL-E1",
+        "SL-E2",
+        "SL-E3"
       ],
-      "reason": "Level 2: all measured activity is employee development (Bank of America Academy, 7.6 million hours), which caps Community at 2, and external community investment appears only as an oversight topic with no figures.",
+      "reason": "Level 3: on top of large employee development (E1), the report shows measured community investment: about $529.9M in down payment and closing cost grants and a roughly $2B CDFI portfolio. That is substantial reach shown by dollar indicators, but it isn't shown as central to strategy and there's no external education program, so it doesn't reach 4.",
       "flags": [],
-      "coverage_trigger": "ai"
+      "coverage_trigger": "ai",
+      "score_from_10k": 2,
+      "rescored_from_report": true
     },
     "cross_cultural": {
       "ai_score": 3,
@@ -77,19 +81,24 @@
   },
   "scores": {
     "creativity": 0,
-    "community": 2,
+    "community": 3,
     "cross_cultural": 3,
     "entrepreneurship": 1
   },
   "coverage": {
     "creativity": "sufficient",
-    "community": "insufficient",
+    "community": "sufficient",
     "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 27.0,
-  "original_10k_scores": null,
-  "original_10k_final": null,
+  "final_score": 33.0,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 3,
+    "entrepreneurship": 1
+  },
+  "original_10k_final": 27.0,
   "evidence": [
     {
       "id": "E1",
@@ -188,13 +197,62 @@
       "source_doc": "10-K",
       "verified": true,
       "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Internal training and development for employees through Bank of America Academy, alongside internal mobility support",
+      "quote": "we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy",
+      "section": "Item 1 > Human Capital Resources > Talent, Inclusion and Opportunity",
+      "status": "current",
+      "indicators": "7.6 million training hours in 2025; more than 14,000 employees found new roles internally; about 213,000 employees",
+      "themes": {
+        "community": "employee development (training the company's own staff, large scale)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "Down payment and closing cost grants to homebuyers, including low- and moderate-income (LMI) households",
+      "quote": "Down payment and closing cost grants (to date since 2019) $ (millions) $529.9",
+      "section": "Metrics & Targets > Supporting the Communities We Serve > Affordable housing (p. 45)",
+      "status": "current",
+      "indicators": "$529.9 million in grants, cumulative since 2019; 50,745 individuals and families supported with affordable home lending, down payment and closing cost grants since 2019 (a combined figure that includes lending)",
+      "themes": {
+        "community": "community investment (grants to people in communities, with dollars and reach disclosed)"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Portfolio of financing and investment in Community Development Financial Institutions (CDFIs), which are mission-driven community lenders",
+      "quote": "CDFI portfolio (approximate size) $ (billions) $2",
+      "section": "Metrics & Targets > Supporting the Communities We Serve > Housing, health care and education (p. 45)",
+      "status": "current",
+      "indicators": "about $2 billion CDFI portfolio (2024)",
+      "themes": {
+        "community": "community investment (partnership and investment with community development organizations, with dollars disclosed)"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
     }
   ],
   "notes": "Community coverage is marked insufficient because the 10-K covers external community investment only as a governance oversight topic (charitable contributions, community reinvestment) and refers readers to the website and 2025 Annual Report for human capital details, so this triggers the automated sustainability-report second look. The filing does not describe the focus or membership groups of the 11 Employee Networks, only that they are open to all employees and fall under the Talent, Inclusion and Opportunity heading. Score 3 follows the rubric's treatment of employee networks with membership figures and should be confirmed in the second look. Excluded as traps or non-activities: 'Community Reinvestment Act ratings' (regulatory eligibility condition), 'Government and public education' (a credit exposure category), cybersecurity training for employees (compliance-type training), 'Risk Framework serves as the foundation' (not a charitable foundation), and international operations. The small business loan table units are not shown in the excerpt. Minimum wage, healthcare premiums, counseling and sabbatical benefits are current employee benefits but do not meet any theme's criteria.",
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 1129,
-  "score_source": "10-K",
-  "report_url": "",
-  "second_look": null
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://about.bankofamerica.com/content/dam/about/report-center/esg/2025/SustainabilityatBofA2025_WCAG2.2_121625.pdf",
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://about.bankofamerica.com/content/dam/about/report-center/esg/2025/SustainabilityatBofA2025_WCAG2.2_121625.pdf",
+    "report_year": 2025,
+    "themes": [
+      "community"
+    ]
+  }
 }

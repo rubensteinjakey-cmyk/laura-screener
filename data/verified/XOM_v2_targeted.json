@@ -25,32 +25,74 @@
       "coverage_trigger": ""
     },
     "community": {
-      "ai_score": 1,
-      "score": 1,
-      "coverage": "insufficient",
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
       "evidence_ids": [
-        "E1"
+        "SL-E1",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7",
+        "SL-E8",
+        "SL-E9",
+        "SL-E10",
+        "SL-E11",
+        "SL-E12",
+        "SL-E14",
+        "SL-E15",
+        "SL-E16",
+        "SL-E17"
       ],
       "valid_evidence_ids": [
-        "E1"
+        "SL-E1",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7",
+        "SL-E8",
+        "SL-E9",
+        "SL-E10",
+        "SL-E11",
+        "SL-E12",
+        "SL-E14",
+        "SL-E15",
+        "SL-E16",
+        "SL-E17"
       ],
-      "reason": "Level 1: only a general description of internal talent development, with no named program, no figures and no external education or community investment; torn between 1 and 2, so the lower level applies.",
+      "reason": "Level 3: several named current external education and community investment programs with substantial disclosed dollars and participants (GGI $100M, Imperial ~$19M CBAs, $10M Be Well grant, ~2,000 farmers, $750K+ STEM grants); these are site-level and not shown as central to strategy, so not 4.",
       "flags": [],
-      "coverage_trigger": "ai+code"
+      "coverage_trigger": "ai+code",
+      "score_from_10k": 1,
+      "rescored_from_report": true
     },
     "cross_cultural": {
-      "ai_score": 1,
-      "score": 1,
-      "coverage": "insufficient",
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
       "evidence_ids": [
-        "E2"
+        "SL-E2",
+        "SL-E15",
+        "SL-E17",
+        "SL-E18",
+        "SL-E19",
+        "SL-E20"
       ],
       "valid_evidence_ids": [
-        "E2"
+        "SL-E2",
+        "SL-E15",
+        "SL-E17",
+        "SL-E18",
+        "SL-E19",
+        "SL-E20"
       ],
-      "reason": "Level 1: workforce nationality statistics and a general diversity statement only, with no specific inclusion activity.",
+      "reason": "Level 3: Imperial's Indigenous inclusion work is a specific current activity with substantial measured reach (>$1B Indigenous business spend in 2025, ~$19M community benefits agreements); it is an affiliate program, not a major part of the business, so not 4.",
       "flags": [],
-      "coverage_trigger": "ai+code"
+      "coverage_trigger": "ai+code",
+      "score_from_10k": 1,
+      "rescored_from_report": true
     },
     "entrepreneurship": {
       "ai_score": 0,
@@ -65,19 +107,24 @@
   },
   "scores": {
     "creativity": 0,
-    "community": 1,
-    "cross_cultural": 1,
+    "community": 3,
+    "cross_cultural": 3,
     "entrepreneurship": 0
   },
   "coverage": {
     "creativity": "sufficient",
-    "community": "insufficient",
-    "cross_cultural": "insufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 10.0,
-  "original_10k_scores": null,
-  "original_10k_final": null,
+  "final_score": 30.0,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "original_10k_final": 10.0,
   "evidence": [
     {
       "id": "E1",
@@ -106,13 +153,303 @@
       "source_doc": "10-K",
       "verified": true,
       "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Career-long training and development of the company's own employees",
+      "quote": "Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle.",
+      "section": "Item 1 > Business (talent development)",
+      "status": "current",
+      "indicators": "58 thousand regular employees; average service about 30 years",
+      "themes": {
+        "community": "employee development"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "Workforce nationality and geographic mix statement",
+      "quote": "With over 59 percent of our global employees from outside the U.S. and more than 160 nationalities represented across the Company",
+      "section": "Item 1 > Business (talent development)",
+      "status": "current",
+      "indicators": "59% of employees outside U.S.; 160+ nationalities",
+      "themes": {
+        "cross_cultural": "demographic disclosure only (max 1)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Beaumont contributions to local schools for supplies, technology, STEM events and scholarships",
+      "quote": "Over $355,000 in contributions to local education providers in 2025 to",
+      "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+      "status": "current",
+      "indicators": "$355,000+ in 2025",
+      "themes": {
+        "community": "community investment in local education with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "409 Energy Scholars two-week STEM immersion and mentoring for high-school seniors",
+      "quote": "Mentoring more than 70 high-school seniors in our 409 Energy Scholars",
+      "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+      "status": "current",
+      "indicators": "70+ students since 2022",
+      "themes": {
+        "community": "named external education program with participants"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E5",
+      "activity": "Teacher externship with Workforce Solutions of Southeast Texas",
+      "quote": "Collaborating with Workforce Solutions of Southeast Texas in 2025 to",
+      "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+      "status": "current",
+      "indicators": "10 teachers, four-day externship",
+      "themes": {
+        "community": "external education partnership, limited reach"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E6",
+      "activity": "$10 million, 10-year grant to MD Anderson for Be Well Beaumont community health initiative",
+      "quote": "Announcing 10-year, $10 million grant from ExxonMobil to the University",
+      "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+      "status": "current",
+      "indicators": "$10 million over 10 years, announced 2025",
+      "themes": {
+        "community": "community investment with dollars committed"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E7",
+      "activity": "Scholarship for fenceline-neighborhood high-school graduates to study process technology at Lamar Institute of Technology",
+      "quote": "In early 2025, ExxonMobil Beaumont announced a scholarship for",
+      "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+      "status": "current",
+      "indicators": "none disclosed (covers two-year course load)",
+      "themes": {
+        "community": "external education scholarship"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E8",
+      "activity": "GCGV Good Neighbor Program STEM education grants near Corpus Christi",
+      "quote": "More than $750,000 in STEM education grants from ExxonMobil and the",
+      "section": "Report > Managing socioeconomic impacts > Community engagement (GCGV Good Neighbor Program)",
+      "status": "current",
+      "indicators": "$750,000+ in 2025",
+      "themes": {
+        "community": "named community investment program with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E9",
+      "activity": "GCGV paid internships including Del Mar College Process Technology Internship Program",
+      "quote": "26 paid interns, including 20 in the second annual Process Technology",
+      "section": "Report > Managing socioeconomic impacts > Community engagement (GCGV Good Neighbor Program)",
+      "status": "current",
+      "indicators": "26 interns in 2024",
+      "themes": {
+        "community": "external education / internships with participants"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E10",
+      "activity": "GCGV donations to United Way of the Coastal Bend and local environmental groups",
+      "quote": "$237,000 in total contributions to United Way of the Coastal Bend, and",
+      "section": "Report > Managing socioeconomic impacts > Community engagement (GCGV Good Neighbor Program)",
+      "status": "current",
+      "indicators": "$237,000 to United Way plus $125,000 to environmental organizations (2024)",
+      "themes": {
+        "community": "community investment with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E11",
+      "activity": "Greater Guyana Initiative funding community-identified capacity projects (e.g., water tanks, solar lights)",
+      "quote": "The Greater Guyana Initiative (GGI) is a ten-year, $100 million",
+      "section": "Report > Managing socioeconomic impacts > Spotlight: The Greater Guyana Initiative",
+      "status": "current",
+      "indicators": "$100 million over ten years (with coventurers); 200 household water tanks, 200 solar LED lights",
+      "themes": {
+        "community": "large named community investment with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E12",
+      "activity": "Hinterland Poultry Project building a hatchery and training local farmers in Guyana",
+      "quote": "hatchery and supported nearly 2,000 farmers, including women",
+      "section": "Report > Managing socioeconomic impacts > Spotlight: The Greater Guyana Initiative",
+      "status": "current",
+      "indicators": "GY$120 million project; ~2,000 farmers; 25,000+ chicks; 350,000+ eggs",
+      "themes": {
+        "community": "community investment and producer skills-building with participants"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E13",
+      "activity": "Guyana STEM Initiative: teacher training, STEM centres and college pathways",
+      "quote": "The Guyana STEM Initiative is a $100 million, 10 -year education program",
+      "section": "Report > Local economic development > Building the talent pipeline in Guyana",
+      "status": "planned",
+      "indicators": "$100 million over 10 years; teacher training begins Sept 2026; first STEM Centre 2029",
+      "themes": {
+        "community": "external education (planned, context only)"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E14",
+      "activity": "MozUp Enterprise Development Center training and mentoring Mozambican businesses",
+      "quote": "in Maputo, Mozambique, in 2020, to offer training, advisory, and",
+      "section": "Report > Local economic development > Spotlight: Fostering Local Supplier Development with MozUp",
+      "status": "current",
+      "indicators": "two offices (Maputo, Pemba); no participant count disclosed",
+      "themes": {
+        "community": "named external education/mentoring program"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E15",
+      "activity": "ExxonMobil Foundation-funded Cherie Blair Foundation business and finance training for women entrepreneurs in Nigeria and Guyana",
+      "quote": "program supports local women entrepreneurs",
+      "section": "Report > Local economic development > Spotlight: Supporting women entrepreneurs",
+      "status": "current",
+      "indicators": "outcome percentages only (e.g., 79-95% reported revenue increases); no participant count",
+      "themes": {
+        "community": "named external education program",
+        "cross_cultural": "program serving an underrepresented group, no reach figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E16",
+      "activity": "Huizhou community footbridge with elevators for elderly residents, co-planned with local communities",
+      "quote": "footbridge. The bridge includes elevators to",
+      "section": "Report > Community health, safety, and security > Spotlight: Road safety in China",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "single community infrastructure investment, limited reach"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E17",
+      "activity": "Imperial community benefits agreements with Indigenous communities in Canada",
+      "quote": "Committed nearly $19 million through community benefits",
+      "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+      "status": "current",
+      "indicators": "nearly $19 million in 2025",
+      "themes": {
+        "community": "community investment with dollars",
+        "cross_cultural": "investment in Indigenous communities with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E18",
+      "activity": "Imperial procurement from Indigenous businesses",
+      "quote": "Surpassed $7 billion in spending with Indigenous businesses since",
+      "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+      "status": "current",
+      "indicators": "$7 billion+ since 2008; more than $1 billion in 2025",
+      "themes": {
+        "cross_cultural": "removing barriers for Indigenous businesses, with substantial measured reach"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E19",
+      "activity": "Imperial connecting Indigenous and non-Indigenous suppliers as a CCIB procurement champion",
+      "quote": "Imperial has worked to connect Indigenous and non-Indigenous",
+      "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+      "status": "current",
+      "indicators": "none disclosed separately",
+      "themes": {
+        "cross_cultural": "connecting communities"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E20",
+      "activity": "Imperial cultural awareness training for employees and growing Indigenous workforce representation",
+      "quote": "workforce and enhancing cultural awareness and understanding for its",
+      "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": "internal practice, no figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
     }
   ],
   "notes": "Human capital disclosure is a few general sentences, and the Item 7 excerpts contain no qualifying community or inclusion content, so Community and Cross-cultural coverage is insufficient. This triggers the automated second look using the company's latest sustainability report. Trap terms excluded: 'foundation' in Item 7 refers to the Global Outlook as the foundation for Corporate Plan assumptions, not a charitable foundation. ProxximaTM resin systems and carbon materials are industrial products, not creative work. The company's own research programs and over 8 thousand patents are its own innovation. The ladder places own innovation at level 1, but it does not enable other ventures and the 'innovation' trap applies, so I chose the lower level and Entrepreneurship is 0. For Community, the 30-year average service figure measures retention, not the reach of a development program.",
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 0,
-  "score_source": "10-K",
-  "report_url": "",
-  "second_look": null
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://corporate.exxonmobil.com/-/media/global/files/sustainability-report/2026/2026-sustainability-report.pdf",
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://corporate.exxonmobil.com/-/media/global/files/sustainability-report/2026/2026-sustainability-report.pdf",
+    "report_year": 2026,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

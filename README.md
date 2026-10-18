@@ -130,7 +130,7 @@ python src/overlap_check.py --a maya --b maya_repeat
    text in `data/sections/{TICKER}/` with `rubric.md`, and fills in a 0–5
    score and coverage (`sufficient`/`insufficient`) for each theme, **without
    looking at** `output/`, `data/scores/` or `data/verified/`.
-3. `python src/blind_check.py compare blind_check_maya.csv --run-id jakey`
+3. `python src/blind_check.py compare blind_check_maya.csv --run-id jakey --tenk-only`
    shows where the human and the AI agree (same rule as the overlap check).
 
 ## Outputs

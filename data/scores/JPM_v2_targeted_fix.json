@@ -1,0 +1,166 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase & Co.",
+  "sector": "Financials",
+  "run_id": "v2_targeted_fix",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-008131",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T22:28:00",
+  "prompt_chars": 63111,
+  "filing_chars": 47344,
+  "filing_words_sent": 7002,
+  "approx_prompt_tokens": 15777,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Voluntary training programs and educational resources offered to all employees",
+        "quote": "The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as leadership and management, artificial intelligence, data literacy and operational and professional skills.",
+        "section": "Item 1 > Human capital > Developing employees",
+        "status": "current",
+        "indicators": "none disclosed (318,512 employees eligible)",
+        "themes": {
+          "community": "employee development: training for the company's own staff"
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Leadership Edge, a named firmwide leadership and management development center",
+        "quote": "Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.",
+        "section": "Item 1 > Human capital > Developing employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development: named internal leadership program"
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Internship training programs for students as part of recruitment",
+        "quote": "These opportunities range from internship training programs for students to entry-level, management and executive careers.",
+        "section": "Item 1 > Human capital > Attracting and retaining employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development: recruitment and training pipeline, with no participant figures"
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Tuition assistance and financial education offered as employee benefits",
+        "quote": "child care access and support, tuition assistance, and financial education.",
+        "section": "Item 1 > Human capital > Rewarding and supporting employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development: education benefits for staff"
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "$1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation, made in FY2024",
+        "quote": "as well as the absence of a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024.",
+        "section": "Item 7 > Executive overview > Noninterest expense",
+        "status": "past",
+        "indicators": "$1.0 billion (Q2 2024; not repeated in 2025)",
+        "themes": {
+          "community": "community investment, past only; recorded for context and does not raise the score"
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Disclosure of workforce demographics, including LGBTQ+, veteran and disability status",
+        "quote": "The following table presents information based on voluntary self-identifications by the Firm’s employees, including members of the Firm’s Operating Committee and other senior level employees, as well as members of the Board of Directors, as of December 31, 2025.",
+        "section": "Item 1 > Human capital > Workforce composition",
+        "status": "current",
+        "indicators": "e.g., Hispanic 22%, Asian 20%, Black 13% of U.S. employees; women 48%; LGBTQ+ 4%; people with disabilities 5%",
+        "themes": {
+          "cross_cultural": "demographic statistics only, a disclosure rather than an activity"
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Banking products and services for small businesses through CCB (Business Banking)",
+        "quote": "Consumer & Community Banking offers products and services to consumers and small businesses through bank branches, ATMs, digital (including mobile and online) and telephone banking.",
+        "section": "Item 7 > Consumer & Community Banking",
+        "status": "current",
+        "indicators": "7.4 million CCB small business customers",
+        "themes": {
+          "entrepreneurship": "serving small businesses as customers, with no specific enabling program described"
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "New and renewed credit extended to U.S. small businesses",
+        "quote": "Credit for U.S. small businesses",
+        "section": "Item 7 > Executive overview > Credit provided and capital raised",
+        "status": "current",
+        "indicators": "approximately $33 billion in 2025",
+        "themes": {
+          "entrepreneurship": "standard lending to small-business customers, with no startup financing or barrier-lowering program described"
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes the business fully and shows no creating or enabling of creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: all current activities are employee development, so the score is capped at 2; the only external community investment (the Foundation gift) is past."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: only workforce demographic statistics and general 'inclusive work environment' language, with no specific internal, customer-access or community program described."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 1: the company serves many small-business customers and lends to them, but describes no specific enabling program such as startup financing, grants or accelerators."
+      }
+    },
+    "notes": "The JPMorgan Chase Foundation $1.0B Visa-share contribution (E5) was made in Q2 2024; the FY2025 MD&A cites it only as a prior-year item, so it is recorded as past and not scored. The Public Responsibility Committee's oversight of 'community investment' is governance language with no activity described, so it was not scored. Client fraud 'education and awareness trainings' is a risk control or customer-education item and was not counted. Required Code of Conduct and compliance training count as compliance training only. Lending to small businesses (~$33B; 7.4M customers) was treated as serving rather than enabling, choosing the lower level when torn. The Item 7 text is targeted excerpts only. Community and Cross-cultural coverage is marked insufficient because the 10-K barely discusses external community programs or inclusion practices beyond demographics, which triggers the automated second look with the company's sustainability report.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted MD&A excerpts)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"JPM\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted MD&A excerpts)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Voluntary training programs and educational resources offered to all employees\",\"quote\":\"The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as leadership and management, artificial intelligence, data literacy and operational and professional skills.\",\"section\":\"Item 1 > Human capital > Developing employees\",\"status\":\"current\",\"indicators\":\"none disclosed (318,512 employees eligible)\",\"themes\":{\"community\":\"employee development: training for the company's own staff\"}},{\"id\":\"E2\",\"activity\":\"Leadership Edge, a named firmwide leadership and management development center\",\"quote\":\"Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.\",\"section\":\"Item 1 > Human capital > Developing employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development: named internal leadership program\"}},{\"id\":\"E3\",\"activity\":\"Internship training programs for students as part of recruitment\",\"quote\":\"These opportunities range from internship training programs for students to entry-level, management and executive careers.\",\"section\":\"Item 1 > Human capital > Attracting and retaining employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development: recruitment and training pipeline, with no participant figures\"}},{\"id\":\"E4\",\"activity\":\"Tuition assistance and financial education offered as employee benefits\",\"quote\":\"child care access and support, tuition assistance, and financial education.\",\"section\":\"Item 1 > Human capital > Rewarding and supporting employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development: education benefits for staff\"}},{\"id\":\"E5\",\"activity\":\"$1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation, made in FY2024\",\"quote\":\"as well as the absence of a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024.\",\"section\":\"Item 7 > Executive overview > Noninterest expense\",\"status\":\"past\",\"indicators\":\"$1.0 billion (Q2 2024; not repeated in 2025)\",\"themes\":{\"community\":\"community investment, past only; recorded for context and does not raise the score\"}},{\"id\":\"E6\",\"activity\":\"Disclosure of workforce demographics, including LGBTQ+, veteran and disability status\",\"quote\":\"The following table presents information based on voluntary self-identifications by the Firm’s employees, including members of the Firm’s Operating Committee and other senior level employees, as well as members of the Board of Directors, as of December 31, 2025.\",\"section\":\"Item 1 > Human capital > Workforce composition\",\"status\":\"current\",\"indicators\":\"e.g., Hispanic 22%, Asian 20%, Black 13% of U.S. employees; women 48%; LGBTQ+ 4%; people with disabilities 5%\",\"themes\":{\"cross_cultural\":\"demographic statistics only, a disclosure rather than an activity\"}},{\"id\":\"E7\",\"activity\":\"Banking products and services for small businesses through CCB (Business Banking)\",\"quote\":\"Consumer & Community Banking offers products and services to consumers and small businesses through bank branches, ATMs, digital (including mobile and online) and telephone banking.\",\"section\":\"Item 7 > Consumer & Community Banking\",\"status\":\"current\",\"indicators\":\"7.4 million CCB small business customers\",\"themes\":{\"entrepreneurship\":\"serving small businesses as customers, with no specific enabling program described\"}},{\"id\":\"E8\",\"activity\":\"New and renewed credit extended to U.S. small businesses\",\"quote\":\"Credit for U.S. small businesses\",\"section\":\"Item 7 > Executive overview > Credit provided and capital raised\",\"status\":\"current\",\"indicators\":\"approximately $33 billion in 2025\",\"themes\":{\"entrepreneurship\":\"standard lending to small-business customers, with no startup financing or barrier-lowering program described\"}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes the business fully and shows no creating or enabling of creative work.\"},\"community\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: all current activities are employee development, so the score is capped at 2; the only external community investment (the Foundation gift) is past.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: only workforce demographic statistics and general 'inclusive work environment' language, with no specific internal, customer-access or community program described.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\",\"E8\"],\"reason\":\"Level 1: the company serves many small-business customers and lends to them, but describes no specific enabling program such as startup financing, grants or accelerators.\"}},\"notes\":\"The JPMorgan Chase Foundation $1.0B Visa-share contribution (E5) was made in Q2 2024; the FY2025 MD&A cites it only as a prior-year item, so it is recorded as past and not scored. The Public Responsibility Committee's oversight of 'community investment' is governance language with no activity described, so it was not scored. Client fraud 'education and awareness trainings' is a risk control or customer-education item and was not counted. Required Code of Conduct and compliance training count as compliance training only. Lending to small businesses (~$33B; 7.4M customers) was treated as serving rather than enabling, choosing the lower level when torn. The Item 7 text is targeted excerpts only. Community and Cross-cultural coverage is marked insufficient because the 10-K barely discusses external community programs or inclusion practices beyond demographics, which triggers the automated second look with the company's sustainability report.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 22209,
+      "output_tokens": 5612,
+      "duration_ms": 54126
+    }
+  ]
+}

@@ -11,7 +11,9 @@ seeing the AI's scores, then we compare. No AI usage.
    data/scores/ or data/verified/ while scoring.
 
 2) Compare the filled sheet with the AI's verified results:
-     python src/blind_check.py compare blind_check_maya.csv --run-id jakey
+     python src/blind_check.py compare blind_check_maya.csv --run-id jakey --tenk-only
+   (--tenk-only: compare with the AI's 10-K-only scores, since the hand
+   scorer didn't read the sustainability reports)
    -> prints the comparison and saves output/blind_check_comparison.csv
    AGREE = final scores within 5 points and no theme more than 1 apart
    (the same rule as overlap_check.py).
@@ -44,7 +46,7 @@ def make(tickers):
     print(f"Wrote {path.relative_to(OUTPUT.parent)} with {len(rows)} companies (no AI scores in it).")
 
 
-def compare(sheet, run_id):
+def compare(sheet, run_id, tenk_only=False):
     with open(sheet, encoding="utf-8-sig") as f:
         human = [r for r in csv.DictReader(f) if r.get("ticker")]
     out, agree, n = [], 0, 0
@@ -64,6 +66,9 @@ def compare(sheet, run_id):
             print(f"{t:<7} scores must be 0-5")
             continue
         ai = read_json(vpath)
+        if tenk_only and ai.get("original_10k_scores"):
+            ai["scores"] = ai["original_10k_scores"]
+            ai["final_score"] = final_score(ai["scores"])
         hf, af = final_score(hs), ai["final_score"]
         fd = round(abs(hf - af), 1)
         td = {th: abs(hs[th] - ai["scores"][th]) for th in THEMES}
@@ -105,11 +110,14 @@ def main():
     c = sub.add_parser("compare", help="compare a filled sheet with AI results")
     c.add_argument("sheet")
     c.add_argument("--run-id", required=True)
+    c.add_argument("--tenk-only", action="store_true",
+                   help="compare with the AI's 10-K scores from before any "
+                        "sustainability-report rescoring (the hand scorer only read the 10-K)")
     a = p.parse_args()
     if a.cmd == "make":
         make({x.strip().upper() for x in a.tickers.split(",") if x.strip()})
     else:
-        compare(Path(a.sheet), a.run_id)
+        compare(Path(a.sheet), a.run_id, a.tenk_only)
 
 
 if __name__ == "__main__":

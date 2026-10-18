@@ -34,8 +34,18 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--a", required=True, help="first run_id")
     p.add_argument("--b", required=True, help="second run_id")
+    p.add_argument("--tenk-only", action="store_true",
+                   help="compare the 10-K scores from before any sustainability-report "
+                        "rescoring (use when only one run had a second look)")
     args = p.parse_args()
     A, B = load(args.a), load(args.b)
+    if args.tenk_only:
+        from verify import final_score
+        for runs in (A, B):
+            for r in runs.values():
+                if r.get("original_10k_scores"):
+                    r["scores"] = r["original_10k_scores"]
+                    r["final_score"] = final_score(r["scores"])
     common_t = sorted(set(A) & set(B))
     if not common_t:
         raise SystemExit(f"No companies scored in both '{args.a}' and '{args.b}'.")

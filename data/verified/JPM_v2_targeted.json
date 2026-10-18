@@ -25,38 +25,72 @@
       "coverage_trigger": ""
     },
     "community": {
-      "ai_score": 2,
-      "score": 2,
-      "coverage": "insufficient",
+      "ai_score": 4,
+      "score": 4,
+      "coverage": "sufficient",
       "evidence_ids": [
-        "E1",
-        "E2",
-        "E3",
-        "E4"
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7",
+        "SL-E8",
+        "SL-E9",
+        "SL-E10",
+        "SL-E11",
+        "SL-E12",
+        "SL-E13"
       ],
       "valid_evidence_ids": [
-        "E1",
-        "E2",
-        "E3",
-        "E4"
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7",
+        "SL-E8",
+        "SL-E9",
+        "SL-E10",
+        "SL-E11",
+        "SL-E12",
+        "SL-E13"
       ],
-      "reason": "Level 2: current activity is mainly employee development (training, Leadership Edge, tuition assistance), plus a student internship program with no reach figures, and the only community investment cited (the Foundation gift) is from 2024.",
+      "reason": "Level 4: very large, measured external education and community investment built into operations, including Community Managers in all 48 contiguous states running 19,000+ events (about 1 million workshop attendees since 2021), 80,000 employee volunteers giving 580,000 hours, and $130M+ in 2025 philanthropic commitments; it goes well beyond employee development.",
       "flags": [],
-      "coverage_trigger": "ai"
+      "coverage_trigger": "ai",
+      "score_from_10k": 2,
+      "rescored_from_report": true
     },
     "cross_cultural": {
-      "ai_score": 1,
-      "score": 1,
-      "coverage": "insufficient",
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
       "evidence_ids": [
-        "E6"
+        "SL-E15",
+        "SL-E16",
+        "SL-E17",
+        "SL-E18",
+        "SL-E19",
+        "SL-E20",
+        "SL-E21"
       ],
       "valid_evidence_ids": [
-        "E6"
+        "SL-E15",
+        "SL-E16",
+        "SL-E17",
+        "SL-E18",
+        "SL-E19",
+        "SL-E20",
+        "SL-E21"
       ],
-      "reason": "Level 1: only workforce demographic statistics and general 'inclusive work environment' language, with no employee networks, accessibility or customer-access programs described.",
+      "reason": "Level 3: specific current activities with substantial measured reach (14 BRGs with nearly 200,000 members, 3 million low-cost Secure Banking accounts, 8,000 homebuyer grants in targeted tracts), but access for underserved customers is not a major business line on its own, so level 4 is not met.",
       "flags": [],
-      "coverage_trigger": "ai"
+      "coverage_trigger": "ai",
+      "score_from_10k": 1,
+      "rescored_from_report": true
     },
     "entrepreneurship": {
       "ai_score": 1,
@@ -75,19 +109,24 @@
   },
   "scores": {
     "creativity": 0,
-    "community": 2,
-    "cross_cultural": 1,
+    "community": 4,
+    "cross_cultural": 3,
     "entrepreneurship": 1
   },
   "coverage": {
     "creativity": "sufficient",
-    "community": "insufficient",
-    "cross_cultural": "insufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 19.0,
-  "original_10k_scores": null,
-  "original_10k_final": null,
+  "final_score": 39.0,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "original_10k_final": 19.0,
   "evidence": [
     {
       "id": "E1",
@@ -186,13 +225,315 @@
       "source_doc": "10-K",
       "verified": true,
       "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Community Centers and Community Managers run free financial health workshops and community events, mostly outside branches (schools, nonprofits)",
+      "quote": "Community Managers hosted over 19,000 community events, with over 70% of these",
+      "section": "Report > Financial health and wealth creation > Access to mainstream financial services",
+      "status": "current",
+      "indicators": "19 Community Centers, 160+ Community Managers covering all 48 contiguous states; 19,000+ events in 2025; 48,000+ workshops reaching almost 1 million attendees since 2021",
+      "themes": {
+        "community": "external education: named, measured financial-education program with very large reach"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "Coaching for Impact program gives small business owners one-on-one coaching, community workshops and business training seminars",
+      "quote": "Consultants have coached more than 10,000 small businesses in communities across",
+      "section": "Report > Business growth and entrepreneurship > Creating opportunities for business growth",
+      "status": "current",
+      "indicators": "~80 Senior Business Consultants in 45 cities; 10,000+ small businesses coached in 2025",
+      "themes": {
+        "community": "external education: named skills and training program with participant figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Tech for Social Good skills-based volunteering builds nonprofit tech capacity and teaches tech skills to youth",
+      "quote": "approximately 4,000 employees contributed more than 175,000 hours, helping",
+      "section": "Report > Human capital > Employee volunteerism and community support",
+      "status": "current",
+      "indicators": "~4,000 employees, 175,000+ hours, ~350 organizations, 35,000+ youth and students",
+      "themes": {
+        "community": "external education and community investment: named program with participants and hours"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "Firm-wide employee volunteer program with paid volunteer time",
+      "quote": "Eligible employees may use paid time off to participate in",
+      "section": "Report > Human capital > Employee volunteerism and community support",
+      "status": "current",
+      "indicators": "~580,000 volunteer hours, ~80,000 employee volunteers, ~7,200 volunteer events in 2025",
+      "themes": {
+        "community": "community investment: volunteering with figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E5",
+      "activity": "Board Placement/Board Match and workplace giving match programs for nonprofits, plus disaster relief giving",
+      "quote": "In 2025, the Firm matched approximately $2.7 million in",
+      "section": "Report > Human capital > Employee volunteerism and community support",
+      "status": "current",
+      "indicators": "$2.7M board-service match; ~18,500 employees' donations matched; ~$6M disaster relief in 2025",
+      "themes": {
+        "community": "community investment: dollars to nonprofits"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E6",
+      "activity": "Philanthropic funding to Bournemouth (U.K.) nonprofits that help young people build skills and reach careers",
+      "quote": "announced £3.5 million in philanthropic funding over five years to local nonprofit",
+      "section": "Report > Human capital > Uplifting talent in our communities",
+      "status": "current",
+      "indicators": "£3.5 million over five years, announced 2025",
+      "themes": {
+        "community": "external education: youth skills funding with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E7",
+      "activity": "Buenos Aires youth workforce initiative with nonprofits, municipalities and employers (skills training, work-based learning)",
+      "quote": "announcing $6 million in philanthropic support in 2025 aimed at connecting",
+      "section": "Report > Human capital > Uplifting talent in our communities",
+      "status": "current",
+      "indicators": "$6 million announced in 2025",
+      "themes": {
+        "community": "external education: youth skills program with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E8",
+      "activity": "New Skills Ready Network partners with educators, employers and policymakers to strengthen youth career pathways",
+      "quote": "Through the New Skills Ready Network, JPMorganChase works with educators,",
+      "section": "Report > Human capital > Uplifting talent in our communities",
+      "status": "current",
+      "indicators": "six named U.S. cities; no participant figures disclosed",
+      "themes": {
+        "community": "external education: named partnership with schools and educators"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E9",
+      "activity": "Apprenticeship programs (U.K. four-year degree apprenticeship, Singapore one-year diploma apprenticeship) open to non-university entrants",
+      "quote": "Our U.K. Apprenticeship Program is a key part of JPMorganChase’s approach to",
+      "section": "Report > Human capital > Uplifting talent in our communities",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "external education: apprenticeships"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E10",
+      "activity": "Co-founded and supports the Veteran Jobs Mission employer coalition for veteran and military-spouse hiring",
+      "quote": "JPMorganChase co-founded the Veteran Jobs Mission in 2011 to expand career",
+      "section": "Report > Human capital > Removing barriers to employment",
+      "status": "current",
+      "indicators": "300+ member companies; coalition passed 1 million veteran hires in 2025; ~21,000 veterans hired by JPM since 2011",
+      "themes": {
+        "community": "community collaboration: named multi-employer coalition with figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E11",
+      "activity": "Philanthropic capital to CDFIs and local organizations for small business technical assistance and lending",
+      "quote": "In 2025, we committed more than $90 million in philanthropic capital to help",
+      "section": "Report > Business growth and entrepreneurship > Expanding access to capital and core banking services",
+      "status": "current",
+      "indicators": "$90M+ committed in 2025",
+      "themes": {
+        "community": "community investment: grants and partnerships with dollars"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E12",
+      "activity": "Philanthropic capital to nonprofits expanding and preserving affordable housing",
+      "quote": "In 2025, the Firm committed $40 million in philanthropic capital to",
+      "section": "Report > Housing access and affordability",
+      "status": "current",
+      "indicators": "$40M in 2025; $490M+ from 2021 to 2025 contributing to 90,000 homes",
+      "themes": {
+        "community": "community investment: dollars to nonprofits"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E13",
+      "activity": "Leadership Edge manager development, training catalog and Education Benefit Program for employees",
+      "quote": "more than 23,000 managers and executives participated in Leadership",
+      "section": "Report > Human capital > Developing leaders and managing talent",
+      "status": "current",
+      "indicators": "23,000+ Leadership Edge participants; 8.6 million digital courses completed in 2025",
+      "themes": {
+        "community": "employee development"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E14",
+      "activity": "One-time contribution of Visa shares to the JPMorgan Chase Foundation",
+      "quote": "as well as the absence of a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024.",
+      "section": "Item 7 > Overview / Financial performance",
+      "status": "past",
+      "indicators": "$1.0 billion (2024)",
+      "themes": {
+        "community": "community investment (past, context only)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E15",
+      "activity": "Business Resource Groups (employee networks open to all) with senior-leader sponsors",
+      "quote": "participate as members of one or more of our 14 BRGs across more than 350",
+      "section": "Report > Human capital > Driving a culture of inclusion",
+      "status": "current",
+      "indicators": "14 BRGs, 350+ chapters, nearly 200,000 employee members",
+      "themes": {
+        "cross_cultural": "internal practice: employee networks with membership figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E16",
+      "activity": "Virtual call center program hires in areas with limited access to call center jobs, including military spouses and bilingual talent",
+      "quote": "mobility constraints, including for military spouses and bilingual talent.",
+      "section": "Report > Human capital > Removing barriers to employment",
+      "status": "current",
+      "indicators": "450+ jobs created",
+      "themes": {
+        "cross_cultural": "internal practice: barrier-removing hiring with figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E17",
+      "activity": "Second Chance Agenda hiring of people with criminal records and encouraging other employers to do the same",
+      "quote": "Our Second Chance Agenda strives to remove barriers to employment and provide",
+      "section": "Report > Human capital > Removing barriers to employment",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": "internal practice: removing barriers for an underrepresented group"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E18",
+      "activity": "Chase Secure Banking: low-cost, no-overdraft-fee, Bank On certified account for people entering mainstream banking",
+      "quote": "Since launching in 2019, we have opened approximately 3 million",
+      "section": "Report > Financial health and wealth creation > Access to mainstream financial services",
+      "status": "current",
+      "indicators": "~3 million accounts since 2019; customers report saving >$45/month in fees",
+      "themes": {
+        "cross_cultural": "customer access: product built for underserved customers, with measured reach"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E19",
+      "activity": "Cash-flow underwriting to give credit to customers with no or thin credit history",
+      "quote": "based on cash flow underwriting that leverages customer deposit data.",
+      "section": "Report > Financial health and wealth creation > Improving financial stability and resilience",
+      "status": "current",
+      "indicators": "credit cards approved for 100,000+ new-to-credit customers, 2021–2025",
+      "themes": {
+        "cross_cultural": "customer access: serving underserved customers"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E20",
+      "activity": "Chase Homebuyer Grant for buyers in select census tracts, as part of lending to LMI and minority communities",
+      "quote": "The Chase Homebuyer Grant offers up to $5,000 to customers purchasing homes in",
+      "section": "Report > Housing access and affordability",
+      "status": "current",
+      "indicators": "~8,000 grants totaling ~$36M in 2025; ~65% of 82,000+ funded home loans went to LMI or minority customers or communities",
+      "themes": {
+        "cross_cultural": "customer access: program for historically underserved communities, with figures"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E21",
+      "activity": "Supplier inclusion program that educates small and diverse suppliers and opens procurement opportunities to them (no preferences)",
+      "quote": "with approximately $2.9 billion spent with Tier 1 small and/or diverse suppliers and",
+      "section": "Report > Business growth and entrepreneurship > Creating opportunities for business growth",
+      "status": "current",
+      "indicators": "$2.9B Tier 1 and $946M Tier 2 spend with small and/or diverse suppliers in 2025 (small and diverse not separated)",
+      "themes": {
+        "cross_cultural": "connecting communities: access for underrepresented-owned businesses"
+      },
+      "source_doc": "report",
+      "verified": true,
+      "problem": ""
     }
   ],
   "notes": "Community and Cross-cultural coverage marked insufficient, which triggers the automated sustainability-report second look. The 10-K says almost nothing about external community programs, and inclusion is limited to demographics. The $1.0 billion Visa-share contribution to the JPMorgan Chase Foundation was recorded in Q2 2024 and is marked past. The MD&A notes its absence in FY2025, so it does not raise the score. The Public Responsibility Committee oversees 'community investment', but this is governance language and is not scored. The MD&A line 'Credit for U.S. small businesses $2.9 trillion' appears to be a garbled table extraction: the $2.9 trillion likely refers to total credit and capital for all clients, so it was not used as a small-business indicator. The following were treated as traps and not counted: 'Consumer & Community Banking' (segment name), 'Community Reinvestment Act' (regulatory), mandatory compliance and conduct training, and client fraud-awareness education (a risk control, similar to customer education). Item 7 was read only as targeted excerpts.",
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 897,
-  "score_source": "10-K",
-  "report_url": "",
-  "second_look": null
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/about/jpmc-sustainability-report-2025.pdf",
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/about/jpmc-sustainability-report-2025.pdf",
+    "report_year": 2025,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

@@ -229,9 +229,19 @@
   ],
   "notes": "Community and Cross-cultural coverage marked insufficient: the Human Capital section covers employee pay, benefits and development but says nothing about external community programs, accessibility or inclusion practices beyond the 'Adobe for All' belief statement and a passing mention of Employee Networks. Both themes should get the automated second look using the sustainability report. Item 7 lists 'charitable contributions' only as a G&A expense line, with no program or amount, so it was not scored. Adobe Commerce (an enterprise e-commerce platform) was not counted as an affordable merchant tool, because the filing describes no small-business or founder focus. 'Accessible entry points' in the freemium language means low-cost access, not disability accessibility, so it was not counted for Cross-cultural. 'State of the art' in the R&D section is a trap phrase and was not counted. 'Training' of Firefly AI models is a trap use of the word and was not counted for Community. Publishing and Advertising includes legacy eLearning solutions, but no detail is given, so they were not scored. Segments will be combined into one segment from Q1 fiscal 2026; this does not affect the fiscal 2025 scores.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 620,
   "score_source": "10-K",
   "report_url": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

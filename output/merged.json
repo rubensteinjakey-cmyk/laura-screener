@@ -1,87 +1,1114 @@
 {
   "model": "claude-opus-5-5",
   "sections": [
-    "item1"
+    "item1",
+    "item7_targeted"
   ],
   "missing": [],
   "results": {
-    "BAC": {
-      "ticker": "BAC",
-      "company_name": "Bank of America Corporation",
-      "sector": "Financials",
-      "run_id": "jakey",
+    "ADBE": {
+      "ticker": "ADBE",
+      "company_name": "Adobe Inc.",
+      "sector": "Information Technology",
+      "run_id": "v2_targeted",
+      "rubric_version": 2,
       "model": "claude-opus-5-5",
       "sections": [
-        "item1"
+        "item1",
+        "item7_targeted"
       ],
-      "filing_date": "2026-02-25",
+      "filing_date": "2026-01-15",
       "fiscal_year": 2025,
-      "accession_number": "0000070858-26-000157",
-      "scored_at": "2026-10-18T20:21:18",
+      "accession_number": "0000796343-26-000003",
+      "scored_at": "2026-10-18T22:14:24",
       "themes": {
         "creativity": {
-          "ai_score": 0,
-          "score": 0,
-          "quote_check": "passed",
-          "level_reason": "Level 0: Item 1 describes nothing about creative work, artists, storytelling or arts programs.",
-          "quotes": []
+          "ai_score": 5,
+          "score": 5,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2",
+            "E3",
+            "E4"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2",
+            "E3",
+            "E4"
+          ],
+          "reason": "Level 5: enabling others' creative work through creative software (Creative Cloud, Photoshop, Illustrator, Premiere Pro, Express) is the core business and the stated mission, centered in the Digital Media segment.",
+          "flags": [],
+          "coverage_trigger": ""
         },
         "community": {
           "ai_score": 2,
           "score": 2,
-          "quote_check": "passed",
-          "level_reason": "Level 2: one specific practice, an internal employee training and development program (Bank of America Academy) with stated hours and internal mobility figures, but no school, nonprofit, community-investment or volunteering programs are described.",
-          "quotes": [
-            {
-              "quote": "we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy",
-              "found": true
-            },
-            {
-              "quote": "We provide a variety of resources to help employees grow in their current roles and build new skills, including resources to help employees find new opportunities, re-skill and seek leadership positions.",
-              "found": true
-            },
-            {
-              "quote": "In 2025, more than 14,000 employees found new roles within the Corporation",
-              "found": true
-            }
-          ]
+          "coverage": "insufficient",
+          "evidence_ids": [
+            "E5",
+            "E6",
+            "E7"
+          ],
+          "valid_evidence_ids": [
+            "E5",
+            "E6",
+            "E7"
+          ],
+          "reason": "Level 2: employee development of disclosed size (Learning Fund) plus limited, unmeasured external education and university research collaboration, with no community investment program or figures disclosed.",
+          "flags": [],
+          "coverage_trigger": "ai"
         },
         "cross_cultural": {
           "ai_score": 2,
           "score": 2,
-          "quote_check": "passed",
-          "level_reason": "Level 2: one specific practice, employee networks with membership numbers; the rest is workforce demographic data and general inclusion language.",
-          "quotes": [
-            {
-              "quote": "We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally.",
-              "found": true
-            }
-          ]
+          "coverage": "insufficient",
+          "evidence_ids": [
+            "E8"
+          ],
+          "valid_evidence_ids": [
+            "E8"
+          ],
+          "reason": "Level 2: a specific current internal practice (Employee Networks) with no figures; 'Adobe for All' is a belief statement and adds nothing beyond 1.",
+          "flags": [],
+          "coverage_trigger": "ai"
         },
         "entrepreneurship": {
           "ai_score": 1,
           "score": 1,
-          "quote_check": "passed",
-          "level_reason": "Level 1: small businesses are named only in a general list of customers served, with no specific program, product or measurable data.",
-          "quotes": [
-            {
-              "quote": "serving individual consumers, small- and middle-market businesses, institutional investors, large corporations and governments with a full range of banking, investing, asset management and other financial and risk management products and services",
-              "found": true
-            }
-          ]
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E3",
+            "E9"
+          ],
+          "valid_evidence_ids": [
+            "E3",
+            "E9"
+          ],
+          "reason": "Level 1: the company serves solopreneurs and small business owners as customers but describes no specific program that enables founders, and Adobe Ventures is framed as strategic investing (held at the lower level when torn).",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 5,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "insufficient",
+        "cross_cultural": "insufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 58.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Sells Creative Cloud Pro, a subscription suite of apps for photography, design and video that people use to make creative work",
+          "quote": "Adobe Creative Cloud Pro is a cloud-based subscription to an ecosystem of apps that enables creative professionals and enthusiasts alike to express themselves and collaborate with apps and services for photography, design, video, social media, and more",
+          "section": "Item 1 > Principal Solutions > Creative & Marketing Professionals > Adobe Creative Cloud Pro",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "creativity": "enables others' creative work through creative software; flagship product line"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Digital Media reportable segment built around creative and productivity apps (Creative Cloud, Photoshop, Illustrator, Premiere Pro, Express)",
+          "quote": "Digital Media. To serve the productivity and creativity needs of business professionals, consumers, creators and creative professionals, our Digital Media solutions include our Adobe Acrobat solutions, Adobe Express and our Creative Cloud subscriptions and flagship apps",
+          "section": "Item 1 > Segments",
+          "status": "current",
+          "indicators": "reported segment; segment revenue not disclosed in provided text",
+          "themes": {
+            "creativity": "enabling creative work is a reported segment and the center of the company's stated mission"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Digital Media customers include artists, independent creators, solopreneurs and small business owners",
+          "quote": "Our customers span creative professionals, including graphic designers, photographers, videographers, illustrators and 3D artists; creators, including social media influencers and solopreneurs; business professionals, including social media teams, small business owners and knowledge workers; and consumers.",
+          "section": "Item 7 (targeted MD&A excerpts) > Digital Media segment description",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "creativity": "customer group is creative professionals and artists using the company's tools",
+            "entrepreneurship": "serves solopreneurs and small business owners as customers; no specific enabling program described"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Adobe Express, an easy content-creation app for novice creators",
+          "quote": "Adobe Express is our all-in-one AI content creation app for users of any level, such as novice content creators and communicators, to easily create video, marketing, and social content.",
+          "section": "Item 1 > Principal Solutions > Business Professionals & Consumers > Adobe Express",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "creativity": "enables creative work by non-professionals"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "Learning Fund that pays employees toward university and short-term learning",
+          "quote": "Through Adobe’s Learning Fund, employees are eligible to receive up to $11,000 per year toward university and short-term learning opportunities.",
+          "section": "Item 1 > Human Capital > Growth and Development",
+          "status": "current",
+          "indicators": "up to $11,000 per employee per year; 31,360 employees",
+          "themes": {
+            "community": "employee development"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E6",
+          "activity": "Free online self-service learning and fee-based training and certifications for customers and partners on Adobe products",
+          "quote": "Our training portfolio includes a large number of free online self-service learning options on learning.adobe.com.",
+          "section": "Item 1 > Operations > Services and Support > Digital Learning Solutions",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "external education, limited in scale; it is product training for customers and partners, so it sits close to the 'educating customers' trap"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E7",
+          "activity": "Adobe Research works with universities around the world",
+          "quote": "In collaboration with universities around the world, the Adobe Research team of scientists, engineers, artists and designers are inventing the future of creativity, productivity and customer experiences.",
+          "section": "Item 1 > Research & Development",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "partnership with universities, limited reach and no figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E8",
+          "activity": "Employee Networks and community-building events for staff",
+          "quote": "We also strive to build community by bringing together our employees through onsite events, discussion groups, messaging forums and our Employee Networks as we believe that a sense of belonging contributes to our employees’ overall wellbeing.",
+          "section": "Item 1 > Human Capital > Compensation, Benefits and Wellbeing",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "internal practice: employee networks with no membership figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E9",
+          "activity": "Corporate venture capital program investing in outside companies",
+          "quote": "Through our corporate venture capital program, Adobe Ventures, we invest in companies that are shaping the future of creativity, productivity, marketing and AI.",
+          "section": "Item 1 > Acquisitions and Investments",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "entrepreneurship": "described as strategic investing that serves Adobe's own strategy, not as a program that lowers barriers for founders"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Community and Cross-cultural coverage marked insufficient: the Human Capital section covers employee pay, benefits and development but says nothing about external community programs, accessibility or inclusion practices beyond the 'Adobe for All' belief statement and a passing mention of Employee Networks. Both themes should get the automated second look using the sustainability report. Item 7 lists 'charitable contributions' only as a G&A expense line, with no program or amount, so it was not scored. Adobe Commerce (an enterprise e-commerce platform) was not counted as an affordable merchant tool, because the filing describes no small-business or founder focus. 'Accessible entry points' in the freemium language means low-cost access, not disability accessibility, so it was not counted for Cross-cultural. 'State of the art' in the R&D section is a trap phrase and was not counted. 'Training' of Firefly AI models is a trap use of the word and was not counted for Community. Publishing and Advertising includes legacy eLearning solutions, but no detail is given, so they were not scored. Segments will be combined into one segment from Q1 fiscal 2026; this does not affect the fiscal 2025 scores.",
+      "quote_check_status": "passed",
+      "flags": [
+        "coverage insufficient (community, cross_cultural); second look: no report found"
+      ],
+      "human_capital_words": 620,
+      "score_source": "10-K",
+      "report_url": "",
+      "second_look": {
+        "status": "no report found",
+        "report_url": "",
+        "report_year": null,
+        "themes": [
+          "community",
+          "cross_cultural"
+        ]
+      }
+    },
+    "BAC": {
+      "ticker": "BAC",
+      "company_name": "Bank of America Corporation",
+      "sector": "Financials",
+      "run_id": "v2_targeted",
+      "rubric_version": 2,
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-25",
+      "fiscal_year": 2025,
+      "accession_number": "0000070858-26-000157",
+      "scored_at": "2026-10-18T22:11:06",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "reason": "Level 0: the filing fully describes a banking and financial services business and shows no creative activity.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E1",
+            "SL-E2",
+            "SL-E3"
+          ],
+          "valid_evidence_ids": [
+            "SL-E1",
+            "SL-E2",
+            "SL-E3"
+          ],
+          "reason": "Level 3: on top of large employee development (E1), the report shows measured community investment: about $529.9M in down payment and closing cost grants and a roughly $2B CDFI portfolio. That is substantial reach shown by dollar indicators, but it isn't shown as central to strategy and there's no external education program, so it doesn't reach 4.",
+          "flags": [],
+          "coverage_trigger": "ai",
+          "score_from_10k": 2,
+          "rescored_from_report": true
+        },
+        "cross_cultural": {
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E3",
+            "E7"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E3",
+            "E7"
+          ],
+          "reason": "Level 3: a specific current internal practice with disclosed reach (11 employee networks, over 330,000 memberships) under the Talent, Inclusion and Opportunity heading.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E4",
+            "E5"
+          ],
+          "valid_evidence_ids": [
+            "E4",
+            "E5"
+          ],
+          "reason": "Level 1: the company serves about four million small business households and holds a small business loan and card portfolio, but describes no specific program or tool that lowers barriers to starting or growing a business.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 3,
+        "cross_cultural": 3,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 33.0,
+      "original_10k_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 3,
+        "entrepreneurship": 1
+      },
+      "original_10k_final": 27.0,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Runs 11 voluntary employee networks open to all employees",
+          "quote": "We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally.",
+          "section": "Item 1 > Human Capital Resources > Talent, Inclusion and Opportunity",
+          "status": "current",
+          "indicators": "11 networks, over 330,000 voluntary memberships",
+          "themes": {
+            "cross_cultural": "internal practice (employee networks) with membership figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Trains and develops employees through Bank of America Academy and supports internal mobility",
+          "quote": "In 2025, more than 14,000 employees found new roles within the Corporation, and we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy.",
+          "section": "Item 1 > Human Capital Resources > Talent, Inclusion and Opportunity",
+          "status": "current",
+          "indicators": "7.6 million training hours; 14,000+ internal role moves; ~213,000 employees",
+          "themes": {
+            "community": "employee development (named program with figures; capped at 2)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Discloses workforce demographics by gender and U.S. ethnicity",
+          "quote": "The following table provides our workforce data by gender (globally) and ethnicity (U.S. only).",
+          "section": "Item 1 > Human Capital Resources",
+          "status": "current",
+          "indicators": "Women 50% of global employees; U.S. workforce 46% White, 15% Asian, 15% Black, 20% Hispanic",
+          "themes": {
+            "cross_cultural": "demographic disclosure only (max 1)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Provides banking services to small business households",
+          "quote": "We offer industry-leading support to approximately four million small business households.",
+          "section": "Item 7 > Executive Summary (targeted excerpt)",
+          "status": "current",
+          "indicators": "approximately four million small business households",
+          "themes": {
+            "entrepreneurship": "serving small-business customers; no specific enabling program described (max 1)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "Lends to small businesses through small business loans and small business cards",
+          "quote": "The U.S. small business commercial loan portfolio is comprised of small business card loans and small business loans primarily managed in Consumer Banking.",
+          "section": "Item 7 > Credit Risk Management > U.S. Small Business Commercial",
+          "status": "current",
+          "indicators": "Portfolio table total 22,500 at Dec 31, 2025 vs 20,865 in 2024 (units not shown in excerpt); credit cards 51% of the portfolio",
+          "themes": {
+            "entrepreneurship": "general small-business credit, described only in credit-risk terms, with no barrier-lowering program (max 1)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E6",
+          "activity": "Board committee oversees charitable contributions and community reinvestment",
+          "quote": "The committee also oversees sustainability matters (other than human capital matters), including the Corporation’s public policy engagement, sustainability initiatives, charitable contributions, and community reinvestment activities and performance.",
+          "section": "Item 7 > Corporate Governance (targeted excerpt)",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "community investment mentioned only as a governance oversight topic, with no programs or figures (max 1)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E7",
+          "activity": "Pay equity reviews conducted by a third-party consultant",
+          "quote": "We maintain robust policies and practices that reinforce our commitment, including reviews conducted by a third-party consultant with oversight from our Board and senior management.",
+          "section": "Item 1 > Human Capital Resources > Recognizing and Rewarding Performance",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "internal practice (equal-pay reviews), limited detail"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E1",
+          "activity": "Internal training and development for employees through Bank of America Academy, alongside internal mobility support",
+          "quote": "we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy",
+          "section": "Item 1 > Human Capital Resources > Talent, Inclusion and Opportunity",
+          "status": "current",
+          "indicators": "7.6 million training hours in 2025; more than 14,000 employees found new roles internally; about 213,000 employees",
+          "themes": {
+            "community": "employee development (training the company's own staff, large scale)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E2",
+          "activity": "Down payment and closing cost grants to homebuyers, including low- and moderate-income (LMI) households",
+          "quote": "Down payment and closing cost grants (to date since 2019) $ (millions) $529.9",
+          "section": "Metrics & Targets > Supporting the Communities We Serve > Affordable housing (p. 45)",
+          "status": "current",
+          "indicators": "$529.9 million in grants, cumulative since 2019; 50,745 individuals and families supported with affordable home lending, down payment and closing cost grants since 2019 (a combined figure that includes lending)",
+          "themes": {
+            "community": "community investment (grants to people in communities, with dollars and reach disclosed)"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E3",
+          "activity": "Portfolio of financing and investment in Community Development Financial Institutions (CDFIs), which are mission-driven community lenders",
+          "quote": "CDFI portfolio (approximate size) $ (billions) $2",
+          "section": "Metrics & Targets > Supporting the Communities We Serve > Housing, health care and education (p. 45)",
+          "status": "current",
+          "indicators": "about $2 billion CDFI portfolio (2024)",
+          "themes": {
+            "community": "community investment (partnership and investment with community development organizations, with dollars disclosed)"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Community coverage is marked insufficient because the 10-K covers external community investment only as a governance oversight topic (charitable contributions, community reinvestment) and refers readers to the website and 2025 Annual Report for human capital details, so this triggers the automated sustainability-report second look. The filing does not describe the focus or membership groups of the 11 Employee Networks, only that they are open to all employees and fall under the Talent, Inclusion and Opportunity heading. Score 3 follows the rubric's treatment of employee networks with membership figures and should be confirmed in the second look. Excluded as traps or non-activities: 'Community Reinvestment Act ratings' (regulatory eligibility condition), 'Government and public education' (a credit exposure category), cybersecurity training for employees (compliance-type training), 'Risk Framework serves as the foundation' (not a charitable foundation), and international operations. The small business loan table units are not shown in the excerpt. Minimum wage, healthcare premiums, counseling and sabbatical benefits are current employee benefits but do not meet any theme's criteria.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 1129,
+      "score_source": "10-K + sustainability report",
+      "report_url": "https://about.bankofamerica.com/content/dam/about/report-center/esg/2025/SustainabilityatBofA2025_WCAG2.2_121625.pdf",
+      "second_look": {
+        "status": "scored",
+        "report_url": "https://about.bankofamerica.com/content/dam/about/report-center/esg/2025/SustainabilityatBofA2025_WCAG2.2_121625.pdf",
+        "report_year": 2025,
+        "themes": [
+          "community"
+        ]
+      }
+    },
+    "ETSY": {
+      "ticker": "ETSY",
+      "company_name": "Etsy Inc.",
+      "sector": "Consumer Discretionary",
+      "run_id": "v2_targeted",
+      "rubric_version": 2,
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-19",
+      "fiscal_year": 2025,
+      "accession_number": "0001370637-26-000019",
+      "scored_at": "2026-10-18T22:13:18",
+      "themes": {
+        "creativity": {
+          "ai_score": 5,
+          "score": 5,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E4",
+            "E7",
+            "E8"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E4",
+            "E7",
+            "E8"
+          ],
+          "reason": "Level 5: enabling independent artisans and creative sellers through the Etsy marketplace (87.8% of GMS, 5.6M active sellers) is the core business.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E3",
+            "E4",
+            "E5",
+            "E6",
+            "E7",
+            "E8",
+            "E9",
+            "E10",
+            "E11"
+          ],
+          "valid_evidence_ids": [
+            "E3",
+            "E4",
+            "E5",
+            "E6",
+            "E7",
+            "E8",
+            "E9",
+            "E10",
+            "E11"
+          ],
+          "reason": "Level 3: external community investment with substantial disclosed reach (Uplift Fund ~7,690 entrepreneurs and $1.9M in grants, ~$3.4M donations, $3M loan-fund investment, CERF+ partnership), but not shown as very large or central to strategy enough for 4.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E12",
+            "E13",
+            "E14",
+            "E15"
+          ],
+          "valid_evidence_ids": [
+            "E12",
+            "E13",
+            "E14",
+            "E15"
+          ],
+          "reason": "Level 3: a specific current activity with a disclosed indicator ($39M spend with diverse-owned suppliers), plus internal practices (ERGs, disability-inclusive workplace, pay equity analysis) without reach figures; customer access is not a major measured business line.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 5,
+          "score": 5,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2",
+            "E4",
+            "E5",
+            "E7"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2",
+            "E4",
+            "E5",
+            "E7"
+          ],
+          "reason": "Level 5: enabling independent creators and micro-businesses (89% businesses of one, 59% first sold on Etsy) through seller marketplaces is the core business, supported by the Uplift Fund and small-business lending.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 5,
+        "community": 3,
+        "cross_cultural": 3,
+        "entrepreneurship": 5
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 80.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Operates the Etsy marketplace, where independent artisans and creative sellers sell handmade, custom, designed and vintage goods to buyers",
+          "quote": "The Etsy marketplace is the global destination for unique, creative goods from independent sellers, connecting artisans with thoughtful consumers seeking items that reflect their tastes and values.",
+          "section": "Item 1 > Overview > About our Company",
+          "status": "current",
+          "indicators": "Etsy marketplace GMS $10,460.7M (87.8% of consolidated GMS); 86.5M active buyers; 5.6M active sellers; >100M items; custom/made-to-order ~30% of GMS; Seller Census: 89% businesses of one, 59% first sold on Etsy, 29% say creative business is sole occupation",
+          "themes": {
+            "creativity": "enabling others' creative work is the core business (marketplace for creators, the large majority of GMS)",
+            "entrepreneurship": "seller marketplace enabling independent creators and micro-businesses is the core business"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Operates Depop, a peer-to-peer secondhand fashion marketplace (sale to eBay agreed, not yet closed)",
+          "quote": "Depop has been a people-powered fashion marketplace where anyone can buy, sell, explore, and discover incredible secondhand fashion.",
+          "section": "Item 1 > Our Marketplaces > The Depop Marketplace",
+          "status": "current",
+          "indicators": "Depop GMS $1,074.9M (9.0% of consolidated GMS); 3.2M active sellers; 7.0M active buyers; 55.6M registered users",
+          "themes": {
+            "entrepreneurship": "seller marketplace letting individuals sell independently; secondary to E1"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Launched a Community Hub that lets sellers connect with each other and with key resources",
+          "quote": "introduced a new Community Hub designed to allow sellers to more easily connect with each other and key resources",
+          "section": "Item 1 > Our Marketplaces > The Etsy Marketplace > Our Four Near-Term Strategic Initiatives",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "external peer collaboration among sellers, limited reach (no figures)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Uplift Fund grants to organizations giving creative entrepreneurs capital and business support, partly funded by buyer round-up donations",
+          "quote": "In 2025, our Uplift Fund supported organizations providing creative entrepreneurs with capital and wrap-around business support services for nearly 7,690 entrepreneurs.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Creative Community",
+          "status": "current",
+          "indicators": "~7,690 entrepreneurs supported; buyers donated change 4.4 million times, giving $1.9M in grants",
+          "themes": {
+            "community": "named community investment program with participant and dollar figures",
+            "entrepreneurship": "named grant program giving capital and business support to founders, with number of entrepreneurs helped",
+            "creativity": "directly supports creative entrepreneurs"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "$3M Impact Investment Fund investment in a loan fund that provides affordable lending to small business owners in the Southern U.S.",
+          "quote": "We also invested $3 million from our Impact Investment Fund in Hope Enterprise Corporation, a commercial loan fund that provides affordable lending services to local communities, organizations, and small business owners across the Southern United States.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Creative Community",
+          "status": "current",
+          "indicators": "$3 million",
+          "themes": {
+            "community": "community investment with disclosed dollars",
+            "entrepreneurship": "affordable small-business financing, number of businesses not disclosed"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E6",
+          "activity": "Philanthropic donations to community-based organizations, alongside a $30M Impact Investment Fund",
+          "quote": "in 2025, Etsy made approximately $3.4 million in philanthropic donations to community-based organizations doing work that supports our Impact goals.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Values-Aligned Investment",
+          "status": "current",
+          "indicators": "~$3.4M donations in 2025; $30M Impact Investment Fund",
+          "themes": {
+            "community": "community investment with dollar figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E7",
+          "activity": "Disaster relief for sellers: fee deferrals and $2,000 grants through a partnership with the nonprofit CERF+",
+          "quote": "In 2025, we deferred fees owed by nearly 77,000 sellers impacted by the Los Angeles fires and continued to partner with the Craft Emergency Relief Fund (“CERF+”) to provide individual grants of $2,000 to Etsy marketplace U.S. sellers",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Environmental > Marketplace Sustainability > Helping Our Sellers Build Climate Resilience",
+          "status": "current",
+          "indicators": "fees deferred for ~77,000 sellers; $2,000 individual grants (number of grants not disclosed)",
+          "themes": {
+            "community": "nonprofit partnership and grants with figures",
+            "entrepreneurship": "relief helping small creative businesses recover",
+            "creativity": "direct support for craft artists through CERF+"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E8",
+          "activity": "Pilot grant to help an artists' district rebuild after a hurricane",
+          "quote": "we issued a pilot grant to support the River Arts District in North Carolina in envisioning a resilient approach to rebuilding for this community of over 550 artists",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Environmental > Marketplace Sustainability > Helping Our Sellers Build Climate Resilience",
+          "status": "current",
+          "indicators": "artist community of over 550 artists; grant amount not disclosed; pilot",
+          "themes": {
+            "creativity": "single direct support for an artist community (pilot)",
+            "community": "community investment, limited (pilot)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E9",
+          "activity": "Free public database of climate-related disaster resources for small businesses and makers, built with Nest",
+          "quote": "In 2025, we launched a free public database of climate-related resources for small businesses and makers.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Environmental > Marketplace Sustainability > Helping Our Sellers Build Climate Resilience",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "external educational resource, limited reach (no figures)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E10",
+          "activity": "Educational videos for sellers on choosing ethical production partners, made with Nest",
+          "quote": "In 2025, we continued our partnership with Nest to create educational videos for Etsy sellers who engage with production partners.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Supply Chain > Our Commitment to Human Rights",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "external education for sellers, limited reach (policy-related)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E11",
+          "activity": "Skills development budget and mentorship for employees",
+          "quote": "We provide budget for skills development across our organization, along with tailored mentorship opportunities.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access > Ensuring Equal Access to Employment",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "employee development"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E12",
+          "activity": "Employee Resource Groups across Etsy and Depop",
+          "quote": "And our Employee Resource Groups (“ERGs”) continue to thrive across Etsy and Depop, contributing to a culture of inclusion across our brands.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access > Ensuring Equal Access to Employment",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "internal practice: employee networks with no figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E13",
+          "activity": "Disability-inclusive workplace practices rated 100 on the Disability Equality Index",
+          "quote": "Etsy and Depop both achieved a score of 100 on DisabilityIn.org's Disability Equality Index in 2025",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access",
+          "status": "current",
+          "indicators": "DEI score 100 for Etsy and Depop; specific practices not described",
+          "themes": {
+            "cross_cultural": "internal practice: accessible and inclusive workplace (external rating, practices not detailed)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E14",
+          "activity": "Purchasing from suppliers owned by women, people with disabilities, LGBTQ people, racial/ethnic minorities and veterans",
+          "quote": "During 2025, we spent $39 million with diverse-owned suppliers, which we define as woman, disability, and LGBTQ-owned globally; as well as Black, Asian-Indian, Asian-Pacific, Hispanic/Latinx, Indigenous, and veteran-owned in the United States.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Supply Chain > Supplier Diversity",
+          "status": "current",
+          "indicators": "$39 million spend in 2025",
+          "themes": {
+            "cross_cultural": "specific current activity widening economic participation for underrepresented-owned businesses, with dollar figure"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E15",
+          "activity": "Biennial third-party pay equity analysis by gender and race/ethnicity",
+          "quote": "Since 2020, Etsy has engaged a third-party to conduct a biennial pay equity analysis to confirm compensation is not influenced by gender or race/ethnicity.",
+          "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access > Ensuring Equal Access to Employment",
+          "status": "current",
+          "indicators": "biennial since 2020; next analysis expected 2026",
+          "themes": {
+            "cross_cultural": "internal practice, no reach figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Reverb (sold June 2, 2025) and Elo7 (sold 2023) are past and were not scored. Depop is still operated, so it is scored as current, but its sale to eBay ($1.2B) was agreed Feb 15, 2026 and is expected to close Q2 2026; it will become discontinued operations. Depop is fashion resale, so it was not counted for Creativity. The 2024 seller set-up fee intentionally reduced active seller counts. Workforce demographic statistics (gender, race, disability, LGBTQIA+, 70+ nationalities) are disclosure only and were not counted as activity. The pay equity analysis is biennial, with the next one in 2026. The company says supplier and hiring decisions are made on merit. Platform support for multiple languages/geographies and international sales were not counted (international-operations trap). Trap terms excluded: 'Innovative Technology', engineering 'design', ML 'content', 'brand equity', and 'Community' meaning customer operations teams. The Item 7 excerpt only repeats the overview sentence and adds no evidence. Some Impact details (climate index, SASB, EEO-1) are referred to the IR website, but coverage in Item 1 is enough to judge all themes. The $30M Impact Investment Fund (E6) is the source of the $3M Hope Enterprise investment (E5) and a $3M clean-energy loan; these were not double counted. Environmental activities were not scored except where they independently meet a theme (seller disaster relief).",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 1603,
+      "score_source": "10-K",
+      "report_url": "",
+      "second_look": null
+    },
+    "INTU": {
+      "ticker": "INTU",
+      "company_name": "Intuit Inc.",
+      "sector": "Information Technology",
+      "run_id": "v2_targeted",
+      "rubric_version": 2,
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-09-09",
+      "fiscal_year": 2026,
+      "accession_number": "0000896878-26-000037",
+      "scored_at": "2026-10-18T22:15:20",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "reason": "Level 0: the filing fully describes the products (financial, tax and marketing software), and none of them creates or enables artistic or storytelling work.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E6",
+            "E7",
+            "E8"
+          ],
+          "valid_evidence_ids": [
+            "E6",
+            "E7",
+            "E8"
+          ],
+          "reason": "Level 2: there is employee development plus specific external activities (Prosperity Hub training in underserved communities, paid volunteering and donation matching), but no participant, dollar or reach figures that would support level 3.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E8",
+            "E9",
+            "E10"
+          ],
+          "valid_evidence_ids": [
+            "E8",
+            "E9",
+            "E10"
+          ],
+          "reason": "Level 2: there are specific current practices (ERGs with no membership figures, a hiring program for underserved communities, and language-based advisor matching), all limited in shown reach.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 4,
+          "score": 4,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2",
+            "E3",
+            "E4",
+            "E5"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2",
+            "E3",
+            "E4",
+            "E5"
+          ],
+          "reason": "Level 4: enabling small businesses and solopreneurs through payments, financing, marketing and start-up accounting tools is a major reported segment at 60% of revenue; level 5 was not chosen because the segment also serves mid-market firms and accountants, and 40% of revenue is consumer tax and personal finance.",
+          "flags": [],
+          "coverage_trigger": ""
         }
       },
       "scores": {
         "creativity": 0,
         "community": 2,
         "cross_cultural": 2,
-        "entrepreneurship": 1
+        "entrepreneurship": 4
       },
-      "final_score": 23.0,
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 32.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Business segment providing an all-in-one platform for small and mid-market businesses to run and grow",
+          "quote": "Our Global Business Solutions segment serves small and mid-market businesses around the world, and the accounting professionals who assist and advise them.",
+          "section": "Item 1 > Products and Services > Global Business Solutions",
+          "status": "current",
+          "indicators": "Segment is 60% of fiscal 2026 total revenue; Intuit overall serves approximately 93 million consumers, businesses and accountants (no separate small-business count)",
+          "themes": {
+            "entrepreneurship": "enabling small businesses is a major reported segment with disclosed revenue share"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Merchant payment processing for small and mid-market businesses, built into QuickBooks",
+          "quote": "Our full range of merchant services for small and mid-market businesses includes credit card, debit card, Apple Pay, Buy Now Pay Later, Tap to Pay, PayPal, and automated clearing house (ACH) payment services for in-person and card-not-present payments.",
+          "section": "Item 1 > Products and Services > Global Business Solutions > Get Paid and Pay Bills",
+          "status": "current",
+          "indicators": "none disclosed separately (part of segment with 60% of revenue)",
+          "themes": {
+            "entrepreneurship": "merchant and payment tools that lower barriers to running a business"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Small-business financing: term loans, line of credit, capital marketplace and business credit card",
+          "quote": "We offer financing options for small and mid-market businesses to help them get the capital they need to succeed.",
+          "section": "Item 1 > Products and Services > Global Business Solutions > Get Capital",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "entrepreneurship": "business financing that helps small businesses grow"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Accounting plans built for early-stage solopreneurs, micro businesses and independent contractors, including a free tier",
+          "quote": "QuickBooks Free, QuickBooks Lite, QuickBooks Solopreneur, and QuickBooks Self-Employed are designed for early-stage solopreneurs, micro businesses, and independent contractors with varying needs.",
+          "section": "Item 1 > Products and Services > Global Business Solutions > Be Compliant and Organized",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "entrepreneurship": "low-cost tools aimed at founders and independent workers at the start-up stage"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "Mailchimp marketing tools that let small businesses promote themselves digitally",
+          "quote": "Mailchimp offers email and other marketing solutions that enable small and mid-market businesses to digitally promote themselves across email, social media, short message service (SMS), landing pages, ads, websites, and more, all from one place.",
+          "section": "Item 1 > Products and Services > Global Business Solutions > Get, Grow, and Manage Customers",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "entrepreneurship": "marketing tools that help small businesses find and grow customers"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E6",
+          "activity": "Employee learning paths, online courses, leadership development and tuition assistance",
+          "quote": "Employees have access to learning paths and online courses on topics ranging from AI to accelerating velocity.",
+          "section": "Item 1 > Human Capital > Talent Development and Retention",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "employee development"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E7",
+          "activity": "Paid volunteer time for employees at vetted nonprofits and donation matching",
+          "quote": "We provide eligible full-time employees paid time off that can be used to do volunteer work during normal work hours for vetted non-profits and for donation matching up to an annual limit.",
+          "section": "Item 1 > Human Capital > Culture and Values",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "community investment (volunteering and giving) with no figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E8",
+          "activity": "Prosperity Hub program that hires and trains customer success staff in underserved communities, directly and through partner employers",
+          "quote": "We also source staff through our Prosperity Hub program, which is designed to drive economic opportunity in underserved communities by hiring and training customer success staff both directly and through partner employers.",
+          "section": "Item 1 > Customer Success",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "named skills and job-training program reaching people in underserved communities, including through partner employers, with no figures",
+            "cross_cultural": "specific practice that widens access to jobs for underserved communities, with no figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E9",
+          "activity": "Employee resource groups open to all employees",
+          "quote": "Intuit has established employee resource groups (ERGs) that provide a foundation for a culture of inclusion. These ERGs are employee-driven, volunteer-led, and open to all employees.",
+          "section": "Item 1 > Human Capital > Stronger Together",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "internal practice: employee networks with no membership figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E10",
+          "activity": "Free Find a ProAdvisor service that matches businesses with accountants who speak their language",
+          "quote": "Our free Find a ProAdvisor service helps customers find a QuickBooks Certified accountant or bookkeeper who knows their niche, speaks their language, or is nearby.",
+          "section": "Item 1 > Products and Services > Global Business Solutions > Access Advice",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "customer access: language-based matching to advisors, limited in scope"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Mailchimp was considered for Creativity but scored 0, because it is a marketing tool (email, ads, landing pages) rather than creative software, and brand marketing is a listed trap; it is counted under Entrepreneurship only. QuickBooks ProAdvisor training and certification for accountants (also mentioned in the Item 7 excerpt as ProAdvisor Program memberships) was left out of Community as commercial product training. Prosperity Hub is partly a way for Intuit to staff its own support centers, but it also trains people through partner employers in underserved communities, so it is counted once each under Community and Cross-cultural. Equal-opportunity language and the Stronger Together and We Care and Give Back values are general statements and were not scored on their own. A restructuring plan was announced in May 2026; the filing does not say it cut any of the programs above. Neither Community nor Cross-cultural gives any figures, so a sustainability report could add context, though coverage was judged sufficient and no second look is triggered.",
       "quote_check_status": "passed",
-      "thin_filing": false,
-      "thin_filing_trigger": "",
-      "human_capital_words": 1129,
+      "flags": [],
+      "human_capital_words": 1109,
       "score_source": "10-K",
       "report_url": "",
       "second_look": null
@@ -90,171 +1117,1173 @@
       "ticker": "JPM",
       "company_name": "JPMorgan Chase & Co.",
       "sector": "Financials",
-      "run_id": "jakey",
+      "run_id": "v2_targeted",
+      "rubric_version": 2,
       "model": "claude-opus-5-5",
       "sections": [
-        "item1"
+        "item1",
+        "item7_targeted"
       ],
       "filing_date": "2026-02-13",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-008131",
-      "scored_at": "2026-10-18T20:20:58",
+      "scored_at": "2026-10-18T22:10:15",
       "themes": {
         "creativity": {
           "ai_score": 0,
           "score": 0,
-          "quote_check": "passed",
-          "level_reason": "Level 0: nothing in Item 1 relates to creative work; 'design' appears only for risk governance frameworks, which is a trap.",
-          "quotes": []
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "reason": "Level 0: the filing fully describes a financial services business and shows no creating or enabling of creative work, and no arts sponsorship or arts education.",
+          "flags": [],
+          "coverage_trigger": ""
         },
         "community": {
-          "ai_score": 2,
-          "score": 2,
-          "quote_check": "passed",
-          "level_reason": "Level 2: one specific practice (an employee tuition assistance benefit), with internal internships and a leadership center mentioned only briefly and without numbers, so the lower level applies.",
-          "quotes": [
-            {
-              "quote": "counseling and resources related to mental health, time away policies, child care access and support, tuition assistance, and financial education.",
-              "found": true
-            },
-            {
-              "quote": "These opportunities range from internship training programs for students to entry-level, management and executive careers.",
-              "found": true
-            },
-            {
-              "quote": "Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.",
-              "found": true
-            }
-          ]
+          "ai_score": 4,
+          "score": 4,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E1",
+            "SL-E2",
+            "SL-E3",
+            "SL-E4",
+            "SL-E5",
+            "SL-E6",
+            "SL-E7",
+            "SL-E8",
+            "SL-E9",
+            "SL-E10",
+            "SL-E11",
+            "SL-E12",
+            "SL-E13"
+          ],
+          "valid_evidence_ids": [
+            "SL-E1",
+            "SL-E2",
+            "SL-E3",
+            "SL-E4",
+            "SL-E5",
+            "SL-E6",
+            "SL-E7",
+            "SL-E8",
+            "SL-E9",
+            "SL-E10",
+            "SL-E11",
+            "SL-E12",
+            "SL-E13"
+          ],
+          "reason": "Level 4: very large, measured external education and community investment built into operations, including Community Managers in all 48 contiguous states running 19,000+ events (about 1 million workshop attendees since 2021), 80,000 employee volunteers giving 580,000 hours, and $130M+ in 2025 philanthropic commitments; it goes well beyond employee development.",
+          "flags": [],
+          "coverage_trigger": "ai",
+          "score_from_10k": 2,
+          "rescored_from_report": true
         },
         "cross_cultural": {
-          "ai_score": 1,
-          "score": 1,
-          "quote_check": "passed",
-          "level_reason": "Level 1: general inclusion language and workforce demographic statistics only, with no ERGs, accessibility, multilingual or named inclusion programs described.",
-          "quotes": [
-            {
-              "quote": "JPMorganChase believes that its long-term growth and success depend on its ability to identify, attract, develop, retain and engage talented employees and foster an inclusive work environment.",
-              "found": true
-            },
-            {
-              "quote": "Information on LGBTQ+ and veteran statuses is based on all U.S. employees, and all members of the Operating Committee and the Board of Directors.",
-              "found": true
-            }
-          ]
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E15",
+            "SL-E16",
+            "SL-E17",
+            "SL-E18",
+            "SL-E19",
+            "SL-E20",
+            "SL-E21"
+          ],
+          "valid_evidence_ids": [
+            "SL-E15",
+            "SL-E16",
+            "SL-E17",
+            "SL-E18",
+            "SL-E19",
+            "SL-E20",
+            "SL-E21"
+          ],
+          "reason": "Level 3: specific current activities with substantial measured reach (14 BRGs with nearly 200,000 members, 3 million low-cost Secure Banking accounts, 8,000 homebuyer grants in targeted tracts), but access for underserved customers is not a major business line on its own, so level 4 is not met.",
+          "flags": [],
+          "coverage_trigger": "ai",
+          "score_from_10k": 1,
+          "rescored_from_report": true
         },
         "entrepreneurship": {
-          "ai_score": 2,
-          "score": 2,
-          "quote_check": "passed",
-          "level_reason": "Level 2: one specific practice (financial services and lending for small businesses), with no measurable data on small-business customers to reach level 4.",
-          "quotes": [
-            {
-              "quote": "The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.",
-              "found": true
-            },
-            {
-              "quote": "The CFPB also has jurisdiction over small business lending activities with respect to fair lending and the Equal Credit Opportunity Act.",
-              "found": true
-            }
-          ]
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E7"
+          ],
+          "valid_evidence_ids": [
+            "E7"
+          ],
+          "reason": "Level 1: the company serves 7.4 million small business customers, but the filing describes no specific program or tool that enables founders or lowers barriers to starting a business.",
+          "flags": [],
+          "coverage_trigger": ""
         }
       },
       "scores": {
         "creativity": 0,
+        "community": 4,
+        "cross_cultural": 3,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 39.0,
+      "original_10k_scores": {
+        "creativity": 0,
         "community": 2,
         "cross_cultural": 1,
-        "entrepreneurship": 2
+        "entrepreneurship": 1
       },
-      "final_score": 22.0,
+      "original_10k_final": 19.0,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Voluntary training programs and educational resources offered to all employees",
+          "quote": "The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as leadership and management, artificial intelligence, data literacy and operational and professional skills.",
+          "section": "Item 1 > Human capital > Developing employees",
+          "status": "current",
+          "indicators": "none disclosed (offered to all employees; 318,512 employees firmwide)",
+          "themes": {
+            "community": "employee development: voluntary training for the company's own staff"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Leadership Edge, a named global leadership and management development center for employees",
+          "quote": "Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.",
+          "section": "Item 1 > Human capital > Developing employees",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "employee development: named internal leadership development program"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Internship training programs for students",
+          "quote": "These opportunities range from internship training programs for students to entry-level, management and executive careers.",
+          "section": "Item 1 > Human capital > Attracting and retaining employees",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "external education: internship training for students outside the company, limited reach with no figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Tuition assistance and financial education offered as employee benefits",
+          "quote": "child care access and support, tuition assistance, and financial education.",
+          "section": "Item 1 > Human capital > Rewarding and supporting employees",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "employee development: tuition assistance and education benefits for staff"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "$1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation in 2024",
+          "quote": "as well as the absence of a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024.",
+          "section": "Item 7 > Consolidated results (noninterest expense)",
+          "status": "past",
+          "indicators": "$1.0 billion (recorded Q2 2024; no FY2025 contribution disclosed)",
+          "themes": {
+            "community": "community investment, context only: occurred in the prior year, not the reporting year"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E6",
+          "activity": "Disclosure of workforce demographics including race/ethnicity, gender, LGBTQ+, veteran and disability status",
+          "quote": "Information on LGBTQ+ and veteran statuses is based on all U.S. employees, and all members of the Operating Committee and the Board of Directors.",
+          "section": "Item 1 > Human capital > Workforce composition",
+          "status": "current",
+          "indicators": "U.S. employees: 4% LGBTQ+, 5% people with disabilities, 3% veterans; race/ethnicity 42% White, 22% Hispanic, 20% Asian, 13% Black",
+          "themes": {
+            "cross_cultural": "demographic statistics only: a disclosure, not an activity"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E7",
+          "activity": "Banking, lending, payments and cash management services for small business customers through Consumer & Community Banking",
+          "quote": "Consumer & Community Banking offers products and services to consumers and small businesses through bank branches, ATMs, digital (including mobile and online) and telephone banking.",
+          "section": "Item 7 > Consumer & Community Banking",
+          "status": "current",
+          "indicators": "7.4 million CCB small business customers (7.0 million and 6.4 million in prior years)",
+          "themes": {
+            "entrepreneurship": "serving small businesses as customers; the filing describes no specific program aimed at lowering barriers to starting or growing a business"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E1",
+          "activity": "Community Centers and Community Managers run free financial health workshops and community events, mostly outside branches (schools, nonprofits)",
+          "quote": "Community Managers hosted over 19,000 community events, with over 70% of these",
+          "section": "Report > Financial health and wealth creation > Access to mainstream financial services",
+          "status": "current",
+          "indicators": "19 Community Centers, 160+ Community Managers covering all 48 contiguous states; 19,000+ events in 2025; 48,000+ workshops reaching almost 1 million attendees since 2021",
+          "themes": {
+            "community": "external education: named, measured financial-education program with very large reach"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E2",
+          "activity": "Coaching for Impact program gives small business owners one-on-one coaching, community workshops and business training seminars",
+          "quote": "Consultants have coached more than 10,000 small businesses in communities across",
+          "section": "Report > Business growth and entrepreneurship > Creating opportunities for business growth",
+          "status": "current",
+          "indicators": "~80 Senior Business Consultants in 45 cities; 10,000+ small businesses coached in 2025",
+          "themes": {
+            "community": "external education: named skills and training program with participant figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E3",
+          "activity": "Tech for Social Good skills-based volunteering builds nonprofit tech capacity and teaches tech skills to youth",
+          "quote": "approximately 4,000 employees contributed more than 175,000 hours, helping",
+          "section": "Report > Human capital > Employee volunteerism and community support",
+          "status": "current",
+          "indicators": "~4,000 employees, 175,000+ hours, ~350 organizations, 35,000+ youth and students",
+          "themes": {
+            "community": "external education and community investment: named program with participants and hours"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E4",
+          "activity": "Firm-wide employee volunteer program with paid volunteer time",
+          "quote": "Eligible employees may use paid time off to participate in",
+          "section": "Report > Human capital > Employee volunteerism and community support",
+          "status": "current",
+          "indicators": "~580,000 volunteer hours, ~80,000 employee volunteers, ~7,200 volunteer events in 2025",
+          "themes": {
+            "community": "community investment: volunteering with figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E5",
+          "activity": "Board Placement/Board Match and workplace giving match programs for nonprofits, plus disaster relief giving",
+          "quote": "In 2025, the Firm matched approximately $2.7 million in",
+          "section": "Report > Human capital > Employee volunteerism and community support",
+          "status": "current",
+          "indicators": "$2.7M board-service match; ~18,500 employees' donations matched; ~$6M disaster relief in 2025",
+          "themes": {
+            "community": "community investment: dollars to nonprofits"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E6",
+          "activity": "Philanthropic funding to Bournemouth (U.K.) nonprofits that help young people build skills and reach careers",
+          "quote": "announced £3.5 million in philanthropic funding over five years to local nonprofit",
+          "section": "Report > Human capital > Uplifting talent in our communities",
+          "status": "current",
+          "indicators": "£3.5 million over five years, announced 2025",
+          "themes": {
+            "community": "external education: youth skills funding with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E7",
+          "activity": "Buenos Aires youth workforce initiative with nonprofits, municipalities and employers (skills training, work-based learning)",
+          "quote": "announcing $6 million in philanthropic support in 2025 aimed at connecting",
+          "section": "Report > Human capital > Uplifting talent in our communities",
+          "status": "current",
+          "indicators": "$6 million announced in 2025",
+          "themes": {
+            "community": "external education: youth skills program with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E8",
+          "activity": "New Skills Ready Network partners with educators, employers and policymakers to strengthen youth career pathways",
+          "quote": "Through the New Skills Ready Network, JPMorganChase works with educators,",
+          "section": "Report > Human capital > Uplifting talent in our communities",
+          "status": "current",
+          "indicators": "six named U.S. cities; no participant figures disclosed",
+          "themes": {
+            "community": "external education: named partnership with schools and educators"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E9",
+          "activity": "Apprenticeship programs (U.K. four-year degree apprenticeship, Singapore one-year diploma apprenticeship) open to non-university entrants",
+          "quote": "Our U.K. Apprenticeship Program is a key part of JPMorganChase’s approach to",
+          "section": "Report > Human capital > Uplifting talent in our communities",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "external education: apprenticeships"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E10",
+          "activity": "Co-founded and supports the Veteran Jobs Mission employer coalition for veteran and military-spouse hiring",
+          "quote": "JPMorganChase co-founded the Veteran Jobs Mission in 2011 to expand career",
+          "section": "Report > Human capital > Removing barriers to employment",
+          "status": "current",
+          "indicators": "300+ member companies; coalition passed 1 million veteran hires in 2025; ~21,000 veterans hired by JPM since 2011",
+          "themes": {
+            "community": "community collaboration: named multi-employer coalition with figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E11",
+          "activity": "Philanthropic capital to CDFIs and local organizations for small business technical assistance and lending",
+          "quote": "In 2025, we committed more than $90 million in philanthropic capital to help",
+          "section": "Report > Business growth and entrepreneurship > Expanding access to capital and core banking services",
+          "status": "current",
+          "indicators": "$90M+ committed in 2025",
+          "themes": {
+            "community": "community investment: grants and partnerships with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E12",
+          "activity": "Philanthropic capital to nonprofits expanding and preserving affordable housing",
+          "quote": "In 2025, the Firm committed $40 million in philanthropic capital to",
+          "section": "Report > Housing access and affordability",
+          "status": "current",
+          "indicators": "$40M in 2025; $490M+ from 2021 to 2025 contributing to 90,000 homes",
+          "themes": {
+            "community": "community investment: dollars to nonprofits"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E13",
+          "activity": "Leadership Edge manager development, training catalog and Education Benefit Program for employees",
+          "quote": "more than 23,000 managers and executives participated in Leadership",
+          "section": "Report > Human capital > Developing leaders and managing talent",
+          "status": "current",
+          "indicators": "23,000+ Leadership Edge participants; 8.6 million digital courses completed in 2025",
+          "themes": {
+            "community": "employee development"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E14",
+          "activity": "One-time contribution of Visa shares to the JPMorgan Chase Foundation",
+          "quote": "as well as the absence of a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024.",
+          "section": "Item 7 > Overview / Financial performance",
+          "status": "past",
+          "indicators": "$1.0 billion (2024)",
+          "themes": {
+            "community": "community investment (past, context only)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E15",
+          "activity": "Business Resource Groups (employee networks open to all) with senior-leader sponsors",
+          "quote": "participate as members of one or more of our 14 BRGs across more than 350",
+          "section": "Report > Human capital > Driving a culture of inclusion",
+          "status": "current",
+          "indicators": "14 BRGs, 350+ chapters, nearly 200,000 employee members",
+          "themes": {
+            "cross_cultural": "internal practice: employee networks with membership figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E16",
+          "activity": "Virtual call center program hires in areas with limited access to call center jobs, including military spouses and bilingual talent",
+          "quote": "mobility constraints, including for military spouses and bilingual talent.",
+          "section": "Report > Human capital > Removing barriers to employment",
+          "status": "current",
+          "indicators": "450+ jobs created",
+          "themes": {
+            "cross_cultural": "internal practice: barrier-removing hiring with figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E17",
+          "activity": "Second Chance Agenda hiring of people with criminal records and encouraging other employers to do the same",
+          "quote": "Our Second Chance Agenda strives to remove barriers to employment and provide",
+          "section": "Report > Human capital > Removing barriers to employment",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "internal practice: removing barriers for an underrepresented group"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E18",
+          "activity": "Chase Secure Banking: low-cost, no-overdraft-fee, Bank On certified account for people entering mainstream banking",
+          "quote": "Since launching in 2019, we have opened approximately 3 million",
+          "section": "Report > Financial health and wealth creation > Access to mainstream financial services",
+          "status": "current",
+          "indicators": "~3 million accounts since 2019; customers report saving >$45/month in fees",
+          "themes": {
+            "cross_cultural": "customer access: product built for underserved customers, with measured reach"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E19",
+          "activity": "Cash-flow underwriting to give credit to customers with no or thin credit history",
+          "quote": "based on cash flow underwriting that leverages customer deposit data.",
+          "section": "Report > Financial health and wealth creation > Improving financial stability and resilience",
+          "status": "current",
+          "indicators": "credit cards approved for 100,000+ new-to-credit customers, 2021–2025",
+          "themes": {
+            "cross_cultural": "customer access: serving underserved customers"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E20",
+          "activity": "Chase Homebuyer Grant for buyers in select census tracts, as part of lending to LMI and minority communities",
+          "quote": "The Chase Homebuyer Grant offers up to $5,000 to customers purchasing homes in",
+          "section": "Report > Housing access and affordability",
+          "status": "current",
+          "indicators": "~8,000 grants totaling ~$36M in 2025; ~65% of 82,000+ funded home loans went to LMI or minority customers or communities",
+          "themes": {
+            "cross_cultural": "customer access: program for historically underserved communities, with figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E21",
+          "activity": "Supplier inclusion program that educates small and diverse suppliers and opens procurement opportunities to them (no preferences)",
+          "quote": "with approximately $2.9 billion spent with Tier 1 small and/or diverse suppliers and",
+          "section": "Report > Business growth and entrepreneurship > Creating opportunities for business growth",
+          "status": "current",
+          "indicators": "$2.9B Tier 1 and $946M Tier 2 spend with small and/or diverse suppliers in 2025 (small and diverse not separated)",
+          "themes": {
+            "cross_cultural": "connecting communities: access for underrepresented-owned businesses"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Community and Cross-cultural coverage marked insufficient, which triggers the automated sustainability-report second look. The 10-K says almost nothing about external community programs, and inclusion is limited to demographics. The $1.0 billion Visa-share contribution to the JPMorgan Chase Foundation was recorded in Q2 2024 and is marked past. The MD&A notes its absence in FY2025, so it does not raise the score. The Public Responsibility Committee oversees 'community investment', but this is governance language and is not scored. The MD&A line 'Credit for U.S. small businesses $2.9 trillion' appears to be a garbled table extraction: the $2.9 trillion likely refers to total credit and capital for all clients, so it was not used as a small-business indicator. The following were treated as traps and not counted: 'Consumer & Community Banking' (segment name), 'Community Reinvestment Act' (regulatory), mandatory compliance and conduct training, and client fraud-awareness education (a risk control, similar to customer education). Item 7 was read only as targeted excerpts.",
       "quote_check_status": "passed",
-      "thin_filing": false,
-      "thin_filing_trigger": "",
+      "flags": [],
       "human_capital_words": 897,
-      "score_source": "10-K",
-      "report_url": "",
-      "second_look": null
+      "score_source": "10-K + sustainability report",
+      "report_url": "https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/about/jpmc-sustainability-report-2025.pdf",
+      "second_look": {
+        "status": "scored",
+        "report_url": "https://www.jpmorganchase.com/content/dam/jpmorganchase/documents/about/jpmc-sustainability-report-2025.pdf",
+        "report_year": 2025,
+        "themes": [
+          "community",
+          "cross_cultural"
+        ]
+      }
     },
     "WFC": {
       "ticker": "WFC",
       "company_name": "Wells Fargo & Company",
       "sector": "Financials",
-      "run_id": "jakey",
+      "run_id": "v2_targeted",
+      "rubric_version": 2,
       "model": "claude-opus-5-5",
       "sections": [
-        "item1"
+        "item1",
+        "item7_targeted"
       ],
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0000072971-26-000133",
-      "scored_at": "2026-10-18T20:21:36",
+      "scored_at": "2026-10-18T22:11:40",
       "themes": {
         "creativity": {
           "ai_score": 0,
           "score": 0,
-          "quote_check": "passed",
-          "level_reason": "Level 0: Item 1 describes no creative, artistic, publishing or storytelling activity.",
-          "quotes": []
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "reason": "Level 0: the business description covers banking, lending, wealth and capital markets products and shows no creative activity.",
+          "flags": [],
+          "coverage_trigger": ""
         },
         "community": {
           "ai_score": 2,
           "score": 2,
-          "quote_check": "passed",
-          "level_reason": "Level 2 (one specific practice): the filing describes a tuition reimbursement program and dollar spending on employee learning, but no school, nonprofit, mentoring or community partnerships with numbers, so the lower level applies.",
-          "quotes": [
-            {
-              "quote": "Additionally, we provide tuition reimbursement to eligible employees.",
-              "found": true
-            },
-            {
-              "quote": "During 2025, we invested approximately $200 million in a variety of employee learning and development programs, including functional training, required risk and regulatory compliance training, leadership and professional development, and early talent development programs.",
-              "found": true
-            }
-          ]
+          "coverage": "insufficient",
+          "evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "reason": "Level 2: all qualifying activity is employee development ($200 million in learning programs plus tuition reimbursement), which caps Community at 2, and the filing does not discuss external education or community investment.",
+          "flags": [],
+          "coverage_trigger": "ai"
         },
         "cross_cultural": {
           "ai_score": 1,
           "score": 1,
-          "quote_check": "passed",
-          "level_reason": "Level 1: only general welcoming language and workforce demographic percentages, with no specific inclusion practice described.",
-          "quotes": [
-            {
-              "quote": "provide an environment that welcomes people from different backgrounds and with different experiences.",
-              "found": true
-            },
-            {
-              "quote": "In the U.S., 50% of our workforce identified as white, 49% identified as other races/ethnicities, and 1% did not declare.",
-              "found": true
-            }
-          ]
+          "coverage": "insufficient",
+          "evidence_ids": [
+            "E3",
+            "E4"
+          ],
+          "valid_evidence_ids": [
+            "E3",
+            "E4"
+          ],
+          "reason": "Level 1: only a general welcoming-environment statement and workforce demographic statistics, with no specific internal, customer-access or community-connecting program described.",
+          "flags": [],
+          "coverage_trigger": "ai"
         },
         "entrepreneurship": {
-          "ai_score": 2,
-          "score": 2,
-          "quote_check": "passed",
-          "level_reason": "Level 2 (one specific practice): small business lending is named as a product, but there is no measurable data on small businesses served.",
-          "quotes": [
-            {
-              "quote": "We provide consumer financial products and services including checking and savings accounts, credit and debit cards, and home, auto, personal, and small business lending.",
-              "found": true
-            }
-          ]
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E5"
+          ],
+          "valid_evidence_ids": [
+            "E5"
+          ],
+          "reason": "Level 1: the company serves small businesses with standard lending and banking products but describes no specific program or tool that lowers barriers to starting or growing a business (torn between 1 and 2, lower level chosen).",
+          "flags": [],
+          "coverage_trigger": ""
         }
       },
       "scores": {
         "creativity": 0,
         "community": 2,
         "cross_cultural": 1,
-        "entrepreneurship": 2
+        "entrepreneurship": 1
       },
-      "final_score": 22.0,
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "insufficient",
+        "cross_cultural": "insufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 19.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Company-funded learning and development programs for its own employees, including functional, leadership, professional and early talent development",
+          "quote": "During 2025, we invested approximately $200 million in a variety of employee learning and development programs, including functional training, required risk and regulatory compliance training, leadership and professional development, and early talent development programs.",
+          "section": "Item 1 > Human Capital > Employee learning and development",
+          "status": "current",
+          "indicators": "approximately $200 million invested in 2025; approximately 205,000 active employees",
+          "themes": {
+            "community": "employee development: specific current program with disclosed spend (includes but is not limited to compliance training)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Tuition reimbursement for eligible employees",
+          "quote": "Additionally, we provide tuition reimbursement to eligible employees.",
+          "section": "Item 1 > Human Capital > Employee learning and development",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "employee development: education support for own staff"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Stated aim of a workplace that welcomes people from different backgrounds (aspirational statement, no specific practice described)",
+          "quote": "maintaining recruitment and career development practices that support our employees and provide an environment that welcomes people from different backgrounds and with different experiences.",
+          "section": "Item 1 > Human Capital",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "general statement only, no specific program described"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Disclosure of workforce gender and race/ethnicity demographics",
+          "quote": "In the U.S., 50% of our workforce identified as white, 49% identified as other races/ethnicities, and 1% did not declare.",
+          "section": "Item 1 > Human Capital",
+          "status": "current",
+          "indicators": "global workforce 50% female / 50% male; U.S. 50% white, 49% other races/ethnicities, 1% undeclared",
+          "themes": {
+            "cross_cultural": "workforce demographics disclosure only"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "Small business lending and banking products offered alongside consumer products",
+          "quote": "We provide consumer financial products and services including checking and savings accounts, credit and debit cards, and home, auto, personal, and small business lending.",
+          "section": "Item 1 > Description of Business > General",
+          "status": "current",
+          "indicators": "none disclosed specifically for small businesses (segment revenue and customer counts are not broken out for small business in the provided text)",
+          "themes": {
+            "entrepreneurship": "serving small businesses as customers; no specific barrier-lowering program described"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "The Human Capital section is short and covers only employee pay, benefits, development and work-life matters. Item 1 says nothing about philanthropy, a foundation, external education or community investment, and it incorporates additional information by reference to the 2025 Annual Report to Shareholders. Community and Cross-cultural are therefore marked insufficient and should get the automated second look using the sustainability report. The $200 million development figure includes required risk and regulatory compliance training, which cannot be separated out. This does not change the score, because the employee-development cap of 2 applies either way. These items were checked and excluded as non-qualifying: the Community Reinvestment Act, which appears only as regulatory description; 'communities' in the Item 7 Risk and Culture paragraph, which is culture language; 'diversified' products; 'stockholders' equity'; international operations; and the technology/'innovations' references in the Competition section. The Item 7 excerpt describing Consumer Banking and Lending as serving consumers and small businesses is the same small-business lending activity as E5, so it is not counted twice. Item 7 references counts of digital/mobile active consumer and small business customers, but the excerpt contains no figures. The filing also discloses an ongoing FRB consent order (asset cap removed June 2025) and an OCC formal agreement on AML/sanctions. These are recorded for context only and are not scored.",
       "quote_check_status": "passed",
-      "thin_filing": false,
-      "thin_filing_trigger": "",
+      "flags": [
+        "coverage insufficient (community, cross_cultural); second look: no report found"
+      ],
       "human_capital_words": 418,
       "score_source": "10-K",
       "report_url": "",
-      "second_look": null
+      "second_look": {
+        "status": "no report found",
+        "report_url": "",
+        "report_year": null,
+        "themes": [
+          "community",
+          "cross_cultural"
+        ]
+      }
+    },
+    "XOM": {
+      "ticker": "XOM",
+      "company_name": "Exxon Mobil Corporation",
+      "sector": "Energy",
+      "run_id": "v2_targeted",
+      "rubric_version": 2,
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-18",
+      "fiscal_year": 2025,
+      "accession_number": "0000034088-26-000045",
+      "scored_at": "2026-10-18T22:15:46",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "reason": "Level 0: the business description covers oil, gas, fuels, chemicals and lower-emission products, with no creative activity.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E1",
+            "SL-E3",
+            "SL-E4",
+            "SL-E5",
+            "SL-E6",
+            "SL-E7",
+            "SL-E8",
+            "SL-E9",
+            "SL-E10",
+            "SL-E11",
+            "SL-E12",
+            "SL-E14",
+            "SL-E15",
+            "SL-E16",
+            "SL-E17"
+          ],
+          "valid_evidence_ids": [
+            "SL-E1",
+            "SL-E3",
+            "SL-E4",
+            "SL-E5",
+            "SL-E6",
+            "SL-E7",
+            "SL-E8",
+            "SL-E9",
+            "SL-E10",
+            "SL-E11",
+            "SL-E12",
+            "SL-E14",
+            "SL-E15",
+            "SL-E16",
+            "SL-E17"
+          ],
+          "reason": "Level 3: several named current external education and community investment programs with substantial disclosed dollars and participants (GGI $100M, Imperial ~$19M CBAs, $10M Be Well grant, ~2,000 farmers, $750K+ STEM grants); these are site-level and not shown as central to strategy, so not 4.",
+          "flags": [],
+          "coverage_trigger": "ai+code",
+          "score_from_10k": 1,
+          "rescored_from_report": true
+        },
+        "cross_cultural": {
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E2",
+            "SL-E15",
+            "SL-E17",
+            "SL-E18",
+            "SL-E19",
+            "SL-E20"
+          ],
+          "valid_evidence_ids": [
+            "SL-E2",
+            "SL-E15",
+            "SL-E17",
+            "SL-E18",
+            "SL-E19",
+            "SL-E20"
+          ],
+          "reason": "Level 3: Imperial's Indigenous inclusion work is a specific current activity with substantial measured reach (>$1B Indigenous business spend in 2025, ~$19M community benefits agreements); it is an affiliate program, not a major part of the business, so not 4.",
+          "flags": [],
+          "coverage_trigger": "ai+code",
+          "score_from_10k": 1,
+          "rescored_from_report": true
+        },
+        "entrepreneurship": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "reason": "Level 0: there is no service or program that enables founders or small businesses.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 3,
+        "cross_cultural": 3,
+        "entrepreneurship": 0
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 30.0,
+      "original_10k_scores": {
+        "creativity": 0,
+        "community": 1,
+        "cross_cultural": 1,
+        "entrepreneurship": 0
+      },
+      "original_10k_final": 10.0,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Career-oriented talent development for the company's own employees through planned experiences and training",
+          "quote": "Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle.",
+          "section": "Item 1 > Business > Talent development (human capital paragraphs)",
+          "status": "current",
+          "indicators": "Average length of service about 30 years for career employees; 58 thousand regular employees at year-end 2025; no program names, participant counts or spending disclosed",
+          "themes": {
+            "community": "employee development described only as a general approach, with no named program or figures"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Disclosure of a multinational workforce with a general statement on diversity of thought",
+          "quote": "With over 59 percent of our global employees from outside the U.S. and more than 160 nationalities represented across the Company, we encourage and respect diversity of thought, ideas, and perspective from our workforce.",
+          "section": "Item 1 > Business > Talent development (human capital paragraphs)",
+          "status": "current",
+          "indicators": "Over 59% of employees outside the U.S.; more than 160 nationalities",
+          "themes": {
+            "cross_cultural": "workforce demographic statistics and a general statement only, with no specific inclusion practice"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E1",
+          "activity": "Career-long training and development of the company's own employees",
+          "quote": "Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle.",
+          "section": "Item 1 > Business (talent development)",
+          "status": "current",
+          "indicators": "58 thousand regular employees; average service about 30 years",
+          "themes": {
+            "community": "employee development"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E2",
+          "activity": "Workforce nationality and geographic mix statement",
+          "quote": "With over 59 percent of our global employees from outside the U.S. and more than 160 nationalities represented across the Company",
+          "section": "Item 1 > Business (talent development)",
+          "status": "current",
+          "indicators": "59% of employees outside U.S.; 160+ nationalities",
+          "themes": {
+            "cross_cultural": "demographic disclosure only (max 1)"
+          },
+          "source_doc": "10-K",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E3",
+          "activity": "Beaumont contributions to local schools for supplies, technology, STEM events and scholarships",
+          "quote": "Over $355,000 in contributions to local education providers in 2025 to",
+          "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+          "status": "current",
+          "indicators": "$355,000+ in 2025",
+          "themes": {
+            "community": "community investment in local education with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E4",
+          "activity": "409 Energy Scholars two-week STEM immersion and mentoring for high-school seniors",
+          "quote": "Mentoring more than 70 high-school seniors in our 409 Energy Scholars",
+          "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+          "status": "current",
+          "indicators": "70+ students since 2022",
+          "themes": {
+            "community": "named external education program with participants"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E5",
+          "activity": "Teacher externship with Workforce Solutions of Southeast Texas",
+          "quote": "Collaborating with Workforce Solutions of Southeast Texas in 2025 to",
+          "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+          "status": "current",
+          "indicators": "10 teachers, four-day externship",
+          "themes": {
+            "community": "external education partnership, limited reach"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E6",
+          "activity": "$10 million, 10-year grant to MD Anderson for Be Well Beaumont community health initiative",
+          "quote": "Announcing 10-year, $10 million grant from ExxonMobil to the University",
+          "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+          "status": "current",
+          "indicators": "$10 million over 10 years, announced 2025",
+          "themes": {
+            "community": "community investment with dollars committed"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E7",
+          "activity": "Scholarship for fenceline-neighborhood high-school graduates to study process technology at Lamar Institute of Technology",
+          "quote": "In early 2025, ExxonMobil Beaumont announced a scholarship for",
+          "section": "Report > Managing socioeconomic impacts > In practice: Environmental justice in the U.S.",
+          "status": "current",
+          "indicators": "none disclosed (covers two-year course load)",
+          "themes": {
+            "community": "external education scholarship"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E8",
+          "activity": "GCGV Good Neighbor Program STEM education grants near Corpus Christi",
+          "quote": "More than $750,000 in STEM education grants from ExxonMobil and the",
+          "section": "Report > Managing socioeconomic impacts > Community engagement (GCGV Good Neighbor Program)",
+          "status": "current",
+          "indicators": "$750,000+ in 2025",
+          "themes": {
+            "community": "named community investment program with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E9",
+          "activity": "GCGV paid internships including Del Mar College Process Technology Internship Program",
+          "quote": "26 paid interns, including 20 in the second annual Process Technology",
+          "section": "Report > Managing socioeconomic impacts > Community engagement (GCGV Good Neighbor Program)",
+          "status": "current",
+          "indicators": "26 interns in 2024",
+          "themes": {
+            "community": "external education / internships with participants"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E10",
+          "activity": "GCGV donations to United Way of the Coastal Bend and local environmental groups",
+          "quote": "$237,000 in total contributions to United Way of the Coastal Bend, and",
+          "section": "Report > Managing socioeconomic impacts > Community engagement (GCGV Good Neighbor Program)",
+          "status": "current",
+          "indicators": "$237,000 to United Way plus $125,000 to environmental organizations (2024)",
+          "themes": {
+            "community": "community investment with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E11",
+          "activity": "Greater Guyana Initiative funding community-identified capacity projects (e.g., water tanks, solar lights)",
+          "quote": "The Greater Guyana Initiative (GGI) is a ten-year, $100 million",
+          "section": "Report > Managing socioeconomic impacts > Spotlight: The Greater Guyana Initiative",
+          "status": "current",
+          "indicators": "$100 million over ten years (with coventurers); 200 household water tanks, 200 solar LED lights",
+          "themes": {
+            "community": "large named community investment with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E12",
+          "activity": "Hinterland Poultry Project building a hatchery and training local farmers in Guyana",
+          "quote": "hatchery and supported nearly 2,000 farmers, including women",
+          "section": "Report > Managing socioeconomic impacts > Spotlight: The Greater Guyana Initiative",
+          "status": "current",
+          "indicators": "GY$120 million project; ~2,000 farmers; 25,000+ chicks; 350,000+ eggs",
+          "themes": {
+            "community": "community investment and producer skills-building with participants"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E13",
+          "activity": "Guyana STEM Initiative: teacher training, STEM centres and college pathways",
+          "quote": "The Guyana STEM Initiative is a $100 million, 10 -year education program",
+          "section": "Report > Local economic development > Building the talent pipeline in Guyana",
+          "status": "planned",
+          "indicators": "$100 million over 10 years; teacher training begins Sept 2026; first STEM Centre 2029",
+          "themes": {
+            "community": "external education (planned, context only)"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E14",
+          "activity": "MozUp Enterprise Development Center training and mentoring Mozambican businesses",
+          "quote": "in Maputo, Mozambique, in 2020, to offer training, advisory, and",
+          "section": "Report > Local economic development > Spotlight: Fostering Local Supplier Development with MozUp",
+          "status": "current",
+          "indicators": "two offices (Maputo, Pemba); no participant count disclosed",
+          "themes": {
+            "community": "named external education/mentoring program"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E15",
+          "activity": "ExxonMobil Foundation-funded Cherie Blair Foundation business and finance training for women entrepreneurs in Nigeria and Guyana",
+          "quote": "program supports local women entrepreneurs",
+          "section": "Report > Local economic development > Spotlight: Supporting women entrepreneurs",
+          "status": "current",
+          "indicators": "outcome percentages only (e.g., 79-95% reported revenue increases); no participant count",
+          "themes": {
+            "community": "named external education program",
+            "cross_cultural": "program serving an underrepresented group, no reach figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E16",
+          "activity": "Huizhou community footbridge with elevators for elderly residents, co-planned with local communities",
+          "quote": "footbridge. The bridge includes elevators to",
+          "section": "Report > Community health, safety, and security > Spotlight: Road safety in China",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": "single community infrastructure investment, limited reach"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E17",
+          "activity": "Imperial community benefits agreements with Indigenous communities in Canada",
+          "quote": "Committed nearly $19 million through community benefits",
+          "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+          "status": "current",
+          "indicators": "nearly $19 million in 2025",
+          "themes": {
+            "community": "community investment with dollars",
+            "cross_cultural": "investment in Indigenous communities with dollars"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E18",
+          "activity": "Imperial procurement from Indigenous businesses",
+          "quote": "Surpassed $7 billion in spending with Indigenous businesses since",
+          "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+          "status": "current",
+          "indicators": "$7 billion+ since 2008; more than $1 billion in 2025",
+          "themes": {
+            "cross_cultural": "removing barriers for Indigenous businesses, with substantial measured reach"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E19",
+          "activity": "Imperial connecting Indigenous and non-Indigenous suppliers as a CCIB procurement champion",
+          "quote": "Imperial has worked to connect Indigenous and non-Indigenous",
+          "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+          "status": "current",
+          "indicators": "none disclosed separately",
+          "themes": {
+            "cross_cultural": "connecting communities"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E20",
+          "activity": "Imperial cultural awareness training for employees and growing Indigenous workforce representation",
+          "quote": "workforce and enhancing cultural awareness and understanding for its",
+          "section": "Report > Indigenous peoples > Imperial's commitment to excellence in community engagement",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": "internal practice, no figures"
+          },
+          "source_doc": "report",
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Human capital disclosure is a few general sentences, and the Item 7 excerpts contain no qualifying community or inclusion content, so Community and Cross-cultural coverage is insufficient. This triggers the automated second look using the company's latest sustainability report. Trap terms excluded: 'foundation' in Item 7 refers to the Global Outlook as the foundation for Corporate Plan assumptions, not a charitable foundation. ProxximaTM resin systems and carbon materials are industrial products, not creative work. The company's own research programs and over 8 thousand patents are its own innovation. The ladder places own innovation at level 1, but it does not enable other ventures and the 'innovation' trap applies, so I chose the lower level and Entrepreneurship is 0. For Community, the 30-year average service figure measures retention, not the reach of a development program.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 0,
+      "score_source": "10-K + sustainability report",
+      "report_url": "https://corporate.exxonmobil.com/-/media/global/files/sustainability-report/2026/2026-sustainability-report.pdf",
+      "second_look": {
+        "status": "scored",
+        "report_url": "https://corporate.exxonmobil.com/-/media/global/files/sustainability-report/2026/2026-sustainability-report.pdf",
+        "report_year": 2026,
+        "themes": [
+          "community",
+          "cross_cultural"
+        ]
+      }
     }
   }
 }
