@@ -290,7 +290,11 @@ def find_report(company, cfg, folder, log_lines):
         except Exception as e:
             log_lines.append(f"rejected (download/read failed: {e}): {url}")
             continue
-        year = pdf_year(reader)
+        # the report's own year: from its file name if it has one (a 2024
+        # report often mentions next year's dates), else from its first pages
+        url_years = [int(y) for y in re.findall(r"(?<!\d)(20[2-3]\d)(?!\d)",
+                                                urlparse(url).path)]
+        year = max(url_years) if url_years else pdf_year(reader)
         if not year or year < MIN_YEAR:
             log_lines.append(f"rejected (year {year} < {MIN_YEAR}): {url}")
             continue
