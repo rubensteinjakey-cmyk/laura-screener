@@ -1,0 +1,43 @@
+{
+  "ticker": "DDOG",
+  "accession_number": "0001628280-26-008819",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "full_text_words": 58676,
+  "sections": {
+    "item1": {
+      "words": 5517,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5517,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6410,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6410,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 125,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 225
+    }
+  },
+  "notes": [],
+  "human_capital_words": 92,
+  "human_capital_found": true,
+  "people_paragraph_words": 569
+}

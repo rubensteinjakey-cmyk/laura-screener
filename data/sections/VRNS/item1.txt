@@ -1,0 +1,229 @@
+Item 1. | Business
+
+We were incorporated under the laws of the State of Delaware on November 3, 2004 and commenced operations on January 1, 2005. Our principal offices are located at 801 Brickell Avenue, Miami, FL 33131. For convenience in this report, the terms “Company,” “Varonis,” “we” and “us” may be used to refer to Varonis Systems, Inc. and/or its subsidiaries, except where indicated otherwise. Our telephone number is (877) 292-8767.
+
+Overview
+
+Varonis is a data security company focused on protecting what matters most to organizations: their data. Modern enterprises run on data that is created, copied, shared and accessed across cloud services, SaaS applications and on-premises environments, often faster than security teams can see, understand or control. We started Varonis around a simple observation that we believe has only intensified over time: the ability to create and share data scales far faster than the ability to secure it. Our strategy is built around closing that gap, giving organizations the deep visibility and automated controls to deeply understand their enterprise data, reduce exposure and respond to threats quickly, wherever their data lives.
+
+Data growth itself is not new. What has changed is the combination of scale, sprawl and speed. Cloud transformation and artificial intelligence ("AI") initiatives are pushing data into more systems, across more environments and making it accessible to more users, applications and AI agents. As adoption of software-a-service (“SaaS”) and infrastructure-as-a-service (“IaaS”) has accelerated collaboration and productivity, it has also expanded and fragmented the enterprise data footprint. In many organizations, data security controls have not kept pace, increasing the likelihood that misconfigurations or credential compromise can lead to significant data exposure, threats and regulatory penalties.
+
+We believe the adoption of AI materially raises the stakes for security and risk. Copilots, agents and automated workflows are now embedded in widely used enterprise platforms such as Microsoft 365, Salesforce, Google Workspace and Box and they increasingly act on data at machine speed. These systems typically rely on existing access controls to determine what data can be surfaced, summarized or acted upon. When those controls are overly permissive, poorly understood and unmonitored, AI can unintentionally amplify risk by scaling access faster than organizations can manage manually. As companies customize AI agents and train their own small and large language models, we believe the security of data, identities, agents and underlying infrastructure will increasingly require automated solutions.
+
+In this environment, access becomes the risk multiplier. When too many people, systems or automated agents can reach sensitive data ungoverned, small incidents can quickly become large ones. We refer to this risk as the “blast radius.” We believe organizations must continuously reduce their blast radius – limiting unnecessary ability to access, move or misuse data – to reap the tremendous benefits of AI. Achieving this consistently and at scale isn’t possible through manual processes, making automation essential.
+
+At the same time, threat actors continue to refine their methods of monetizing sensitive data, and regulatory expectations around privacy, data protection, and AI governance continue to evolve. Many organizations are also operating under real constraints – the demand for skilled security professionals continues to exceed supply, and teams are expected to manage growing complexity with limited resources. We believe these pressures will continue to drive adoption of automated approaches that reduce data exposure by default and enable faster detection and response.
+
+Enterprises today rely on many combinations of data stores, cloud services and SaaS applications, making it difficult to understand data exposure holistically or control breach risk without a unified approach. We believe comprehensive coverage and automation are required to keep pace with the scale and complexity of modern data environments. Our platform has expanded from an initial focus on Windows files shares to cover a broad range of mission-critical cloud and on-premises data stores, cloud infrastructure environments, identity repositories, and key SaaS and AI applications. In 2022, we introduced the Varonis Data Security Platform as a SaaS offering to simplify deployment, accelerate time-to-value, and enable continuous cloud-delivered automation for protecting data.
+
+Varonis software helps organizations of all sizes and industries protect sensitive data stored in the cloud and on-premises, including: files, emails and databases, confidential personal data, financial records, source code, strategic and product plans, and other intellectual property. As the volume, velocity and variety of enterprise data continues to grow, we have built an integrated platform designed to simplify and streamline data security, threat detection and response, and privacy and compliance workflows.
+
+Platform and Technology
+
+Our platform is designed around a core belief: in modern data environments, security outcomes are determined less by perimeter controls and more by how much access exists when something goes wrong. As data spreads across cloud services, SaaS applications and on-premises systems – and as humans, services and AI agents interact with that data at increasing speed – manual approaches to security do not scale. We believe reducing unnecessary access to sensitive data and automatically responding to abnormal behavior are essential to limiting the impact of inevitable failures.
+
+At the foundation of the Varonis Data Security Platform is our ability to understand data in context. Our proprietary technology, continuously collects and analyzes metadata – data about data – across an organizations' environments. We understand what types of data exists, where it lives, who can access it and how it’s being used. This contextual view allows us to map relationships among users, devices, applications, automated agents and data objects, creating a durable model of the organization’s data exposure even as environments change.
+
+This metadata-driven approach enables our platform to operate at enterprise scale with minimal impact on production systems. Rather than relying on static rules or periodic scans, the platform continuously normalizes metadata from disparate sources, making it actionable across hybrid and multi-cloud environments. We believe this persistent, contextual understanding of data is critical to enabling productivity and AI adoption that is effective and safe.
+
+Building on this foundation, the Varonis Data Security Platform is designed to automate outcomes across data protection, threat detection and response, and privacy and compliance. The platform continuously discovers and classifies well-defined sensitive data like credit card numbers, SSNs and patient IDs, and uses machine learning and AI to identify novel domain- and organization-specific data such as recipes, contracts, formulas and other intellectual property. Beyond understanding the data estate, Varonis identifies excessive or risky access and automatically remediates exposure by right-sizing permissions and removing outdated or unnecessary access. By reducing the amount of data that users, systems and automated agents can reach, the platform helps organizations move toward a least-agency model that limits the potential blast radius of an incident without disrupting everyday business operations.
+
+The same model is used to detect and respond to threats. By analyzing data access patterns – user and entity behavior and system activity together – the platform can identify suspicious behavior that could be compromised credentials, insider misuse, malware or ransomware. When threats are detected, the platform can automatically take action to contain it such as restricting access or locking down affected accounts, limiting potential damage and reducing recovery time.
+
+The Varonis platform is offered as a SaaS offering, which we believe is key to our ability to deliver these outcomes at scale. SaaS delivery allows customers to deploy quickly, reduce infrastructure and operational overhead, and benefit from continuous updates to threat models, automation workflows and security capabilities, including our Managed Data Detection and Response (“MDDR”) offering, which are only available through our SaaS platform.
+
+We have further expanded the platform’s capabilities with the introduction of Athena AI, a generative AI layer designed to enhance security operations rather than replace human judgement. Athena AI combines small and large language models with the platform’s deep understanding of data, identities, and prior incidents to help security teams with investigation, response and reporting. By enabling natural-language interaction and generating tailored response guidance, Athena AI helps teams act more quickly and effectively without requiring specialized expertise.
+
+Our platform architecture is designed to be extensible. We continue to expand coverage across additional data stores, cloud services, and SaaS applications. We enhance functionality both organically and through strategic acquisitions. Our recent acquisition of Cyral, Inc. ("Cyral") enhanced our data security offering with database activity monitoring capabilities. We also acquired SlashNext, Inc. ("SlashNext"), an AI-based email security technology that gives Varonis the ability to detect and block modern social-engineering attacks across multiple communication channels. We believe this approach allows customers to consolidate security capabilities onto a single platform while giving us a framework to address emerging risks, including those introduced by AI-driven systems, new data types, and evolving regulatory requirements.
+
+SaaS Delivery Model
+
+Our platform is designed to deliver security outcomes at scale without requiring proportional increases in customer effort or staffing. By automating discovery, classification, access reduction and response, customers can reduce risk across large and complex data environments without relying on manual processes that do not scale.
+
+The SaaS delivery model supports this approach by enabling rapid deployment, continuous updates and lower operational overhead. Customers can begin assessing risk and reducing exposure quickly, while benefiting from ongoing improvements to detection models, automation workflows and new capabilities delivered through the platform.
+
+As part of our strategic transition to SaaS, we have announced the end-of-life of our self-hosted products as of December 31, 2026.
+
+Size of Our Market Opportunity
+
+The International Data Corporation’s Global DataSphere Forecast, 2025-2029, predicts that over the next five years, data will grow at a compound annual growth rate of 25.4% to reach more than 527 zettabytes (or 527 trillion Gigabytes) by 2029. That data will include both structured and unstructured data, but unstructured data overwhelmingly dominates, accounting for approximately 90% of the data created each year. We expect this significant growth to continue creating a need for automation technologies to protect and manage data. We believe that the diverse coverage and functionality offered by our platform positions us well to capitalize on this powerful trend in the digital universe.
+
+Growth Strategy
+
+Our objective is to be the primary platform enterprises rely on to protect their most sensitive data. We believe the combination of accelerating data growth, expanding use of SaaS and cloud infrastructure, and the adoption of AI-driven systems creates a durable, long-term opportunity for automated data security. Our growth strategy is focused on scaling a unified platform that reduces data exposure, limits the impact of incidents and enables customers to operate securely as their environments become more complex.
+
+Extend the Platform Through Innovation and Strategic Transactions. We intend to continue investing in product development to expand the capabilities of the Varonis Data Security Platform and address new use cases from changes in how data is created, accessed and used. Our platform architecture allows us to add coverage across additional data stores, cloud services and SaaS applications, as well as introduce new automation and response capabilities without requiring customers to deploy separate point solutions.
+
+In addition to organic innovation, we selectively pursue strategic acquisitions that extend our platform or accelerate entry into adjacent markets where we believe automation and context provide a competitive advantage. We focus on technologies that can be integrated into our platform to enhance data visibility, reduce exposure and improve detection and response outcomes, including recent additions in database activity monitoring and email security. We believe this disciplined approach allows us to expand functionality while maintaining a unified operating model.
+
+Grow Adoption Within Existing Customers. We believe our existing customer base represents a significant opportunity for continued growth. As customer environments evolve, data volumes increase and AI-driven workflows expand, organizations typically extend data security controls to additional systems and use cases. Our platform is designed to scale with customer needs, enabling broader adoption across data stores, applications and environments over time. Our renewal rate for the year ended December 31, 2025 continued to be over 90%,
+
+We expect increased adoption to be driven by customers consolidating security capabilities onto a single platform. By delivering ongoing improvements through our platform and focusing on risk reduction outcomes, we aim to deepen customer relationships and maintain high renewal rates.
+
+Acquire New Customers Through Platform-Led Expansion.. We continue to target new customers across industries and geographies that face growing data security, compliance and operational challenges. While our platform is built to support organizations of all sizes, we remain focused on larger enterprises that can benefit most from automation at scale.
+
+Our go-to-market approach combines a global network of channel partners with a highly trained sales organization that engages customers through risk assessments and platform demonstrations. We believe this model creates efficiencies in customer acquisition while clearly articulating the value of reducing data exposure and limiting incident impact.
+
+Scale SaaS, Automation, and Managed Services. The transition to a SaaS delivery model is central to our growth strategy. SaaS delivery enables faster deployment, continuous improvement and increased automation, while also supporting recurring revenue and operational leverage. It also provides the foundation for advanced capabilities including our MDDR offering, which delivers 24x7x365 monitoring and response backed by service-level commitments.
+
+We believe demand for managed and automated security outcomes will continue to increase as organizations seek to operate securely with constrained internal resources. By combining platform automation with expert-led response, we aim to help customers reduce risk and simplify operations.
+
+Expand Internationally and Establish Platform Leadership. We believe there is a significant opportunity to expand adoption of our platform internationally as data protection, privacy and security requirements become increasingly global. We continue to invest in international sales, marketing, and partner relationships to support this expansion.
+
+We also work closely with leading cloud services providers, storage vendors and SaaS platforms to ensure compatibility and integration across the enterprise ecosystem. We believe these relationships, combined with our broad coverage and automation capabilities, position the Varonis Data Security Platform to become a standard foundation for enterprise data security.
+
+Competition
+
+The markets in which we operate are competitive and evolving. Enterprises address data security, privacy and threat detection through a combination of internal processes and software solutions, including point products designed to address specific use cases. While some vendors offer functionality that overlaps with individual components of our platform, we believe the competitive landscape is increasingly shaped by differences in approach, rather than by any single feature.
+
+Many organizations have historically addressed data security through fragmented tools focused on visibility, classification or monitoring within isolated environments. We believe this approach is insufficient as data becomes more distributed across cloud services, SaaS applications, and on-premises systems, and as access is granted not only to users but also to services and automated agents. In this environment, the ability to understand data in context and reduce unnecessary access at scale becomes a critical differentiator.
+
+We compete with a range of vendors that provide standalone or partially integrated solutions across areas such as data security posture management, data discovery and classification, data privacy, directory and identity security, and threat detection and response. We also face competition from broader security platforms that offer adjacent capabilities. In addition, large cloud providers and SaaS vendors continue to expand native security features within their platforms.
+
+We believe our competitive position is strengthened by the breadth of environments we support and by our ability to deliver automated outcomes across data security, threat detection and response, and privacy and compliance within a single platform. Our approach is designed to reduce data exposure proactively, limit the potential impact of incidents and respond quickly when threats occur, rather than relying primarily on alerts and manual intervention.
+
+As organizations increasingly adopt SaaS, cloud infrastructure, and AI-driven systems, we believe the limitations of manual, rules-based and alert-centric security models become more apparent. Solutions that depend heavily on customer configuration, tuning and ongoing human oversight may struggle to scale as environments grow in size and complexity. We believe automation will become an essential requirement for effective data security.
+
+Competition in our markets is influenced by several factors including the effectiveness and reliability of solutions, the breadth of support environments, scalability, ease of deployment and the ability to deliver measurable risk reduction. We believe we compete favorably across these areas, however, some competitors may have greater resources, longer operating histories, broader brand recognition or deeper relationships with certain customers and partners, which could affect our ability to compete in specific situations.
+
+As the market continues to evolve, we expect competition to increase as new vendors enter the space and existing providers expand their offerings. We believe our focus on platform consolidation, automation, and reducing data exposure positions us to compete effectively as customer requirements continue to change.
+
+Products
+
+Our products are delivered through our flagship Varonis Data Security Platform, a unified platform designed to protect enterprise data across cloud, SaaS and on-premises environments. With the introduction of our SaaS offering, we have simplified how customers use our capabilities by moving away from individually licensed modules and towards a platform-based model. This approach is intended to reduce complexity, accelerate adoption ,and enable customers to realize value from automation across multiple use cases.
+
+Software-as-a-Service ("SaaS")
+
+The Varonis Data Security Platform is offered as a SaaS solution and is sold as a platform license that includes a core set of integrated capabilities. We believe this delivery and licensing model reflects how customers increasingly prefer to consume security technology: as a continuously updated service that reduces operational overhead and supports automation at scale.
+
+The Varonis Data Security Platform SaaS license includes capabilities designed to help customers understand their data exposure, reduce unnecessary access, and detect and respond to threats. These capabilities include:
+
+•Varonis Data Security Platform. We know that customers who utilize a higher number of licenses see more value upfront through automation and synergy between modules. Therefore, we drastically simplified our subscription licensing under SaaS, combining five of our most popular licenses into a single Varonis Data Security Platform license. The Varonis Data Security Platform SaaS license includes new capabilities not available in our self-hosted product suite. Today, the Varonis Data Security Platform SaaS license includes:
+
+◦Data security posture management ("DSPM"). Provides customers with real-time visibility of their data security posture across their multi-cloud and on-premises data, helps prioritize remediation efforts, and tracks progress over time.
+
+◦Data access intelligence. Combines data sensitivity, permissions, and activity to show customers who has access to critical data (i.e., their data blast radius), how they got access, and whether access is necessary.
+
+◦Data discovery & classification. Automatically and continuously scans the contents of files, folders, and other objects to determine sensitivity with a high degree of accuracy and precision.
+
+◦Discovery policy library. A frequently updated library for identifying and classifying personal information specific to GDPR, CCPA, and US federal controlled unclassified information (CUI).
+
+◦Least privilege automation. Automatically and continuously remediates excessive data access granted via shared links, direct permissions, and group memberships without manual effort and without impacting business continuity.
+
+◦Data activity monitoring. Gives customers a real-time view into who is accessing data directly or through AI (such as copilots) via a normalized and enriched log of data-centric events such as create, open, read, move, modify, and delete. Varonis also tracks, among other things, permission changes, authentication events, password updates and shared link activity.
+
+◦Data detection and response. Provides high-fidelity, data-centric alerts and automated response actions. Includes a web-based alerts dashboard and investigative interface, and seamlessly integrates with security information and event management systems (SIEM).
+
+◦User & entity behavior analytics. Profiles users, agents and devices and their associated behaviors with respect to systems and data, detects and alerts on meaningful deviations that indicate compromise. New UEBA threat models are automatically delivered to customers to guard against evolving tactics used by cybercriminals, insiders and advanced persistent threats (APTs).
+
+Customers select which environments to protect by purchasing “Protection Packages.” These packages allow customers to extend the platform across:
+
+◦Microsoft 365. Includes support for SharePoint Online, OneDrive for Business, Microsoft Teams, and Entra ID (formerly known as Azure AD). Customers can purchase add-on support for Exchange Online, Microsoft 365 Copilot and ChatGPT Enterprise.
+
+◦Windows & NAS. Includes support for Windows/CIFS-based file shares and NAS storage such as Nutanix, Nasuni, Panzura, Pure Storage, NetApp and Dell EMC. Customers can purchase add-on support for on-premises Active Directory, UNIX/Linux and Edge devices (VPN, DNS, proxy).
+
+◦Hybrid. Combined support for the protected resources in the Microsoft 365 and Windows & NAS packages.
+
+◦Cloud Environments. Protects data across SaaS applications and IaaS environments. The protected resources currently include Salesforce, AWS, Azure, Google Cloud, Google Workspace, Databricks, ServiceNow, Snowflake, Confluence, Slack, GitHub, Okta, Box, Jira, Zoom and databases.
+
+We believe this packaging approach enables customers to scale coverage over time while maintaining a consistent operating model.
+
+The SaaS platform also serves as the foundation for advanced capabilities that require persistent visibility and automation, including our MDDR offering. MDDR provides customers with continuous monitoring and response backed by defined service-level commitments and is available exclusively through our SaaS platform.
+
+Database and Email Security Capabilities
+
+In addition to our core platform functionality, we offer specialized capabilities that extend protection to additional high-risk areas.
+
+•Varonis Database Activity Monitoring (“DAM”). Provides cloud-native monitoring and security for on-premises and cloud databases and is integrated with the broader platform to deliver consistent visibility, classification, and response.
+
+•Varonis Interceptor. Provides best-of-breed phishing prevention and malicious link interception with multi-modal AI and URL sandboxing technologies, extending platform protection to email and collaboration channels. When combined with our MDDR solution, Varonis Interceptor detects and protects across data stores, applications, and communication channels.
+
+On-Premises Subscription Products
+
+Prior to the introduction of our SaaS offering, we sold our products primarily through self-hosted subscription licenses that allowed customers to deploy individual modules on-premises. These products used our core technology to provide visibility, classification, access governance and monitoring across enterprise data environments.
+
+As part of our strategic transition to SaaS, we have announced the end-of-life of our on-premises subscriptions as of December 31, 2026. We expect customers to adopt our SaaS platform as the primary way to engage our capabilities going forward.
+
+Customers
+
+We serve a global customer base across more than 95 countries, supporting organizations that operate in different environments and face significant security, privacy and compliance requirements. Our customers span a wide range of industries, including financial services, public, healthcare, industrial, insurance, energy and utilities, technology, construction and engineering, education, and consumer and retail sectors.
+
+Our platform is used by organizations ranging from small and mid-sized businesses to large multinational enterprises with hundreds of thousands of employees and petabytes of data. While our solutions are applicable across company sizes, a significant portion of our customer base consists of larger enterprises that benefit most from automation at scale and from a unified approach to data security.
+
+We believe our customer relationships are durable and expand over time. As customer data volumes grow, environments become more distributed and AI-driven workflows are adopted, customers typically extend platform coverage to additional data stores, applications, and use cases. This expansion is supported by our platform-based model, continuous SaaS delivery and focus on reducing data exposure and operational burden.
+
+Our customers include organizations that manage highly sensitive information, such as personal and financial data, intellectual property and regulated data. We believe our ability to deliver automated risk reduction, rapid detection and response, and measurable security outcomes, positions as a long-term partner rather than a point solution provider.
+
+Services
+
+Maintenance and Support of Subscription and Perpetual Licenses
+
+Maintenance and support associated with a term license subscription is included in the Term license subscriptions revenue line of the statement of operations. Maintenance and support associated with past perpetual licenses is included in the Maintenance and services line of the statement of operations. These maintenance agreements provide customers the right to receive support and unspecified upgrades and enhancements when and if they become available during the maintenance period and access to our technical support services. Our renewal rate for 2025 continued to be over 90%. Due to the transition to a SaaS delivery model, we expect maintenance and support revenues related to term license subscriptions to decline, as we move closer to their end-of-life. Additionally, we do not expect perpetual license revenues in the future and, accordingly, we also expect the associated maintenance and support to decline.
+
+We maintain a customer support organization that provides all levels of support to our customers. Our customers receive guaranteed response times, direct telephonic support and access to online support portals. Our customer support organization has global capabilities with expertise in both our software and complex IT environments and associated third-party infrastructure.
+
+Sales and Marketing
+
+Sales
+
+We sell our products and services through a global network of resellers and distributors, which we refer to as our channel partners. These channel partners sell our products to end customers and play a key role in identifying opportunities, maintaining customer relationships and supporting deployment. Sales to channel partners are subject to our standard, non-exclusive channel partner agreements that are generally renewed annually and can be terminated by either party with notice.
+
+Our channel model is complemented by a highly trained, professional sales organization that is responsible for market development, managing partner relationships and supporting customer engagements. Our sales teams work closely with channel partners to conduct platform demonstrations and risk assessments that help customers understand their data exposure and the value of reducing risk through automation. We believe this approach allows us to clearly articulate and show the value of our platform.
+
+Marketing
+
+Our marketing strategy is focused on building brand and product awareness of the Varonis Data Security Platform, educating the market on data risk and automation, and supporting customer adoption and expansion. We seek to communicate the business and security outcomes our platform delivers rather than emphasizing individual features or point solutions.
+
+We execute our marketing programs through a combination of internal teams, external partners and channel collaboration. Our activities include brand and content marketing, demand generation, field marketing and partner marketing, customer education and public relations. We also engage with industry analysts, host customer and community events and provide educational resources such as webinars, training programs, and technical content.
+
+We believe that sustained investment in thought leadership and education is important as data security requirements evolve, particularly in areas such as cloud adoption and AI-driven systems. Our marketing efforts are designed to support long-term platform adoption by helping customers and partners understand how to reduce data exposure and operate as environments grow more complex.
+
+Research and Development
+
+Our research and development efforts are focused on advancing the Varonis Data Security Platform by expanding coverage, increasing automation and improving our ability to reduce data exposure and respond to threats at scale. We invest in innovation that strengthens the platform’s core capabilities and allows it to adapt as enterprise data environments, threat models and regulatory requirements evolve.
+
+We conduct the majority of our research and development activities in Israel, which we believe provides access to a highly skilled engineering workforce with deep expertise in security, data systems and large-scale software development. In
+
+addition to organic development, we selectively pursue strategic acquisitions that bring specialized technologies and talent to the platform, accelerating innovation while maintaining a unified architecture.
+
+We believe our sustained investment in research and development supports the long-term competitiveness of our platform and positions us to address emerging risks, including those introduced by new data types, cloud architecture and AI-driven systems.
+
+Intellectual Property
+
+We attempt to protect our technology and the related intellectual property under patent, trademark, copyright and trade secret laws, confidentiality procedures and contractual provisions. No single intellectual property right is solely responsible for protecting our products. The nature and extent of legal protection of our intellectual property rights depends on, among other things, its type and the jurisdiction in which it arises. As of December 31, 2025, we had 116 issued patents and 63 pending patent applications in the United States. Our issued U.S. patents expire between 2026 and 2043. We also had 95 patents issued and 79 applications pending for examination in non-U.S. jurisdictions, and 31 pending Patent Cooperation Treaty (“PCT”) patent applications, all of which are counterparts of our U.S. patent applications. The claims for which we have sought patent protection relate primarily to inventions we have developed for incorporation into our products.
+
+In addition to patented technology, we rely on our unpatented proprietary technology and trade secrets. We generally enter into confidentiality agreements with our employees, consultants, service providers, vendors and customers and generally limit internal and external access to, and distribution of, our proprietary information and proprietary technology through certain procedural safeguards. We also rely on invention assignment agreements with our employees, consultants and others, to assign to the Company all inventions developed by such individuals in the course of their engagement with the Company.
+
+Moreover, we have registered the “Varonis” name and logo and “DatAdvantage,” “DataPrivilege,” “DatAlert,” and other names in the United States and, as related to some of these names, certain other countries.
+
+In addition to Company-owned intellectual property, we license software from third parties for integration into our solution, including open-source software and other software available on commercially reasonable terms. It may be necessary in the future to seek or renew licenses relating to various aspects of our products, processes and services. While we have generally been able to obtain such licenses on commercially reasonable terms in the past, such third parties may not continue to maintain such software or continue to make it available to us.
+
+Seasonality
+
+See Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Seasonality and Quarterly Trends.”
+
+Employees and Human Capital Resources
+
+As of December 31, 2025, we had 2,658 employees and independent contractors who developed, marketed, sold and supported our technology solutions, including 1,139 in the United States, 916 in Israel and 603 in other countries.
+
+We understand that our innovation leadership is ultimately rooted in our people. Competition for qualified personnel in the technology space is intense, and our success depends in large part on our ability to recruit, develop and retain a productive and engaged workforce. Accordingly, investing in our employees and their well-being, offering competitive compensation and benefits, promoting diversity and inclusion, adopting effective human capital management practices and community outreach constitute core elements of our corporate strategy.
+
+•Offer Competitive Compensation and Benefits. We strive to ensure that our employees receive competitive and fair compensation and innovative benefit offerings, tying incentive compensation to both business and individual performance, offering competitive maternal and paternal leave policies, providing meaningful retirement and health benefits and maintaining an employee stock purchase plan.
+
+•Support Employee Well-being and Engagement. We support the overall well-being of our employees from a physical, emotional, financial and social perspective. Our global well-being programs include a long-standing practice of remote working arrangements, flexible paid time off, life planning benefits, wellness platforms and employee assistance. In addition, we ensure ongoing check-ins with employees by HR and managers to provide additional channels of support. We also regularly seek input from employees, including through broad employee satisfaction and pulse surveys on
+
+specific issues, intended to assess our degree of success in promoting an environment where employees are engaged, satisfied, productive and possess a strong understanding of our business goals.
+
+•Promote Sense of Belonging. We conduct code of conduct trainings with employees and managers to share our views on the importance of respecting all individuals and creating a culture where everyone feels they belong. We have Employee Resource Groups, led by our employees, designed to foster connection, understanding and support. Our customers are located in over 95 countries and our global workforce operates across cultures, functions, language barriers and time zones to provide them dedicated and ongoing support.
+
+•Provide Programs for Employee Recognition. We offer rewards and recognition programs to our employees, including awards to recognize employees who best exemplify our values and spot awards to recognize employee contributions. We believe that these recognition programs help drive strong employee performance. We conduct semi-annual employee performance reviews, where each employee is evaluated by their personal manager and also conducts a self-assessment, a process which empowers our employees. Employee performance is assessed based on a variety of key performance metrics, including the achievement of objectives specific to the employee’s department or role. Employees have access to an internal platform to recognize their peers based on their professional and socially responsible contributions to the Company.
+
+•Create Opportunities for Growth and Development. We focus on creating opportunities for employee growth, development, training and education, including opportunities to cultivate talent and identify candidates for new roles from within the company, as well as management and leadership development programs. Employee training and education includes online certification, in person certification and new hire training bootcamps. We also conduct manager training programs on an annual basis, which include in-depth managerial and coaching skills, as well as tailored feedback. We have established an internal mentoring program in which seasoned employees' mentor new managers based on defined goals.
+
+•Promote Community Outreach and Support. We believe it is important to give back and promote community outreach and support through corporate giving and employee volunteerism in the communities in which we live and work. We partner with several organizations providing life skills trainings, coding and basic IT skills, financial literacy and more. All programs are led by our employees on a volunteering basis. We also provide corporate matching of employee charitable donations and flexible volunteering during work time, letting our employees know that we support the charitable efforts that matter to them.
+
+Available Information
+
+Our website is located at www.varonis.com, and our investor relations website is located at https://ir.varonis.com. The information posted on our website is not incorporated into this Annual Report on Form 10-K. Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Exchange Act are available free of charge on our investor relations website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission (the “SEC"). You may also access all of our public filings through the SEC’s website at www.sec.gov.
+
+Investors and other interested parties should note that we use our media and investor relations website and our social media channels to publish important information about us, including information that may be deemed material to investors. We encourage investors and other interested parties to review the information we may publish through our media and investor relations website and the social media channels listed on our media and investor relations website, in addition to our SEC filings, press releases, conference calls and webcasts.

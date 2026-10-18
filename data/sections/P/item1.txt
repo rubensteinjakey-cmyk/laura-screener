@@ -1,0 +1,305 @@
+Item 1. Business.
+
+OVERVIEW
+
+Everpure, formerly known as Pure Storage, is a global technology company providing an integrated storage and data management platform. Data is foundational to our customers’ business transformation and increasingly central to their operational resilience and competitive differentiation. As data volumes expand and artificial intelligence (AI) becomes more deeply embedded in customers' operations, the ability to store, manage, govern, and derive greater value from their data is becoming as important as the infrastructure used to store it.
+
+We began as a provider of flash-based storage systems. Over time, we have evolved into a company that delivers a cloud experience with an intelligent, unified storage and data management platform (the Everpure Platform) that virtualizes data across on-premises, hybrid and public cloud, and edge environments into a single storage layer with consistent control, built-in automation and continuous modernization. We are executing a focused strategy to modernize and simplify data infrastructure for customers as AI adoption increases and power, space, and operational constraints intensify. Our vision of an all-flash data center integrates our foundation of simplicity and reliability with four major market trends that are impacting all organizations:
+
+1) The shift towards modernizing data infrastructure with all-flash technology;
+
+2) The growth of modern cloud-native applications;
+
+3) Increasing demand for data storage delivered as a service; and
+
+4) Increasing demand for data storage to support accelerating AI adoption while managing rising energy costs.
+
+With the Everpure Platform, customers can build their own Enterprise Data Cloud (EDC), an architectural approach to storage and data management that allows organizations to centrally manage a virtualized cloud of data with unified control — spanning on-premises, hybrid, and public cloud environments — enabling intelligent, autonomous data management and consistent governance across the entire environment.
+
+OUR STRATEGIC GROWTH PILLARS
+
+Our six strategic growth pillars, driven by the above four market trends, are as follows:
+
+1.Expand All-Flash into new use cases served by disk today
+
+We pioneered the use of solid-state, All-Flash technology in enterprise storage and have continued to expand our leadership position and technology differentiation across our tightly integrated software and hardware to support the broad range of enterprise storage needs and hyperscale use cases.
+
+We have continued to drive industry disruption, innovation, and software leadership, currently with quad-level cell (QLC) flash. We continue to see a long-term growth opportunity as flash economics, coupled with the growth in unstructured data, delivers flash reliability and efficiency at prices comparable to traditional hard disk systems.
+
+In fiscal 2026, shipments began on the industry-first Flash design win with a major hyperscaler. Last year, shipments exceeded our annual forecast and more shipments are anticipated in fiscal 2027, as our Purity software and integrated DirectFlash hardware technology are expected to continue freeing up significant amounts of data center power and space for this hyperscale customer and significantly reduce failure rates and maintenance costs associated with legacy disk storage, while doubling the expected lifetime of their storage infrastructure.
+
+Our extended advantage stems from three technology differentiators:
+
+•Direct-to-NAND Software Leadership
+
+•Integrated Hardware–Software DirectFlash Modules
+
+•Next-Generation Flash Management Capabilities
+
+Because our highly sophisticated flash management software requires less NAND, we drive significant efficiency advantages over solid-state drives (SSDs) by eliminating over-provisioning, extending endurance, requiring far less common equipment, and reducing environmental impact.
+
+In close collaboration with key QLC flash partners, we continue to advance the density roadmap for DirectFlash. In 2025, we released our 300 terabyte (TB) DirectFlash Module (DFM), delivering up to 18 times the capacity of standard hard drives and seven times the capacity of the largest SSDs. Our increasing density roadmap for DirectFlash continues to substantially expand our cost and power efficiency advantages when compared to both disk and SSDs.
+
+2.Deliver hybrid cloud architecture and data services for modern applications
+
+We continue to extend our leadership position in delivering the cloud operating model and enabling cloud-native applications. We empower our customers to run and operate storage as-a-service, for both traditional and modern applications.
+
+Our next-generation version of Everpure Fusion is transforming traditional legacy enterprise data storage architectures by virtualizing storage and data management into a unified, cloud-like experience. This will enable customers to store, manage, protect, and access their data seamlessly across on premises, cloud, and hosted environments. The result is fully automated workflows that consistently manage enterprise data.
+
+Our Portworx software solution is the leader in the enterprise Kubernetes/container data space, providing customers with a secure solution for both their primary container storage needs, as well as their critical data workflows such as backup, disaster recovery, and migration. Portworx, along with Everpure™ Cloud services in both Azure and Amazon Web Services (AWS), allow us to help customers operationalize their hybrid-cloud environment by enabling them to run and deploy both traditional and cloud-native applications on-premise, in the cloud, and across multiple clouds with the same process and operations.
+
+3.Grow our subscription services business and drive differentiation with as-a-Service and Cloud operating model
+
+We are a leader in the storage-as-a-service market and offer a comprehensive set of service level agreements (SLAs) that bring cloud operating model benefits to on-premises data storage. Our subscription offering, Evergreen//One, provides outcome-based SLAs across key areas, including capacity, performance, efficiency, availability, and durability. Our Evergreen architecture and DirectFlash technology enable these outcomes. We also provide advanced SLAs tailored to specific needs, including defined recovery time objectives through our Cyber Recovery and Resilience add-on. We deliver these capabilities through our technology architecture rather than structuring our offering as a financial, leasing, or professional services construct.
+
+Certain competing offerings structure their solutions around consumption-based access to specific hardware appliances. While those models may offer usage-based pricing, they may not provide comparable outcome-based guarantees or non-disruptive upgrade paths. In those cases, customers subscribe to a financing model tied to equipment rather than to a hardware-independent storage service.
+
+We believe Evergreen//One differentiates itself as a hardware-independent storage subscription centered on defined service outcomes. Customers subscribe to storage capabilities and service levels, not to a specific hardware configuration. We remain responsible for delivering contracted outcomes, including required hardware upgrades or expansions, and we design transitions to minimize disruption. This model aligns more closely with cloud and software-as-a-service (SaaS) principles.
+
+We believe this distinction is important in a market where companies use subscription terminology broadly, but structure offerings differently. We continue to expand and strengthen our SLA portfolio and cloud-like service capabilities. Features such as Adaptive performance guarantees and Snapshot Retention aim to deliver defined operational outcomes that hardware-centric consumption models may not replicate, reinforcing the service-based nature of Evergreen//One.
+
+4.Integrated Data Management as a Long-Term Growth Driver
+
+AI and modern digital applications are driving significant growth in enterprise data and increasing its strategic importance. Today, data is distributed across data centers, public clouds, the edge, and SaaS applications making managing data increasingly complex. Many organizations still rely on separate systems for applications, databases, file storage, backup, analytics, and cloud services. Each system often uses different tools and policies. This fragmented approach requires manual coordination across teams. Security settings, access controls, and retention policies often vary between systems, increasing the risk of errors. As complexity rises, more personnel are relied upon instead of better systems. For many enterprises, operational complexity limits efficiency and growth.
+
+Our EDC vision responds to this challenge. Instead of adding separate management tools on top of storage systems, the Everpure Platform integrates key data management functions directly into an intelligent control plane. Capabilities such as access control, replication, lifecycle management, policy enforcement, monitoring, and automation are coordinated through a centralized control framework across environments. This approach builds on our redesigned storage architecture. Through Purity, our unified operating system, and the integration of software with DirectFlash hardware, we have built a platform designed to operate continuously. Our Evergreen model helps reduce the need for large-scale system replacements, helping customers modernize while maintaining continuity. By unifying data management within a single platform, we aim to reduce fragmentation, improve operational efficiency, and reduce operational risk.
+
+We believe the next phase of digital transformation will depend not only on how much data organizations create, but on how effectively they manage it. Through our EDC and the Everpure Platform, we seek to help enterprises simplify complex environments and manage data as a coordinated, scalable system.
+
+5.Deliver Integrated Dataset Management Across Hybrid and Multi-Cloud Environments
+
+As enterprises expand their use of AI, they increasingly recognize that many initiatives face challenges not because large language models (LLMs) lack capability, but because enterprise data is fragmented across systems, policies and environments. AI systems cannot automatically determine which internal data is authoritative, how it is governed, or where access boundaries apply. As a result, organizations must establish clear data controls, access permissions, and alignment with regulatory and security requirements. Without this enterprise context, even advanced models can produce deficient outputs. Effective enterprise AI therefore depends not only on model capability, but also on the infrastructure and data management framework supporting it.
+
+AI systems depend on datasets that are accurate, documented, versioned, and traceable over time. In practice, however, many organizations continue to manage data across isolated systems — separate platforms for databases, file storage, backup, analytics, and AI — each with its own software and policies. This fragmentation often requires manual coordination across teams and tools. When data is siloed, policies and security controls vary by environment, governance depends on manual processes, and gaps in documentation and lifecycle management can reduce AI reliability, cause slow deployment, and increase operational and regulatory risk. These challenges intensify in hybrid and multi-cloud environments as data volumes grow and workloads move between systems. Teams may spend substantial time reconciling tools, aligning policies, and validating data consistency instead of delivering business outcomes, increasing their exposure to process errors and operational risk. For many enterprises, managing data effectively has become as critical as storing it.
+
+We believe addressing this structural challenge requires a different approach to infrastructure design. The Everpure Platform, which underpins our EDC operating model, is architected to incorporate disciplined dataset management directly into core data infrastructure rather than relying on separate governance tools. In practical terms, this means that capabilities such as dataset documentation, provenance tracking, version control, policy-based lifecycle management, quality monitoring, and automation are embedded within the primary storage and orchestration layer. By integrating these capabilities into the foundation of the Everpure Platform, customers can manage datasets as governed, traceable assets across environments without fragmented manual processes, resulting in more reliable AI deployment, strengthened operational resilience, and improved audit readiness.
+
+In February 2026, we entered into a definitive agreement to acquire 1touch, which provides data intelligence and governance tools. The acquisition of 1touch will extend our data management capabilities by adding data discovery and semantic context to the Everpure Platform. By integrating storage with 1touch’s ability to discover, classify, contextualize, and enrich data across datasets and environments — from SaaS to the edge — we will ensure enterprise data is inherently AI-ready at the source. This will allow organizations to transform raw data into actionable insights more quickly. The 1touch transaction is subject to customary closing conditions and expected to close in the second quarter of fiscal 2027.
+
+Over time, we believe this architecture will provide cumulative benefits. As enterprises consolidate mission-critical workloads onto our Everpure Platform, they can deploy AI more effectively, reduce data-related risk, improve operational efficiency, and expand the platform across additional workloads. In this way, our strategy extends beyond infrastructure performance to focus on establishing a trusted data management layer that reduces complexity and drives business outcomes.
+
+6.Expand our AI portfolio into the most demanding specialty Graphics Processing Unit (GPU) clouds and High-Performance Computing (HPC) environments
+
+In March 2025, we introduced FlashBlade//EXA to expand our AI portfolio and address the performance requirements of specialty GPU cloud and HPC environments. FlashBlade//EXA is designed with a purpose-built, massively parallel architecture that independently scales data and metadata to support large-scale AI and compute-intensive workloads.
+
+Our broader AI portfolio is designed to support innovation across a range of enterprise environments. FlashBlade//S delivers high performance and efficiency for enterprise AI and analytics workloads, while our Purity software and DirectFlash technology also support large-scale deployments, including hyperscale environments. Together, these offerings reflect our strategy to provide scalable, high-performance storage solutions optimized for AI-driven applications.
+
+THE EVERPURE ARCHITECTURE
+
+•Enterprise Data Cloud (EDC) Vision
+
+Legacy data storage management has long been fragmented and siloed, manually managed by disparate teams and tools, leading to increased risk and cyber vulnerabilities, rising costs from inefficient utilization and data sprawl, and reduced reliability with more frequent business disruptions. We have reimagined enterprise storage by delivering unmatched simplicity, efficiency, and always-on reliability, with zero planned downtime or disruption.
+
+With the Everpure Platform, customers can build their own EDC, a highly intelligent, autonomous, and policy-driven architecture that enables customers to unify data into a virtualized cloud of data spanning across on-premises, public and hybrid cloud, and the edge environments that is governed by an intelligent control plane for easy management and delivered as a service. The result is fully automated workflows that consistently manage enterprise data, eliminating silos and shifting organizations from managing infrastructure piece by piece to delivering outcomes that scale.
+
+•Everpure Platform
+
+Delivered as a service, the Everpure Platform provides a single, intelligent storage and data management solution to store, manage and run data across on-premises, public and hybrid cloud, and the edge environments with consistent control, built-in automation and continuous non-disruptive updates. By bringing data together, automating control, and reducing risk across the entire estate, from archive to AI, the Everpure Platform helps organizations reduce the complexity, increase reliability and cyber resiliency, and lower the costs of their data infrastructure. Our Everpure Platform differentiation is anchored in four core advantages: our unified Purity Operating Environment, our DirectFlash technology; our Evergreen technology and business model; and our Cloud Operating Model.
+
+The following diagram depicts our Everpure Platform, built on our unique Evergreen Architecture, powered by FlashArray, FlashBlade, and Everpure Cloud service. Delivering a unified data plane through our Purity common operating environment across on-premises, public and hybrid cloud, and the edge, and a single intelligent control plane powered by Everpure Fusion and Pure1.
+
+Key benefits of our Everpure Platform include:
+
+•Simplified Infrastructure - Our Everpure Platform reduces the complexity and risks of traditional data infrastructure as our Purity Operating Environment enables customers to unify the majority of their fragmented block, file and object storage workloads onto a single storage and management environment that is simple to deploy, run and manage. We use Purity Operating Environment across all of our storage solutions to deliver a consistent experience whether deployed in a cloud, on-premises or hybrid cloud environment. This single Everpure Platform environment makes accessing data easier and faster which is proving critical in an environment driven by AI.
+
+•Operating like a Cloud - Powered by Purity, Pure1 cloud management, Evergreen architecture and Everpure Fusion, the Everpure Platform operates like a cloud, delivering on-demand, self-service storage and managed data services backed by SLA guarantees. Organizations can manage all of their data types and workloads, from the data center to the cloud with our single, consistent Everpure Platform, true data mobility, and flexible consumption models.
+
+•No Downtime - Our Everpure Platform delivers all-flash storage for data spanning from Tier-0 workloads to cost-sensitive archives that is 10x more reliable than our all-flash competitors with our unique, vertically integrated hardware, controller and software. Our Everpure Platform increases reliability by ending unexpected and planned downtimes to keep an organization’s data available 24/7 year-round through proactively managed SLAs that provide a 99.9999% uptime guarantee with predictive integrated support.
+
+•Never Obsolete - Our Everpure Platform provides scalable, on-demand storage through our Evergreen offerings that is never obsolete, continuously improving and without disruptive forklift upgrades. Through continual hardware and software upgrades that are delivered non-disruptively through our Evergreen program, our Everpure Platform includes the latest technology and features.
+
+•Cost Savings and Efficiency - Our Everpure Platform reduces storage costs, energy and labor providing a range of business models, from self-managed to fully-managed, that enable organizations to choose how and when they access and interact with their data. With a fully-managed Evergreen//One or Evergreen//Flex subscription, organizations also enjoy the benefit of having their power and rack space costs be paid by us. Our flash-optimized systems generally require 5-10x less labor to operate, and use 2-5x less power and space compared to competitive all-flash storage configurations, resulting in at least 50% lower total cost of ownership. This reduction in power usage and space is proving critical in an environment driven by AI given the massive energy demands of AI.
+
+•Sustainability - We continue to invest in and innovate for a low carbon global economy and are committed to the continued delivery of an enterprise-grade storage platform and innovative services that empower our customers to operate sustainably and efficiently. Our technology differentiators such as DirectFlash, provide significant environmental sustainability benefits by offering the most efficient and densest flash modules, leading to higher capacity storage with a smaller hardware footprint. This not only lowers the costs of our systems but also their environmental footprint.
+
+Unified Data Plane
+
+Purity
+
+Our Purity Operating Environment was designed from the ground-up. Our Purity software is able to deliver (1) superior performance by optimizing how data is placed and accessed on Flash, (2) reliability through optimizing the use of Flash in our systems, (3) density via our designed-for-flash algorithms, data structures and data reduction capabilities, and (4) environmental sustainability efficiencies through our integrated hardware and software thereby enabling our systems to use the same amount of data storage with significantly less power, space and e-waste.
+
+Our Purity software is shared across our flash-optimized systems and provides leading enterprise-class data services such as always-on data-reduction, data protection and encryption, as well as a wide range of storage protocols such as block, file and object.
+
+The advantages unlocked by our Purity software are significantly amplified by our integrated DirectFlash hardware technology. With DirectFlash, we build Flash Modules designed to work directly with NAND Flash chips, highly integrated and optimized for our Purity software. This deep integration of hardware and software allows us to be a proven leader in all-flash performance, reliability and efficiency from mainstream triple-level cell (TLC) flash and capacity-oriented QLC flash that delivers unparalleled density.
+
+While QLC can make flash more economical, it requires significantly more sophisticated management, optimization and tuning to use effectively. With DirectFlash, we deliver the performance and density benefits of QLC flash, without compromising on efficiency, reliability, or performance consistency. With DirectFlash, we are leading the industry, and accelerating the transition of disk to flash by replacing low-cost hybrid-flash and disk arrays.
+
+Intelligent Control Plane
+
+Pure1
+
+Pure1, our cloud-based data storage management plane, brings the convenience of cloud storage to on-premises storage. With Pure1, customers can view and manage our storage arrays in a single pane of glass from any device with just a web browser or our mobile app. Service capabilities include AI-driven management and full-stack analytics, predictive intelligence that forecasts capacity and performance needs in advance, and a customer-centric support system of humans and AI that continuously monitor and proactively resolve array issues.
+
+Everpure Fusion
+
+Everpure Fusion brings the simplicity of the cloud operating model anywhere with on-demand consumption and back-end provisioning, delivering an autonomous storage-as-code management platform. Everpure Fusion enables storage administrators to unify storage arrays and optimize storage pools to build their own EDC. Everpure Fusion creates a highly intelligent and autonomous environment enabling data storage to be offered through customized storage service classes, providing storage consumers on-demand API-access to storage services, while automating previously complex tasks, such as storage provisioning, workload placement, workload mobility, and fleet rebalancing. Everpure Fusion also automates compliance policies for secure, consistent data handling, enhances cybersecurity, eliminates manual errors, and enables automated data set management, enforcing and tracking corporate rules and policies. The result is fully automated workflows that consistently manage enterprise data, removing the need to manage silos.
+
+Evergreen Architecture
+
+Our differentiated Evergreen architecture enables our hardware storage systems to stay modernized and not require wholesale replacement like traditional legacy storage systems. Our architecture includes several key technology elements that allow our arrays to be upgraded non-disruptively, which is a critical underpinning of delivering a full as-a-service experience:
+
+•Future-Proof Hardware - We design and build each component (e.g. storage controllers, flash modules) of our hardware systems to be independently replaceable and upgradable, allowing our flash-optimized hardware to be more reliable and with longer service lifetimes.
+
+•Non-Disruptive Upgrades - We have the ability to upgrade both hardware and software non-disruptively, resulting in continuous online improvement, without creating disruption or affecting running production systems.
+
+•Telemetry and Pure1 - Continuous telemetry collection coupled with AI-driven intelligent analytics supported by machine learning models allows us to deliver both predictive and proactive recommendations, targeted assessments, and workload planning based on knowledge accumulated across our entire fleet. Pure1, our AI-driven cloud-based management platform, allows us to target and focus the most relevant innovation and improvements to our customers.
+
+PRODUCT PORTFOLIO AND CONSUMPTION MODELS
+
+FlashArray provides solutions addressing database, application, virtual machine and other traditional workloads. FlashArray was the industry’s first all-flash array and is driving the industry-wide transition from disk to Flash. FlashArray pioneered the approach of software designed from the ground-up for Flash and set the stage for industry leading simplicity, reliability, and rich data services. FlashArray has evolved through seven generations of controllers, a 100x increase in density, and a transition to all-NVMe flash-all delivered to customers non-disruptively through our Evergreen service.
+
+•FlashArray//ST is designed to support ultra-high-performance applications such as in-memory databases, real-time applications, large online transaction processing databases, and electronic health records. FlashArray//ST is attractive in particular when a customer can derive quantifiable business value directly from performance. FlashArray//ST still maintains the critical capabilities of the Everpure Platform for block storage.
+
+•FlashArray//XL sets a new bar of higher performance, scale and capacity for the most demanding workloads and mission critical data-based applications. We introduced the new performance density flagship FlashArray//XL 190, delivering to our customers 930% more IOPS per rack unit, 310% more IOPS per watt, 460% more TB per rack unit, compared to competitive solutions in the same class.
+
+•FlashArray//X delivers next-gen performance for mission critical workloads. Through unified object block and file storage designed to be powerful and simple to use, FlashArray//X supports everything from Tier 1 databases to large-scale virtualized and cloud-native applications, with a non-disruptive upgrade path. Based on TLC flash, our latest R5 edition delivers up to 30% higher performance and up to a 40% capacity increase to support greater workload consolidation.
+
+•FlashArray//C delivers the benefits of NVMe flash, performance and consolidation to simplify Tier-2 application and storage estates. FlashArray//C extends the core technology of FlashArray and DirectFlash technology to incorporate QLC flash to modernize and replace hybrid-flash and Tier-2 disk arrays. The benefits of QLC delivered by FlashArray//C are only achievable through our DirectFlash integrated hardware and software approach, and places us in a unique and differentiated position to accelerate the transition from disk to flash. In fiscal 2026, we introduced the new FlashArray//RC20, which offers enterprise-class performance, reliability, and agility at capacities and prices that are more accessible for edge use cases and smaller deployments. It brings all the power and capability of the Everpure Platform and the FlashArray//C family to a model that’s specifically sized and priced to support lower-capacity deployments.
+
+•FlashArray//E extends the Everpure //E Family, to deliver the simplicity and efficiency of flash for all file and block data repositories for up to four petabytes (PB) of data, from content libraries to backup sets to active archives. FlashArray//E enables customers to benefit from an 80% reduction in power and space, 60% lower operational costs, and 85% less e-waste compared to disk.
+
+Our FlashArrays support multiple storage protocol options:
+
+•FlashArray File Services delivers enterprise level multi-protocol file storage on FlashArray. As part of an unified approach to block and file data management, File Services reduces operational overhead by giving storage administrators policy driven automated management at the director, share, or virtual machine (VM) level. File Services delivers simplicity of management to a broad set of scale-up file data workloads including user data and department shares, content repositories such as Picture Archiving and Communication System (PACS) and video data, file-based applications, and now Network File System (NFS) datashares for virtual infrastructure.
+
+•FlashArray Object creates a new opportunity by adding enterprise-grade object storage to the best unified platform FlashArray, unifying block, file, and object under one umbrella. FlashArray extends Object to smaller edge and mid-tier core environments, unlocking new use cases while closing competitive gaps in environments that demand a single system. FlashArray Object also provides an easy trusted on-ramp for small applications in existing environments. Customers can consolidate workloads while extending Everpure’s hallmark simplicity, efficiency, and reliability to their object storage workloads.
+
+FlashBlade provides solutions for managing and processing unstructured data workloads of all types - from the most demanding modern “big data” applications such as real-time log analytics and commercial HPC to data protection and recovery. Further, FlashBlade can manage and process the massive amounts of data created for large scale AI training environments as well as support AI-connected applications. FlashBlade was the industry's first all-flash array optimized for modern unstructured file and object applications, and enables performance at multi-Petabyte scale. FlashBlade is a scale-out system built on Purity and DirectFlash Modules, combining integrated software-defined networking that delivers revolutionary performance and simplicity. FlashBlade's scale, simplicity, and multiple protocols allows customers to consolidate a diverse set of modern workloads while benefiting from cost-effective all-flash performance.
+
+•FlashBlade//S Unlike commodity, SSD-based or retrofitted, spinning disk solutions, FlashBlade//S uses all-flash hardware and software innovation, built using all-QLC architecture and DirectFlash modules. FlashBlade//S R2 delivers unmatched density and capacity with up to 25% better performance across AI, HPC, EDA, genomics, and analytics workloads compared to competing systems. With Zero Move Tiering (ZMT), it eliminates legacy tiering challenges, simplifies data management, and reduces TCO.
+
+•FlashBlade//E (part of our Everpure //E Family) is a scale-out unstructured data repository for four PB or more of data that makes the management of unstructured data growth more efficient, reliable, and sustainable with an user experience and economics that enable organizations to eliminate the last remnants of disk in their data center. FlashBlade//E provides the benefits of all-flash at an acquisition cost that is comparable to disk-based alternatives with lower operational costs, including up to five times less power consumption.
+
+•FlashBlade//EXA, is a high performing data storage solution purpose-built to handle the most demanding requirements of large scale, GPU-intensive AI and HPC workloads. FlashBlade//EXA’s highly configurable and disaggregated architecture maximizes AI pipeline efficiency and minimizes delays during AI model training and inference workflows by delivering multi-dimensional performance at scale with cost-efficient, off-the-shelf data nodes and reduces complexity by eliminating metadata bottlenecks. FlashBlade//EXA is projected to deliver more than 10+TBs per second read performance and >20x more files in a single namespace.
+
+Everpure Cloud services deliver an enterprise-grade, virtual block storage array that provides customers the flexibility to operate a hybrid cloud model with seamless data mobility across on-premises and public cloud environments. Everpure Cloud services are software-delivered, require no dedicated hardware running in the public cloud or internet colocation data centers, and are designed to be multi-cloud, supporting Amazon Web Services (AWS) and Microsoft Azure. Everpure Cloud leverages the same Purity software that powers FlashArray in on-premise environments, enabling customers to easily implement hybrid cloud workflows.
+
+•Everpure Cloud for Azure VMware Solution (AVS) - Everpure Cloud for AVS running in Azure delivers the same cloud-like experience as public clouds built on VMware for storage by extending the data services and user experience of the Purity operating environment to AVS, simplifying cloud data mobility and help organizations optimize their AVS data storage costs.
+
+Evergreen//One delivers a complete cloud operating model, allowing customers to consume storage-as-a-service, based entirely on guaranteed SLAs, enabling them to store their data whenever and wherever they want with guaranteed reliability and performance. Evergreen//One unifies on-premises and public-cloud data storage services in a single storage subscription service that delivers a true hybrid cloud experience. We ship to the customer whatever infrastructure is needed to deliver on the outcomes we guarantee, and we pay customers for the power and rack space that our infrastructure takes in their data center. With Evergreen//One, customers have flexibility to choose performance and capacity needs as well as where they consume and pay for their storage needs.
+
+Evergreen//Flex is a fleet-level Evergreen architecture that offers users the advantage of data storage hardware ownership with a lower upfront cost and a flexible pay-as-you-go subscription. Evergreen//Flex provides the flexibility and adaptability to move performance and stranded capacity to where data and applications need it most, with the security and control that comes from ownership of the solution.
+
+Portworx by Everpure is the market leader in cloud-native Kubernetes data management. As enterprises increasingly adopt cloud-native architectures and modern applications and AI/ML, Portworx Enterprise is the only data management platform that is able to provide robust enterprise-grade container storage, coupled with data-protection workflows such as Kubernetes backup (PX-Backup), disaster recovery (PX-DR) and portability between on-premise, hybrid cloud and multi-cloud environments. Portworx also offers PX CSI, a Kubernetes-native CSI driver for FlashArray and FlashBlade, enabling storage teams to build and operate in-house automation while delivering optimized provisioning, lifecycle management, and performance for containerized workloads in minutes.
+
+Our Customers
+
+Our global customer base is over 14,500 at the end of fiscal 2026. Both large enterprises and smaller organizations with limited IT expertise or budgets benefit from using our technology. We have deployed our products and subscription services to customers across multiple industry verticals and geographies. We define a customer as an entity that purchases our products and services either from one of our channel partners or from us directly.
+
+Our enterprise business model supports the largest global organizations, including hyperscalers and managed service providers (MSPs). Today, we are in approximately 64% of Fortune 500 companies, and the loyalty of our customers is reflected in our market-leading, certified customer Net Promoter Score (NPS) of 84 as of December 31, 2025.
+
+Sales and Marketing
+
+Sales. We sell our products and subscription services using a direct sales force and our channel partners. Our sales organization is supported by sales engineers with deep technical expertise and responsibility for pre-sales technical support, solutions engineering and technical training. Our channel partners sell and market our products and subscription services in partnership with our direct sales force. This joint sales approach provides us with the benefit of direct relationships with our customers and expands our reach through the relationships of our channel partners. In certain geographies, we sell through a two-tier distribution model. We also sell to service providers that deploy our products and offer cloud-based storage services to their customers. We intend to continue to invest in our channel partners.
+
+Technology Alliances. We work closely with technology partners that help us deliver an ecosystem of world-class solutions to our customers and ensure the efficient deployment and support of their environments. Our technology partners include application partners such as VMware, RedHat, Nutanix, Microsoft, Oracle and SAP, cloud partners such as Microsoft Azure, AWS, Google, and IBM, data protection partners such as Commvault, Rubrik and Veeam, and infrastructure partners such as Cisco and NVIDIA. In addition, we work closely with our technology partners through co-marketing and lead-generation activities in an effort to broaden our marketing reach and help us win new customers and retain existing ones.
+
+Marketing. Our marketing is focused on building our brand reputation and market awareness, communicating our Everpure Platform advantages and demand generation for our sales force and channel partners. Our marketing effort consists primarily of product, field, channel, solutions, digital marketing and public relations.
+
+Research and Development
+
+Our research and development efforts are focused on innovation, building new features and functionality for our existing products and subscription services, developing software, and building new solutions. Our Everpure Platform integrates both software and hardware innovations, and accordingly, our research and development teams employ both software and hardware engineers in the design, development, testing, certification and support of our products. Our research and development teams are primarily based in Santa Clara, California, Prague, Czech Republic, Bangalore, India, Bellevue, Washington, and Vancouver, Canada. We also design, test and certify our products to ensure interoperability with a variety of third-party software, servers, operating systems and network components. We plan to continue investing globally in significant resources for our ongoing research and development efforts.
+
+Manufacturing
+
+Our contract manufacturers manufacture, assemble, test and package our products in accordance with our specifications. We provide our contract manufacturers with a rolling forecast for anticipated orders, which our contract manufacturers use to build finished products. The products mix and volumes are adjusted based on anticipated demand and actual sales and shipments in prior periods. We work closely with our contract manufacturers to meet our product delivery requirements and to manage the manufacturing process and quality control. We also utilize a range of training and assessment tools from the Responsible Business Alliance to support continuous improvement in the social, environmental and ethical responsibility of our supply chain.
+
+Seasonality
+
+We generally experience seasonality as sales of our products and subscription services are usually lower during the first quarter of our fiscal year and highest during the last quarter of our fiscal year. As a result, we expect that our business and results of operations will fluctuate from quarter to quarter.
+
+Competition
+
+We operate in the intensely competitive data storage market that is characterized by constant change. Changes in the application requirements, data center infrastructure trends and the broader technology landscape result in evolving customer requirements for capacity, performance scalability and enterprise features of storage systems. Our main competitors include legacy vendors, such as Dell EMC, NetApp, Hitachi Vantara, HP Enterprise, and IBM, each of which offer a broad range of systems targeting various use cases and end markets and have the technical and financial resources to bring competitive products to market.
+
+In addition, we compete against cloud providers and vendors of hyperconverged products. Some large-scale cloud providers, known for developing storage systems internally, offer alternatives to our data storage solutions for a variety of customer workloads. Our market attracts new startups and more highly specialized vendors, as well as other vendors that may continue to acquire or bundle products that compete with our offerings. All of our competitors utilize a broad range of competitive strategies.
+
+We believe the principal competitive factors in the storage market are as follows:
+
+•Product and service innovation, features and enhancements, including ease of use, performance, reliability, scalability, and security;
+
+•Product and service pricing and total cost of ownership;
+
+•Product interoperability with customer networks and backup software;
+
+•Product designs that help customers reduce their carbon footprint and contribute to meeting their environmental sustainability and savings goals;
+
+•Global sales and distribution capability, including an ability to build and maintain incumbent customer relationships;
+
+•Ability to take advantage of improvements in industry standard components; and
+
+•Customer support and service.
+
+We believe we compete favorably with our competitors on these factors as we continue to take market share. However, many of our competitors have substantially greater financial, technical and other resources, greater name recognition, larger sales and marketing budgets, broader distribution and larger and more mature intellectual property portfolios.
+
+Intellectual Property
+
+Our success depends in part upon our ability to protect our core technology and intellectual property. To establish and protect our proprietary rights, we rely on a combination of intellectual property rights, including patents, trademarks, copyrights, trade secret laws, license agreements, confidentiality procedures, employee disclosure and invention assignment agreements and other contractual rights.
+
+We have over 3,000 issued patents and patent applications in the United States and foreign countries. We also license technology from third parties when we believe it will facilitate our product offerings or business.
+
+Human Capital Resources
+
+Our People and Organization
+
+We are committed to demonstrating our core values — customer-first, persistence, creativity, teamwork, and ownership — and we believe that the interplay of strategy, organization, talent, and culture enables us to achieve outstanding results for all of our stakeholders.
+
+We employ approximately 6,400 employees globally - approximately 3,700 in the U.S. and over 2,700 internationally at the end of fiscal 2026. Our workforce is distributed across over 30 countries and we continue to expand our location strategy to ensure we can obtain the right skills and have a global mindset with diversity of thinking. Our business growth presents us with the opportunity to attract talent and provide competitive employee value propositions in terms of work environment, pay, benefits, professional development and career growth opportunities that help meet the varying needs of our workforce.
+
+Our human capital strategy is developed by our executive committee and led by our Chief Administrative and Legal Officer (CALO). The CALO delivers human capital reports to our Board of Directors and compensation and talent committee on a quarterly basis.
+
+Attracting, Developing and Retaining Talent
+
+In fiscal 2026, to advance our innovation, customer experience, and expanded sales coverage, we increased headcount by approximately 8%.
+
+To foster our employees’ and our success, we seek to create an environment where people can thrive and do their best work. We strive to maximize our employees’ potential by creating a respectful, inclusive work environment with training and development programs that enable our global employees to create products and services that furthers their career goals and align with our company's purpose. We also have global performance management and internal mobility programs to enable employee development, growth and performance.
+
+Our Commitment to a Strong and Inclusive Team
+
+At Everpure, we support fair and equitable hiring and promotion practices and greatly value a broad range of thought, experiences, backgrounds, cultures, and ideas. A close-knit team culture is core to our success and fuels the industry-leading innovation and customer experience that sets us apart.
+
+We believe that fostering an inclusive work environment strengthens collaboration, drives better decision-making, and enhances business outcomes. Our efforts focus on:
+
+•Leadership Accountability – We assess and recognize leadership behaviors that contribute to a workplace where all employees can do their best work. This includes fostering inclusion and psychological safety, modeling a growth mindset, and empowering team members through trust, clarity, and high-impact opportunities.
+
+•Employee Networks and Community – Our Employee Resource Groups (ERGs) help foster connections, professional growth, and a sense of belonging, reinforcing our culture of inclusivity and teamwork.
+
+•Fair and Consistent Talent Practices – We apply structured, data-driven approaches to ensure fairness and objectivity in hiring, compensation, performance reviews, and promotions. We conduct regular pay equity reviews and track career progression to support transparent and consistent advancement opportunities.
+
+We provide regular updates on our workforce initiatives and progress to our Board of Directors as part of our broader commitment to building and sustaining a strong, inclusive culture.
+
+Total Rewards
+
+We provide competitive and fair compensation and inclusive benefit offerings. We regularly benchmark our programs against the market to ensure we are delivering salaries, variable pay and equity awards that attract and retain great talent. In addition, we offer comprehensive and tailored health and welfare benefits that ensure employees and their families are supported so they can remain focused on delivering results for Everpure. Our total rewards efforts include:
+
+•A holistic benefits package. Our diverse offering of benefit programs support employees and their families with their unique life situations — from starting a family to raising children, from caring for aging loved ones to taking care of themselves. Employees can take time away during some of life's most demanding moments through our global family leave policy and our flexible time off policy. Employees are also supported with dedicated programs to help guide them through some of the more challenging moments like having a baby, relationship challenges, mental health needs, and neurodivergent support.
+
+•Driving impact through compensation. Managers differentiate incentives based on delivered outcomes, business impact and how our employees model our values. We empower leaders to make thoughtful, fair decisions, and we equip employees with the resources to understand how our compensation philosophy works in practice.
+
+Our Culture as a Competitive Advantage
+
+Our customer-first culture and commitment to innovation create a thriving company that customers, partners, employees and investors love. Employee listening tools and data sources indicate that our high employee engagement is a key enabler of the positive customer experience and strong net promoter scores. Our employee voice survey is implemented and assessed through a third party vendor. It focuses on measuring employee engagement, organizational health, team and manager effectiveness, sense of community and belonging, career growth, and overall wellbeing.
+
+A key tenant of our culture is our commitment to integrity, respect and a safe work environment which is supported by our Code of Conduct, Speak Up Policy, and annual Everpure Ethics and Compliance Pulse survey. We continually remind our employees that they are empowered to report concerns without fear of retaliation through our anonymous speak-up hotline and web portal or through their management chain, HR business partner, or Legal team.
+
+Sustainable Impact
+
+We are committed to advancing our responsible business practices, ensuring business operations and supply chain resilience and having a positive impact on the environment and society. Our Board of Directors receives an annual update on our environmental and social policies, programs and progress towards our commitments.
+
+Our governance model is structured to ensure the appropriate amount of oversight, assessment, and management of sustainability risks and opportunities across our organization and supply chain. Our Audit Committee oversees our sustainability efforts and receives quarterly updates.
+
+In fiscal 2026, we launched FlashBlade//EXA and FlashArray//RC20. FlashBlade//EXA is a high-performance scale-out storage platform designed to support AI and high-performance computing workloads, enabling customers to efficiently train and deploy models while reducing infrastructure footprint, energy consumption, and related carbon emissions. FlashArray//RC20 is an enterprise storage platform incorporating circular design principles, including the use of requalified components and Evergreen upgradeability, intended to lower manufacturing emissions, extend product lifecycles, and reduce electronic waste for cost-conscious customers. Our International Organization for Standardization (ISO) 14044 compliant Life Cycle Analyses (LCA) are conducted across our Everpure Platform and are used to identify opportunities to reduce the environmental impact of our solutions.
+
+We continue to obtain third party verification of our greenhouse gas emissions (GHG) and make progress on our near-term science based targets through initiatives such as expanding procurement of renewable electricity for our Santa Clara headquarters campus as well as our Prague, Bangalore, Bellevue, and Lehi campuses.
+
+For more information about our sustainability priorities, alignment to Sustainability Accounting Standards Board, Global Reporting Initiative, United Nations Sustainable Development Goals, and the Task Force on Climate-related Financial Disclosures framework, please see our fiscal 2025 Impact report at www.everpuredata.com/company/sustainability. The contents of our sustainability website are not incorporated by reference into this Annual Report on Form 10-K or any other report or document we file with the SEC, and any reference to our sustainability website is intended to be an inactive textual reference only.
+
+Available Information
+
+Our website address is www.everpuredata.com. Information contained on or accessible through our website is not a part of this report and the inclusion of our website address in this report is an inactive textual reference only.
+
+We make available, free of charge through our website, our annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, and amendments to those reports, filed or furnished pursuant to Sections 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after they have been electronically filed with, or furnished to, the SEC. In addition, the SEC maintains an internet site (http://www.sec.gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+
+Trademark Notice
+
+Everpure, the Everpure “P” logo and other trade names, trademarks or service marks of Everpure appearing in this report are the property of Everpure. Trade names, trademarks and service marks of other companies appearing in this report are the property of their respective holders.

@@ -1,0 +1,536 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and notes thereto included elsewhere in this Annual Report on Form 10-K. As discussed in the section entitled “Special Note Regarding Forward-Looking Statements,” the following discussion and analysis contains forward-looking statements that involve risks and uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ significantly from those expressed or implied by such forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, those discussed below and elsewhere in this report, particularly in the section entitled “Risk Factors” included under Part I, Item1A.
+
+This section of this Form 10-K generally discusses fiscal 2025 and fiscal 2024 items and year-to-year comparisons between fiscal 2025 and fiscal 2024. Discussion regarding our financial condition and results of operations for fiscal 2024 as compared to fiscal 2023 is included in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 26, 2025.
+
+Overview
+
+Over the past 26 years, RingCentral has transformed business communications, leading the shift from on-premises legacy communications to the cloud. Today, the company has an AI-powered, multi-product portfolio including Unified Communications as a Service (“UCaaS”), Contact Center as a Service (“CCaaS”), RingCentral AI solutions, Video and Events. RingCentral’s core tenets include: a) Trust: We provide a carrier-grade, cloud based communications platform that businesses can trust with reliability, security, and privacy; b) Innovation: We plan to invest approximately $250 million in research and development in 2026 to execute through focused and strategic innovation, setting the bar in the industry for many market firsts; c) Partnerships: We have a diverse set of strategic partners, global service providers, channel partners, and third-party developers. RingCentral is designed for intelligent, connected, and effortless businesses communications, making employee and customer experiences more productive and efficient.
+
+Our cloud-based offerings, including RingEX, RingCentral Contact Center and RingCX are primarily subscription based and made available at different rates varying by the specific functionalities, services, and number of users. Our AI-led products are also being offered on a usage-based pricing model. Our subscription plans have monthly, annual, or multi-year contractual terms. We believe that this flexibility in contract duration is important to meet the different needs of our customers. For the years ended December 31, 2025 and 2024, subscriptions revenues accounted for over 90% of our total revenues. Other revenues are comprised of product revenues from the sale of pre-configured phones and professional services. We do not develop or manufacture physical phones and only offer them as a convenience to our customers. We rely on third-party providers to develop and manufacture these devices and fulfillment partners to successfully serve our customers.
+
+As of December 31, 2025, we had customers from a range of industries, including healthcare, financial and professional services, retail, state and local government, education, legal services, real estate, technology, insurance, construction and hospitality, among others. For the years ended December 31, 2025, 2024 and 2023, the vast majority of our total revenues were generated in the U.S. and Canada.
+
+The growth of our business and our future success depend on many factors, including our ability to add new customers, retain and expand within our existing customer base, continue to innovate and successfully monetize our AI-led product portfolio, increase sales and revenues from our existing and new products, and execute efficiently on our go-to-market strategy.
+
+We have been actively implementing various measures to enhance operational efficiencies, expand margins and free cash flows while optimizing our working capital requirements. These measures include disciplined headcount management, expanded use of offshore and outsourced service providers, vendor consolidation, optimization of our go-to-market motions, and increased internal deployment of our AI tools to drive productivity. A key component of our margin expansion strategy is the reduction of stock-based compensation (SBC) as a percentage of revenue. SBC decreased from approximately 14% of total revenue in prior year to approximately 11% of total revenue in 2025.
+
+Macroeconomic Conditions and Other Factors
+
+Our business is subject to risks and exposures caused by the macroeconomic environment. Macroeconomic factors include persistent inflation, elevated interest rates, change in government administrations, supply chain disruptions, the imposition of tariffs and other non-tariff trade barriers, decreased economic output, geopolitical conflict and fluctuations in currency exchange rates, all of which can cause uncertainty. The overall macroeconomic environment may affect buying behavior from our customers, potentially reducing demand for our products and adversely impacting our results. We have in the past and may in the future experience lower upsell and increased downsell within our existing base as customers may slow hiring and rationalize their employee counts or lowering average revenue per user. We continuously monitor the impact of these circumstances on our business and financial results, as well as the overall global economy and geopolitical landscape. The implications of macroeconomic conditions on our business, results of operations, and overall financial position remains uncertain.
+
+Key Business Metrics
+
+In addition to United States generally accepted accounting principles (“U.S. GAAP”) and financial measures such as total revenues, gross margin, and cash flows from operations, we review a number of key business metrics to evaluate growth trends, measure our performance, and make strategic decisions. We discuss revenues and gross margin under “Results of Operations”, and cash flow from operations and free cash flows under “Liquidity and Capital Resources.” Other key business metrics are discussed below.
+
+Annualized Exit Monthly Recurring Subscriptions
+
+We believe that our Annualized Exit Monthly Recurring Subscriptions (“ARR”) is a leading indicator of our anticipated subscriptions revenues. We believe that trends in revenue are important to understanding the overall health of our business, and we use these trends in order to formulate financial projections and make strategic business decisions. Our ARR equals our Monthly Recurring Subscriptions multiplied by 12. Our Monthly Recurring Subscriptions equals the monthly value of all customer recurring charges at the end of a given month. For example, our Monthly Recurring Subscriptions at December 31, 2025 was $222.7 million. As such, our ARR at December 31, 2025 was $2.67 billion compared to $2.49 billion at December 31, 2024.
+
+Net Monthly Subscription Dollar Retention Rate
+
+We believe that our Net Monthly Subscription Dollar Retention Rate provides insight into our ability to retain and grow subscriptions revenue, as well as our customers’ potential long-term value to us. We believe that our ability to retain our customers and expand their use of our solutions over time is a leading indicator of the stability of our revenue base and we use these trends in order to formulate financial projections and make strategic business decisions. We define our Net Monthly Subscription Dollar Retention Rate as (i) one plus (ii) the quotient of Dollar Net Change divided by Average Monthly Recurring Subscriptions.
+
+We define Dollar Net Change as the quotient of (i) the difference of our Monthly Recurring Subscriptions at the end of a period minus our Monthly Recurring Subscriptions at the beginning of a period minus our Monthly Recurring Subscriptions at the end of the period from new customers we added during the period, all divided by (ii) the number of months in the period. We define our Average Monthly Recurring Subscriptions as the average of the Monthly Recurring Subscriptions at the beginning and end of the measurement period.
+
+For example, if our Monthly Recurring Subscriptions were $118 at the end of a quarterly period and $100 at the beginning of the period, and $20 at the end of the period from new customers we added during the period, then the Dollar Net Change would be equal to ($0.67), or the amount equal to the difference of $118 minus $100 minus $20, all divided by three months. Our Average Monthly Recurring Subscriptions would equal $109, or the sum of $100 plus $118, divided by two. Our Net Monthly Subscription Dollar Retention Rate would then equal 99.4%, or approximately 99%, or one plus the quotient of the Dollar Net Change divided by the Average Monthly Recurring Subscriptions.
+
+Our key business metrics for the five quarterly periods ended December 31, 2025 were as follows (dollars in billions, except percentages):
+
+December 31, 2025 | September 30, 2025 | June 30, 2025 | March 31, 2025 | December 31, 2024
+
+Net Monthly Subscription Dollar Retention Rate | >99% | >99% | >99% | >99% | >99%
+
+Annualized Exit Monthly Recurring Subscriptions | $ | 2.67 | $ | 2.63 | $ | 2.59 | $ | 2.53 | $ | 2.49
+
+Components of Results of Operations
+
+Revenues
+
+Our revenues for the years presented generally consists of subscriptions and other revenues. Our subscriptions revenue primarily includes recurring fixed plan subscription fees, usage-based fees, one-time fees, recurring license and other fees, derived from sales through our direct and indirect sales channels, including resellers and distributors, strategic partners and global service providers. We provide subscription services to our customers pursuant to contractual arrangements that range in duration typically from one month to five years. Our subscription services are based on the functionalities and services selected by a customer and may automatically renew for additional periods at the end of the initial subscription term. We believe that this flexibility in contract duration is important to meet the different needs of our customers.
+
+We generally bill our subscription fees in advance. We recognize subscription revenue over the term of the agreement. Amounts billed in excess of revenue recognized for the period are reported as deferred revenue on our Consolidated Balance Sheets.
+
+We also generate revenues through sales of our subscriptions and products by resellers, strategic partners, and global service providers. When we control the performance of the contractual obligations, we record the revenues on a gross basis and amounts retained by our resellers are recorded as sales and marketing expense. Our assumption of such control is evidenced when, among other things, we are primarily responsible for the delivery of the service or products, have inventory risk, and have discretion in establishing pricing of the arrangement.
+
+Other revenues includes product revenues from the sale of pre-configured phones, and professional services. Product revenue is recognized when the product has been delivered to the customer. Professional services revenue is recognized as and when services are delivered.
+
+Cost of Revenues and Gross Margin
+
+Our cost of subscriptions revenue primarily consists of fees paid to third-party telecommunications providers, network operations, costs to build out and maintain data centers, including co-location fees for the right to place our servers in data centers owned by third parties, depreciation of servers and equipment, along with related utilities and maintenance costs, amortization of acquired technology related intangible assets, integrated third-party services, personnel costs associated with customer support of the functionality of our platform and data center operations, including share-based compensation expenses, and allocated costs of facilities and information technology.
+
+We define subscriptions gross margins as subscriptions revenues minus the cost of subscriptions revenue expressed as a percentage of subscriptions revenues.
+
+Cost of other revenues is comprised primarily of the cost associated with the purchase of phones, personnel costs for employees and contractors, including share-based compensation expenses, cost of third parties used for professional services, and allocated costs of facilities and information technology.
+
+We define other gross margins as other revenues minus the cost of other revenue expressed as a percentage of other revenues.
+
+Operating Expenses
+
+We classify our operating expenses as research and development, sales and marketing and general and administrative expenses.
+
+Our research and development efforts are focused on developing new and expanded features for our solutions, integrations with distributors and other software platforms, and improvements to our backend architecture. Research and development expenses consist primarily of personnel costs for employees and contractors, including share-based compensation expenses, and allocated costs of facilities and information technology, software tools and product certification. We expense research and development costs as incurred, except for certain internal-use software development costs that we capitalize. We believe that investment in our products is important for our future growth, and our research and development expenses may fluctuate as a percentage of our total revenues from period to period depending on the timing of these expenses.
+
+Sales and marketing expenses are the largest component of our operating expenses and consist primarily of personnel costs for employees and contractors directly associated with our sales and marketing activities including share-based compensation expenses, internet advertising fees, television, radio and billboard advertising, public relations, commissions paid to employees, resellers and other third parties, amortization of capitalized sales commissions, trade shows, credit card fees, marketing and promotional activities, amortization of acquired customer relationship intangibles, and allocated costs of facilities and information technology. We expect to incur incremental sales and marketing expenses to support our growth while driving cost efficiencies by further optimizing our go-to-market strategies.
+
+General and administrative expenses consist primarily of personnel costs, including share-based compensation expenses, for employees and contractors engaged in infrastructure and administrative activities to support the day-to-day operations of our business. Other significant components of general and administrative expenses include professional service fees, allocated costs of facilities and information technology, cost of compliance with certain government-imposed taxes, the costs of legal matters, business acquisition costs, changes in the fair-value of contingent consideration and loss contingencies. We expect the general and administrative expenses to reflect the impact of our operational efficiency measures as we realign our hiring strategies and rationalize our discretionary spending.
+
+Asset write-down charges consist of write-offs related to our assets, including deferred and prepaid sales commission and acquired intangibles balances, whenever events or changes in circumstances have occurred that could indicate the carrying amount of such assets may not be recoverable.
+
+Other (Expense) Income, Net
+
+Interest expenses consist primarily of interest costs on our debt arrangements, as well as amortization of the debt discount and issuance costs in connection with our long-term debt.
+
+Other (expense) income consists primarily of the following:
+
+•unrealized gains and losses from fair value adjustments on our long-term investments;
+
+•gains and losses on extinguishment of debt relating to the partial repurchase of our convertible notes;
+
+•gains and losses arising from agreements with strategic partners;
+
+•the realized impact on foreign exchange resulting from the settlement of our foreign currency assets and liabilities as well as unrealized impact on foreign exchange resulting from remeasurement of transactions and monetary assets and liabilities denominated in non-functional currencies; and
+
+•interest income from our investments.
+
+Results of Operations
+
+The following tables set forth selected consolidated statements of operations data and such data as a percentage of total revenues. The historical results presented below are not necessarily indicative of the results that may be expected for any future period (in thousands):
+
+Year ended December 31,
+
+2025 | 2024 | 2023
+
+Revenues
+
+Subscriptions | $ | 2,426,879 | $ | 2,297,192 | $ | 2,100,329
+
+Other | 88,263 | 103,203 | 102,100
+
+Total revenues | 2,515,142 | 2,400,395 | 2,202,429
+
+Cost of revenues
+
+Subscriptions | 616,190 | 593,294 | 557,050
+
+Other | 107,043 | 112,213 | 107,241
+
+Total cost of revenues | 723,233 | 705,507 | 664,291
+
+Gross profit | 1,791,909 | 1,694,888 | 1,538,138
+
+Operating expenses
+
+Research and development | 316,993 | 329,323 | 335,851
+
+Sales and marketing | 1,095,947 | 1,096,448 | 1,068,050
+
+General and administrative | 258,418 | 266,447 | 333,048
+
+Total operating expenses | 1,671,358 | 1,692,218 | 1,736,949
+
+Income (loss) from operations | 120,551 | 2,670 | (198,811)
+
+Other (expense) income, net
+
+Interest expense | (60,279) | (64,995) | (35,997)
+
+Other (expense) income | (4,035) | 15,100 | 77,963
+
+Other (expense) income, net | (64,314) | (49,895) | 41,966
+
+Income (loss) before income taxes | 56,237 | (47,225) | (156,845)
+
+Provision for income taxes | 12,846 | 11,063 | 8,395
+
+Net income (loss) | $ | 43,391 | $ | (58,288) | $ | (165,240)
+
+Percentage of Total Revenues*
+
+Year ended December 31,
+
+2025 | 2024 | 2023
+
+Revenues
+
+Subscriptions | 96 | % | 96 | % | 95 | %
+
+Other | 4 | 4 | 5
+
+Total revenues | 100 | 100 | 100
+
+Cost of revenues
+
+Subscriptions | 24 | 25 | 25
+
+Other | 4 | 5 | 5
+
+Total cost of revenues | 29 | 29 | 30
+
+Gross profit | 71 | 71 | 70
+
+Operating expenses
+
+Research and development | 13 | 14 | 15
+
+Sales and marketing | 44 | 46 | 48
+
+General and administrative | 10 | 11 | 15
+
+Total operating expenses | 66 | 70 | 79
+
+Income (loss) from operations | 5 | — | (9)
+
+Other (expense) income, net
+
+Interest expense | (2) | (3) | (2)
+
+Other (expense) income | — | 1 | 4
+
+Other (expense) income, net | (3) | (2) | 2
+
+Income (loss) before income taxes | 2 | (2) | (7)
+
+Provision for income taxes | 1 | — | —
+
+Net income (loss) | 2 | % | (2 | %) | (8 | %)
+
+* Percentages may not add up due to rounding.
+
+Comparison of Fiscal Years Ended December 31, 2025, 2024, and 2023:
+
+Revenues
+
+Year ended December 31, | Year ended December 31,
+
+(in thousands, except percentages) | 2025 | 2024 | $
+
+Change | %
+
+Change | 2024 | 2023 | $
+
+Change | %
+
+Change
+
+Revenues
+
+Subscriptions | $ | 2,426,879 | $ | 2,297,192 | $ | 129,687 | 6 | % | $ | 2,297,192 | $ | 2,100,329 | $ | 196,863 | 9 | %
+
+Other | 88,263 | 103,203 | (14,940) | (14) | % | 103,203 | 102,100 | 1,103 | 1 | %
+
+Total revenues | $ | 2,515,142 | $ | 2,400,395 | $ | 114,747 | 5 | % | $ | 2,400,395 | $ | 2,202,429 | $ | 197,966 | 9 | %
+
+Percentage of total revenues
+
+Subscriptions | 96 | % | 96 | % | 96 | % | 95 | %
+
+Other | 4 | 4 | 4 | 5
+
+Total | 100 | % | 100 | % | 100 | % | 100 | %
+
+Subscriptions revenues. Subscriptions revenues increased by $129.7 million, or 6%, during fiscal year 2025 as compared to fiscal year 2024. Subscription revenues increased primarily due to acquisition of new customers and upsell of our products, including new AI-led products.
+
+In 2025, ARR from our new products, including AI-led product portfolio was approximately $100 million. Our AI products are priced on a usage basis or as add-on subscriptions, and their contribution to total ARR and revenue growth may increase over time as adoption broadens and customers deepen their engagement with the platform.
+
+Other revenues. Other revenues decreased by $14.9 million, or (14)%, during fiscal year 2025 as compared to fiscal year 2024. The decrease in other revenues is primarily driven by lower device sales, reflecting reduced demand for pre-configured desk phones as customers increasingly adopt mobile-based applications and lower professional services resulting from increased adoption of our newer AI-led products, including RingCX that are simpler to deploy.
+
+Although we expect to continue to add new customers for our products, including new product sales, and increase the usage of our products for existing customers, we will monitor the macroeconomic factors that could impact customer buying behavior and demand, including contract duration, timing of customer purchases, pricing changes, churn, upsell and down-sell, renewals, payment terms, and credit card declines, all of which could cause variability in our revenue.
+
+Cost of Revenues and Gross Margin
+
+Year ended December 31, | Year ended December 31,
+
+(in thousands, except percentages) | 2025 | 2024 | $
+
+Change | %
+
+Change | 2024 | 2023 | $
+
+Change | %
+
+Change
+
+Cost of revenues
+
+Subscriptions | $ | 616,190 | $ | 593,294 | $ | 22,896 | 4 | % | $ | 593,294 | $ | 557,050 | $ | 36,244 | 7 | %
+
+Other | 107,043 | 112,213 | (5,170) | (5) | % | 112,213 | 107,241 | 4,972 | 5 | %
+
+Total cost of revenues | $ | 723,233 | $ | 705,507 | $ | 17,726 | 3 | % | $ | 705,507 | $ | 664,291 | $ | 41,216 | 6 | %
+
+Percentage of total revenues
+
+Subscriptions | 24 | % | 25 | % | 25 | % | 25 | %
+
+Other | 4 | % | 5 | % | 5 | % | 5 | %
+
+Gross margins
+
+Subscriptions | 75 | % | 74 | % | 74 | % | 73 | %
+
+Other | (21) | % | (9) | % | (9) | % | (5) | %
+
+Total gross margin % | 71 | % | 71 | % | 71 | % | 70 | %
+
+Subscription cost of revenues and gross margin. Cost of subscriptions revenues increased by $22.9 million, or 4%, during fiscal year 2025 as compared to fiscal year 2024. The increase was primarily driven by a $16.5 million increase in third-party costs to support our solution offerings, a $12.1 million increase in infrastructure support costs, a $4.2 million increase in headcount-related costs, and a $2.6 million increase in professional fees. These increases were partially offset by an $8.9 million reduction in share-based compensation expense due to disciplined new grant activity, and a $4.7 million decrease in amortization of intangible assets.
+
+Our subscription gross margin remained relatively consistent during fiscal year 2025 as compared to fiscal year 2024.
+
+Other cost of revenues and gross margin. Cost of other revenues decreased by $5.2 million, or (5)%, during fiscal year 2025 as compared to fiscal year 2024, primarily due to reduction in personnel costs. Other revenue gross margin decreased mainly due to lower pricing of our product sales and professional services.
+
+Research and Development
+
+Year ended December 31, | Year ended December 31,
+
+(in thousands, except percentages) | 2025 | 2024 | $
+
+Change | %
+
+Change | 2024 | 2023 | $
+
+Change | %
+
+Change
+
+Research and development | $ | 316,993 | $ | 329,323 | $ | (12,330) | (4) | % | $ | 329,323 | $ | 335,851 | $ | (6,528) | (2) | %
+
+Percentage of total revenues | 13 | % | 14 | % | 14 | % | 15 | %
+
+Research and development expenses decreased by $12.3 million, or (4)%, during fiscal year 2025 as compared to fiscal year 2024. The decrease was primarily driven by a $15.3 million reduction in share-based compensation expense due to disciplined new grant activity, partially offset by a $2.6 million increase in headcount-related costs.
+
+We believe that investment in our products, including new AI-led products, is important for our future growth, and our research and development expenses may fluctuate as a percentage of our total revenues from period to period depending on the timing of these expenses.
+
+Sales and Marketing
+
+Year ended December 31, | Year ended December 31,
+
+(in thousands, except percentages) | 2025 | 2024 | $
+
+Change | %
+
+Change | 2024 | 2023 | $
+
+Change | %
+
+Change
+
+Sales and marketing | $ | 1,095,947 | $ | 1,096,448 | $ | (501) | — | % | $ | 1,096,448 | $ | 1,068,050 | $ | 28,398 | 3 | %
+
+Percentage of total revenues | 44 | % | 46 | % | 46 | % | 48 | %
+
+Sales and marketing expenses remained relatively flat during fiscal year 2025 as compared to fiscal year 2024. Sales and marketing expenses decreased by $22.7 million due to reduction in personnel and contractor costs, largely driven by headcount reductions, $20.7 million in share-based compensation due to disciplined new grant activity, and a $3.3 million decrease in professional fees. These decreases were primarily offset by a $34.2 million increase from third-party commissions driven by year over year business growth, and $11.4 million from asset write-down charges pursuant to an amended partner arrangement.
+
+We expect to incur incremental sales and marketing expenses to support our growth while driving operational efficiencies.
+
+General and Administrative
+
+Year ended December 31, | Year ended December 31,
+
+(in thousands, except percentages) | 2025 | 2024 | $
+
+Change | %
+
+Change | 2024 | 2023 | $
+
+Change | %
+
+Change
+
+General and administrative | $ | 258,418 | $ | 266,447 | $ | (8,029) | (3) | % | $ | 266,447 | $ | 333,048 | $ | (66,601) | (20) | %
+
+Percentage of total revenues | 10 | % | 11 | % | 11 | % | 15 | %
+
+General and administrative expenses decreased by $8.0 million, or (3)%, during fiscal year 2025 as compared to fiscal year 2024. This decrease was primarily driven by a $21.6 million reduction in share-based compensation resulting from disciplined new grant activity, and a $5.2 million reduction in headcount-related costs. These decreases were partially offset by $14.7 million increase in business fee, taxes and provision for doubtful accounts.
+
+We expect the general and administrative expenses to reflect the impact of our operational efficiency measures as we continue to realign our hiring strategies and rationalize our discretionary spending.
+
+Other (Expense) Income, Net
+
+Year ended December 31, | Year ended December 31,
+
+(in thousands, except percentages) | 2025 | 2024 | $
+
+Change | %
+
+Change | 2024 | 2023 | $
+
+Change | %
+
+Change
+
+Interest expense | $ | (60,279) | $ | (64,995) | $ | 4,716 | (7)% | $ | (64,995) | $ | (35,997) | $ | (28,998) | 81%
+
+Other (expense) income | (4,035) | 15,100 | (19,135) | nm | 15,100 | 77,963 | (62,863) | (81)
+
+Other (expense) income, net | $ | (64,314) | $ | (49,895) | $ | (14,419) | 29% | $ | (49,895) | $ | 41,966 | $ | (91,861) | nm
+
+*nm - not meaningful
+
+Interest expense. Interest expense decreased by $4.7 million, or (7)%, during fiscal year 2025 as compared to fiscal year 2024, primarily driven by lower outstanding debt due to $117.8 million aggregate principal repayments of our Term Loan and 2030 Senior Notes.
+
+Other (expense) income. Other (expense) income decreased by $19.1 million during fiscal year 2025 as compared to fiscal year 2024. This decrease was primarily driven by a $7.7 million gain recognized in the prior-year period related to an amended agreement with a strategic partner, a $5.3 million reduction in interest income from our investments due to lower balances in money market funds, and the recognition of a $4.7 million loss on early extinguishment of debt recognized in connection with the partial repurchase of our 2030 Senior Notes.
+
+Other (expense) income, net, can fluctuate in the future due to changes in interest rates on our money market funds, interest expense on our Credit Agreement, and fluctuations in currency exchange rates in the current macroeconomic environment.
+
+Liquidity and Capital Resources
+
+Liquidity is a measure of our ability to generate sufficient cash flows to meet the short-term and long-term cash requirements of our business operations, and debt obligations as they become due.
+
+We finance our operations primarily through sales to our customers, which could be billed either monthly or annually one year in advance. For customers with annual or multi-year contracts and those who opt for annual invoicing, we generally invoice only one annual period in advance and revenue is deferred for such advanced billings. As of December 31, 2025 and 2024, we had cash and cash equivalents of $132.6 million and $242.8 million, respectively. These amounts include restricted cash of $8.4 million and $7.4 million, respectively, held as a bank deposit for issuance of a foreign bank guarantee. As of December 31, 2025, we have access to additional liquidity of $650.0 million available under our delayed draw-down Term Loan and $305.0 million available under our Revolving Credit Facility.
+
+For the year ended December 31, 2025, net cash provided by operating activities was $617.4 million. During the year ended December 31, 2025, we generated $530.2 million of free cash flows, a non-GAAP financial measure defined as net cash provided by operating activities less capital expenditures (see below for a reconciliation to GAAP). Our capital allocation strategy includes reducing debt, returning capital to shareholders through share repurchases and dividends, and strategic acquisitions. In 2025, we repurchased 11.8 million common shares for $334.4 million, repaid $279.1 million of long-term debt, and used $20.8 million of cash for business combinations, including the acquisition of CommunityWFM.
+
+During the year ended December 31, 2025, we reduced our outstanding debt by repaying $279.1 million of principal, including $161.3 million on our 2025 Convertible Notes upon maturity, $67.8 million on our Term Loan, and $50.0 million on our 2030 Senior Notes. Refer to Note 6, Long-Term Debt, in the accompanying notes to the Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information regarding our Credit Agreement, the 2030 Senior Notes, and the 2026 Convertible Notes. We were in compliance with all debt covenants as of December 31, 2025.
+
+A near-term capital allocation priority is the repayment of our $609 million in convertible notes due in March 2026. We plan to utilize our available credit facilities, including $650 million of incremental capacity under our Term Loan to fund the repayment of these notes. The 2026 Convertible Notes carry a coupon rate of 0% and therefore currently generate no cash interest expense. As a result, the repayment of the 2026 Convertible Notes will increase our cash interest expense beginning in 2026 as borrowings under our Term Loan bear interest at a floating rate based on SOFR plus an applicable margin.
+
+Under our share repurchase programs, share repurchases may be made at our discretion from time to time in open market transactions, privately negotiated transactions, or other means. The programs do not obligate us to repurchase any specific dollar amount or to acquire any specific number of shares of our Class A Common Stock. The timing and number of any shares repurchased under the programs will depend on a variety of factors, including stock price, trading volume, and general business and market conditions. During the twelve months ended December 31, 2025, we repurchased and settled approximately 11.8 million shares of our Class A Common Stock, by paying an aggregate amount of approximately $334.4 million under the plans previously authorized by our board of directors. As of December 31, 2025, approximately $248.8 million remained authorized and available under our share repurchase programs for future share repurchases. The authorization under this program does not expire. Subsequent to December 31, 2025, our Board of Directors increased our remaining share repurchase authorization to $500.0 million, subject to certain limitations and inclusive of repurchases since December 31, 2025. The share repurchase authorization does not expire. Refer to Note 11, Stockholders’ Deficit and Convertible Preferred Stock in the accompanying notes to the Consolidated Financial Statements included in Part II, Item 8, “Consolidated Financial Statements and Supplementary Data” in this Annual Report on Form 10-K for additional information.
+
+The following table sets the current outstanding debt principal and the future payments as of December 31, 2025 (in thousands):
+
+2026 Convertible Notes | Term Loan | 2030 Senior Notes | Total
+
+2026 | $ | 609,065 | $ | 15,500 | $ | — | $ | 624,565
+
+2027 | — | 15,500 | — | 15,500
+
+2028 | — | 15,500 | — | 15,500
+
+2029 | — | 15,500 | — | 15,500
+
+2030 onwards | — | 240,250 | 350,000 | 590,250
+
+Total principal amount | $ | 609,065 | $ | 302,250 | $ | 350,000 | $ | 1,261,315
+
+In February 2026, our Board of Directors initiated our first-ever quarterly cash dividend of $0.075 per share of our outstanding capital stock, which shall be paid on March 16, 2026 to stockholders of record as of the close of business on March 9, 2026. We intend to pay a cash dividend on a quarterly basis going forward, subject to market conditions and approval by our Board.
+
+We believe that cash flows from our operations, existing liquidity sources including capital resources and ability to raise cash through additional financing will satisfy our future cash requirements and obligations for at least the next 12 months. Our future capital requirements will depend on many factors, including revenue growth and costs incurred to support customer growth, acquisitions and expansions, operating expenses, and capital equipment required to support our headcount and in support of our co-location data center facilities, our interest payments for both our Term Loan and 2030 Senior Notes, and the repayment of our 2026 Convertible Notes. Our capital expenditures in future periods are expected to grow in line with our business. We continually evaluate our capital needs and may decide to raise additional capital to fund the growth of our business for general corporate purposes through public or private equity offerings or through additional debt financing. The timing and amount of any such financing requirements will depend on a number of factors, including the maturity dates of our existing debt. We may from time to time seek to refinance certain of our outstanding debt through issuances of new notes or convertible debt, term loans, exchange transactions or debt repurchases. Such issuances, exchanges or repurchases, if any, will depend on prevailing market conditions, our ability to negotiate acceptable terms, our liquidity position and other factors. We may also from time to time seek to early repay or repurchase our debt through cash purchases and/or exchanges for equity or debt, in open-market purchases, privately negotiated transactions or otherwise. Such early repayments or repurchases, if any, will be upon such terms and at such prices as we may determine, and will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. Refer to risk factors in Part I, Item 1A in this Annual Report on Form 10-K for additional information.
+
+Cash Flows
+
+The table below provides selected cash flow information for the periods indicated (in thousands):
+
+Year ended December 31,
+
+2025 | 2024 | 2023
+
+Net cash provided by operating activities | $ | 617,427 | $ | 483,276 | $ | 399,662
+
+Net cash used in investing activities | (107,968) | (109,359) | (90,449)
+
+Net cash used in financing activities | (623,420) | (351,081) | (358,018)
+
+Effect of exchange rate changes | 3,714 | (2,220) | 1,016
+
+Net (decrease) increase in cash and cash equivalents | $ | (110,247) | $ | 20,616 | $ | (47,789)
+
+Net Cash Provided By Operating Activities
+
+Cash provided by operating activities is driven by the timing of customer collections, as well as the amount and timing of disbursements to our vendors, the amount of cash we invest in personnel, sales, marketing, innovation and infrastructure costs to support the anticipated growth of our business, payments under strategic arrangements, and interest costs.
+
+Net cash provided by operating activities was $617.4 million for the year ended December 31, 2025. The cash flow from operating activities was driven by timing of cash receipts from customers and global service providers, offset by cash payments for personnel-related costs and payments to vendors along with interest payments on our debt obligations.
+
+Net cash provided by operating activities for the year ended December 31, 2025, increased by $134.2 million as compared to the year ended December 31, 2024. This improvement reflects working capital impacts resulting from the timing of payments and collections and a $117.9 million increase in income from operations, driven by higher subscription revenues and lower operating expenses.
+
+Net Cash Used In Investing Activities
+
+Our primary investing activities consist of our capital expenditures and expenditures for internal-use software, business acquisitions, and cash paid for intellectual property assets.
+
+Net cash used in investing activities was $108.0 million for the year ended December 31, 2025. This was primarily driven by $87.2 million in capital expenditures, including personnel-related costs associated with the development of internal-use software, and $20.8 million in cash paid for business combinations.
+
+Net cash used in investing activities for the year ended December 31, 2025, decreased by $1.4 million as compared to the year ended December 31, 2024. The change was primarily attributed to a $5.5 million decrease in cash used for business combinations and $2.5 million reduction in cash used for the purchase of intangible assets, partially offset by a $6.7 million increase in cash used for capital expenditures, which includes personnel-related costs associated with the development of internal-use software.
+
+Net Cash Used In Financing Activities
+
+Our primary financing activities include utilizing cash to repurchase Class A Common Stock under our share repurchase programs, servicing and repaying debt, paying contingent consideration, proceeds from issuance under our stock plans, paying taxes related to these plans, and meeting our existing financing commitments.
+
+Net cash used in financing activities was $623.4 million for the year ended December 31, 2025. This was primarily driven by the cash settlement of $161.3 million upon the maturity of our 2025 Convertible Notes, $67.8 million of principal repayments on our Term Loan, and a $53.9 million cash payment to repurchase $50.0 million of principal on our 2030 Senior Notes. Additional cash outflows included $334.4 million used to repurchase and retire approximately 11.8 million shares of our Class A Common Stock under our share repurchase program, and $12.6 million for taxes associated with net share settlement of equity awards under our stock plans. These outflows were partially offset by $14.7 million in proceeds from issuance of stock in connection with our stock plans.
+
+Net cash used in financing activities for the year ended December 31, 2025, increased by $272.3 million as compared to the year ended December 31, 2024. The increase was primarily driven by a $161.3 million cash outflow related to the settlement of our 2025 Convertible Notes upon maturity, a $53.9 million cash payment to repurchase $50.0 million of principal on our 2030 Senior Notes, and a $47.8 million increase in principal repayments on our Term Loan.
+
+Non-GAAP Free Cash Flow
+
+To supplement our statements of cash flows presented on a U.S. GAAP basis, we use a non-GAAP measure of cash flows to analyze cash flow generated from our operations. We define free cash flow, a non-GAAP financial measure, as U.S. GAAP net cash provided by (used in) operating activities adjusted for capitalized expenditures that include purchases of property and equipment and capitalized internal-use software. We believe information regarding free cash flow provides useful information to management and investors in understanding the strength of liquidity and available cash. A limitation of the use of free cash flow is that it does not represent the total increase or decrease in our cash balance for the period. Free cash flow should not be considered in isolation or as an alternative to cash flows from operations, and should be considered alongside our other U.S. GAAP-based financial liquidity performance measures, such as net cash provided by operating activities and our other U.S. GAAP financial results.
+
+The following table presents a reconciliation of free cash flow to net cash provided by operating activities, the most directly comparable GAAP measure, for each of the periods presented (in thousands):
+
+Year Ended
+
+December 31,
+
+2025 | 2024 | 2023
+
+Net cash provided by operating activities | $ | 617,427 | $ | 483,276 | $ | 399,662
+
+Capitalized expenditures | (87,214) | (80,528) | (75,740)
+
+Non-GAAP free cash flow | $ | 530,213 | $ | 402,748 | $ | 323,922
+
+Remaining Performance Obligations
+
+We have generally signed new customer contracts with typical subscription terms ranging from one month to five years. At any point in the contract term, there can be amounts allocated to services that we have not yet contractually performed, which constitute our remaining performance obligations. Until we meet our performance obligations, we do not recognize them as revenues in our consolidated financial statements. Our remaining performance obligations exclude contracts with an original expected length of less than one year. Contract revenue as of December 31, 2025 that has not yet been recognized was approximately $2.6 billion.
+
+Deferred Revenue
+
+Deferred revenue primarily consists of the unearned portion of monthly or annual invoiced fees for our subscriptions, which we recognize as revenue in accordance with our revenue recognition policy. For customers with multi-year contracts, we generally invoice for monthly or only one annual subscription period in advance. As a result, our deferred revenue balance does not capture the full value of multi-year contracts and may not be a complete indicator of future subscription revenues on a standalone basis, therefore, we do not utilize deferred revenue as a key management metric internally.
+
+Contractual Obligations
+
+The following summarizes our contractual obligations as of December 31, 2025 (in thousands):
+
+Payments due by period
+
+Up to
+
+1 year | 1 to 3 years | 3 to 5 years | More than
+
+5 years | Total
+
+Operating lease obligations (1)
+$ | 22,737 | $ | 14,230 | $ | 831 | $ | — | $ | 37,798
+
+Supplier financing arrangements (2)
+633 | 463 | — | — | 1,096
+
+Principal payments on long-term debt (3)
+624,565 | 31,000 | 605,750 | — | 1,261,315
+
+Contractual interest payments on long-term debt (3)
+47,704 | 92,400 | 82,815 | — | 222,919
+
+Purchase obligations (4)
+63,111 | 69,966 | 5,157 | — | 138,234
+
+Total | $ | 758,750 | $ | 208,059 | $ | 694,553 | $ | — | $ | 1,661,362
+
+(1)Represents obligations under non-cancellable lease agreements for our corporate and worldwide offices, and co-location data centers. For more information regarding our lease obligations, refer to Note 9 - Leases included in Part II, Item 8, in this Annual Report on Form 10-K for additional information.
+
+(2)Amounts include established financing arrangements with certain third-party financial institutions and participating suppliers.
+
+(3)Represents our principal and contractual interest payments on our long-term debt. For more information regarding our long-term debt, refer to Note 6 - Long-Term Debt included in Part II, Item 8, in this Annual Report on Form 10-K for additional information.
+
+(4)Purchase obligations are primarily related to third-party managed hosting services and represent our non-cancellable open purchase orders and contractual obligations for which we have not received the goods or services as of December 31, 2025.
+
+Indemnification Obligations
+
+Certain of our agreements with sales agents, resellers and customers include provisions for indemnification against liabilities if our products infringe a third-party’s intellectual property rights. To date, we have not incurred any material costs as a result of such indemnification provisions and have not accrued any liabilities related to such obligations in the consolidated financial statements as of December 31, 2025.
+
+Contingencies
+
+We are and may be in the future subject to certain legal proceedings and from time to time may be involved in a variety of claims, lawsuits, investigations, and proceedings relating to contractual disputes, intellectual property rights, employment matters, regulatory compliance matters, and other matters relating to various claims that arise in the normal course of business. We record a provision for a liability when we believe that it is both probable that a liability has been incurred, and the amount can be reasonably estimated. Significant judgment is required to determine both probability and the estimated amount of loss. Such legal proceedings are inherently unpredictable and subject to significant uncertainties, some of which are beyond our control. Should any of these estimates and assumptions change or prove to be incorrect, it could have a significant impact on our results of operations, financial position, and cash flows.
+
+Refer to Note 10 – Commitments and Contingencies of the notes to the consolidated financial statements included in Part II, Item 8, “Consolidated Financial Statements and Supplementary Data” in this Annual Report on Form 10-K for additional information.
+
+Critical Accounting Policies and Estimates
+
+We prepare our consolidated financial statements in accordance with U.S. GAAP. In many cases, the accounting treatment of a particular transaction is specifically dictated by U.S. GAAP and does not require management’s judgment in its application. In other cases, management’s judgment is required in selecting among available alternative accounting standards that provide for different accounting treatment for similar transactions. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the amounts we report as assets, liabilities, revenues, costs, and expenses, and affect the related disclosures. We base our estimates on historical experience and other assumptions that we believe are reasonable under the circumstances. In many instances, we could reasonably use different accounting estimates, and in some instances changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, our actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected. A summary of our significant accounting policies is included in Note 1 of the notes to the consolidated financial statements included in Part II, Item 8, “Consolidated Financial Statements and Supplementary Data” in this Annual Report on Form 10-K, which is incorporated herein by reference. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates.
+
+Revenue Recognition
+
+We primarily derive our revenues from subscriptions, sale of products, and professional services. Subscriptions revenue is generally recognized over the period of the subscription contract. Subscription contracts generally allow the customers to terminate their services at any time during the first 30 to 60 days of the subscription period and are charged for the term of usage. Upon cancellation during the termination period, customers receive a pro-rata refund for any amounts paid. After the end of the termination period, the contract is non-cancellable and the customer is obligated to pay for the remaining term of the contract. For sale of products, revenue is recognized when control is transferred. For professional services, revenue is recognized as and when services are rendered.
+
+Recent Accounting Pronouncements
+
+For a summary of recent accounting pronouncements and the anticipated effects on our consolidated financial statements, see Note 1 to the consolidated financial statements included in Part II, Item 8, “Consolidated Financial Statements and Supplementary Data” in this Annual Report on Form 10-K, which is incorporated herein by reference.

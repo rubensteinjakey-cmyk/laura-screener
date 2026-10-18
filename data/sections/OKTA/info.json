@@ -1,0 +1,43 @@
+{
+  "ticker": "OKTA",
+  "accession_number": "0001660134-26-000020",
+  "filing_date": "2026-03-05",
+  "fiscal_year": 2026,
+  "full_text_words": 56216,
+  "sections": {
+    "item1": {
+      "words": 6711,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          6711,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7315,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7315,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 173,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 337
+    }
+  },
+  "notes": [],
+  "human_capital_words": 771,
+  "human_capital_found": true,
+  "people_paragraph_words": 2027
+}

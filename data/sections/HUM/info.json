@@ -1,0 +1,43 @@
+{
+  "ticker": "HUM",
+  "accession_number": "0000049071-26-000009",
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "full_text_words": 67794,
+  "sections": {
+    "item1": {
+      "words": 8311,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          8311,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 11524,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          11524,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 375,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 3,
+      "paragraphs_total": 368
+    }
+  },
+  "notes": [],
+  "human_capital_words": 811,
+  "human_capital_found": true,
+  "people_paragraph_words": 1068
+}

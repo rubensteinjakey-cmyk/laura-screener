@@ -1,0 +1,45 @@
+{
+  "ticker": "RNG",
+  "accession_number": "0001384905-26-000021",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "full_text_words": 64844,
+  "sections": {
+    "item1": {
+      "words": 4352,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4352,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7282,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7282,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 61,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 271
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 763
+}

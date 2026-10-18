@@ -1,0 +1,295 @@
+ITEM 1. BUSINESS
+
+Overview
+
+GitLab is the intelligent orchestration platform for DevSecOps, where software teams and their Artificial Intelligence (“AI”) agents stay in flow to ship software faster. Built with a unified data model, our platform brings together development, operations, Information Technology (“IT”), security, and business teams across the entire software development lifecycle to deliver better, more secure software faster.
+
+AI has accelerated individual coding, but teams lose momentum coordinating across planning, testing, security, deployment, and operations. Fragmented toolchains and tool-specific AI agents create bottlenecks that slow software delivery. GitLab's intelligent orchestration helps solve this by enabling teams to orchestrate AI agents to execute tasks autonomously across the software lifecycle while maintaining quality, security, and speed.
+
+GitLab accelerates customer innovation by reducing software development cycles from weeks to minutes. The platform eliminates the need for point tools, increases productivity, and embeds security into development workflows with automated enforcement to improve software security, quality, and compliance while enabling faster delivery.
+
+We serve teams of all sizes, scopes, and complexities. As a result, we have more than 50 million registered users, and more than 50% of the Fortune 100 companies are GitLab customers1. We define our active customers as those with more than $5,000 of Annual Recurring Revenue, or ARR, in a given period, who we refer to as our Base Customers. A single organization with separate subsidiaries, segments, or divisions that uses our platform is considered a single customer for determining ARR.
+
+GitLab is the only intelligent orchestration platform for DevSecOps built on an open-core business model. Any customer or contributor can add or enhance functionality by contributing code to the core product or extending our Continuous Integration (“CI”)/Continuous Delivery (“CD”) Catalog and AI Catalog. In calendar year 2025, users contributed more than 6,500 merge requests, extending our in-house research and development (“R&D”) and empowering our users to improve the DevSecOps solution they use daily. Our open-core approach builds trust with our customers and enables us to maintain our high velocity of innovation. We make our strategy, direction, and product roadmap publicly available.
+
+GitLab offers flexible deployment options. Customers can install self-managed GitLab instances in their own on-premises or hybrid cloud environments, use our fully managed SaaS offering in public or private clouds, or deploy GitLab Dedicated, our single-tenant SaaS solution for organizations with complex security and compliance requirements.
+
+Our business has experienced rapid growth. We generated revenue of $955.2 million and $759.2 million in fiscal year 2026 and fiscal year 2025, respectively, representing growth of 26%. During this period, we continued to invest in growing our business to capitalize on our market opportunity. The net loss attributable to GitLab was $56.0 million and $6.3 million in fiscal year 2026 and fiscal year 2025, respectively. Our operating cash flow margin, which we define as operating cash flows as a percentage of revenue, was 24% and (8)% for fiscal year 2026 and fiscal year 2025, respectively. Our gross profit margin was 87% and 89% for fiscal year 2026 and fiscal year 2025, respectively.
+
+1Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.
+
+GitLab and the Evolution of Software Development for the AI Era
+
+From DevOps to DevSecOps to Intelligent Orchestration
+
+DevOps combines software development and IT operations to shorten development cycles and enable rapid, continuous software delivery. GitLab pioneered the DevSecOps platform, replacing "do it yourself" with a single platform spanning the entire software development lifecycle. Today, GitLab is an intelligent orchestration platform built on three foundational pillars, where software teams and their AI agents work together seamlessly:
+
+•Workflows: Teams and AI agents working together. GitLab enables teams to orchestrate multiple AI agents that work in parallel across teams and projects on complex tasks spanning the entire software development lifecycle, with teams defining the rules and guardrails that guide agent behavior.
+
+•Context: Unified data and intelligence across the lifecycle. GitLab's unified data model provides complete context across the entire software lifecycle—code, project requirements, change history, security implications, deployment constraints, and operational feedback—with our knowledge graph, GitLab Orbit, indexing repositories and metadata to enable workflows that span multiple stages without context switching or integration overhead.
+
+•Guardrails: Governance and Compliance Built Into Flow. GitLab embeds security and compliance directly into agent workflows with policy-driven enforcement, automatic audit trails through Agent Sessions that capture agent reasoning and actions, and complete artifact traceability, enabling organizations to maintain compliance without sacrificing development velocity.
+
+The GitLab Platform
+
+GitLab's intelligent orchestration platform for DevSecOps is built on a single codebase with a unified data model and user interface. The platform provides a comprehensive understanding of everything required to deliver software, project plans, code, security scans, compliance checks, and deployment configurations. GitLab is purpose-built to address the entire software development lifecycle.
+
+Platform Capabilities and Benefits
+
+Our platform offers the following capabilities and benefits:
+
+•Unified data model provides complete lifecycle context. GitLab’s unified data model, enhanced by GitLab Orbit, provides complete context across projects, code, dependencies, security, compliance, testing, and deployment, enabling workflows to span multiple stages without context switching or integration overhead.
+
+•Built-in security and compliance. GitLab embeds security directly into workflows with comprehensive security testing running continuously throughout workflow execution, enabling organizations to shift security earlier in development without sacrificing velocity and to meet enterprise compliance requirements with granular permissions, auditing, and policy controls.
+
+•Flexible deployment with enterprise guardrails. Organizations can deploy GitLab in any environment that meets their security, compliance, and infrastructure requirements. Our platform runs seamlessly whether fully managed as SaaS, self-managed in cloud or on-premises environments, or as single-tenant dedicated instances, enabling customers to maintain full control over their data, workflows, and security policies.
+
+•GitLab Service Level Agreement (“SLA”) for SaaS Deployments. GitLab commits to a Monthly Uptime Percentage of at least 99.9% during each calendar month. GitLab features and services covered under this SLA include Issues and Merge Requests, Git Operations (push, pull,
+
+clone via HTTPS and SSH), Container Registry operations, Package Registry operations, and API Requests (limited to the features and services otherwise available under the SLA).
+
+•Open Core Platform for Ecosystem Innovation. GitLab’s open-core model allows customers and contributors to extend platform functionality, accelerating innovation velocity beyond internal R&D team capabilities while building trust through transparency and enabling customization for specific needs.
+
+•Innovation Through Iteration and Community Engagement. GitLab has released a new version of our software every month for 172 months in a row as of January 31, 2026, supported by over 5,200 contributors in our global open source community. GitLab team members also use the platform to power our own DevSecOps lifecycle, creating a feedback loop that continuously improves the platform.
+
+GitLab Duo Agent Platform
+
+GitLab Duo Agent Platform enables intelligent orchestration of teams and AI agents across the software lifecycle. With Duo Agent Platform, teams orchestrate AI agents that execute tasks autonomously across planning, development, security, and deployment. This eliminates the need for manual handoffs between software lifecycle stages that slow delivery in fragmented toolchains. Teams maintain control and visibility while AI agents handle repetitive tasks, enabling continuous execution across multiple projects and releases simultaneously. GitLab Duo Agent Platform embodies our three-pillar architecture for intelligent orchestration, combining collaborative workflows between teams and agents, comprehensive lifecycle context, and enterprise governance to transform how organizations deliver software.
+
+Generally available in January 2026, GitLab Duo Agent Platform combines conversational AI assistance, purpose-built agents for specialized tasks, workflow automation, and enterprise controls, giving organizations the flexibility to deploy and govern AI across their development lifecycle.
+
+GitLab Plans, Pricing, and Deployment Options
+
+GitLab is used globally by teams of all sizes across a broad range of industries, including financial services, technology, healthcare, government, telecommunications, and manufacturing. Organizations in highly regulated sectors, in particular, value our built-in security, compliance controls, and flexible deployment options that meet strict data residency and governance requirements.
+
+Plans
+
+We offer three subscription tiers that serve organizations from individual developers to large enterprises:
+
+•Free tier eliminates barriers to entry for individual developers and offers trials of advanced features.
+
+•Premium tier serves scaling organizations seeking enhanced productivity and collaboration.
+
+•Ultimate tier includes all Premium capabilities, plus advanced application and supply chain security, centralized compliance reporting, and policy controls.
+
+Pricing
+
+GitLab's pricing model is designed to meet the needs of organizations at different stages of their DevSecOps maturity and scale. We offer both seat-based and usage-based pricing to align costs with customer value realization and deployment patterns.
+
+Seat-based pricing applies to our core DevSecOps platform capabilities and scales predictably as teams grow. This model provides unlimited access to platform features within each tier (Free, Premium, Ultimate) based on the number of licensed users.
+
+Usage-based pricing (GitLab Credits) applies specifically to GitLab Duo Agent Platform capabilities. As AI agent activity varies significantly based on project complexity, team workflows, and automation levels, customers can choose between on-demand credits that align costs directly with consumption, or monthly commitment pools with shared credit allocation across teams. Credits provide transparency into AI costs and enable teams to scale agent usage aligned with business value.
+
+This multi-model approach allows customers to adopt GitLab incrementally, starting with platform capabilities that scale with headcount, then adding AI capabilities that match their specific usage patterns and automation maturity.
+
+•AI Add-on Subscriptions are available for customers seeking predictable, seat-based access to AI-powered developer productivity tools:
+
+◦GitLab Duo Pro includes AI-powered code completion, generation, chat, explanation, refactoring, and test generation. Available for Premium and Ultimate customers as a seat-based pricing model.
+
+◦GitLab Duo Enterprise includes all Duo Pro capabilities plus security vulnerability analysis, pipeline root cause analysis, summarization tools, and self-hosted model options. Available for Premium and Ultimate customers as a seat-based pricing model.
+
+•Enterprise Agile Planning Add-On available to Ultimate customers.
+
+Deployment Options
+
+•GitLab.com (Cloud-Hosted): Cloud-hosted by GitLab with instant setup, fully managed infrastructure with automatic updates and maintenance. Ideal for teams that want to focus on development without infrastructure management.
+
+•Self-Managed: Customers deploy GitLab on their own infrastructure for maximum control and customization, with full control over data, security policies, and infrastructure configuration. Ideal for organizations with specific compliance, security, or infrastructure requirements.
+
+•Dedicated: Fully managed by GitLab with data isolation, residency, and protection. Includes Dedicated for Government with FedRAMP compliance. Ideal for enterprises and organizations in highly regulated industries requiring data isolation, specific geographic requirements, or government compliance.
+
+Customer Outcomes and Business Impact
+
+•Lower total cost of ownership for software delivery. GitLab’s unique DevSecOps platform approach enables customers to consolidate multiple point solutions into a single platform, reducing licensing, integration, and operational overhead. Based on a 2024 study conducted by Forrester Consulting, commissioned by GitLab, the cost savings and business benefits achievable by deploying GitLab to revenue-generating applications can enable customers to deliver a 483% return on investment within three years of deployment, and a potential payback period of under six months2.
+
+•Faster time to market at enterprise scale. GitLab customers see up to 15x faster time to first release, accelerating release cycles from months to days and enabling faster response to customer and market demands.
+
+•Improved security and risk posture without slowing development. GitLab’s integrated security and policy enforcement enables customers to identify and remediate vulnerabilities earlier in the lifecycle, reducing downstream risk and operational disruption.
+
+•Audit-ready governance across the software development lifecycle. GitLab’s intelligent orchestration helps eliminate fragmented tools that create blind spots. Teams can automatically log, track, and trace work across planning, development, security, and operations, giving audit and compliance teams the visibility they need while reducing manual effort across the organization.
+
+•Measurable productivity gains from AI-assisted workflows. GitLab customers apply AI across planning, development, security, and operations to reduce manual effort, improve consistency, and increase organizational capacity for software development.
+
+•Improved developer experience and productivity. Customers spend more time building, deploying, and securing software with our single platform and less time managing, integrating, and triaging across different tools.
+
+•Infrastructure and cloud flexibility without vendor lock-in. Customers deploy across cloud, hybrid, and on-premises environments, supporting multi-cloud strategies and long-term architectural choices.
+
+2Forrester Total Economic Impact™, commissioned by GitLab, July 2024. The Total Economic Impact™ study conducted by Forrester Consulting evaluates the cost savings and business benefits enabled by GitLab Ultimate over three years. The results are based on a composite organization constructed from interviewed customers. This information is intended for informational purposes only and should be evaluated within the full context of the study document.
+
+Our Growth Strategy
+
+We intend to continue investing in our business to advance the adoption of our DevSecOps platform and support long-term growth. Our growth strategy is focused on expanding platform adoption, increasing customer value, and addressing the evolving needs of organizations delivering enterprise software at scale:
+
+•Advance feature maturity across more stages of the DevSecOps lifecycle. We plan to continue investing in research and development to mature capabilities across additional stages of the DevSecOps lifecycle. As software development becomes increasingly complex and AI-assisted, organizations require platforms that unify planning, development, security, and operations with consistent governance and context. We believe continued investment in platform capabilities that span the full software development life cycle, strengthen our differentiation, and support broader enterprise adoption.
+
+•Drive growth through go-to-market expansion. We believe demand for integrated DevSecOps platforms remains substantial as organizations modernize from fragmented toolchains and seek to improve productivity, security, and operational efficiency. Our go-to-market approach supports both bottom-up adoption by developers and top-down enterprise buying motions driven by executive decision-makers addressing broader business and technology needs. We plan to continue investing in sales and marketing initiatives that increase awareness, educate customers on platform value, and support adoption across these entry points, while also expanding our global partner ecosystem of cloud providers, system integrators, resellers, and technology partners to extend market reach and support customer deployment and expansion. We believe this combined direct and partner-led model enables us to efficiently serve organizations of varying sizes, maturity, and regulatory requirements, while accelerating time to value and supporting long-term customer growth.
+
+•Drive increased expansion within our existing customer base. As customers realize the benefits of a single platform approach, they often expand their usage by adding users, adopting additional capabilities, or upgrading subscription tiers. We also expect to drive expansion through GitLab Credits as customers scale their adoption of GitLab Duo Agent Platform and AI agent capabilities. As a result, for fiscal year 2026 and fiscal year 2025, our Dollar-Based Net Retention Rate was 118% and 123%, respectively. We intend to continue focusing on customer success
+
+and expansion initiatives to increase adoption within existing customers, particularly among larger enterprises with complex development, security, and compliance requirements.
+
+•Further grow adoption of our SaaS and usage-based offerings. We expect continued growth in demand for SaaS-based solutions as customers seek to reduce infrastructure management overhead while maintaining enterprise-grade security and compliance. As customers scale their use of GitLab Duo Agent Platform capabilities, we expect growing revenue contributions through GitLab Credits, which align costs with AI agent activity and organizational value realization. We plan to continue investing in our SaaS offering, including differentiated deployment options designed for highly regulated industries, to support customers with varying operational and compliance requirements.
+
+•Grow and invest in our partner network. We have been investing in our global partner ecosystem, composed of hyperscalers and cloud providers, including Google Cloud and AWS, technology and independent software vendor partners, global resellers, and system integrators. Our partner strategy is designed to complement direct sales efforts and provide customers with implementation, migration, and advisory services that accelerate platform value realization.
+
+Sales and Marketing
+
+We sell GitLab through a direct sales organization, a self-service web purchasing experience, and a global partner ecosystem including systems integrators, cloud platform partners, independent software vendors, managed service providers, and resellers. Our sales organization is structured by region and customer size, with vertical specialization in regulated industries including public sector, financial services, and telecommunications. Our customer success organization manages relationships throughout the customer lifecycle to drive platform adoption and expansion.
+
+Our marketing programs generate awareness through digital demand generation, account-based marketing, virtual and field events, and integrated campaigns targeting developers, customers, and prospects. We offer free tier access and trials to enable prospects to experience platform value before purchasing.
+
+Human Capital
+
+Our Unique Culture and Values
+
+Our success is driven by our culture. We believe that our values and culture are a competitive advantage within our industry, and we will continue to invest time and resources in building our culture to drive superior business results. We are highly dependent on our management, highly skilled engineers, sales team members and other professionals. It is crucial that we continue to identify, attract and retain valuable team members. To facilitate hiring and retention, we strive to make GitLab an inclusive workplace where every team member feels they belong and have the opportunity to grow and develop their career.
+
+We remained Great Place to Work certified with 92% of US team members agreeing that GitLab is a great place to work and 94% of US team members saying they are proud to work here. In fiscal year 2026, we earned recognition as a Fortune Best Workplace in Technology, a Fortune Best Workplace in the Bay Area, and a Built In Best Remote Place to Work. As a result, we trust that our values have led and will continue to lead to results that distinguish us from other companies. Our values include:
+
+◦Collaboration - Helping others is a priority; we rely on each other for help and advice;
+
+◦Results for Customers - We follow through on our promises to each other, customers, users, and investors;
+
+◦Efficiency - We are about working on the right things to achieve more progress faster;
+
+◦Diversity, Inclusion & Belonging - We aim to foster an environment where everyone can thrive;
+
+◦Iteration - We do the smallest thing possible and get it out as quickly as possible; and
+
+◦Transparency - We strive to be open about as many things as possible to reduce the threshold to contribution and to make collaboration easier.
+
+•Results-driven remote work. Our all-remote culture helps us to practice our values. As an all-remote company, we can recruit from a wider, more diverse, and uniquely skilled pool of talent across the world.
+
+•We seek to be transparent in everything we do. We publicly share non-sensitive information, including our product roadmap, in written form to share best practices and build trust amongst our team members, customers, and the wider open source community. Transparency creates awareness for GitLab, allows us to recruit people who care about our values, gets us more and faster feedback from people outside GitLab, and makes it easier to collaborate.
+
+•We do the smallest thing possible and get it out as quickly as we can. We aim to take an iterative approach in everything we do. Our process is centered on dividing work into small increments, and pursuing each stage with speed and efficiency, whilst building with the end results in mind. Approaching work this way, we are able to rapidly get input from end-users who are actively using our platform, continuously revisit what we are doing with a fresher perspective, and gradually gain a greater sense of visibility into what the end picture should look like. By adopting this approach, we are able to work with a greater sense of speed and efficiency, getting more done in less time.
+
+Team Members
+
+Our mission is to enable everyone to contribute to and co-create the software that powers our world. When everyone can contribute, consumers become contributors, and we greatly increase the rate of innovation. This mission is integral to our culture, and how we hire, build products, and lead our industry. GitLab’s unified DevSecOps platform brings together developers, operations, and security professionals and elevates the output of their work to new levels, making it faster, safer, and more accessible. We enable our team members to achieve that mission with individualized flexibility to reach shared business results. We believe this leads to a team that is continually engaged and passionate about the positive impact of GitLab.
+
+As of January 31, 2026, we had approximately 2,580 team members in 60 countries. We engage our team members in various ways, including through direct employment, Professional Employer Organizations (“PEOs”), and as independent contractors. In the locations where we use PEOs, we contract with the PEO for it to serve as “Employer of Record” for team members engaged through such PEO. Team members are employed by the PEO but provide services to GitLab. We also engage team members through a PEO self-employed model in certain jurisdictions where we contract with the PEO, which in turn contracts with individual team members as independent contractors. None of our team members are represented by a labor union. In certain countries in which we operate, we are subject to, and comply with, local labor law requirements which may automatically make our team members subject to industry-wide collective bargaining agreements or works councils. We have not experienced any work stoppages. We work to identify, attract, and retain team members who are aligned with and will help us progress with our mission, and we seek to provide competitive cash and equity compensation. We believe we have a strong and open relationship with our team members and our unique mission, culture and values differentiate us and continue to be key drivers of our business success.
+
+Diversity, Inclusion and Belonging
+
+Diversity, Inclusion & Belonging is a part of our CREDIT values. We strive to create a transparent environment where all globally dispersed voices are heard and welcomed, where people can show up as their full selves each day, and where everyone can contribute to their best ability.
+
+Compensation, Benefits, and Perks
+
+We provide team members with competitive compensation packages that include base salaries and equity awards, including restricted stock units. We are an open organization and want to be as transparent as possible about our compensation principles. Our compensation model is open to data-driven iterations. Additional benefits programs (which vary by country and region) include a 401(k) Plan with a company match, healthcare, vision, and dental insurance benefits, health savings, and flexible spending accounts, flexible paid time off, parental leave, and other benefits tailored to the specific needs of our team members such as family forming, caregiving, and mental health resources. Throughout the year, we also encourage team members to participate in various volunteer initiatives that support and ultimately uplift their local communities. As with our unique ways of working, GitLab and its team members have identified and sought out opportunities for impact that speak back not only to our values but our all-remote nature.
+
+Our Open Source Philosophy
+
+We recognize that it is imperative to balance our need to generate revenue with the needs of the open source software project. To determine what is available in our free tier and what is available only in our paid tiers, we first assess who cares the most about the feature. Individual contributors rarely purchase the GitLab platform, and thus, if the feature is something primarily individuals care about, it will be open source. If the features are something primarily managers, directors, or executives care about, then it will be source-available.
+
+We want to be good stewards of our open source solution, so we aim to ensure all stages of the DevSecOps lifecycle (plan, create, verify, package, release, configure, monitor) will have some open source features. Having all stages of the platform available to users for free encourages cross-stage adoption and more collaboration and helps users see the benefit of a single application approach. Including all major features in our free tier helps us keep our codebase for the free and paid tiers similar, which helps us carry forward our promise of being good stewards of our open source solution without diverging codebases. We seek to clearly and consistently articulate our monetization strategy on teams and organizations to provide predictability to both our customers as well as the community of contributors.
+
+Our open source approach is intended to increase our development velocity as the developer pool who contributes to our codebase is greater than the size of any single engineering team. As of January 31, 2026, more than 5,200 individuals have contributed to the GitLab platform and since January 1, 2021, code contributions have averaged more than 275 per month. Because people outside of our organization can read our code, users can contribute to identifying and solving issues, which accelerates the time we can release new software to market. This has also been a big contribution to enabling us to release a new version of our software for 172 months in a row and counting as of January 31, 2026.
+
+We believe our open source approach helps us acquire, retain, and grow our paying customer base. Our customers benefit from the advanced innovation that comes from distributed development, the documentation, best practices, knowledge sharing across our community, and the possibility to extend or enhance our platform with unique capabilities through their own contributions back to our codebase.
+
+Research and Development Strategy
+
+We ship features and components of features at a high velocity in the smallest possible increments to optimize for code quality, efficiency, and speed. As each feature is typically similar in size, we are able to measure and track our development team's efficacy by counting the number of merge requests or a
+
+request to merge one branch of code into another. We believe that our development approach, using the GitLab platform, is a key competitive advantage.
+
+We make product investment decisions based upon our DevSecOps platform capabilities contribution to revenue, monthly active usage, and served addressable market size. Currently, the majority of our development costs are in core DevSecOps platform capabilities serving SCM, CI, and Enterprise Agile Planning use cases; Security and Compliance platform capabilities serving Security Risk Management, Application Security Testing, and Software Supply Chain Security use cases; and AI enabled DevSecOps platform capabilities serving the entire Software Development Lifecycle.
+
+Our research and development team consists of our architects, software engineers, security experts, DevSecOps engineers, product management, user experience, quality assurance, and data collection teams. We intend to continue to invest in our research and development capabilities to extend the GitLab platform and capabilities.
+
+Our Customers
+
+We serve organizations of all sizes across industries and regions. As of January 31, 2026, we had customers in over 159 countries. We believe that our customer growth is best represented by the number of our Base Customers, which increased to 10,682 as of January 31, 2026 from 9,893 as of January 31, 2025. We are continuously investing in our enterprise sales motion and have achieved strong success in attracting, retaining, and growing ARR from our larger customers. For the year ended January 31, 2026, more than 70% of our ARR came from public sector and enterprise customers. Our success has been exemplified by the growth in our $100,000 ARR customers to 1,456 as of January 31, 2026, from 1,229 as of January 31, 2025. Further, during the same period, we grew our $1.0 million ARR customers to 155 from 123, an increase of 26%. We have key reference customers across a breadth of industry verticals that we believe validate the GitLab platform, and our customers range from small and medium-sized teams to Fortune 500 companies. There were no individual customers whose balance represented more than 10% of accounts receivable as of January 31, 2026 and January 31, 2025.
+
+Competition
+
+The markets we serve are highly competitive and rapidly evolving. With the introduction of new technologies and innovations, particularly in AI-assisted development, we expect the competitive environment to remain intense.
+
+We compete primarily with DevSecOps platforms, product collections, and point solutions.
+
+Our principal competitor is Microsoft Corporation, which owns GitHub. We also compete with DevOps product collections and point solutions from vendors such as Atlassian, JFrog, and Harness.
+
+We differentiate from GitHub through flexible deployment options that work within enterprise security and compliance requirements, LLM neutrality with self-hosted gateway support, hyperscaler infrastructure flexibility, and our open core business model. We differentiate from product collections and point solutions through our single platform with a unified data model.
+
+Furthermore, we believe we can compete favorably based on the following factors:
+
+•Intelligent orchestration across teams and AI agents for the entire software lifecycle;
+
+•A unified data model providing complete context across all stages of software development planning, development, security, deployment, and operations;
+
+•Integrated team and agent workflows spanning multiple projects and releases simultaneously;
+
+•Elimination of manual handoffs between software lifecycle stages through continuous execution;
+
+•AI capabilities embedded across all software development lifecycle stages;
+
+•Security and compliance built directly into software development workflows, not as separate checkpoints;
+
+•Feature parity across any public cloud, private cloud, hybrid cloud, or on-premises environment;
+
+•Flexible deployment options including self-managed (on-premise or hybrid cloud), fully managed SaaS (public or private cloud), and single-tenant GitLab Dedicated instances, all within enterprise security and compliance requirements;
+
+•LLM neutrality and support for self-hosted AI gateways, including air-gapped environments;
+
+•Rapid innovation and consistent feature delivery through our open-core model;
+
+•Collaboration between developers, IT operations, and security teams;
+
+•Consolidation of multiple tools into a single platform;
+
+•A large, engaging community of open source contributors;
+
+•Quality of service and customer satisfaction; and
+
+•Comprehensive documentation and transparency of information.
+
+Corporate Philanthropy
+
+As part of our mission – we empower organizations to ship secure software faster – we believe that it is important to support teams that can further this goal at local and global levels. To further this mission, in September 2021, our board of directors approved the reservation of up to 1,635,545 shares of Class A common stock for the issuance to charitable organizations, to be further designated by our board of directors. We currently donate shares on a quarterly basis. See “Note 9. Equity” to our consolidated financial statements included elsewhere in this Annual Report for more information regarding donated shares.
+
+Additionally, as part of GitLab’s Sustainability objectives, GitLab purchased $0.23 million in high-quality carbon removal reforestation credits in fiscal year 2026 to cover 21,086 tonnes of CO2e of the company's emissions.
+
+Government Regulation
+
+We are subject to many varying laws and regulations in the United States and throughout the world, including those related to data privacy, security and protection, intellectual property, worker classification, employment and labor, workplace safety, consumer protection, anti-bribery, import and export controls, immigration, federal securities, and tax.
+
+Moreover, new and existing laws and regulations (or changes in interpretation of existing laws and regulations) may also be adopted, implemented, or interpreted to apply to us or our contributors, and uncertainty around the application of these laws may affect demand for our platform. Executive orders and other actions taken by the U.S. presidential administration may also create regulatory uncertainty and impact our operations in ways that are difficult to predict. Additionally, as our platform’s geographic scope continues to expand, regulatory agencies or courts may claim that we are subject to additional requirements, or are prohibited from conducting our business in or with certain jurisdictions, either generally or with respect to certain services, or that we are otherwise required to change our business practices. We believe that we are in material compliance with such laws and regulations and do not expect continued compliance to have a material impact on our capital expenditures, earnings, or competitive position. We continue to monitor existing and pending laws and regulations and while the impact of regulatory changes cannot be predicted with certainty, we do not expect compliance to have a
+
+material adverse effect on our business. See Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K for a more comprehensive description of risks related to government regulation affecting our business.
+
+Intellectual Property
+
+The protection of our technology and intellectual property is an important aspect of our business. We rely upon a combination of trademarks, trade secrets, know-how, copyrights, patents, confidentiality procedures, contractual commitments, domain names, and other legal rights to establish and protect our intellectual property. We generally enter into confidentiality agreements and invention or work product assignment agreements with our officers, team members, agents, contractors, and business partners to control access to, and clarify ownership of, our proprietary information.
+
+As of January 31, 2026, we had 16 issued patents and 25 pending patent applications in the United States and abroad. These patents and patent applications seek to protect proprietary inventions relevant to our business. The issued patents are scheduled to expire between 2034 and 2043.
+
+As of January 31, 2026, we had 24 trademark registrations and applications in the United States, including for “GITLAB” and our logo. We also had 52 trademark registrations and applications in certain other jurisdictions and regions. Additionally, we are the registered holder of a number of domain names, including gitlab.com.
+
+We are dedicated to open source software. Our product incorporates many components subject to open source software licenses, and in turn we license many significant components of our software under open source software licenses. Such licenses grant licensees broad permissions to use, copy, modify, and redistribute the covered software which can limit the value of our software copyright assets.
+
+Legal Proceedings
+
+GitLab Securities Class Action and Shareholder Derivative Cases
+
+On September 4, 2024, a putative class action was filed in the United States District Court for the Northern District of California, captioned Dolly v. GitLab et al., Case No. 24-cv-06244-EKL (“Dolly”), naming GitLab and certain of our officers. The complaint purported to assert claims under Section 10(b) of the Securities Exchange Act of 1934 (“1934 Act”), SEC Rule 10b-5, and Section 20(a) of the 1934 Act, on behalf of persons and entities who acquired our common stock between June 5, 2023 and June 3, 2024 (the “Class Period”). Plaintiff alleged that, during the Class Period, defendants made material misrepresentations or omissions regarding, among other things, our use of AI features and ability to monetize our AI capabilities that artificially inflated our stock price. Plaintiff sought, among other things, damages in an unspecified amount, as well as fees and costs. Plaintiff amended his complaint on February 5, 2025 and March 7, 2025, and we moved to dismiss the second amended complaint in April 2025. On August 14, 2025, the court granted our motion to dismiss with leave for the plaintiff to amend and refile a third amended complaint. On September 8, 2025, the plaintiff filed a stipulation stating that he had decided not to file an amended complaint or to appeal the motion to dismiss order. The case was dismissed with prejudice and final judgment was entered on behalf of GitLab on January 26, 2026.
+
+Three putative shareholder derivative cases were filed containing allegations based on or similar to those in the securities class action. The cases were filed on February 14, 2025, in the United States District Court for the Northern District of California, captioned Preciado v. Sijbrandij et al., Case No. 25-cv-01597 (“Preciado”); on February 19, 2025 in the United States District Court for the Northern District of California, captioned Jones v. Sijbrandij et al., Case No. 25-cv-01735 (“Jones”); and on March 28, 2025 in the United States District Court for the Northern District of California, captioned Lianto v. Sijbrandij et al., Case No. 25-cv-02924 (“Lianto”). Each of the three cases was allegedly brought on our behalf. Each of the lawsuits named us as a nominal defendant, and also certain of our officers and current and former members of our board of directors. The Jones complaint purported to assert claims under Section 14(a) of the Exchange Act as well as breach of fiduciary duty, while the Preciado and Lianto complaints purported
+
+to assert those claims as well as unjust enrichment and related corporate torts. The complaints sought to recover unspecified damages and other relief on our behalf. In January 2026, the plaintiffs in each of these three putative shareholder derivative cases agreed to voluntarily dismiss their respective claims. All three cases were dismissed on January 26, 2026.
+
+In addition to the now-dismissed shareholder matters described above, we are, and from time to time may become, involved in legal proceedings or be subject to claims arising in the ordinary course of our business. We are not presently a party to any legal proceedings that in the opinion of management, if determined adversely to us, would individually or taken together have a material adverse effect on our business, financial condition or operating results.
+
+Defending such proceedings is costly and can impose a significant burden on management and team members. The results of any current or future litigation cannot be predicted with certainty, and regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors.
+
+Corporate Information
+
+We were incorporated in the State of Delaware as GitLab Inc. in September 2014. We are a remote-only company, meaning that all of our team members work remotely. Due to this, we do not currently have a headquarters. Our website address is https://about.gitlab.com. The information contained on, or that can be accessed through, our website is not a part of this Annual Report on Form 10-K. Investors should not rely on any such information in deciding whether to conduct any transactions involving our Class A common stock. Unless otherwise indicated, the terms “GitLab,” the “Company,” “we,” “us,” and “our” refer to GitLab Inc., our subsidiaries, and our consolidated variable interest entity GitLab Information Technology (Hubei) Co., LTD (“JiHu”). References to our “common stock” include our Class A common stock and Class B common stock.
+
+Available Information
+
+We file electronically with the Securities and Exchange Commission, or the SEC, our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended. The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements and other information that we file with the SEC electronically. We make available on our website at https://about.gitlab.com, free of charge, copies of these reports and other information as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC.
+
+We use our investor relations page on our website (https://ir.gitlab.com/), press releases, public conference calls, public webcasts, our X account (@gitlab), our Facebook page, our LinkedIn page, our company news site (https://about.gitlab.com/press/) and our corporate blog (https://about.gitlab.com/blog/) as means of disclosing material nonpublic information and for complying with our disclosure obligations under Regulation FD. The information disclosed by the foregoing channels could be deemed to be material information. As such, we encourage investors, the media, and others to follow the channels listed above and to review the information disclosed through such channels. Any updates to the list of disclosure channels through which we announce information will be posted on the investor relations page on our website.
+
+The contents of the websites referred to above are not incorporated into this Annual Report on Form 10-K. Further, our references to the URLs for these websites are intended to be inactive textual references only.

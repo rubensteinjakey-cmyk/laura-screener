@@ -1,0 +1,45 @@
+{
+  "ticker": "VRNS",
+  "accession_number": "0001628280-26-005450",
+  "filing_date": "2026-02-04",
+  "fiscal_year": 2025,
+  "full_text_words": 59504,
+  "sections": {
+    "item1": {
+      "words": 5744,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5744,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8397,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8397,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 293,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 227
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 916
+}

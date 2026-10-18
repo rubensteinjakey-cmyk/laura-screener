@@ -1,0 +1,453 @@
+Item 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements that reflect our plans, estimates and beliefs, and involve risks and uncertainties. Our actual results and the timing of certain events could differ materially from those anticipated in these forward-looking statements as a result of several factors, including those discussed in the section titled “Risk Factors” included under Part I, Item 1A and elsewhere in this Annual Report. See “Special Note Regarding Forward-Looking Statements and Summary Risk Factors” in this Annual Report.
+
+The Transition to a SaaS Delivery Model
+
+In response to the evolving needs of our customers and the growing threat landscape, we strategically transitioned to a SaaS delivery model. As of December 31, 2025, SaaS as a percentage of total ARR was approximately 86%. This transition was driven by the increased importance of an automated, data-centric approach to security and the demand for comprehensive protection in the face of heightened cyber risks, collaboration across multiple platforms, the adoption of generative AI tools and the necessity for compliance. Enterprises now use many different combinations of on-premises and cloud data stores, SaaS applications and IaaS environments and this complexity requires a greater level of automated security. We believe our offering provides comprehensive data coverage and our ability to address this demand has and will continue to be a key driver of our growth.
+
+In the second half of 2021, we launched our first SaaS offering, introducing new products and support for cloud infrastructure environments and applications. At the end of 2022, we announced the availability of our flagship Varonis Data Security Platform as a SaaS solution, which was previously only sold as a self-hosted solution. The benefits of SaaS delivery are widely established for both customers and providers, and we believe this evolution of a SaaS delivery option for the Varonis Data Security Platform is transformational. The advantages include: quicker and easier deployment and maintenance of solutions with reduced infrastructure and personnel requirements; a lower total cost of ownership; faster deployment of risk assessments, which is the core of our sales motion; enhanced threat detection; continual threat model updates; increased automation for securing data in place; and the ability to deliver additional features and functionality to customers more efficiently. In addition, our MDDR offering further reduces both the likelihood of a breach and its potential impact through agentic AI, enabling automated 24x7x365 monitoring with a service level agreement (SLA) that requires Varonis to respond to alerts within a specified time frame. Our MDDR offering is only available for our SaaS customers because of the automation and visibility that’s built into our SaaS platform. In 2025, we further expanded our data coverage through the acquisition of Cyral which allowed us to enter the Database Activity Monitoring (DAM) market and SlashNext, which, together with our MDDR offering, strengthens our ability to stop attacks via email and collaboration apps.
+
+Since launching our SaaS offerings, we have seen SaaS deployments grow significantly and they are now the primary driver of our revenues. We expect SaaS revenues to continue to increase. However, our revenues may be negatively impacted due to revenue recognition accounting treatment variations associated with the increase in SaaS sales and whether and when existing term license subscription customers will continue to convert to SaaS. In addition, we have announced the end-of-life for our self-hosted business as of December 31, 2026. We expect this to result in increased variability with our remaining self-hosted customers going forward and for revenue fluctuations to persist as we seek to convert our remaining term-license customers to SaaS.
+
+Overview
+
+Varonis is a data security company focused on protecting what matters most to organizations: their data. Modern enterprises run on data that is created, copied, shared and accessed across cloud services, SaaS applications and on-premises environments, often faster than security teams can see, understand or control. We started Varonis around a simple observation that we believe has only intensified over time: the ability to create and share data scales far faster than the ability to secure it. Our strategy is built around closing that gap, giving organizations the deep visibility and automated controls to deeply understand their enterprise data, reduce exposure and respond to threats quickly, wherever their data lives.
+
+We sell substantially all of our products and services through channel partners, including distributors and resellers, which sell to end-user customers, which we refer to in this report as our customers. We believe that our sales model, which combines the leverage of a channel sales model with our highly trained and professional sales force, has and will continue to play a major role in our ability to grow and to successfully deliver our unique value proposition for enterprise data. While our products serve customers of all sizes, across industries and across geographies, the marketing focus and majority of our sales focus is on targeting larger organizations who can make sizable initial purchases with us and, over time, have a greater potential lifetime value. Our customers span leading firms in the financial services, public, healthcare, industrial, insurance,
+
+energy and utilities, technology, construction and engineering, education and consumer and retail sectors. We believe our existing customer base serves as a strong source of future incremental revenues given our broad platform of products, their growing volumes and complexity of enterprise data and related security concerns. We will continue our focus on targeting larger organizations who can make sizable purchases with us initially and over time. We are also focused on maintaining a high renewal rate by investing in the quality and reliability of our customer service and support teams to ensure our customers receive value from our products and providing software upgrades and enhancements when and if they are available. Our product offering currently contains coverage for most mission-critical cloud and on-premises data stores and cloud infrastructure environments, and many critical SaaS applications. Our renewal rate continued to be over 90% for the year ended December 31, 2025. In addition, our business has substantially transitioned to SaaS and we have announced the end-of-life for our self-hosted business as of December 31, 2026. We expect this to result in increased variability with our remaining self-hosted customers throughout the end-of-life period and as we seek to convert these remaining customers to SaaS.
+
+We believe there is a significant long-term growth opportunity in both domestic and international markets, which could include any organization that relies on data stored in SaaS applications, IaaS environments, NAS devices, file shares, databases and email servers. For the year ended December 31, 2025, approximately 71% of our revenues were derived from the United States, while approximately 21% of our revenues were derived from EMEA and approximately 8% from ROW. Additionally, despite the revenue recognition variations from the accounting treatment associated with the positive trend of our increase in SaaS sales and existing customer conversions to SaaS, total revenues still grew approximately 13% for the year ended December 31, 2025, compared with the year ended December 31, 2024. We continue to expect expansion in both domestic and international markets to be key components of our long-term growth strategy. Over the last few years, we have seen changes in customer buying patterns including some budgetary tightening and additional scrutiny on enterprise spending as a result of a higher inflation and interest rate environment.
+
+We continue to expand our domestic and international operations as part of our long-term growth strategy. While the expansion of our domestic operations is focused primarily on our underpenetrated territories, the expansion of our international operations depends in particular on our ability to hire, integrate and retain local sales leadership and personnel in these international markets, acquire new channel partners and implement an effective marketing strategy. Given the nominal amount of our ROW revenues, our ROW revenue growth rates have fluctuated in the past and may fluctuate in the future based on the timing of deal closures. In addition, the further expansion of our international operations will increase our sales and marketing and general and administrative expenses and will subject us to a variety of risks and challenges, including those related to economic and political conditions in each region, compliance with foreign laws and regulations, and compliance with domestic laws and regulations applicable to our international operations.
+
+Since inception, we have continued to scale our business and execute on strategic initiatives which we believe have positioned us for durable long-term growth. During 2025, we have continued to grow our revenues despite revenue recognition accounting treatment variations associated with the increase in SaaS sales and existing customer conversions to SaaS. For the years ended December 31, 2025, 2024 and 2023, SaaS revenues were $462.6 million, $208.8 million and $44.4 million, respectively. For the years ended December 31, 2025, 2024 and 2023, our total revenues were $623.5 million, $551.0 million and $499.2 million, respectively. For the years ended December 31, 2025, 2024 and 2023, we had operating losses of $146.5 million, $117.7 million and $117.2 million and net losses of $129.3 million, $95.8 million and $100.9 million, respectively.
+
+Key Performance Indicators and Recent Business Highlights
+
+Annual Recurring Revenues
+
+Annual recurring revenues is a key performance indicator defined as the annualized value of active SaaS contracts, term-based subscription license contracts and maintenance contracts in effect at the end of that period. SaaS contracts, term-based subscription license contracts and maintenance contracts are annualized by dividing the total contract value by the number of days in the term and multiplying the result by 365. As we have substantially transitioned to a SaaS delivery model and announced the end-of-life of our self-hosted business as of December 31, 2026, ARR associated with SaaS contracts ("SaaS ARR") will become a key performance indicator throughout 2026. Accordingly, we are disclosing SaaS ARR until the end-of-life of the self-hosted business is complete, at which point, ARR and SaaS ARR will be materially consistent.
+
+As of December 31, 2025, 2024 and 2023, ARR was $745.4 million, $641.9 million and $543.0 million, respectively, an increase of 16% and 18% period over period, respectively. As of December 31, 2025, SaaS ARR is $638.5 million. The annualized value of contracts is a legal and contractual determination made by assessing the contractual terms with our customers. The annualized value of these contracts is not determined by reference to historical revenues, deferred revenues or any other GAAP financial measure over any period. ARR and SaaS ARR is not a forecast of future revenues and can be
+
+impacted by contract start and end dates and renewal rates. We expect ARR and SaaS ARR to continue to increase in absolute dollars.
+
+Transition to SaaS Delivery Model, SaaS as a Percentage of ARR and SaaS renewal rate
+
+Over the last several years, we strategically expanded our offering to be delivered as SaaS solutions. During that time, we have seen SaaS deployments grow significantly and expect them to continue to increase. Due to differences in the revenue recognition accounting treatment and the conversion of existing term license subscription customers to SaaS, there may be significant variations in the reported revenues for a given period compared to the same period in the previous year. We expect these revenue variations to persist as we seek to convert our remaining term license subscription customers to SaaS and complete the end-of-life of our self-hosted business.
+
+As of December 31, 2025, SaaS as a percentage of total ARR was approximately 86%. We expect this percentage to continue to increase as we seek to convert our remaining self-hosted customers to SaaS and we end-of-life our self-hosted business by the end of 2026. Accordingly, the historical renewal rate disclosure will be replaced by the SaaS renewal rate starting in 2026. This performance metric aligns with our new business model and how management views the business.
+
+Remaining Performance Obligations
+
+Remaining performance obligations ("RPO") represent contracted revenues that have not yet been recognized, which includes deferred revenues and non-cancelable amounts that will be invoiced in the future. Our RPO was $1,096.7 million as of December 31, 2025 and we expect RPO to increase in absolute dollars.
+
+Business Acquisitions
+
+On March 17, 2025, we completed the acquisition of Cyral, a private company which develops DAM software that uses agentless and stateless interception technology.
+
+On August 28, 2025, we completed the acquisition of SlashNext, a private AI-native email security provider that detects advanced phishing and social engineering attacks.
+
+For further information regarding the Cyral and SlashNext acquisitions, refer to Note 8 of our consolidated financial statements.
+
+Components of Operating Results
+
+Revenues
+
+SaaS Revenues. SaaS revenues relate to the Varonis Data Security Platform delivered as a SaaS model. Over the last several years, we began to offer SaaS-delivered solutions and strategically enhanced our platform to safeguard customers' most mission-critical assets, including cloud environments, SaaS applications and on-premises data. Each of these products allow customers to use hosted software, and the related revenue from these products is recognized ratably over the associated contract period. Our SaaS solutions are the primary driver of our revenues and we expect SaaS revenues to continue to grow considerably. Conversions from a license sold on-premises to our SaaS offering during the original subscription period are accounted for on a prospective basis.
+
+Term License Subscription Revenues. Term license subscription revenues relate to subscription license revenues which are sold on-premises and are recognized at the point in time when the software license has been delivered and the benefit of the asset has transferred. Maintenance associated with a term license subscription is recognized ratably over the term of the agreement.
+
+Maintenance and Services Revenues. Maintenance and services revenues consist of revenues from maintenance agreements of past perpetual license sales and, to a lesser extent, professional services. Customers with maintenance agreements are entitled to receive support and unspecified upgrades and enhancements when and if they become available. We recognize the revenues associated with maintenance ratably over the associated contract period.
+
+Our renewal rate for each of the years ended December 31, 2025, 2024 and 2023 continued to be over 90%. We measure the renewal rate for our customers over a 12-month period, based on a dollar renewal rate for contracts expiring during that time period. The expected increase in SaaS revenues, combined with the timing of conversions and renewals, as well as conversion and renewal rates, may result in significant variation in the revenues we recognize in a given period. We expect
+
+term license subscription revenues and perpetual license revenues, including the associated maintenance and support related to perpetual licenses, to continue to decline.
+
+The following table sets forth the percentage of our revenues that have been derived from SaaS, term license subscriptions and maintenance and services revenues for the periods presented.
+
+Year Ended December 31,
+
+2025 | 2024 | 2023
+
+(as a percentage of total revenues)
+
+Revenues:
+
+SaaS | 74.2 | % | 37.9 | % | 8.9 | %
+
+Term license subscriptions | 17.6 | % | 46.1 | % | 71.4 | %
+
+Maintenance and services | 8.2 | % | 16.0 | % | 19.7 | %
+
+Total revenues | 100.0 | % | 100.0 | % | 100.0 | %
+
+Our products are used by a wide range of enterprises, including Fortune 500 corporations and small and medium-sized businesses. Our customers span a broad array of industries and are located in over 95 countries.
+
+Cost of Revenues, Gross Profit and Gross Margin
+
+Cost of revenues consist primarily of salaries (including payroll tax expense related to stock-based compensation), employee benefits (including commissions and bonuses) and stock-based compensation for our customer support, customer success, MDDR and services employees; third-party hosting fees; amortization of certain acquired intangible assets; travel expenses; and allocated overhead costs for facilities, IT and depreciation. We recognize expenses related to these costs as they are incurred and expect that these costs will increase in absolute dollars as we continue to invest in our customer success, support and MDDR teams and support the underlying programs that play a critical role in maintaining our high renewal rate.
+
+Gross profit is total revenues less total cost of revenues. Gross margin is gross profit expressed as a percentage of total revenues. As the majority of our expenses are relatively fixed quarter over quarter and due to the seasonality of our business, the first quarter typically results in the lowest gross margin as our first quarter revenues have historically been the lowest for the year. Conversely, the fourth quarter typically results in the highest gross margin as our fourth quarter revenues have historically been the highest for the year. We have seen the impact of these seasonal patterns, due to differences in revenue recognition accounting treatment, decline in 2025 and we expect it to continue to decline, as we seek to sell more of our SaaS offering to customers and complete the end-of-life of our self-hosted business.
+
+Operating Expenses
+
+Operating expenses are classified into three categories: research and development, sales and marketing and general and administrative. For each category, the largest component is personnel costs, which consists of salaries (including payroll tax expense related to stock-based compensation), employee benefits (including commissions and bonuses) and stock-based compensation. Operating expenses also include allocated overhead costs for facilities, IT and depreciation. Allocated costs for facilities primarily consist of rent and office maintenance. Operating expenses are generally recognized as incurred. As a company, we have always aimed to tie our level of investment in the business to the revenues we expect to achieve and we actively manage expenses across the business. We expect personnel costs to continue to increase in absolute dollars as we continue to grow our business.
+
+Research and Development. Research and development expenses primarily consist of personnel costs attributable to our research and development personnel, as well as allocated overhead costs. We expense research and development costs as incurred, except for certain internal use software development costs that are capitalized. We expect that our research and development expenses will continue to increase in absolute dollars as we further strengthen our technology platform and invest in the development of both existing and new products through the hiring of talented and capable employees.
+
+Sales and Marketing. Sales and marketing expenses are the largest component of our operating expenses and consist primarily of personnel costs, as well as marketing and business development costs, travel expenses, third-party hosting fees, training and education, allocated overhead costs and amortization of certain acquired intangible assets. We expect that sales and marketing expenses will continue to increase in absolute dollars as we plan to expand our sales and marketing efforts, both domestically and internationally. We also expect sales and marketing expenses to continue to be our largest category of operating expenses.
+
+General and Administrative. General and administrative expenses primarily consist of personnel and facility-related costs for our executive, finance, legal, human resources and administrative personnel. Other expenses are comprised of legal, accounting and other consultant fees and other corporate expenses and allocated overhead. We expect that general and administrative expenses will increase in absolute dollars as we expand our operations.
+
+Financial Income (Expenses), Net
+
+Financial income (expenses), net consists primarily of interest income, amortization of premiums and accretion of discounts related to our investment in available for sale marketable securities, foreign exchange gains or losses, amortization of debt issuance costs and interest expense. Interest income represents interest received on our cash, cash equivalents, marketable securities and deposits. Foreign exchange gains or losses relate to our business activities in foreign countries with different operational reporting currencies. As a result of our business activities in foreign countries, we expect that foreign exchange gains or losses will continue to occur due to fluctuations in exchange rates in the countries where we do business. Amortization of debt issuance costs relate to the Notes we issued in May 2020 and September 2024. Interest expense consists of the contractual interest expenses associated with the Notes. The Notes we issued in May 2020 matured on August 15, 2025, as such, no further amortization of debt issuance costs or contractual interest expense will be incurred related to these Notes.
+
+Income Taxes
+
+We operate in the U.S. and in foreign jurisdictions and are subject to taxes in each country or jurisdiction in which we conduct business. Earnings from our non-U.S. activities are subject to local country income tax and may be subject to U.S. income tax.
+
+Because of our history of operating losses, we have established a full valuation allowance against potential future benefits for deferred tax assets, including loss carryforwards. Our income tax provision could be significantly impacted by estimates surrounding our uncertain tax positions and changes to our valuation allowance in future periods. We reevaluate the judgments surrounding our estimates and make adjustments as appropriate each reporting period.
+
+In addition, we are subject to the regular examinations of our income tax returns by different tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes.
+
+On July 4, 2025, the U.S. enacted tax reform legislation through the One Big Beautiful Bill Act (OBBBA). Included in this legislation are provisions that allow for the immediate expensing of U.S. research and development expenses and certain capital expenditures, as well as changes to the U.S. taxation of profits derived from foreign operations. The impact of this legislation has been included within our consolidated financial statements.
+
+Results of Operations
+
+The following tables are a summary of our consolidated statements of operations in dollars and as a percentage of our total revenues.
+
+Year Ended December 31,
+
+2025 | 2024 | 2023
+
+(in thousands)
+
+Statement of Operations Data:
+
+Revenues:
+
+SaaS | $ | 462,595 | $ | 208,781 | $ | 44,417
+
+Term license subscriptions | 109,635 | 254,241 | 356,490
+
+Maintenance and services | 51,302 | 87,928 | 98,253
+
+Total revenues | 623,532 | 550,950 | 499,160
+
+Cost of revenues | 131,974 | 93,847 | 71,751
+
+Gross profit | 491,558 | 457,103 | 427,409
+
+Operating expenses:
+
+Research and development | 237,814 | 196,765 | 183,838
+
+Sales and marketing | 301,342 | 288,769 | 277,893
+
+General and administrative | 98,916 | 89,220 | 82,901
+
+Total operating expenses | 638,072 | 574,754 | 544,632
+
+Operating loss | (146,514) | (117,651) | (117,223)
+
+Financial income, net | 30,194 | 34,644 | 30,305
+
+Loss before income taxes | (116,320) | (83,007) | (86,918)
+
+Income taxes | (13,004) | (12,758) | (13,998)
+
+Net loss | $ | (129,324) | $ | (95,765) | $ | (100,916)
+
+Year Ended December 31,
+
+2025 | 2024 | 2023
+
+(as a percentage of total revenues)
+
+Statement of Operations Data:
+
+Revenues:
+
+SaaS | 74.2 | % | 37.9 | % | 8.9 | %
+
+Term license subscriptions | 17.6 | 46.1 | 71.4
+
+Maintenance and services | 8.2 | 16.0 | 19.7
+
+Total revenues | 100.0 | 100.0 | 100.0
+
+Cost of revenues | 21.2 | 17.0 | 14.4
+
+Gross profit | 78.8 | 83.0 | 85.6
+
+Operating expenses:
+
+Research and development | 38.1 | 35.8 | 36.8
+
+Sales and marketing | 48.3 | 52.4 | 55.7
+
+General and administrative | 15.9 | 16.2 | 16.6
+
+Total operating expenses | 102.3 | 104.4 | 109.1
+
+Operating loss | (23.5) | (21.4) | (23.5)
+
+Financial income, net | 4.8 | 6.3 | 6.1
+
+Loss before income taxes | (18.7) | (15.1) | (17.4)
+
+Income taxes | (2.0) | (2.3) | (2.8)
+
+Net loss | (20.7) | % | (17.4) | % | (20.2) | %
+
+Comparison of Years Ended December 31, 2025 and 2024
+
+Revenues
+
+Year Ended December 31,
+
+2025 | 2024 | % Change
+
+(in thousands)
+
+Revenues:
+
+SaaS | $ | 462,595 | $ | 208,781 | 121.6 | %
+
+Term license subscriptions | 109,635 | 254,241 | (56.9) | %
+
+Maintenance and services | 51,302 | 87,928 | (41.7) | %
+
+Total revenues | $ | 623,532 | $ | 550,950 | 13.2 | %
+
+Year Ended December 31,
+
+2025 | 2024
+
+(as a percentage of total revenues)
+
+Revenues:
+
+SaaS | 74.2 | % | 37.9 | %
+
+Term license subscriptions | 17.6 | 46.1
+
+Maintenance and services | 8.2 | 16.0
+
+Total revenues | 100.0 | % | 100.0 | %
+
+For the year ended December 31, 2025, our revenues increased 13% compared to the year ended December 31, 2024, despite increased SaaS sales and existing customer conversions to SaaS which cause variations due to accounting treatment differences in revenue recognition for sales within the respective periods. SaaS revenues increased 122% from $208.8 million for the year ended December 31, 2024, to $462.6 million for the year ended December 31, 2025, as we completed our transition to a SaaS delivery model. The increase in SaaS revenues was driven by (i) new customer acquisitions, which are happening due to the simplicity and automated outcomes of our SaaS platform and MDDR offering, as well as customer interest in Gen AI, (ii) existing customer conversions and upselling and (iii) our high renewal rates. Consequently, there was an expected decrease to term license subscriptions given the aforementioned transition and customer conversions, a trend we expect to continue in the near future. ARR was $745.4 million and $641.9 million as of December 31, 2025 and 2024, respectively, representing an increase of 16%. The anticipated decrease in maintenance and services revenues was due to the conversion of existing customers to SaaS and churn, despite our renewal rate continuing to be over 90% for each of the years ended December 31, 2025 and 2024. We continue to expect less maintenance and services revenues in the future.
+
+Cost of Revenues and Gross Margin
+
+Year Ended December 31,
+
+2025 | 2024 | % Change
+
+(in thousands)
+
+Cost of revenues | $ | 131,974 | $ | 93,847 | 40.6 | %
+
+Year Ended December 31,
+
+2025 | 2024
+
+(as a percentage of total revenues)
+
+Total gross margin | 78.8 | % | 83.0 | %
+
+The increase in cost of revenues was primarily related to a $19.7 million increase in third-party hosting costs associated with our transition to a SaaS delivery model. The increase is also due to a $15.0 million increase in salaries, benefits and stock-based compensation expense due to increased headcount for customer success personnel to assist with the completion of our SaaS transition, including our MDDR offering, to ensure high customer satisfaction and to maintain our strong renewal rates.
+
+Operating Expenses
+
+Year Ended December 31,
+
+2025 | 2024 | % Change
+
+(in thousands)
+
+Operating expenses:
+
+Research and development | $ | 237,814 | $ | 196,765 | 20.9 | %
+
+Sales and marketing | 301,342 | 288,769 | 4.4 | %
+
+General and administrative | 98,916 | 89,220 | 10.9 | %
+
+Total operating expenses | $ | 638,072 | $ | 574,754 | 11.0 | %
+
+Year Ended December 31,
+
+2025 | 2024
+
+(as a percentage of total revenues)
+
+Operating expenses:
+
+Research and development | 38.1 | % | 35.8 | %
+
+Sales and marketing | 48.3 | % | 52.4 | %
+
+General and administrative | 15.9 | % | 16.2 | %
+
+Total operating expenses | 102.3 | % | 104.4 | %
+
+The increase in research and development expenses was primarily related to a $35.5 million increase in salaries, benefits and stock-based compensation expense primarily due to increased headcount and conditional consideration related to the business acquisitions, an increase of $5.7 million in facilities and allocated overhead costs, a $4.3 million increase in third-party hosting costs associated with our transition to a SaaS delivery model and a $1.5 million increase in acquisition-related costs associated with the business acquisitions, partially offset by a $6.7 million decrease in acquired in-process research and development costs associated with a prior period asset acquisition.
+
+The increase in sales and marketing expenses was primarily related to an increase of $5.2 million in general sales and marketing expenses, including increased travel, marketing events and third-party hosting costs associated with our transition to a SaaS delivery model, a $5.0 million increase in salaries, benefits and stock-based compensation expense and an increase of $2.1 million in facilities and allocated overhead costs.
+
+The increase in general and administrative expenses was primarily related to an increase of $4.8 million in salaries and benefits and stock-based compensation expense primarily due to increased headcount to support the overall growth of our business, a $2.5 million increase in consulting and services fees and a $2.1 million increase in acquisition-related costs associated with the business acquisitions.
+
+Financial Income, Net
+
+Year Ended December 31,
+
+2025 | 2024 | % Change
+
+(in thousands)
+
+Financial income, net | $ | 30,194 | $ | 34,644 | (12.8) | %
+
+The decrease in financial income, net was primarily due to amortization of premiums on marketable securities, foreign currency losses and higher interest and issuance cost amortization expense related to the 2029 convertible note, partially offset by higher interest income.
+
+Income Taxes
+
+Year Ended December 31,
+
+2025 | 2024 | % Change
+
+(in thousands)
+
+Income taxes | $ | (13,004) | $ | (12,758) | 1.9 | %
+
+Income taxes for the year ended December 31, 2025, including the increase in income taxes, were comprised of foreign and U.S. income taxes.
+
+Inflation
+
+We do not believe that inflation rates have had a material effect on our business, financial condition or results of operations in the last three fiscal years. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial condition and results of operations.
+
+Comparison of Years Ended December 31, 2024 and 2023
+
+For a comparison of our results of operations for the years ended December 31, 2024 and 2023, see “Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 6, 2025, which comparative information is herein incorporated by reference.
+
+Seasonality and Quarterly Trends
+
+When selling on-premises subscription products, our quarterly results reflect seasonality in the sale of our products and services. Historically, we have experienced a pattern of increased sales in the fourth quarter. This trend makes it difficult to achieve sequential revenue growth in the first quarter of the following year. Because of purchasing trends, demand for our products and services is typically slowest in the first quarter, resulting in a decrease in quarterly revenues from the fourth quarter to the first quarter of the subsequent fiscal year. Our gross margins and operating margins have been affected by these historical trends because the majority of our expenses are relatively fixed quarter over quarter. Our expenses, which do not vary directly with revenues, and the seasonal pattern described above have an impact on the cost of revenues, research and development expenses, sales and marketing expenses and general and administrative expenses as a percentage of revenues in each calendar quarter during the year. We have seen the impact of these seasonal patterns, due to the ratable revenue recognition of SaaS, decline in 2025 and we expect it to continue to decline, as we seek to sell more of our SaaS offering to customers and complete the end-of-life of our self-hosted business. The majority of our expenses are personnel-related costs, which consist of salaries (including payroll tax expense related to stock-based compensation), employee benefits (including commissions and bonuses) and stock-based compensation. As a result, we have not experienced significant seasonal fluctuations in the timing of expenses from period to period.
+
+Liquidity and Capital Resources
+
+The following table shows our liquidity and capital resources and our cash flows from operating activities, investing activities and financing activities for the years ended December 31, 2025 and 2024. For a discussion of our liquidity and capital resources and our cash flow activities for the fiscal year ended December 31, 2023, see “Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 6, 2025, which discussion is herein incorporated by reference.
+
+Year Ended December 31,
+
+2025 | 2024
+
+(in thousands)
+
+Net cash provided by operating activities | $ | 147,431 | $ | 115,200
+
+Net cash used in investing activities | (837) | (532,255)
+
+Net cash provided by (used in) financing activities | (129,697) | 371,900
+
+Increase (decrease) in cash and cash equivalents | $ | 16,897 | $ | (45,155)
+
+As of December 31, 2025, our cash and cash equivalents, short-term marketable securities and short-term deposits of $921.0 million were held for working capital purposes. We believe that our existing cash and cash equivalents, short-term marketable securities, short-term deposits and cash flow from operations will be sufficient to fund our operations and capital expenditures for at least the next 12 months. Additionally, as of December 31, 2025, we held $187.2 million in long-term marketable securities. Our future capital requirements will depend on many factors, including our rate of revenue growth, timing of renewals and renewal rates, the amount and timing of conversions, the expansion of our sales and marketing
+
+activities, the timing and extent of spending to support product development efforts and expansion into new geographic locations, the timing of introductions of new software products and enhancements to existing software products, the continuing market acceptance of our software offerings and our use of cash to pay for acquisitions or share repurchases, if any.
+
+Operating Activities
+
+Our operating activities are driven by sales of our products less costs and expenses, primarily payroll and related expenses, and adjusted for certain non-cash items, mainly depreciation and amortization, stock-based compensation, amortization of deferred commissions, non-cash operating lease costs, amortization of debt issuance costs, amortization of premium and accretion of discount on marketable securities and changes in operating assets and liabilities. Changes in operating assets and liabilities are driven mainly by collection of accounts receivable from the sales of our software products and deferred revenue, which primarily consists of billed fees for our subscriptions, prior to satisfying the criteria for revenue recognition, which are subsequently recognized as revenue in accordance with our revenue recognition policy.
+
+For 2025, net cash provided by operating activities were $147.4 million. We have historically observed two seasonal patterns that impact our net cash provided by operating activities, which we continue to expect under a SaaS delivery model. First, a majority of our sales are made during the last three weeks of the quarter. Second, the highest dollar amount of sales of our products and services occurs in the fourth quarter. Consequently, we end the fourth quarter with our highest accounts receivable balance of any quarter which in turn generates the greatest amount of collections in the following quarter. In addition, there is negative sequential sales in the first quarter, which results in a relatively lower amount collected during the second quarter. These seasonal trends also impact our operating loss because the majority of our expenses are relatively fixed in the short-term. For 2025, cash inflows were $80.2 million from our net loss excluding non-cash and non-operating cash flow charges. Additional sources of cash inflows were from changes in our working capital, including a $148.1 million increase in deferred revenues, a $52.8 million increase in accrued expenses and other liabilities, a $2.4 million increase in other long-term liabilities and a $1.2 million increase in trade payables. This was partially offset by a $83.6 million increase in prepaid expenses and other short-term assets (including deferred commissions), a $52.6 million increase in accounts receivable and a $1.1 million increase in other long-term assets. Our days’ sales outstanding (“DSO”) for the three months and year ended December 31, 2025 was 81 and 77, respectively.
+
+For 2024, net cash provided by operating activities were $115.2 million. Sources of cash inflows were $102.1 million from our net loss excluding non-cash and non-operating cash flow charges. Additional sources of cash inflows were from changes in our working capital, including a $110.4 million increase in deferred revenues, a $17.3 million increase in accrued expenses and other liabilities, a $3.6 million increase in trade payables, a $0.3 million decrease in other long-term assets and a $0.3 million increase in other long-term liabilities. This was partially offset by a $95.2 million increase in prepaid expenses and other short-term assets (including deferred commissions) and a $23.7 million increase in accounts receivable. Our DSO for the three months and year ended December 31, 2024 was 77 and 74, respectively.
+
+Investing Activities
+
+Our investing activities consist primarily of acquisitions, capital expenditures to purchase property and equipment, including leasehold improvements, capitalized internal-use software, purchase and sale of deposits and marketable securities. In the future, we expect to continue to incur capital expenditures to support our expanding operations.
+
+For 2025, net cash used in investing activities of $0.8 million was primarily attributable to $123.5 million of cash paid for acquisitions, net of cash acquired, $12.6 million in capital expenditures to support our growth including hardware, software, office equipment and leasehold improvements mainly in connection with existing office space and $2.9 million for capitalized internal-use software expenditures. This was partially offset by net proceeds of $135.5 million in marketable securities and net proceeds of $2.7 million in deposits.
+
+For 2024, net cash used in investing activities of $532.3 million was primarily attributable to net investments of $529.4 million in marketable securities, $6.7 million for in-process research and development and $6.7 million in capital expenditures to support our growth including hardware, office equipment and leasehold improvements mainly in connection with existing office space. This was partially offset by net proceeds of $10.5 million in deposits.
+
+Financing Activities
+
+For 2025, net cash used in financing activities of $129.7 million was attributable to $115.0 million in repurchases of common stock, $29.2 million in taxes paid related to net share settlement of equity awards and $0.1 million in repayment of
+
+2025 convertible senior note principal, partially offset by $14.3 million of proceeds from employee stock plans and $0.3 million in proceeds from options to repurchase common stock.
+
+For 2024, net cash provided by financing activities of $371.9 million was attributable to $449.6 million of net proceeds from the issuance of convertible senior notes and $16.1 million of proceeds from employee stock plans, partially offset by $55.5 million related to purchases of capped calls associated with the issued convertible senior notes and $38.3 million in taxes paid related to net share settlement of equity awards.
+
+Convertible Notes
+
+On September 10, 2024, we issued $460.0 million aggregate principal amount of Notes (the "2029 Notes"). The net proceeds from the offering, after deducting issuance costs, were approximately $449.6 million. In connection with the issuance of the 2029 Notes, we used $55.5 million of the net proceeds to enter into Capped Call Transactions.
+
+On May 11, 2020, we issued $253.0 million aggregate principal amount of Notes (the "2025 Notes" and together with the 2029 Notes, the "Notes"). The net proceeds from the offering, after deducting issuance costs, were approximately $245.2 million. In connection with the issuance of the 2025 Notes, we used $29.3 million of the net proceeds to enter into Capped Call Transactions. The 2025 Notes were settled prior to or on their maturity date of August 15, 2025 in accordance with the terms of the 2025 Indenture. Additionally, the Capped Call Transactions entered into in connection with the 2025 Notes were executed and net share settled.
+
+For further information regarding the Notes and Capped Call Transactions, refer to Note 7 of our consolidated financial statements.
+
+Share Repurchase Programs
+
+In February 2025, our board of directors authorized a share repurchase program of up to $100.0 million of the Company’s common stock (the “February 2025 Share Repurchase Program”). Under the February 2025 Share Repurchase Program, we were authorized to repurchase shares through open market purchases, privately-negotiated transactions or otherwise in accordance with applicable federal securities laws, including through Rule 10b5-1 trading plans and under Rule 10b-18 of the Exchange Act. The February 2025 Share Repurchase Program was completed in April 2025.
+
+In October 2025, our board of directors authorized a share repurchase program of up to $150.0 million of the Company’s common stock (the “October 2025 Share Repurchase Program”). Under the October 2025 Share Repurchase Program, we are authorized to repurchase shares through open market purchases, privately-negotiated transactions or otherwise in accordance with applicable federal securities laws, including through Rule 10b5-1 trading plans and under Rule 10b-18 of the Exchange Act. At December 31, 2025, we had $135.0 million of capacity remaining under our October 2025 Share Repurchase Program which will expire in October 2026. The number of shares to be purchased and the timing of purchases will be based on our trading windows, available liquidity, and general business and market conditions.
+
+Contractual Payment Obligations
+
+Our principal commitments primarily consist of obligations under leases for office space and motor vehicles. Aggregate minimum rental commitments under non-cancelable leases as of December 31, 2025 for the upcoming years were as follows:
+
+Payments Due by Period
+
+2026 | 2027 | 2028 | 2029 | 2030 | Thereafter | Total
+
+(in thousands)
+
+Operating lease obligations | $ | 13,639 | $ | 14,929 | $ | 11,809 | $ | 13,440 | $ | 12,364 | $ | 24,808 | $ | 90,989
+
+We have obligations related to unrecognized tax benefit liabilities totaling $50.5 million and others related to severance pay, which have been excluded from the table above as we do not believe it is practicable to make reliable estimates of the periods in which payments for these obligations will be made. We also have contractual minimum purchase commitments with service providers through August 31, 2027, October 31, 2028 and May 31, 2031. These commitments total $4.9 million, $2.5 million and $23.9 million due within the next 12 months, respectively and $10.5 million, $3.8 million and $377.6 million (with no specified annual commitments), respectively, due thereafter. We expect to fund these obligations with cash flows from operations and cash on our balance sheet.
+
+Off-Balance Sheet Arrangements
+
+As of December 31, 2025, we did not have any off-balance sheet arrangements.
+
+Critical Accounting Policies and Estimates
+
+We prepare our consolidated financial statements in accordance with generally accepted accounting principles in the United States. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected. We believe that our accounting policies described in Note 2. Significant Accounting Policies in Part II, Item 8 of this Annual Report on Form 10-K, the critical accounting policy estimates, assumptions and judgments that have the most significant impact on our consolidated financial statements are described below. Critical accounting policies and estimates are those that we consider the most important to the portrayal of our financial condition and results of operations because they require our most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of the matters that are inherently uncertain.
+
+Revenue Recognition:
+
+We generate revenues primarily in the form of SaaS revenues, term license subscriptions and maintenance and services fees. SaaS revenue is recognized ratably over the associated contract period. Term license subscription software sold on-premises is recognized at the point in time when the software license has been delivered and the benefit of the asset has transferred. Maintenance associated with term license subscription software is recognized ratably over the term of the agreement.
+
+We enter into contracts that can include combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations. Judgment is required when considering the terms and conditions of these contracts and estimating the standalone selling price ("SSP"). The transaction price for these contracts is allocated to the separate performance obligations on a relative SSP basis. The SSP is the price at which we would sell the promised SaaS, term-based license or maintenance services to a customer. For software licenses and maintenance included in term license subscriptions, we determine the standalone selling prices based on the price at which we separately sell maintenance renewals for past perpetual licenses.
+
+Income Taxes:
+
+We account for income taxes using the asset and liability method whereby deferred tax assets and liability account balances are determined based on the differences between financial reporting and the tax basis for assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. We provide a valuation allowance, if necessary, to reduce deferred tax assets to the amounts that are more likely-than-not to be realized.
+
+We account for unrecognized tax positions under a two-step approach. The first step is to evaluate the tax position taken or expected to be taken in a tax return by determining if the weight of available evidence indicates that it is more likely than not that, on an evaluation of the technical merits, the tax position will be sustained on audit, including resolution of any related appeals or litigation processes. The second step is to measure the tax benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement. Assumptions, judgment, and the use of estimates are required in determining if the more-likely-than-not standard has been met and in determining the expected benefit when developing the provision for income taxes. Our evaluations are based upon a number of factors, including changes in facts or circumstances, changes in tax law or guidance, correspondence with tax authorities during the course of audits, and effective settlement of audit issues. Changes in these or other factors could result in material increases or decreases in our provision for income taxes in the period in which we make the change.
+
+Business Combinations:
+
+We account for our business combinations using the acquisition method of accounting, which requires, among other things, allocation of the fair value of purchase consideration to the tangible and intangible assets acquired and liabilities assumed at their estimated fair values on the acquisition date. The excess of the fair value of purchase consideration over the values of these identifiable assets and liabilities is recorded as goodwill. When determining the fair value of assets acquired and liabilities assumed, we make judgments, estimates and assumptions, especially with respect to intangible assets. Although
+
+we believe our estimates of fair value are based upon assumptions believed to be reasonable, they are based on historical experience, market conditions and information obtained from management of the acquired companies and are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. Examples of these judgments include, but are not limited to, future expected cash flows, discount rates, useful lives, technology obsolescence rates and customer attrition rates.
+
+Recently Adopted Accounting Pronouncements
+
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update ("ASU") 2023-09, Income Taxes (Topic 740) - Improvements to Income Tax Disclosures. The ASU requires that an entity disclose specific categories in the effective tax rate reconciliation, as well as provide additional information for reconciling items that meet a quantitative threshold. Further, the ASU requires certain disclosures of state versus federal income tax expense and taxes paid. The amendments in this ASU are required to be adopted for fiscal years beginning after December 15, 2024. We adopted ASU 2023-09 during the year ended December 31, 2025, on a prospective basis, which resulted in updated income tax disclosures. See Note 12 in the accompanying notes to our consolidated financial statements for further detail.
+
+In July 2025, the FASB issued ASU 2025-05, Financial Instruments-Credit Losses (Topic 326) - Measurement of Credit Losses for Accounts Receivable and Contract Assets. The ASU provides a practical expedient to measure credit losses on current accounts receivable and contract assets under ASC No. 606, "Revenue from Contracts with Customers." The practical expedient assumes that current conditions as of the balance sheet date do not change for the remaining life of the asset. For public business entities, ASU 2025-05 is effective for annual reporting periods beginning after December 15, 2025, and interim reporting periods within those annual reporting periods. Early adoption of ASU 2025-05 is permitted. We adopted ASU 2025-05 during the year ended December 31, 2025, on a prospective basis, which did not have a material impact on our consolidated financial statements.
+
+Recently Issued Accounting Pronouncements Not Yet Adopted
+
+In November 2024, the FASB issued ASU 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40) - Disaggregation of Income Statement Expenses. The ASU requires, among other items, additional disaggregated disclosures in the notes to the financial statements for certain categories of expenses that are included in the statements of operations. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted, and may be applied either prospectively or retrospectively. We are currently evaluating the effect of adopting the ASU on our disclosures.
+
+In September 2025, the FASB issued ASU 2025-06, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40) - Targeted Improvements to the Accounting for Internal-Use Software. The ASU was updated to consider different methods of software development and requires internal use software costs to be capitalized when management has authorized and committed to funding the software project and when significant uncertainty associated with the development of the software has been resolved. The amendments in this ASU are required to be adopted for annual and interim reporting periods beginning after December 15, 2027, with early adoption permitted, and may be applied either through a prospective, retrospective or a modified transition approach. We are currently evaluating the effect of adopting the ASU on our consolidated financial statements.
+
+In December 2025, the FASB issued ASU 2025-11, Interim Reporting (Topic 270) - Narrow-Scope Improvements. The ASU was updated to improve the navigability of the required interim disclosures within ASC No. 270 and to clarify when the guidance applies. This ASU is not intended to change the fundamental nature of interim reporting or expand or reduce current interim disclosure requirements. The amendments in this ASU are required to be adopted for interim reporting periods beginning after December 15, 2027, with early adoption permitted, and may be applied either through a prospective or retrospective approach. We are currently evaluating the effect of adopting the ASU on our condensed consolidated financial statement disclosures.

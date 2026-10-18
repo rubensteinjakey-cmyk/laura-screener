@@ -1,0 +1,457 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the related notes included elsewhere in this Annual Report. You should review the section titled “Special Note Regarding Forward-Looking Statements” above in this Annual Report for a discussion of forward-looking statements and important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis. Factors that could cause or contribute to such differences include, but are not limited to, those identified below, and those discussed in the section titled “Risk Factors” in this Annual Report. Our historical results are not necessarily indicative of the results that may be expected for any period in the future.
+
+A discussion regarding our financial condition and results of operations for the year ended January 31, 2026 compared to the year ended January 31, 2025 is presented below. A discussion regarding our financial condition and results of operations for the year ended January 31, 2025 compared to the year ended January 31, 2024 can be found in “Management's Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended January 31, 2025, which was filed with the SEC on March 21, 2025.
+
+Overview
+
+GitLab is the intelligent orchestration platform for DevSecOps, where software teams and their Artificial Intelligence (“AI”) agents stay in flow to ship software faster. Built with a unified data model, our platform brings together development, operations, Information Technology (“IT”), security, and business teams across the entire software development lifecycle to deliver better, more secure software faster.
+
+AI has accelerated individual coding, but teams lose momentum coordinating across planning, testing, security, deployment, and operations. Fragmented toolchains and tool-specific AI agents create bottlenecks that slow software delivery. GitLab's intelligent orchestration helps solve this by enabling teams to orchestrate AI agents to execute tasks autonomously across the software lifecycle while maintaining quality, security, and speed.
+
+GitLab accelerates customer innovation by reducing software development cycles from weeks to minutes. The platform eliminates the need for point tools, increases productivity, and embeds security into development workflows with automated enforcement to improve software security, quality, and compliance while enabling faster delivery.
+
+We serve teams of all sizes, scopes, and complexities. As a result, we have more than 50 million registered users, and more than 50% of the Fortune 100 companies are GitLab customers1. We define our active customers as those with more than $5,000 of Annual Recurring Revenue, or ARR, in a given period, who we refer to as our Base Customers. A single organization with separate subsidiaries, segments, or divisions that uses our platform is considered a single customer for determining ARR.
+
+GitLab is the only intelligent orchestration platform for DevSecOps built on an open-core business model. Any customer or contributor can add or enhance functionality by contributing code to the core product or extending our Continuous Integration (“CI”)/Continuous Delivery (“CD”) Catalog and AI Catalog. In calendar year 2025, users contributed more than 6,500 merge requests, extending our in-house research and development (“R&D”) and empowering our users to improve the DevSecOps solution they use daily. Our open-core approach builds trust with our customers and enables us to maintain our high velocity of innovation. We make our strategy, direction, and product roadmap publicly available.
+
+GitLab offers flexible deployment options. Customers can install self-managed GitLab instances in their own on-premises or hybrid cloud environments, use our fully managed SaaS offering in public or private clouds, or deploy GitLab Dedicated, our single-tenant SaaS solution for organizations with complex security and compliance requirements.
+
+1Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.
+
+See the section entitled “Key Business Metrics—Dollar-Based Net Retention Rate and ARR” below for additional information about how we define ARR.
+
+Key Business Metrics
+
+We monitor the following key metrics to help us evaluate our business, identify trends affecting our business, formulate business plans, and make strategic decisions.
+
+Dollar-Based Net Retention Rate and ARR
+
+We believe that our ability to retain and expand our revenue generated from our existing customers is an indicator of the long-term value of our customer relationships and our potential future business opportunities. Dollar-Based Net Retention Rate measures the percentage change in our ARR derived from our customer base at a point in time. Our calculation of ARR and by extension Dollar-Based Net Retention Rate, includes both self-managed and SaaS subscription revenue. We report Dollar-Based Net Retention Rate on a threshold basis of 130% each quarter or the actual number if below 130%.
+
+We calculate ARR by taking the monthly recurring revenue, or MRR, and multiplying it by 12. MRR for each month is calculated by aggregating, for all customers during that month, monthly revenue from committed contractual amounts of subscriptions, including our self-managed and SaaS offerings but excluding professional services. We calculate Dollar-Based Net Retention Rate as of a period end by starting with our customers as of the 12 months prior to such period end, or the Prior Period ARR. We then calculate the ARR from these customers as of the current period end, or the Current Period ARR. The calculation of Current Period ARR includes any upsells, price adjustments, user growth within a customer, contraction, and attrition. We then divide the total Current Period ARR by the total Prior Period ARR to arrive at the Dollar-Based Net Retention Rate.
+
+As of January 31,
+
+2026 | 2025 | 2024
+
+Dollar-Based Net Retention Rate | 118% | 123% | 130 | %
+
+Customers with ARR of $100,000 or More
+
+We believe that our ability to increase the number of $100,000 ARR customers is an indicator of our market penetration and strategic demand for The GitLab platform. A single organization with separate subsidiaries, segments, or divisions that use The GitLab platform is considered a single customer for determining each organization’s ARR. We do not count our reseller or distributor channel partners as customers. In cases where customers subscribe to The GitLab platform through our channel partners, each end customer is counted separately.
+
+As of January 31,
+
+2026 | 2025 | 2024
+
+$100,000 ARR customers | 1,456 | 1,229 | 955
+
+Components of Our Results of Operations
+
+Revenue
+
+Subscription - self-managed and SaaS
+
+Subscription revenue primarily consists of support, maintenance, upgrades, and updates on a when-and-if-available basis for our self-managed offering and the right to access our product in a cloud-based-
+
+infrastructure that we host for our SaaS offering. Subscription revenue is recognized ratably over the contractual term as the performance obligation is satisfied.
+
+The typical term of a subscription contract is one to three years.
+
+License - self-managed and other
+
+The license component of our self-managed offering provides the right to use our proprietary software. License revenue is recognized up-front when control of the software license transfers to the customer.
+
+Other revenue consists of professional services, including consulting, implementation, and training which is recognized as services are performed.
+
+Cost of Revenue
+
+Subscription - self-managed and SaaS
+
+Cost of revenue for self-managed and SaaS subscriptions consists primarily of allocated cloud-hosting costs paid to third-party service providers, personnel-related costs associated with our customer support personnel, including contractors, third-party payment processing fees, and allocated overhead. Personnel-related expenses consist of salaries, benefits, bonuses, and stock-based compensation. We expect our cost of revenue for self-managed and SaaS subscriptions to increase in absolute dollars as our self-managed and SaaS subscription revenue increases. As our SaaS and Duo Agent Platform offerings make up an increasing percentage of our total revenue, we expect to see increased associated cloud-related costs, such as hosting and managing costs, which may adversely impact our gross margins.
+
+License - self-managed and other
+
+Cost of self-managed license and other revenue consists primarily of contractor and personnel-related costs, including stock-based compensation expense, associated with the professional services team, third-party payment processing fees, and allocated overhead. We expect our cost of revenue for self-managed license and other to increase in absolute dollars as our self-managed and other revenue increases.
+
+Operating Expenses
+
+Our operating expenses consist of sales and marketing, research and development, and general and administrative expenses. Personnel-related expenses are the most significant component of operating expenses and consist of salaries, benefits, bonuses, stock-based compensation, and sales commissions. Operating expenses also include IT overhead costs.
+
+Sales and Marketing
+
+Sales and marketing expenses consist primarily of personnel-related expenses associated with our sales and marketing personnel, advertising, travel and entertainment related expenses, branding and marketing events, promotions, software subscriptions, and our allocated cloud infrastructure expenses for our free tier. Sales and marketing expenses also include sales commissions paid to our sales force. Such costs incurred on acquisition of an initial contract are capitalized and amortized over an estimated period of benefit of three years, and any such expenses paid for the renewal of a subscription are capitalized and amortized over the contractual term of the renewal. However, prorated costs for sales commissions that are incremental to obtain a self-managed license contract are expensed immediately.
+
+We expect sales and marketing expenses to increase in absolute dollars as we continue to make strategic investments in our sales and marketing organization to drive additional revenue, further penetrate the market, and expand our global customer base, but to decrease as a percentage of our total
+
+revenue over time, although our sales and marketing expenses may fluctuate as a percentage of our total revenue from period-to-period depending on the timing of these expenses.
+
+Research and Development
+
+Research and development expenses consist primarily of personnel-related expenses, including contractors, as well as cloud infrastructure expenses to support our internal development efforts, and software and subscription services. Costs related to research and development are expensed as incurred.
+
+We expect research and development expenses to increase in absolute dollars as we continue to increase investments in our existing products and services. However, we anticipate research and development expenses to decrease as a percentage of our total revenue over time, although our research and development expenses may fluctuate as a percentage of our total revenue from period-to-period depending on the timing of these expenses.
+
+General and Administrative
+
+General and administrative expenses consist primarily of personnel-related expenses for our finance, legal, human resources, and corporate administrative functions. General and administrative expenses also include external legal, accounting, and director and officer insurance, as well as other consulting and professional services fees, software and subscription services, in-person company-wide event expenses, and any contract termination fees.
+
+We incur expenses as a result of operating as a public company, including costs to comply with the rules and regulations applicable to companies listed on a national securities exchange, costs related to compliance and reporting obligations, costs related to Sarbanes-Oxley compliance, and expenses for insurance, investor relations, and related professional services. We expect that our general and administrative expenses will increase in absolute dollars as our business grows but will decrease as a percentage of our total revenue over time, although our general and administrative expenses may fluctuate as a percentage of our total revenue from period-to-period depending on the timing of these expenses.
+
+Interest Income, and Other Income (Expense), Net
+
+Interest income consists primarily of interest earned on our cash equivalents and short-term investments.
+
+Other income (expense), net consists primarily of foreign currency transaction gains and losses and indirect tax credit expense related to the JiHu formation.
+
+Provision for (Benefit from) Income Taxes
+
+Provision for (benefit from) income taxes consists primarily of income taxes in the foreign and state jurisdictions in which we conduct business. We maintain a full valuation allowance against our deferred tax assets in certain jurisdictions because we have concluded that it is not more likely than not that the deferred tax assets will be realized.
+
+Results of Operations
+
+The following table sets forth our results of operations for the periods presented (in thousands):
+
+Fiscal Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Revenue:
+
+Subscription—self-managed and SaaS | $ | 864,704 | $ | 675,179 | $ | 506,306
+
+License—self-managed and other | 90,520 | 84,070 | 73,600
+
+Total revenue | 955,224 | 759,249 | 579,906
+
+Cost of revenue:(1)
+
+Subscription—self-managed and SaaS | 94,502 | 64,916 | 45,486
+
+License—self-managed and other | 26,241 | 20,224 | 14,222
+
+Total cost of revenue | 120,743 | 85,140 | 59,708
+
+Gross profit | 834,481 | 674,109 | 520,198
+
+Operating expenses:
+
+Sales and marketing(1)
+434,725 | 384,295 | 356,393
+
+Research and development(1)
+274,574 | 239,652 | 200,840
+
+General and administrative(1)
+195,663 | 192,877 | 150,405
+
+Total operating expenses | 904,962 | 816,824 | 707,638
+
+Loss from operations | (70,481) | (142,715) | (187,440)
+
+Interest income | 45,707 | 47,735 | 39,114
+
+Other income (expense), net | (23,291) | 9,187 | (12,241)
+
+Loss before income taxes | (48,065) | (85,793) | (160,567)
+
+Loss from equity method investment, net of tax | — | — | (3,824)
+
+Provision for (benefit from) income taxes | 10,499 | (76,674) | 265,145
+
+Net loss | $ | (58,564) | $ | (9,119) | $ | (429,536)
+
+Net loss attributable to noncontrolling interest(2)
+(2,608) | (2,793) | (3,859)
+
+Net loss attributable to GitLab | $ | (55,956) | $ | (6,326) | $ | (425,677)
+
+(1)Includes stock-based compensation expense as follows:
+
+Fiscal Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Cost of revenue | $ | 10,313 | $ | 7,922 | $ | 6,400
+
+Sales and marketing | 78,967 | 72,954 | 68,766
+
+Research and development | 63,754 | 58,312 | 50,804
+
+General and administrative | 61,917 | 46,711 | 37,079
+
+Total stock-based compensation expense | $ | 214,951 | $ | 185,899 | $ | 163,049
+
+(2)Our results of operations include our variable interest entity, JiHu. The ownership interest of other investors is recorded as a noncontrolling interest. See “Note 11. Joint Venture and Equity Method Investment” to our consolidated financial statements for additional details.
+
+The following table sets forth the components of our consolidated statements of operations as a percentage of total revenue for each of the periods presented:
+
+Fiscal Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Revenue | 100 | % | 100 | % | 100 | %
+
+Cost of revenue | 13 | 11 | 10
+
+Gross profit | 87 | 89 | 90
+
+Operating expenses:
+
+Sales and marketing | 46 | 51 | 61
+
+Research and development | 29 | 32 | 35
+
+General and administrative | 20 | 25 | 26
+
+Total operating expenses | 95 | 108 | 122
+
+Loss from operations | (7) | (19) | (32)
+
+Interest income | 5 | 6 | 7
+
+Other income (expense), net | (2) | 1 | (2)
+
+Loss before income taxes | (5) | (11) | (28)
+
+Loss from equity method investment, net of tax | — | — | (1)
+
+Provision for (benefit from) income taxes | 1 | (10) | 46
+
+Net loss | (6) | % | (1) | % | (74) | %
+
+Net loss attributable to noncontrolling interest | — | % | — | % | (1) | %
+
+Net loss attributable to GitLab | (6) | % | (1) | % | (73) | %
+
+Comparison of the Fiscal Year Ended January 31, 2025 and 2026
+
+Revenue
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Subscription—self-managed and SaaS | $ | 864,704 | $ | 675,179 | $ | 189,525 | 28 | %
+
+License—self-managed and other | 90,520 | 84,070 | 6,450 | 8
+
+Total revenue | $ | 955,224 | $ | 759,249 | $ | 195,975 | 26 | %
+
+Revenue increased $196.0 million, or 26%, to $955.2 million for fiscal year 2026 from $759.2 million for fiscal year 2025. The increase was primarily due to the ongoing demand for the GitLab platform, including adding new customers, the expansion within our existing paid customers, and an increase in our number of customers with $100,000 or greater in ARR. As of January 31, 2026 and 2025, our expansion is reflected by our Dollar-Based Net Retention Rate being 118% and 123%, respectively. We had 1,456 customers with ARR over $100,000 as of January 31, 2026, increasing from 1,229 customers with ARR over $100,000 as of January 31, 2025.
+
+Revenue attributed to our variable interest entity, JiHu, was $9.3 million and $7.6 million for fiscal year 2026 and 2025, respectively. See “Note 11. Joint Venture and Equity Method Investment” to our consolidated financial statements for additional details.
+
+Cost of Revenue, Gross Profit, and Gross Margin
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Cost of revenue | $ | 120,743 | $ | 85,140 | $ | 35,603 | 42 | %
+
+Gross profit | 834,481 | 674,109 | 160,372 | 24
+
+Gross margin | 87 | % | 89 | % | (2) | %
+
+Cost of revenue increased by $35.6 million, to $120.7 million for fiscal year 2026 from $85.1 million for fiscal year 2025, primarily due to an increase of $18.4 million in third party hosting costs for SaaS and cloud usage, an increase of $9.0 million in personnel-related expenses, driven by an increase in our average customer support and professional services headcount, an increase of $2.4 million in stock-based compensation expenses (as discussed in the section titled “Stock-Based Compensation Expense” below), an increase of $3.7 million in fees associated with professional services revenue delivery and an increase of $1.7 million of marketplace transaction processing fees. Gross margin decreased by 2% to 87% for fiscal year 2026 compared to 89% for fiscal year 2025.
+
+Cost of revenue attributed to our variable interest entity, JiHu, was $2.5 million and $2.3 million for fiscal year 2026 and 2025, respectively. See “Note 11. Joint Venture and Equity Method Investment” to our consolidated financial statements for additional details.
+
+Sales and Marketing
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Sales and marketing expenses | $ | 434,725 | $ | 384,295 | $ | 50,430 | 13 | %
+
+Sales and marketing expenses increased by $50.4 million, to $434.7 million for fiscal year 2026 from $384.3 million for fiscal year 2025, primarily due to an increase of $33.8 million in personnel-related expenses, driven by an increase in our average sales and marketing headcount, an increase of $6.0 million in stock-based compensation expenses (as discussed in the section titled “Stock-Based Compensation Expense” below) and an increase of $6.1 million in sales commissions expense. The remaining change was primarily attributed to an increase of $6.9 million in hosting expenses.
+
+Sales and marketing expenses attributed to our variable interest entity, JiHu, were $6.4 million and $6.3 million for fiscal year 2026 and 2025, respectively. See “Note 11. Joint Venture and Equity Method Investment” to our consolidated financial statements for additional details.
+
+Research and Development
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Research and development expenses | $ | 274,574 | $ | 239,652 | $ | 34,922 | 15 | %
+
+Research and development expenses increased by $34.9 million, to $274.6 million for fiscal year 2026 from $239.7 million for fiscal year 2025, primarily due to an increase of $27.6 million in personnel-related expenses, driven by an increase in our average research and development headcount and an increase of $5.4 million in stock-based compensation expenses (as discussed in the section titled “Stock-Based Compensation Expense” below). The remaining change was primarily attributed to an increase of $6.3 million in hosting expenses.
+
+Research and development expenses attributed to our variable interest entity, JiHu, were $1.4 million and $1.8 million for fiscal year 2026 and 2025, respectively. See “Note 11. Joint Venture and Equity Method Investment” to our consolidated financial statements for additional details.
+
+General and Administrative
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+General and administrative expenses | $ | 195,663 | $ | 192,877 | $ | 2,786 | 1 | %
+
+General and administrative expenses increased by $2.8 million to $195.7 million for fiscal year 2026 from $192.9 million for fiscal year 2025, primarily driven by an increase of $27.1 million in personnel-related expenses, mainly attributable to an increase in our average general and administrative headcount and an increase of $15.2 million in stock-based compensation expenses (as discussed in the section titled “Stock-Based Compensation Expense” below). This was partially offset by a decrease of $15.4 million in expense related to our in-person company-wide event that took place in fiscal year 2025, a decrease of $4.7 million in charitable donation of common stock, and a decrease from the prior year $3.8 million expense related to fair value remeasurement of acquisition-related contingent consideration.
+
+General and administrative expenses attributed to our variable interest entity, JiHu, were $5.4 million and $4.5 million for fiscal year 2026 and 2025, respectively. See “Note 11. Joint Venture and Equity Method Investment” to our consolidated financial statements for additional details.
+
+Stock-Based Compensation Expense
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Cost of revenue | $ | 10,313 | $ | 7,922 | $ | 2,391 | 30 | %
+
+Sales and marketing | 78,967 | 72,954 | 6,013 | 8
+
+Research and development | 63,754 | 58,312 | 5,442 | 9
+
+General and administrative | 61,917 | 46,711 | 15,206 | 33
+
+Total stock-based compensation expense | $ | 214,951 | $ | 185,899 | $ | 29,052 | 16 | %
+
+Stock-based compensation expense increased by $29.1 million, to $215.0 million for fiscal year 2026 from $185.9 million for fiscal year 2025, primarily due to an increase of $28.0 million of expense from RSUs.
+
+Stock-based compensation attributed to our variable interest entity, JiHu, was an expense of $2.3 million and $1.8 million for fiscal 2026 and 2025, respectively. See “Note 11. Joint Venture and Equity Method Investment” to our consolidated financial statements for additional details.
+
+Interest Income and Other Income (Expense), Net
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Interest income | $ | 45,707 | $ | 47,735 | $ | (2,028) | (4) | %
+
+Foreign exchange gains (losses), net | (19,465) | 9,416 | (28,881) | (307)
+
+Other expense, net | (3,826) | (229) | (3,597) | 1571
+
+Total other income (expense), net | $ | (23,291) | $ | 9,187 | $ | (32,478) | (354) | %
+
+Interest income decreased for fiscal year 2026 compared to fiscal year 2025, primarily due to income earned from our cash, cash equivalents and short-term investments as a result of lower interest rates during fiscal year 2026 compared to fiscal year 2025.
+
+Foreign exchange losses increased for fiscal year 2026 compared to fiscal year 2025 primarily related to the revaluation of non-functional currency denominated monetary assets and liabilities.
+
+Other expense, net for fiscal year 2026 compared to fiscal year 2025 includes a $3.5 million indirect tax credit expense related to the JiHu formation, reflecting a change in accounting estimate.
+
+Provision for (Benefit from) Income Taxes
+
+Fiscal Year Ended January 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Provision for (benefit from) income taxes | $ | 10,499 | $ | (76,674) | $ | 87,173 | (113.7)%
+
+Effective tax rate | (21.8) | % | 89.4 | % | (111.2)%
+
+On July 4, 2025, the United States enacted One Big Beautiful Bill Act (“OBBBA”) which extended or modified certain corporate tax provisions under the 2017 Tax Cuts and Jobs Act (“TCJA”). The OBBBA modified certain business deductions, including allowing for immediate expensing of U.S. research & development expenditures, effective in our current fiscal year. The OBBBA also modified various international tax provisions which were set to change or expire after 2025 under the TCJA. Such modifications, including U.S. taxation of profits derived from foreign operations and associated foreign tax credit limitations, are effective in our next fiscal year. The deduction of domestic R&D expenditure significantly reduced U.S. taxable income to a loss position, resulting in a material reduction in the current provision for the year. We will continue to evaluate the impact of the OBBBA on our consolidated financial statements.
+
+Our effective tax rate decreased by approximately 111.2% for fiscal year 2026 as compared to fiscal year 2025. A tax expense is expressed as a negative rate because of our pretax loss. The increase in tax expense from fiscal year 2025 to fiscal year 2026 was primarily due to the tax benefit recorded in fiscal year 2025 related to the Bilateral Advanced Pricing Agreement (”BAPA”) negotiations between the United States and Dutch tax authorities (“DTA”), as well as the execution of an agreement between GitLab B.V. and the Dutch tax authority to reduce the rate of tax imposed on the tax gain recognized upon the transfer of the economic rights of the Company’s intellectual property from the Netherlands to the United States.
+
+Our effective tax rate for fiscal year 2026 was different from the U.S. federal statutory tax rate of 21%, primarily due to the Company’s foreign and domestic operations, Base Erosion Anti-abuse Tax (“BEAT”), nondeductible expenses and losses not benefited, offset by tax credits.
+
+We executed the BAPA agreements with the U.S. Internal Revenue Service (“IRS”) and the DTA on October 10, 2024, and October 22, 2024, respectively. On October 28, 2024, we paid $187.7 million to satisfy the tax assessment issued by the DTA, including accrued interest, which reflected the BAPA negotiations and the agreement to reduce the rate of tax on the gain from the transfer of economic IP rights. As a result of the BAPA and DTA assessment, the 2015 through 2018 tax years are closed for GitLab B.V. Pursuant to the terms in the BAPA, we have filed amended returns for the 2018 through 2023 fiscal years.
+
+Liquidity and Capital Resources
+
+Since inception, we have financed operations primarily through proceeds received from issuances of equity securities, preferred stock and payments received from our customers.
+
+As of January 31, 2026 and January 31, 2025, our principal source of liquidity was cash, cash equivalents, and short-term investments aggregating to $1,259.9 million and $992.4 million, respectively, which were held for working capital and strategic investment purposes. As of January 31, 2026, cash and cash equivalents consist of cash in banks and money markets funds, while short-term investments mainly consist of treasuries, corporate debt securities, agency securities, and commercial paper.
+
+We believe that our existing cash, cash equivalents, and short-term investments will be sufficient to support working capital and capital expenditure requirements for at least the next 12 months. Our future capital requirements will depend on many factors, including our revenue growth rate, the timing and the amount of cash received from customers, the expansion of sales and marketing activities, the timing and extent of spending to support research and development efforts, the price at which we are able to procure third-party cloud infrastructure, expenses associated with our international expansion, the introduction of platform enhancements, the continuing market adoption of the GitLab platform, and the amount and timing of any share repurchases. In the future, we may enter into arrangements to acquire or invest in complementary businesses, products, and technologies. We may be required to seek additional equity or debt financing. In the event that we require additional financing, we may not be able to raise such financing on terms acceptable to us or at all. If we are unable to raise additional capital or generate cash flows necessary to expand our operations and invest in continued innovation, we may not be able to compete successfully, which would harm our business, operating results, and financial condition.
+
+The following table shows a summary of our cash flows for the periods presented:
+
+Fiscal Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Net cash provided by (used in) operating activities | $ | 232,856 | $ | (63,971) | $ | 35,040
+
+Net cash used in investing activities | $ | (267,286) | $ | (30,494) | $ | (86,238)
+
+Net cash provided by financing activities | $ | 34,811 | $ | 32,620 | $ | 45,235
+
+Operating Activities
+
+Our largest source of operating cash is payments received from our customers. Our primary uses of cash from operating activities are for personnel-related expenses, sales and marketing expenses, third-party cloud infrastructure expenses, and overhead expenses. We have generated positive cash flows in fiscal year 2026 and 2024, and negative cash flows for fiscal year 2025 from operating activities, respectively.
+
+Cash provided by operating activities during the year ended January 31, 2026 was $232.9 million, primarily consisting of our net loss of $58.6 million, adjusted for non-cash items of $299.9 million (mainly attributable to stock-based compensation expense of $215.0 million and amortization of deferred contract acquisition costs, net of $54.9 million), and net cash outflow of $8.5 million used in changes of our operating assets and liabilities. The main drivers of the changes in operating assets and liabilities were the increase in deferred contract acquisition costs of $59.3 million, accounts receivable of $35.7 million and prepaid expenses and other current assets of $8.1 million, partially offset by the increase in deferred revenue of $93.3 million. These changes primarily reflect our strong revenue growth, which is driving higher accounts receivable and increased amortization of deferred contract acquisition costs due to a higher volume of contracts with capitalizable sales incentives and ongoing customer subscription growth contributing to increased deferred revenue.
+
+Cash used in operating activities during the year ended January 31, 2025 was $64.0 million, primarily consisting of our net loss of $9.1 million, adjusted for non-cash items of $236.8 million (mainly attributable to stock-based compensation expense of $185.9 million and amortization of deferred contract acquisition costs, net of $49.7 million), and net cash outflows of $291.7 million used in changes of our operating assets and liabilities. The main drivers of the changes in operating assets and liabilities were the increase of accounts receivable of $99.6 million, the increase in deferred contract acquisition costs of $58.1 million, the decrease in accrued expenses and other liabilities of $253.4 million (mainly attributable to $187.7 million for the BAPA payment), and the decrease in other non-current liabilities of $7.8 million, partially offset by the decrease in prepaid expenses and other current assets of $8.4 million, the increase in accrued compensation and related expenses of $4.7 million, and the increase in deferred revenue of $108.7 million. These changes primarily reflect our strong sales growth driving higher accounts receivable, and increased deferred contract acquisition costs, the aforementioned BAPA payment impact driving lower accrued expenses and other liabilities, and continued expansion of our customer subscription base leading to increased deferred revenue.
+
+Investing Activities
+
+Cash used in investing activities during the year ended January 31, 2026 was $267.3 million, primarily consisting of $256.5 million in purchases of short-term investments, net of proceeds from maturities and sales of short-term investments, and $10.8 million in additions to property and equipment.
+
+Cash used in investing activities during the year ended January 31, 2025 was $30.5 million, primarily consisting of a $20.2 million payment for a business combination, net of cash acquired, a $7.7 million payment for an asset acquisition, and $3.8 million in additions of property and equipment, partially offset by $0.7 million in proceeds from maturities, net of purchases of short-term investments.
+
+Financing Activities
+
+Cash provided by financing activities during the year ended January 31, 2026 was $34.8 million, attributable to $21.8 million proceeds from the issuance of common stock upon stock options exercises and $14.0 million of proceeds from the issuance of common stock under the ESPP, partially offset by $0.9 million of payments for taxes related to net share settlement of equity awards.
+
+Cash provided by financing activities during the year ended January 31, 2025 was $32.6 million, attributable to $24.0 million proceeds from the issuance of common stock upon stock options exercises, and $13.6 million of proceeds from the issuance of common stock under the ESPP, partially offset by $4.9 million for the settlement of acquisition related contingent cash consideration.
+
+Adjusted Free Cash Flow
+
+Adjusted free cash flow is a non-GAAP financial measure that we calculate as net cash provided by operating activities less cash used for additions to property and equipment, plus any non-recurring income tax payments related to the BAPA or minus any non-recurring income tax refunds related to the BAPA, plus any non-recurring payments related to the formation of JiHu. We believe that adjusted free cash flow is a useful indicator of liquidity that provides information to management and investors about the amount of cash generated from our operations that, after the investments in additions to property and equipment, any non-recurring income tax payments or refunds related to the BAPA, and any non-recurring payments related to the formation of JiHu, can be used for strategic initiatives, including investing in our business, repurchasing shares of our common stock, and strengthening our financial position. One limitation of adjusted free cash flow is that it does not reflect our future contractual commitments. Additionally, adjusted free cash flow does not represent the total increase or decrease in our cash balance for a given period.
+
+The following table presents a reconciliation of adjusted free cash flow to net cash provided by (used in) operating activities, the most directly comparable financial measure calculated in accordance with GAAP, for the periods presented (in thousands):
+
+Fiscal Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Computation of adjusted free cash flow (1)
+
+GAAP net cash provided by (used in) operating activities | $ | 232,856 | $ | (63,971) | $ | 35,040
+
+Less: Additions to property and equipment | (10,827) | (3,765) | (1,598)
+
+Add: Income tax payments (refunds) related to BAPA | (2,479) | 187,735 | —
+
+Non-GAAP adjusted free cash flow | $ | 219,550 | $ | 119,999 | $ | 33,442
+
+(1) No non-recurring payments related to the formation of JiHu were recorded during the periods presented.
+
+Contractual Obligations and Commitments
+
+For more information regarding our contractual obligations, refer to “Note 14. Commitments and Contingencies” to our consolidated financial statements.
+
+Critical Accounting Estimates
+
+We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America. In doing so, we have to make estimates and assumptions. Our critical accounting estimates are those estimates that involve a significant level of uncertainty at the time the estimate was made, and changes in them have had or are reasonably likely to have a material effect on our financial condition or results of operations. Accordingly, actual results could differ materially from our estimates. We base our estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and we evaluate these estimates on an ongoing basis. We believe our judgments and estimates associated with the determination of standalone selling price for each performance obligation in revenue recognition, which we discuss further below, could have a material impact on our consolidated financial statements.
+
+See “Note 2. Basis of Presentation and Summary of Significant Accounting Policies” to our consolidated financial statements for a summary of significant accounting policies and the effect on our financial statements.
+
+Revenue Recognition
+
+For contracts with multiple performance obligations, we allocate transaction price based on relative standalone selling prices (SSP). We determine SSP by maximizing the use of observable standalone sales when available. When observable prices are unavailable, we estimate SSP considering our overarching pricing objectives and strategies, market and industry conditions, product-specific factors, and historical sales data.
+
+For the license and subscription components of self-managed arrangements, which are never sold separately, we utilize an expected cost-plus margin approach that has various inputs and assumptions to estimate the value relationship between these performance obligations. Assumptions include the historical development costs for licensed features and estimated cost to provide support, maintenance, and software updates. Evaluating the assumptions and inputs in the cost-plus margin approach requires significant judgment.
+
+Recently Issued Accounting Pronouncements
+
+See “Note 2. Basis of Presentation and Summary of Significant Accounting Policies” to our consolidated financial statements included elsewhere in this Annual Report for more information regarding recently issued accounting pronouncements.

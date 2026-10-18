@@ -1,0 +1,43 @@
+{
+  "ticker": "TXG",
+  "accession_number": "0001628280-26-007822",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "full_text_words": 78453,
+  "sections": {
+    "item1": {
+      "words": 5243,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5243,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8639,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8639,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 212,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 222
+    }
+  },
+  "notes": [],
+  "human_capital_words": 292,
+  "human_capital_found": true,
+  "people_paragraph_words": 713
+}

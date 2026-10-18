@@ -1,0 +1,43 @@
+{
+  "ticker": "CNC",
+  "accession_number": "0001071739-26-000049",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "full_text_words": 70589,
+  "sections": {
+    "item1": {
+      "words": 11818,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          11818,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 12634,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          12634,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 1010,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 9,
+      "paragraphs_total": 347
+    }
+  },
+  "notes": [],
+  "human_capital_words": 576,
+  "human_capital_found": true,
+  "people_paragraph_words": 2580
+}

@@ -1,0 +1,43 @@
+{
+  "ticker": "CORT",
+  "accession_number": "0001628280-26-011091",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 55547,
+  "sections": {
+    "item1": {
+      "words": 16703,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          16703,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6116,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6116,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 437,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 100
+    }
+  },
+  "notes": [],
+  "human_capital_words": 153,
+  "human_capital_found": true,
+  "people_paragraph_words": 184
+}

@@ -1,0 +1,326 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Investors should read the following discussion and analysis of our financial condition and results of operations together with the consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those discussed in the section titled “Risk Factors” and in other parts of this Annual Report on Form 10-K. See also the section titled “Note Regarding Forward-Looking Statements” in this report. Our fiscal year end is the first Sunday after January 30.
+
+The following discussion of our financial condition and results of operations covers fiscal 2026 and fiscal 2025 items and year-over-year comparisons between fiscal 2026 and fiscal 2025. Discussions of fiscal 2024 items and year-over-year comparisons between fiscal 2025 and 2024 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended February 2, 2025, that was filed with the SEC on March 27, 2025.
+
+Overview
+
+Everpure, formerly known as Pure Storage, is a global technology company providing an integrated storage and data management platform. Data is foundational to our customers’ business transformation and increasingly central to their operational resilience and competitive differentiation. As data volumes expand and artificial intelligence (AI) becomes more deeply embedded in customers' operations, the ability to store, manage, govern, and derive greater value from their data is becoming as important as the infrastructure used to store it.
+
+We began as a provider of flash-based storage systems. Over time, we have evolved into a company that delivers a cloud experience with an intelligent, unified storage and data management platform (the Everpure Platform) that virtualizes data across on-premises, hybrid, public cloud, and edge environments into a single storage layer with consistent control, built-in automation and continuous modernization. We are executing a focused strategy to modernize and simplify data center infrastructure for customers as AI adoption increases and power, space, and operational constraints intensify. Our vision of an all-flash data center integrates our foundation of simplicity and reliability with four major market trends that are impacting all organizations: (1) the shift towards modernizing data infrastructure with all-flash technology; (2) the growth of modern cloud-native applications; (3) increasing demand for data storage delivered as a service; and (4) increasing demand for data storage to support accelerating AI adoption while managing rising energy costs.
+
+With the Everpure Platform, customers can build their own Enterprise Data Cloud (EDC), an architectural approach to storage and data management that allows organizations to centrally manage a virtualized cloud of data with unified control — spanning on-premises, hybrid, and public cloud environments — enabling intelligent, autonomous data management and consistent governance across the entire environment.
+
+Components of Results of Operations
+
+Revenue
+
+We derive revenue primarily from sales of our integrated storage hardware and embedded licensed software products and storage-as-a-service offerings that comprise our Everpure Platform. Product revenue includes sales of our FlashArray and FlashBlade solutions, royalties from hyperscaler shipments, and sales of Portworx by Everpure term software licenses. Subscription services revenue includes sales of our portfolio of Evergreen, Portworx by Everpure, and Everpure Cloud consumption and subscription-based offerings, support and maintenance, and professional services such as installation and implementation services.
+
+Provided that all other revenue recognition criteria have been met, we typically recognize product revenue for our integrated storage hardware products upon transfer of control to our customers and the satisfaction of our performance obligations. Products are typically shipped directly by us to customers, and our channel partners generally do not stock our inventory. Royalties from hyperscaler shipments of third party hardware that provide the customer a perpetual license to use our functional intellectual property (IP) are recognized when the revenue is earned based upon shipments by our supply chain partners. Revenue from Portworx term software licenses, which grant customers the right to use our functional IP for a specified period, is recognized at the point in time the software activation keys are made available to the customer for download at commencement of the initial or renewal term. For Evergreen//Flex, product revenue is recognized upon the commencement of the underlying subscription services. We expect our product revenue may vary from period to period based on, among other things, the timing and size of orders, delivery of products, hyperscaler shipments by our supply chain partners and the impact of significant transactions.
+
+We generally recognize revenue from the fair value of subscription services provided ratably over the contractual service period or on a consumption basis based on the minimum usage commitment as well as usage above the commitment amount and professional services as delivered. We expect our subscription services revenue to continue to increase and in-line with our overall growth rate as more customers choose to consume our storage solutions as a service and our existing Evergreen subscription customers renew and expand their offerings.
+
+Cost of Revenue
+
+Cost of product revenue primarily consists of costs paid to our third-party contract manufacturers, which includes the costs of our raw material components, and personnel costs associated with our supply chain operations. Personnel costs consist of salaries, bonuses and stock-based compensation expense. Our cost of product revenue also includes allocated overhead costs, adjustments to inventory and purchase commitments based on forecasted demand, amortization of intangible assets pertaining to developed technology, and freight. Allocated overhead costs consist of certain employee benefits and facilities-related costs. We expect our cost of product revenue to increase in absolute dollars as our product revenue increases.
+
+Cost of subscription services revenue primarily consists of personnel costs associated with delivering our subscription and professional services, part replacements, allocated overhead costs, depreciation of infrastructure used to deliver our subscription services, amortization of intangible assets pertaining to developed technology, and amortization of capitalized internal-use software. We expect our cost of subscription services revenue to increase in absolute dollars, as our subscription services revenue increases.
+
+Operating Expenses
+
+Operating expenses consist of research and development, sales and marketing and general and administrative expenses. Salaries and personnel-related costs, including stock-based compensation expense, are the most significant component of each category of operating expenses. Operating expenses also include allocated overhead costs for employee benefits, facilities, and certain information technology costs.
+
+Research and Development. Research and development expenses consist primarily of employee compensation and related expenses, prototype expenses, depreciation associated with assets acquired for research and development, data center and cloud services costs, third-party engineering and contractor support costs, as well as allocated overhead. We expect our research and development expenses to increase in absolute dollars. Key incremental investments will focus on accelerating density of our direct flash modules, increasing the operational scale of our supply chain partners to support large production deployments for our hyperscaler customer, and accelerating product development.
+
+Sales and Marketing. Sales and marketing expenses consist primarily of employee compensation and related expenses, sales commissions, marketing programs, travel and entertainment expenses as well as allocated overhead. Marketing programs consist of advertising, events, corporate communications and brand-building activities. We expect our sales and marketing expenses to increase in absolute dollars, including investments to capture additional growth opportunities, in particular, in the enterprise market.
+
+General and Administrative. General and administrative expenses consist primarily of employee compensation and related expenses for administrative functions including finance, legal, human resources, facilities, IT and fees for third-party professional services as well as amortization of intangible assets pertaining to defensive technology patents and allocated overhead. We expect our general and administrative expenses to increase in absolute dollars, including investments in back-office systems to support continued business growth.
+
+Restructuring and Impairment. Restructuring and impairment expenses consist primarily of employee severance and termination benefits, and certain lease impairment and abandonment charges.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of interest income related to cash, cash equivalents and marketable securities, interest expense related to our debt, gains from an equity security, and gains (losses) from foreign currency transactions.
+
+Provision for Income Taxes
+
+Provision for income taxes consists primarily of income taxes in certain foreign jurisdictions in which we conduct business and current income taxes in the United States. Our foreign subsidiaries earn a profit margin based upon transfer pricing principles which require an arm’s length return. Our foreign subsidiaries’ sales and marketing expenses are expected to increase over time as we grow, resulting in higher pre-tax foreign earnings and higher foreign income taxes.
+
+We have provided a full valuation allowance for U.S. deferred tax assets, which includes net operating loss carryforwards, capitalized research costs, and tax credits related primarily to research and development. When considering our historical earnings trend, sufficient positive evidence may become available where we will release all or a portion of the valuation allowance within 12 months. Release of the valuation allowance would result in the recognition of certain deferred tax assets and a decrease to income tax expense for the period the release is recorded.
+
+Results of Operations
+
+Basis of Presentation
+
+We operate using a 52/53 week fiscal year ending on the first Sunday after January 30. Fiscal 2025 and 2026 were both 52-week years that ended on February 2, 2025 and February 1, 2026, respectively. Unless otherwise stated, all dates refer to our fiscal years.
+
+Year Over Year Comparisons
+
+Revenue
+
+Fiscal Year Ended | Change
+
+2025 | 2026 | $ | %
+
+(in thousands)
+
+Product revenue | $ | 1,699,494 | $ | 1,971,678 | $ | 272,184 | 16 | %
+
+Subscription services revenue | 1,468,670 | 1,691,165 | 222,495 | 15 | %
+
+Total revenue | $ | 3,168,164 | $ | 3,662,843 | $ | 494,679 | 16 | %
+
+The increase in product revenue during fiscal 2026 compared to fiscal 2025 was primarily driven by sales to enterprise customers of FlashArray//XL, FlashArray//X, and our //E family of solutions as well as royalties from hyperscaler shipments.
+
+The increase in subscription services revenue during fiscal 2026 compared to fiscal 2025 was largely driven by increases in sales of our Evergreen//One consumption and subscription-based offerings and renewals of our Evergreen subscription services across our installed base.
+
+During fiscal 2026 compared to fiscal 2025, total revenue in the United States grew by 12% from $2.2 billion to $2.5 billion, while total rest of the world revenue grew by 25% from $960.8 million to $1.2 billion.
+
+Subscription Annualized Recurring Revenue (ARR)
+
+We use Subscription ARR as a key business metric to evaluate the underlying performance of subscription services as of a point in time. Subscription ARR is not indicative of future revenue as events or circumstances that impact future revenue such as (i) future non-renewals or cancellations of existing contracts or renewals of expired contracts, (ii) expansion, contraction and churn of existing customers or the acquisition of new customers, and (iii) changes in customers' on-demand consumption of our subscription services are not reflected in Subscription ARR. Subscription ARR should be viewed independently of revenue, deferred revenue and remaining performance obligations and is not intended as a substitute for any of these items.
+
+Subscription ARR is calculated as the annualized recurring contract value of all active, non-cancelable customer subscription agreements with subscription terms of any length at the end of a fiscal quarter, plus on-demand billings for the quarter multiplied by four. The contract values are the contracted amounts in effect at the end of a fiscal quarter and do not contemplate any adjustments made in accordance with ASC 606 such as the proportionate allocation of the contracted subscription amounts to other performance obligations based on standalone selling prices for contracts that have multiple performance obligations or vice versa that are reflected in subscription services revenue under U.S. generally accepted accounting principles. On-demand billings represent billings for consumption by our customers' most recent usage of our subscription services above the minimum usage commitment.
+
+The following table sets forth our Subscription ARR for the periods presented:
+
+At the End of | Year-over-Year Growth
+
+(in thousands)
+
+Fiscal 2025
+
+Fiscal 2026
+%
+
+Subscription annual recurring revenue | $ | 1,657,806 | $ | 1,924,338 | 16 | %
+
+The year-over-year growth in our Subscription ARR at the end of fiscal 2026 was 16% compared to growth of 21% in fiscal 2025. The decline in year-over-year growth to 16% at the end of fiscal 2026 was primarily impacted by longer term renewals of our Evergreen subscription offerings.
+
+Subscription Net Dollar Retention (NDR)
+
+We use Subscription NDR as an indicator of our ability to successfully expand and grow revenue within our existing customer base on an annual basis. Our Subscription NDR, which approximates the year-over-year percentage growth in ARR from the same cohort of existing customers across comparable fiscal periods, was 117% and 113% for the fiscal years ended 2025 and 2026. Our Subscription NDR is calculated by dividing the current fiscal year-end ARR by the corresponding prior year-end ARR, for those customers with an active ARR balance as of a year ago. Current fiscal year-end ARR includes existing customer expansion, net of contraction and churn, but excludes ARR from new customers acquired in the current fiscal year period.
+
+Remaining Performance Obligations
+
+Total remaining performance obligations (RPO) which is total contracted but not recognized revenue was $3.7 billion at the end of fiscal 2026, and primarily includes non-cancelable Total Contract Value (TCV) sales for our storage-as-a-service offerings, including Evergreen//One, Evergreen//Flex, and Everpure Cloud consumption and subscription based offerings, as well as $228.5 million of non-cancelable product orders. RPO consists of both deferred revenue and non-cancelable amounts that are expected to be invoiced and recognized as revenue in future periods. Product orders are generally cancelable until delivery has occurred, and as such, unfulfilled product orders that are cancelable are excluded from RPO. Cancelable orders will fluctuate depending on numerous factors.
+
+TCV sales for our storage-as-a-service offerings is a key business metric we use to evaluate the performance of our consumption and subscription based offerings. TCV sales for these offerings include recurring subscription fees, any non-recurring charges such as initial setup fees, and any other billable services directly tied to the execution of the underlying service contract. Year-over-year growth in RPO to 40% at the end of fiscal 2026 when compared to 14% at the end of fiscal 2025 was driven primarily by the execution of large deals and strength of our Evergreen//Forever and Evergreen//One offerings.
+
+We expect to recognize approximately 45% of total RPO over the next 12 months, and the remainder thereafter. RPO is expected to increase as our subscription services business grows over time.
+
+Cost of Revenue and Gross Margin
+
+Fiscal Year Ended | Change
+
+2025 | 2026 | $ | %
+
+(in thousands)
+
+Product cost of revenue | $ | 562,736 | $ | 635,286 | $ | 72,550 | 13 | %
+
+Product stock-based compensation | 12,611 | 16,158 | 3,547 | 28 | %
+
+Total expenses | $ | 575,347 | $ | 651,444 | $ | 76,097 | 13 | %
+
+% of Product revenue | 34 | % | 33 | %
+
+Subscription services cost of revenue | $ | 347,497 | $ | 399,216 | $ | 51,719 | 15 | %
+
+Subscription services stock-based compensation | 32,611 | 34,230 | 1,619 | 5 | %
+
+Total expenses | $ | 380,108 | $ | 433,446 | $ | 53,338 | 14 | %
+
+% of Subscription services revenue | 26 | % | 26 | %
+
+Total cost of revenue | $ | 955,455 | $ | 1,084,890 | $ | 129,435 | 14 | %
+
+% of Revenue | 30 | % | 30 | %
+
+Product gross margin | 66 | % | 67 | %
+
+Subscription services gross margin | 74 | % | 74 | %
+
+Total gross margin | 70 | % | 70 | %
+
+The slight increase in product gross margin during fiscal 2026 when compared to fiscal 2025 was primarily due to product mix and, to a lesser extent, royalties from hyperscaler shipments, partially offset by higher component costs. Additionally, due to higher component costs, we are expecting product gross margin to sequentially decline in the first quarter of fiscal 2027 and normalize on a full year basis.
+
+Subscription services gross margin remained relatively consistent during fiscal 2026 when compared to fiscal 2025 primarily driven by continued optimization and increased efficiencies in our technical services operations, combined with cost benefits from automating our service logistics workflows that support delivery of our Evergreen subscription services to our installed base, partially offset by amortization of capitalized software costs for the development of Everpure Fusion and Everpure Cloud Azure Native and higher employee compensation and related costs.
+
+Operating Expenses
+
+Operating expenses during fiscal 2025 were positively impacted as a result of the workforce alignment that we initiated in the fourth quarter of fiscal 2024.
+
+Research and Development
+
+Fiscal Year Ended | Change
+
+2025 | 2026 | $ | %
+
+(in thousands)
+
+Research and development | $ | 603,347 | $ | 725,270 | $ | 121,923 | 20 | %
+
+Stock-based compensation | 201,058 | 238,021 | 36,963 | 18 | %
+
+Total expenses | $ | 804,405 | $ | 963,291 | $ | 158,886 | 20 | %
+
+% of Total revenue | 25 | % | 26 | %
+
+The increase in research and development expense during fiscal 2026 compared to fiscal 2025 was primarily driven by an increase in employee compensation and related costs, including stock-based compensation and, to a lesser extent, an increase in equipment depreciation, and facilities-related costs.
+
+Sales and Marketing
+
+Fiscal Year Ended | Change
+
+2025 | 2026 | $ | %
+
+(in thousands)
+
+Sales and marketing | $ | 924,559 | $ | 1,077,299 | $ | 152,740 | 17 | %
+
+Stock-based compensation | 96,355 | 104,189 | 7,834 | 8 | %
+
+Total expenses | $ | 1,020,914 | $ | 1,181,488 | $ | 160,574 | 16 | %
+
+% of Total revenue | 32 | % | 32 | %
+
+The increase in sales and marketing expense during fiscal 2026 compared to fiscal 2025 was primarily driven by an increase in employee compensation and related costs, including sales commission expense, from growth in headcount and higher bookings achievement and, to a lesser extent, higher costs for sales and marketing events, and higher travel costs.
+
+General and Administrative
+
+Fiscal Year Ended | Change
+
+2025 | 2026 | $ | %
+
+(in thousands)
+
+General and administrative | $ | 207,560 | $ | 229,304 | $ | 21,744 | 10 | %
+
+Stock-based compensation | 78,671 | 89,054 | 10,383 | 13 | %
+
+Total expenses | $ | 286,231 | $ | 318,358 | $ | 32,127 | 11 | %
+
+% of Total revenue | 9 | % | 9 | %
+
+The increase in general and administrative expense during fiscal 2026 compared to fiscal 2025 was primarily driven by an increase in employee compensation and related costs, including stock-based compensation, from growth in headcount.
+
+Restructuring and Impairment
+
+During fiscal 2025, we recognized $15.9 million of restructuring and impairment costs. We recognized $9.5 million in incremental restructuring costs primarily associated with one-time severance and other termination benefits related to a workforce alignment plan that was initiated in the fourth quarter of fiscal 2024. We also recognized $6.4 million in abandonment and impairment charges related to certain leases associated with our former corporate headquarters that we ceased use in the second quarter of fiscal 2024. The incremental impairment charge was due to a revision to the underlying sublease assumptions during the first quarter of fiscal 2025.
+
+Other Income (Expense), Net
+
+Fiscal Year Ended | Change
+
+2025 | 2026 | $
+
+(in thousands)
+
+Other income (expense), net | $ | 62,576 | $ | 109,468 | $ | 46,892
+
+The increase in other income (expense), net during fiscal 2026 compared to fiscal 2025 was primarily driven by higher net foreign exchange gains as the U.S. dollar weakened relative to certain foreign currencies and gain from the sale of an equity security, partially offset by a decrease in interest income from a lower balance in cash, cash equivalents and marketable securities and a lower interest rate environment.
+
+Provision for Income Taxes
+
+Fiscal Year Ended | Change
+
+2025 | 2026 | $ | %
+
+(in thousands)
+
+Provision for income taxes | $ | 41,095 | $ | 36,103 | $ | (4,992) | (12) | %
+
+The decrease in provision for income taxes during fiscal 2026 compared to fiscal 2025 was primarily driven by a decrease in U.S. taxable income due to the enactment of the One Big Beautiful Bill Act (OBBBA), which removed the requirement for domestic research and development capitalization under Section 174.
+
+Liquidity and Capital Resources
+
+At the end of fiscal 2026, we had cash, cash equivalents and marketable securities of $1.5 billion. Our cash and cash equivalents primarily consist of bank deposits and money market accounts. Our marketable securities generally consist of highly rated debt instruments of the U.S. government and its agencies, debt instruments of highly rated corporations, debt instruments issued by foreign governments, asset-backed securities, and municipal bonds.
+
+We believe our existing cash, cash equivalents, marketable securities and revolving credit facility will be sufficient to fund our operating and capital needs for at least the next 12 months. Our future capital requirements will depend on many factors including our sales growth, the timing and extent of capital spending to support development efforts including investments to scale operations in support of our hyperscale customer and capture additional growth opportunities, the timing and extent of strategic inventory purchases to mitigate the impact of tariffs, higher commodity pricing, and supply chain disruptions, growth of our Evergreen//One offering, the addition or closure of office space, the timing of new product introductions, our share repurchases, the timing of renewal and/or repayment of borrowings under the revolving credit facility, and cash payments for tax withholding obligations for equity awards held by employees. We may continue to enter into arrangements to acquire or invest in complementary businesses, services and technologies, including intellectual property and other licensing rights. For example, during the first quarter of fiscal 2027 we entered into a definitive agreement to acquire 1touch. We may enter into equipment financing arrangements and seek additional equity or debt financing in the future.
+
+Purchase Obligations and Lease Commitments
+
+At the end of fiscal 2026, we had non-cancelable contractual purchase obligations of $565.8 million, of which $418.8 million is payable within twelve months. These purchase obligations primarily includes non-cancelable inventory purchase commitments with contract manufacturers and suppliers, software service contracts and hosting arrangements.
+
+At the end of fiscal 2026, aggregate future minimum lease payments under non-cancelable operating leases and finance leases were $254.9 million, of which $53.1 million is short-term. Non-cancelable operating leases include leases that have been executed, but not yet commenced. We lease office and data center facilities under operating leases expiring through July 2032 and lease certain engineering test equipment under finance leases.
+
+Revolving Credit Facility
+
+In June 2025, we entered into a Credit Agreement with a consortium of financial institutions and lenders that provides for a five-year, senior unsecured revolving credit facility of $500.0 million (Credit Facility) that expires on June 10, 2030, unless otherwise extended. Proceeds from borrowings under the Credit Facility may be used for general corporate purposes and working capital. The Credit Facility replaced our prior $300.0 million revolving credit facility in which the outstanding borrowings of $100.0 million was repaid in full and terminated effective June 10, 2025.
+
+U.S. Dollar denominated borrowings under the Credit Facility will bear interest, at our option, at a base rate, subject to a floor of 0%, plus a margin ranging from 0% to 0.50%, or the term Secured Overnight Financing Rate (SOFR) rate (based on one, three or six-month interest periods), subject to a floor of 0%, plus a margin ranging from 0.875% to 1.50%. Interest is payable quarterly in arrears with respect to base rate borrowings and at the end of the interest period with respect to term SOFR borrowing. We are also obligated to pay an ongoing commitment fee on undrawn amounts at a rate ranging from 0.075% to 0.20% per annum, payable quarterly in arrears. The respective margins will fluctuate based on the then-applicable Consolidated Net Leverage Ratio (as defined in the Credit Agreement) and, if available, our debt rating.
+
+We are subject to certain affirmative and negative covenants, including a Consolidated Net Leverage Ratio not to exceed 3.5:1 (which may be increased to 4:1 for the first six consecutive fiscal quarters after a qualified acquisition, as defined in the Credit Agreement) measured as of the last day of each fiscal quarter. As of the end of fiscal 2026, there were no outstanding borrowings and we were in compliance with all covenants under the Credit Facility.
+
+Letters of Credit
+
+At the end of fiscal 2025 and 2026, we had outstanding letters of credit in the aggregate amount of $7.2 million and $13.0 million in connection with our facility leases and a certain employee-related benefit, that mature on various dates through December 2031. Of the $13.0 million outstanding as of the end of fiscal 2026, $2.0 million is issued under the Credit Facility.
+
+Share Repurchase Program and Shares Withheld to Cover Taxes
+
+In fiscal 2026, our Board of Directors authorized an additional $650.0 million to repurchase shares of our common stock under our share repurchase program, of which $329.0 million remained available at the end of fiscal 2026. The authorization allows us to repurchase shares of our common stock opportunistically and will be funded from available working capital. Repurchases may be made at management’s discretion from time to time on the open market through privately negotiated transactions, transactions structured through investment banking institutions, block purchase techniques, 10b5-1 trading plans, or a combination of the foregoing. The share repurchase program does not obligate us to acquire any of our common stock, has no end date, and may be suspended or discontinued by us at any time without prior notice. During fiscal 2026, we repurchased and retired approximately 5.6 million shares of common stock at an average purchase price of $60.93 per share for an aggregate repurchase price of $342.5 million.
+
+During fiscal 2026, we withheld approximately 4.2 million shares to cover $271.7 million in tax withholding obligations.
+
+Cash Flows
+
+The following table summarizes our cash flows for the periods presented (in thousands):
+
+Fiscal Year Ended
+
+2025 | 2026
+
+Net cash provided by operating activities | $ | 753,598 | $ | 880,085
+
+Net cash used in investing activities | $ | (218,200) | $ | (108,069)
+
+Net cash used in financing activities | $ | (509,779) | $ | (644,787)
+
+Operating Activities
+
+Net cash provided by operating activities consists of net income, adjusted for non-cash items and changes in operating assets and liabilities. Non-cash items primarily included stock-based compensation and depreciation and amortization. The year-over-year increase in net cash provided by operating activities was primarily driven by higher net income of $137.0 million, when excluding non-cash items, partially offset by a decrease of $10.5 million from changes in operating assets and liabilities. The decrease from changes in operating assets and liabilities were primarily impacted by higher deferred revenue driven by renewal of our Evergreen subscription services across our installed base, and lower payments for employee compensation. Partial offsets to operating cash inflows were increased billings from growth in revenue, increased inventory purchases to mitigate the impact of tariffs, higher component pricing and supply chain disruptions, and higher deferred commissions.
+
+Our primary source of cash from operating activities during fiscal 2025 and 2026 were from cash collections from billings for sales of our product and subscription services.
+
+Our primary uses of cash from operating activities during fiscal 2025 and 2026 were payments to our contract manufacturers, payments for employee compensation, and general corporate operating expenditures.
+
+Investing Activities
+
+Net cash used in investing activities during fiscal 2026 was driven by $264.3 million in capital expenditures and the purchase of a strategic investment, partially offset by net proceeds of $110.7 million in marketable securities and $52.5 million from the sale of an equity security. Key capital expenditures included investments for data center expansion to support testing of new products and services, investments to scale operations in support of our hyperscale customer, and funding of initiatives aimed at accelerating Evergreen//One subscription growth.
+
+Net cash used in investing activities during fiscal 2025 was driven by $226.7 million in capital expenditures and the purchase of a strategic investment. Key capital expenditures included test equipment for new product innovation, and equipment supporting our Evergreen//One offering, investments to scale operations in support of our hyperscale customer, and construction costs related to our headquarters facility. Cash outflows were partially offset by maturities and net sales of marketable securities of $41.4 million.
+
+Financing Activities
+
+Net cash used in financing activities during fiscal 2026 was primarily driven by cash outflows related to share repurchases of $342.6 million, and tax withholding remittances on vested equity awards of $270.9 million, and repayment of the $100.0 million outstanding on our former credit facility that terminated in June 2025, partially offset by proceeds from the issuance of common stock under our employee stock purchase plan (ESPP) of $56.0 million, and the exercise of stock options of $18.4 million. The year-over-year increase in tax withholding remittances on vesting of equity awards was primarily driven by higher stock prices.
+
+Net cash used in financing activities during fiscal 2025 was primarily driven by cash outflows related to share repurchases of $374.0 million, and tax withholding remittances on vesting of equity awards of $206.6 million, partially offset by proceeds from the issuance of common stock under our ESPP of $51.7 million, and the exercise of stock options of $27.2 million.
+
+Off-Balance Sheet Arrangements
+
+Through the end of fiscal 2026, we did not have any relationships with any entities or financial partnerships, such as structured finance or special purpose entities established for the purpose of facilitating off-balance sheet arrangements or other purposes.
+
+Critical Accounting Policy and Estimates
+
+Our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles (GAAP). The preparation of these financial statements requires us to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses, and related disclosures. A summary of significant accounting policies applicable to our consolidated financial statements is included in Note 2 of our Notes to Consolidated Financial Statements in Part II, Item 8. We deem an accounting policy to be critical if the nature of the estimate or assumption it incorporates is subject to material level of judgment related to matters that are highly uncertain and changes in those estimates and assumptions are reasonably likely to materially impact our consolidated financial statements.
+
+We evaluate our estimates and assumptions on an ongoing basis. Our estimates and judgments are based on historical experience, forecasted events and various other assumptions that we believe to be reasonable under the circumstances. Our actual results could differ from these estimates.
+
+We believe the accounting policy below has the most significant impact on our consolidated financial statements and require management’s most difficult, subjective, or complex judgments.
+
+Revenue Recognition
+
+We generate revenue from two sources: (1) product revenue which includes sales of our integrated storage hardware and embedded licensed software products, royalties from hyperscaler shipments, and sale of Portworx by Everpure term licenses and (2) subscription services which includes sales of our storage-as-a-service consumption and subscription-based offerings, support and maintenance and professional services. We enter into contracts with customers that may include combinations of these products and subscription services, resulting in arrangements containing multiple promised performance obligations.
+
+Determining whether our products and subscription services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. For these contracts, we account for individual performance obligations separately if they are distinct.
+
+Revenue is recognized when, or as, control of the promised products or subscription services is transferred to the customer at the transaction price. The transaction price is determined based on the consideration which we will be entitled to in exchange for transferring goods or services to the customer. Transaction price may be adjusted for variable consideration which we estimate by applying the expected value or most likely estimate and subsequently update at each reporting period as additional information becomes available.
+
+To recognize revenue for the products and subscription services for which control has been transferred, we allocate the transaction price for the contract among the identified performance obligations on a relative standalone selling price (SSP) basis. We establish SSP for most of our products and subscription services based on the observable price of the products or subscription services when sold separately in similar circumstances to similar customers. When the SSP is not directly observable through historical transactions, we estimate SSP based on management judgment by considering available data, such as internal margin objectives, pricing strategies, approved pricing guidelines, market/competitive conditions, historical profitability data, as well as other observable inputs. We establish SSP ranges for our products and subscription services and reassess them periodically.
+
+Recent Accounting Pronouncements
+
+Refer to Note 2 of our Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.

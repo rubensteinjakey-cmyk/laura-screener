@@ -1,0 +1,43 @@
+{
+  "ticker": "FTNT",
+  "accession_number": "0001262039-26-000007",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "full_text_words": 75924,
+  "sections": {
+    "item1": {
+      "words": 5854,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5854,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 11678,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          11678,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 204,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 357
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1002,
+  "human_capital_found": true,
+  "people_paragraph_words": 1308
+}

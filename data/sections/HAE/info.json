@@ -1,0 +1,43 @@
+{
+  "ticker": "HAE",
+  "accession_number": "0000313143-26-000050",
+  "filing_date": "2026-05-20",
+  "fiscal_year": 2026,
+  "full_text_words": 72540,
+  "sections": {
+    "item1": {
+      "words": 11277,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          11277,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 9928,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          9928,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 280
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1859,
+  "human_capital_found": true,
+  "people_paragraph_words": 765
+}

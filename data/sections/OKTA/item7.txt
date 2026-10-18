@@ -1,0 +1,646 @@
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. Amounts reported in millions are rounded based on the amounts in thousands. As a result, the sum of the components reported in millions may not equal the total amount reported in millions due to rounding. In addition, percentages presented may not add to their respective totals or recalculate due to rounding. In addition to historical financial information, the following discussion contains forward-looking statements that are based upon current plans, expectations and beliefs that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under the section titled “Risk Factors” under Part I, Item 1A of this Annual Report on Form 10-K. Our fiscal year ends January 31. References to fiscal 2026, for example, refer to the fiscal year ended January 31, 2026.
+
+Overview
+
+We are the leading independent identity partner. Our Okta Platform and Auth0 Platform enable our customers to securely connect the right people to the right technologies and services at the right time. Every day, thousands of organizations and millions of people use our platforms to securely access a wide range of cloud, mobile, web and Software-as-a-Service (“SaaS”) applications, on-premises servers, application programming interfaces (“APIs”), IT infrastructure providers, and services from a multitude of devices. For IT and security leaders, the Okta Platform governs the seamless and secure access by human users and non-human identities (“NHIs”) to the applications they need to do their most important work. We are expanding these capabilities to include AI agents with the introduction of new product offerings currently in development and early access. Developers leverage our Okta Platform and Auth0 Platform to securely and efficiently embed identity for both human users and, increasingly, AI agents into the software they build, allowing them to innovate and focus on their core mission.
+
+Our customers consist of leading global organizations ranging from the largest enterprises to small- and medium-sized businesses, universities, nonprofits and government agencies. We partner with a broad range of application, IT infrastructure and security vendors through our Okta Integration Network. As of January 31, 2026, we had over 7,000 integrations with these cloud, mobile and web applications, and IT infrastructure and security vendors.
+
+We employ a SaaS business model and generate revenue primarily by selling multi-year subscriptions to our cloud-based offerings. We focus on attracting and retaining our customers by building on and increasing the value we provide to them over time. This commitment to our customers’ success helps drive increased customer investment in the number of users of our Okta Platform and Auth0 Platform and adoption of our additional product offerings. We sell our product offerings directly through our field and inside sales teams, as well as indirectly through our network of channel partners, including cloud marketplaces, resellers, system integrators and other distribution partners. Our subscription fees include the use of our service and our technical support and management of our platforms. We base subscription fees primarily on the solutions used and the number of users on our platforms. We typically invoice customers in advance in annual installments for subscriptions to our platforms.
+
+Our revenue is relatively predictable as a result of our subscription-based business model, which constituted approximately 98% of total revenue for fiscal 2026. Future growth may be impacted by longer sales cycles, which we have experienced, which in turn, could result in delays in deals closing, creating near-term headwinds for cash flow, remaining performance obligations (“RPO”) and billings growth as well as potential future impacts on revenue growth and other key metrics on a trailing basis.
+
+Impact of Cybersecurity Incidents
+
+In the past we have experienced cybersecurity incidents, such as the January 2022 incident involving one of our third-party service providers and the October 2023 incident where a threat actor gained unauthorized access to and stole information from our third-party customer support system, that harmed our reputation and customer relations and adversely impacted our financial results. While we expect the impact of these security incidents to adversely affect our future financial performance, we cannot predict the extent of such impact with certainty. Due to
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+the nature of our business, the announcement of any security incidents, even if not significant, could have these impacts.
+
+Impact of Current Economic Conditions
+
+Worldwide economic and political uncertainties and negative trends, including financial and credit market fluctuations, tariffs and increasing trade protectionism, changes in government spending levels, uncertainty in the banking sector, changing interest rates, inflation and other impacts from the macroeconomic environment have, and could continue to, adversely affect our business operations or financial results. As we continue to monitor the direct and indirect impacts of these circumstances, the broader implications of these macroeconomic and political events on our business, results of operations and overall financial position remain uncertain. See the section titled “Risk Factors” included under Part I, Item 1A above for further discussion of the possible impact of these factors and other risks on our business.
+
+Financial Information and Segments
+
+We operate our business as one reportable segment. For fiscal 2026, 2025 and 2024, our revenue was $2,919 million, $2,610 million and $2,263 million, respectively, representing a growth rate of 12% and 15% in fiscal 2026 and 2025, respectively. For fiscal 2026 and 2025, we generated net income of $235 million and $28 million, respectively, and for fiscal 2024, we generated a net loss of $355 million. Our accumulated deficit as of January 31, 2026 was $2,567 million.
+
+Key Business Metrics
+
+We review a number of operating and financial metrics, including the following key metrics, to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions.
+
+As of January 31,
+
+2026 | 2025 | 2024
+
+(dollars in millions)
+
+Customers with annual contract value (“ACV”) above $100,000
+5,100 | 4,800 | 4,485
+
+Dollar-based net retention rate for the trailing 12 months ended | 106 | % | 107 | % | 111 | %
+
+Current remaining performance obligations | $ | 2,513 | $ | 2,248 | $ | 1,952
+
+Remaining performance obligations | $ | 4,827 | $ | 4,215 | $ | 3,385
+
+Number of Customers with Annual Contract Value Above $100,000
+
+The number of customers who have greater than $100,000 in ACV with us was 5,100, 4,800 and 4,485 as of January 31, 2026, 2025 and 2024, respectively. We expect this trend to continue as larger enterprises recognize the value of our platforms and replace their legacy identity access management infrastructure. We define a customer as a separate and distinct buying entity, such as a company, an educational or government institution, or a distinct business unit of a large company that has an active contract with us or one of our partners to access our platforms. For purposes of determining our customer count, we do not include customers that use our platforms under self-service arrangements only.
+
+Dollar-Based Net Retention Rate
+
+Part of our ability to generate revenue is dependent upon our ability to maintain our relationships with our customers and to increase their utilization of our platforms. We believe we can achieve these goals by focusing on delivering value and functionality that enables us to both retain our existing customers and expand the number of users and solutions used within an existing customer. One way that we assess our performance in this area by measuring our Dollar-Based Net Retention Rate. Our Dollar-Based Net Retention Rate measures our ability to increase revenue across our existing customer base through expansion of users and solutions associated with a customer as offset by churn and contraction in the number of users and/or solutions associated with a customer.
+
+Our Dollar-Based Net Retention Rate is based upon our ACV which is calculated based on the terms of that customer’s contract and represents the total contracted annual subscription amount as of that period end. We
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+calculate our Dollar-Based Net Retention Rate as of a period end by starting with the ACV from all customers as of twelve months prior to such period end (“Prior Period ACV”). We then calculate the ACV from these same customers as of the current period end (“Current Period ACV”). Current Period ACV includes any upsells and is net of contraction or churn over the trailing twelve months but excludes ACV from new customers in the current period. We then divide the Current Period ACV by the Prior Period ACV to arrive at our Dollar-Based Net Retention Rate. Our Dollar-Based Net Retention Rate is inclusive of ACV from self-service customers.
+
+Our Dollar-Based Net Retention Rate is primarily attributable to our healthy gross retention, an expansion of users and upselling additional solutions within our existing customers. Larger enterprises often implement a limited initial deployment of our platforms before increasing their deployment on a broader scale. The decrease in our Dollar-Based Net Retention Rate as of January 31, 2026, compared to January 31, 2025, was primarily a result of the macroeconomic environment, with overall ACV from existing customers increasing at a slower rate in the current period.
+
+Remaining Performance Obligations (“RPO”)
+
+RPO represent all future, non-cancelable, contracted revenue under our subscription contracts with customers that has not yet been recognized, inclusive of deferred revenue that has been invoiced and non-cancelable amounts that will be invoiced and recognized as revenue in future periods. Current RPO represents the portion of RPO expected to be recognized during the next 12 months. RPO fluctuates due to a number of factors, including the timing, duration and dollar amount of customer contracts and fluctuations in foreign currency exchange rates.
+
+Components of Results of Operations
+
+Revenue
+
+Subscription Revenue. Subscription revenue primarily consists of fees for access to and usage of our cloud-based platforms and related support. Subscription revenue is driven primarily by the number of customers, the number of users per customer and the solutions used. We typically invoice customers in advance in annual installments for subscriptions to our platforms.
+
+Professional Services and Other. Professional services revenue includes fees from assisting customers in implementing and optimizing the use of our solutions. These services include application configuration, system integration and training services.
+
+We generally invoice customers as the work is performed for time-and-materials arrangements, and up front for fixed fee arrangements. Professional services revenue is recognized as the services are performed.
+
+Overhead Allocation and Employee Compensation Costs
+
+We allocate shared costs, such as facilities costs (including rent, utilities and depreciation on assets shared by all departments), certain information technology costs, security costs and recruiting costs to all departments based on headcount. As such, allocated shared costs are reflected in each of the cost of revenue and operating expense categories. Employee compensation costs reflected in each of the cost of revenue and operating expense categories include salaries, bonuses, compensation related taxes, benefits and stock-based compensation. Additionally included in the sales and marketing expense category are sales commissions and related taxes.
+
+Cost of Revenue and Gross Margin
+
+Cost of Subscription. Cost of subscription primarily consists of expenses related to hosting our services and providing support. These expenses include employee-related costs associated with our cloud-based infrastructure, our product security organization and our customer support organization, third-party hosting fees, software and maintenance costs, outside services associated with the delivery of our subscription services, amortization expense associated with capitalized internal-use software and acquired developed technology and allocated overhead.
+
+We intend to continue to invest additional resources in our platform infrastructure, our platforms’ support organizations and security posture. We will continue to invest in technology innovation and we anticipate that costs qualifying for capitalization of internal-use software costs and related amortization may fluctuate over time. We
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+expect our investment in technology to expand the capability of our platforms, enabling us to improve our gross margin over time. The level and timing of investment in these areas could affect our cost of subscription revenue in the future.
+
+Cost of Professional Services and Other. Cost of professional services consists primarily of employee-related costs for our professional services delivery team, travel-related costs, allocated overhead and costs of outside services associated with supplementing our professional services delivery team. The cost of providing professional services has historically been higher than the associated revenue we generate.
+
+Gross Margin. Gross margin is gross profit expressed as a percentage of total revenue. Our gross margin may fluctuate from period to period as a result of the timing and amount of investments to expand our hosting capacity and our continued efforts to build platform support and professional services teams.
+
+Operating Expenses
+
+Research and Development. Research and development expenses consist primarily of employee compensation costs and allocated overhead. We believe that continued investment in our platforms is important for our growth.
+
+Sales and Marketing. Sales and marketing expenses consist primarily of employee compensation costs, costs of general marketing and promotional activities, travel-related expenses, amortization expense associated with acquired customer relationships and trade names and allocated overhead. Commissions earned by our sales force that are considered incremental and recoverable costs of obtaining a contract with a customer are deferred and then amortized on a straight-line basis over a period of benefit that we have determined to be generally five years.
+
+General and Administrative. General and administrative expenses consist primarily of employee compensation costs for finance, accounting, legal, information technology and human resources personnel. In addition, general and administrative expenses include acquisition and integration-related costs, non-personnel costs, such as legal, accounting and other professional fees, charitable contributions, allocated overhead and all other supporting corporate expenses.
+
+Restructuring and Other Charges. Restructuring and other charges consist primarily of personnel costs, such as notice period, employee severance payments and termination benefits. In addition, restructuring and other charges include certain lease impairment charges.
+
+Interest and Other, Net
+
+Interest and other, net consists of interest expense, which primarily includes amortization of debt issuance costs and contractual interest expense for our convertible senior notes, interest income from our investment holdings, gains on early extinguishment of debt and gains and losses from our strategic investments.
+
+Provision for Income Taxes
+
+Our provision for income taxes consists of federal and state income taxes in the United States and income taxes in certain foreign jurisdictions where we operate.
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+Results of Operations
+
+The following table sets forth our results of operations for the periods presented:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(dollars in millions)
+
+Revenue
+
+Subscription | $ | 2,855 | $ | 2,556 | $ | 2,205
+
+Professional services and other | 64 | 54 | 58
+
+Total revenue | 2,919 | 2,610 | 2,263
+
+Cost of revenue
+
+Subscription(1)
+578 | 549 | 502
+
+Professional services and other(1)
+83 | 69 | 79
+
+Total cost of revenue | 661 | 618 | 581
+
+Gross profit | 2,258 | 1,992 | 1,682
+
+Operating expenses
+
+Research and development(1)
+639 | 642 | 656
+
+Sales and marketing(1)
+1,018 | 965 | 1,036
+
+General and administrative(1)
+448 | 448 | 450
+
+Restructuring and other charges | 4 | 11 | 56
+
+Total operating expenses | 2,109 | 2,066 | 2,198
+
+Operating income (loss)
+149 | (74) | (516)
+
+Interest expense | (4) | (5) | (8)
+
+Interest income and other, net | 110 | 106 | 81
+
+Gain on early extinguishment of debt
+— | 19 | 106
+
+Interest and other, net | 106 | 120 | 179
+
+Income (loss) before provision for income taxes
+255 | 46 | (337)
+
+Provision for income taxes
+20 | 18 | 18
+
+Net income (loss)
+$ | 235 | $ | 28 | $ | (355)
+
+(1) Includes stock-based compensation expense as follows:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(dollars in millions)
+
+Cost of subscription revenue | $ | 74 | $ | 82 | $ | 75
+
+Cost of professional services and other revenue | 10 | 12 | 15
+
+Research and development | 196 | 216 | 277
+
+Sales and marketing | 132 | 131 | 156
+
+General and administrative | 132 | 124 | 161
+
+Total stock-based compensation expense | $ | 544 | $ | 565 | $ | 684
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+The following table sets forth our results of operations for the periods presented as a percentage of our total revenue:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Revenue
+
+Subscription | 98 | % | 98 | % | 97 | %
+
+Professional services and other | 2 | 2 | 3
+
+Total revenue | 100 | 100 | 100
+
+Cost of revenue
+
+Subscription | 20 | 21 | 22
+
+Professional services and other | 3 | 3 | 4
+
+Total cost of revenue | 23 | 24 | 26
+
+Gross profit | 77 | 76 | 74
+
+Operating expenses
+
+Research and development | 22 | 25 | 29
+
+Sales and marketing | 35 | 37 | 46
+
+General and administrative | 15 | 17 | 20
+
+Restructuring and other charges | — | — | 2
+
+Total operating expenses | 72 | 79 | 97
+
+Operating income (loss)
+5 | (3) | (23)
+
+Interest expense | — | — | —
+
+Interest income and other, net | 4 | 4 | 4
+
+Gain on early extinguishment of debt
+— | 1 | 4
+
+Interest and other, net | 4 | 5 | 8
+
+Income (loss) before provision for income taxes | 9 | 2 | (15)
+
+Provision for income taxes | 1 | 1 | 1
+
+Net income (loss) | 8 | % | 1 | % | (16) | %
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+A discussion regarding our financial condition and results of operations for fiscal 2026 compared to fiscal 2025 is presented below. A discussion regarding our financial condition and results of operations for fiscal 2025 compared to fiscal 2024 can be found under Item 7 in our Annual Report on Form 10-K for fiscal 2025, filed with the SEC on March 5, 2025, which is available free of charge on the SEC’s website at www.sec.gov and our Investor Relations website at investor.okta.com.
+
+Comparison of the Years Ended January 31, 2026 and 2025
+
+Revenue
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+Revenue:
+
+Subscription | $ | 2,855 | $ | 2,556 | $ | 299 | 12 | %
+
+Professional services and other | 64 | 54 | 10 | 18
+
+Total revenue | $ | 2,919 | $ | 2,610 | $ | 309 | 12 | %
+
+Percentage of revenue:
+
+Subscription | 98 | % | 98 | %
+
+Professional services and other | 2 | 2
+
+Total | 100 | % | 100 | %
+
+For fiscal 2026, the increase in subscription revenue was primarily due to an increase in users and sales of additional solutions to existing customers and the addition of new customers. The increase in revenue was attributable to increased revenue from existing customers as reflected in our Dollar-Based Net Retention Rate of 106% as of January 31, 2026 and an increase in the number of customers as detailed in our Key Business Metrics.
+
+For fiscal 2026, the increase in professional services and other revenue was due to higher bookings associated with professional services. Beginning in fiscal 2027, we expect professional services and other revenue to decline as we shift more engagements to our partner ecosystem.
+
+Cost of Revenue, Gross Profit and Gross Margin
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+Cost of revenue:
+
+Subscription | $ | 578 | $ | 549 | $ | 29 | 5 | %
+
+Professional services and other | 83 | 69 | 14 | 19
+
+Total cost of revenue | $ | 661 | $ | 618 | $ | 43 | 7 | %
+
+Gross profit | $ | 2,258 | $ | 1,992 | $ | 266 | 13 | %
+
+Gross margin:
+
+Subscription | 80 | % | 79 | %
+
+Professional services and other | (29) | (29)
+
+Total gross margin | 77 | % | 76 | %
+
+For fiscal 2026, cost of subscription revenue increased primarily due to an increase of $20 million in labor costs, third-party hosting costs of $15 million, and software costs of $9 million. This was offset by decreases in consulting costs of $10 million and stock-based compensation of $8 million.
+
+Our gross margin for subscription revenue improved from 79% to 80% during fiscal 2026. The increase was primarily driven by improved spend efficiency resulting in lower relative cost of subscription revenue.
+
+For fiscal 2026, cost of professional services and other revenue increased due to an increase in labor costs of $15 million offset by a decrease in stock-based compensation of $2 million.
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+Our gross margin for professional services and other revenue remained relatively flat.
+
+Operating Expenses
+
+Research and Development Expenses
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+Research and development | $ | 639 | $ | 642 | $ | (3) | (1) | %
+
+Percentage of revenue | 22 | % | 25 | %
+
+For fiscal 2026, research and development expenses decreased due to a reduction in stock-based compensation expense of $20 million, offset by increases in labor costs of $15 million and hosting fees of $2 million. The decrease in research and development as a percentage of total revenue was primarily driven by improved spend efficiency.
+
+Sales and Marketing Expenses
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+Sales and marketing | $ | 1,018 | $ | 965 | $ | 53 | 5 | %
+
+Percentage of revenue | 35 | % | 37 | %
+
+For fiscal 2026, sales and marketing expenses increased primarily due to an increase in labor costs of $23 million, marketing costs of $12 million, travel and entertainment of $8 million, software costs of $2 million and stock-based compensation expense of $1 million. The decrease in sales and marketing as a percentage of total revenue was primarily driven by improved spend efficiency.
+
+We expect our sales and marketing expenses will continue to be our largest operating expense category for the foreseeable future. We expect sales and marketing expenses as a percentage of total revenue to decrease as our total revenue grows.
+
+General and Administrative Expenses
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+General and administrative | $ | 448 | $ | 448 | $ | — | — | %
+
+Percentage of revenue | 15 | % | 17 | %
+
+For fiscal 2026, general and administrative expenses remained flat. Increases in labor costs of $13 million and stock-based compensation expense of $8 million were partially offset by decreases in legal and professional fees of $10 million and consulting costs of $8 million. The decrease in general and administrative as a percentage of total revenue was primarily driven by improved spend efficiency. We expect general and administrative expenses as a percentage of total revenue to decrease as our total revenue grows.
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+Restructuring and Other Charges
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+Restructuring and other charges | $ | 4 | $ | 11 | $ | (7) | (65) | %
+
+Percentage of revenue | — | % | — | %
+
+Restructuring and other charges decreased in fiscal 2026 due to a reduction in the scale of restructuring initiatives compared to fiscal 2025.
+
+Interest and Other, Net
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+Interest expense | $ | (4) | $ | (5) | $ | 1 | (34) | %
+
+Interest income and other, net | 110 | 106 | 4 | 4
+
+Gain on early extinguishment of debt
+— | 19 | (19) | (100)
+
+Interest and other, net | $ | 106 | $ | 120 | $ | (14) | (11) | %
+
+For fiscal 2026, interest and other, net decreased primarily due to a decrease in gains on early extinguishment of debt related to repurchases of the convertible senior notes offset by an increase in interest income from our short-term investments. We expect interest income to decrease in fiscal 2027 as we deploy investable cash to fund our Share Repurchase Program, settle our 2026 Convertible Senior Notes obligation, and due to changes in the interest rate environment.
+
+Provision for Income Taxes
+
+Year Ended January 31,
+
+2026 | 2025 | $ Change
+% Change
+
+(dollars in millions)
+
+Provision for income taxes
+$ | 20 | $ | 18 | $ | 2 | 14 | %
+
+For fiscal 2026, income tax expense resulted primarily from income in profitable foreign jurisdictions and state and local taxes, offset by the favorable impacts of the “One Big Beautiful Bill Act” (the “Act”) enacted on July 4, 2025.
+
+For fiscal 2025, income tax expense resulted primarily from income in profitable foreign jurisdictions, federal and state taxes resulting from limitations on tax attribute utilization, offset by the impact of tax windfalls from stock-based compensation in the United States.
+
+The Act, among other provisions, maintains the U.S. federal 21% corporate tax rate, makes permanent the immediate expensing of domestic research and development expenditures, allows for 100% bonus depreciation for qualified assets, and modifies the U.S. taxation of profits derived from foreign operations. The provisions of the Act have staggered effective dates beginning in 2025 and continuing through 2027. Our provision for income taxes reported for fiscal 2026 was computed to reflect the effects of the change in the tax law. We expect the immediate expensing of domestic R&D expenditures to be the most significant impact of the Act, resulting in a reduction in federal and state cash tax payments and in our provision for income taxes for future periods.
+
+In addition, certain provisions of the Act, particularly those related to international taxation, are effective beginning in the fiscal period ending January 31, 2027. We are currently evaluating the impact of these provisions on our financial statements and tax positions.
+
+We periodically evaluate the realizability of our deferred tax assets based on all available evidence, both positive and negative. The realization of the net deferred tax assets is dependent on our ability to generate sufficient
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+future taxable income during the periods prior to the expiration of tax attributes to fully utilize these assets. Given our current and anticipated future earnings, we may release a significant portion of our valuation allowance in the foreseeable future if there is sufficient positive evidence that outweighs the negative evidence. The release of the valuation allowance would result in the recognition of certain deferred tax assets and a corresponding decrease to income tax expense for the period the release is recorded. However, the exact timing and amount of any potential valuation allowance release remains uncertain and is subject to change on the basis of the level of profitability that we are able to actually achieve. As of January 31, 2026 we continue to maintain a full valuation allowance on our deferred tax assets in the United States.
+
+Liquidity and Capital Resources
+
+As of January 31, 2026, our principal sources of liquidity were cash, cash equivalents and short-term investments totaling $2,553 million, which were held for working capital and general corporate purposes, including potential future acquisition activity. Our cash equivalents and investments consisted primarily of U.S. treasury securities, money market funds, corporate debt securities and certificates of deposit.
+
+Recent macroeconomic events, including changes in interest rates, global inflation and bank failures, have led to further economic uncertainty in the global economy. To mitigate risk, our cash and cash equivalents are distributed across large financial institutions. In addition, we have policy restrictions in place on the types of securities that can be purchased as part of our available-for-sale securities portfolio. These restrictions take credit quality, liquidity and diversification into consideration among other criteria. We continue to monitor the impacts of this situation; however, there can be no assurances that conditions in the banking sector and in global financial markets will not worsen and/or adversely affect us.
+
+In January 2026, our board authorized a stock repurchase program of up to $1 billion of our outstanding shares of Class A common stock (the “Share Repurchase Program”). We have and may repurchase shares of our Class A common stock from time to time through open market purchases, in privately negotiated transactions, or by other means. Open market repurchases may be structured to occur in accordance with the requirements of Rule 10b-18. We may also, from time to time, enter into Rule 10b5-1 trading plans to facilitate repurchases of shares. The timing and the amount of stock repurchases under the Share Repurchase will be based on our evaluation of factors including business and market conditions, corporate and regulatory requirements, and other considerations. The Share Repurchase Program does not obligate us to repurchase any specific number of shares and may be modified, suspended, or terminated at any time. During the year ended January 31, 2026, we repurchased and immediately retired 875,150 shares of our Class A common stock for an aggregate amount, including commissions, of $79 million under the Share Repurchase Program. As of January 31, 2026, approximately $921 million of the originally authorized amount under the Share Repurchase Program remained available for future repurchases.
+
+We satisfy employee tax withholding obligations due upon the vesting of share-based awards through net share settlement using available cash. This practice reduces our equity dilution rate and impacts liquidity as our cash requirements for these obligations are primarily driven by the market price of our Class A common stock at the time of vesting. In fiscal 2026 and 2025, cash paid to satisfy these employee tax withholding obligations was $192 million and $148 million, respectively.
+
+In September 2019, we completed our private offering of the 2025 convertible senior notes (“2025 Notes”) due on September 1, 2025 and we used a portion of the proceeds to enter into capped call transactions (“2025 Capped Calls”) with respect to our Class A common stock. The 2025 Notes matured on September 1, 2025, and we settled in full the principal amount then outstanding of $510 million in cash and the associated then outstanding 2025 Capped Calls expired unexercised.
+
+In June 2020, we completed our private offering of the 2026 convertible senior notes (“2026 Notes”) due on June 15, 2026 and received aggregate gross proceeds of $1,150 million. The interest rate on the 2026 Notes is fixed at 0.375% per year and is payable semi-annually in arrears on June 15 and December 15 of each year, beginning on December 15, 2020. In connection with the 2026 Notes, we used a portion of the proceeds to enter into capped call transactions (“2026 Capped Calls”) with respect to our Class A common stock. As of January 31, 2026, the outstanding principal balance of the 2026 Notes of $350 million is classified as a current liability due to their upcoming maturity on June 15, 2026 and we currently intend to settle the principal amount of the 2026 Notes in cash.
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+In the ordinary course of our business, we have and may, at any time and from time to time, seek to extinguish our outstanding 2026 Notes through cash purchases and/or exchanges for equity, in open-market purchases, privately negotiated transactions or otherwise. Such extinguishments, if any, will be conducted on such terms and at such prices as we may determine, and will depend on our evaluation of the prevailing market conditions, trading price of the 2026 Notes, our liquidity requirements, legal and contractual restrictions and other factors. See Note 8 to our consolidated financial statements “Convertible Senior Notes, Net” and the section titled “Transactions relating to the 2026 Notes may affect the value of our Class A common stock” in “Risk Factors” included under Part I, Item 1A of this Annual Report on Form 10-K for additional information.
+
+On September 4, 2025, we acquired all of the outstanding equity of Axiom Security Ltd (“Axiom”), a privately held company specializing in privileged access management solutions. The acquisition date cash consideration was $54 million. See Note 16 to our consolidated financial statements “Business Combinations” for additional information.
+
+We believe our existing cash and cash equivalents, our investments and cash provided by sales of our solutions will be sufficient to meet our short-term and long-term projected working capital and capital expenditure needs for the foreseeable future. Our future capital requirements will depend on many factors, including our subscription growth rate, subscription renewal activity, billing frequency, the timing and extent of spending to support development efforts, the expansion of sales and marketing activities, the expansion of our international operations, the introduction of new and enhanced product offerings, and the continuing market adoption of our platforms. We continue to assess our capital structure and evaluate the merits of deploying available cash. We may in the future enter into arrangements to acquire or invest in complementary businesses, services and technologies, including intellectual property rights; additionally, we have, and may in the future, repurchase shares of our Class A common stock from time to time under our Share Repurchase Program. We may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital or generate cash flows necessary to expand our operations and invest in new technologies this could reduce our ability to compete successfully and harm our results of operations.
+
+A significant majority of our customers pay in advance for annual subscriptions. Therefore, a substantial source of our cash is from our deferred revenue, which is included on our consolidated balance sheet as a liability. Deferred revenue consists of the unearned portion of billed fees for our subscriptions, which is recognized as revenue in accordance with our revenue recognition policy. As of January 31, 2026, we had deferred revenue of $1,905 million, of which $1,875 million was recorded as a current liability and is expected to be recorded as revenue in the next 12 months, provided all other revenue recognition criteria have been met.
+
+Cash Flows
+
+The following table summarizes our cash flows for the periods indicated:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(dollars in millions)
+
+Net cash provided by operating activities | $ | 884 | $ | 750 | $ | 512
+
+Net cash provided by (used in) investing activities | 271 | (314) | 441
+
+Net cash used in financing activities
+(720) | (359) | (883)
+
+Effects of changes in foreign currency exchange rates on cash, cash equivalents and restricted cash | 14 | (4) | 1
+
+Net increase in cash, cash equivalents and restricted cash
+$ | 449 | $ | 73 | $ | 71
+
+Operating Activities
+
+Our largest source of operating cash is cash collections from our customers for subscription and professional services. Our primary uses of cash from operating activities are for employee-related expenditures, marketing expenses and third-party hosting costs.
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+During fiscal 2026, cash provided by operating activities was $884 million, an increase of $134 million compared to fiscal 2025. The increase was primarily attributable to an increase in cash received from customers and improved spend efficiency.
+
+Investing Activities
+
+During fiscal 2026, cash provided by investing activities was $271 million, compared to cash used in investing activities of $314 million during fiscal 2025. The change was primarily driven by higher proceeds from maturities and redemption of available-for-sale securities and a decrease in purchases of available-for-sale and other securities.
+
+Financing Activities
+
+During fiscal 2026, cash used in financing activities was $720 million, an increase of $361 million compared to fiscal 2025. The increase was primarily attributable to an increase in payments upon maturity and repurchases of convertible senior notes, an increase in taxes paid related to net share settlement of equity awards, and further impacted by common stock repurchases related to the initiation of our share repurchase program in fiscal 2026. The cash outlay for common stock repurchases and taxes paid on net share settlement of equity awards are generally predicated on the closing price of our stock on the respective transaction dates.
+
+Material Cash Requirements
+
+Contractual Obligations
+
+The following table represents our known short-term (i.e., the next twelve months) and long-term (i.e., beyond the next twelve months) obligations as of January 31, 2026:
+
+Short-term | Long-term | Total
+
+(dollars in millions)
+
+Convertible Senior Notes:(1)
+
+Principal payments | $ | 350 | $ | — | $ | 350
+
+Interest payments | 1 | — | 1
+
+Operating leases(2)
+36 | 77 | 113
+
+Purchase obligations(3)
+306 | 163 | 469
+
+Total contractual obligations | $ | 693 | $ | 240 | $ | 933
+
+(1) See Note 8 to our consolidated financial statements “Convertible Senior Notes, Net” for additional information.
+
+(2) See Note 9 to our consolidated financial statements “Leases” for additional information.
+
+(3) Purchase obligations primarily relate to data center hosting facilities, and other sales and marketing obligations.
+
+Indemnification Agreements
+
+In the ordinary course of business, we enter into agreements of varying scope and terms pursuant to which we agree to indemnify customers, vendors, lessors, business partners and other parties with respect to certain matters, including, but not limited to, losses arising out of the breach of such agreements, services to be provided by us or from intellectual property infringement claims made by third parties. In addition, we have entered into indemnification agreements with our directors and certain officers and employees that will require us, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as directors, officers or employees. No material demands have been made upon us to provide indemnification under such agreements and there are no claims that we are aware of that could have a material effect on our consolidated balance sheets, consolidated statements of operations and comprehensive income (loss), or consolidated statements of cash flows.
+
+Critical Accounting Estimates
+
+We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America. In the preparation of these consolidated financial statements, we are required to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+and expenses, and related disclosures. To the extent that there are material differences between these estimates and actual results, our financial condition or results of operations would be affected. We base our estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and we evaluate these estimates on an ongoing basis. We refer to accounting estimates of this type as critical accounting estimates, which we discuss below.
+
+Income Taxes
+
+Income taxes are accounted for using the liability method. Under this method, deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax basis of assets and liabilities, as well as for operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates that are expected to apply to taxable income for the years in which those tax assets and liabilities are expected to be realized or settled.
+
+Valuation allowances are established when necessary to reduce deferred tax assets to the amounts that are more likely than not expected to be realized based on the weighting of positive and negative evidence. Future realization of deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character, within the carry-back or carry-forward periods available under the applicable tax law. In assessing the need for a valuation allowance, we consider available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. Our judgment regarding future estimates may change due to many factors, including future market conditions and the ability to successfully execute our business plans and tax planning strategies. Should there be a change in the ability to recover deferred tax assets, our provision for income taxes would increase or decrease in the period in which the assessment is changed.
+
+Our tax positions are subject to income tax audits by multiple tax jurisdictions throughout the world. We recognize the tax benefit of an uncertain tax position only if it is more likely than not that the position is sustainable upon examination by the taxing authority, based on the technical merits. Significant judgment is required in determining the technical merits of an uncertain tax position, such as taking into account current tax laws, our interpretation of current tax laws and possible outcomes of current and future audits conducted by foreign and domestic tax authorities. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate. To the extent the final tax outcome of these matters is different than the amounts recorded, such differences may impact the provision for income taxes in the period in which such determination is made.
+
+Business Combinations
+
+When we acquire a business, the purchase price is allocated to the acquired assets, including separately identifiable intangible assets, and assumed liabilities at their respective estimated fair values. Any residual purchase price is recorded as goodwill. The allocation of the purchase price requires management to make significant estimates in determining the fair values of assets acquired and liabilities assumed, especially with respect to intangible assets. These estimates can include, but are not limited to:
+
+•future expected cash flows from subscription contracts, professional services contracts, other customer contracts and acquired developed technologies;
+
+•person hours required in recreating certain acquired technologies;
+
+•historical and expected customer attrition rates and anticipated growth in revenue from acquired customers;
+
+•royalty rates applied to acquired developed technology platforms and other intangible assets;
+
+•obsolescence curves and other useful life assumptions, such as the period of time and intended use of acquired intangible assets in our product offerings;
+
+•discount rates;
+
+•uncertain tax positions and tax-related valuation allowances; and
+
+OKTA, INC.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+
+•fair value of assumed equity awards.
+
+These estimates are inherently uncertain and unpredictable, and unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results.
+
+If the initial accounting for a business combination is not complete following the acquisition date, we report provisional amounts for the known assets, liabilities, equity interests, or items of consideration for which the accounting is incomplete at the end of the financial reporting period. Provisional accounting is inherently subjective and judgmental. The objective of the measurement period is to provide a reasonable period of time to obtain the information necessary to complete all aspects of business combination accounting with a high level of confidence. During the measurement period, which may be up to one year from the acquisition date, adjustments to the reported provisional amounts may be recorded for which the accounting was incomplete, with the corresponding offset to goodwill. Should the accounting for a business combination be incomplete by the end of a reporting period that falls within the measurement period, we report provisional amounts in our financial statements, disclosing them as provisional, and any material measurement period adjustments are identified as such. Additional assets acquired or liabilities assumed in an acquisition that were not recognized at the acquisition date might be identified during the measurement period. Upon the conclusion of the measurement period or final determination of the fair value of assets acquired or liabilities assumed, whichever comes first, no further adjustments are made.
+
+Loss Contingencies
+
+We evaluate contingent liabilities, including threatened or pending litigation, and make provisions for such liabilities when it is both probable that a loss has been incurred and its amount can be reasonably estimated. Because of uncertainties inherent in litigation, we base our estimate and accrue the liabilities, if any, on the information available at the time of our assessment. Significant judgment is required to determine both the probability and the estimated amount of loss given such legal proceedings are inherently unpredictable and subject to significant uncertainties, some of which are beyond our control. Developments in these matters could affect the amount of any liability we may accrue. As additional information becomes available, we may revise our estimates. Any revisions in the estimates of potential liabilities could have a material impact on our operating results and financial position. Further, until the final resolution of any such matter, there may be a loss exposure in excess of the liability recognized and such amount could be significant.
+
+Revenue Recognition
+
+We primarily derive our revenues from subscription fees. A description of our revenue recognition policies is included in Note 2 to our consolidated financial statements “Summary of Significant Accounting Policies.”
+
+Our contracts with customers often contain multiple performance obligations. For these contracts, we account for individual performance obligations separately if they are distinct. The transaction price of the contract is allocated to the separate performance obligations on a relative standalone selling price (“SSP”) basis. Evaluating customer contracts with multiple performance obligations and complex terms may require significant judgment in identifying the distinct performance obligations.
+
+Recent Accounting Pronouncements
+
+See Note 2 to our consolidated financial statements “Summary of Significant Accounting Policies — Accounting Pronouncements Recently Adopted and Recent Accounting Pronouncements Not Yet Adopted” for more information.

@@ -1,0 +1,45 @@
+{
+  "ticker": "ILMN",
+  "accession_number": "0001110803-26-000024",
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "full_text_words": 55217,
+  "sections": {
+    "item1": {
+      "words": 3,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 13,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 2
+    }
+  },
+  "notes": [
+    "item1: 10-K section is only 3 words with 0 cross-reference phrase(s); could not locate the referenced content",
+    "item7: 10-K section is only 13 words with 0 cross-reference phrase(s); could not locate the referenced content",
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 0
+}
