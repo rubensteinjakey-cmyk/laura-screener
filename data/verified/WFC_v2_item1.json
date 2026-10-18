@@ -1,0 +1,167 @@
+{
+  "ticker": "WFC",
+  "company_name": "Wells Fargo & Company",
+  "sector": "Financials",
+  "run_id": "v2_item1",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1"
+  ],
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "accession_number": "0000072971-26-000133",
+  "scored_at": "2026-10-18T22:17:38",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "reason": "Level 0: the business description covers banking, lending, wealth management and capital markets, and shows no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "reason": "Level 2: all qualifying activity is employee development ($200 million in employee learning programs plus tuition reimbursement), which caps Community at 2, and no external education or community investment is described.",
+      "flags": [],
+      "coverage_trigger": "ai"
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E3",
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E3",
+        "E4"
+      ],
+      "reason": "Level 1: the filing gives only a general welcoming statement and workforce demographic statistics, with no specific inclusion practice, network or customer-access program.",
+      "flags": [],
+      "coverage_trigger": "ai"
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E5"
+      ],
+      "valid_evidence_ids": [
+        "E5"
+      ],
+      "reason": "Level 1: small business lending appears only as one item in a product list, with no named enabling program or reach indicators, so it counts as serving small businesses (lower level chosen when torn between 1 and 2).",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 19.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Company-funded learning and development programs for its own employees and managers",
+      "quote": "During 2025, we invested approximately $200 million in a variety of employee learning and development programs, including functional training, required risk and regulatory compliance training, leadership and professional development, and early talent development programs.",
+      "section": "Item 1 > Human Capital > Employee learning and development",
+      "status": "current",
+      "indicators": "approximately $200 million invested in 2025; approximately 205,000 active employees",
+      "themes": {
+        "community": "employee development: internal training, leadership development and early talent programs (includes required compliance training)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Tuition reimbursement for eligible employees",
+      "quote": "Additionally, we provide tuition reimbursement to eligible employees.",
+      "section": "Item 1 > Human Capital > Employee learning and development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "employee development: education support limited to the company's own staff"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "General statement about welcoming people from different backgrounds",
+      "quote": "We want to be recognized as a great company for everyone by maintaining recruitment and career development practices that support our employees and provide an environment that welcomes people from different backgrounds and with different experiences.",
+      "section": "Item 1 > Human Capital",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": "general statement only; no specific program, network or customer-access practice described"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Disclosure of workforce gender and race/ethnicity demographics",
+      "quote": "Our global workforce was 50% female and 50% male. In the U.S., 50% of our workforce identified as white, 49% identified as other races/ethnicities, and 1% did not declare.",
+      "section": "Item 1 > Human Capital",
+      "status": "current",
+      "indicators": "50% female / 50% male globally; U.S. 50% white, 49% other races/ethnicities, 1% undeclared",
+      "themes": {
+        "cross_cultural": "workforce demographics are a disclosure, not an activity (capped at 1)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Small business lending offered within the consumer product set",
+      "quote": "We provide consumer financial products and services including checking and savings accounts, credit and debit cards, and home, auto, personal, and small business lending.",
+      "section": "Item 1 > Description of Business > General",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": "serves small businesses with lending, mentioned only in a product list; no specific program or reach described"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Human Capital section covers only internal workforce topics (compensation, benefits, $200M in employee development, work-life programs). It says nothing about external education, philanthropy, community investment, employee resource groups or customer accessibility, so Community and Cross-cultural are marked insufficient and should get the sustainability-report second look. The Community Reinvestment Act appears only as a regulatory requirement and was not counted as an activity. The $200M figure includes required risk and regulatory compliance training, which on its own would score only 1; it is counted here under employee development. Several trap terms were excluded: 'stockholders' equity', 'diversified set of banking... products', 'investment banking', 'merchant banking' (a regulatory category), 'innovations' and non-U.S. operations. Item 1 incorporates further information by reference from the 2025 Annual Report to Shareholders, which was not provided. The filing also notes an ongoing FRB consent order (the asset cap was removed June 3, 2025) and an OCC AML formal agreement; these are context only.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 418,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}
