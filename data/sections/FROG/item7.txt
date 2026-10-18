@@ -1,0 +1,1145 @@
+Item 7. Management's Discussion and Analysis of Financial Conditions and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. You should review the section titled “Special Note Regarding Forward-Looking Statements,” above in this Annual Report on Form 10-K for a discussion of forward-looking statements and important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis. Factors that could cause or contribute to such differences include, but are not limited to, those identified below, and those discussed in the section titled “Risk Factors” in this Annual Report on Form 10-K. Our historical results are not necessarily indicative of the results that may be expected for any period in the future.
+
+The following section generally discusses our financial condition and results of operations for the year ended December 31, 2025 compared to the year ended December 31, 2024. A discussion regarding our financial condition and results of operations for the year ended December 31, 2024 compared to the year ended December 31, 2023 can be found in Part II, Item 7 of our 2024 Annual Report on Form 10‐K, filed with the SEC on February 14, 2025.
+
+Overview
+
+JFrog provides a foundational platform for managing and securing the software supply chain. The JFrog Platform enables organizations to unify software development, security, governance, and distribution across hybrid teams, including developers, security professionals, Artificial Intelligence/Machine Learning (“AI/ML”) engineers and Artificial Intelligence agents. It supports the consumption, creation, and continuous delivery of software from any user to any destination which we refer to as “Liquid Software.” During 2025, we revised our customer logo methodology to eliminate friction for our customers and sales teams to better align with global go-to-market practices, which resulted in the consolidation of certain organizations with multiple subsidiaries into a single entity. As of December 31, 2025, we had a global customer base of approximately 6,600 organizations across all industries and sizes, including approximately 83% of Fortune 100 organizations. All of the top 10 technology organizations and top 10 financial services organizations, 8 of the top 10 retail organizations, 8 of the top 10 healthcare organizations, and all of the top 7 telecommunications organizations in the Fortune 500 have adopted the JFrog Platform, embarking on their journey towards Liquid Software. For the year ended December 31, 2025, our 10 largest customers represented approximately 9% of our total revenue and 40% of our revenue was generated from customers outside of the United States.
+
+We have designed our subscription structure and go-to-market strategy to align our growth with the success of our customers. Our business model benefits from our ability to serve the needs of all customers, from individual software developers, security teams, AI/ML teams, and IT operators to the largest organizations, in a value-oriented manner.
+
+We generate revenue from the sale of subscriptions to customers. We offer subscription tiers for self-managed deployments, where our customers deploy and manage our products across their public cloud, on-premises, private cloud, or hybrid environments, as well as JFrog-managed public cloud deployments, which we refer to as our SaaS subscriptions. Revenue from SaaS subscriptions contributed 46% of our total revenue for the year ended December 31, 2025, compared to 39% for the year ended December 31, 2024.
+
+Our self-managed subscriptions are offered on an annual and multi-year basis, and our SaaS subscriptions are offered on a monthly, annual, and multi-year basis. Revenue from Enterprise Plus subscription represented approximately 56% of our total revenue for the year ended December 31, 2025, compared to approximately 51% for the year ended December 31, 2024. The growth in revenue from our Enterprise Plus subscription demonstrates the increased demand for our end-to-end solutions for customers’ entire software supply chain management.
+
+We have an unwavering commitment to the software developer, security teams, AI/ML engineers, and IT operator communities, and show this commitment by offering varying forms of free access to our products in addition to the paid subscriptions described above. This free access takes the form of free trials and open source software, and helps generate demand for our paid offerings within the software developer, security professionals, AI/ML engineers, and IT operator communities.
+
+We generated revenue of $531.8 million and $428.5 million for the years ended December 31, 2025 and 2024, respectively, representing year-over-year growth rate of 24%. We continued to invest in our business and had net loss of $71.8 million and $69.2 million for the years ended December 31, 2025 and 2024, respectively.
+
+Factors Affecting Our Performance
+
+We believe that our future performance will depend on many factors, including, but not limited to, the following:
+
+Extending Our Technology Leadership
+
+We intend to continue to enhance our hybrid, universal, end-to-end software supply chain platform by developing new products and expanding the functionality of existing products to maintain our technology leadership.
+
+We invest heavily in integrating our products with the major package technologies so that our products can be easily adopted in any development environment. We believe that these integrations increase the value of our platform to our customers, as they provide freedom of choice for software developers, security teams, and IT operators and help avoid vendor lock-in. We intend to expend additional resources in the future to continue introducing new products, features, and functionality.
+
+Expanding Usage by Existing Customers
+
+We believe that there is a significant opportunity for growth with many of our existing customers. Many customers purchase our products through self-service channels and often materially expand their usage over time. Increased engagement with our products provides our support and customer success teams opportunities to work directly with customers and introduce them to additional products and features, as well as drive usage of our products across large teams and more broadly across organizations. Furthermore, we see expansion opportunities when customers migrate from self-managed subscriptions to SaaS solutions because customers have generally increased their platform usage levels after migration. We will continue to expand our strategic team to identify new use cases and drive expansion and standardization on JFrog within our largest customers, to maintain engineering-level customer support, and to introduce new products and features that are responsive to our customers’ needs.
+
+We quantify our expansion across existing customers through our net dollar retention rate. Our net dollar retention rate compares our annual recurring revenue (“ARR”) from the same set of customers across comparable periods. We define ARR as the annualized revenue run-rate of subscription agreements from all customers as of the last month of the quarter. The ARR includes monthly subscription customers so long as we generate revenue from these customers. We annualize our monthly subscriptions by taking the revenue we would contractually expect to receive from such customers in a given month and multiplying it by 12. We calculate net dollar retention rate by first identifying customers (the “Base Customers”), which were customers in the last month of a particular quarter (the “Base Quarter”). We then calculate the contracted ARR from these Base Customers in the last month of the same quarter of the subsequent year (the “Comparison Quarter”). This calculation captures upsells, contraction, and attrition since the Base Quarter. We then divide total Comparison Quarter ARR by total Base Quarter ARR for Base Customers. Our net dollar retention rate in a particular quarter is obtained by averaging the result from that particular quarter with the corresponding results from each of the prior three quarters. Our net dollar retention rate may fluctuate as a result of a number of factors, including the level of penetration within our customer base, expansion of products and features, and our ability to retain our customers. As of December 31, 2025 and 2024, our net dollar retention rate was 119% and 116%, respectively. We expect our net dollar retention rate to remain relatively stable, with minor fluctuations around current levels.
+
+We focus on growing the number of large customers as a measure of our ability to scale with our customers and attract larger organizations to adopt our products. As of December 31, 2025, 1,168 of our customers had ARR of $100,000 or more, increasing from 1,018 customers as of December 31, 2024. We had 74 customers with ARR of at least $1.0 million as of December 31, 2025, increasing from 52 customers as of December 31, 2024.
+
+Acquiring New Customers
+
+We believe there is a significant opportunity to grow the number of customers that use our platform. As of December 31, 2025, approximately 31% of the Forbes Global 2000 were our customers. Our operating results and growth prospects will depend in part on our ability to attract new customers. To date, we have primarily relied on our self-service and inbound sales model to attract new customers. Prospective customers can evaluate and adopt our products through our free trials and open source software options. The costs associated with providing these free trials and open source software options are included in sales and marketing. While we believe we have a significant market opportunity that our platform addresses, we will need to continue to invest in customer support, research and development, and sales and marketing in order to address this opportunity.
+
+Additionally, we believe our products address the software release needs of customers worldwide, and we see international expansion as a major opportunity. We have been operating and selling our products in international markets since our inception. While we believe global demand for our products will continue to increase as international market awareness of our brand grows, our ability to conduct our operations internationally will require considerable management attention and resources and is subject to the particular challenges of supporting a rapidly growing business in an environment of multiple languages, cultures, customs, legal and regulatory systems, alternative dispute systems, and commercial markets.
+
+Non-GAAP Financial Measures
+
+In addition to our results determined in accordance with GAAP, we believe that free cash flow, a non-GAAP financial measure, is useful in evaluating the performance of our business.
+
+Free Cash Flow
+
+Free cash flow is a non-GAAP financial measure that we calculate as net cash provided by operating activities less purchases of property and equipment. We believe this is a useful indicator of liquidity that provides information to management and investors about the amount of cash generated from our core operations that, after the purchases of property and equipment, can be used for strategic initiatives, including investing in our business, making strategic acquisitions, and strengthening our balance sheet. Free cash flow has limitations as an analytical tool, and it should not be considered in isolation or as a substitute for analysis of other GAAP financial measures, such as net cash provided by operating activities. Some of the limitations of free cash flow are that this metric does not reflect our future contractual commitments and may be calculated differently by other companies in our industry, limiting its usefulness as a comparative measure. We expect our free cash flow to fluctuate in future periods as we invest in our business to support our plans for growth.
+
+The following table summarizes our cash flows for the periods presented and provides a reconciliation of net cash from operating activities, the most directly comparable financial measure calculated in accordance with GAAP, to free cash flow, a non-GAAP financial measure, for each of the periods presented:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+(in thousands)
+
+Net cash provided by operating activities
+
+$
+
+145,729
+
+$
+
+110,924
+
+$
+
+74,155
+
+Less: purchases of property and equipment
+
+(3,460
+
+)
+
+(3,143
+
+)
+
+(1,982
+
+)
+
+Free cash flow
+
+$
+
+142,269
+
+$
+
+107,781
+
+$
+
+72,173
+
+Net cash used in investing activities
+
+$
+
+(152,268
+
+)
+
+$
+
+(165,356
+
+)
+
+$
+
+(53,476
+
+)
+
+Net cash provided by financing activities
+
+$
+
+31,210
+
+$
+
+21,231
+
+$
+
+18,371
+
+Components of Results of Operations
+
+Revenue
+
+Our revenues are comprised of revenue from self-managed subscriptions and SaaS subscriptions. Subscriptions to our self-managed software include license, support, and upgrades and updates on a when-and-if-available basis. Our SaaS subscriptions provide access to our latest managed version of our product hosted in a public cloud.
+
+Subscription—Self-Managed and SaaS
+
+Subscription—self-managed and SaaS revenue is generated from the sale of subscriptions for our self-managed software products and the sale of our SaaS subscriptions. For subscriptions to our self-managed software products, revenue is recognized
+
+ratably over the subscription term. For our SaaS subscriptions, revenue is recognized ratably over each commitment period within the subscription term, based on minimum usage commitments and any excess usage in the corresponding commitment period.
+
+License—Self-Managed
+
+The license component of our self-managed subscriptions reflects the revenue recognized by providing customers with access to proprietary software features. License revenue is recognized upfront when the software license is made available to our customer.
+
+Cost of Revenue
+
+Subscription—Self-Managed and SaaS
+
+Cost of subscription—self-managed and SaaS revenue primarily consists of expenses related to providing support to our customers and cloud-related costs, such as hosting and managing costs. These costs primarily consist of personnel-related expenses of our services and customer support personnel, share-based compensation expenses, amortization of acquired intangible assets, public cloud infrastructure costs, depreciation of property and equipment, and allocated overhead. We expect our cost of subscription and SaaS revenue to increase in absolute dollars as our subscription and SaaS revenue increases.
+
+License—Self-Managed
+
+Cost of license self-managed revenue consists of amortization of acquired intangible assets.
+
+Operating Expenses
+
+Research and Development
+
+Research and development costs primarily consist of personnel-related expenses, share-based compensation expenses, associated with our engineering personnel responsible for the design, development, and testing of our products, cost of development environments and tools, and allocated overhead. We expect that our research and development expenses will continue to increase as we increase our research and development headcount to further strengthen and enhance our products and invest in the development of our software.
+
+Sales and Marketing
+
+Sales and marketing expenses primarily consist of personnel-related expenses, share-based compensation expenses, sales commissions, public cloud infrastructure costs associated with our free trials and open source software options, and costs associated with marketing programs and user events. Marketing programs include advertising, promotional events, and brand-building activities. We plan to increase our investment in sales and marketing over the foreseeable future, as we continue to hire additional personnel and invest in sales and marketing programs.
+
+General and Administrative
+
+General and administrative expenses primarily consist of personnel-related expenses, share-based compensation expenses, associated primarily with our finance, legal, human resources and other operational and administrative functions, professional fees for external legal, accounting and other consulting services, directors and officer’s insurance expenses, and allocated overhead. We expect to increase the size of our general and administrative function to support the growth of our business.
+
+Interest and Other Income, Net
+
+Interest and other income, net primarily consists of income earned on our cash equivalents and short-term investments. Interest and other income, net also includes foreign exchange gains and losses.
+
+Income Tax Expense
+
+Income tax expense consists primarily of income taxes related to the U.S. and other foreign jurisdictions in which we conduct business. We maintain a full valuation allowance on deferred tax assets in Israel as we have concluded that it is not more likely than not that the deferred tax assets will be realized. We may recognize tax benefits from the release of valuation allowance in
+
+connection with acquisitions that create deferred tax liabilities. Our effective tax rate is affected by tax rates in foreign jurisdictions and the relative amounts of income we earn in those jurisdictions, non-deductible expenses, excess tax benefits from share-based compensation awards, and changes in our valuation allowance.
+
+Results of Operations
+
+The following tables set forth selected consolidated statements of operations data and such data as a percentage of total revenue for each of the periods indicated:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+(in thousands)
+
+Revenue:
+
+Subscription—self-managed and SaaS
+
+$
+
+502,796
+
+$
+
+406,903
+
+$
+
+330,193
+
+License—self-managed
+
+29,044
+
+21,585
+
+19,693
+
+Total subscription revenue
+
+531,840
+
+428,488
+
+349,886
+
+Cost of revenue:
+
+Subscription—self-managed and SaaS(1)(2)(3)
+
+123,337
+
+97,758
+
+76,244
+
+License—self-managed(2)
+
+Total cost of revenue—subscription
+
+123,453
+
+98,300
+
+77,043
+
+Gross profit
+
+408,387
+
+330,188
+
+272,843
+
+Operating expenses:
+
+Research and development(1)(3)
+
+195,089
+
+160,864
+
+134,584
+
+Sales and marketing(1)(2)(3)
+
+223,932
+
+190,401
+
+150,675
+
+General and administrative(1)(3)
+
+81,219
+
+70,021
+
+63,132
+
+Total operating expenses
+
+500,240
+
+421,286
+
+348,391
+
+Operating loss
+
+(91,853
+
+)
+
+(91,098
+
+)
+
+(75,548
+
+)
+
+Interest and other income, net
+
+25,816
+
+25,278
+
+21,032
+
+Loss before income taxes
+
+(66,037
+
+)
+
+(65,820
+
+)
+
+(54,516
+
+)
+
+Income tax expense
+
+5,782
+
+3,416
+
+6,740
+
+Net loss
+
+$
+
+(71,819
+
+)
+
+$
+
+(69,236
+
+)
+
+$
+
+(61,256
+
+)
+
+_________________________________________
+
+(1) Includes share-based compensation expense as follows:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+(in thousands)
+
+Cost of revenue: subscription–self-managed and SaaS
+
+$
+
+16,768
+
+$
+
+14,555
+
+$
+
+9,784
+
+Research and development
+
+58,203
+
+48,192
+
+32,689
+
+Sales and marketing
+
+55,749
+
+47,603
+
+30,338
+
+General and administrative
+
+25,937
+
+20,756
+
+22,360
+
+Total share-based compensation expense
+
+$
+
+156,657
+
+$
+
+131,106
+
+$
+
+95,171
+
+(2) Includes amortization expense of acquired intangible assets as follows:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+(in thousands)
+
+Cost of revenue: subscription–self-managed and SaaS
+
+$
+
+17,995
+
+$
+
+13,762
+
+$
+
+9,546
+
+Cost of revenue: license—self-managed
+
+Sales and marketing
+
+2,807
+
+3,274
+
+1,431
+
+Total amortization expense of acquired intangible assets
+
+$
+
+20,918
+
+$
+
+17,578
+
+$
+
+11,776
+
+(3) Includes acquisition-related costs as follows:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+(in thousands)
+
+Cost of revenue: subscription–self-managed and SaaS
+
+$
+
+—
+
+$
+
+$
+
+Research and development
+
+4,413
+
+3,782
+
+7,301
+
+Sales and marketing
+
+1,857
+
+1,087
+
+General and administrative
+
+Total acquisition-related costs
+
+$
+
+6,338
+
+$
+
+5,758
+
+$
+
+7,607
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+Revenue:
+
+Subscription—self-managed and SaaS
+
+%
+
+%
+
+%
+
+License—self-managed
+
+Total subscription revenue
+
+Cost of revenue:
+
+Subscription—self-managed and SaaS
+
+License—self-managed
+
+—
+
+—
+
+—
+
+Total cost of revenue—subscription
+
+Gross profit
+
+Operating expenses:
+
+Research and development
+
+Sales and marketing
+
+General and administrative
+
+Total operating expenses
+
+Operating loss
+
+(17
+
+)
+
+(21
+
+)
+
+(22
+
+)
+
+Interest and other income, net
+
+Loss before income taxes
+
+(12
+
+)
+
+(15
+
+)
+
+(16
+
+)
+
+Income tax expense
+
+Net loss
+
+(14
+
+)%
+
+(16
+
+)%
+
+(18
+
+)%
+
+Comparison of the Years Ended December 31, 2025 and 2024
+
+Revenue
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+Subscription—self-managed and SaaS
+
+$
+
+502,796
+
+$
+
+406,903
+
+$
+
+95,893
+
+%
+
+License—self-managed
+
+29,044
+
+21,585
+
+7,459
+
+%
+
+Total subscription revenue
+
+$
+
+531,840
+
+$
+
+428,488
+
+$
+
+103,352
+
+%
+
+The increase in total subscription revenue for the year ended December 31, 2025 compared to the year ended December 31, 2024 consisted of approximately $93.9 million growth from existing customers and the remaining attributable to new customers.
+
+Cost of Revenue and Gross Margin
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+Subscription—self-managed and SaaS
+
+$
+
+123,337
+
+$
+
+97,758
+
+$
+
+25,579
+
+%
+
+License—self-managed
+
+(426
+
+)
+
+(79
+
+)%
+
+Total cost of revenue—subscription
+
+$
+
+123,453
+
+$
+
+98,300
+
+$
+
+25,153
+
+%
+
+Gross margin
+
+%
+
+%
+
+Total cost of revenue increased for the year ended December 31, 2025 compared to the year ended December 31, 2024. The increase was primarily attributable to an increase of $10.6 million in third-party hosting costs primarily driven by increased
+
+revenue from SaaS subscriptions, an increase of $5.9 million in personnel-related expenses mainly as a result of increased headcount, an increase of $3.8 million in intangible amortization as a result of our acquisition of Qwak AI Ltd. (“Qwak”) in July 2024, and an increase of $2.2 million in share-based compensation expense as discussed in the section titled “Share-Based Compensation Expense” below.
+
+Gross margin remained consistent for the year ended December 31, 2025 compared to the year ended December 31, 2024.
+
+Operating Expenses
+
+Research and Development
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+Research and development
+
+$
+
+195,089
+
+$
+
+160,864
+
+$
+
+34,225
+
+%
+
+Research and development expense increased for the year ended December 31, 2025 compared to the year ended December 31, 2024. The increase was primarily attributable to an increase of $20.7 million in personnel-related expenses mainly as a result of increased headcount and an increase of $10.0 million in share-based compensation expense.
+
+Sales and Marketing
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+Sales and marketing
+
+$
+
+223,932
+
+$
+
+190,401
+
+$
+
+33,531
+
+%
+
+Sales and marketing expense increased for the year ended December 31, 2025 compared to the year ended December 31, 2024. The increase was primarily attributable to an increase of $11.9 million in personnel-related expenses mainly as a result of increased headcount, an increase of $8.1 million in share-based compensation expense, an increase of $7.3 million in commission expense, and an increase of $5.1 million in allocated overhead costs.
+
+General and Administrative
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+General and administrative
+
+$
+
+81,219
+
+$
+
+70,021
+
+$
+
+11,198
+
+%
+
+General and administrative expense increased for the year ended December 31, 2025 compared to the year ended December 31, 2024. The increase was primarily attributable to an increase of $5.2 million in share-based compensation expense and an increase of $5.0 million in personnel-related expenses mainly as a result of increased headcount.
+
+Share-based Compensation Expense
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+Cost of revenue: subscription–self-managed and SaaS
+
+$
+
+16,768
+
+$
+
+14,555
+
+$
+
+2,213
+
+%
+
+Research and development
+
+58,203
+
+48,192
+
+10,011
+
+%
+
+Sales and marketing
+
+55,749
+
+47,603
+
+8,146
+
+%
+
+General and administrative
+
+25,937
+
+20,756
+
+5,181
+
+%
+
+Total share-based compensation expense
+
+$
+
+156,657
+
+$
+
+131,106
+
+$
+
+25,551
+
+%
+
+The increase in share-based compensation expenses for the year ended December 31, 2025 compared to the year ended December 31, 2024 was primarily attributable to grants to new and existing employees. The increase also includes $5.4 million, mostly in research and development, related to ordinary share holdbacks and replacement equity awards from the Qwak acquisition.
+
+Interest and Other Income, Net
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+Interest and other income, net
+
+$
+
+25,816
+
+$
+
+25,278
+
+$
+
+%
+
+Interest and other income, net remained consistent for the year ended December 31, 2025 compared to the year ended December 31, 2024.
+
+Income Tax Expense
+
+Year Ended December 31,
+
+2025
+
+2024
+
+$ Change
+
+% Change
+
+(in thousands, except percentages)
+
+Income tax expense
+
+$
+
+5,782
+
+$
+
+3,416
+
+$
+
+2,366
+
+%
+
+Effective income tax rate
+
+(9
+
+)%
+
+(5
+
+)%
+
+Our effective tax rate is affected primarily by tax rates in foreign jurisdictions and the relative amounts of income we earn in those jurisdictions, non-deductible expenses, excess tax benefits from share-based compensation awards, and changes in our valuation allowance. See Note 14, Income Taxes, to the Consolidated Financial Statements for further information on the provision for income taxes.
+
+Income tax expense increased for the year ended December 31, 2025 compared to the year ended December 31, 2024 primarily due to the absence of a discrete tax benefit in Israel in 2024 attributable to the release of valuation allowance as a result of recognizing deferred tax liabilities associated with the Qwak acquisition, partially offset by higher excess tax benefits from share-based compensation awards.
+
+Liquidity and Capital Resources
+
+Since our inception, we have financed our operations primarily through cash generated from operations and sales of equity securities. Our principal uses of cash in recent periods have been funding our operations, investing in capital expenditures, and business and asset acquisitions.
+
+As of December 31, 2025, our principal sources of liquidity were cash, cash equivalents, and short-term investments of $704.4 million. Cash and cash equivalents primarily consist of cash in banks and money market funds. Short-term investments generally consist of bank deposits, certificates of deposit, commercial paper, corporate debt securities, municipal securities, and government and agency debt. We believe our existing cash, cash equivalents, and short-term investments, together with cash provided by operations, will be sufficient to meet our needs for the next 12 months, as well as in the long-term.
+
+Our future capital requirements will depend on many factors including our revenue growth rate, subscription renewal activity, billing frequency, the timing, and extent of spending to support further sales and marketing and research and development efforts, the continuing market acceptance of our products and services, as well as expenses associated with our international expansion, the timing, and extent of additional capital expenditures to invest in existing and new office spaces. We may in the future enter into arrangements to acquire or invest in complementary businesses, services, and technologies, including intellectual property rights. We may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, results of operations, and financial condition would be materially and adversely affected.
+
+The following table summarizes our cash flows for the periods presented:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+(in thousands)
+
+Net cash provided by operating activities
+
+$
+
+145,729
+
+$
+
+110,924
+
+Net cash used in investing activities
+
+$
+
+(152,268
+
+)
+
+$
+
+(165,356
+
+)
+
+Net cash provided by financing activities
+
+$
+
+31,210
+
+$
+
+21,231
+
+Operating Activities
+
+Net cash provided by operating activities of $145.7 million for the year ended December 31, 2025 was primarily related to our net loss of $71.8 million, adjusted for non-cash charges of $184.1 million, including share-based compensation expense of $156.7 million and depreciation and amortization of $24.5 million, and changes in our operating assets and liabilities of $33.5 million. Changes in operating assets and liabilities were primarily related to an increase of $67.8 million in deferred revenue and an increase of $20.8 million in accrued expense and other liabilities mainly due to higher accrued compensation and benefits. These inflows were partially offset by an increase of $29.3 million in accounts receivable, an increase of $15.1 million in net deferred contract acquisition costs, and a decrease of $8.8 million in operating lease liabilities as a result of payments. The increases in deferred revenue, accounts receivable, and deferred contract acquisition costs were driven by higher sales.
+
+Net cash provided by operating activities of $110.9 million for the year ended December 31, 2024 was primarily related to our net loss of $69.2 million, adjusted for non-cash charges of $155.0 million, including share-based compensation expense of $131.1 million and depreciation and amortization of $21.5 million, and changes in our operating assets and liabilities of $25.1 million. The total cash inflows of $74.0 million from changes in operating assets and liabilities were related to an increase of $60.1 million in deferred revenue and an increase of $13.8 million in accrued expense and other liabilities mainly due to higher accrued compensation and benefits and accrual for holdback payments related to Qwak acquisition. These inflows were partially offset by an increase of $13.5 million in accounts receivable, an increase of $12.1 million in net deferred contract acquisition costs, a decrease of $8.1 million in operating lease liabilities as a result of payments, an increase of $7.8 million in prepaid expenses and other assets, and a decrease of $7.3 million in accounts payable. The increases in deferred revenue, accounts receivable, and deferred contract acquisition costs were driven by higher sales. The changes in prepaid expenses and other assets and accounts payable were mainly due to timing of payments.
+
+Investing Activities
+
+Net cash used in investing activities of $152.3 million for the year ended December 31, 2025 consisted primarily of net purchases of short-term investments of $148.8 million.
+
+Net cash used in investing activities of $165.4 million for the year ended December 31, 2024 consisted primarily of payments for the Qwak acquisition of $156.7 million, net of cash acquired, and net purchases of short-term investments of $5.5 million.
+
+Financing Activities
+
+Net cash provided by financing activities of $31.2 million for the year ended December 31, 2025 consisted of proceeds from exercise of share options of $12.1 million, proceeds from our employee share purchase plan of $11.9 million, and net proceeds from employee equity transactions to be remitted to tax authorities or employees of $7.2 million.
+
+Net cash provided by financing activities of $21.2 million for the year ended December 31, 2024 consisted primarily of proceeds from exercise of share options of $10.4 million and proceeds from our employee share purchase plan of $8.7 million.
+
+Contractual Obligations
+
+The following table summarizes our non-cancellable contractual obligations as of December 31, 2025:
+
+Payments Due by Period
+
+Total
+
+Short-term
+
+Long-term
+
+(in thousands)
+
+Operating lease obligations
+
+$
+
+13,588
+
+$
+
+6,234
+
+$
+
+7,354
+
+Purchase obligations
+
+310,460
+
+64,547
+
+245,913
+
+Total
+
+$
+
+324,048
+
+$
+
+70,781
+
+$
+
+253,267
+
+As of December 31, 2025, we had an additional commitment of $114.0 million for an operating lease related to a facility that had not yet commenced. The lease will commence in 2026 with a lease term of 10 years.
+
+The contractual commitment amounts in the table above are associated with agreements that are enforceable and legally binding. Purchase obligations represent our commitments primarily for hosting services, software products and services under contracts with remaining terms of 12 months or longer. Obligations under contracts that we can cancel without a significant penalty are not included in the table above. We believe we will have sufficient liquidity from our operations to fulfill the commitments.
+
+Critical Accounting Estimates
+
+Our consolidated financial statements are prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, as well as related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. As events continue to evolve and additional information becomes available, our estimates and assumptions may change materially in future periods. We believe our judgments and estimates associated with the determination of standalone selling price for each performance obligation in revenue recognition, accounting for business combinations, and accounting for income taxes, which we discuss further below, could have a material impact on our consolidated financial statements.
+
+Please see Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for a summary of significant accounting policies and the effect on our financial statements.
+
+Revenue Recognition
+
+Revenue is recognized when a customer obtains control of promised goods or services are delivered. The amount of revenue recognized reflects the consideration that we expect to receive in exchange for these goods or services. Our contracts may contain multiple performance obligations, each of which is separately accounted for as a distinct performance obligation. To determine the standalone selling price for each performance obligation, we use observable standalone sales where available. In instances where observable standalone sales are not available, our estimate of the standalone selling price requires judgment. We consider multiple factors including market conditions, pricing strategies, the economic life of the software, and other observable inputs. We may also use the expected cost-plus margin approach to estimate the price we would charge if the products and services were sold separately. The standalone selling price is reassessed periodically or when facts and circumstances change.
+
+Business Combinations
+
+Accounting for business combinations requires us to make significant estimates and assumptions in determining the fair values of assets acquired and liabilities assumed, especially with respect to intangible assets. Critical estimates in valuing the acquired intangible assets include, but are not limited to, future expected cash flows from product sales, the appropriate weighted-average cost of capital, and the cost savings expected to be derived from acquiring an asset. Although we believe the assumptions and estimates we have made in the past have been reasonable and appropriate, they are based, in part, on historical experience and information obtained from management of the acquired companies and are inherently uncertain.
+
+Income taxes
+
+We are subject to income taxes in Israel, the U.S., and other foreign jurisdictions. Significant judgment is required in determining the provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and complex tax laws. We recognize and measure benefits for uncertain tax positions using a two-step approach. The first step is to determine whether it is more likely than not that a tax position will be sustained upon examination, including the resolution of any related appeals or litigation based on the technical merits of that position. The second step is to measure a tax position that meets the more-likely-than-not threshold to determine the amount of benefit to be recognized in the financial statements. We evaluate uncertain tax positions on a quarterly basis, based upon a number of factors, including changes in facts or circumstances, changes in tax law, correspondence with tax authorities during the course of audits, and effective settlement of audit issues.
+
+Significant judgment is also required in determining any valuation allowance against deferred tax assets. In assessing whether it is more likely than not that some portion or all of the deferred tax assets will not be realized, we consider all available evidence, including projected future taxable income, tax planning strategies, and past operating results. In the event that we change our determination, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.

@@ -1,0 +1,283 @@
+ITEM 1. BUSINESS
+
+Overview
+
+Dropbox, Inc. (the “Company”, “we”, or “us”) is the one place to keep life organized and keep work moving.
+
+We were founded in 2007 with a simple idea: Life would be a lot better if everyone could access their most important information anytime from any device. We’ve largely accomplished that mission by building tools to help people work from anywhere—and along the way we recognized that for most of our users, sharing and collaborating on the Dropbox, Inc. platform (“Dropbox”) was even more valuable than storing files.
+
+Our market opportunity grew as we’ve expanded from keeping files in sync to keeping teams in sync. Today, we are focused on reimagining the way work gets done by reducing the inordinate amount of time and energy the world spends on “work about work”—tedious tasks like searching for content, switching between applications, and managing workflows. We believe the need for our platform will continue to grow as teams become more fluid and global, and content is increasingly fragmented across incompatible tools and devices. Dropbox breaks down silos by centralizing the flow of information between the products and services our users prefer, even if they’re not our own. In a world where using technology at work can be fragmented and distracting, Dropbox makes it easy to focus on the work that matters.
+
+By solving these universal problems, we’ve become invaluable to our users. The popularity of our platform allows us to scale efficiently. We’ve built a thriving global business with 18.08 million paying users as of December 31, 2025.
+
+What Sets Us Apart
+
+From our founding, we’ve focused on simplifying the lives of our users. In a world where business software can be frustrating to use, challenging to integrate, and expensive to sell, we take a different approach. As businesses around the world adapt to a distributed environment, we are at the forefront of developing the technology to support them. We provide tools to help distributed teams prioritize, get organized, and keep work moving securely—from anywhere.
+
+Simple and intuitive design
+
+While traditional tools developed in the desktop age have struggled to keep up with evolving user demands, Dropbox was designed for the cloud era. We build simple, beautiful products that bring joy to our users and make it easier for them to do their best work.
+
+Open ecosystem
+
+Because people use a wide variety of devices, tools and platforms, Dropbox works across the devices, operating systems, and apps users want—from Android to iOS, Windows, Mac, desktop, and mobile. We also integrate seamlessly with other products, integrating with partners including Microsoft, Zoom, Slack (now part of Salesforce), BetterCloud, Atlassian, Google and a variety of productivity, collaboration, data management, and security vendors.
+
+Viral, bottom-up adoption
+
+Every year, millions of users sign up for Dropbox. Bottom-up adoption within organizations has been critical to our strategy and success as users increasingly choose their own tools at work. We generate over 90% of our revenue from self-serve channels—users who purchase a subscription through our app or website.
+
+Performance and security
+
+Our custom-built infrastructure allows us to maintain high standards of performance, availability, and security. Dropbox is built on proprietary, block-level sync technology to achieve industry-leading performance. We designed our platform with multiple layers of redundancy to guard against data loss and deliver high availability. We also offer numerous layers of protection, from secure file data transfer and encryption to network configuration and application-level controls.
+
+Our Solution
+
+Dropbox allows individuals, teams, and organizations to collaborate more effectively and focus on the work that matters. Anyone can sign up for free through our website or app, and upgrade to a paid subscription plan for premium features. Our
+
+customers include individuals, families, teams, and organizations of all sizes, from freelancers and small businesses to Fortune 100 companies. They work across a wide range of industries, including professional services, technology, media, education, industrial, consumer and retail, and financial services. Within companies, our platform is used by all types of teams and functions, including sales, marketing, product, design, engineering, finance, legal, and human resources.
+
+Key elements of our platform
+
+•Unified home for content. We provide a unified home for the world’s content and the relevant context around it. To date, our users have added hundreds of billions of pieces of content to Dropbox, totaling over multiple exabytes of data. When users adopt the Dropbox platform, they gain access to a digital workspace that supports the full content lifecycle—they can create and organize their content, access it from anywhere, share it with internal and external collaborators, and review feedback and history.
+
+•Global sharing network. We’ve built one of the largest collaboration platforms in the world. We cater to the needs of dynamic, dispersed teams. The overwhelming majority of our customers use Dropbox to share and collaborate. More users benefit from frictionless sharing, and powerful network effects increase the utility and stickiness of our platform.
+
+•Product experiences and integrations. The insights we glean from our community of users and our deep integrations with best-of-breed companies lead us to develop or acquire new product experiences and extend the capabilities of our platform. Products like Dropbox Backup, Dropbox Sign, DocSend, Dropbox Dash ("Dash"), Dropbox Replay, Dropbox Transfer, and Reclaim.ai, Inc. ("Reclaim") and deep integrations with companies like Microsoft, Zoom, Atlassian, Slack (now part of Salesforce), BetterCloud and Google help us provide our users with the functionality they need to do their best work. Machine learning further improves the user experience by enabling more intelligent search, better organization, and utility of information. We have also made investments in developing products that incorporate artificial intelligence ("AI") technologies, further expanding the value of our platform and deepening user engagement. Additionally, our strategic partnerships with AI-focused companies strengthen our ability to drive AI-powered innovation and reimagine digital collaboration.
+
+These elements reinforce one another to produce a powerful flywheel effect. As users create and share more content with more people, they expand our global sharing network. This network allows us to gather insights and feedback that help us create new product experiences. And with our scale, we can instantly put these innovations in the hands of millions. This, in turn, helps attract more users and content, which further propels the flywheel.
+
+Our Capabilities
+
+Dropbox is a single organized place where individuals and teams can create content, access it from anywhere, and share it with collaborators. The power of our platform lies in the breadth of our capabilities and the diverse ways our users make Dropbox work for them. We monetize through a range of subscription plans. Our platform capabilities are described below:
+
+Create
+
+Paper. With Dropbox Paper, users can co-author content, tag others, create timelines, assign tasks with due dates, embed and comment on files, tables, checklists, code snippets, and rich media—all in real-time. We designed Paper to be simple and beautiful so users can focus on the most important ideas and tasks at hand.
+
+Doc scanner. The doc scanner in our mobile app lets users create content in Dropbox from hard copies. This includes transforming everything from printed materials to whiteboard brainstorming sessions into digital documents that users can edit and share. We apply proprietary machine learning techniques to automatically detect the document being scanned, extract it from the background, fit it to a rectangular shape, remove shadows, adjust the contrast, and save it as a PDF or image file. For Dropbox Business teams, scanned content is analyzed using Optical Character Recognition so text within these scans is searchable in Dropbox.
+
+Access and organize
+
+Search. Dropbox has powerful search capabilities that allow users to quickly find the files and folders they need. Our autocomplete technology surfaces and prioritizes content based on users’ previous activity. For Dropbox Plus, Professional, and Business users, full text search allows users to scan the entire content of their files.
+
+Rich previews. Rich previews allow users to easily interact with files across any device without having to open different applications. Users can comment on, annotate, review, and present files, and see who viewed and edited them. We support previews of over 300 file types, and Dropbox users currently preview files tens of millions of times every day.
+
+Version history. As paying users work on files, our servers keep snapshots of all their changes. Users can see a file’s complete version history to reference and retrieve older versions, with version histories retained for up to 365 days for paying users, depending on the users’ subscription.
+
+Third-party ecosystem. Our open and thriving ecosystem fosters deeper relationships with our users and developers. Developers can build applications that connect to Dropbox through our DBX Developer Platform. For example, email apps can plug into Dropbox to send attachments or shared links, video-conferencing apps allow users to start meetings and share content natively from Dropbox, and eSignature apps give users the ability to manage and maintain contract workflows all from within Dropbox. As of December 31, 2025, Dropbox received over 75 billion API calls per month and just over 1,000,000 developers had registered and built applications on our platform. In addition, more than 80% of Dropbox Business teams have linked to one or more third-party applications.
+
+Rewind. Dropbox Rewind is a tool that lets a user take a folder, or their entire account, back to a specific point in time. The tool uses version history to undo changes made to files and folders, and can recover any file edits or deletions up to the last 365 days, depending on the users’ subscription.
+
+Dropbox Backup. Dropbox Backup automatically syncs folders on a user's computer to the cloud. When turned on, files on the user's PC or Mac are continuously backed up on the cloud. Any changes made in synced folders are automatically updated in the Dropbox account and on the hard drive. Dropbox Backup allows users to get up-to-date versions of files stored on the user's PC or Mac from anywhere and from any device instantly. Content is secure in the cloud, no matter what happens to the user's computer.
+
+Dash. Dropbox Dash is an AI-powered, universal search tool that enables teams to find, organize, share, and manage content across Dropbox and other connected third-party applications from a single interface. Dash uses AI to surface relevant results and insights across connected content while respecting existing permissions and security controls.
+
+Reclaim. Reclaim is an AI-powered scheduling tool that helps companies prioritize tasks and coordinate schedules with a calendar app.
+
+Share
+
+Folders. There are three types of folders in Dropbox: private, shared, and team folders. A private folder allows an individual to sync files between devices. A shared folder allows users to quickly and easily start a project space for group collaboration. A team folder, which is only available for Dropbox Business teams, is a central, administrator-managed hub where they can store and collaborate on content.
+
+Shared links. Users can share files and folders with anyone, including non-Dropbox users, by creating a Dropbox link. Once created, the link can be sent through email, text, Meta, X, instant message, or other channels. The recipient can view the file with a rich preview or see all the files in a shared folder. Dropbox Professional subscribers and Dropbox Business teams can set passwords and expiration dates and specify whether recipients can comment on or download the files.
+
+Transfer. Dropbox Transfer gives users a quick and secure way to send large files or collections of files to anyone. With Transfer, users can send up to 100 GB of files in just a few clicks, depending on the users’ subscription. Users also have the option to drag and drop files to upload from their computer, or add items stored in Dropbox. After creating a transfer, users receive a link that can be pasted anywhere and sent to anyone. Recipients receive copies of the files, so the sender’s originals remain untouched.
+
+File requests. With file requests, users can invite anyone to submit files into a specified Dropbox folder through a simple link—regardless of whether the recipient has a Dropbox account. File requests are ideal for tasks such as collecting bids from contractors or requesting submissions from coworkers and clients. All submitted files are organized into a Dropbox folder that’s private to the requesting user.
+
+Watermarking. Our Dropbox watermarking feature allows users to protect and share digital files quickly and easily. The watermark feature can be used to protect graphic designs, confidential contracts, and personal photographs. Users can create their own custom watermark and watermark any file without leaving Dropbox.
+
+DocSend. DocSend is a secure document sharing and analytics platform that gives customers visibility into what happens to their documents after they send them. DocSend technology enables customers to track who opens their documents and how
+
+much time they spend on each page, protect documents with security features like email verification and viewer whitelisting, and share multiple documents with a single link.
+
+Collaborate
+
+Comments and annotations. Dropbox comments and annotations marry content with the conversations and relevant context around it. Instead of being scattered across separate silos, such as email and chat, the editing and development of content are tied to a file. Users can give feedback on specific parts of files through a rich, innovative overlay on our web and mobile platforms.
+
+File activity stream. An activity feed lives next to every file preview on our web interface and in the desktop app, telling users what’s happening with a file. The feed shows when someone opens a file, edits a file, or shares a file.
+
+Notifications. We use real-time notifications across all our channels—web, desktop, email, and mobile—to keep users up-to-date on what’s happening with their work. Users can choose to be notified when someone opens, edits, shares, or comments on a file, or adds a file to their shared folders.
+
+Viewer information and presence. On both file previews and Paper docs, Dropbox shows users in real-time who’s viewing a doc and when a doc was last viewed by other users. On desktop, the Dropbox badge is a subtle overlay to Microsoft Word, Excel, and PowerPoint that lets users know if someone opens or edits the file they’re working in. The Dropbox badge gives users real-time insight into how others are interacting with their content, bringing modern collaboration features often found only in web-based documents to desktop files.
+
+Dropbox Sign. Dropbox Sign is an eSignature and document workflow platform that enables customers to easily sign, send, and receive documents through its intuitive web and mobile based interfaces. Once documents are signed, copies automatically sync to the user's Dropbox account.
+
+FormSwift. FormSwift is a cloud-based service that gives individuals and businesses a simple solution to create, complete, edit, and save critical business forms and agreements.
+
+Secure
+
+Security protections. We employ strong protections for all of the data on our platform.
+
+•Encryption. Dropbox file data at rest is encrypted using 256-bit Advanced Encryption Standard, or AES. To protect data in transit between Dropbox apps such as desktop, mobile, API, or web and our servers, Dropbox uses Secure Sockets Layer, or SSL, and Transport Layer Security, or TLS, for data transfer, creating a secure tunnel protected by 128-bit or higher AES encryption.
+
+•File recovery. Every deletion event in Dropbox is recorded, including when groups of files are deleted. Users can easily recover files through our web interface. Dropbox Plus subscribers may recover prior versions for up to 30 days after deletion, and Dropbox Professional and Dropbox Business subscribers may recover prior versions for up to 180 days after deletion.
+
+Administrator controls. Dropbox Business team administrators have many ways to customize security settings in both global and granular ways, including real-time detections of suspicious behavior, risky activity, and potential data leaks.
+
+•Sharing permissions: Team administrators can set up and monitor how their members share team folders, and can set sharing permissions on all folders, sub-folders, and links through the sharing tab.
+
+•Remote device wipe: Team administrators can delete their organization’s Dropbox content from a member’s linked devices, which is especially useful should someone lose a device or leave the team.
+
+•Audit log: Team administrators can monitor which members are sharing files and logging into Dropbox, among other events. They can review activity logs, create full reports for specific time ranges, and pull activity reports on specific members. Advanced and Enterprise team administrators have access to audit logs with file-event tracking.
+
+•Device approvals: Advanced and Enterprise team administrators can manage how members access Dropbox on their devices.
+
+•Tiered administrator roles: Advanced and Enterprise teams have the ability to set multiple administrator roles, each with a different set of permissions.
+
+•Network control: Enterprise team administrators can restrict personal Dropbox usage on their organization’s network.
+
+Third-party security integrations. We’ve partnered with industry-leading third parties to enable us to provide a wide range of IT processes and satisfy industry compliance standards, including:
+
+•Security information and event management: Allows Dropbox Business administrators to oversee and manage employee activity, and access sensitive data through the administrator page.
+
+•Data loss prevention: Protects sensitive data like personally identifiable information and payment card industry data stored in Dropbox Business accounts.
+
+•eDiscovery and legal hold: Enables secure search and the ability to collect and preserve electronically stored information in Dropbox Business accounts.
+
+•Digital rights management: Provides third-party encryption for company data stored in Dropbox Business accounts.
+
+•Data migration and on-premises backup: Assists in transferring large amounts of data between locations and securing sensitive information with on-site data backup.
+
+•Identity management: Allows companies to keep their Dropbox Business team authenticated with an external identity provider like Active Directory.
+
+Our Subscription Plans
+
+We offer a range of subscription plans for our users, including a free, Basic plan, paid Personal plans, and Business plans.
+
+Our Customers
+
+We’ve built a thriving global business with 18.08 million paying users. As of December 31, 2025, we had approximately 575,000 paying Dropbox Business teams. Our customer base is highly diversified, and in 2025, 2024, and 2023, no customer accounted for more than 1% of our revenue. Our customers include individuals, families, teams, and organizations of all sizes, from freelancers and small businesses to Fortune 100 companies. They work across a wide range of industries, including professional services, technology, media, education, industrials, consumer and retail, and financial services. Within companies, our platform is used by all types of teams and functions, including sales, marketing, product, design, engineering, finance, legal, and human resources.
+
+How we support our customers
+
+All of our users can access support through the following resources:
+
+•Help center: Provides an online repository of helpful information about our platform, responses to frequently asked questions, and best practices for use.
+
+•Community support: Facilitates collaboration between users on answers, solutions, and ideas about our platform in an online community.
+
+•Social media support: Provides users real-time product and service updates, and offers tips and troubleshooting information.
+
+•Guided troubleshooting: Offers step-by-step instructions to resolve common questions and provides a portal to submit help requests for questions that aren’t otherwise addressed.
+
+We also offer additional levels of support for our paying users depending on the subscription plan they choose.
+
+Our Sales and Marketing Approach
+
+As users share content and collaborate on our platform, they introduce and invite new users, driving growth. We generate over 90% of our revenue from self-serve channels, which limits customer acquisition costs.
+
+We’ve developed an efficient marketing function that’s focused on building brand awareness and reinforcing our self-serve model.
+
+Our goal is to rapidly demonstrate the value of our platform to our users in order to convert them to paying users and upgrade them to our premium offerings. This includes introducing capabilities such as Dropbox Dash, our AI-powered universal search tool, which enables users to find, organize, share, and manage content across Dropbox and other connected third-party applications from a single interface. We reach them through in-product prompts and notifications, time-limited trials of paid subscription plans, email, and lifecycle marketing. Each year, hundreds of millions of devices—including computers,
+
+phones, and tablets—are actively connected to the Dropbox platform, representing a large number of touchpoints to communicate with our users. We complement our self-serve strategy with targeted outbound sales to pursue organizations best suited to our product.
+
+Once prospects are identified, our sales team works to broaden adoption of our platform into wider-scale deployments. We also acquire some users through paid marketing and distribution partnerships in which hardware manufacturers pre-install our software on their devices.
+
+Our Technology Infrastructure and Operations
+
+Our users trust us with their most important content, and we focus on providing them with a secure and easy-to-use platform. More than 90% of our users’ data is stored on our own custom-built infrastructure, which has been designed from the ground up to be reliable and secure, and to provide annual data durability of at least 99.999999999%. We have datacenter co-location facilities in Oregon, Texas, Virginia, Paris and Hamburg.
+
+We also utilize Amazon Web Services ("AWS") for the remainder of our users’ storage needs and to help deliver our services. These AWS datacenters are located in the United States, Australia, Europe, and Japan, which allows us to localize where content is stored. Our technology infrastructure, combined with select use of AWS resources, provides us with a distributed and scalable architecture on a global scale.
+
+We designed our platform with multiple layers of redundancy to guard against data loss and deliver high availability. Incremental backups are performed hourly and full backups are performed daily. In addition, as a default, redundant copies of content are stored independently in at least two separate geographic regions and replicated reliably within each region.
+
+We make investments in technology both to improve our existing products and services and to develop new ones. We have made, and continue to make, investments in developing products that will incorporate AI, such as Dash.
+
+Our Commitment to Security, Privacy and Legal Compliance
+
+Trust is the foundation of our relationship with our users, and we take significant measures every day to protect their privacy and security.
+
+Security
+
+Our sophisticated infrastructure is designed to protect our users’ content while it is transferred, stored, and processed. We offer multiple layers of protection, including secure file data transfer, encryption, network configuration, and application-level controls. For Dropbox Business teams, our tools also empower administrators with control and visibility features that allow them to customize our platform to their organizations’ needs. Our information security policies and management framework are designed to build a culture of security, and we continually assess risks and improve the security, confidentiality, integrity, and availability of our systems. We voluntarily engage third-party security auditors to test our systems and controls at least annually against the most widely recognized security standards and regulations. We also encourage and support independent research through our bug bounty program, where we work with leading security researchers from around the world to maintain the high standards of security our users have come to expect.
+
+Dropbox supports HIPAA and HITECH compliance. We sign business associate agreements with our customers who require them in order to comply with the Health Insurance Portability and Accountability Act, or HIPAA, and the Health Information Technology for Economic and Clinical Health Act, or HITECH. We also offer a HIPAA assessment report performed by an independent third party.
+
+Privacy
+
+We are committed to keeping user data private, and are subject to a number of privacy laws and regulations such as the European Union's General Data Protection Regulation ("GDPR") and the California Consumer Privacy Act ("CCPA") in the U.S. These laws and regulations impose increasingly numerous, complex obligations on us. To address our obligations under such privacy laws and regulations, we operate a robust privacy program and have appointed a Data Protection Officer. Our privacy policy details how we process our users’ personal data as well as the steps we take to protect it. For third-party developers that create applications that connect to Dropbox, we also set forth terms and guidelines that explain their obligation to protect the privacy of our users' personal data.
+
+Other Government Regulations
+
+We are subject to compliance with various laws and regulations. These include those covering copyright, indecent content, child protection, and similar matters regarding the content stored and created on our platform as well as consumer protection laws that may impact our sales and marketing efforts, including laws related to subscriptions, billing, and auto renewal. In addition to laws and regulations governing content stored and created on our platform and consumer protection, we are also subject to anti-corruption laws and export and import regulations. The laws in these areas are often in a state of flux and can vary widely between jurisdictions. To comply with and manage our obligations under such laws and regulations, we track relevant legislative, regulatory, and contractual requirements. In addition, we have instituted processes and policies to ensure we review our business practices for appropriate compliance with such requirements.
+
+Our Competition
+
+The market for content collaboration platforms is competitive and rapidly changing. Certain features of our platform compete in the cloud storage market with products offered by Microsoft, Amazon, Apple, Google, and Adobe and in the content collaboration market with products offered by Microsoft, Atlassian, Slack (now part of Salesforce) and Google. On a more limited basis, we compete with Box in the cloud storage market for deployments by large enterprises as well as in the e-signature market along with Adobe and DocuSign and in the AI content search market along with Glean, Guru and Notion. We also compete with smaller private companies that offer point solutions in the cloud storage market or the content collaboration market.
+
+We believe that the principal competitive factors in our markets include the following:
+
+•user-centric design;
+
+•ease of adoption and use;
+
+•scale of user network;
+
+•features and platform experience;
+
+•performance;
+
+•brand;
+
+•security and privacy;
+
+•accessibility across several devices, operating systems, and applications;
+
+•third-party integration;
+
+•customer support;
+
+•continued innovation;
+
+•pricing
+
+•investments in AI; and
+
+•macroeconomic trends.
+
+We believe we compete favorably across these factors, however, some of our competitors may have greater name recognition, longer operating histories, more varied services, the ability to bundle a broader range of products and services, larger marketing budgets, established marketing relationships, access to larger user bases, major distribution agreements with hardware manufacturers and resellers, and greater financial, technical, and other resources.
+
+Intellectual Property
+
+We believe that our intellectual property rights are valuable and important to our business. We rely on patents, patent applications, trademarks, copyrights, trade secrets, know-how license agreements, confidentiality procedures, non-disclosure agreements, employee disclosure and invention assignment agreements, and other contractual rights to establish and protect our proprietary rights. In addition, from time to time we’ve purchased patents, inbound licenses, trademarks, domain names, and patent applications from third parties.
+
+We have over 1,900 issued patents and more than 280 pending patent applications in the United States and abroad. These patents and patent applications seek to protect our proprietary inventions relevant to our business. In addition, we license a number of key third-party patents in the file collaboration, storage, syncing, and sharing markets.
+
+We have trademark rights in our name, our logo, and other brand indicia, and have trademark registrations for select marks in the United States and many other jurisdictions around the world. We also have registered domain names for websites that we use in our business, such as www.dropbox.com, and similar variations.
+
+We intend to pursue additional intellectual property protection to the extent we believe it would be beneficial and cost-effective. Despite our efforts to protect our intellectual property rights, they may not be respected in the future or may be invalidated, circumvented, or challenged. In addition, the laws of various foreign countries where our products are distributed may not protect our intellectual property rights to the same extent as laws in the United States.
+
+Human Capital
+
+At Dropbox, we believe that the world can work better. But that starts with us: building a team that emphasizes the kindness and collaboration needed to grow. We believe the strength of our workforce is one of the most significant contributors to our success. As of December 31, 2025, we had 2,113 full-time employees. Of our full-time employees, 1,612 were located in the United States and 501 were employees located outside of the United States. None of our employees are represented by a labor union, except to the extent certain employees outside the United States are represented by national trade unions or local works councils. We have not experienced any work stoppages, and we believe that our employee relations are strong.
+
+Virtual First
+
+We operate in a Virtual First work model pursuant to which remote work is the primary experience for all of our employees. As a result, we have seen our workforce become more distributed over time. Teams also meet in person several times a year, using repurposed real estate called "Dropbox Studios" or flexible workspaces known as "On-Demand Spaces.” Part of Virtual First includes empowering our employees to adopt flexible working arrangements and providing tools for efficient remote collaboration and continuing to provide opportunities for in-person collaboration at “Dropbox Studios” or “On-Demand Spaces.” Additionally, we provide our employees with a quarterly allowance that can be used to cover expenses related to health and fitness, family and caregiver support, productivity and ergonomics, financial wellness, and learning and development programs, as well as resources to support their effectiveness in their work environments.
+
+Compensation and Benefits Program
+
+Our compensation program is designed to attract and reward talented individuals who possess the skills necessary to support our business, contribute to our strategic goals and create long-term value for our stockholders. We provide employees with competitive compensation packages that include base salary, annual incentive bonuses, 401(k) with a company match up to a specific threshold, and equity awards which align the interests of our employees with our stockholders. Our competitive benefits package includes medical, dental, vision, life and disability plans. In addition to these core benefits, we also provide enhanced mental health benefits, family formation benefits and our adoption and surrogacy assistance program. Our comprehensive programs also provide various leave benefits - including paid parental leave for all eligible employees.
+
+Employee Wellness and Safety
+
+We recognize the importance of the well-being of our employees. With our Virtual First work model, we remain committed to supporting their wellness and development. A component of our comprehensive health and wellness benefits package to all employees includes time-off opportunities as well as mental and physical wellness benefits. We conduct a bi-annual employee satisfaction survey to gather candid feedback from employees with focus on areas such as experience with our managers, wellness initiatives, career and company initiatives. Survey results are reviewed extensively and become part of our action plans at all levels of the organization.
+
+In addition, the safety of our employees is paramount to our success. We have a physical security policy applicable to all our employees with a global physical security team that is empowered to protect the safety of our employees in the event of emergencies or disasters.
+
+Learning and Development
+
+We want all of our employees to have thriving careers where they grow and develop in meaningful ways. We develop and provide access to internal learning and development resources to assist in professional development in various ways such as skills-building programs, on-demand learning options, mentoring programs, and leadership development courses. We launched an AI Academy with multiple tracks in 2025 to help all Dropboxers learn to use AI responsibly and more proficiently to be more productive in their roles. We also offer extensive onboarding and training programs to prepare our employees at all levels for career progression and individual development.
+
+Community
+
+We empower our employees to give back to their communities by providing paid volunteer time off, matching a portion of employee donations to nonprofits, and making product donations to nonprofit organizations nominated by our employees.
+
+Corporate Information
+
+We were incorporated in May 2007 as Evenflow, Inc., a Delaware corporation, and changed our name to Dropbox, Inc. in October 2009. In March 2025, we reincorporated in the state of Nevada. Our principal offices are located at 1800 Owens Street, San Francisco, California, 94158, and our telephone number is (415) 930-7766. Our Class A common stock is listed on the Nasdaq Global Select Market under the symbol “DBX.”
+
+Available Information
+
+Our website is located at http://www.dropbox.com/, our investor relations website is located at http://investors.dropbox.com/, and our blog is located at https://blog.dropbox.com/topics/news. We have used, and intend to continue to use, our investor relations website, our blog, press releases, public conference calls and webcasts to disclose material non-public information and to comply with our disclosure obligations under Regulation FD. The following filings are available through our investor relations website after we file them with the SEC: Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, current reports on Form 8-K, and our Proxy Statement for our annual meeting of stockholders. These filings are also available for download free of charge on our investor relations website. The SEC also maintains an Internet website that contains reports, proxy statements and other information about issuers, like us, that file electronically with the SEC. The address of that website is www.sec.gov. The contents of these websites are not incorporated into this filing. Further, the Company’s references to the URLs for these websites are intended to be inactive textual references only.

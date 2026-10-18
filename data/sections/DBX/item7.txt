@@ -1,0 +1,574 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and related notes thereto included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to such differences include, but are not limited to, those identified below and those discussed in the section titled “Risk Factors” included elsewhere in this Annual Report on Form 10-K. For a comparison of our results of operations for the fiscal years ended December 31, 2024 and 2023 see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, filed with the SEC on February 21, 2025.
+
+Overview
+
+Our modern economy runs on knowledge. Today, knowledge lives in the cloud as digital content, and Dropbox is where businesses and individuals can create, access, and share this content globally. We serve more than 700 million registered users across approximately 180 countries.
+
+Since our founding in 2007, our market opportunity grew as we’ve expanded from keeping files in sync to keeping teams in sync. In a world where using technology at work can be fragmented and distracting, Dropbox makes it easy to focus on the work that matters.
+
+By solving these universal problems, we’ve become invaluable to our users. The popularity of our platform allows us to scale efficiently. We’ve built a thriving global business with 18.08 million paying users.
+
+Our Subscription Plans
+
+We generate revenue from individuals, families, teams, and organizations by selling subscriptions to our platform, which serve the varying needs of our diverse customer base. Our subscriptions include individual licenses through our Plus, Simple, Professional or Essentials plans, or multiple licenses through our Family plan or our Standard, Advanced, Business, Business Plus and Enterprise team plans. We also offer Dash, our AI-powered universal search tool, which we offer to teams at an additional cost. Each team or family represents a separately billed deployment that is managed through a single administrative dashboard. Teams must have a minimum of three users, but can also have more than tens of thousands of users. Families can have up to six users. Customers can choose between an annual or monthly plan, with a small number of large organizations on multi-year plans. A majority of our customers opt for our annual plan, although we have seen and may continue to see an increase in customers opting for our monthly plans. We typically bill our customers at the beginning of their respective terms and recognize revenue ratably over the term of the subscription period. International customers can pay in U.S. dollars or a select number of foreign currencies.
+
+Our premium subscription plans, such as Professional and Advanced, provide more functionality than our other subscription plans and have higher per user prices. Our team subscription plans offer robust capabilities for businesses, and the vast majority of Dropbox Business teams purchase our Standard or Advanced subscription plans. While our Enterprise subscription plan offers more opportunities for customization, companies can subscribe to any of these team plans for their business needs.
+
+We offer FormSwift, our cloud-based service that gives individuals and businesses a simple solution to create, complete, edit, and save critical business forms and agreements. Customers can choose between annual or monthly subscriptions based on their individual or business needs. We typically bill FormSwift customers at the beginning of their respective terms and recognize revenue ratably over the subscription period. FormSwift primarily sells within the United States, and the majority of its sales are in U.S. dollars. We made the strategic decision to significantly reduce investments in FormSwift at the beginning of 2025, which has negatively impacted our annual recurring revenue ("ARR"), revenue and paying users in 2025.
+
+We also offer DocSend as our secure document sharing and analytics solution. DocSend offers paid subscription plans, including a Personal plan designed for individuals and Standard, Advanced, Advanced Data Rooms and Enterprise plans designed for business users and teams. Similar to Dropbox plans, pricing of DocSend's plans is based on the number of licenses purchased. Customers can choose between an annual or monthly plan, with a small number of large organizations on multi-year plans. We typically bill DocSend customers at the beginning of their respective terms and recognize revenue ratably over the subscription period. DocSend primarily sells within the United States, and the majority of sales are in U.S. dollars.
+
+We also offer Dropbox Sign, as our e-signature solution. Dropbox Sign has several product lines, and the pricing and revenue generated from each product line varies. Product lines are primarily priced based on the number of licenses purchased (similar to Dropbox plans), while some are priced based on a customer’s transaction volume. Depending on the product purchased, teams must have a minimum number of licenses, but can also have hundreds of users. Customers can choose between an annual or monthly plan, with a small number of large organizations on multi-year plans. We typically bill Dropbox Sign customers at the beginning of their respective terms and recognize revenue ratably over the subscription period. Dropbox Sign products are offered globally, with pricing primarily denominated in U.S. dollars.
+
+Our Business Model
+
+Drive new signups
+
+We acquire users efficiently and at relatively low costs through word-of-mouth referrals, direct in-product referrals, and sharing of content. Anyone can create a Dropbox account for free through our website or app and be up and running in minutes. These users often share and collaborate with other non-registered users, attracting new signups into our network.
+
+Increase conversion of registered users to our paid subscription plans
+
+We generate over 90% of our revenue from self-serve channels—users who purchase a subscription through our app or website. To grow our recurring revenue base, we actively encourage our registered users to convert to one of our paid plans based on the functionality that best suits their needs. We do this via in-product prompts and notifications, time-limited free trials of paid subscription plans, email campaigns, and lifecycle marketing. We use these tactics in combination with the goal of generating increased recurring revenues from our existing user base.
+
+Upgrade and expand existing customers
+
+We offer a range of paid subscription plans, from Plus, Simple, Professional, and Essentials for individuals to Standard, Advanced, Business, Business Plus and Enterprise for teams. We analyze usage patterns within our network and run hundreds of targeted marketing campaigns to encourage paying users to upgrade their plans. We prompt individual subscribers who collaborate with others on Dropbox to purchase our Standard, Advanced or Business, and Business Plus plans for a better team experience, and we also encourage existing Dropbox Business teams to purchase additional licenses or to upgrade to premium subscription plans. We also aim to offer additional products that expand our content collaboration capabilities, such as through our acquisitions of Dropbox Sign, DocSend and Reclaim.
+
+Recent Developments
+
+Impact of Macroeconomic Factors on our Business
+
+Our overall performance depends in part on worldwide economic and geopolitical conditions and their impact on customer behavior. Uncertain economic conditions including inflation, fluctuations in interest rates, fluctuations in foreign exchange rates, impacts of tariffs and retaliatory actions, geopolitical issues, changes in government administration policy positions, and other conditions may adversely impact our results of operations and financial performance.
+
+During the year ended December 31, 2025, our overall performance exceeded expectations, with business trends reflecting steady execution amid ongoing macroeconomic uncertainty. We saw better than expected improvements in customer retention and engagement, particularly across our Individual plans. While Teams performance showed signs of stabilization, it continues to be affected by cautious customer spend amid broader macroeconomic uncertainty. Additionally, DocSend delivered strong growth, while Sign modestly exceeded expectations.
+
+Due to our subscription-based business model, any impact of the current macroeconomic environment on our business, particularly as a result of changes in our customer behavior, may not be fully reflected in our results of operations until future periods, if at all. For a further discussion of the potential impacts of the macroeconomic environment on our business, see “Risk Factors” included in Part I, Item 1A. of this report.
+
+Key Business Metrics
+
+We review a number of operating and financial metrics, including the following key metrics to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions.
+
+Total annual recurring revenue
+
+We primarily focus on total annual recurring revenue (“Total ARR”) as the key indicator of the trajectory of our business performance. Total ARR represents the amount of revenue that we expect to recur annually, enables measurement of the progress of our business initiatives, and serves as an indicator of future growth. In addition, Total ARR is less subject to variations in short-term trends that may not appropriately reflect the health of our business; however, the changes in ARR throughout the year could be subject to seasonality. Total ARR is a performance metric and should be viewed independently of revenue and deferred revenue, and is not intended to be a substitute for, or combined with, any of these items.
+
+Total ARR consists of contributions from all of our revenue streams, including subscriptions and add-ons. We calculate Total ARR as the number of users who have active paid licenses for access to our platform as of the end of the period, multiplied by their annualized subscription price. We first include ARR related to acquired companies in our total ARR in the period of the acquisition. We adjust the exchange rates used to calculate Total ARR on an annual basis at the beginning of each fiscal year.
+
+Our ARR fluctuates and may decrease in some periods as compared to prior periods. In the near term, ARR has experienced and may continue to experience a slight decline, reflecting our strategic decision to significantly reduce investments in FormSwift at the beginning of 2025 as well as our plan to wind down operations by the end of 2026.
+
+Total ARR decreased for the period ended December 31, 2025, compared to the period ended December 31, 2024 primarily driven by our strategic decision to significantly reduce our investment in FormSwift at the beginning of 2025 and a challenging operating environment across our Teams plans, partially offset by growth in Individuals plans.
+
+The below tables set forth our Total ARR using the exchange rates set at the beginning of the applicable year, as well as on a constant currency basis relative to the exchange rates used in 2025.
+
+As of December 31,
+
+2025 | 2024
+
+(In millions)
+
+Total ARR | $ | 2,526 | $ | 2,574
+
+As of December 31,
+
+Constant Currency | 2025 | 2024
+
+(In millions)
+
+Total ARR | $ | 2,526 | $ | 2,571
+
+Revaluing our ending Total ARR for fiscal 2025 using exchange rates set at the beginning of fiscal 2026, Total ARR at the end of fiscal 2025 would be $2,562 million.
+
+Paying users
+
+We define paying users as the number of users who have active paid licenses for access to our platform as of the end of the period. One person would count as multiple paying users if the person had more than one active license. For example, a 50-person Dropbox Enterprise team would count as 50 paying users, and an individual Dropbox Plus user would count as one paying user. If that individual Dropbox Plus user was also part of the 50-person Dropbox Enterprise team, we would count the individual as two paying users. We first include paying users related to acquired companies among our paying users in the period of the acquisition.
+
+For DocSend, FormSwift and Reclaim, we define paying users as the number of users who have active paid licenses for access to our platform as of the end of the period.
+
+Dropbox Sign has several product lines and the pricing and revenue generated from each product line varies, with some product lines priced based on the number of licenses purchased (similar to Dropbox plans), while others are priced based on a customer’s transaction volume. For purposes of Dropbox Sign results, we include as paying users either (i) the number of users who have active paid licenses for access to the Dropbox Sign platform as of the period end for those products that are priced based on the number of licenses purchased (which is the same method we use to evaluate existing Dropbox plans) or (ii) the number of customers for those products that are priced based on transaction volumes.
+
+The number of paying users as of December 31, 2025 declined as compared to December 31, 2024, largely due to reduced outbound sales activity following our 2024 reduction in workforce, continued pressure on our Teams plans and our strategic decision to significantly reduce our investments in FormSwift at the beginning of 2025, offset by growth in Simple. We expect that the total number of paying users will continue to fluctuate from period to period and may continue to decrease in some periods as compared to prior periods.
+
+The below table sets forth the number of paying users as of December 31, 2025 and 2024.
+
+As of December 31,
+
+2025 | 2024
+
+(In millions)
+
+Paying users | 18.08 | 18.22
+
+Average revenue per paying user
+
+We define average revenue per paying user, or ARPU, as our revenue for the period presented divided by the average paying users during the same period. For interim periods, we use annualized revenue, which is calculated by dividing the revenue for the particular period by the number of days in that period and multiplying this value by 365 days. Average paying users are calculated based on adding the number of paying users as of the beginning of the period to the number of paying users as of the end of the period, and then dividing by two.
+
+The average revenue per paying user for the year ended December 31, 2025 decreased as compared to the year ended December 31, 2024 as a result of our strategic decision to significantly reduce our investment in FormSwift and an increased mix of sales towards our lower priced plans.
+
+The below table sets forth our ARPU for the years ended December 31, 2025 and 2024.
+
+Year Ended
+
+December 31,
+
+2025 | 2024
+
+ARPU | $ | 138.91 | $ | 140.23
+
+Non-GAAP Financial Measure
+
+In addition to our results determined in accordance with U.S. generally accepted accounting principles, or GAAP, we believe that free cash flow, or FCF, a non-GAAP financial measure, is useful in evaluating our liquidity.
+
+Free cash flow
+
+We define FCF as GAAP net cash provided by operating activities less capital expenditures. We believe that FCF is a liquidity measure and that it provides useful information regarding cash provided by operating activities and cash used for investments in property and equipment required to maintain and grow our business. FCF is presented for supplemental informational purposes only and should not be considered a substitute for financial information presented in accordance with GAAP. FCF has limitations as an analytical tool, and it should not be considered in isolation or as a substitute for analysis of other GAAP financial measures, such as net cash provided by operating activities. Some of the limitations of FCF are that FCF does not reflect our future contractual commitments, excludes investments made to acquire assets under finance leases, includes capital expenditures, and may be calculated differently by other companies in our industry, limiting its usefulness as a comparative measure.
+
+Our FCF increased for the year ended December 31, 2025, compared to the year ended December 31, 2024, primarily due to an increase in cash provided by operating activities. The increase in cash provided by operating activities was primarily due to ongoing operating efficiency initiatives and payments related to our reduction in workforce in the fourth quarter of 2024, offset by increased foreign tax and accounts payable payments, and lease termination payments related to the partial termination of our lease for our San Francisco, California corporate headquarters.
+
+We expect our FCF to fluctuate in the near term due to ongoing operating efficiency initiatives and variability in interest payments for any additional draws on our term loan facility, as well as fluctuations in market interest rates. We expect to continue purchasing infrastructure equipment to support our user base and expect a one-time incremental investment related to the build-out of our new San Francisco, California headquarters given we will vacate our current San Francisco, California headquarters due to recent sublease activity. See Note 16, "Subsequent Events" to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K. We anticipate that our capital expenditures will generally remain consistent in future periods as we continue to invest in our internal infrastructure, network and security. The timing of our operating expenses as described below, may cause FCF to vary from period to period as a percentage of revenue.
+
+The following is a reconciliation of FCF to the most comparable GAAP measure, net cash provided by operating activities:
+
+Year Ended
+
+December 31,
+
+2025 | 2024
+
+(In millions)
+
+Net cash provided by operating activities | 951.8 | 894.1
+
+Capital expenditures | (21.0) | (22.5)
+
+Free cash flow | $ | 930.8 | $ | 871.6
+
+Components of Our Results of Operations
+
+Revenue
+
+We generate revenue from sales of subscriptions to our platform.
+
+Revenue is recognized ratably over the related contractual term generally beginning on the date that our platform is made available to a customer. Our subscription agreements typically have monthly or annual contractual terms, although a small percentage have multi-year contractual terms. Our agreements are generally non-cancelable. We typically bill in advance for monthly contracts and annually in advance for contracts with terms of one year or longer. Amounts that have been billed are initially recorded as deferred revenue until the revenue is recognized.
+
+Our revenue is driven primarily by conversions and upsells to our paid plans. We also generate revenue from transaction based products and fees from the referral of users to our partners. We generate over 90% of our revenue from self-serve channels. No customer represented more than 1% of our revenue in the periods presented.
+
+Our revenue growth is impacted by both the number of paying users and our ability to increase the average revenue per paying user. Our overall paying user growth rate has declined, and we expect growth in paying users to fluctuate from period to period in the future. If we do not successfully reverse the trend of decreasing average revenue per paying user, for example through increased sales of our higher-priced subscription plans, or otherwise offset slower growth or declines in paying users, we expect our revenue and revenue growth rate to continue decreasing.
+
+Cost of revenue and gross margin
+
+Cost of revenue. Our cost of revenue consists primarily of expenses associated with the storage, delivery, and distribution of our platform for both paying users and free users. These costs, which we refer to as infrastructure costs, include depreciation of our servers located in co-location facilities that we lease and operate, rent and facilities expense for those datacenters, network and bandwidth costs, support and maintenance costs for our infrastructure equipment, and payments to third-party datacenter service providers. Cost of revenue also includes salaries, bonuses, employer payroll taxes and benefits, travel-related expenses, expenses related to our reduction in workforce in the fourth quarter of 2024, such as severance, benefits and other related items, and stock-based compensation, which we refer to as employee-related costs, for employees whose primary responsibilities relate to supporting our infrastructure and delivering user support. Other non-employee costs included in cost of revenue include credit card fees related to processing customer transactions, and allocated overhead, such as facilities, including rent, utilities, depreciation on leasehold improvements and other equipment shared by all departments, and shared information technology costs. In addition, cost of revenue includes amortization of developed technologies, professional fees related to user support initiatives, and property taxes related to datacenter equipment.
+
+We plan to continue increasing the capacity and enhancing the capability and reliability of our infrastructure to support user growth and increased use of our platform. We expect that cost of revenue will increase in absolute dollars in both the near term and long term.
+
+Gross margin. Gross margin is gross profit expressed as a percentage of revenue. Our gross margin may fluctuate from period to period based on the timing of additional capital expenditures and the related depreciation expense, or other increases in our infrastructure costs, as well as revenue fluctuations. We expect gross margin to remain relatively constant in both the near term and long term.
+
+Operating expenses
+
+Research and development. Our research and development expenses consist primarily of employee-related costs for our engineering, product, and design teams, expenses related to our reduction in workforce in the fourth quarter of 2024, such as severance, benefits and other related items, compensation expenses related to key personnel from acquisitions and allocated overhead. These groups are responsible for the design, development, testing, delivery of new technologies and features, and support of our self-serve platform. We continue to focus our product development efforts on adding new features and enhancing the functionality and ease of use of our offerings. Additionally, research and development expenses include internal development-related third-party hosting fees. We have expensed almost all of our research and development costs as they were incurred.
+
+We expect that research and development costs will decrease in absolute dollars and as a percentage of revenue in both the near term and long term as we continue to drive operating efficiencies across the business, partially offset by ongoing investment in key growth initiatives.
+
+Sales and marketing. Our sales and marketing expenses relate to both self-serve and outbound sales activities, and consist primarily of employee-related costs, expenses related to our reduction in workforce in the fourth quarter of 2024, such as severance, benefits and other related items, advertising costs, brand marketing costs, lead generation costs, sponsorships and allocated overhead. Sales commissions earned by our outbound sales team and the related payroll taxes, as well as commissions earned by third-party resellers that we consider to be incremental and recoverable costs of obtaining a contract with a customer, are deferred and are typically amortized over an estimated period of benefit of five years. Additionally, sales and marketing expenses include non-employee costs related to app store fees, fees payable to third-party sales representatives and amortization of acquired customer relationships.
+
+We expect that sales and marketing expenses will remain consistent in absolute dollars in the near term and could fluctuate in the long term as we seek to grow our user base and increase our brand awareness while also retaining flexibility to invest in growth.
+
+General and administrative. Our general and administrative expenses consist primarily of employee-related costs for our legal, finance, human resources, and other administrative teams, as well as certain executives. In addition, general and administrative expenses include expenses related to our reduction in workforce in the fourth quarter of 2024, such as severance, benefits and other related items, allocated overhead, outside legal, accounting and other professional fees, and non income-based taxes.
+
+We expect to incur additional general and administrative expenses to support the growth of the Company. We expect that general and administrative expenses will fluctuate in absolute dollars in future periods and remain relatively constant in both the near term and the long term as a percentage of revenue.
+
+Net (gain) loss on real estate assets
+
+Net (gain) loss on real estate assets consists of gains and losses related to real estate and lease activity, including impairment charges. See Note 9, "Leases" to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+Interest (expense) income, net
+
+Interest (expense) income, net consists primarily of interest expense related to our term loan facility, finance lease obligations for infrastructure and amortization of debt issuance costs, offset by interest income earned on our investments classified as cash and cash equivalents, and short-term investments. We expect that interest (expense), income, net may fluctuate in both the near term and the long term, depending on the timing and magnitude of any additional draws on our term loan facility, as well as changes in market interest rates.
+
+Other income, net
+
+Other income, net consists of other non-operating gains or losses, including those related to gains or losses on sale of assets, foreign currency transaction gains and losses, lease arrangements, which include sublease income, and gains and losses related to our short-term investments.
+
+Provision for income taxes
+
+Provision for income taxes consists of U.S. federal, state and foreign jurisdiction income taxes. For 2025 and 2024, the difference between the U.S. statutory rate and our effective tax rate is primarily due to the jurisdictional mix of earnings, tax credits, state income taxes, stock-based compensation, and changes to our unrecognized tax benefits.
+
+Results of Operations
+
+The following tables set forth our results of operations for the periods presented:
+
+Year Ended
+
+December 31,
+
+2025 | 2024
+
+(In millions)
+
+Revenue | $ | 2,521.0 | $ | 2,548.2
+
+Cost of revenue(1)(2)
+500.8 | 445.1
+
+Gross profit | 2,020.2 | 2,103.1
+
+Operating expenses:
+
+Research and development(1)(2)
+732.0 | 914.9
+
+Sales and marketing(1)(2)
+369.9 | 460.7
+
+General and administrative(1)(2)
+230.5 | 241.2
+
+Net (gain) loss on real estate assets(3)
+(1.3) | 0.1
+
+Total operating expenses | 1,331.1 | 1,616.9
+
+Income from operations | 689.1 | 486.2
+
+Interest (expense) income, net | (78.6) | 13.9
+
+Other income, net | 7.1 | 9.7
+
+Income before income taxes | 617.6 | 509.8
+
+Provision for income taxes | (109.2) | (57.5)
+
+Net income | $ | 508.4 | $ | 452.3
+
+(1) Includes stock-based compensation as follows:
+
+Year Ended
+
+December 31,
+
+2025 | 2024
+
+(In millions)
+
+Cost of revenue | $ | 20.6 | $ | 22.9
+
+Research and development | 211.2 | 247.6
+
+Sales and marketing | 20.7 | 23.7
+
+General and administrative | 48.3 | 52.3
+
+Total stock-based compensation | $ | 300.8 | $ | 346.5
+
+(2) Includes expenses related to the Company's reduction in workforce such as severance, benefits and other related items during the years ended December 31, 2025 and 2024. See Note 1, "Description of the Business and Summary of Significant Accounting Policies - Reduction in Workforce" to the Company's consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+(3) See Note 9, "Leases" to the Company's consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+The following table sets forth our results of operations for each of the periods presented as a percentage of revenue:
+
+Year Ended
+
+December 31,
+
+2025 | 2024
+
+(As a % of revenue)*
+
+Revenue | 100 | % | 100 | %
+
+Cost of revenue(1)(2)
+20 | 17
+
+Gross profit | 80 | 83
+
+Operating expenses:
+
+Research and development(1)(2)
+29 | 36
+
+Sales and marketing(1)(2)
+15 | 18
+
+General and administrative(1)(2)
+9 | 9
+
+Net (gain) loss on real estate assets(3)
+— | —
+
+Total operating expenses | 53 | 63
+
+Income from operations | 27 | 19
+
+Interest (expense) income, net | (3) | 1
+
+Other income, net | — | —
+
+Income before income taxes | 24 | 20
+
+Provision for income taxes | (4) | (2)
+
+Net income | 20 | % | 18 | %
+
+(1) Includes stock-based compensation as a percentage of revenue as follows:
+
+Year Ended
+
+December 31,
+
+2025 | 2024
+
+(As a % of revenue)*
+
+Cost of revenue | 1 | % | 1 | %
+
+Research and development | 8 | 10
+
+Sales and marketing | 1 | 1
+
+General and administrative | 2 | 2
+
+Total stock-based compensation | 12 | % | 14 | %
+
+(2) Includes expenses related to the Company's reduction in workforce such as severance, benefits and other related items during the years ended December 31, 2025 and 2024. See Note 1, "Description of the Business and Summary of Significant Accounting Policies - Reduction in Workforce" to the Company's consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+(3) See Note 9, "Leases" to the Company's consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+*Percentages may not foot due to rounding.
+
+Comparison of the years ended December 31, 2025 and 2024,
+
+Revenue
+
+Year Ended
+
+December 31,
+
+2025 | 2024 | $ Change | % Change
+
+(In millions)
+
+Revenue | $ | 2,521.0 | $ | 2,548.2 | $ | (27.2) | (1.1) | %
+
+Revenue decreased $27.2 million or 1.1% during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to our strategic decision to significantly reduce our investment in FormSwift and a challenging Teams environment, offset by growth in our Individuals plans. Revenue was positively impacted by changes in foreign exchange rates across multiple currencies.
+
+Cost of revenue, gross profit, and gross margin
+
+Year Ended
+
+December 31,
+
+2025 | 2024 | $ Change | % Change
+
+(In millions)
+
+Cost of revenue | $ | 500.8 | $ | 445.1 | $ | 55.7 | 12.5 | %
+
+Gross profit | 2,020.2 | 2,103.1 | (82.9) | (3.9) | %
+
+Gross margin | 80 | % | 83 | %
+
+Cost of revenue increased $55.7 million or 12.5% during the year ended December 31, 2025, as compared to the year ended December 31, 2024. This increase was primarily driven by a $53.1 million increase in infrastructure costs, including costs associated with adding equipment in support of our data center refresh cycle and data center facilities costs. Additionally, we saw a smaller benefit in depreciation expense compared to the 2024 period as a result of the change in useful lives from four to five years of certain infrastructure and component assets which was effective January 1, 2024.
+
+Our gross margin decreased during the year ended December 31, 2025 compared to the year ended December 31, 2024, primarily due to a 12.5% increase in our cost of revenue as described above and a 1.1% decrease in revenue during the period.
+
+Research and development
+
+Year Ended
+
+December 31,
+
+2025 | 2024 | $ Change | % Change
+
+(In millions)
+
+Research and development | $ | 732.0 | $ | 914.9 | $ | (182.9) | (20.0) | %
+
+Research and development expenses decreased $182.9 million or 20.0% during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to decreases of $147.8 million in employee-related costs driven by a decrease in headcount and $32.0 million in allocated overhead.
+
+Sales and marketing
+
+Year Ended
+
+December 31,
+
+2025 | 2024 | $ Change | % Change
+
+(In millions)
+
+Sales and marketing | $ | 369.9 | $ | 460.7 | $ | (90.8) | (19.7) | %
+
+Sales and marketing expenses decreased $90.8 million or 19.7% during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to a decrease of $52.3 million related to advertising due to our strategic
+
+decision to significantly reduce our investments in FormSwift and other marketing related expenses as well as a decrease of $31.8 million in employee-related costs driven by a decrease in headcount.
+
+General and administrative
+
+Year Ended
+
+December 31,
+
+2025 | 2024 | $ Change | % Change
+
+(In millions)
+
+General and administrative | $ | 230.5 | $ | 241.2 | $ | (10.7) | (4.4) | %
+
+General and administrative expenses decreased $10.7 million or 4.4% during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to decreases of $7.4 million in outside services and $6.5 million in allocated overhead.
+
+Net (gain) loss on real estate assets
+
+Year Ended
+
+December 31,
+
+2025 | 2024 | $ Change | % Change
+
+(In millions)
+
+Net (gain) loss on real estate assets
+$ | (1.3) | $ | 0.1 | $ | (1.4) | (1,400) | %
+
+Net gain on real estate assets was $1.3 million for the year ended December 31, 2025, primarily resulting from a reduction of the liability for unrecoverable common area maintenance costs related to our San Francisco, California corporate headquarters due to recent sublease activity. Net loss on real estate assets was $0.1 million for the year ended December 31, 2024, primarily due to changes in the corporate real estate market, which impacted our subleasing strategy in conjunction with our Virtual First work model.
+
+Interest (expense) income, net
+
+Interest (expense) income, net changed by $92.5 million during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to an increase in interest expense related to our term loan facility entered into in the fourth quarter of 2024.
+
+Other income, net
+
+Other income, net decreased by $2.6 million during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to a $2.0 million increase in foreign currency transaction losses.
+
+Provision for income taxes
+
+Provision for income taxes increased $51.7 million during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to an increase in income before taxes, a reduction in tax credits, and increases to our unrecognized tax benefits in the current year, as compared to reductions to our uncertain tax positions in the prior year due to an effective settlement with a foreign taxing authority.
+
+On July 4, 2025, the OBBBA was enacted in the U.S. The OBBBA includes significant provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework, and the restoration of favorable tax treatment for certain business provisions. OBBBA reduced our U.S. cash tax payments in 2025, but increased tax expense, primarily due to limits to the availability of certain credits and deductions resulting from the reinstatement of immediate expensing for U.S. research expenditures.
+
+Liquidity and Capital Resources
+
+As of December 31, 2025, we had cash and cash equivalents of $891.3 million and short-term investments of $146.9 million, which were held for working capital purposes. Our cash, cash equivalents, and short-term investments consist primarily of cash, money market funds, corporate notes and obligations, U.S. Treasury securities, asset-backed securities, U.S. agency obligations, supranational securities, and municipal securities. As of December 31, 2025, $413.8 million of our cash and cash equivalents was held by our foreign subsidiaries. We do not expect to incur material taxes in the event we repatriate any of these amounts. Our cash is held at several large financial institutions and our investments are focused on the preservation of capital, fulfillment of our liquidity needs, and maximization of investment performance within the parameters set forth in our investment policy and subject to market conditions. The investment policy sets forth credit rating minimums, permissible allocations, and limits our exposure to specific investment types. We believe these policies mitigate our exposure to risk concentrations.
+
+We have historically financed our operations primarily through cash generated from our operations, the Notes (as defined below) issuance, borrowings from our term loan facility, equity issuances, and finance leases for our infrastructure-related assets in co-location facilities that we directly lease and operate. We enter into finance leases in part to better match the timing of payments for infrastructure-related assets with that of cash received from our paying users. In our business model, some of our registered users convert to paying users over time, and consequently there is a lag between initial investment in infrastructure assets and cash received from some of our users. We also have delayed draw term loan features as part of the term loan facility for additional working capital flexibility, as described below.
+
+In February 2021, we issued approximately $1.4 billion in aggregate principal amount of the 2026 Notes and the 2028 Notes (together the "Notes"), comprised of $695.8 million in aggregate principal amount of 2026 Notes and $693.3 million in aggregate principal amount of 2028 Notes. The net proceeds from the issuance of the 2026 Notes and 2028 Notes were $684.8 million, net of debt issuance costs, and $682.3 million, net of debt issuance costs, respectively. The 2026 Notes mature on March 1, 2026 and the 2028 Notes mature on March 1, 2028. The Notes of each series do not bear regular interest and the principal does not accrete. The Notes of each series may bear special interest as the remedy relating to our failure to comply with certain of our reporting obligations. These Notes can be converted or repurchased prior to maturity if certain conditions are met.
+
+In December 2024, we entered into a secured five-year term loan facility in an aggregate principal amount of up to $2.0 billion, consisting of initial term loans and initial delayed draw term loan commitments (the "initial delayed draw term loans") each in an aggregate principal amount of up to $1.0 billion, respectively. The terms of the initial Credit Agreement also provide for a secured letter of credit facility in an aggregate amount of up to $35.0 million. In September 2025, we entered into the First Amendment to the term loan facility which provided for additional secured delayed draw term loan commitments in an aggregate principal amount of up to $700.0 million (the "2025 delayed draw term loans"). The 2025 delayed draw term loans may be borrowed solely for the purpose of prepaying, repaying, repurchasing, redeeming, exchanging or settling upon conversion the 2026 Notes. We expect to pay the 2026 Notes using proceeds from the loans prior to or at maturity in 2026.
+
+The initial term loans and initial delayed draw term loans have a maturity date of December 11, 2029 and the 2025 delayed draw term loans have a maturity date of September 9, 2030. Quarterly principal payments for the initial term loans and initial delayed draw term loans began on March 31, 2025 and on the last business day of the quarter after the funding of such loans, respectively, and will continue on the last business day of each quarter thereafter, equal to 0.25% of the original principal amount of such term loans or such greater percentage as may be required to make the initial delayed draw term loans fungible with any then-outstanding term loans. Quarterly repayments of 0.25% of the original principal amount of the 2025 delayed draw term loans are required beginning on the last business day of the quarter after the funding of such loans and continuing thereafter. As of December 31, 2025, we had $1,488.3 million of outstanding initial term loans and initial delayed draw term loans, no outstanding 2025 delayed draw term loans, and $1,200.0 million available to draw on the term loan facility. As of December 31, 2025, $17.5 million letters of credit were issued under the letter of credit facility.
+
+Interest on borrowings under the term loan facility accrues at either an alternate base rate plus a margin of 2.75% or a term SOFR rate plus a margin of 3.75% (further described in Note 8 "Debt") at our option. Pursuant to the terms of the Amended Credit Agreement, we are required to pay a quarterly commitment fee that accrues at a rate of 1.00% per annum on both the unused portion of the initial delayed draw term loan commitments and the unused portion of the 2025 delayed draw term loans. The 2025 delayed draw term loans commitment fees started accruing on the unused portion three months after the effective date of the First Amendment.
+
+The term loan facility permits the Company, subject to satisfaction of certain conditions, including obtaining commitments from new or existing lenders, to add new term loan facilities or increase the term loan commitments under the term loan agreement, in each case, subject to certain limits. Additionally, the Amended Credit Agreement contains customary
+
+representations and warranties, customary affirmative and negative covenants, and customary events of default. Failure to comply with these covenants may result in a portion of the outstanding term loan debt becoming due immediately. We were in compliance with all covenants under the term loan facility as of December 31, 2025.
+
+As of December 31, 2025, we have utilized a significant portion of our U.S. federal, state and foreign net operating losses. Future utilization of remaining net operating loss and research credit carryforwards are subject to statutory limits.
+
+We believe our existing cash and cash equivalents, together with our short-term investments, cash provided by operations and amounts available under the term loan facility, will be sufficient to meet our needs for the foreseeable future. In addition to the Notes and obligations under the term loan facility discussed above, as of December 31, 2025, we have cash commitments due to additional known contractual obligations. Our cash commitments due to known contractual obligations primarily relate to operating and finance lease arrangements. As of December 31, 2025, we additionally had $91.4 million of commitments with third-party vendors for services related to our infrastructure, infrastructure warranty contracts, and asset retirement obligations for office modifications, with terms of 11 years or less.
+
+Our operating lease arrangements consist of leases for our offices and datacenters with terms of 11 years or less. As of December 31, 2025, future non-cancelable minimum rental payments related to operating leases were $646.1 million, which includes $162.9 million of future contractual rent payments allocated to non-lease components, and excludes rent payments from our subtenants and variable operating expenses. As of December 31, 2025, we are entitled to non-cancelable rent payments from our subtenants of $65.9 million, which will be collected over the next 8 years. Our finance lease arrangements primarily consist of leases for our infrastructure with terms of 4 years or less. As of December 31, 2025, future non-cancelable minimum rental payments under finance leases were$373.1 million. Refer to Note 9, "Leases", for more information.
+
+Our principal uses of cash in recent periods have been funding our operations, repurchases of our Class A common stock, the satisfaction of tax withholding obligations in connection with the settlement of restricted stock units ("RSUs") and restricted stock awards ("RSAs"), making principal payments on our finance lease obligations, and capital expenditures. Our Board of Directors has authorized three separate $1.2 billion Class A common stock repurchase programs since February 2022, with authorizations in February 2022, July 2023 and December 2024. We completed the February 2022, July 2023 and December 2024 authorizations during the three months ended March 31, 2024, March 31, 2025, and December 31, 2025 respectively. In August 2025, our Board of Directors authorized a new repurchase program of up to an additional $1.5 billion of the outstanding shares of our Class A common stock. Share repurchases are made from time-to-time in private transactions or open market purchases as permitted by securities laws and other legal requirements and are subject to a review of the circumstances in place at that time, including prevailing market prices. The program does not obligate us to repurchase any specific number of shares and has no specified time limit; it may be discontinued at any time. During the year ended December 31, 2025, we repurchased and subsequently retired 60.4 million shares of our Class A common stock for an aggregate amount of $1.7 billion. This amount includes the 1% excise tax under the Inflation Reduction Act, as well as repurchase execution costs incurred in connection with our share repurchase program. The pace of our share repurchases may fluctuate due to various circumstances, including market conditions, our stock price, and other strategic investments.
+
+Our future capital requirements will depend on many factors including our revenue growth rate, subscription renewal activity, billing frequency, the timing and extent of spending to support further infrastructure development and research and development efforts, the timing and extent of additional capital expenditures to invest in infrastructure equipment to support our user base, our ability to sublease space at office locations where we have unused spaces, the satisfaction of tax withholding obligations for the release of restricted stock units and awards, investments in sales and marketing, the expansion of international operations, the introduction of new product capabilities and enhancement of our platform, the continuing market acceptance of our platform, and the volume, timing, and amount of our share repurchases. In addition, we have and may in the future enter into arrangements to acquire or invest in complementary businesses, services, and technologies, including intellectual property rights. In light of all these circumstances, we may be required to seek additional equity or debt financing, or we may decide to do so opportunistically. In the event that additional financing is required or desired from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, results of operations, and financial condition could be materially and adversely affected.
+
+Our cash flow activities were as follows for the periods presented:
+
+Year Ended
+
+December 31,
+
+2025 | 2024
+
+(In millions)
+
+Net cash provided by operating activities | $ | 951.8 | $ | 894.1
+
+Net cash provided by investing activities | 111.9 | 443.8
+
+Net cash used in financing activities | (1,530.7) | (586.6)
+
+Effect of exchange rate changes on cash and cash equivalents | 12.4 | (5.7)
+
+Net (decrease) increase in cash and cash equivalents | $ | (454.6) | $ | 745.6
+
+Operating activities
+
+Our largest source of operating cash is cash collections from our paying users for subscriptions to our platform. Our primary uses of cash from operating activities are for employee-related expenditures, infrastructure-related costs, and marketing expenses. Net cash provided by operating activities is impacted by our net income adjusted for certain non-cash items, including stock-based compensation, depreciation and amortization expenses, as well as the effect of changes in operating assets and liabilities.
+
+For the year ended December 31, 2025, net cash provided by operating activities was $951.8 million, which primarily consisted of our net income of $508.4 million, adjusted for stock-based compensation expense of $300.8 million, depreciation and amortization expenses of $157.4 million, and net cash outflow of $126.8 million from operating assets and liabilities. The outflow from operating assets and liabilities was primarily due to the payment of our 2024 corporate bonus, the payment for the third tranche termination fee for the partial termination of our lease for our San Francisco, California corporate headquarters, and payments related to our operating leases.
+
+The increase of $57.7 million in net cash provided by operating activities during the year ended December 31, 2025, compared to the year ended December 31, 2024, was primarily due to an increase of $73.0 million in net income, as adjusted for stock-based compensation, depreciation and amortization expenses, and other non-cash (gains) losses, partially offset by an increase of $15.3 million in cash outflows from changes in operating assets and liabilities. The increase in cash outflows is primarily driven by an increase in foreign tax and accounts payable payments, and an increase in termination fee payments related to the partial termination of our lease for our San Francisco, California corporate headquarters, offset by the payments related to our reduction in workforce in the fourth quarter of 2024.
+
+Investing activities
+
+Net cash provided by investing activities is primarily impacted by net investment activity, which includes sales, maturities, and purchases of short-term investments, cash paid for acquisitions, and for purchasing infrastructure equipment in co-location facilities that we directly lease and operate.
+
+For the year ended December 31, 2025, net cash provided by investing activities was $111.9 million, which primarily related to $124.8 million in investment activity inflows, driven by the maturities of short-term investments. The increase was partially offset by cash paid for acquisitions of $13.1 million.
+
+The decrease of $331.9 million in net cash provided by investing activities during the year ended December 31, 2025, compared to the year ended December 31, 2024, was primarily due to a decrease of $368.3 million in net investment activity inflows and a decrease in cash receipts from equipment rebates of $15.2 million, offset by a decrease of $44.7 million in cash paid for acquisitions.
+
+Financing activities
+
+Net cash used in financing activities is primarily impacted by cash used for repurchases of common stock, tax withholding obligations for the release of restricted stock units and restricted stock awards, principal payments on finance lease obligations for our infrastructure equipment, principal payments on amounts drawn upon the term loan facility, payments of debt issuance costs and loan commitment fees related to the term loan facility, and payments of acquisition-related indemnity holdback amounts, offset by proceeds from the term loan facility.
+
+For the year ended December 31, 2025, net cash used in financing activities was $1,530.7 million, which primarily consisted of $1,713.9 million for the repurchase of our common stock, $151.0 million for the satisfaction of tax withholding obligations for the release of restricted stock units and awards, $128.6 million in principal payments on finance lease obligations, $11.6 million in principal payments against the term loan facility, and $21.6 million in payments of debt issuance costs and loan commitment fees under the term loan facility. The outflow was offset by $500.0 million in proceeds from the term loan facility.
+
+The increase of $944.1 million in net cash used in financing activities during the year ended December 31, 2025, compared to the year ended December 31, 2024, was primarily due to a decrease of $500.0 million in proceeds from the term loan facility, an increase of $472.3 million in repurchases of our common stock, and an increase of $11.6 million in principal payments against the term loan facility, offset by a decrease of $28.5 million in payments of debt issuance costs and loan commitment fees and a decrease of $13.6 million in cash paid for the release of acquisition-related indemnity holdback payments after the acquisition date in accordance with the merger agreement.
+
+Significant Impacts of Stock-Based Compensation
+
+Co-Founder Grant
+
+In December 2017, the Board of Directors approved the grant to Drew Houston, the Company's Co-Founder and Chief Executive Officer, of 10.3 million shares of Class A common stock in the form of RSAs (the "Co-Founder Grant"). This Co-Founder Grant has service-based, market-based, and performance-based vesting conditions. The Co-Founder Grant is excluded from Class A common stock issued and outstanding until the satisfaction of these vesting conditions. The Co-Founder Grant also provides the holder with certain stockholder rights, such as the right to vote the shares with the other holders of Class A common stock and a right to cumulative declared dividends.
+
+The Co-Founder Grant is eligible to vest over the ten-year period following the date the Company’s shares of Class A common stock commenced trading on the Nasdaq Global Select Market in connection with the Company’s IPO. The Co-Founder Grant is comprised of nine tranches that are eligible to vest based on the achievement of stock price goals, each of which are referred to as a Stock Price Target, measured over a consecutive thirty-day trading period during the Performance Period. The Performance Period began on January 1, 2019.
+
+Company Stock Price
+
+Target | Shares Eligible to Vest for
+
+Mr. Houston
+
+$30.00 | 2,066,667
+
+$37.50 | 1,033,334
+
+$45.00 | 1,033,334
+
+$52.50 | 1,033,333
+
+$60.00 | 1,033,333
+
+$67.50 | 1,033,333
+
+$75.00 | 1,033,333
+
+$82.50 | 1,033,333
+
+$90.00 | 1,033,333
+
+The Performance Vesting Condition for the Co-Founder Grant was satisfied on the date the Company’s shares of Class A common stock commenced trading on the Nasdaq Global Select Market in connection with the Company’s IPO, which was March 23, 2018.
+
+The first tranche of the Co-Founder Grant, or 2.1 million shares of Class A common stock, vested in the fourth quarter of 2021. The stock-based compensation expense for the Co-Founder Grant was recognized utilizing the accelerated attribution method over the requisite service period identified as the derived service period over which the market conditions are expected to be achieved, and is not reversed if the market conditions are not satisfied. As of December 31, 2024, the Company had fully recognized all related stock-based compensation expense.
+
+Critical Accounting Estimates
+
+Our consolidated financial statements and the related notes thereto included elsewhere in this Annual Report on Form 10-K are prepared in accordance with generally accepted accounting principles, or GAAP, in the United States. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from the estimates made by management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+
+While our significant accounting policies are more fully described in Note 1 “Description of the Business and Summary of Significant Accounting Policies” to our Consolidated Financial Statements in Part II, Item 8 of this Annual Report on Form 10-K, we believe that the accounting policies described below involve a greater degree of judgment and estimation uncertainty.
+
+Income Taxes
+
+Deferred income tax balances reflect the effects of temporary differences between the financial reporting and tax bases of our assets and liabilities using enacted tax rates expected to apply when taxes are actually paid or recovered. In addition, deferred tax assets are recorded for net operating loss and credit carryforwards.
+
+A valuation allowance is provided against deferred tax assets unless it is more likely than not that they will be realized based on all available positive and negative evidence. Such evidence, which requires management's judgment, includes, but is not limited to, recent cumulative earnings or losses, expectations of future taxable income by taxing jurisdiction, and the carry-forward periods available for the utilization of deferred tax assets. Any changes in our assessment of the realizability of deferred tax assets would result in a corresponding increase or decrease to income tax expense in the period in which such change is recorded.
+
+We are subject to income taxes in the United States and various foreign jurisdictions and are required to make judgments and estimates in determining our provision for income taxes, including the recognition and measurement of uncertain tax positions. We recognize the tax benefit of an uncertain tax position only if it is more likely than not that the position will be sustained upon examination by the applicable taxing authority, based on the technical merits of the position. The evaluation of uncertain tax positions can require significant judgment and may involve assumptions regarding the interpretation and application of complex tax laws, and the resolution of issues with taxing authorities. These judgments may change as a result of new information, including changes in tax law, regulations, or interpretations thereof, the outcome of tax audits, or refinements to our estimates. Although we believe that our estimates related to uncertain tax positions are reasonable, the ultimate outcome of these matters may differ from our estimates. Any such differences could materially affect our provision for income taxes, effective tax rate, and cash flows in the period in which the matter is resolved.
+
+Refer to Note 14, “Income Taxes” to the Consolidated Financial Statements in Part II, Item 8 of this Annual Report on Form 10-K for more information.
+
+Recent Accounting Pronouncements
+
+See Note 1, “Description of the Business and Summary of Significant Accounting Policies” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for recently adopted accounting pronouncements as of the date of this Annual Report on Form 10-K.

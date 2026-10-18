@@ -1,0 +1,43 @@
+{
+  "ticker": "DBX",
+  "accession_number": "0001467623-26-000008",
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "full_text_words": 66493,
+  "sections": {
+    "item1": {
+      "words": 5552,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5552,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 9218,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          9218,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 293
+    }
+  },
+  "notes": [],
+  "human_capital_words": 676,
+  "human_capital_found": true,
+  "people_paragraph_words": 924
+}
