@@ -19,15 +19,11 @@ model: "claude-opus-5-5"
 # it doesn't depend on each teammate's personal Claude Code settings.
 effort: "high"
 
-# Which 10-K sections the AI reads. Three options:
-#   [item1]                   Item 1 (Business) only
-#   [item1, item7_targeted]   Item 1 + "targeted MD&A": only the MD&A
-#                             paragraphs that mention foundation, community,
-#                             education, small business, artists, etc.
-#   [item1, item7]            Item 1 + the full MD&A (about 7x more usage)
-# TODO (UNDECIDED): which option the full run uses. The test compares all
-# three. Until the team decides, keep [item1].
-sections: [item1]
+# Which 10-K sections the AI reads. Decided (Rubric v2.1): Item 1 +
+# "targeted MD&A" (only the MD&A paragraphs that mention foundation,
+# community, education, small business, artists, etc.).
+# Other options, for tests only: [item1] or [item1, item7] (full MD&A).
+sections: [item1, item7_targeted]
 
 # A label for your scoring run. CHANGE THIS to your first name.
 # Score files are saved as data/scores/{TICKER}_{run_id}.json, so using your

@@ -103,13 +103,23 @@ def parse_json_reply(text):
 
 STATUSES = {"current", "past", "planned"}
 COVERAGES = {"sufficient", "insufficient"}
+SOURCE_DOCS = {"10-K", "sustainability_report"}
+# Rubric v2.1 "Allowed kind values" per theme
+KINDS = {
+    "creativity": {"creates", "enables", "uses_as_input"},
+    "community": {"employee_development", "external_education",
+                  "community_investment", "education_business"},
+    "cross_cultural": {"internal_practice", "customer_access",
+                       "connecting_communities", "demographics_only"},
+    "entrepreneurship": {"serving", "enabling", "own_innovation"},
+}
 
 
-def check_reply(obj, themes=THEMES, source_docs=None):
-    """Raise ValueError if the reply isn't in Rubric v2's output format:
-    a list of evidence records, then the themes, each with score, coverage,
-    evidence_ids and reason. source_docs: allowed values of each record's
-    source_doc (only used by the second look)."""
+def check_reply(obj, themes=THEMES, source_docs=("10-K",)):
+    """Raise ValueError if the reply isn't in Rubric v2.1's output format:
+    a list of evidence records (each tagging a kind per theme), then the
+    themes, each with score, coverage, evidence_ids and reason.
+    source_docs: the source_doc values allowed in this call."""
     if not isinstance(obj, dict):
         raise ValueError("reply is not a JSON object")
     ev = obj.get("evidence")
@@ -118,15 +128,24 @@ def check_reply(obj, themes=THEMES, source_docs=None):
     for i, e in enumerate(ev):
         if not isinstance(e, dict):
             raise ValueError(f"evidence[{i}] is not an object")
-        for f in ("id", "activity", "quote", "section", "status"):
+        for f in ("id", "activity", "quote", "section", "status", "source_doc"):
             if not isinstance(e.get(f), str):
                 raise ValueError(f"evidence[{i}].{f} must be text")
         if e["status"] not in STATUSES:
             raise ValueError(f"evidence[{i}].status must be current/past/planned")
-        if not isinstance(e.get("themes", {}), dict):
-            raise ValueError(f"evidence[{i}].themes must be an object")
-        if source_docs and e.get("source_doc") not in source_docs:
+        if e["source_doc"] not in source_docs:
             raise ValueError(f"evidence[{i}].source_doc must be one of {sorted(source_docs)}")
+        if not isinstance(e.get("indicators", ""), str):
+            raise ValueError(f"evidence[{i}].indicators must be text")
+        tags = e.get("themes")
+        if not isinstance(tags, dict) or not tags:
+            raise ValueError(f"evidence[{i}].themes must name at least one theme")
+        for th, tag in tags.items():
+            if th not in KINDS:
+                raise ValueError(f"evidence[{i}].themes has unknown theme {th!r}")
+            if not isinstance(tag, dict) or tag.get("kind") not in KINDS[th]:
+                raise ValueError(f"evidence[{i}].themes.{th}.kind must be one of "
+                                 f"{sorted(KINDS[th])}")
     if not isinstance(obj.get("themes"), dict):
         raise ValueError("missing 'themes' object")
     for th in themes:
@@ -140,5 +159,5 @@ def check_reply(obj, themes=THEMES, source_docs=None):
         if not isinstance(t.get("evidence_ids", []), list) or \
                 not all(isinstance(x, str) for x in t.get("evidence_ids", [])):
             raise ValueError(f"{th}.evidence_ids must be a list of ids")
-        if not isinstance(t.get("reason", ""), str):
-            raise ValueError(f"{th}.reason must be text")
+        if not isinstance(t.get("reason", ""), str) or not t.get("reason", "").strip():
+            raise ValueError(f"{th}.reason must be a sentence")

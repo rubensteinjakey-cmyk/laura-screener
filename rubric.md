@@ -1,6 +1,6 @@
-### How a company gets its score
+## How a company gets its score
 
-1. The agent reads the company's **Business section (Item 1)**. Whether MD&A (Item 7) is added depends on the test run.
+1. The agent reads the company's **Business section (Item 1)** plus **targeted MD&A**: only the MD&A (Item 7) paragraphs that mention the themes' terms.
 2. It lists every qualifying **activity** it finds as an evidence record (see "Evidence records").
 3. It scores each of the four themes from **0 to 5** using the ladders below, and marks each theme's **evidence coverage** as `sufficient` or `insufficient`.
 4. The code turns the four theme scores into one **final score out of 100**:
@@ -21,7 +21,7 @@
 
 The screener is a values filter only. It helps choose among stocks that already fit the financial plan. It never makes up for weak finances or high valuation, and it never outweighs safely funding the $50,000 yearly payments for 2033–2042.
 
-### Rules that apply to every theme
+## Rules that apply to every theme
 
 1. **Score actions, not claims.** Mission statements, value statements and "we are committed to…" language can never score above **1**.
 2. **Only current activities count.** Each activity gets a status: `current` (operating during the reporting year), `past` (ended or discontinued), or `planned` (announced but not yet operating). Only `current` activities raise a score. Past and planned ones are recorded for context only.
@@ -45,7 +45,7 @@ The screener is a values filter only. It helps choose among stocks that already 
 7. **When torn between two levels, pick the lower one.**
 8. **Be politically neutral.** Two companies doing the same thing get the same score, whether or not they use labels like "DEI." A label with no practice behind it scores at most 1.
 
-### Evidence records and quotes
+## Evidence records and quotes
 
 Every qualifying activity becomes one record:
 
@@ -54,32 +54,49 @@ Every qualifying activity becomes one record:
 | `id` | E1, E2, … (unique within the company) |
 | `activity` | One-line plain description of what the company does |
 | `quote` | Short exact excerpt (about 40 words max) that shows the activity |
-| `section` | Item and nearest heading (for example, "Item 1 > Human Capital > Developing employees") |
+| `source_doc` | `10-K` or `sustainability_report`. Quotes and figures are checked against this document |
+| `section` | Item and nearest heading (for example, "Item 1 > Human Capital > Developing employees"), or the report chapter |
 | `status` | `current`, `past`, or `planned` |
 | `indicators` | Any figures given (people, dollars, customers, revenue), or "none disclosed" |
-| `themes` | Which theme(s) it supports, and for each one, the criterion it meets |
+| `themes` | Which theme(s) it supports. For each one, give the **kind** (see the list below) and the criterion it meets |
+
+**Allowed `kind` values per theme:**
+
+| Theme | Kinds |
+|---|---|
+| Creativity | `creates`, `enables`, `uses_as_input` |
+| Community | `employee_development`, `external_education`, `community_investment`, `education_business` |
+| Cross-cultural | `internal_practice`, `customer_access`, `connecting_communities`, `demographics_only` |
+| Entrepreneurship | `serving`, `enabling`, `own_innovation` |
 
 **Quote rules:**
 - The agent reads the **whole surrounding paragraph** before choosing an excerpt. The excerpt must not mislead out of context. For example, it can't make a pilot program look like a company-wide one.
 - The **code** checks that each quote appears word for word in the source. If a quote fails, its evidence record is removed. Any theme that cited it is flagged for human review, and set to 0 if no valid current evidence is left.
-- A score of 1 or higher must point to at least one evidence record by `id`.
+- A score of 2 or higher must point to at least one evidence record by `id`. A score of 1 may rest on general language alone, but the reason must say so.
+- **Figures are checked too.** Every number in `indicators` must appear in the source text near the quote (in the same paragraph or table). The code removes any figure it can't find and flags the record. If removing the figure would lower the level, the theme is flagged for human review.
+- **Quotes must be complete thoughts.** A quote can't be cut mid-sentence in a way that drops its meaning. For report PDFs with line breaks, quote the full sentence.
 
-### Evidence coverage: "not enough info" is not the same as "zero"
+## Evidence coverage: "not enough info" is not the same as "zero"
 
 For each theme, the agent also marks `coverage`:
 - **`sufficient`:** the filing discusses this area enough to judge it. A score of 0 here means the company really shows no qualifying activity.
-- **`insufficient`:** the filing barely touches this area, or points to another document for it. Examples: the human capital section is missing, is only a few general sentences, or says "see our website / Annual Report." A low score here may reflect what the company chose to disclose, not what it actually does.
+- **`insufficient`:** use this **only** when at least one of these is true for the theme:
+  1. The filing has **no** discussion of this area at all. For Community and Cross-cultural, that means no human capital, workforce, people or community section.
+  2. The relevant discussion is **under about 150 words**.
+  3. The filing **points to another document** for this area (website, sustainability report, Annual Report) **and** gives no specific activities itself.
+
+  If a filing describes only some kinds of activity, it is **`sufficient`**. For example, a filing that describes employee training but no community programs is sufficient: score what it shows, and the Community cap of 2 applies. Do not mark `insufficient` just because a company *probably* does more than it discloses.
 
 Creativity and Entrepreneurship are usually `sufficient`, because every 10-K has to describe what the company sells. `insufficient` mostly applies to Community and Cross-cultural.
 
 **Second look (the same rule for every company, set in advance):** any company with `insufficient` coverage on Community or Cross-cultural gets an automated second look:
-- The agent finds the company's latest sustainability report on its own website.
+- The agent finds the company's latest sustainability report on a website belonging to the company. Brand-name domains such as a company's media-hosting site are accepted, but any report not on the main domain is listed for a quick human check.
 - It **rescores those themes from scratch** using the 10-K and the report together, with this same rubric.
 - Scores can go **up, down, or stay the same**.
 - The score source is labeled `"10-K + sustainability report"`.
 - If no report is found, the 10-K score stays, coverage stays `insufficient`, and the team reviews the company before ranking it last.
 
-### Theme 1: Creativity, art and storytelling (35%)
+## Theme 1: Creativity, art and storytelling (35%)
 
 **What it means:** the company creates original creative work, or sells tools and platforms that let other people create it, or directly supports artists, writers, designers and storytellers.
 
@@ -104,7 +121,7 @@ Arts sponsorships and arts-education programs count as specific activities, at l
 
 **Traps (these don't count):** "state-of-the-art"; "design" meaning engineering or chip design; "licensing" of patents or drugs; "content" meaning recycled content or web content in general; "storytelling" as brand marketing.
 
-### Theme 2: Community, education and collaboration (30%)
+## Theme 2: Community, education and collaboration (30%)
 
 **What it means:** the company teaches, mentors and develops people, especially people **outside** the company, and partners with schools, libraries, nonprofits and communities.
 
@@ -126,7 +143,7 @@ Every Community activity is tagged with one of three kinds:
 
 **Traps (these don't count):** "community bank"; "the investment / financial / medical / scientific community"; "collaboration agreement" or "partnership" meaning a licensing deal or a legal structure; "training" meaning AI model training or compliance training; "educating customers" as marketing.
 
-### Theme 3: Cross-cultural connection and inclusion (20%)
+## Theme 3: Cross-cultural connection and inclusion (20%)
 
 **What it means:** the company removes barriers so people across cultures, languages and backgrounds can participate, including immigrants, Asian American and LGBTQ+ communities, people with disabilities and other underrepresented groups. It's scored on **what the company does**, not what it calls it.
 
@@ -148,13 +165,20 @@ Every activity is tagged with one of three kinds:
 
 **Traps (these don't count):** "representations and warranties"; "equity" meaning stockholders' equity; "identity" in identity management, brand identity or identity theft; "inclusion" in an index; "belonging to"; "diversified" revenue; selling in Asia or other foreign markets.
 
-### Theme 4: Entrepreneurship (15%)
+## Theme 4: Entrepreneurship (15%)
 
 **What it means:** the company **enables** other people to start and grow their own ventures: founders, small businesses and independent creators. It does **not** mean the company's own innovation, and **simply having small-business customers is not enough.**
 
 There are two kinds of involvement. Only the second counts above 1:
-- **Serving** small businesses: having them as customers or account holders. This counts as 1 at most.
-- **Enabling** them: a specific service, program or tool that lowers barriers to starting or growing a business, such as startup financing, affordable payment or merchant tools, seller marketplaces, grants or accelerators.
+- **Serving** small businesses: having them as customers or account holders, **including ordinary small-business lending, deposits and payments, however large the dollar amount or customer count** (for example, "$33 billion of credit to small businesses" or "4 million small-business clients"). This counts as 1 at most.
+- **Enabling** them: a specific, named service, program or tool aimed at **barriers** to starting or growing a business. Examples:
+  - financing for first-time founders or underserved business owners
+  - grants
+  - free coaching or advisory programs
+  - accelerators
+  - seller marketplaces
+  - affordable merchant or payment tools for very small businesses
+  - business software built for small businesses
 
 | Score | What the 10-K shows |
 |---|---|
@@ -167,38 +191,57 @@ There are two kinds of involvement. Only the second counts above 1:
 
 **Traps (these don't count):** "innovation" and "innovative"; "entrepreneurial spirit"; "joint venture"; "startup costs"; "small business" mentioned only as a risk or competitor.
 
-### What the agent outputs for each company
+## What the agent outputs for each company
 
 ```json
 {
   "ticker": "XXXX",
   "sector": "Financials",
   "fiscal_year": 2025,
-  "sections_read": ["Item 1"],
+  "sections_read": ["Item 1", "Item 7 (targeted)"],
   "evidence": [
     {
       "id": "E1",
       "activity": "Employee networks open to all staff",
-      "quote": "exact excerpt from the filing",
+      "quote": "exact full-sentence excerpt from the source",
+      "source_doc": "10-K",
       "section": "Item 1 > Human Capital Resources > Talent, Inclusion and Opportunity",
       "status": "current",
       "indicators": "11 networks, 330,000 memberships",
-      "themes": {"cross_cultural": "internal practice with membership figures"}
+      "themes": {"cross_cultural": {"kind": "internal_practice", "criterion": "level 3: employee networks with membership figures"}}
+    },
+    {
+      "id": "E2",
+      "activity": "Company-wide training academy for employees",
+      "quote": "exact full-sentence excerpt from the source",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources",
+      "status": "current",
+      "indicators": "7.6 million training hours",
+      "themes": {"community": {"kind": "employee_development", "criterion": "level 2: employee development of any size (cap)"}}
     }
   ],
   "themes": {
-    "creativity":       {"score": 0, "coverage": "sufficient",   "evidence_ids": [],     "reason": "one sentence naming the level matched"},
-    "community":        {"score": 0, "coverage": "sufficient",   "evidence_ids": [],     "reason": ""},
-    "cross_cultural":   {"score": 0, "coverage": "insufficient", "evidence_ids": ["E1"], "reason": ""},
-    "entrepreneurship": {"score": 0, "coverage": "sufficient",   "evidence_ids": [],     "reason": ""}
+    "creativity":       {"score": 0, "coverage": "sufficient", "evidence_ids": [],     "reason": "Level 0: the business description shows no creative activity."},
+    "community":        {"score": 2, "coverage": "sufficient", "evidence_ids": ["E2"], "reason": "Level 2: employee development only, so capped at 2."},
+    "cross_cultural":   {"score": 3, "coverage": "sufficient", "evidence_ids": ["E1"], "reason": "Level 3: employee networks with membership figures."},
+    "entrepreneurship": {"score": 1, "coverage": "sufficient", "evidence_ids": [],     "reason": "Level 1: small-business customers only, no enabling program."}
   },
   "notes": "contradictions, discontinued programs, anything unusual"
 }
 ```
 
-The **code**, not the agent, does five things:
-- checks the quotes
-- removes failed evidence
-- checks that every score of 1 or higher points to `current` evidence
+*This example only shows the format. Its numbers are illustrative, so score every company from its own text.*
+
+*A score of 1 may cite no evidence when it rests only on general language, but give a reason.*
+The **code**, not the agent, does these things:
+- checks every quote and figure against its `source_doc`, and removes failed evidence
+- checks that every score of 2 or higher cites at least one verified `current` evidence record
+- **enforces the caps by kind.** If a cap is broken, the code lowers the score to the cap and flags it:
+  - Creativity 2+ needs a cited `creates` or `enables` record
+  - Community 3+ needs a cited `external_education`, `community_investment` or `education_business` record
+  - Cross-cultural 2+ needs a cited record that isn't `demographics_only`
+  - Entrepreneurship 2+ needs a cited `enabling` record
+- flags double counting
 - calculates the final score out of 100
-- ranks companies within each sector
+- ranks companies within each sector and marks the shortlist

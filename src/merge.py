@@ -16,6 +16,7 @@ Run:  python src/merge.py
 import argparse
 from collections import defaultdict
 
+from verify import RUBRIC_VERSION
 from common import (OUTPUT, VERIFIED, load_companies, load_config, log,
                     read_json, write_json)
 
@@ -28,8 +29,8 @@ def merge(run_ids=None, sections=None):
         r = read_json(f)
         if run_ids and r["run_id"] not in run_ids:
             continue
-        if r.get("rubric_version", 1) != 2:
-            skipped.append(f"{f.name} (old rubric v1)")
+        if str(r.get("rubric_version", 1)) != RUBRIC_VERSION:
+            skipped.append(f"{f.name} (older rubric v{r.get('rubric_version', 1)})")
             continue
         if r["model"] != cfg["model"] or list(r["sections"]) != want_sections:
             skipped.append(f"{f.name} (model {r['model']}, sections {r['sections']})")

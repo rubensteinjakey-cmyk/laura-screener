@@ -268,6 +268,10 @@ HC_END = re.compile(
     r"distribution|sales and marketing|research and development)\b", re.I)
 
 
+PEOPLE_TERMS = re.compile(r"\b(?:employees?|workforce|talent|human capital|"
+                          r"our people|team members|volunteer\w*|communit(?:y|ies))\b", re.I)
+
+
 def human_capital_part(item1):
     """The Human Capital subsection of Item 1: from its heading to the next
     typical Item 1 heading (or the end of Item 1)."""
@@ -355,6 +359,10 @@ def extract_company(sec, company, force=False):
     hc = human_capital_part(item1)
     info["human_capital_words"] = word_count(hc)
     info["human_capital_found"] = bool(hc)
+    # Backup for filings that discuss their people without a heading (e.g.
+    # XOM): words in Item 1 paragraphs about employees / workforce / talent.
+    people = [p for p in item1.split("\n") if PEOPLE_TERMS.search(p)]
+    info["people_paragraph_words"] = word_count("\n".join(people))
     (out / "human_capital.txt").write_text(hc + "\n", encoding="utf-8")
     if not hc:
         info["notes"].append("Human Capital subsection not found in Item 1")

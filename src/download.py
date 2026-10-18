@@ -8,6 +8,7 @@ Run:  python src/download.py            (all companies in the batch range)
 """
 
 import argparse
+from datetime import date
 
 from bs4 import BeautifulSoup
 
@@ -63,6 +64,10 @@ def filings_table(sec, cik):
     return sub, table
 
 
+MAX_AGE_MONTHS = 18
+FOREIGN_FORMS = {"20-F", "40-F"}
+
+
 def pick_10k(table):
     """Most recent original 10-K; a 10-K/A only if there is no original."""
     originals = [r for r in table if r["form"] == "10-K"]
@@ -113,6 +118,20 @@ def download_company(sec, cik_map, company):
 
     sub, table = filings_table(sec, cik)
     filing, is_amendment = pick_10k(table)
+    foreign = sorted({r["form"] for r in table} & FOREIGN_FORMS)
+    if not filing and foreign:
+        log("download", f"{t}: files {'/'.join(foreign)} (foreign company), no 10-K - skipped")
+        flag_human(t, "download", f"files {'/'.join(foreign)} instead of a 10-K (foreign "
+                   "company); skipped, no other form substituted", sub.get("name", ""))
+        return
+    if filing:
+        age = (date.today() - date.fromisoformat(filing["filingDate"])).days / 30.44
+        if age > MAX_AGE_MONTHS:
+            log("download", f"{t}: latest 10-K is from {filing['filingDate']} "
+                            f"({age:.0f} months old) - skipped")
+            flag_human(t, "download", f"no 10-K in the last {MAX_AGE_MONTHS} months; skipped",
+                       f"latest 10-K filed {filing['filingDate']}")
+            return
     if not filing:
         log("download", f"{t}: no 10-K found")
         flag_human(t, "download", "no 10-K found on EDGAR",

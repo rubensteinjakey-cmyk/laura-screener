@@ -41,6 +41,7 @@ from common import (REPORTS, ROOT, SECTION_LABELS, SECTIONS, VERIFIED,
                     clear_human_flags, flag_human, load_config, log, read_json,
                     write_json)
 from score import ask_claude
+from verify import RUBRIC_VERSION
 
 SECOND_LOOK_THEMES = ["community", "cross_cultural"]
 
@@ -73,13 +74,15 @@ Rescore ONLY {themes_list} FROM SCRATCH, using the 10-K text and the report text
 
 Rules:
 - List every qualifying activity for these theme(s) as an evidence record (ids E1, E2, ...).
-- Each record must have "source_doc": "10-K" if its quote comes from the 10-K text, or "report" if it comes from the report text.
-- Each "quote" must be copied exactly, character for character, from that document: one continuous passage, no "..." and no changes, about 40 words max.
+- Each record must have "source_doc": "10-K" if its quote comes from the 10-K text, or "sustainability_report" if it comes from the report text.
+- For each theme a record supports, give its "kind" (only the allowed values in the rubric) and the "criterion" it meets.
+- Each "quote" must be copied exactly, character for character, from that document: one continuous passage, no "..." and no changes, about 40 words max. The report text has line breaks in the middle of sentences: quote the FULL sentence anyway (it may run across several lines), never a fragment cut at a line break.
+- Every figure in "indicators" must appear in the same paragraph or table as the quote. Copy figures exactly as written; don't compute or convert them.
 - A score of 1 or higher must list at least one evidence id. Don't list the same activity twice for one theme.
 - Report figures describe the report's year; still only "current" activities raise a score.
 
 Reply with ONE JSON object and nothing else:
-{{"evidence": [{{"id": "E1", "activity": "", "quote": "", "section": "", "status": "current", "indicators": "", "themes": {{}}, "source_doc": "report"}}],
+{{"evidence": [{{"id": "E1", "activity": "", "quote": "", "source_doc": "sustainability_report", "section": "", "status": "current", "indicators": "", "themes": {{"community": {{"kind": "", "criterion": ""}}}}}}],
  "themes": {themes_skeleton},
  "notes": ""}}
 
@@ -362,7 +365,7 @@ def second_look(company, cfg, run_id, themes, sections):
     log("second_look", f"{t}: rescoring {themes} from {url} "
                        f"({len(prompt):,} characters, ~{len(prompt) // 4:,} tokens)")
     result, attempts, err = ask_claude(
-        prompt, cfg, lambda r: check_reply(r, themes, {"10-K", "report"}), t, "second_look")
+        prompt, cfg, lambda r: check_reply(r, themes, {"10-K", "sustainability_report"}), t, "second_look")
     if result is None:
         record.update(status="rescore failed", log=lines, error=err, attempts=attempts)
         write_json(out_path, record)
@@ -390,7 +393,7 @@ def main():
     todo = []
     for f in sorted(VERIFIED.glob(f"*_{args.run_id}.json")):
         r = read_json(f)
-        if r.get("run_id") != args.run_id or r.get("rubric_version") != 2:
+        if r.get("run_id") != args.run_id or str(r.get("rubric_version")) != RUBRIC_VERSION:
             continue
         themes = [th for th in SECOND_LOOK_THEMES
                   if r["coverage"][th] == "insufficient"

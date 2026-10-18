@@ -159,10 +159,21 @@ python src/overlap_check.py --a maya --b maya_repeat
   the words must match exactly. A failed quote's evidence record is removed.
   A theme that cited it keeps its score only if other valid `current`
   evidence remains (and is flagged for review); otherwise it becomes 0.
-- **Only `current` activities count.** A score of 1+ must point to at least one
-  verified `current` evidence record, or it becomes 0. Citing the same
-  activity twice in one theme is flagged. `python tests/test_checker.py`
-  proves all of this works.
+- **Only `current` activities count.** A score of 2+ must point to at least one
+  verified `current` evidence record, or it becomes 0 (a score of 1 may rest
+  on general language). Citing the same activity twice in one theme is flagged.
+- **Figures are checked too.** Every number in a record's `indicators` must
+  appear near its quote (same paragraph or table, about 1,200 characters).
+  Missing figures are removed and flagged; a level-3+ theme that relied on
+  one is flagged for human review (never silently rescored).
+- **Caps by `kind`, enforced by code** (Rubric v2.1): Creativity 2+ needs a
+  `creates`/`enables` record; Community 3+ needs `external_education`,
+  `community_investment` or `education_business`; Cross-cultural 2+ needs a
+  record that isn't `demographics_only`; Entrepreneurship 2+ needs `enabling`
+  (ordinary small-business lending, deposits and payments are `serving`, 1 at
+  most). A broken cap lowers the score to the cap and is flagged.
+- `python tests/test_checker.py` plants each kind of mistake and proves the
+  checker catches it (13 checks).
 - **The code calculates final scores and ranks**, not the AI.
 - **Same model for everyone**: `config.yaml` fixes the full model ID and effort
   level. Each Claude call also runs with no tools and no personal settings, and
@@ -170,8 +181,11 @@ python src/overlap_check.py --a maya --b maya_repeat
 - **Risk Factors (Item 1A) are never read.** Item 1 is cut off right where
   Item 1A begins.
 - **Coverage and the second look**: each theme is `sufficient` or
-  `insufficient`. If the AI marks Community or Cross-cultural `insufficient`
-  (or the Human Capital part of Item 1 is missing / under 150 words),
+  `insufficient`, using the rubric's strict definition (no discussion at all,
+  under about 150 words, or only a pointer to another document). A filing
+  that describes only employee training is `sufficient`. If the AI marks
+  Community or Cross-cultural `insufficient` (its reason is logged), or the
+  people discussion in Item 1 is missing / under 150 words,
   `second_look.py` finds the company's sustainability report (2024 or later,
   on a website containing the company's brand name from its 10-K) and
   rescores those themes from scratch with the 10-K + report. Scores can go up
@@ -180,6 +194,9 @@ python src/overlap_check.py --a maya --b maya_repeat
   supply a report link in `data/reports/manual_urls.csv` (`ticker,url`).
 - **Shortlist**: the top 40% of each sector (`shortlist_pct`), at least 2 per
   sector (`shortlist_min_per_sector`), ties included.
+- **No 10-K?** Companies that file a 20-F or 40-F (foreign companies), or
+  whose latest 10-K is more than 18 months old, are skipped and listed in
+  `needs_human.csv`. No other form is substituted.
 - **Ticker moved to a new company?** If the SEC lists no 10-K for a ticker
   (e.g. XOM after its 2026 holding-company reorganization), add the old
   company's CIK to `cik_overrides.csv` (`ticker,cik,reason`).
@@ -193,8 +210,6 @@ rewriting anything:
       columns: `ticker,company_name,sector`). No code changes needed.
 - [ ] **TODO: keyword cross-check.** Should a cheap keyword scan be added as a
       second opinion on the AI scores? Not built in this version.
-- [ ] **TODO: score Item 7 (MD&A) too?** Options in `config.yaml`:
-      `[item1]`, `[item1, item7_targeted]` (only MD&A paragraphs with
-      relevant terms) or `[item1, item7]` (full MD&A, about 7x the usage).
-      Change it for everyone at once, before scoring.
+- [x] Sections: Item 1 + targeted MD&A (`[item1, item7_targeted]`), decided
+      after the pilot. `[item1]` and `[item1, item7]` remain for tests only.
 - [x] Model: `claude-opus-5-5` (decided by Jakey).

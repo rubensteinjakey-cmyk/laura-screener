@@ -38,7 +38,7 @@ FIELDS = ["ticker", "company_name", "sector", "filing_date", "fiscal_year",
           "score_source", "original_10k_scores", "quote_check_status", "flags",
           "report_url"]
 EVIDENCE_FIELDS = ["ticker", "id", "activity", "quote", "section", "status",
-                   "indicators", "themes", "source_doc", "verified"]
+                   "indicators", "themes", "source_doc", "verified", "figures_removed"]
 
 DISCLAIMER = (
     "> This is a **values filter only**. It helps choose among stocks that "
@@ -124,9 +124,12 @@ def main():
                         "quote": e.get("quote", ""), "section": e.get("section", ""),
                         "status": e.get("status", ""),
                         "indicators": e.get("indicators", ""),
-                        "themes": "; ".join(f"{k}: {v}" for k, v in (e.get("themes") or {}).items()),
+                        "themes": "; ".join(
+                            f"{k}: {v.get('kind', '')} ({v.get('criterion', '')})" if isinstance(v, dict)
+                            else f"{k}: {v}" for k, v in (e.get("themes") or {}).items()),
                         "source_doc": e.get("source_doc", "10-K"),
                         "verified": e.get("verified"),
+                        "figures_removed": ", ".join(e.get("figures_removed", [])),
                     })
 
     md = ["# Laura Gao values screener: summary", "", DISCLAIMER, "",
@@ -182,7 +185,7 @@ def main():
                     ind = e.get("indicators") or ""
                     md.append(f"  - {e['activity']}" + (f" [{ind}]" if ind and ind != "none disclosed" else "")
                               + f": \"{e['quote']}\" ({e.get('section', '')}"
-                              + (", sustainability report" if e.get("source_doc") == "report" else "")
+                              + (", sustainability report" if e.get("source_doc") in ("report", "sustainability_report") else "")
                               + ")")
             if r["flags"]:
                 md.append("- Flags: " + "; ".join(r["flags"]))

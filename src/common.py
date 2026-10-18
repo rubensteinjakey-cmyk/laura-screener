@@ -27,7 +27,7 @@ LOGS = ROOT / "logs"
 # which full text their quotes are checked against. Targeted MD&A quotes are
 # checked against the FULL Item 7.
 SECTION_LABELS = {"item1": "Item 1", "item7": "Item 7",
-                  "item7_targeted": "Item 7 (targeted MD&A excerpts)"}
+                  "item7_targeted": "Item 7 (targeted)"}
 VERIFY_AGAINST = {"item1": "item1", "item7": "item7", "item7_targeted": "item7"}
 
 for d in (FILINGS, SECTIONS, SCORES, VERIFIED, REPORTS, OUTPUT, LOGS):

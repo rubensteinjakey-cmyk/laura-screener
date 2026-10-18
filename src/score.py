@@ -1,4 +1,4 @@
-"""Step 5: AI scoring with Rubric v2. Uses Claude subscription usage.
+"""Step 5: AI scoring with Rubric v2.1. Uses Claude subscription usage.
 
 For each company: send the rubric + the extracted section text to Claude
 (via `claude -p`), get JSON back (evidence records + 4 theme scores with
@@ -35,16 +35,21 @@ Sections provided: {sections_list}
 
 Instructions:
 - Use ONLY the filing text below. Ignore anything you know about the company from elsewhere.
-- List every qualifying activity as an evidence record (ids E1, E2, ...), as the rubric describes.
-- Each "quote" must be copied exactly, character for character, from the filing text below: one continuous passage, no "..." and no changes, about 40 words max. Read the whole surrounding paragraph first so the excerpt doesn't mislead.
+- List every qualifying activity as an evidence record (ids E1, E2, ...), as the rubric describes. Set "source_doc" to "10-K" for every record.
+- For each theme a record supports, give its "kind" (only the allowed values in the rubric) and the "criterion" it meets.
+- Each "quote" must be copied exactly, character for character, from the filing text below: one continuous passage that is a complete thought (normally a full sentence), no "..." and no changes, about 40 words max. Read the whole surrounding paragraph first so the excerpt doesn't mislead.
+- Every figure in "indicators" must appear in the filing text in the same paragraph or table as the quote. Copy figures exactly as written there; don't compute, convert or round them.
 - "section": the item and nearest heading, e.g. "Item 1 > Human Capital > Developing employees".{targeted_note}
-- Every theme score of 1 or higher must list at least one evidence id in "evidence_ids". Do not list the same activity twice for one theme.
+- A score of 2 or higher must list at least one evidence id; a score of 1 may cite none if it rests only on general language, and the reason must say so. Don't list the same activity twice for one theme.
+- Coverage: follow the rubric's strict definition of "insufficient" exactly. If you mark a theme insufficient, the reason must say which of the three conditions applies.
 - "reason": one sentence naming the level matched.
 - Set "sections_read" to {sections_json} and "fiscal_year" to {fiscal_year}.
 - Reply with ONE JSON object in exactly the rubric's output format, and nothing else (no explanation, no markdown).
 
 {filing_text}
 """
+
+RUBRIC_VERSION = "2.1"
 
 TARGETED_NOTE = (
     "\n- The Item 7 text is NOT the full MD&A: it is only the MD&A paragraphs that "
@@ -130,7 +135,7 @@ def score_company(company, cfg, sections, run_id):
         "company_name": company["company_name"],
         "sector": company["sector"],
         "run_id": run_id,
-        "rubric_version": 2,
+        "rubric_version": RUBRIC_VERSION,
         "model": cfg["model"],
         "effort": cfg.get("effort"),
         "sections": sections,
@@ -152,6 +157,9 @@ def score_company(company, cfg, sections, run_id):
     }
     write_json(out_path, record)  # saved right away, before the next company
     s = record["ai"]["themes"]
+    for th in THEMES:
+        if s[th]["coverage"] == "insufficient":
+            log("score", f"{t}: AI marked {th} INSUFFICIENT - reason: {s[th]['reason']}")
     log("score", f"{t}: saved. " + ", ".join(
         f"{th} {s[th]['score']}{'*' if s[th]['coverage'] == 'insufficient' else ''}"
         for th in THEMES) + f" ({len(result['evidence'])} evidence records; "
