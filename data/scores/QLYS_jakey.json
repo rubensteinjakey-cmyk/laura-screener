@@ -1,0 +1,220 @@
+{
+  "ticker": "QLYS",
+  "company_name": "Qualys",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001107843-26-000008",
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T23:12:25",
+  "prompt_chars": 69312,
+  "filing_chars": 49311,
+  "filing_words_sent": 7012,
+  "approx_prompt_tokens": 17328,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Training, mobility solutions and job placements for people with disabilities",
+        "quote": "we provided training, mobility solutions, and job placements for people with disabilities",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external skills program, no reach figures"
+          },
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific current program removing employment barriers for people with disabilities, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Clinic on Wheels program bringing doctors, medicines and care to underserved areas",
+        "quote": "established a Clinic on Wheels program and brought doctors, medicines, and essential care to areas where access is limited",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: named community program, no figures on reach or dollars"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Partnering with nonprofits on back-to-school backpacks and computer cyber labs for youth, using employee-developed coursework",
+        "quote": "partnered with nonprofit organizations to provide back-to-school backpacks and computer cyber labs to educate youth in our community, supported by a coursework developed by our own employees",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific youth education partnership with nonprofits, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Donations to food drives and holiday fundraisers for local families",
+        "quote": "donated to food drives and holiday fundraisers to support local families in need",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community giving, no dollar figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Free certified training on Qualys topics open to employees and non-employees",
+        "quote": "To support career growth inside and outside Qualys, we offer free self-paced and instructor-led certified training on core Qualys topics, giving employees and non-employees an opportunity to achieve certifications and job-related courses free of charge.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Training and Development > Employee Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: free certification training open to non-employees, no participant figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Onboarding program for new hires",
+        "quote": "Qualys employees participate in an onboarding program to integrate new hires into role-specific functions and company culture.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Training and Development > Employee Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Company holiday calendar covering many regions and religions, plus cultural initiatives",
+        "quote": "Our company holiday calendar includes events and festivals from many regions and religions, and we include diverse cultural initiatives throughout the year.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Supporting our Team and Community > Diversity and Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusive workplace practice, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Disclosure of executive and US workforce representation from underrepresented communities",
+        "quote": "In addition to having more than 50% of the executive team from underrepresented communities, we are also continuing to improve diversity among our growing workforce, with over half of our US-based employees from underrepresented communities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Supporting our Team and Community > Diversity and Inclusion",
+        "status": "current",
+        "indicators": "more than 50% of the executive team",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Selling to small and medium-sized businesses through an inside sales force",
+        "quote": "We sell our solutions to enterprises and government entities primarily through our field sales force and to small and medium-sized businesses through our inside sales force.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers cloud cybersecurity and compliance software in full and shows no creative activity. 'State-of-the-art', developer APIs and custom scripts are traps or non-creative."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: several specific current external education and community investment activities plus employee onboarding, but no participant, dollar or reach figures to support level 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 2: specific current activities (a disability training and job-placement program and a multi-religion holiday calendar with cultural initiatives) with no reach figures; demographic statistics alone add no level."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E9"
+        ],
+        "reason": "Level 1: small and medium-sized business customers are served through inside sales, with no specific enabling program for founders or small businesses."
+      }
+    },
+    "notes": "E1 (disability training and job placements) is counted once each for Community and Cross-cultural, because it independently meets both themes' criteria. Training programs offered to customers as part of subscriptions were not counted: this is customer education tied to the product. Required harassment and EEO training was not counted because it is compliance training. Free services offered to 'organizations of all sizes' and third-party developer APIs are not aimed at small-business barriers, so they were not scored as enabling. The Item 7 excerpt only repeats the Item 1 customer description. Environmental clean-up activities were noted but not scored, as no figures were given and they do not change the level.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"QLYS\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Training, mobility solutions and job placements for people with disabilities\",\"quote\":\"we provided training, mobility solutions, and job placements for people with disabilities\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external skills program, no reach figures\"},\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 2: specific current program removing employment barriers for people with disabilities, no reach figures\"}}},{\"id\":\"E2\",\"activity\":\"Clinic on Wheels program bringing doctors, medicines and care to underserved areas\",\"quote\":\"established a Clinic on Wheels program and brought doctors, medicines, and essential care to areas where access is limited\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: named community program, no figures on reach or dollars\"}}},{\"id\":\"E3\",\"activity\":\"Partnering with nonprofits on back-to-school backpacks and computer cyber labs for youth, using employee-developed coursework\",\"quote\":\"partnered with nonprofit organizations to provide back-to-school backpacks and computer cyber labs to educate youth in our community, supported by a coursework developed by our own employees\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific youth education partnership with nonprofits, no reach figures\"}}},{\"id\":\"E4\",\"activity\":\"Donations to food drives and holiday fundraisers for local families\",\"quote\":\"donated to food drives and holiday fundraisers to support local families in need\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Supporting our Team and Community > Community Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community giving, no dollar figures\"}}},{\"id\":\"E5\",\"activity\":\"Free certified training on Qualys topics open to employees and non-employees\",\"quote\":\"To support career growth inside and outside Qualys, we offer free self-paced and instructor-led certified training on core Qualys topics, giving employees and non-employees an opportunity to achieve certifications and job-related courses free of charge.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Training and Development > Employee Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: free certification training open to non-employees, no participant figures\"}}},{\"id\":\"E6\",\"activity\":\"Onboarding program for new hires\",\"quote\":\"Qualys employees participate in an onboarding program to integrate new hires into role-specific functions and company culture.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Training and Development > Employee Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E7\",\"activity\":\"Company holiday calendar covering many regions and religions, plus cultural initiatives\",\"quote\":\"Our company holiday calendar includes events and festivals from many regions and religions, and we include diverse cultural initiatives throughout the year.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Supporting our Team and Community > Diversity and Inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific inclusive workplace practice, no reach figures\"}}},{\"id\":\"E8\",\"activity\":\"Disclosure of executive and US workforce representation from underrepresented communities\",\"quote\":\"In addition to having more than 50% of the executive team from underrepresented communities, we are also continuing to improve diversity among our growing workforce, with over half of our US-based employees from underrepresented communities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Supporting our Team and Community > Diversity and Inclusion\",\"status\":\"current\",\"indicators\":\"more than 50% of the executive team\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E9\",\"activity\":\"Selling to small and medium-sized businesses through an inside sales force\",\"quote\":\"We sell our solutions to enterprises and government entities primarily through our field sales force and to small and medium-sized businesses through our inside sales force.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers cloud cybersecurity and compliance software in full and shows no creative activity. 'State-of-the-art', developer APIs and custom scripts are traps or non-creative.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 2: several specific current external education and community investment activities plus employee onboarding, but no participant, dollar or reach figures to support level 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E7\",\"E8\"],\"reason\":\"Level 2: specific current activities (a disability training and job-placement program and a multi-religion holiday calendar with cultural initiatives) with no reach figures; demographic statistics alone add no level.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E9\"],\"reason\":\"Level 1: small and medium-sized business customers are served through inside sales, with no specific enabling program for founders or small businesses.\"}},\"notes\":\"E1 (disability training and job placements) is counted once each for Community and Cross-cultural, because it independently meets both themes' criteria. Training programs offered to customers as part of subscriptions were not counted: this is customer education tied to the product. Required harassment and EEO training was not counted because it is compliance training. Free services offered to 'organizations of all sizes' and third-party developer APIs are not aimed at small-business barriers, so they were not scored as enabling. The Item 7 excerpt only repeats the Item 1 customer description. Environmental clean-up activities were noted but not scored, as no figures were given and they do not change the level.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 22684,
+      "output_tokens": 4929,
+      "duration_ms": 43078
+    }
+  ]
+}

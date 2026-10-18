@@ -1,0 +1,183 @@
+{
+  "ticker": "OSCR",
+  "company_name": "Oscar Health, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "accession_number": "0001568651-26-000011",
+  "scored_at": "2026-10-18T23:10:20",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers health insurance and health technology and shows no creative activity. Mentions of 'designs' and copyright refer to software and proprietary information, which are traps.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: the only qualifying activity is employee skills and training programs, so the employee-development cap of 2 applies.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "customer_access",
+        "internal_practice"
+      ],
+      "reason": "Level 2: nine employee resource groups with no membership figures, plus member engagement tailored to cultural preferences with no disclosed reach.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E4"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: small employers appear only as customers through ICHRA partnerships, with no specific program aimed at barriers to starting or growing a business.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 23.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Internal and third-party skills and training programs available to all employees",
+      "quote": "We also believe in the importance of investing in developmental opportunities for our employees, and all employees have access to internally created and third party skills and training programs.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources > Health and Wellbeing",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Employee Resource Groups open to all employees",
+      "quote": "In 2025, we had nine ERGs which are open to all employees and focused on building community and awareness based on the values that are shared within those groups.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources > Building Community",
+      "status": "current",
+      "indicators": "nine ERGs",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no membership figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Member engagement technology that tailors information to members' cultural preferences",
+      "quote": "Powering personalized engagement to drive real-time information flow based on cultural preferences and individual health needs to reduce member friction and improve retention.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Differentiated Technology Platform",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: specific current customer-access practice, limited disclosed reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Partnering with ICHRA platforms to move small, mid and large employers' staff onto individual Oscar plans",
+      "quote": "We are partnering with a variety of ICHRA platforms to transition small-, mid- and large-sized employers to the individual market where their employees can choose an Oscar product that meets their individual needs.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Strategic Focus",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: small-business customers with no specific enabling service"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Healthinsurance.org (an acquired 'consumer education website') and 'market education services' revenue were not counted for Community. They read as consumer insurance-shopping information, which falls under the 'educating customers as marketing' trap. No revenue or reach figures are disclosed for them. Lucie's broker/consumer enrollment marketplace was not counted for Entrepreneurship because it is an insurance-shopping platform, not a tool for founders. Past context: the Cigna+Oscar Small Group arrangement was not renewed after December 31, 2024, and Medicare Advantage plans were offered only until plan year 2024. The mission language 'accessible and affordable for all' and products 'built to meet the healthcare needs of consumers from various communities' are general statements and did not raise Cross-cultural above the level shown by E2 and E3. Final score per the rubric formula: 0 + 12 + 8 + 3 = 23/100.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 655,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}

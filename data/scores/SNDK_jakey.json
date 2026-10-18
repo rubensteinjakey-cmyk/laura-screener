@@ -1,0 +1,118 @@
+{
+  "ticker": "SNDK",
+  "company_name": "Sandisk",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-057406",
+  "filing_date": "2026-08-17",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-18T23:11:40",
+  "prompt_chars": 57704,
+  "filing_chars": 37702,
+  "filing_words_sent": 5429,
+  "approx_prompt_tokens": 14426,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sandisk SPARK, a company-wide learning platform giving employees self-directed and assigned training",
+        "quote": "Through Sandisk SPARK, our unified learning ecosystem, employees are empowered to take ownership of their development through personalized, on-demand learning journeys that build critical skills, expand capabilities, and support career growth.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Attraction & Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Hands-on upskilling and reskilling training and workshops for manufacturing and technical employees",
+        "quote": "Through hands-on training and workshops, we help employees develop the skills needed to thrive in a rapidly changing industry and contribute to Sandisk’s long-term innovation and success.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Attraction & Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "BE@Sandisk employee-led communities reflecting employees' identities and interests, with chapters in several countries",
+        "quote": "Through our BE@Sandisk program, we foster connection through employee-led communities and learnings that reflect our employees’ unique identities, interests, and aspirations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Belonging",
+        "status": "current",
+        "indicators": "over a dozen",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests on general language only (for example 'data should inspire every person to move, create, discover'). The business is general-purpose memory and storage, and cards used in cameras or tools for 'personal content' are not specific creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: the specific programs are all employee development (SPARK learning ecosystem, upskilling workshops), so the score is capped at 2; 'engage with our communities' is general language only."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 2: BE@Sandisk employee-led communities are a specific current internal practice, but the filing gives only a count of groups and no membership figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the filing shows only the company's own R&D and innovation, and no service or program that enables founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 excerpt only repeats the Item 1 overview paragraph and has no community, education, small-business, artist or accessibility content. Several terms were excluded as traps: Flash Ventures and Unis Venture 'joint ventures' and 'collaboration' (legal structures and licensing), 'chip-level design' and 'memory design' (engineering), 'licensing' of patents and technology, 'diversified product portfolio', 82% international sales and 33-country presence, the regional headcount split (demographics only), annual ethics and compliance training, and health and safety training. BE@Sandisk communities reflect 'identities, interests, and aspirations', so they may be partly interest-based rather than identity-based; level 2 was kept as the conservative reading. On Entrepreneurship, the trap list excludes 'innovation' as qualifying evidence, while the level-1 ladder explicitly covers the company's own innovation; 1 was assigned because the ladder defines it, and no enabling activity exists.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"SNDK\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sandisk SPARK, a company-wide learning platform giving employees self-directed and assigned training\",\"quote\":\"Through Sandisk SPARK, our unified learning ecosystem, employees are empowered to take ownership of their development through personalized, on-demand learning journeys that build critical skills, expand capabilities, and support career growth.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Attraction & Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Hands-on upskilling and reskilling training and workshops for manufacturing and technical employees\",\"quote\":\"Through hands-on training and workshops, we help employees develop the skills needed to thrive in a rapidly changing industry and contribute to Sandisk’s long-term innovation and success.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Attraction & Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"BE@Sandisk employee-led communities reflecting employees' identities and interests, with chapters in several countries\",\"quote\":\"Through our BE@Sandisk program, we foster connection through employee-led communities and learnings that reflect our employees’ unique identities, interests, and aspirations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Belonging\",\"status\":\"current\",\"indicators\":\"over a dozen\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests on general language only (for example 'data should inspire every person to move, create, discover'). The business is general-purpose memory and storage, and cards used in cameras or tools for 'personal content' are not specific creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: the specific programs are all employee development (SPARK learning ecosystem, upskilling workshops), so the score is capped at 2; 'engage with our communities' is general language only.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 2: BE@Sandisk employee-led communities are a specific current internal practice, but the filing gives only a count of groups and no membership figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: the filing shows only the company's own R&D and innovation, and no service or program that enables founders or small businesses.\"}},\"notes\":\"The Item 7 excerpt only repeats the Item 1 overview paragraph and has no community, education, small-business, artist or accessibility content. Several terms were excluded as traps: Flash Ventures and Unis Venture 'joint ventures' and 'collaboration' (legal structures and licensing), 'chip-level design' and 'memory design' (engineering), 'licensing' of patents and technology, 'diversified product portfolio', 82% international sales and 33-country presence, the regional headcount split (demographics only), annual ethics and compliance training, and health and safety training. BE@Sandisk communities reflect 'identities, interests, and aspirations', so they may be partly interest-based rather than identity-based; level 2 was kept as the conservative reading. On Entrepreneurship, the trap list excludes 'innovation' as qualifying evidence, while the level-1 ladder explicitly covers the company's own innovation; 1 was assigned because the ladder defines it, and no enabling activity exists.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 19633,
+      "output_tokens": 3952,
+      "duration_ms": 41193
+    }
+  ]
+}
