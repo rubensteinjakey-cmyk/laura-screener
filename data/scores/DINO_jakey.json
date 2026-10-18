@@ -1,0 +1,134 @@
+{
+  "ticker": "DINO",
+  "company_name": "HF Sinclair",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001915657-26-000016",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T23:33:25",
+  "prompt_chars": 130657,
+  "filing_chars": 110667,
+  "filing_words_sent": 16528,
+  "approx_prompt_tokens": 32664,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company-wide training, development and leadership programs for employees (Accelerate, LinkedIn Learning, Refine, Front Line Leadership Development, Catalyst, Leading the HF Sinclair Way)",
+        "quote": "Consistent with our culture of ownership and growth, we offer training, development and engagement programs across every level of our organization to provide employees the opportunity to develop their careers by enhancing skills and capabilities consistent with the needs of the business.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Total Rewards & Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee volunteering and in-kind giving in local communities, alongside charitable financial contributions",
+        "quote": "From filling backpacks with school essentials to helping prepare meals and planting trees, our employees showed up for their communities and dedicated volunteer efforts to a variety of organizations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Community Outreach / Volunteerism",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community activity, limited in reach (no participant, hour or dollar figures)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Four voluntary, employee-led resource groups open to all employees, including Cultural Awareness in Energy",
+        "quote": "In addition, to help foster a culture of inclusion, we have four voluntary and employee-led employee resource groups (“ERGs”), which are open to all employees: Women in Energy, Veterans in Energy, Family Caregivers in Energy and Cultural Awareness in Energy.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Equal Employment Opportunity",
+        "status": "current",
+        "indicators": "four ERGs",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "University recruiting outreach through university-based groups to reach a diverse candidate pool",
+        "quote": "Our university recruiting team works to expand our presence in the marketplace to attract diverse talent by partnering with various university-based groups in order to reach a diverse population of candidates for its recruitment pool from student and alumni bases.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Equal Employment Opportunity",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusive recruiting practice, limited in reach (no figures)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers refining, renewables, fuel marketing, lubricants and midstream assets in detail and shows no creative activity (Sinclair brand licensing to fuel sites is trademark licensing, not creative work)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: named employee development programs plus specific employee volunteering and charitable giving with no reach figures, which does not reach level 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: four employee resource groups (including Cultural Awareness in Energy) and diverse university recruiting outreach, with no membership or participant figures."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes customers and markets in detail but shows no service or program enabling founders or small businesses; branded sites and independent marketers appear only as fuel customers, and when torn between 0 and 1 the lower level is chosen."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so all evidence comes from Item 1. Values language ('inclusion' as one of five core values, 'committed to attracting, retaining and developing a highly engaged... workforce') and equal-opportunity boilerplate were not scored above 1 on their own. Safety education and training (Goal Zero) and required spill-response exercises were treated as compliance or safety training and excluded. The ERG statement that ERGs develop talent 'through education, networking and leadership development' could also be read as employee development, but it was not cited for Community because Community is already at its employee-development level through E1. Charitable financial contributions are mentioned with no dollar amounts. Brand licensing fees from more than 350 locations and branded fuel sales to more than 1,700 sites are customer relationships, not creative or entrepreneurship-enabling programs.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DINO\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Company-wide training, development and leadership programs for employees (Accelerate, LinkedIn Learning, Refine, Front Line Leadership Development, Catalyst, Leading the HF Sinclair Way)\",\"quote\":\"Consistent with our culture of ownership and growth, we offer training, development and engagement programs across every level of our organization to provide employees the opportunity to develop their careers by enhancing skills and capabilities consistent with the needs of the business.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Total Rewards & Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Employee volunteering and in-kind giving in local communities, alongside charitable financial contributions\",\"quote\":\"From filling backpacks with school essentials to helping prepare meals and planting trees, our employees showed up for their communities and dedicated volunteer efforts to a variety of organizations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Community Outreach / Volunteerism\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community activity, limited in reach (no participant, hour or dollar figures)\"}}},{\"id\":\"E3\",\"activity\":\"Four voluntary, employee-led resource groups open to all employees, including Cultural Awareness in Energy\",\"quote\":\"In addition, to help foster a culture of inclusion, we have four voluntary and employee-led employee resource groups (“ERGs”), which are open to all employees: Women in Energy, Veterans in Energy, Family Caregivers in Energy and Cultural Awareness in Energy.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Equal Employment Opportunity\",\"status\":\"current\",\"indicators\":\"four ERGs\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}},{\"id\":\"E4\",\"activity\":\"University recruiting outreach through university-based groups to reach a diverse candidate pool\",\"quote\":\"Our university recruiting team works to expand our presence in the marketplace to attract diverse talent by partnering with various university-based groups in order to reach a diverse population of candidates for its recruitment pool from student and alumni bases.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Equal Employment Opportunity\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusive recruiting practice, limited in reach (no figures)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers refining, renewables, fuel marketing, lubricants and midstream assets in detail and shows no creative activity (Sinclair brand licensing to fuel sites is trademark licensing, not creative work).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: named employee development programs plus specific employee volunteering and charitable giving with no reach figures, which does not reach level 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\"],\"reason\":\"Level 2: four employee resource groups (including Cultural Awareness in Energy) and diverse university recruiting outreach, with no membership or participant figures.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes customers and markets in detail but shows no service or program enabling founders or small businesses; branded sites and independent marketers appear only as fuel customers, and when torn between 0 and 1 the lower level is chosen.\"}},\"notes\":\"The Item 7 (targeted) excerpt was empty, so all evidence comes from Item 1. Values language ('inclusion' as one of five core values, 'committed to attracting, retaining and developing a highly engaged... workforce') and equal-opportunity boilerplate were not scored above 1 on their own. Safety education and training (Goal Zero) and required spill-response exercises were treated as compliance or safety training and excluded. The ERG statement that ERGs develop talent 'through education, networking and leadership development' could also be read as employee development, but it was not cited for Community because Community is already at its employee-development level through E1. Charitable financial contributions are mentioned with no dollar amounts. Brand licensing fees from more than 350 locations and branded fuel sales to more than 1,700 sites are customer relationships, not creative or entrepreneurship-enabling programs.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 44229,
+      "output_tokens": 4250,
+      "duration_ms": 38310
+    }
+  ]
+}
