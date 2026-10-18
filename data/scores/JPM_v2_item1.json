@@ -1,0 +1,153 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase & Co.",
+  "sector": "Financials",
+  "run_id": "v2_item1",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1"
+  ],
+  "accession_number": "0001628280-26-008131",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T22:16:28",
+  "prompt_chars": 54952,
+  "filing_chars": 39449,
+  "filing_words_sent": 5857,
+  "approx_prompt_tokens": 13738,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Provides financial services to consumers and small businesses as a customer group, with no specific enabling program described in Item 1",
+        "quote": "The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.",
+        "section": "Item 1 > Overview",
+        "status": "current",
+        "indicators": "none disclosed for small businesses; Firm serves 'millions of customers'",
+        "themes": {
+          "entrepreneurship": "serving small-business customers with no specific enabling service described (max 1)"
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Internship training programs for students as part of recruiting",
+        "quote": "These opportunities range from internship training programs for students to entry-level, management and executive careers.",
+        "section": "Item 1 > Human capital > Attracting and retaining employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development / recruiting pipeline, limited description and no reach figures"
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Voluntary training programs and educational resources offered to all employees",
+        "quote": "The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as leadership and management, artificial intelligence, data literacy and operational and professional skills.",
+        "section": "Item 1 > Human capital > Developing employees",
+        "status": "current",
+        "indicators": "available to all employees (318,512 employees); no participation figures",
+        "themes": {
+          "community": "employee development (capped at 2)"
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Leadership Edge, a named global leadership and management development center for employees",
+        "quote": "Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.",
+        "section": "Item 1 > Human capital > Developing employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development, named ongoing program (capped at 2)"
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee benefits that include tuition assistance and financial education",
+        "quote": "access to on-site health and wellness centers, counseling and resources related to mental health, time away policies, child care access and support, tuition assistance, and financial education.",
+        "section": "Item 1 > Human capital > Rewarding and supporting employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development benefit (capped at 2)"
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Discloses workforce demographics, including race/ethnicity, gender, LGBTQ+, veteran and disability status",
+        "quote": "The following table presents information based on voluntary self-identifications by the Firm’s employees, including members of the Firm’s Operating Committee and other senior level employees, as well as members of the Board of Directors, as of December 31, 2025.",
+        "section": "Item 1 > Human capital > Workforce composition",
+        "status": "current",
+        "indicators": "318,512 employees; U.S. employees 22% Hispanic, 20% Asian, 13% Black; 48% women globally; 4% LGBTQ+; 5% people with disabilities; 3% veterans",
+        "themes": {
+          "cross_cultural": "demographic statistics only, which is a disclosure and not an activity (max 1)"
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "General statement about fostering an inclusive work environment",
+        "quote": "JPMorganChase believes that its long-term growth and success depend on its ability to identify, attract, develop, retain and engage talented employees and foster an inclusive work environment.",
+        "section": "Item 1 > Human capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": "general statement with no described practice (max 1)"
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the overview describes a financial services business with no creative work created, enabled or supported."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: all qualifying activities are employee development (training, Leadership Edge, internships, tuition assistance), so the score is capped at 2, and Item 1 describes no external education or community investment."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 1: only workforce demographic statistics and a general 'inclusive work environment' statement, with no employee networks, accessibility, multilingual or community programs described."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: Item 1 says only that the Firm serves small businesses, with no specific enabling service, program or tool described."
+      }
+    },
+    "notes": "Item 1 defers all segment, product and service descriptions to MD&A ('Business Segment & Corporate Results') and Note 32, which were not provided. For that reason Entrepreneurship is marked insufficient even though that theme usually has enough information; small-business enabling services such as merchant processing or lending may be described in MD&A. Community and Cross-cultural coverage is insufficient because Item 1 contains no community investment, external education, employee network or customer-access disclosures, so these companies should get the automated sustainability-report second look. Trap terms excluded: 'Community Reinvestment Act' (a regulatory requirement), 'Consumer & Community Banking' (a segment name), 'stockholders' equity', 'innovation' in the competition section, and 'artificial intelligence' regulation. Required employee policy training is treated as compliance training and is not counted. Operations in 66 countries do not count toward Cross-cultural. Under the rubric's weights the indicative total is 19/100.",
+    "sections_read": [
+      "Item 1"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"JPM\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Provides financial services to consumers and small businesses as a customer group, with no specific enabling program described in Item 1\",\"quote\":\"The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.\",\"section\":\"Item 1 > Overview\",\"status\":\"current\",\"indicators\":\"none disclosed for small businesses; Firm serves 'millions of customers'\",\"themes\":{\"entrepreneurship\":\"serving small-business customers with no specific enabling service described (max 1)\"}},{\"id\":\"E2\",\"activity\":\"Internship training programs for students as part of recruiting\",\"quote\":\"These opportunities range from internship training programs for students to entry-level, management and executive careers.\",\"section\":\"Item 1 > Human capital > Attracting and retaining employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development / recruiting pipeline, limited description and no reach figures\"}},{\"id\":\"E3\",\"activity\":\"Voluntary training programs and educational resources offered to all employees\",\"quote\":\"The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as leadership and management, artificial intelligence, data literacy and operational and professional skills.\",\"section\":\"Item 1 > Human capital > Developing employees\",\"status\":\"current\",\"indicators\":\"available to all employees (318,512 employees); no participation figures\",\"themes\":{\"community\":\"employee development (capped at 2)\"}},{\"id\":\"E4\",\"activity\":\"Leadership Edge, a named global leadership and management development center for employees\",\"quote\":\"Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.\",\"section\":\"Item 1 > Human capital > Developing employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development, named ongoing program (capped at 2)\"}},{\"id\":\"E5\",\"activity\":\"Employee benefits that include tuition assistance and financial education\",\"quote\":\"access to on-site health and wellness centers, counseling and resources related to mental health, time away policies, child care access and support, tuition assistance, and financial education.\",\"section\":\"Item 1 > Human capital > Rewarding and supporting employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development benefit (capped at 2)\"}},{\"id\":\"E6\",\"activity\":\"Discloses workforce demographics, including race/ethnicity, gender, LGBTQ+, veteran and disability status\",\"quote\":\"The following table presents information based on voluntary self-identifications by the Firm’s employees, including members of the Firm’s Operating Committee and other senior level employees, as well as members of the Board of Directors, as of December 31, 2025.\",\"section\":\"Item 1 > Human capital > Workforce composition\",\"status\":\"current\",\"indicators\":\"318,512 employees; U.S. employees 22% Hispanic, 20% Asian, 13% Black; 48% women globally; 4% LGBTQ+; 5% people with disabilities; 3% veterans\",\"themes\":{\"cross_cultural\":\"demographic statistics only, which is a disclosure and not an activity (max 1)\"}},{\"id\":\"E7\",\"activity\":\"General statement about fostering an inclusive work environment\",\"quote\":\"JPMorganChase believes that its long-term growth and success depend on its ability to identify, attract, develop, retain and engage talented employees and foster an inclusive work environment.\",\"section\":\"Item 1 > Human capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":\"general statement with no described practice (max 1)\"}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the overview describes a financial services business with no creative work created, enabled or supported.\"},\"community\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 2: all qualifying activities are employee development (training, Leadership Edge, internships, tuition assistance), so the score is capped at 2, and Item 1 describes no external education or community investment.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E6\",\"E7\"],\"reason\":\"Level 1: only workforce demographic statistics and a general 'inclusive work environment' statement, with no employee networks, accessibility, multilingual or community programs described.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: Item 1 says only that the Firm serves small businesses, with no specific enabling service, program or tool described.\"}},\"notes\":\"Item 1 defers all segment, product and service descriptions to MD&A ('Business Segment & Corporate Results') and Note 32, which were not provided. For that reason Entrepreneurship is marked insufficient even though that theme usually has enough information; small-business enabling services such as merchant processing or lending may be described in MD&A. Community and Cross-cultural coverage is insufficient because Item 1 contains no community investment, external education, employee network or customer-access disclosures, so these companies should get the automated sustainability-report second look. Trap terms excluded: 'Community Reinvestment Act' (a regulatory requirement), 'Consumer & Community Banking' (a segment name), 'stockholders' equity', 'innovation' in the competition section, and 'artificial intelligence' regulation. Required employee policy training is treated as compliance training and is not counted. Operations in 66 countries do not count toward Cross-cultural. Under the rubric's weights the indicative total is 19/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 19515,
+      "output_tokens": 4412,
+      "duration_ms": 40678
+    }
+  ]
+}

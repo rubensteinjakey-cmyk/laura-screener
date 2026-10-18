@@ -271,6 +271,10 @@ def find_report(company, cfg, folder, log_lines):
             candidates = parse_json_reply(reply).get("candidates", [])
         except ValueError:
             candidates = []
+        if not candidates and re.search(r"permission|denied|not available|unable to (?:search|use)",
+                                        reply, re.I):
+            # the search itself didn't run: that's an error, not "no report"
+            raise RuntimeError(f"web search did not run: {reply[:300]}")
         log_lines.append(f"search suggested {len(candidates)} candidate(s)")
 
     for c in candidates:

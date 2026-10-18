@@ -47,6 +47,10 @@ def run_claude(prompt, cfg, tools="", extra_args=None):
            "--setting-sources", "",
            "--strict-mcp-config",
            "--no-session-persistence"]
+    if tools:
+        # in headless mode a tool must also be pre-approved, or every use of
+        # it is silently denied
+        cmd += ["--allowedTools", tools]
     if cfg.get("effort"):
         cmd += ["--effort", cfg["effort"]]
     cmd += extra_args or []
