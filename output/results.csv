@@ -1,0 +1,4 @@
+ticker,company_name,sector,filing_date,sections_read,creativity,community,cross_cultural,entrepreneurship,final_score,sector_rank,sector_percentile,thin_filing,score_source,quote_check_status,report_url
+BAC,Bank of America Corporation,Financials,2026-02-25,Item 1,0,2,2,1,23.0,1,100,False,10-K,passed,
+JPM,JPMorgan Chase & Co.,Financials,2026-02-13,Item 1,0,2,1,2,22.0,2,67,False,10-K,passed,
+WFC,Wells Fargo & Company,Financials,2026-02-24,Item 1,0,2,1,2,22.0,2,67,False,10-K,passed,

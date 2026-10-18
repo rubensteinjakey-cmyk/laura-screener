@@ -1,0 +1,86 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America Corporation",
+  "sector": "Financials",
+  "run_id": "jakey_item7",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7"
+  ],
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "accession_number": "0000070858-26-000157",
+  "scored_at": "2026-10-18T20:22:27",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "quote_check": "passed",
+      "level_reason": "Level 0: the filing describes nothing related to creative work, artists, or storytelling.",
+      "quotes": []
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "quote_check": "passed",
+      "level_reason": "Level 2: one specific practice, a named internal training program (Bank of America Academy) with hours delivered, aimed at employees rather than schools, nonprofits or communities.",
+      "quotes": [
+        {
+          "quote": "we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy",
+          "found": true
+        },
+        {
+          "quote": "In 2025, more than 14,000 employees found new roles within the Corporation",
+          "found": true
+        }
+      ]
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "quote_check": "passed",
+      "level_reason": "Level 2: one specific practice, employee resource-style networks with membership numbers, beyond the workforce demographic statistics.",
+      "quotes": [
+        {
+          "quote": "We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally.",
+          "found": true
+        }
+      ]
+    },
+    "entrepreneurship": {
+      "ai_score": 3,
+      "score": 3,
+      "quote_check": "passed",
+      "level_reason": "Level 3: several specific practices, including small-business lending and banking with client counts and a dedicated loan portfolio; held below Level 4 because small business is a minor share of the overall business.",
+      "quotes": [
+        {
+          "quote": "We offer industry-leading support to approximately four million small business households.",
+          "found": true
+        },
+        {
+          "quote": "The U.S. small business commercial loan portfolio is comprised of small business card loans and small business loans primarily managed in Consumer Banking.",
+          "found": true
+        },
+        {
+          "quote": "Consumer Banking offers a diversified range of lending, deposit and investment products and services to consumers and small businesses.",
+          "found": true
+        }
+      ]
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 3
+  },
+  "final_score": 29.0,
+  "quote_check_status": "passed",
+  "thin_filing": false,
+  "thin_filing_trigger": "",
+  "human_capital_words": 1129,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}

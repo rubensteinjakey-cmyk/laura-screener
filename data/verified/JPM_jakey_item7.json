@@ -1,0 +1,94 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase & Co.",
+  "sector": "Financials",
+  "run_id": "jakey_item7",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7"
+  ],
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "accession_number": "0001628280-26-008131",
+  "scored_at": "2026-10-18T20:22:06",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "quote_check": "passed",
+      "level_reason": "Level 0: the filing describes no creative products, creator support, licensing of creative work, or arts programs; an 'Arts & Culture' lending sub-category is only a credit-risk classification.",
+      "quotes": []
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "quote_check": "passed",
+      "level_reason": "Level 3: several specific practices are described, including a $1.0 billion foundation contribution, internship training programs for students, and tuition assistance.",
+      "quotes": [
+        {
+          "quote": "a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024",
+          "found": true
+        },
+        {
+          "quote": "These opportunities range from internship training programs for students to entry-level, management and executive careers.",
+          "found": true
+        },
+        {
+          "quote": "child care access and support, tuition assistance, and financial education.",
+          "found": true
+        }
+      ]
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "quote_check": "passed",
+      "level_reason": "Level 1: the filing gives general inclusion language and workforce demographic statistics (including LGBTQ+ and disability status) but describes no specific inclusion practice.",
+      "quotes": [
+        {
+          "quote": "identify, attract, develop, retain and engage talented employees and foster an inclusive work environment",
+          "found": true
+        },
+        {
+          "quote": "Information on LGBTQ+ and veteran statuses is based on all U.S. employees, and all members of the Operating Committee and the Board of Directors.",
+          "found": true
+        }
+      ]
+    },
+    "entrepreneurship": {
+      "ai_score": 4,
+      "score": 4,
+      "quote_check": "passed",
+      "level_reason": "Level 4: small businesses and start-ups are a major customer group with measurable data (7.4 million small business customers), though enabling them is not the core business.",
+      "quotes": [
+        {
+          "quote": "CCB Small business customers (in millions) 7.4",
+          "found": true
+        },
+        {
+          "quote": "Consumer & Community Banking offers products and services to consumers and small businesses through bank branches, ATMs, digital (including mobile and online) and telephone banking.",
+          "found": true
+        },
+        {
+          "quote": "Commercial Banking provides banking products and services to clients, including start-ups, small and mid-sized companies, local governments, municipalities, and nonprofits, as well as commercial real estate clients.",
+          "found": true
+        }
+      ]
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 3,
+    "cross_cultural": 1,
+    "entrepreneurship": 4
+  },
+  "final_score": 34.0,
+  "quote_check_status": "passed",
+  "thin_filing": false,
+  "thin_filing_trigger": "",
+  "human_capital_words": 897,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}

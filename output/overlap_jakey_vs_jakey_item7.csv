@@ -1,0 +1,4 @@
+ticker,final_a,final_b,final_diff,creativity_a,community_a,cross_cultural_a,entrepreneurship_a,creativity_b,community_b,cross_cultural_b,entrepreneurship_b,result,problems
+BAC,23.0,29.0,6.0,0,2,2,1,0,2,2,3,FAIL,final differs by 6.0; entrepreneurship differs by 2
+JPM,22.0,34.0,12.0,0,2,1,2,0,3,1,4,FAIL,final differs by 12.0; entrepreneurship differs by 2
+WFC,22.0,22.0,0.0,0,2,1,2,0,2,1,2,PASS,
