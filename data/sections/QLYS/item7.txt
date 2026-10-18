@@ -1,0 +1,312 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion in conjunction with our consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. You should carefully review and consider the information regarding our financial condition and results of operations set forth under Part II-Item 7 (Management’s Discussion and Analysis of Financial Condition and Results of Operations) in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, filed with the SEC on February 21, 2025, for an understanding of our results of operations and liquidity discussions and analysis comparing fiscal year 2024 to fiscal year 2023, which information is hereby incorporated by reference. In addition to historical information, this discussion contains forward-looking statements that involve risks and uncertainties that could cause our actual results to differ materially from our expectations, as discussed in "Forward-Looking Statements" in Part I of this Annual Report on Form 10-K. Factors that could cause such differences include, but are not limited to, those described in the section titled "Risk Factors" and elsewhere in this Annual Report on Form 10-K.
+
+Overview
+
+We are a leading provider of a cloud-based platform delivering information technology (IT), security and compliance solutions that enable organizations to identify security risks to their IT infrastructures, help protect their IT systems and applications from ever-evolving cyber-attacks and achieve compliance with internal policies and external regulations. Our cloud platform addresses the growing security and compliance complexities and risks that are amplified by the dissolving boundaries between IT infrastructures and web environments, the rapid adoption of cloud computing, containers and serverless IT models, and the proliferation of geographically dispersed IT assets. Our integrated suite of IT, security and compliance solutions delivered on Qualys' Enterprise TruRisk Platform enables our customers to identify and manage their IT and operational technology (OT) assets, collect and analyze large amounts of IT security data, discover and prioritize vulnerabilities, quantify cyber risk exposure, recommend and implement remediation actions and verify the implementation of such actions. Organizations use our integrated suite of solutions to cost-effectively obtain a unified view of their internal and external IT and OT asset inventory as well as security and compliance posture across globally-distributed IT infrastructures as our solution offers a single platform for IT, information security, application security, endpoint, developer security and cloud teams.
+
+We were founded and incorporated in December 1999 with a vision of transforming the way organizations secure and protect their IT infrastructure and applications and initially launched our first cloud solution, Vulnerability Management (VM), in 2000. As VM gained acceptance, we introduced additional solutions to help customers manage increasing IT, security and compliance requirements. Today, the suite of solutions that we offer on our cloud platform and refer to as the Qualys Cloud Apps help our customers detect, measure, prioritize and remediate cyber risk spanning a range of assets across on-premises, endpoints, cloud, containers, and mobile environments.
+
+We provide our solutions through a software-as-a-service model, primarily with renewable annual subscriptions. These subscriptions require customers to pay a fee in order to access each of our cloud solutions. We generally invoice our customers for the entire subscription amount at the start of the subscription term, and the invoiced amounts are treated as deferred revenues and are recognized ratably over the term of each subscription. We continue to experience revenue growth from our existing customers as they renew and purchase additional subscriptions, as well as from the addition of new customers to our cloud platform.
+
+We market and sell our solutions to enterprises, government entities and small and medium-sized businesses across a broad range of industries, including education, financial services, government, healthcare, insurance, manufacturing, media, retail, technology and utilities. In 2025, 2024 and 2023, 56%, 58% and 60%, respectively, of our revenues were derived from customers in the United States based on our customers' billing addresses. We sell our solutions to enterprises and government entities primarily through our field sales force and to small and medium-sized businesses through our inside sales force. We generate a significant portion of sales through our channel partners, including managed security service providers, leading cloud providers, value-added resellers and consulting firms in the United States and internationally.
+
+Impacts of Current Macroeconomic Environment
+
+The uncertainty surrounding macroeconomic factors in the U.S. and globally characterized by inflationary pressure, high interest rates, significant volatility of global markets, reduced spending and extended sales cycles, tariff and non-tariff trade barriers, economic and regulatory uncertainty, and geopolitical conflicts could have a material adverse effect on our long-term business and could lead to further economic disruption and expose us to greater risk as our current and potential customers may reduce or eliminate their overall spending on IT security. We will continue to evaluate the nature and extent of the impact to our business, financial position, results of operations and cash flows.
+
+Key Components of Results of Operations
+
+Revenues
+
+We derive revenues from the sale of subscriptions to our IT, security and compliance solutions, which are delivered on our cloud platform. Subscriptions to our solutions allow customers to access our cloud-based IT, security and compliance solutions through a unified, web-based interface. Customers generally enter into one-year renewable subscriptions. The subscription fee entitles the customer to an unlimited number of scans for a specified number of devices or web applications and, if requested by a customer as part of their subscription, a specified number of physical or virtual scanner appliances. Our physical and virtual scanner appliances are requested by certain customers as part of their subscriptions in order to scan IT infrastructures within their firewalls and do not function without, and are not sold separately from, subscriptions for our solutions. In some cases, we also provide certain computer equipment used to extend our cloud platform into our customers' private cloud environment. Customers are required to return physical scanner appliances and computer equipment if they do not renew their subscriptions.
+
+We typically invoice our customers for the entire subscription amount at the start of the subscription term. Invoiced amounts are reflected on our consolidated balance sheets as accounts receivable or as cash when collected, and as deferred revenues until earned and recognized ratably over the subscription period. Accordingly, deferred revenues represent the amount billed to customers that has not yet been earned or recognized as revenues, pursuant to subscriptions entered into in current and prior periods.
+
+Cost of Revenues
+
+Cost of revenues consists primarily of personnel expenses, comprised of salaries, benefits, performance-based compensation and stock-based compensation, for employees who operate our shared cloud platforms and provide support services to our customers. Other expenses include depreciation of shared cloud platform equipment, physical scanner appliances and computer hardware provided to certain customers as part of their subscriptions, expenses related to the use of shared cloud platforms, amortization of software and license fees, amortization of intangibles related to acquisitions, maintenance support, fees paid to contractors who supplement or support our operations center personnel and overhead allocations. We expect to continue to expand our shared cloud platform infrastructures and invest in our customer support and operations teams to support our customers and operations, which in turn, is expected to increase the cost of revenues in absolute dollars.
+
+Operating Expenses
+
+Research and Development
+
+Research and development expenses consist primarily of personnel expenses, comprised of salaries, benefits, performance-based compensation and stock-based compensation, for our research and development teams. Other expenses include third-party contractor fees, software and license fees, amortization of intangibles related to acquisitions and overhead allocations. We expect to continue to devote resources to research and development in an effort to continuously improve our existing solutions as well as develop new solutions and capabilities, which in turn, is expected to increase the research and development expenses in absolute dollars.
+
+Sales and Marketing
+
+Sales and marketing expenses consist primarily of personnel expenses, comprised of salaries, benefits, sales commissions, performance-based compensation and stock-based compensation for our worldwide sales and marketing teams. Other expenses include marketing and promotional events, lead-generation marketing programs, public relations, travel, software licenses and overhead allocations. Sales commissions related to new business and upsells are capitalized as an asset. We amortize the capitalized commission cost as a selling expense on a straight-line basis over a period of five years. We expense sales commissions related to contract renewals as incurred. Our new sales personnel are typically not immediately productive, and the resulting increase in sales and marketing expenses we incur when we add new personnel may not result in increased revenues if these new sales personnel fail to become productive. The timing of our hiring of sales personnel, or the participation in new marketing events or programs, and the rate at which these generate incremental revenues, may affect our future operating results. We expect to continue to invest in sales and marketing teams and also in more marketing programs to support new solutions on our platform, which in turn, is expected to increase sales and marketing expenses in absolute dollars.
+
+General and Administrative
+
+General and administrative expenses consist primarily of personnel expenses, comprised of salaries, benefits, performance-based compensation and stock-based compensation for our executive, finance and accounting, IT, legal and human resources teams, as well as professional services, fees, software licenses and overhead allocations. We expect to continue to invest in our people and incur professional services to support our growth and compliance with legal and regulatory requirements, which in turn, is expected to increase general and administrative expenses in absolute dollars.
+
+Other Income (Expense), Net
+
+Our other income (expense), net consists primarily of interest and returns from our cash equivalent, short-term and long-term marketable securities, non-marketable securities gains and losses, and foreign exchange gains and losses.
+
+Income Tax Provision
+
+We are subject to federal, state and foreign income taxes for jurisdictions in which we operate, and we use estimates in determining our income tax provision and deferred tax assets. Earnings from our non-U.S. activities are subject to income taxes in the local countries at rates which are generally similar to the U.S. statutory tax rate. We regularly assess the realizability of our net deferred tax assets. As of December 31, 2025, valuation allowances remain in certain jurisdictions where we believe it is necessary to see positive evidence, such as sustained achievement of sufficient profits, to meet a more likely than not stance that the valuation allowance should be reversed. The exact timing and amount of the valuation allowance release is subject to change based on the level of profitability achieved in future periods. Release of the valuation allowance would result in the recognition of deferred tax assets and a corresponding decrease to income tax expense in the period the release is recorded.
+
+On July 4, 2025, the One Big Beautiful Bill Act (OBBBA) was signed into law. The OBBBA permanently extends and modifies certain domestic and international provisions from the 2017 TCJA and phases out certain provisions from the 2022 Inflation Reduction Act. Beginning in 2025, the OBBBA provides an elective deduction for domestic research and development expenses and a reinstatement of elective 100% first-year bonus depreciation. Some international provisions of the OBBBA will not be effective until 2026 and forward. We have recognized the effects of the OBBBA provisions in our financial results to the extent they are applicable to the year ended December 31, 2025. We will continue to monitor the impact of the OBBBA and the range of potential outcomes, which will depend on facts in each year and anticipated guidance from the U.S. Department of the Treasury.
+
+Results of Operations
+
+The following table sets forth selected consolidated statements of operations data for each of the periods presented as a percentage of revenues:
+
+Year Ended December 31,
+
+2025 | 2024
+
+Revenues | 100 | % | 100 | %
+
+Cost of revenues | 17 | 18
+
+Gross profit | 83 | 82
+
+Operating expenses:
+
+Research and development | 18 | 19
+
+Sales and marketing | 21 | 21
+
+General and administrative | 11 | 11
+
+Total operating expenses | 50 | 51
+
+Income from operations | 33 | 31
+
+Total other income, net | 4 | 4
+
+Income before income taxes | 37 | 35
+
+Income tax provision | 7 | 6
+
+Net income | 30 | % | 29 | %
+
+Comparison of Years Ended December 31, 2025 and 2024
+
+Revenues
+
+Year Ended
+
+December 31, | Change
+
+2025 | 2024 | $ | %
+
+(in thousands, except percentages)
+
+Revenues | $ | 669,125 | $ | 607,571 | $ | 61,554 | 10 | %
+
+Revenues increased by $61.6 million in 2025 compared to 2024, driven by increased demand for our subscription services by our end customers. Of the total increase of $61.6 million in revenues, 76% was from customers existing at or prior to December 31, 2024, and the remaining 24% was from new customers added in 2025. Of the total increase of $61.6 million, 37% was from customers in the United States and the remaining 63% was from customers in foreign countries. In 2025, 51% of total revenues were direct and 49% of total revenues were through partners. Of the total increase of $61.6 million, 20% was direct and the remaining 80% was from partners.
+
+With our strong market position driving further demand for our solutions, we expect revenue growth from new and existing customers to continue.
+
+Cost of Revenues
+
+Year Ended
+
+December 31, | Change
+
+2025 | 2024 | $ | %
+
+(in thousands, except percentages)
+
+Cost of revenues | $ | 114,768 | $ | 111,482 | $ | 3,286 | 3 | %
+
+Cost of revenues increased by $3.3 million in 2025 compared to 2024, primarily due to an increase in personnel costs of $4.7 million, driven by additional employees hired to support the growth of our business and an increase in incentive compensation, an increase in license expenses of $1.9 million, partially offset by a decrease in depreciation and amortization expense of $3.3 million resulting from certain of our assets becoming fully depreciated or amortized.
+
+Research and Development Expenses
+
+Year Ended
+
+December 31, | Change
+
+2025 | 2024 | $ | %
+
+(in thousands, except percentages)
+
+Research and development | $ | 117,284 | $ | 111,852 | $ | 5,432 | 5 | %
+
+Research and development expenses increased by $5.4 million in 2025 compared to 2024, primarily due to an increase in personnel costs of $4.4 million, driven by additional employees hired to support the growth of our business and an increase in incentive compensation, an increase in overhead allocations of $1.8 million, and an increase in shared cloud platform costs of $1.0 million, partially offset by a decrease in stock-based compensation of $1.1 million driven by lower average grant-date fair value and geographic mix, and a decrease in professional service expense of $0.7 million.
+
+Sales and Marketing Expenses
+
+Year Ended
+
+December 31, | Change
+
+2025 | 2024 | $ | %
+
+(in thousands, except percentages)
+
+Sales and marketing | $ | 143,505 | $ | 128,303 | $ | 15,202 | 12 | %
+
+Sales and marketing expenses increased by $15.2 million in 2025 compared to 2024, primarily due to an increase in personnel costs of $8.8 million, driven by an increase in headcount and higher sales commissions and incentive compensation, an increase in marketing expenses of $4.2 million, primarily related to digital advertising, sales event and sponsorship, an increase in travel expenses of $1.5 million, and an increase in overhead allocations of $0.7 million.
+
+General and Administrative Expenses
+
+Year Ended
+
+December 31, | Change
+
+2025 | 2024 | $ | %
+
+(in thousands, except percentages)
+
+General and administrative | $ | 71,616 | $ | 68,738 | $ | 2,878 | 4 | %
+
+General and administrative expenses increased by $2.9 million in 2025 compared to 2024, primarily due to an increase in personnel costs, including stock-based compensation, of $4.1 million, driven by an increase in headcount and higher incentive compensation due to higher achievement rates compared to 2024, and an increase in license expenses of $0.9 million, partially offset by an increase in overhead allocations to other expense categories of $2.1 million.
+
+Total other income, net
+
+Year Ended
+
+December 31, | Change
+
+2025 | 2024 | $ | %
+
+(in thousands, except percentages)
+
+Total other income, net | $ | 24,876 | $ | 22,626 | $ | 2,250 | 10 | %
+
+Total other income, net increased by $2.3 million in 2025 compared to 2024, primarily due to favorable changes in foreign currency of $2.8 million, partially offset by a decrease in interest income of $0.5 million.
+
+Income tax provision
+
+Year Ended
+
+December 31, | Change
+
+2025 | 2024 | $ | %
+
+(in thousands, except percentages)
+
+Income tax provision | $ | 48,508 | $ | 36,142 | $ | 12,366 | 34 | %
+
+Income tax provision increased by $12.4 million in 2025 compared to 2024, primarily due to the tax effect of a decrease in the benefit from FDII deduction as a result of the enactment of the OBBBA, along with a decrease in excess tax benefits from stock-based compensation and a decrease in tax benefits from other discrete adjustments compared to the prior year.
+
+Key Operating and Non-GAAP Financial Performance Metrics
+
+In addition to measures of financial performance presented in our consolidated financial statements, we monitor the key metrics set forth below to help us evaluate growth trends, establish budgets, measure the effectiveness of our sales and marketing efforts and assess operational efficiencies.
+
+Net Dollar Expansion Rate
+
+We evaluate our ability to retain and grow existing customers by assessing our net dollar expansion rate on a last twelve months, or LTM, basis. This metric is used to appropriately manage resources and customer retention and expansion. We calculate the net dollar expansion rate on a foreign exchange neutral basis by dividing a numerator by a denominator, each defined as follows:
+
+Denominator: To calculate our net dollar expansion rate as of the end of a reporting period, we first determine the annual recurring revenue, or ARR, from all active subscriptions as of the last day of the same reporting period in the prior year. This represents recurring payments that we expect to receive in the next 12-month period from the cohort of customers that existed on the last day of the same reporting period in the prior year.
+
+Numerator: We measure the ARR for that same cohort of customers representing all active subscriptions as of the end of the reporting period, using the same foreign exchange rate from the prior year.
+
+Our net dollar expansion rate was 103% for both the years ended December 31, 2025 and 2024.
+
+Adjusted EBITDA
+
+We monitor Adjusted EBITDA, a non-GAAP financial measure, to analyze our financial results and believe that it is useful to investors, as a supplement to U.S. GAAP measures, in evaluating our ongoing operational performance and enhancing an overall understanding of our past financial performance. We believe that Adjusted EBITDA helps illustrate underlying trends in our business that could otherwise be masked by the effect of the income or expenses that we exclude in Adjusted EBITDA. Furthermore, we use this measure to establish budgets and operational goals for managing our business and evaluating our performance. We also believe that Adjusted EBITDA provides an additional tool for investors to use in comparing our recurring core business operating results over multiple periods with other companies in our industry.
+
+Adjusted EBITDA should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with U.S. GAAP. We calculate Adjusted EBITDA as net income before (1) other (income) expense, net, which includes interest income, interest expense and other income and expense, (2) income tax provision (benefit), (3) depreciation and amortization of property and equipment, (4) amortization of intangible assets, (5) stock-based compensation and (6) non-recurring expenses that do not reflect ongoing costs of operating the business.
+
+Adjusted EBITDA has limitations as an analytical tool and should not be considered in isolation from or as a substitute for the measures presented in accordance with U.S. GAAP. Some of these limitations are:
+
+•Adjusted EBITDA does not reflect certain cash and non-cash charges that are recurring;
+
+•Adjusted EBITDA does not reflect income tax payments that reduce cash available to us;
+
+•Adjusted EBITDA excludes depreciation and amortization of property and equipment and amortization of intangible assets, although these are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future; and
+
+•Other companies, including companies in our industry, may calculate Adjusted EBITDA differently or not at all, which reduces its usefulness as a comparative measure.
+
+Because of these limitations, Adjusted EBITDA should be considered alongside other financial performance measures, including revenues, net income, cash flows from operating activities and our financial results presented in accordance with U.S. GAAP.
+
+The following unaudited table presents the reconciliation of net income to Adjusted EBITDA for the years ended December 31, 2025 and 2024:
+
+Year Ended December 31,
+
+2025 | 2024
+
+(in thousands)
+
+Net income | $ | 198,320 | $ | 173,680
+
+Net income as a percentage of revenues | 30 | % | 29 | %
+
+Depreciation and amortization of property and equipment | 11,934 | 15,610
+
+Amortization of intangible assets | 2,557 | 2,903
+
+Income tax provision | 48,508 | 36,142
+
+Stock-based compensation | 76,966 | 77,133
+
+Total other income, net | (24,876) | (22,626)
+
+Adjusted EBITDA | $ | 313,409 | $ | 282,842
+
+Adjusted EBITDA as a percentage of revenues | 47 | % | 47 | %
+
+Liquidity and Capital Resources
+
+As of December 31, 2025, our principal source of liquidity was cash, cash equivalents and marketable securities of $696.8 million, including $155.3 million of cash held outside of the United States. The following summary of cash flows for the periods indicated has been derived from our consolidated financial statements included elsewhere in this report:
+
+Year Ended December 31,
+
+2025 | 2024
+
+(in thousands)
+
+Net cash provided by operating activities | $ | 309,400 | $ | 244,094
+
+Net cash used in investing activities
+(105,924) | (71,427)
+
+Net cash used in financing activities | (185,400) | (145,650)
+
+Net increase in cash, cash equivalents and restricted cash | $ | 18,076 | $ | 27,017
+
+Operating Activities
+
+In 2025, we generated $296.0 million of cash from our net income, as adjusted for non-cash items mainly related to stock-based compensation expense, depreciation and amortization expense and deferred taxes, as compared to $243.9 million in 2024. In addition, we also generated $13.4 million of cash from working capital change in 2025, of which $14.0 million was related to the net favorable change in accounts receivable and deferred revenue due to the growth in billings and collections, partially offset by an $0.6 million net unfavorable change in prepaid expenses and payables and accrued liabilities due to the timing of payments. In 2024, we generated $243.9 million of cash from our net income, as adjusted for non-cash items mainly related to stock-based compensation expense, depreciation and amortization expense and deferred taxes. In addition, we also generated $0.2 million of cash from working capital change in 2024, of which $11.7 million was related to the increases in accounts receivable and deferred revenue due to the timing of collections and growth in billings, a $3.2 million increase in payables and accrued liabilities driven by the timing of payment, partially offset by a $14.7 million increase in prepaid expenses.
+
+Investing Activities
+
+In 2025, we used $100.9 million of cash for purchases of marketable securities net of sales and maturities, and used $5.0 million of cash in capital expenditures mainly related to computer equipment to support our growth and development and leasehold improvement for expansion of our office spaces, as compared to the use of $59.1 million of cash for purchases of marketable securities net of sales and maturities, and the use of $12.3 million of cash in capital expenditures mainly related to computer
+
+equipment to support our growth and development and leasehold improvement for expansion of our office spaces and shared cloud platform facilities in 2024.
+
+Financing Activities
+
+In 2025, we used $183.4 million of cash for share repurchases and $25.0 million of cash in payment of employee withholding taxes upon vesting of restricted stock units, partially offset by $16.3 million of proceeds from employee exercise of stock options and $6.8 million of proceeds from issuance of common stock through our employee stock purchase plan (ESPP), as compared to $139.9 million of cash for share repurchase and $28.4 million of cash in payment of employee withholding taxes upon vesting of restricted stock units and $1.5 million payment of cash held in escrow as part of the Blue Hexagon acquisition on October 4, 2022, partially offset by $17.3 million of proceeds from employee exercise of stock options and $6.9 million of proceeds from issuance of common stock through our ESPP in 2024.
+
+Material Cash Requirements
+
+We believe our existing cash and cash equivalents, marketable securities and our expected cash flow generated from operations will be sufficient to fund our operations for the next twelve months and beyond. If we repatriate funds from our foreign subsidiaries, we could be subject to foreign withholding taxes.
+
+Our material cash requirements mainly include the following contractual and other obligations:
+
+•Our operating lease obligations to make payments under our non-cancelable lease agreements for our facilities and shared cloud platforms. We had fixed operating lease payment obligations of $69.0 million as of December 31, 2025, with $11.4 million expected to be paid within the next 12 months.
+
+•Cash outflow for capital expenditures in 2026 is expected to be in a range of $8.0 million to $12.0 million. Our future capital requirements will depend on many factors, including our rate of revenue growth, the expansion of our sales and marketing activities, the timing, type and extent of our spending on research and development efforts, international expansion and investment in shared cloud platforms and cloud infrastructures. We may also seek to invest in or acquire complementary businesses or technologies.
+
+•Other non-cancelable purchase obligations related to cloud infrastructures and other service providers totaled $60.2 million, of which $13.2 million is expected to be paid within the next 12 months.
+
+Share Repurchases
+
+We expect to continue to use cash to repurchase shares in 2026 under our share repurchase program authorized by our board of directors on February 5, 2018. As of December 31, 2025, approximately $160.5 million remained available under our share repurchase program. Shares will be repurchased from time to time in privately negotiated transactions or on the open market in accordance with Rule 10b-18 of the Exchange Act of 1934, including pursuant to a pre-set trading plan adopted in accordance with Rule 10b5-1 under the Exchange Act. On February 5, 2026, we announced that our board of directors authorized an additional $200.0 million under the share repurchase program, increasing the total amount of authorized repurchase to $1.6 billion.
+
+Critical Accounting Estimates
+
+The preparation of our consolidated financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses and related disclosures. Our significant accounting policies are described in Note 1 - The Company and Summary of Significant Accounting Policies in the accompanying notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K. On an ongoing basis, we evaluate our estimates and assumptions based on historical and anticipated results and trends that we believe represent our best estimate under the circumstances. However, as accounting estimates are subject to inherent uncertainty, our actual results may differ from these estimates under different assumptions or conditions.
+
+Income Taxes
+
+Significant assumptions, judgments and estimates are involved in determining our provision for (benefit from) income taxes, our deferred tax assets and liabilities, and any valuation allowance to be recorded against our deferred tax assets. Our judgments, assumptions and estimates relating to the current provision for income taxes include the geographic mix and amount of income (loss), expectations of future income, our interpretation of current tax laws, our business, and possible outcomes of current and future audits conducted by foreign and domestic tax authorities. Our judgments also include anticipating the tax positions we
+
+will record in the financial statements before preparing and filing the tax returns. Our estimates and assumptions may differ from the actual results as reflected in our income tax returns and we record the required adjustments when they are identified or resolved. Changes in our business and tax laws or our interpretation of those, and developments in current and future tax audits, could significantly impact the amounts provided for income taxes in our results of operations, financial position, or cash flows.
+
+The assessment of tax effects of our uncertain tax positions in our financial statements involves significant judgment in interpreting complex and ambiguous tax laws, regulations, and administrative practices, determining the probability of various possible settlement outcomes, evaluating the litigation process based on tax authority behaviors in similar cases, and estimating the likelihood that another taxing authority could review the respective tax position. These judgments are inherently challenging and subjective because a taxing authority may change its behavior at any time. We must also determine when it is reasonably possible that the amount of unrecognized tax benefits will significantly increase or decrease in the 12 months after each fiscal year-end. We reevaluate our income tax positions on a quarterly basis to consider factors such as changes in facts or circumstances, changes in tax laws, effectively settled issues under audit, the potential for interest and penalties, and new audit activity. Such a change in recognition or measurement would result in recognition of a tax benefit or an additional charge to the tax provision that could be material in the future.
+
+Stock-Based Compensation
+
+We recognize the fair value of our employee stock options and restricted stock units (RSU), including performance-based restricted stock units (PRSU), over the requisite service period. The fair value of each stock option is estimated on date of grant using the Black-Scholes-Merton option pricing model. Determining the appropriate fair value model and calculating the fair value of employee stock options requires the use of subjective assumptions, including the expected life of the stock option and stock price volatility. The recognition of expenses for performance based restricted stock units requires us to estimate the probability that the performance condition will be achieved and the number of awards that will vest are adjusted accordingly at each reporting period. The assumptions used in calculating the fair value of employee stock options and estimating the probability of achievement of performance metrics represent management’s best estimates, which require significant judgment and involve inherent uncertainties. If factors change and we use different assumptions, our stock-based compensation expense could be materially different in the future.

@@ -1,0 +1,43 @@
+{
+  "ticker": "OSCR",
+  "accession_number": "0001568651-26-000011",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "full_text_words": 77554,
+  "sections": {
+    "item1": {
+      "words": 10769,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          10769,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8662,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8662,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 162,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 3,
+      "paragraphs_total": 195
+    }
+  },
+  "notes": [],
+  "human_capital_words": 655,
+  "human_capital_found": true,
+  "people_paragraph_words": 1559
+}

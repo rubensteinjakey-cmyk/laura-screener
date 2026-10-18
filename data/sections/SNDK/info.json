@@ -1,0 +1,43 @@
+{
+  "ticker": "SNDK",
+  "accession_number": "0001628280-26-057406",
+  "filing_date": "2026-08-17",
+  "fiscal_year": 2026,
+  "full_text_words": 63198,
+  "sections": {
+    "item1": {
+      "words": 5280,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5280,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7254,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7254,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 149,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 185
+    }
+  },
+  "notes": [],
+  "human_capital_words": 627,
+  "human_capital_found": true,
+  "people_paragraph_words": 899
+}

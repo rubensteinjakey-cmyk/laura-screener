@@ -1,0 +1,43 @@
+{
+  "ticker": "NTAP",
+  "accession_number": "0001193125-26-259683",
+  "filing_date": "2026-06-05",
+  "fiscal_year": 2026,
+  "full_text_words": 50505,
+  "sections": {
+    "item1": {
+      "words": 6975,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          6975,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7372,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7372,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 223,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 4,
+      "paragraphs_total": 664
+    }
+  },
+  "notes": [],
+  "human_capital_words": 737,
+  "human_capital_found": true,
+  "people_paragraph_words": 901
+}
