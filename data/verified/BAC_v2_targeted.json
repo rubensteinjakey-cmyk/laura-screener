@@ -1,0 +1,200 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America Corporation",
+  "sector": "Financials",
+  "run_id": "v2_targeted",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "accession_number": "0000070858-26-000157",
+  "scored_at": "2026-10-18T22:11:06",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "reason": "Level 0: the filing fully describes a banking and financial services business and shows no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E2",
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E6"
+      ],
+      "reason": "Level 2: all measured activity is employee development (Bank of America Academy, 7.6 million hours), which caps Community at 2, and external community investment appears only as an oversight topic with no figures.",
+      "flags": [],
+      "coverage_trigger": "ai"
+    },
+    "cross_cultural": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E3",
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E3",
+        "E7"
+      ],
+      "reason": "Level 3: a specific current internal practice with disclosed reach (11 employee networks, over 330,000 memberships) under the Talent, Inclusion and Opportunity heading.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4",
+        "E5"
+      ],
+      "valid_evidence_ids": [
+        "E4",
+        "E5"
+      ],
+      "reason": "Level 1: the company serves about four million small business households and holds a small business loan and card portfolio, but describes no specific program or tool that lowers barriers to starting or growing a business.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 3,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 27.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Runs 11 voluntary employee networks open to all employees",
+      "quote": "We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally.",
+      "section": "Item 1 > Human Capital Resources > Talent, Inclusion and Opportunity",
+      "status": "current",
+      "indicators": "11 networks, over 330,000 voluntary memberships",
+      "themes": {
+        "cross_cultural": "internal practice (employee networks) with membership figures"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Trains and develops employees through Bank of America Academy and supports internal mobility",
+      "quote": "In 2025, more than 14,000 employees found new roles within the Corporation, and we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy.",
+      "section": "Item 1 > Human Capital Resources > Talent, Inclusion and Opportunity",
+      "status": "current",
+      "indicators": "7.6 million training hours; 14,000+ internal role moves; ~213,000 employees",
+      "themes": {
+        "community": "employee development (named program with figures; capped at 2)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Discloses workforce demographics by gender and U.S. ethnicity",
+      "quote": "The following table provides our workforce data by gender (globally) and ethnicity (U.S. only).",
+      "section": "Item 1 > Human Capital Resources",
+      "status": "current",
+      "indicators": "Women 50% of global employees; U.S. workforce 46% White, 15% Asian, 15% Black, 20% Hispanic",
+      "themes": {
+        "cross_cultural": "demographic disclosure only (max 1)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Provides banking services to small business households",
+      "quote": "We offer industry-leading support to approximately four million small business households.",
+      "section": "Item 7 > Executive Summary (targeted excerpt)",
+      "status": "current",
+      "indicators": "approximately four million small business households",
+      "themes": {
+        "entrepreneurship": "serving small-business customers; no specific enabling program described (max 1)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Lends to small businesses through small business loans and small business cards",
+      "quote": "The U.S. small business commercial loan portfolio is comprised of small business card loans and small business loans primarily managed in Consumer Banking.",
+      "section": "Item 7 > Credit Risk Management > U.S. Small Business Commercial",
+      "status": "current",
+      "indicators": "Portfolio table total 22,500 at Dec 31, 2025 vs 20,865 in 2024 (units not shown in excerpt); credit cards 51% of the portfolio",
+      "themes": {
+        "entrepreneurship": "general small-business credit, described only in credit-risk terms, with no barrier-lowering program (max 1)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Board committee oversees charitable contributions and community reinvestment",
+      "quote": "The committee also oversees sustainability matters (other than human capital matters), including the Corporation’s public policy engagement, sustainability initiatives, charitable contributions, and community reinvestment activities and performance.",
+      "section": "Item 7 > Corporate Governance (targeted excerpt)",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "community investment mentioned only as a governance oversight topic, with no programs or figures (max 1)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Pay equity reviews conducted by a third-party consultant",
+      "quote": "We maintain robust policies and practices that reinforce our commitment, including reviews conducted by a third-party consultant with oversight from our Board and senior management.",
+      "section": "Item 1 > Human Capital Resources > Recognizing and Rewarding Performance",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": "internal practice (equal-pay reviews), limited detail"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Community coverage is marked insufficient because the 10-K covers external community investment only as a governance oversight topic (charitable contributions, community reinvestment) and refers readers to the website and 2025 Annual Report for human capital details, so this triggers the automated sustainability-report second look. The filing does not describe the focus or membership groups of the 11 Employee Networks, only that they are open to all employees and fall under the Talent, Inclusion and Opportunity heading. Score 3 follows the rubric's treatment of employee networks with membership figures and should be confirmed in the second look. Excluded as traps or non-activities: 'Community Reinvestment Act ratings' (regulatory eligibility condition), 'Government and public education' (a credit exposure category), cybersecurity training for employees (compliance-type training), 'Risk Framework serves as the foundation' (not a charitable foundation), and international operations. The small business loan table units are not shown in the excerpt. Minimum wage, healthcare premiums, counseling and sabbatical benefits are current employee benefits but do not meet any theme's criteria.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 1129,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}

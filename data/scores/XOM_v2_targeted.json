@@ -1,0 +1,94 @@
+{
+  "ticker": "XOM",
+  "company_name": "Exxon Mobil Corporation",
+  "sector": "Energy",
+  "run_id": "v2_targeted",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000034088-26-000045",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T22:15:46",
+  "prompt_chars": 25320,
+  "filing_chars": 9554,
+  "filing_words_sent": 1342,
+  "approx_prompt_tokens": 6330,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Career-oriented talent development for the company's own employees through planned experiences and training",
+        "quote": "Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle.",
+        "section": "Item 1 > Business > Talent development (human capital paragraphs)",
+        "status": "current",
+        "indicators": "Average length of service about 30 years for career employees; 58 thousand regular employees at year-end 2025; no program names, participant counts or spending disclosed",
+        "themes": {
+          "community": "employee development described only as a general approach, with no named program or figures"
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Disclosure of a multinational workforce with a general statement on diversity of thought",
+        "quote": "With over 59 percent of our global employees from outside the U.S. and more than 160 nationalities represented across the Company, we encourage and respect diversity of thought, ideas, and perspective from our workforce.",
+        "section": "Item 1 > Business > Talent development (human capital paragraphs)",
+        "status": "current",
+        "indicators": "Over 59% of employees outside the U.S.; more than 160 nationalities",
+        "themes": {
+          "cross_cultural": "workforce demographic statistics and a general statement only, with no specific inclusion practice"
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers oil, gas, fuels, chemicals and lower-emission products, with no creative activity."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: only a general description of internal talent development, with no named program, no figures and no external education or community investment; torn between 1 and 2, so the lower level applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: workforce nationality statistics and a general diversity statement only, with no specific inclusion activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: there is no service or program that enables founders or small businesses."
+      }
+    },
+    "notes": "Human capital disclosure is a few general sentences, and the Item 7 excerpts contain no qualifying community or inclusion content, so Community and Cross-cultural coverage is insufficient. This triggers the automated second look using the company's latest sustainability report. Trap terms excluded: 'foundation' in Item 7 refers to the Global Outlook as the foundation for Corporate Plan assumptions, not a charitable foundation. ProxximaTM resin systems and carbon materials are industrial products, not creative work. The company's own research programs and over 8 thousand patents are its own innovation. The ladder places own innovation at level 1, but it does not enable other ventures and the 'innovation' trap applies, so I chose the lower level and Entrepreneurship is 0. For Community, the 30-year average service figure measures retention, not the reach of a development program.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted MD&A excerpts)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"XOM\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted MD&A excerpts)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Career-oriented talent development for the company's own employees through planned experiences and training\",\"quote\":\"Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle.\",\"section\":\"Item 1 > Business > Talent development (human capital paragraphs)\",\"status\":\"current\",\"indicators\":\"Average length of service about 30 years for career employees; 58 thousand regular employees at year-end 2025; no program names, participant counts or spending disclosed\",\"themes\":{\"community\":\"employee development described only as a general approach, with no named program or figures\"}},{\"id\":\"E2\",\"activity\":\"Disclosure of a multinational workforce with a general statement on diversity of thought\",\"quote\":\"With over 59 percent of our global employees from outside the U.S. and more than 160 nationalities represented across the Company, we encourage and respect diversity of thought, ideas, and perspective from our workforce.\",\"section\":\"Item 1 > Business > Talent development (human capital paragraphs)\",\"status\":\"current\",\"indicators\":\"Over 59% of employees outside the U.S.; more than 160 nationalities\",\"themes\":{\"cross_cultural\":\"workforce demographic statistics and a general statement only, with no specific inclusion practice\"}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers oil, gas, fuels, chemicals and lower-emission products, with no creative activity.\"},\"community\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: only a general description of internal talent development, with no named program, no figures and no external education or community investment; torn between 1 and 2, so the lower level applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: workforce nationality statistics and a general diversity statement only, with no specific inclusion activity.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: there is no service or program that enables founders or small businesses.\"}},\"notes\":\"Human capital disclosure is a few general sentences, and the Item 7 excerpts contain no qualifying community or inclusion content, so Community and Cross-cultural coverage is insufficient. This triggers the automated second look using the company's latest sustainability report. Trap terms excluded: 'foundation' in Item 7 refers to the Global Outlook as the foundation for Corporate Plan assumptions, not a charitable foundation. ProxximaTM resin systems and carbon materials are industrial products, not creative work. The company's own research programs and over 8 thousand patents are its own innovation. The ladder places own innovation at level 1, but it does not enable other ventures and the 'innovation' trap applies, so I chose the lower level and Entrepreneurship is 0. For Community, the 30-year average service figure measures retention, not the reach of a development program.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 9528,
+      "output_tokens": 2585,
+      "duration_ms": 25214
+    }
+  ]
+}

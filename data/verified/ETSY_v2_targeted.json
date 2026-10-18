@@ -1,0 +1,351 @@
+{
+  "ticker": "ETSY",
+  "company_name": "Etsy Inc.",
+  "sector": "Consumer Discretionary",
+  "run_id": "v2_targeted",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "accession_number": "0001370637-26-000019",
+  "scored_at": "2026-10-18T22:13:18",
+  "themes": {
+    "creativity": {
+      "ai_score": 5,
+      "score": 5,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E4",
+        "E7",
+        "E8"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E4",
+        "E7",
+        "E8"
+      ],
+      "reason": "Level 5: enabling independent artisans and creative sellers through the Etsy marketplace (87.8% of GMS, 5.6M active sellers) is the core business.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ],
+      "valid_evidence_ids": [
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ],
+      "reason": "Level 3: external community investment with substantial disclosed reach (Uplift Fund ~7,690 entrepreneurs and $1.9M in grants, ~$3.4M donations, $3M loan-fund investment, CERF+ partnership), but not shown as very large or central to strategy enough for 4.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E12",
+        "E13",
+        "E14",
+        "E15"
+      ],
+      "valid_evidence_ids": [
+        "E12",
+        "E13",
+        "E14",
+        "E15"
+      ],
+      "reason": "Level 3: a specific current activity with a disclosed indicator ($39M spend with diverse-owned suppliers), plus internal practices (ERGs, disability-inclusive workplace, pay equity analysis) without reach figures; customer access is not a major measured business line.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 5,
+      "score": 5,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E4",
+        "E5",
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E4",
+        "E5",
+        "E7"
+      ],
+      "reason": "Level 5: enabling independent creators and micro-businesses (89% businesses of one, 59% first sold on Etsy) through seller marketplaces is the core business, supported by the Uplift Fund and small-business lending.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 5,
+    "community": 3,
+    "cross_cultural": 3,
+    "entrepreneurship": 5
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 80.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Operates the Etsy marketplace, where independent artisans and creative sellers sell handmade, custom, designed and vintage goods to buyers",
+      "quote": "The Etsy marketplace is the global destination for unique, creative goods from independent sellers, connecting artisans with thoughtful consumers seeking items that reflect their tastes and values.",
+      "section": "Item 1 > Overview > About our Company",
+      "status": "current",
+      "indicators": "Etsy marketplace GMS $10,460.7M (87.8% of consolidated GMS); 86.5M active buyers; 5.6M active sellers; >100M items; custom/made-to-order ~30% of GMS; Seller Census: 89% businesses of one, 59% first sold on Etsy, 29% say creative business is sole occupation",
+      "themes": {
+        "creativity": "enabling others' creative work is the core business (marketplace for creators, the large majority of GMS)",
+        "entrepreneurship": "seller marketplace enabling independent creators and micro-businesses is the core business"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Operates Depop, a peer-to-peer secondhand fashion marketplace (sale to eBay agreed, not yet closed)",
+      "quote": "Depop has been a people-powered fashion marketplace where anyone can buy, sell, explore, and discover incredible secondhand fashion.",
+      "section": "Item 1 > Our Marketplaces > The Depop Marketplace",
+      "status": "current",
+      "indicators": "Depop GMS $1,074.9M (9.0% of consolidated GMS); 3.2M active sellers; 7.0M active buyers; 55.6M registered users",
+      "themes": {
+        "entrepreneurship": "seller marketplace letting individuals sell independently; secondary to E1"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Launched a Community Hub that lets sellers connect with each other and with key resources",
+      "quote": "introduced a new Community Hub designed to allow sellers to more easily connect with each other and key resources",
+      "section": "Item 1 > Our Marketplaces > The Etsy Marketplace > Our Four Near-Term Strategic Initiatives",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "external peer collaboration among sellers, limited reach (no figures)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Uplift Fund grants to organizations giving creative entrepreneurs capital and business support, partly funded by buyer round-up donations",
+      "quote": "In 2025, our Uplift Fund supported organizations providing creative entrepreneurs with capital and wrap-around business support services for nearly 7,690 entrepreneurs.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Creative Community",
+      "status": "current",
+      "indicators": "~7,690 entrepreneurs supported; buyers donated change 4.4 million times, giving $1.9M in grants",
+      "themes": {
+        "community": "named community investment program with participant and dollar figures",
+        "entrepreneurship": "named grant program giving capital and business support to founders, with number of entrepreneurs helped",
+        "creativity": "directly supports creative entrepreneurs"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "$3M Impact Investment Fund investment in a loan fund that provides affordable lending to small business owners in the Southern U.S.",
+      "quote": "We also invested $3 million from our Impact Investment Fund in Hope Enterprise Corporation, a commercial loan fund that provides affordable lending services to local communities, organizations, and small business owners across the Southern United States.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Creative Community",
+      "status": "current",
+      "indicators": "$3 million",
+      "themes": {
+        "community": "community investment with disclosed dollars",
+        "entrepreneurship": "affordable small-business financing, number of businesses not disclosed"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Philanthropic donations to community-based organizations, alongside a $30M Impact Investment Fund",
+      "quote": "in 2025, Etsy made approximately $3.4 million in philanthropic donations to community-based organizations doing work that supports our Impact goals.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Values-Aligned Investment",
+      "status": "current",
+      "indicators": "~$3.4M donations in 2025; $30M Impact Investment Fund",
+      "themes": {
+        "community": "community investment with dollar figures"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Disaster relief for sellers: fee deferrals and $2,000 grants through a partnership with the nonprofit CERF+",
+      "quote": "In 2025, we deferred fees owed by nearly 77,000 sellers impacted by the Los Angeles fires and continued to partner with the Craft Emergency Relief Fund (“CERF+”) to provide individual grants of $2,000 to Etsy marketplace U.S. sellers",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Environmental > Marketplace Sustainability > Helping Our Sellers Build Climate Resilience",
+      "status": "current",
+      "indicators": "fees deferred for ~77,000 sellers; $2,000 individual grants (number of grants not disclosed)",
+      "themes": {
+        "community": "nonprofit partnership and grants with figures",
+        "entrepreneurship": "relief helping small creative businesses recover",
+        "creativity": "direct support for craft artists through CERF+"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E8",
+      "activity": "Pilot grant to help an artists' district rebuild after a hurricane",
+      "quote": "we issued a pilot grant to support the River Arts District in North Carolina in envisioning a resilient approach to rebuilding for this community of over 550 artists",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Environmental > Marketplace Sustainability > Helping Our Sellers Build Climate Resilience",
+      "status": "current",
+      "indicators": "artist community of over 550 artists; grant amount not disclosed; pilot",
+      "themes": {
+        "creativity": "single direct support for an artist community (pilot)",
+        "community": "community investment, limited (pilot)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E9",
+      "activity": "Free public database of climate-related disaster resources for small businesses and makers, built with Nest",
+      "quote": "In 2025, we launched a free public database of climate-related resources for small businesses and makers.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Environmental > Marketplace Sustainability > Helping Our Sellers Build Climate Resilience",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "external educational resource, limited reach (no figures)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E10",
+      "activity": "Educational videos for sellers on choosing ethical production partners, made with Nest",
+      "quote": "In 2025, we continued our partnership with Nest to create educational videos for Etsy sellers who engage with production partners.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Supply Chain > Our Commitment to Human Rights",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "external education for sellers, limited reach (policy-related)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E11",
+      "activity": "Skills development budget and mentorship for employees",
+      "quote": "We provide budget for skills development across our organization, along with tailored mentorship opportunities.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access > Ensuring Equal Access to Employment",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": "employee development"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E12",
+      "activity": "Employee Resource Groups across Etsy and Depop",
+      "quote": "And our Employee Resource Groups (“ERGs”) continue to thrive across Etsy and Depop, contributing to a culture of inclusion across our brands.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access > Ensuring Equal Access to Employment",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": "internal practice: employee networks with no figures"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E13",
+      "activity": "Disability-inclusive workplace practices rated 100 on the Disability Equality Index",
+      "quote": "Etsy and Depop both achieved a score of 100 on DisabilityIn.org's Disability Equality Index in 2025",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access",
+      "status": "current",
+      "indicators": "DEI score 100 for Etsy and Depop; specific practices not described",
+      "themes": {
+        "cross_cultural": "internal practice: accessible and inclusive workplace (external rating, practices not detailed)"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E14",
+      "activity": "Purchasing from suppliers owned by women, people with disabilities, LGBTQ people, racial/ethnic minorities and veterans",
+      "quote": "During 2025, we spent $39 million with diverse-owned suppliers, which we define as woman, disability, and LGBTQ-owned globally; as well as Black, Asian-Indian, Asian-Pacific, Hispanic/Latinx, Indigenous, and veteran-owned in the United States.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Supply Chain > Supplier Diversity",
+      "status": "current",
+      "indicators": "$39 million spend in 2025",
+      "themes": {
+        "cross_cultural": "specific current activity widening economic participation for underrepresented-owned businesses, with dollar figure"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E15",
+      "activity": "Biennial third-party pay equity analysis by gender and race/ethnicity",
+      "quote": "Since 2020, Etsy has engaged a third-party to conduct a biennial pay equity analysis to confirm compensation is not influenced by gender or race/ethnicity.",
+      "section": "Item 1 > Our Impact Strategy, Goals, & Progress > Social > Workforce Access > Ensuring Equal Access to Employment",
+      "status": "current",
+      "indicators": "biennial since 2020; next analysis expected 2026",
+      "themes": {
+        "cross_cultural": "internal practice, no reach figures"
+      },
+      "source_doc": "10-K",
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Reverb (sold June 2, 2025) and Elo7 (sold 2023) are past and were not scored. Depop is still operated, so it is scored as current, but its sale to eBay ($1.2B) was agreed Feb 15, 2026 and is expected to close Q2 2026; it will become discontinued operations. Depop is fashion resale, so it was not counted for Creativity. The 2024 seller set-up fee intentionally reduced active seller counts. Workforce demographic statistics (gender, race, disability, LGBTQIA+, 70+ nationalities) are disclosure only and were not counted as activity. The pay equity analysis is biennial, with the next one in 2026. The company says supplier and hiring decisions are made on merit. Platform support for multiple languages/geographies and international sales were not counted (international-operations trap). Trap terms excluded: 'Innovative Technology', engineering 'design', ML 'content', 'brand equity', and 'Community' meaning customer operations teams. The Item 7 excerpt only repeats the overview sentence and adds no evidence. Some Impact details (climate index, SASB, EEO-1) are referred to the IR website, but coverage in Item 1 is enough to judge all themes. The $30M Impact Investment Fund (E6) is the source of the $3M Hope Enterprise investment (E5) and a $3M clean-energy loan; these were not double counted. Environmental activities were not scored except where they independently meet a theme (seller disaster relief).",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 1603,
+  "score_source": "10-K",
+  "report_url": "",
+  "second_look": null
+}
