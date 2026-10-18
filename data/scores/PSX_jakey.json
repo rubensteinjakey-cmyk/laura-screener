@@ -1,0 +1,85 @@
+{
+  "ticker": "PSX",
+  "company_name": "Phillips 66",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001534701-26-000006",
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T23:37:47",
+  "prompt_chars": 72094,
+  "filing_chars": 52105,
+  "filing_words_sent": 7521,
+  "approx_prompt_tokens": 18023,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Develops its own employees through rotational assignments, targeted development programs and career pathways",
+        "quote": "This includes technical capability, accelerating leadership readiness and developing talent through rotational experiences, targeted development programs, and career pathways aligned with our evolving business strategy.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Capability",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers refining, midstream, chemicals, marketing and renewable fuels, with no creative activity; 'create and innovate' and brand licensing are not creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only specific activity is employee development, with no external education or community investment, so the cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, based only on general language ('seeking different perspectives', 'building a diverse leadership pipeline'); coverage is insufficient under condition 3 because Item 7 points to the 2025 Sustainability and People Report for social and human capital initiatives, and the 10-K gives no specific inclusion activity itself."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, based only on general information: the company's own research (Energy Research & Innovation) and a network of independent marketers and dealers, with no specific program to help founders or small businesses."
+      }
+    },
+    "notes": "Rigorous employee safety training is mentioned, but it was not scored separately because it is largely compliance-type safety training and would not change the Community score. Brand-licensing agreements for fuel outlets were treated as a trap, not creative licensing. The Los Angeles Refinery stopped fuel production and began idling in Q4 2025; its decommissioning and redevelopment move to Corporate and Other in 2026. Cross-cultural coverage is insufficient, which triggers the automated second look; the 10-K says the 2025 Sustainability and People Report is on the company website (phillips66.com). Illustrative total before any second look: 0 + 12 + 4 + 3 = 19/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"PSX\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Develops its own employees through rotational assignments, targeted development programs and career pathways\",\"quote\":\"This includes technical capability, accelerating leadership readiness and developing talent through rotational experiences, targeted development programs, and career pathways aligned with our evolving business strategy.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Capability\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers refining, midstream, chemicals, marketing and renewable fuels, with no creative activity; 'create and innovate' and brand licensing are not creative work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only specific activity is employee development, with no external education or community investment, so the cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, based only on general language ('seeking different perspectives', 'building a diverse leadership pipeline'); coverage is insufficient under condition 3 because Item 7 points to the 2025 Sustainability and People Report for social and human capital initiatives, and the 10-K gives no specific inclusion activity itself.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, based only on general information: the company's own research (Energy Research & Innovation) and a network of independent marketers and dealers, with no specific program to help founders or small businesses.\"}},\"notes\":\"Rigorous employee safety training is mentioned, but it was not scored separately because it is largely compliance-type safety training and would not change the Community score. Brand-licensing agreements for fuel outlets were treated as a trap, not creative licensing. The Los Angeles Refinery stopped fuel production and began idling in Q4 2025; its decommissioning and redevelopment move to Corporate and Other in 2026. Cross-cultural coverage is insufficient, which triggers the automated second look; the 10-K says the 2025 Sustainability and People Report is on the company website (phillips66.com). Illustrative total before any second look: 0 + 12 + 4 + 3 = 19/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 27733,
+      "output_tokens": 2589,
+      "duration_ms": 26502
+    }
+  ]
+}

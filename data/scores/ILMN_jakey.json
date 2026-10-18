@@ -1,0 +1,67 @@
+{
+  "ticker": "ILMN",
+  "company_name": "Illumina, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001110803-26-000024",
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T23:35:49",
+  "prompt_chars": 20125,
+  "filing_chars": 127,
+  "filing_words_sent": 3,
+  "approx_prompt_tokens": 5031,
+  "ai": {
+    "evidence": [],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 1: the Item 1 text has only the heading 'Business' and no description of products or activities, so there is nothing to judge."
+      },
+      "community": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 1: the filing text has no human capital, workforce, people or community discussion, and the targeted Item 7 excerpt is empty."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 1: the filing text has no human capital, workforce, people or community discussion, and the targeted Item 7 excerpt is empty."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 1: the Item 1 text has no description of the business, customers or services, and the targeted Item 7 excerpt is empty."
+      }
+    },
+    "notes": "The supplied filing text looks like a failed or truncated extraction. Item 1 contains only the headings 'Item 1' and 'Business', and the Item 7 (targeted) section is completely empty. An empty targeted MD&A can be legitimate, but an empty Business section cannot, because every 10-K must describe what the company sells. No evidence records could be created, and all four themes are marked insufficient under condition 1 (no discussion at all). As the rubric requires, no outside knowledge of the company was used. These zeros reflect missing input, not a finding of no activity. Recommend re-extracting Item 1 and the targeted Item 7 and rescoring before any ranking. Community and Cross-cultural also trigger the automated sustainability-report second look, but that should not replace re-running the 10-K extraction. Creativity and Entrepreneurship are insufficient here only because the Business section is missing, and they would normally be sufficient. Hold the company for human review rather than ranking it last on these scores.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ILMN\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 1: the Item 1 text has only the heading 'Business' and no description of products or activities, so there is nothing to judge.\"},\"community\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 1: the filing text has no human capital, workforce, people or community discussion, and the targeted Item 7 excerpt is empty.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 1: the filing text has no human capital, workforce, people or community discussion, and the targeted Item 7 excerpt is empty.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 1: the Item 1 text has no description of the business, customers or services, and the targeted Item 7 excerpt is empty.\"}},\"notes\":\"The supplied filing text looks like a failed or truncated extraction. Item 1 contains only the headings 'Item 1' and 'Business', and the Item 7 (targeted) section is completely empty. An empty targeted MD&A can be legitimate, but an empty Business section cannot, because every 10-K must describe what the company sells. No evidence records could be created, and all four themes are marked insufficient under condition 1 (no discussion at all). As the rubric requires, no outside knowledge of the company was used. These zeros reflect missing input, not a finding of no activity. Recommend re-extracting Item 1 and the targeted Item 7 and rescoring before any ranking. Community and Cross-cultural also trigger the automated sustainability-report second look, but that should not replace re-running the 10-K extraction. Creativity and Entrepreneurship are insufficient here only because the Business section is missing, and they would normally be sufficient. Hold the company for human review rather than ranking it last on these scores.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 8130,
+      "output_tokens": 1084,
+      "duration_ms": 14648
+    }
+  ]
+}

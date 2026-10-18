@@ -1,0 +1,168 @@
+{
+  "ticker": "CRWD",
+  "company_name": "CrowdStrike",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001535527-26-000010",
+  "filing_date": "2026-03-05",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-18T23:50:42",
+  "prompt_chars": 97181,
+  "filing_chars": 77175,
+  "filing_words_sent": 10966,
+  "approx_prompt_tokens": 24295,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Marketing content production (whitepapers, paid media, conferences) used to drive demand",
+        "quote": "We also engage in paid media, web marketing, industry and trade conferences (including our annual Fal.Con conference), analyst engagements, whitepaper development, demand generation via digital and web, and targeted displacement campaigns.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sales and Marketing > Marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used only as a routine business input (marketing content)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "CrowdStrike University: paid training and certification courses for customers and partners",
+        "quote": "We offer training and certification services to customers and partners on CrowdStrike technologies and cybersecurity topics to facilitate the adoption of CrowdStrike and to broaden and deepen their skills.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Professional Services > CrowdStrike University Training and Certification",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "education_business",
+            "criterion": "level 2: specific current external education offering, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "CrowdStrike Foundation nonprofit supporting cybersecurity and AI talent through scholarships and grants",
+        "quote": "Since November 2017, he has also served as Chairman of the Board, and as President for the CrowdStrike Foundation, a nonprofit established to support the next generation of talent and research in cybersecurity and artificial intelligence through scholarships, grants, and other activities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Information about our Executive Officers > George Kurtz",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current scholarship and grant activity, no reach or dollar figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Employee training, rotational assignments and continuous learning programs",
+        "quote": "We deliver numerous training opportunities, provide rotational assignment opportunities, have expanded our focus on continuous learning and development, and ensure we manage performance, provide feedback, and develop talent.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Attraction, Retention, and Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee resource groups and groups connecting employees with similar backgrounds",
+        "quote": "Part of supporting our remote and hybrid culture also involves actively encouraging personal well-being through initiatives, including wellness programs, engagement programs (speaker series, employee resource groups, gift exchanges, mentorship opportunities, virtual events, etc.), community outreach activities, recognition programs, and groups to connect people, no matter where they are geographically, with similar interests, life circumstances or backgrounds.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Distributed Workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Selling security subscriptions to small and medium-sized businesses via trial-to-pay model",
+        "quote": "Historically, we and our channel partners have primarily sold to large organizations, but have increasingly focused on selling to small and medium-sized businesses, particularly through our trial-to-pay model.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Customers",
+        "status": "current",
+        "indicators": "more than 88,000 organizations (all customers, not SMB-specific)",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: creative work appears only as routine marketing content; the core business is cybersecurity software, and the Foundry app-development platform is software tooling, not creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: specific current external education (CrowdStrike University) and foundation scholarships/grants plus employee development, but no participant, dollar or reach figures to support level 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 2: employee resource groups and background-based connection groups are described without membership figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: small and medium-sized businesses are served as customers, with no specific program aimed at barriers to starting or growing a business."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. The CrowdStrike Foundation appears only in executive biographies; the filing gives no dollars, recipients or company funding amount, so it is held at level 2. CrowdStrike University is a customer and partner training subscription that partly serves product adoption; it is counted as an education offering, but with no reach figures. The CrowdStrike Store/Marketplace partner app ecosystem and Falcon Complete for organizations with limited security resources were not counted as entrepreneurship enabling: they serve security needs, not barriers to starting or growing a business, and Store investment is partly described as planned. Mentorship and community outreach are mentioned only in passing within engagement programs and were not counted separately. Excluded as traps or non-qualifying: international revenue and offices growth, 'foundational value', 'foundation for detection', AI model 'training', 'educating the public' as thought-leadership marketing, 'content' in marketing and data protection, 'identity' protection, 'design' meaning software architecture, and patent/license agreements. Quote E5 runs about 56 words because it is kept as a full sentence to avoid a misleading mid-sentence cut.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"CRWD\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Marketing content production (whitepapers, paid media, conferences) used to drive demand\",\"quote\":\"We also engage in paid media, web marketing, industry and trade conferences (including our annual Fal.Con conference), analyst engagements, whitepaper development, demand generation via digital and web, and targeted displacement campaigns.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sales and Marketing > Marketing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used only as a routine business input (marketing content)\"}}},{\"id\":\"E2\",\"activity\":\"CrowdStrike University: paid training and certification courses for customers and partners\",\"quote\":\"We offer training and certification services to customers and partners on CrowdStrike technologies and cybersecurity topics to facilitate the adoption of CrowdStrike and to broaden and deepen their skills.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Professional Services > CrowdStrike University Training and Certification\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"education_business\",\"criterion\":\"level 2: specific current external education offering, reach not quantified\"}}},{\"id\":\"E3\",\"activity\":\"CrowdStrike Foundation nonprofit supporting cybersecurity and AI talent through scholarships and grants\",\"quote\":\"Since November 2017, he has also served as Chairman of the Board, and as President for the CrowdStrike Foundation, a nonprofit established to support the next generation of talent and research in cybersecurity and artificial intelligence through scholarships, grants, and other activities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Information about our Executive Officers > George Kurtz\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current scholarship and grant activity, no reach or dollar figures\"}}},{\"id\":\"E4\",\"activity\":\"Employee training, rotational assignments and continuous learning programs\",\"quote\":\"We deliver numerous training opportunities, provide rotational assignment opportunities, have expanded our focus on continuous learning and development, and ensure we manage performance, provide feedback, and develop talent.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Attraction, Retention, and Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E5\",\"activity\":\"Employee resource groups and groups connecting employees with similar backgrounds\",\"quote\":\"Part of supporting our remote and hybrid culture also involves actively encouraging personal well-being through initiatives, including wellness programs, engagement programs (speaker series, employee resource groups, gift exchanges, mentorship opportunities, virtual events, etc.), community outreach activities, recognition programs, and groups to connect people, no matter where they are geographically, with similar interests, life circumstances or backgrounds.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Distributed Workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E6\",\"activity\":\"Selling security subscriptions to small and medium-sized businesses via trial-to-pay model\",\"quote\":\"Historically, we and our channel partners have primarily sold to large organizations, but have increasingly focused on selling to small and medium-sized businesses, particularly through our trial-to-pay model.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Customers\",\"status\":\"current\",\"indicators\":\"more than 88,000 organizations (all customers, not SMB-specific)\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: creative work appears only as routine marketing content; the core business is cybersecurity software, and the Foundry app-development platform is software tooling, not creative work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: specific current external education (CrowdStrike University) and foundation scholarships/grants plus employee development, but no participant, dollar or reach figures to support level 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 2: employee resource groups and background-based connection groups are described without membership figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: small and medium-sized businesses are served as customers, with no specific program aimed at barriers to starting or growing a business.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. The CrowdStrike Foundation appears only in executive biographies; the filing gives no dollars, recipients or company funding amount, so it is held at level 2. CrowdStrike University is a customer and partner training subscription that partly serves product adoption; it is counted as an education offering, but with no reach figures. The CrowdStrike Store/Marketplace partner app ecosystem and Falcon Complete for organizations with limited security resources were not counted as entrepreneurship enabling: they serve security needs, not barriers to starting or growing a business, and Store investment is partly described as planned. Mentorship and community outreach are mentioned only in passing within engagement programs and were not counted separately. Excluded as traps or non-qualifying: international revenue and offices growth, 'foundational value', 'foundation for detection', AI model 'training', 'educating the public' as thought-leadership marketing, 'content' in marketing and data protection, 'identity' protection, 'design' meaning software architecture, and patent/license agreements. Quote E5 runs about 56 words because it is kept as a full sentence to avoid a misleading mid-sentence cut.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 31395,
+      "output_tokens": 6491,
+      "duration_ms": 58606
+    }
+  ]
+}
