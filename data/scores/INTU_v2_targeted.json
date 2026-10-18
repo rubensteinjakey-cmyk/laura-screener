@@ -1,0 +1,193 @@
+{
+  "ticker": "INTU",
+  "company_name": "Intuit Inc.",
+  "sector": "Information Technology",
+  "run_id": "v2_targeted",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000896878-26-000037",
+  "filing_date": "2026-09-09",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-18T22:15:20",
+  "prompt_chars": 73886,
+  "filing_chars": 58115,
+  "filing_words_sent": 8419,
+  "approx_prompt_tokens": 18471,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Business segment providing an all-in-one platform for small and mid-market businesses to run and grow",
+        "quote": "Our Global Business Solutions segment serves small and mid-market businesses around the world, and the accounting professionals who assist and advise them.",
+        "section": "Item 1 > Products and Services > Global Business Solutions",
+        "status": "current",
+        "indicators": "Segment is 60% of fiscal 2026 total revenue; Intuit overall serves approximately 93 million consumers, businesses and accountants (no separate small-business count)",
+        "themes": {
+          "entrepreneurship": "enabling small businesses is a major reported segment with disclosed revenue share"
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Merchant payment processing for small and mid-market businesses, built into QuickBooks",
+        "quote": "Our full range of merchant services for small and mid-market businesses includes credit card, debit card, Apple Pay, Buy Now Pay Later, Tap to Pay, PayPal, and automated clearing house (ACH) payment services for in-person and card-not-present payments.",
+        "section": "Item 1 > Products and Services > Global Business Solutions > Get Paid and Pay Bills",
+        "status": "current",
+        "indicators": "none disclosed separately (part of segment with 60% of revenue)",
+        "themes": {
+          "entrepreneurship": "merchant and payment tools that lower barriers to running a business"
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Small-business financing: term loans, line of credit, capital marketplace and business credit card",
+        "quote": "We offer financing options for small and mid-market businesses to help them get the capital they need to succeed.",
+        "section": "Item 1 > Products and Services > Global Business Solutions > Get Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": "business financing that helps small businesses grow"
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Accounting plans built for early-stage solopreneurs, micro businesses and independent contractors, including a free tier",
+        "quote": "QuickBooks Free, QuickBooks Lite, QuickBooks Solopreneur, and QuickBooks Self-Employed are designed for early-stage solopreneurs, micro businesses, and independent contractors with varying needs.",
+        "section": "Item 1 > Products and Services > Global Business Solutions > Be Compliant and Organized",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": "low-cost tools aimed at founders and independent workers at the start-up stage"
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Mailchimp marketing tools that let small businesses promote themselves digitally",
+        "quote": "Mailchimp offers email and other marketing solutions that enable small and mid-market businesses to digitally promote themselves across email, social media, short message service (SMS), landing pages, ads, websites, and more, all from one place.",
+        "section": "Item 1 > Products and Services > Global Business Solutions > Get, Grow, and Manage Customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": "marketing tools that help small businesses find and grow customers"
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Employee learning paths, online courses, leadership development and tuition assistance",
+        "quote": "Employees have access to learning paths and online courses on topics ranging from AI to accelerating velocity.",
+        "section": "Item 1 > Human Capital > Talent Development and Retention",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development"
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Paid volunteer time for employees at vetted nonprofits and donation matching",
+        "quote": "We provide eligible full-time employees paid time off that can be used to do volunteer work during normal work hours for vetted non-profits and for donation matching up to an annual limit.",
+        "section": "Item 1 > Human Capital > Culture and Values",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "community investment (volunteering and giving) with no figures"
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Prosperity Hub program that hires and trains customer success staff in underserved communities, directly and through partner employers",
+        "quote": "We also source staff through our Prosperity Hub program, which is designed to drive economic opportunity in underserved communities by hiring and training customer success staff both directly and through partner employers.",
+        "section": "Item 1 > Customer Success",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "named skills and job-training program reaching people in underserved communities, including through partner employers, with no figures",
+          "cross_cultural": "specific practice that widens access to jobs for underserved communities, with no figures"
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Employee resource groups open to all employees",
+        "quote": "Intuit has established employee resource groups (ERGs) that provide a foundation for a culture of inclusion. These ERGs are employee-driven, volunteer-led, and open to all employees.",
+        "section": "Item 1 > Human Capital > Stronger Together",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": "internal practice: employee networks with no membership figures"
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Free Find a ProAdvisor service that matches businesses with accountants who speak their language",
+        "quote": "Our free Find a ProAdvisor service helps customers find a QuickBooks Certified accountant or bookkeeper who knows their niche, speaks their language, or is nearby.",
+        "section": "Item 1 > Products and Services > Global Business Solutions > Access Advice",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": "customer access: language-based matching to advisors, limited in scope"
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing fully describes the products (financial, tax and marketing software), and none of them creates or enables artistic or storytelling work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6",
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 2: there is employee development plus specific external activities (Prosperity Hub training in underserved communities, paid volunteering and donation matching), but no participant, dollar or reach figures that would support level 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E8",
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 2: there are specific current practices (ERGs with no membership figures, a hiring program for underserved communities, and language-based advisor matching), all limited in shown reach."
+      },
+      "entrepreneurship": {
+        "score": 4,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 4: enabling small businesses and solopreneurs through payments, financing, marketing and start-up accounting tools is a major reported segment at 60% of revenue; level 5 was not chosen because the segment also serves mid-market firms and accountants, and 40% of revenue is consumer tax and personal finance."
+      }
+    },
+    "notes": "Mailchimp was considered for Creativity but scored 0, because it is a marketing tool (email, ads, landing pages) rather than creative software, and brand marketing is a listed trap; it is counted under Entrepreneurship only. QuickBooks ProAdvisor training and certification for accountants (also mentioned in the Item 7 excerpt as ProAdvisor Program memberships) was left out of Community as commercial product training. Prosperity Hub is partly a way for Intuit to staff its own support centers, but it also trains people through partner employers in underserved communities, so it is counted once each under Community and Cross-cultural. Equal-opportunity language and the Stronger Together and We Care and Give Back values are general statements and were not scored on their own. A restructuring plan was announced in May 2026; the filing does not say it cut any of the programs above. Neither Community nor Cross-cultural gives any figures, so a sustainability report could add context, though coverage was judged sufficient and no second look is triggered.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted MD&A excerpts)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"INTU\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted MD&A excerpts)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Business segment providing an all-in-one platform for small and mid-market businesses to run and grow\",\"quote\":\"Our Global Business Solutions segment serves small and mid-market businesses around the world, and the accounting professionals who assist and advise them.\",\"section\":\"Item 1 > Products and Services > Global Business Solutions\",\"status\":\"current\",\"indicators\":\"Segment is 60% of fiscal 2026 total revenue; Intuit overall serves approximately 93 million consumers, businesses and accountants (no separate small-business count)\",\"themes\":{\"entrepreneurship\":\"enabling small businesses is a major reported segment with disclosed revenue share\"}},{\"id\":\"E2\",\"activity\":\"Merchant payment processing for small and mid-market businesses, built into QuickBooks\",\"quote\":\"Our full range of merchant services for small and mid-market businesses includes credit card, debit card, Apple Pay, Buy Now Pay Later, Tap to Pay, PayPal, and automated clearing house (ACH) payment services for in-person and card-not-present payments.\",\"section\":\"Item 1 > Products and Services > Global Business Solutions > Get Paid and Pay Bills\",\"status\":\"current\",\"indicators\":\"none disclosed separately (part of segment with 60% of revenue)\",\"themes\":{\"entrepreneurship\":\"merchant and payment tools that lower barriers to running a business\"}},{\"id\":\"E3\",\"activity\":\"Small-business financing: term loans, line of credit, capital marketplace and business credit card\",\"quote\":\"We offer financing options for small and mid-market businesses to help them get the capital they need to succeed.\",\"section\":\"Item 1 > Products and Services > Global Business Solutions > Get Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":\"business financing that helps small businesses grow\"}},{\"id\":\"E4\",\"activity\":\"Accounting plans built for early-stage solopreneurs, micro businesses and independent contractors, including a free tier\",\"quote\":\"QuickBooks Free, QuickBooks Lite, QuickBooks Solopreneur, and QuickBooks Self-Employed are designed for early-stage solopreneurs, micro businesses, and independent contractors with varying needs.\",\"section\":\"Item 1 > Products and Services > Global Business Solutions > Be Compliant and Organized\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":\"low-cost tools aimed at founders and independent workers at the start-up stage\"}},{\"id\":\"E5\",\"activity\":\"Mailchimp marketing tools that let small businesses promote themselves digitally\",\"quote\":\"Mailchimp offers email and other marketing solutions that enable small and mid-market businesses to digitally promote themselves across email, social media, short message service (SMS), landing pages, ads, websites, and more, all from one place.\",\"section\":\"Item 1 > Products and Services > Global Business Solutions > Get, Grow, and Manage Customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":\"marketing tools that help small businesses find and grow customers\"}},{\"id\":\"E6\",\"activity\":\"Employee learning paths, online courses, leadership development and tuition assistance\",\"quote\":\"Employees have access to learning paths and online courses on topics ranging from AI to accelerating velocity.\",\"section\":\"Item 1 > Human Capital > Talent Development and Retention\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development\"}},{\"id\":\"E7\",\"activity\":\"Paid volunteer time for employees at vetted nonprofits and donation matching\",\"quote\":\"We provide eligible full-time employees paid time off that can be used to do volunteer work during normal work hours for vetted non-profits and for donation matching up to an annual limit.\",\"section\":\"Item 1 > Human Capital > Culture and Values\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"community investment (volunteering and giving) with no figures\"}},{\"id\":\"E8\",\"activity\":\"Prosperity Hub program that hires and trains customer success staff in underserved communities, directly and through partner employers\",\"quote\":\"We also source staff through our Prosperity Hub program, which is designed to drive economic opportunity in underserved communities by hiring and training customer success staff both directly and through partner employers.\",\"section\":\"Item 1 > Customer Success\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"named skills and job-training program reaching people in underserved communities, including through partner employers, with no figures\",\"cross_cultural\":\"specific practice that widens access to jobs for underserved communities, with no figures\"}},{\"id\":\"E9\",\"activity\":\"Employee resource groups open to all employees\",\"quote\":\"Intuit has established employee resource groups (ERGs) that provide a foundation for a culture of inclusion. These ERGs are employee-driven, volunteer-led, and open to all employees.\",\"section\":\"Item 1 > Human Capital > Stronger Together\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":\"internal practice: employee networks with no membership figures\"}},{\"id\":\"E10\",\"activity\":\"Free Find a ProAdvisor service that matches businesses with accountants who speak their language\",\"quote\":\"Our free Find a ProAdvisor service helps customers find a QuickBooks Certified accountant or bookkeeper who knows their niche, speaks their language, or is nearby.\",\"section\":\"Item 1 > Products and Services > Global Business Solutions > Access Advice\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":\"customer access: language-based matching to advisors, limited in scope\"}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing fully describes the products (financial, tax and marketing software), and none of them creates or enables artistic or storytelling work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\",\"E7\",\"E8\"],\"reason\":\"Level 2: there is employee development plus specific external activities (Prosperity Hub training in underserved communities, paid volunteering and donation matching), but no participant, dollar or reach figures that would support level 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E8\",\"E9\",\"E10\"],\"reason\":\"Level 2: there are specific current practices (ERGs with no membership figures, a hiring program for underserved communities, and language-based advisor matching), all limited in shown reach.\"},\"entrepreneurship\":{\"score\":4,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 4: enabling small businesses and solopreneurs through payments, financing, marketing and start-up accounting tools is a major reported segment at 60% of revenue; level 5 was not chosen because the segment also serves mid-market firms and accountants, and 40% of revenue is consumer tax and personal finance.\"}},\"notes\":\"Mailchimp was considered for Creativity but scored 0, because it is a marketing tool (email, ads, landing pages) rather than creative software, and brand marketing is a listed trap; it is counted under Entrepreneurship only. QuickBooks ProAdvisor training and certification for accountants (also mentioned in the Item 7 excerpt as ProAdvisor Program memberships) was left out of Community as commercial product training. Prosperity Hub is partly a way for Intuit to staff its own support centers, but it also trains people through partner employers in underserved communities, so it is counted once each under Community and Cross-cultural. Equal-opportunity language and the Stronger Together and We Care and Give Back values are general statements and were not scored on their own. A restructuring plan was announced in May 2026; the filing does not say it cut any of the programs above. Neither Community nor Cross-cultural gives any figures, so a sustainability report could add context, though coverage was judged sufficient and no second look is triggered.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 24341,
+      "output_tokens": 6146,
+      "duration_ms": 54942
+    }
+  ]
+}
