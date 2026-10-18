@@ -1,0 +1,69 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America Corporation",
+  "sector": "Financials",
+  "run_id": "jakey_item7",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7"
+  ],
+  "accession_number": "0000070858-26-000157",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T20:22:27",
+  "prompt_chars": 352966,
+  "filing_chars": 342205,
+  "approx_prompt_tokens": 88241,
+  "ai": {
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "level_reason": "Level 0: the filing describes nothing related to creative work, artists, or storytelling.",
+        "quotes": []
+      },
+      "community": {
+        "score": 2,
+        "level_reason": "Level 2: one specific practice, a named internal training program (Bank of America Academy) with hours delivered, aimed at employees rather than schools, nonprofits or communities.",
+        "quotes": [
+          "we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy",
+          "In 2025, more than 14,000 employees found new roles within the Corporation"
+        ]
+      },
+      "cross_cultural": {
+        "score": 2,
+        "level_reason": "Level 2: one specific practice, employee resource-style networks with membership numbers, beyond the workforce demographic statistics.",
+        "quotes": [
+          "We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally."
+        ]
+      },
+      "entrepreneurship": {
+        "score": 3,
+        "level_reason": "Level 3: several specific practices, including small-business lending and banking with client counts and a dedicated loan portfolio; held below Level 4 because small business is a minor share of the overall business.",
+        "quotes": [
+          "We offer industry-leading support to approximately four million small business households.",
+          "The U.S. small business commercial loan portfolio is comprised of small business card loans and small business loans primarily managed in Consumer Banking.",
+          "Consumer Banking offers a diversified range of lending, deposit and investment products and services to consumers and small businesses."
+        ]
+      }
+    },
+    "thin_filing": false,
+    "sections_read": [
+      "Item 1",
+      "Item 7"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"BAC\",\"sector\":\"Financials\",\"sections_read\":[\"Item 1\",\"Item 7\"],\"themes\":{\"creativity\":{\"score\":0,\"level_reason\":\"Level 0: the filing describes nothing related to creative work, artists, or storytelling.\",\"quotes\":[]},\"community\":{\"score\":2,\"level_reason\":\"Level 2: one specific practice, a named internal training program (Bank of America Academy) with hours delivered, aimed at employees rather than schools, nonprofits or communities.\",\"quotes\":[\"we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy\",\"In 2025, more than 14,000 employees found new roles within the Corporation\"]},\"cross_cultural\":{\"score\":2,\"level_reason\":\"Level 2: one specific practice, employee resource-style networks with membership numbers, beyond the workforce demographic statistics.\",\"quotes\":[\"We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally.\"]},\"entrepreneurship\":{\"score\":3,\"level_reason\":\"Level 3: several specific practices, including small-business lending and banking with client counts and a dedicated loan portfolio; held below Level 4 because small business is a minor share of the overall business.\",\"quotes\":[\"We offer industry-leading support to approximately four million small business households.\",\"The U.S. small business commercial loan portfolio is comprised of small business card loans and small business loans primarily managed in Consumer Banking.\",\"Consumer Banking offers a diversified range of lending, deposit and investment products and services to consumers and small businesses.\"]}},\"thin_filing\":false}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 125523,
+      "output_tokens": 1834,
+      "duration_ms": 20015
+    }
+  ]
+}
