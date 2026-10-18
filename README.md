@@ -15,12 +15,14 @@ rubric (`rubric.md`), and ranks companies **within their sector**.
 |---|---|---|---|
 | 2 | `src/download.py` | no | Gets each company's latest 10-K from SEC EDGAR (cached) |
 | 3 | `src/extract.py` | no | Cuts out Item 1 (Business) and Item 7 (MD&A). Never Item 1A (Risk Factors) |
-| 5 | `src/score.py` | **yes** | Claude scores 4 themes 0–5 with word-for-word quotes |
-| 6 | `src/verify.py` | no | Code checks every quote really is in the filing, then calculates the score out of 100 |
-| 9 | `src/second_look.py` | **yes** (a little) | Thin filings only: finds the company's sustainability report and rescores Community + Cross-cultural (can only go up) |
+| 5 | `src/score.py` | **yes** | Claude lists evidence records (each with a word-for-word quote) and scores 4 themes 0–5, each with a coverage rating |
+| 6 | `src/verify.py` | no | Code checks every quote really is in the filing, removes failed evidence, checks each score points to `current` evidence, then calculates the score out of 100 |
+| 9 | `src/second_look.py` | **yes** (a little) | Only when Community or Cross-cultural coverage is `insufficient`: finds the company's sustainability report and rescores those themes from scratch (scores can go up or down) |
 | 8 | `src/merge.py` | no | Combines everyone's results |
-| 10 | `src/rank.py` | no | Sector ranks + `output/results.csv`, `summary.md`, `needs_human.csv` |
+| 10 | `src/rank.py` | no | Sector ranks, shortlist + `output/results.csv`, `evidence.csv`, `summary.md`, `needs_human.csv` |
 | – | `src/overlap_check.py` | no | Compares two runs of the same companies |
+| – | `src/blind_check.py` | no | Blank hand-scoring sheet + compares a teammate's hand scores to the AI |
+| – | `tests/test_checker.py` | no | Proves the checker catches altered/made-up quotes, double counting and planned activities |
 
 `run_all.py` runs all of them in order with one command.
 
@@ -62,8 +64,8 @@ Claude subscription (the `claude -p` command, which is Claude Code's
    - `user_agent` → **your** name and email (the SEC requires it)
    - `run_id` → your first name, e.g. `"maya"`
 
-   **Don't change** `model`, `effort` or `sections`. Everyone must use the
-   same ones or the scores aren't comparable.
+   **Don't change** `model`, `effort`, `sections` or the shortlist settings.
+   Everyone must use the same ones or the scores aren't comparable.
 7. **Check Claude Code works from a script**:
    ```
    claude -p --model claude-opus-5-5 "Reply with the word ok"
@@ -120,16 +122,33 @@ python src/overlap_check.py --a maya --b maya_repeat
 
 **PASS** = final scores within 5 points and no theme more than 1 point apart.
 
+## Blind check (hand-scoring)
+
+1. `python src/blind_check.py make --tickers JPM,BAC,WFC` writes
+   `output/blind_check_template.csv`. It has **no AI scores** in it.
+2. A teammate copies it (e.g. `blind_check_maya.csv`), reads the companies'
+   text in `data/sections/{TICKER}/` with `rubric.md`, and fills in a 0–5
+   score and coverage (`sufficient`/`insufficient`) for each theme, **without
+   looking at** `output/`, `data/scores/` or `data/verified/`.
+3. `python src/blind_check.py compare blind_check_maya.csv --run-id jakey`
+   shows where the human and the AI agree (same rule as the overlap check).
+
 ## Outputs
 
-- `output/results.csv`: one row per company: scores, final score, sector rank
-  and percentile, thin filing flag, score source, quote check status, report URL.
-- `output/summary.md`: per sector: companies ranked, each with its 4 theme
-  scores and its best verified quotes.
+- `output/results.csv`: one row per company: the 4 theme scores and their
+  coverage, final score, sector rank and percentile, `in_shortlist`, score
+  source, original 10-K scores (if a second look ran), quote check status,
+  flags, report URL.
+- `output/evidence.csv`: one row per evidence record (activity, quote,
+  section, status, indicators, themes, source document, verified or not).
+- `output/summary.md`: per sector: the shortlist, then companies ranked, each
+  with its 4 theme scores and coverage next to the total and its strongest
+  verified evidence per theme.
 - `output/needs_human.csv`: everything the tool couldn't handle, with a reason
-  (section not found, quote check failed, no sustainability report found...).
+  (section not found, quote check failed, no sustainability report found,
+  report not on the company's main website...).
 - `data/sections/{TICKER}/`: the exact text the AI read (`item1.txt`,
-  `item7.txt`), plus `info.json` with word counts and notes.
+  `item7.txt`, `item7_targeted.txt`), plus `info.json` with word counts and notes.
 - `data/scores/`: the AI's raw answers. `data/verified/`: after the quote check.
 - `logs/`: what happened, step by step (including text size sent per company).
 
@@ -137,18 +156,33 @@ python src/overlap_check.py --a maya --b maya_repeat
 
 - **Quotes are checked by code, not by the AI** (`verify.py`): spaces, line
   breaks, curly/straight quotes, dashes and capital letters are ignored, but
-  the words must match exactly. Any failed quote → that theme = 0, and the
-  company goes in `needs_human.csv`.
+  the words must match exactly. A failed quote's evidence record is removed.
+  A theme that cited it keeps its score only if other valid `current`
+  evidence remains (and is flagged for review); otherwise it becomes 0.
+- **Only `current` activities count.** A score of 1+ must point to at least one
+  verified `current` evidence record, or it becomes 0. Citing the same
+  activity twice in one theme is flagged. `python tests/test_checker.py`
+  proves all of this works.
 - **The code calculates final scores and ranks**, not the AI.
 - **Same model for everyone**: `config.yaml` fixes the full model ID and effort
   level. Each Claude call also runs with no tools and no personal settings, and
   the code stops if Claude answers with a different model.
 - **Risk Factors (Item 1A) are never read.** Item 1 is cut off right where
   Item 1A begins.
-- **Thin filings**: if the AI says so, or the Human Capital part of Item 1 is
-  missing / under 150 words, `thin_filing = true` and `second_look.py` tries the
-  company's own sustainability report (2024 or later, only from a website the
-  company lists in its own 10-K). Scores can only go up.
+- **Coverage and the second look**: each theme is `sufficient` or
+  `insufficient`. If the AI marks Community or Cross-cultural `insufficient`
+  (or the Human Capital part of Item 1 is missing / under 150 words),
+  `second_look.py` finds the company's sustainability report (2024 or later,
+  on a website containing the company's brand name from its 10-K) and
+  rescores those themes from scratch with the 10-K + report. Scores can go up
+  or down; the original 10-K scores are kept. Reports not on the company's
+  main domain are listed in `needs_human.csv` for a quick check. A human can
+  supply a report link in `data/reports/manual_urls.csv` (`ticker,url`).
+- **Shortlist**: the top 40% of each sector (`shortlist_pct`), at least 2 per
+  sector (`shortlist_min_per_sector`), ties included.
+- **Ticker moved to a new company?** If the SEC lists no 10-K for a ticker
+  (e.g. XOM after its 2026 holding-company reorganization), add the old
+  company's CIK to `cik_overrides.csv` (`ticker,cik,reason`).
 
 ## Open decisions (TODO)
 
@@ -159,7 +193,8 @@ rewriting anything:
       columns: `ticker,company_name,sector`). No code changes needed.
 - [ ] **TODO: keyword cross-check.** Should a cheap keyword scan be added as a
       second opinion on the AI scores? Not built in this version.
-- [ ] **TODO: score Item 7 (MD&A) too?** The 3-bank test compares Item 1 alone
-      vs Item 1 + Item 7. If the team adds it, change `sections` in
-      `config.yaml` to `[item1, item7]` (everyone at once, before scoring).
+- [ ] **TODO: score Item 7 (MD&A) too?** Options in `config.yaml`:
+      `[item1]`, `[item1, item7_targeted]` (only MD&A paragraphs with
+      relevant terms) or `[item1, item7]` (full MD&A, about 7x the usage).
+      Change it for everyone at once, before scoring.
 - [x] Model: `claude-opus-5-5` (decided by Jakey).
