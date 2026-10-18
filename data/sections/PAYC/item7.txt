@@ -1,0 +1,1057 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations is intended to provide a reader of our financial statements with management’s perspective on our financial condition, results of operations, liquidity, and certain other factors that may affect our future results. The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the audited consolidated financial statements (prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”)) and related notes included elsewhere in this Annual Report on Form 10-K (this “Form 10-K”). The following discussion contains forward-looking statements that are subject to risks and uncertainties. See “Cautionary Statements” for a discussion of the uncertainties, risks, and assumptions associated with those statements. Actual results could differ materially from those discussed in or implied by forward-looking statements as a result of various factors, including those discussed below and elsewhere in this Form 10-K, particularly in the section entitled “Risk Factors.” Unless we state otherwise or the context otherwise requires, the terms “we,” “us,” “our” and the “Company” refer to Paycom Software, Inc. and its consolidated subsidiaries. All amounts presented in tables, other than per share amounts, are in millions unless otherwise noted.
+
+Overview
+
+We are a leading provider of a comprehensive, cloud-based human capital management solution delivered as Software-as-a-Service. We provide functionality and data analytics that businesses need to manage the complete employment lifecycle, from recruitment to retirement. Our solution requires virtually no customization and is based on a core system of record maintained in a single database for all human capital management (“HCM”) functions, including payroll, talent acquisition, talent management, human resources (“HR”) management and time and labor management applications. Our user-friendly software allows for easy adoption of our solution by employees, enabling self-management of their HCM activities in the cloud, which reduces the administrative burden on employers and increases employee productivity.
+
+Substantially all of our revenues are generated from (i) fixed amounts charged per billing period plus a fee per employee or transaction processed and (ii) fixed amounts charged per billing period. Our billing period varies by client and is typically based on when each client pays its employees, which may be weekly, bi-weekly, semi-monthly or monthly. Over time, an increasing number of clients will be billed on a monthly basis for certain HCM applications and services, regardless of the client’s payroll cycle. We serve a diverse client base in terms of size and industry. Our revenues are primarily generated through our sales force that solicits new clients and our client relations representatives (“CRRs”) who sell additional applications to existing clients.
+
+Our principal marketing efforts include national and local advertising campaigns, email campaigns, social and digital media campaigns, search engine marketing methods, sponsorships, tradeshows, print advertising and outbound marketing including personalized direct mail campaigns. In addition, we generate leads and build recognition of our brand and thought leadership with relevant and informative content, such as white papers, blogs, podcast episodes and webinars.
+
+Throughout our history, we have built strong relationships with our clients. As the HCM needs of our clients evolve, we believe that we are well-positioned to expand the HCM spending of our clients, and we believe this opportunity is significant. To be successful, we must continue to demonstrate the operational and economic benefits of our solution, as well as effectively hire, train, motivate and retain qualified personnel.
+
+Growth Outlook, Opportunities and Challenges
+
+As a result of our significant revenue growth and geographic expansion, we are presented with a variety of opportunities and challenges. Our payroll application is the foundation of our solution, and all of our clients are required to utilize this application in order to access our other applications. Consequently, we have historically generated the majority of our revenues from our payroll applications, although our revenue mix has evolved and will continue to evolve as we develop and add new non-payroll applications to our solution.
+
+We believe our strategy of focusing on incorporating artificial intelligence (“AI”) and automation across our full solution is an important differentiator for attracting new clients and key to long-term client satisfaction and client retention. Our software vision is that people should not perform payroll-related and HCM-related tasks that systems can automate. We have designed our software so users do not have to be system experts or even need training to access information. For example, our industry-first command-driven AI engine, IWant, provides an easy, automated avenue for seeking information about employee data without having to navigate through the software.
+
+Our continued growth depends on attracting new clients by continuing to leverage our sales force productivity, penetrating existing markets and expanding into new markets, targeting a high degree of client employee usage across our solution, and introducing new applications to our existing client base. Client adoption of new applications and, historically, client employee usage of both new and existing applications have been significant factors in our recurring revenue growth. We believe our ability to continue to develop new applications and to improve existing applications will enable us to increase recurring revenues in the future. In addition, we plan to open additional sales offices in the future to further expand our market presence.
+
+The market for HCM software is highly competitive, rapidly evolving and fragmented. We expect competition to remain intense as new market entrants and disruptive technologies emerge and aggressive pricing and client retention strategies persist. These market pressures can directly affect our recurring revenue growth and our ability to attract and retain clients. We believe our long-term focused investments in automation, client ROI achievement, and world-class service can strengthen our recurring revenue growth and annual revenue retention rate.
+
+Our target client size is organizations with 50 to 10,000 or more employees. While we continue to serve a diversified client base ranging from small businesses to organizations with many thousands of employees, the average size of our clients has grown significantly as we have organically grown our operations and increased the number of applications we offer. We believe larger employers, such as organizations with greater than 1,000 employees, represent a substantial opportunity to increase our revenues per client, with limited incremental cost to us. With the launch of our Global HCM solution and expansion of payroll services into certain international markets, we expect that our ability to serve organizations with international employees makes our solution more attractive to larger companies, many of which have a global presence. Because we charge our clients on a per employee basis for certain services we provide, any increase or decrease in the number of employees of our clients will have a positive or negative impact, respectively, on our results of operations. As a result, the performance of certain of our offerings is sensitive to changes in the labor market. In addition, a multitude of macroeconomic pressures, such as inflation and changes in interest rates, impact our clients’ hiring practices to varying degrees and, in turn, impact our revenues.
+
+We believe the challenges of managing the ever-changing complexity of payroll and HR will continue to drive companies to turn to outsourced providers for help with their HCM needs. The HCM industry historically has been driven, in part, by legislation and regulatory action, including COBRA, changes to the minimum wage laws or overtime rules, and legislation from federal, state or municipal taxation authorities.
+
+Growing our business has resulted in, and will continue to result in, substantial investments in sales professionals, operating expenses, system development and programming costs (including those related our full solution automation and AI initiatives) and general and administrative expenses, which have increased and will continue to increase our expenses. Historically, our revenue growth and geographic expansion have driven increases in (i) facility costs related to data centers, the expansion of our corporate headquarters, operations facilities and additional sales office leases and (ii) salaries and benefits and stock-based compensation expense. Automating our core business systems is creating new efficiencies that have led to reductions in headcount and, as a result, contributed to a decrease in certain employee-related expenses during the year ended December 31, 2025. Due to lower headcount, we expect that certain employee-related expenses will be lower in 2026 as compared to 2025.
+
+Key Metrics
+
+In addition to the U.S. GAAP and non-GAAP metrics discussed elsewhere in this Form 10-K, we also monitor the following metrics to evaluate our business, measure our performance and identify trends affecting our business:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+Key performance indicators:
+
+Clients
+
+39,199
+
+37,543
+
+36,820
+
+Clients (based on parent company grouping)
+
+20,321
+
+19,422
+
+19,481
+
+Sales teams
+
+Annual revenue retention rate(1)
+
+%
+
+%
+
+%
+
+•
+Clients. When we calculate the number of clients at period end, we treat client accounts with separate taxpayer identification numbers (or, in certain circumstances, separate client codes) as separate clients, which often separates client accounts that are affiliated with the same parent organization. We track the number of our clients to provide an accurate gauge of the size of our business. Unless we state otherwise or the context otherwise requires, references to clients throughout this Form 10-K refer to this metric.
+
+•
+Clients (based on parent company grouping). When we calculate the number of clients based on parent company grouping at period end, we combine client accounts that have identified the same person(s) as their decision-maker regardless of whether the client accounts have separate taxpayer identification numbers (or, in certain circumstances, separate client codes), which often combines client accounts that are affiliated with the same parent organization. We track the number of our clients based on parent company grouping to provide an alternate measure of the size of our business and clients.
+
+•
+Sales Teams. We monitor our sales professionals by the number of sales teams at period end. For the purposes of this metric, CRRs and emerging markets representatives are considered one sales team. Each outside sales team typically consists of a sales manager and approximately seven other sales professionals. Certain larger metropolitan areas can
+
+support more than one outside sales team. We believe the number of sales teams is an indicator of potential revenues for future periods.
+
+•
+Annual Revenue Retention Rate. Our annual revenue retention rate tracks the percentage of revenues that we retain from our existing clients. We monitor this metric because it is an indicator of client satisfaction and revenues for future periods.
+
+We calculate annual revenue retention rate for any 12-month period (a “Measurement Period”) as follows:
+
+Recurring and Other Revenues – TTM Revenue Attrition
+
+Recurring and Other Revenues
+
+The trailing 12-month value of revenue from clients lost during the Measurement Period (“TTM Revenue Attrition”) is equal to the actual recurring fees paid by such lost clients during the 12 months preceding the respective dates on which they last processed payroll with us. The point at which a client is deemed “lost” is determined based on the terms of our standard services agreement with clients. As described in Note 2 “Summary of Significant Accounting Policies”, for the year ended December 31, 2024, we changed the presentation of revenues on the consolidated statements of comprehensive income to disaggregate interest on funds held for clients and combine recurring and other revenues. Reclassifications for the presentation of revenue did not impact the calculation of our annual retention rate.
+
+Components of Results of Operations
+
+Sources of Revenues
+
+Revenues consist of recurring and other revenues, and interest on funds held for clients. We expect our revenues to increase as we introduce new applications, expand our client base and renew and expand relationships with existing clients.
+
+Recurring and Other Revenues
+
+Recurring revenues are derived primarily from our payroll, talent acquisition, talent management, HR management and time and labor management applications, fees charged for form ﬁlings and delivery of client payroll checks and reports, and revenues associated with background checks and income and employment verification services. The client’s use of our applications routinely fluctuates based upon factors that include the number of payrolls run and changes in the client’s employee population.
+
+Substantially all of our revenues are generated from (i) fixed amounts charged per billing period plus a fee per employee or transaction processed and (ii) fixed amounts charged per billing period. Our billing period varies by client and is typically based on when each client pays its employees, which may be weekly, bi-weekly, semi-monthly or monthly. Over time, an increasing number of clients will be billed on a monthly basis for certain HCM applications and services, regardless of the client’s payroll cycle. Because recurring revenues are based, in part, on fees for use of our applications and the delivery of checks and reports that are levied on a per-employee basis, our recurring revenues can fluctuate in relation to changes to client employee count. Furthermore, because the timing of revenue recognition is driven by the processing of the client’s payroll, it can vary based upon changes in client payroll dates and the impact that weekends or public holidays may have in prompting a client to accelerate or delay the processing of payroll.
+
+Recurring revenues include revenues relating to the annual processing of payroll tax filing forms and Affordable Care Act (“ACA”) form filing requirements and revenues from processing unscheduled payroll runs (such as bonuses) for our clients. These payroll forms are typically processed in the first quarter of the year, and many of our clients are subject to ACA form filing requirements in the first quarter, which positively impacts first quarter revenues and margins. We anticipate our revenues will continue to exhibit this seasonal pattern related to ACA form filings for so long as the ACA (or replacement legislation) includes employer reporting requirements. In addition, our recurring revenues during the fourth quarter are positively impacted by unscheduled payroll runs for our clients that occur before the end of the year. Nonetheless, we expect the magnitude of these seasonal fluctuations in our revenues to decrease to the extent clients utilize more of our non-payroll applications.
+
+Other revenues consist of implementation fees for the deployment of our solution and revenues from sales of time clocks as part of our time and attendance services. Non-refundable implementation fees are charged to new clients at contract inception. These fees generally range from 10% to 30% of the annualized value of the transaction. Implementation fees are deferred and recognized as revenue over the life of the client, which is estimated to be 10 years. Revenues from the sale of time clocks are recognized when control is transferred to the client upon delivery of the product.
+
+Interest on Funds Held For Clients
+
+We earn interest income on funds held for clients. Funds held for clients are amounts collected from clients in advance of either the applicable due date for payroll tax submissions or the applicable disbursement date for employee payment services. These collections from clients are typically disbursed from one to 30 days after receipt, with some funds being held for up to 120 days. We typically invest funds held for clients in money market funds, demand deposit accounts, certificates of deposit,
+
+commercial paper and U.S. treasury securities until they are paid to the applicable tax or regulatory agencies or to client employees. As we introduce new applications, expand our client base and renew and expand relationships with existing clients, we expect our average funds held for clients balance and, accordingly, interest earned on funds held for clients, will increase; however, the amount of interest we earn is positively or negatively impacted by changes in interest rates.
+
+Cost of Revenues
+
+Cost of revenues consists of expenses related to hosting and supporting our applications, hardware costs, systems support and technology and depreciation and amortization. These costs include employee-related expenses (including non-cash stock-based compensation expenses) and other expenses related to client support, bank charges for processing automated clearing house transactions, certain implementation expenses, delivery charges and paper costs. They also include our cost for time clocks sold and ongoing technology and support costs related to our systems. The amount of depreciation and amortization of property and equipment allocated to cost of revenues is determined based upon an estimate of assets used to support our operations.
+
+Administrative Expenses
+
+Administrative expenses consist of sales and marketing expenses, research and development expenses, general and administrative expenses and depreciation and amortization expenses. Sales and marketing expenses consist primarily of employee-related expenses for our direct sales and marketing staff (such as the amortization of commissions and bonuses and non-cash stock-based compensation expenses), marketing expenses and other related costs. Research and development expenses consist primarily of employee-related expenses (including non-cash stock-based compensation expenses) for our development staff, net of capitalized software costs for internally developed software. General and administrative expenses consist of employee-related expenses for finance and accounting, legal, human resources and management information systems personnel (including non-cash stock-based compensation expenses), legal costs, professional fees and other corporate expenses. Depreciation and amortization expenses consist of (i) the amount of depreciation and amortization of property and equipment allocated to administrative expenses (based upon an estimate of assets used to support our selling, general and administrative functions) and (ii) amortization of intangible assets.
+
+Interest Expense
+
+Interest expense includes interest on our long-term debt. Prior to the repayment of our long-term debt in November 2023, we capitalized interest costs incurred for indebtedness related to construction in progress. See Note 6 “Long-Term Debt” for discussion of the repayment of our debt.
+
+Other Income, net
+
+Other income, net includes interest earned on our own funds, any gain or loss on the sale or disposal of fixed assets, any costs associated with the early repayment of debt, any loss on the extinguishment of debt, and any gain on the modification of the naming rights agreement.
+
+Provision for Income Taxes
+
+Our consolidated financial statements include a provision for income taxes incurred for the anticipated tax consequences of the reported results of operations using the asset and liability method. Under this method, we recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the financial reporting and tax basis of assets and liabilities, as well as for any operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using the tax rates expected to apply to taxable income for the years in which those tax assets and liabilities are expected to be realized or settled. We recognize a valuation allowance to reduce deferred tax assets to the net amount we believe is more likely than not to be realized.
+
+Results of Operations
+
+The following table sets forth selected consolidated statements of income data and such data as a percentage of total revenues for each of the periods indicated, as well as year-over-year changes with respect to each line item. Refer to “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Annual Report on Form 10-K for the year ended December 31, 2024, filed with the Securities and Exchange Commission (the “SEC”) on February 20, 2025, for a discussion of results of operations for the year ended December 31, 2024 compared to the year ended December 31, 2023.
+
+Year Ended December 31,
+
+2025
+
+2024
+
+% Change
+
+Revenues
+
+Recurring and other
+
+$
+
+1,938.7
+
+94.5
+
+%
+
+$
+
+1,758.3
+
+93.4
+
+%
+
+10.3%
+
+Interest on funds held for clients
+
+113.0
+
+5.5
+
+%
+
+124.9
+
+6.6
+
+%
+
+-9.6%
+
+Total revenues
+
+2,051.7
+
+100.0
+
+%
+
+1,883.2
+
+100.0
+
+%
+
+9.0%
+
+Cost of revenues
+
+Operating expenses
+
+263.0
+
+12.8
+
+%
+
+267.4
+
+14.2
+
+%
+
+-1.6%
+
+Depreciation and amortization
+
+82.4
+
+4.0
+
+%
+
+67.2
+
+3.6
+
+%
+
+22.5%
+
+Total cost of revenues
+
+345.4
+
+16.8
+
+%
+
+334.6
+
+17.8
+
+%
+
+3.2%
+
+Administrative expenses
+
+Sales and marketing
+
+482.8
+
+23.5
+
+%
+
+434.4
+
+23.1
+
+%
+
+11.2%
+
+Research and development
+
+283.4
+
+13.8
+
+%
+
+242.6
+
+12.9
+
+%
+
+16.8%
+
+General and administrative
+
+279.0
+
+13.6
+
+%
+
+158.6
+
+8.4
+
+%
+
+75.9%
+
+Depreciation and amortization
+
+93.9
+
+4.6
+
+%
+
+78.7
+
+4.2
+
+%
+
+19.3%
+
+Total administrative expenses
+
+1,139.1
+
+55.5
+
+%
+
+914.3
+
+48.6
+
+%
+
+24.6%
+
+Total operating expenses
+
+1,484.5
+
+72.4
+
+%
+
+1,248.9
+
+66.3
+
+%
+
+18.9%
+
+Operating income
+
+567.2
+
+27.6
+
+%
+
+634.3
+
+33.7
+
+%
+
+-10.6%
+
+Interest expense
+
+(3.4
+
+)
+
+-0.2
+
+%
+
+(3.4
+
+)
+
+-0.2
+
+%
+
+1.9%
+
+Other income, net
+
+55.6
+
+2.7
+
+%
+
+18.1
+
+1.0
+
+%
+
+207.2%
+
+Income before income taxes
+
+619.4
+
+30.2
+
+%
+
+649.0
+
+34.5
+
+%
+
+-4.6%
+
+Provision for income taxes
+
+166.0
+
+8.1
+
+%
+
+147.0
+
+7.8
+
+%
+
+13.0%
+
+Net income
+
+$
+
+453.4
+
+22.1
+
+%
+
+$
+
+502.0
+
+26.7
+
+%
+
+-9.7%
+
+Revenues
+
+Recurring and Other Revenues
+
+The increase in recurring and other revenues for the year ended December 31, 2025 from the year ended December 31, 2024 was the result of the addition of new clients, increased revenue from sales of additional applications and services to existing clients, additions and increased usage of existing products and services, and the realization of pricing strategies. Client attrition, particularly among smaller clients, partially offset the favorable impact of these revenue drivers.
+
+Interest on Funds Held For Clients
+
+The impact of lower interest rates during the year ended December 31, 2025 as compared to the prior year was partially offset by an increase in average funds held for client balances, but nonetheless resulted in decreased interest earned on funds held for clients for the year ended December 31, 2025 as compared to the year ended December 31, 2024. The average daily balance of funds held for clients was $2.7 billion and $2.4 billion the years ended December 31, 2025 and 2024, respectively.
+
+Expenses
+
+Cost of Revenues
+
+During the year ended December 31, 2025, operating expenses decreased from the prior year by $4.3 million, primarily due to an $8.2 million decrease in employee-related expenses, which was partially offset by a $2.5 million increase in shipping and supplies fees and a $1.1 million increase in banking related fees. Depreciation and amortization expense increased $15.2 million primarily due to the development of additional technology, purchases of other related fixed assets, and the impact of our corporate headquarters expansion that was placed into service in April 2024, which increases were partially offset by the impact of an increase in the estimated useful lives of servers and network equipment.
+
+Administrative Expenses
+
+Sales and marketing
+
+During the year ended December 31, 2025, sales and marketing expenses increased from the prior year by $48.4 million due to a $40.4 million increase in marketing and advertising expense and an $8.0 million increase in employee-related expenses. Based on positive results from our advertising campaigns, we plan to continue to invest in our marketing program and may adjust spending levels in future periods as we see opportunities for favorable returns on our investments.
+
+Research and development
+
+During the year ended December 31, 2025, research and development expenses increased $40.8 million from the prior year primarily due to an increase in employee-related expenses.
+
+As a result of reduced headcount, we expect research and development employee-related expenses to be lower in 2026 as compared to 2025. As is customary for our business, we expect fluctuations in research and development expense as a percentage of revenue on a quarter-to-quarter basis due to seasonal revenue trends, the introduction of new products, the amount and timing of research and development costs that may be capitalized and the timing of onboarding new hires and restricted stock vesting events.
+
+Expenditures for software developed or obtained for internal use are capitalized and amortized over a three-year period on a straight-line basis. The nature of the development projects underway during a particular period directly impacts the timing and extent of these capitalized expenditures and can affect the amount of research and development expenses in such period. The table below sets forth the amounts of capitalized and expensed research and development costs for the years ended December 31, 2025 and 2024:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+% Change
+
+Capitalized portion of research and development
+
+$
+
+152.9
+
+$
+
+125.7
+
+22%
+
+Expensed portion of research and development
+
+283.4
+
+242.6
+
+17%
+
+Total research and development costs
+
+$
+
+436.3
+
+$
+
+368.3
+
+18%
+
+General and administrative
+
+During the year ended December 31, 2025, general and administrative expenses increased $120.4 million from the prior year primarily due to a $117.5 million reversal of previously recognized stock-based compensation expense related to the forfeiture of a restricted stock award upon Chad Richison’s transition to Co-Chief Executive Officer in February 2024 and a $2.0 million increase in other employee-related expenses.
+
+Non-Cash Stock-Based Compensation Expense
+
+The following table presents the non-cash stock-based compensation expense that is included within the specified line items in our consolidated statements of comprehensive income:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+% Change
+
+Operating expenses
+
+$
+
+15.7
+
+$
+
+13.5
+
+16%
+
+Sales and marketing
+
+28.8
+
+19.0
+
+52%
+
+Research and development
+
+34.7
+
+26.3
+
+32%
+
+General and administrative
+
+39.5
+
+(81.7
+
+)
+
+-148%
+
+Total non-cash stock-based compensation expense
+
+$
+
+118.7
+
+$
+
+(22.9
+
+)
+
+-619%
+
+Depreciation and Amortization
+
+During the year ended December 31, 2025, depreciation and amortization expense increased from the prior year primarily due to the development of additional technology, purchases of other related fixed assets, and the impact of our corporate headquarters expansion that was placed into service in April 2024, which increases were partially offset by the impact of an increase in the estimated useful lives of servers and network equipment.
+
+Interest Expense
+
+During the year ended December 31, 2025, interest expense was flat compared to the prior year.
+
+Other Income, net
+
+The increase in other income, net for the year ended December 31, 2025, as compared to the prior year, was primarily attributable to a $35.6 million gain that resulted from the July 2025 amendment to the naming rights agreement. See Note 4
+
+“Goodwill and Intangible Assets, Net”. Additionally, increases in interest earned on our corporate funds due to higher operating cash balances contributed to the increase. For the years ended December 31, 2025 and 2024, we earned interest on our corporate funds of $17.9 million and $17.3 million, respectively.
+
+Provision for Income Taxes
+
+The provision for income taxes is based on a current estimate of the annual effective income tax rate adjusted to reflect the impact of discrete items. Our effective income tax rate was 27% and 23% for the years ended December 31, 2025 and 2024.
+
+Liquidity and Capital Resources
+
+Our principal sources of capital and liquidity are our operating cash flow and cash and cash equivalents. Our cash and cash equivalents consist primarily of demand deposit accounts and money market funds. Additionally, we maintain a $1.0 billion senior secured revolving credit facility (the “Revolving Credit Facility”), which can be accessed as needed to supplement our operating cash flow and cash balances. As of December 31, 2025, we did not have any outstanding borrowings under the Revolving Credit Facility.
+
+We fund our operations primarily from cash flows generated from operations. We are funding our ongoing capital expenditures from available cash. Further, to date, all cash dividends and purchases under our stock repurchase plan have been funded from available cash, although we may determine that it is appropriate to fund future stock repurchases or other capital requirements from a combination of available cash and borrowings under the Revolving Credit Facility. We believe our existing cash and cash equivalents, cash generated from operations and available sources of liquidity will be sufficient to maintain operations, make necessary capital expenditures, pay dividends and opportunistically repurchase shares for at least the next 12 months. In addition, based on our strong profitability and continued growth, we expect to meet our longer-term liquidity needs with cash flows from operations and, as needed, financing arrangements.
+
+Credit Agreement. We are party to a credit agreement (as amended from time to time, the “Credit Agreement”) with JPMorgan Chase Bank, N.A., as a lender, swingline lender and issuing bank, the lenders from time to time party thereto (collectively with JPMorgan Chase Bank, N.A., the “Lenders”), and JPMorgan Chase Bank, N.A., as the administrative agent. The Credit Agreement provides for the Revolving Credit Facility in the aggregate principal amount of up to $1.0 billion. In addition, we may request an incremental facility of up to an additional $500.0 million, subject to obtaining additional lender commitments and approvals and satisfying certain other conditions. All loans under the Credit Agreement will mature on July 29, 2027 (the “Scheduled Maturity Date”). Subject to certain conditions set forth in the Credit Agreement, we may borrow, prepay and reborrow under the Revolving Credit Facility and terminate or reduce the Lenders’ commitments at any time prior to the Scheduled Maturity Date.
+
+We are required to pay a quarterly commitment fee on the daily amount of the undrawn portion of the revolving commitments under the Revolving Credit Facility at a rate per annum of (i) 0.20% if the Company’s consolidated leverage ratio is less than 1.0 to 1.0; (ii) 0.225% if the Company’s consolidated leverage ratio is greater than or equal to 1.0 to 1.0 but less than 2.0 to 1.0; (iii) 0.25% if the Company’s consolidated leverage ratio is greater than or equal to 2.0 to 1.0 but less than 3.0 to 1.0; or (iv) 0.275% if the Company’s consolidated leverage ratio is greater than or equal to 3.0 to 1.0.
+
+Under the Credit Agreement, we are required to maintain as of the end of each fiscal quarter a consolidated interest coverage ratio of not less than 3.0 to 1.0 and a consolidated leverage ratio of not greater than 3.0 to 1.0.
+
+Stock Repurchase Plan and Withholding Shares to Cover Taxes. In August 2022, our Board of Directors authorized a stock repurchase plan allowing for the repurchase up to $1.1 billion of shares of our common stock in open market transactions at prevailing market prices, in privately negotiated transactions (including accelerated share repurchases) or by other means in accordance with federal securities laws, including Rule 10b5-1 programs. The stock repurchase plan was set to expire on August 15, 2024. In July 2024, our Board of Directors increased and extended the stock repurchase plan, such that $1.5 billion is available for repurchases through August 15, 2026. As of December 31, 2025, there was $1.11 billion available for repurchases under our stock repurchase plan. Our stock repurchase plan may be suspended or discontinued at any time. The actual timing, number and value of shares repurchased depends on a number of factors, including the market price of our common stock, general market and economic conditions, shares withheld for taxes associated with the vesting of equity incentive awards and other corporate considerations.
+
+During the year ended December 31, 2025, we repurchased an aggregate of 1,730,720 shares of our common stock at an average cost of $213.81 per share, including 184,752 shares withheld to satisfy tax withholding obligations for certain individuals upon the vesting of equity incentive awards. Our payment of the taxes on behalf of those individuals resulted in an aggregate cash expenditure of $44.5 million and, as such, we generally subtract the amounts attributable to such withheld shares from the aggregate amount available for future purchases under our stock repurchase plan.
+
+Dividends on Common Stock. For a discussion of our dividends, see “Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.”
+
+Cash Flow Analysis
+
+Our cash flows from operating activities have historically been significantly impacted by profitability, implementation revenues received but deferred, our investment in sales and marketing to drive growth, and research and development. Our ability to meet future liquidity needs will be driven by our operating performance and the extent of continued investment in our operations. Failure to generate sufficient revenues and related cash flows could have a material adverse effect on our ability to meet our liquidity needs and achieve our business objectives.
+
+We completed an expansion of our corporate headquarters, which was placed into service in the second quarter of 2024. Our capital expenditures will fluctuate based on our strategic initiatives. Depending on certain growth opportunities, we may choose to accelerate investments in sales and marketing, acquisitions, technology and services. Actual future capital requirements will depend on many factors, including our future revenues, cash from operating activities and the level of expenditures in all areas of our business.
+
+In addition, we purchased the naming rights to the downtown Oklahoma City arena that is currently home to the Oklahoma City Thunder National Basketball Association franchise. Under the terms of the naming rights agreement, we committed to make escalating annual sponsorship fee payments from 2021 to 2035. The payments are due in the fourth quarter of each year. In July 2025, the naming rights agreement was amended to provide, among other things, that the agreement and our obligation to make the previously disclosed annual sponsorship fee payments thereunder will terminate on the earlier of (i) September 30, 2028 or (ii) the date of the last event hosted or presented at the current arena (subject to earlier termination in certain limited circumstances), with a reduction in the sponsorship fee if the term of the agreement ends prior to September 30, 2028 and in certain other limited circumstances. The amendment did not otherwise impact our obligation to make the previously disclosed annual sponsorship fee payments for the remainder of the amended agreement term.
+
+On July 4, 2025, H.R. 1, the “One Big Beautiful Bill Act” (the “OBBBA”) was signed into law, bringing significant amendments to the U.S. tax code. The OBBBA allows an immediate deduction for domestic research and development expenditures and reinstates 100% bonus depreciation. Our cash tax remittances decreased in the second half of 2025, and we anticipate that continued reductions will positively impact cash flows in future periods.
+
+As part of our payroll and payroll tax filing services, we collect funds from our clients for employment taxes and payroll obligations, which we remit to the appropriate tax agencies and accounts designated by our clients. We typically invest these funds in money market funds, demand deposit accounts, certificates of deposit, commercial paper and U.S. treasury securities from which we earn interest income during the period between receipt and disbursement of such funds.
+
+Our cash flows from investing and financing activities are influenced by the amount of funds held for clients, which can vary significantly from quarter to quarter. The balance of the funds we hold depends on our clients’ payroll calendars. As a result, the balance changes from period to period in alignment with the timing of each payroll cycle.
+
+Our cash flows from financing activities are also affected by the extent to which we use available cash to purchase shares of common stock under our stock repurchase plan as well as equity incentive award vesting events that result in net share settlements and the Company paying withholding taxes on behalf of certain employees. Additionally, we intend to continue to pay a quarterly cash dividend, subject to the discretion of the Board of Directors.
+
+The following table summarizes the consolidated statements of cash flows for the years ended December 31, 2025 and 2024:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+% Change
+
+Net cash provided by (used in):
+
+Operating activities
+
+$
+
+678.9
+
+$
+
+533.9
+
+27%
+
+Investing activities
+
+(611.2
+
+)
+
+(22.2
+
+)
+
+2653%
+
+Financing activities
+
+1,022.0
+
+1,108.3
+
+-8%
+
+Increase in cash, cash equivalents, restricted cash and restricted cash equivalents
+
+$
+
+1,089.7
+
+$
+
+1,620.0
+
+-33%
+
+Operating Activities
+
+Cash provided by operating activities for the year ended December 31, 2025 primarily consisted of payments received from our clients and interest earned on funds held for clients. Cash used in operating activities primarily consisted of personnel-related expenditures to support the growth and infrastructure of our business. These payments included costs of operations, advertising and other sales and marketing efforts, information technology infrastructure development, product research and development and security and administrative costs. Compared to the year ended December 31, 2024, our operating cash flows for the year ended December 31, 2025 were positively impacted by changes in working capital.
+
+Investing Activities
+
+Cash used in investing activities for the year ended December 31, 2025 increased from the prior year primarily due to an $811.0 million increase in purchases of investments from funds held for clients and a $78.0 million increase in purchases of property and equipment, which were partially offset by a $300.0 million increase in proceeds from investments from funds held for clients.
+
+Financing Activities
+
+Cash provided by financing activities for the year ended December 31, 2025 decreased from the prior year primarily due to a $202.7 million increase in repurchases of common stock and a $22.8 million increase in withholding taxes paid related to net share settlements. The decrease in cash provided by financing activities was partially offset by the impact of a $133.7 million change related to the client funds obligation, which is due to the timing of receipts from our clients and payments made to our clients’ employees and applicable taxing authorities on their behalf, and a $5.5 million increase in proceeds from the employee stock purchase plan.
+
+Contractual Obligations
+
+Our principal commitments primarily consist of leases for office space and the naming rights agreement. For additional information regarding our naming rights agreement, leases, and our commitments and contingencies, see Note 4 “Goodwill and Intangible Assets, Net”, Note 5 “Leases” and Note 12” Commitments and Contingencies”.
+
+We plan to continue to lease additional office space to support our growth. In addition, many of our existing lease agreements provide us with the option to renew. When applicable, our future operating lease obligations include payments due during any renewal period provided for in the lease where the lease imposes a penalty for failure to renew. Additional details on our leases, including the related future cash outflows, are included within Note 5 “Leases” in the notes to our consolidated financial statements included elsewhere within this Form 10-K.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements and accompanying notes have been prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. Estimates made in accordance with U.S. GAAP that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our financial condition are described below. On an ongoing basis, we evaluate our estimates and assumptions to ensure that management believes them to be reasonable under the then-current facts and circumstances. Actual amounts and results may materially differ from these estimates made by management under different assumptions and conditions.
+
+Certain accounting policies that require significant management estimates, and are deemed critical to our results of operations or financial position, are described below. Accordingly, these are the policies we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations.
+
+In the third quarter of 2025, we completed an assessment of the useful lives of our servers and network equipment. Based on this assessment, we increased the estimated useful lives of these assets from three years to six years, effective as of the beginning of the third quarter of 2025. Refer to Note 2 “Summary of Significant Accounting Policies” in the notes to the consolidated financial statements included elsewhere in this Form 10-K for more information.
+
+Revenue Recognition
+
+Revenues are recognized when control of the promised goods or services is transferred to our clients in an amount that reflects the consideration we expect to be entitled to for those goods or services. Substantially all of our revenues are derived from contracts with clients. Sales and other applicable taxes are excluded from revenues.
+
+Recurring revenues are derived primarily from our payroll, talent acquisition, talent management, HR management and time and labor management applications, fees charged for form ﬁlings and delivery of client payroll checks and reports, and revenues associated with background checks and income and employment verification services. For a description of our applications, refer to Part I, Item 1, “Business,” of this Form 10-K.
+
+The client’s use of our applications routinely fluctuates based upon factors that include the number of payrolls run and changes in the client’s employee population. These usage-based fluctuations do not change our core performance obligation to stand ready to provide the customer with services for the remainder of the contractual term.
+
+The performance obligations related to recurring revenues are generally satisfied and recognized during each client’s payroll period, with the agreed-upon fee being charged and collected as part of our processing of the client’s payroll. Collectability is reasonably assured as the fees are generally collected through an automated clearing house as part of the client’s payroll cycle or through direct wire transfer, which minimizes the default risk.
+
+The contract period for the majority of contracts associated with these revenues is one month due to the fact that both we and the client typically have the unilateral right to terminate a wholly unperformed contract without compensating the other
+
+party by providing 30 days’ notice of termination. We consider the total price charged to a client in a given period to be indicative of the standalone selling price, as the total amount charged is within a reasonable range of prices typically charged for our goods and services for comparable classes of client groups, which we periodically assess for price adjustments.
+
+Other revenues consist of nonrefundable implementation fees, which are charged upfront to new clients to offset the expense of new client set-up, as well as revenues from the sale of time clocks as part of our time and attendance application. Although these revenues are related to our recurring revenues, they represent distinct performance obligations. The nonrefundable upfront fee charged to our clients results in an implied performance obligation in the form of a material right to the client related to the client’s option to renew at the end of the contract period. The nonrefundable upfront fee is typically collected upon contract inception and is deferred and recognized ratably over the period that our client realizes the benefits from the material right (i.e., 10-year estimated client life). We conduct an annual analysis of client retention data to support our client life estimate. A change in our client life estimate could have a material impact on the timing and amounts recognized as revenue for nonrefundable upfront fees.
+
+Revenues from the sale of time clocks are recognized when control is transferred to the client upon delivery of the product. We estimate the standalone selling price for the time clocks by maximizing the use of observable inputs such as our specific pricing practices for time clocks.
+
+Interest income on funds held for clients is earned on funds that are collected from clients in advance of either the applicable due date for payroll tax submissions or the applicable disbursement date for employee payment services. The interest earned on these funds is included in revenues in the consolidated statements of comprehensive income as the collection, holding, and remittance of these funds are essential components of providing these services.
+
+Assets Recognized from the Costs to Obtain and Costs to Fulfill Revenue Contracts
+
+We recognize an asset for the incremental costs of obtaining a contract with a client if we expect the amortization period to be longer than one year. We also recognize an asset for the costs to fulfill a contract with a client if such costs are specifically identifiable, generate or enhance resources used to satisfy future performance obligations, and are expected to be recovered. We have determined that substantially all costs related to implementation activities are administrative in nature and also meet the capitalization criteria under Accounting Standards Codification 340-40, “Other Assets and Deferred Costs”. These capitalized costs to fulfill principally relate to upfront direct costs that are expected to be recovered through margin and that enhance our ability to satisfy future performance obligations. The assets related to both costs to obtain, and costs to fulfill, contracts with clients are accounted for utilizing a portfolio approach and are capitalized and amortized ratably over the expected period of benefit, which we have determined to be the estimated life of the client relationship of 10 years primarily because we incur no new costs to obtain, or costs to fulfill, a contract upon renewal. A change in our client life estimate could have a material impact on the timing and amounts recognized as amortization expense.
+
+Additional commission costs may be incurred when an existing client purchases additional applications; however, these commission costs relate solely to the additional applications purchased and are not related to contract renewal. Furthermore, additional fulfillment costs associated with existing clients purchasing additional applications are minimized by our seamless single-database platform.
+
+The assets related to both costs to obtain, and costs to fulfill, contracts with customers are presented as deferred contract costs in the accompanying consolidated balance sheets. Amortization expense related to costs to obtain and costs to fulfill a contract is included in sales and marketing expenses and general and administrative expenses in the accompanying consolidated statements of comprehensive income. We regularly review our assets recognized from the costs to obtain and costs to fulfill client contracts for potential impairment and did not recognize an impairment loss during the years ended December 31, 2025 or December 31, 2024.
+
+Stock-Based Compensation Awards
+
+Historically, our stock-based compensation programs have included restricted stock awards and restricted stock unit (“RSU”) awards. We issue stock-based compensation awards with three different types of vesting requirements including awards that vest solely based on condition of service, awards that vest based on achieving certain performance metrics such as revenue or adjusted EBITDA targets, and awards that vest based on achieving certain market conditions such as relative total stockholder return or volume weighted average price targets.
+
+We measure the fair value of awards that vest solely based on condition of service, such as our time-based shares of restricted stock and time-based RSUs, and the fair value of awards that vest based on achieving certain performance metrics, by using the closing market price on the date of grant.
+
+We measure the fair value of awards that vest based on achieving certain market conditions, such as relative total stockholder return or volume weighted average price targets, by using a Monte Carlo simulation model. Stock-based compensation cost is recognized only for those awards expected to meet the requisite service and performance vesting conditions. Stock-based compensation cost is recognized on a straight-line basis over the requisite or derived service period of the award, which is generally the vesting period of the award, with forfeitures recognized as incurred.
+
+The Monte Carlo simulation model used to determine the fair value of awards that vest based on market conditions considers various subjective assumptions as inputs, which involve inherent uncertainties and the application of our judgment as it relates to market volatilities, the historical volatility of our stock price, risk-free rates, expected performance period, dividend yield, and correlation to benchmark (for total stockholder return based awards). Determining these assumptions is subjective and complex, and therefore, a change in the assumptions utilized could impact the calculation of the fair value of our awards that vest based on achieving certain market conditions and the associated stock-based compensation cost. Refer to Note 11 “Stock-Based Compensation” in the notes to our consolidated financial statements for further information regarding our stock-based compensation awards.
+
+Recent Accounting Pronouncements
+
+Refer to Note 2 “Summary of Significant Accounting Policies” in the notes to the consolidated financial statements for a full description of recent accounting pronouncements.
+
+Non-GAAP Financial Measures
+
+Management uses adjusted EBITDA and non-GAAP net income as supplemental measures to review and assess the performance of our core business operations and for planning purposes. We define (i) adjusted EBITDA as net income plus interest expense, taxes, depreciation and amortization, non-cash stock-based compensation expense, certain transaction expenses that are not core to our operations (if any) and any loss on the extinguishment of debt, less any gain on modification of the naming rights agreement, and (ii) non-GAAP net income as net income plus non-cash stock-based compensation expense, certain transaction expenses that are not core to our operations (if any) and any loss on the extinguishment of debt, less any gain on modification of the naming rights agreement, all of which are adjusted for the effect of income taxes. Adjusted EBITDA and non-GAAP net income are metrics that provide investors with greater transparency to the information used by management in its financial and operational decision-making. We believe these metrics are useful to investors because they facilitate comparisons of our core business operations across periods on a consistent basis, as well as comparisons with the results of peer companies, many of which use similar non-GAAP financial measures to supplement results under U.S. GAAP. In addition, adjusted EBITDA is a measure that provides useful information to management about the amount of cash available for reinvestment in our business, paying dividends, repurchasing common stock and other purposes. Management believes that the non-GAAP measures presented in this Form 10-K, when viewed in combination with our results prepared in accordance with U.S. GAAP, provide a more complete understanding of the factors and trends affecting our business and performance.
+
+Adjusted EBITDA and non-GAAP net income are not measures of financial performance under U.S. GAAP, and should not be considered a substitute for net income, which we consider to be the most directly comparable U.S. GAAP measure. Adjusted EBITDA and non-GAAP net income have limitations as analytical tools, and when assessing our operating performance, you should not consider adjusted EBITDA or non-GAAP net income in isolation, or as a substitute for net income or other consolidated statements of comprehensive income data prepared in accordance with U.S. GAAP. Adjusted EBITDA and non-GAAP net income may not be comparable to similarly titled measures of other companies, and other companies may not calculate such measures in the same manner as we do.
+
+The following tables reconcile net income to adjusted EBITDA, net income to non-GAAP net income and earnings per share to non-GAAP net income per share on a basic and diluted basis. Refer to “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Annual Report on Form 10-K for the year ended December 31, 2024, filed with the SEC on February 20, 2025, for a presentation of the amounts for the year ended December 31, 2023.
+
+Year Ended December 31,
+
+2025
+
+2024
+
+Net income to adjusted EBITDA:
+
+Net income
+
+$
+
+453.4
+
+$
+
+502.0
+
+Interest expense
+
+3.4
+
+3.4
+
+Provision for income taxes
+
+166.0
+
+147.0
+
+Depreciation and amortization
+
+176.3
+
+145.9
+
+EBITDA
+
+799.2
+
+798.3
+
+Non-cash stock-based compensation expense
+
+118.7
+
+(22.9
+
+)
+
+Gain on modification of naming rights agreement
+
+(35.6
+
+)
+
+—
+
+Adjusted EBITDA
+
+$
+
+882.3
+
+$
+
+775.4
+
+Year Ended December 31,
+
+2025
+
+2024
+
+Net income to non-GAAP net income:
+
+Net income
+
+$
+
+453.4
+
+$
+
+502.0
+
+Non-cash stock-based compensation expense
+
+118.7
+
+(22.9
+
+)
+
+Gain on modification of naming rights agreement
+
+(35.6
+
+)
+
+—
+
+Income tax effect on non-GAAP adjustments
+
+(17.9
+
+)
+
+(17.1
+
+)
+
+Non-GAAP net income
+
+$
+
+518.6
+
+$
+
+462.0
+
+Weighted average shares outstanding:
+
+Basic
+
+55.8
+
+56.2
+
+Diluted
+
+56.1
+
+56.3
+
+Earnings per share, basic
+
+$
+
+8.13
+
+$
+
+8.93
+
+Earnings per share, diluted
+
+$
+
+8.08
+
+$
+
+8.92
+
+Non-GAAP net income per share, basic
+
+$
+
+9.30
+
+$
+
+8.22
+
+Non-GAAP net income per share, diluted
+
+$
+
+9.24
+
+$
+
+8.21
+
+Year Ended December 31,
+
+2025
+
+2024
+
+Earnings per share to non-GAAP net income per share, basic:
+
+Earnings per share, basic
+
+$
+
+8.13
+
+$
+
+8.93
+
+Non-cash stock-based compensation expense
+
+2.13
+
+(0.41
+
+)
+
+Gain on modification of naming rights agreement
+
+(0.64
+
+)
+
+—
+
+Income tax effect on non-GAAP adjustments
+
+(0.32
+
+)
+
+(0.30
+
+)
+
+Non-GAAP net income per share, basic
+
+$
+
+9.30
+
+$
+
+8.22
+
+Year Ended December 31,
+
+2025
+
+2024
+
+Earnings per share to non-GAAP net income per share, diluted:
+
+Earnings per share, diluted
+
+$
+
+8.08
+
+$
+
+8.92
+
+Non-cash stock-based compensation expense
+
+2.12
+
+(0.41
+
+)
+
+Gain on modification of naming rights agreement
+
+(0.64
+
+)
+
+—
+
+Income tax effect on non-GAAP adjustments
+
+(0.32
+
+)
+
+(0.30
+
+)
+
+Non-GAAP net income per share, diluted
+
+$
+
+9.24
+
+$
+
+8.21

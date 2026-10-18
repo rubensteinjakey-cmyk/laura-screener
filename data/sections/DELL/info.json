@@ -1,0 +1,43 @@
+{
+  "ticker": "DELL",
+  "accession_number": "0001571996-26-000008",
+  "filing_date": "2026-03-16",
+  "fiscal_year": 2026,
+  "full_text_words": 74977,
+  "sections": {
+    "item1": {
+      "words": 7082,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          7082,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 14417,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          14417,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 213,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 4,
+      "paragraphs_total": 423
+    }
+  },
+  "notes": [],
+  "human_capital_words": 875,
+  "human_capital_found": true,
+  "people_paragraph_words": 871
+}

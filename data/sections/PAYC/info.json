@@ -1,0 +1,43 @@
+{
+  "ticker": "PAYC",
+  "accession_number": "0001193125-26-059372",
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "full_text_words": 56667,
+  "sections": {
+    "item1": {
+      "words": 9614,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          9614,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8749,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8749,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 301,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 531
+    }
+  },
+  "notes": [],
+  "human_capital_words": 634,
+  "human_capital_found": true,
+  "people_paragraph_words": 5495
+}
