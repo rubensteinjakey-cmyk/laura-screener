@@ -1,0 +1,37 @@
+{
+  "ticker": "WFC",
+  "accession_number": "0000072971-26-000133",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 13653,
+  "sections": {
+    "item1": {
+      "words": 6827,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 1,
+        "lengths": [
+          6827
+        ]
+      }
+    },
+    "item7": {
+      "words": 38179,
+      "source": "10-K + Exhibit 13",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          42
+        ]
+      }
+    }
+  },
+  "notes": [
+    "item7: 10-K section is only 42 words with 1 cross-reference phrase(s); used the referenced section Exhibit 13 (52,984 words)",
+    "item7: removed 14,852 words starting at a Risk Factors heading"
+  ],
+  "human_capital_words": 418,
+  "human_capital_found": true
+}

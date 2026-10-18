@@ -113,6 +113,10 @@ def find_section(text, start_key, end_key):
         nxt = [e for e in ends if e > s]
         if not nxt:
             continue
+        # if another start heading comes before that end, the later one is
+        # the real heading (e.g. a cover-page line "Part I - Items 1, 1A...")
+        if any(s < s2 < nxt[0] for s2 in starts):
+            continue
         piece = text[s:nxt[0]].strip()
         pieces.append(piece)
     if not pieces:
@@ -127,7 +131,8 @@ IBR_PATTERNS = re.compile(
     r"incorporated (?:herein )?by reference|"
     r"(?:is|are) included (?:in|under)|"
     r"see (?:the )?(?:information|discussion)?\s*(?:under|in)|"
-    r"exhibit 13|annual report to shareholders|annual report to stockholders",
+    r"exhibit 13|annual report to shareholders|annual report to stockholders|"
+    r"appears? on pages?",
     re.I)
 
 
@@ -136,7 +141,7 @@ def looks_like_cross_reference(section):
     real content: short, with cross-reference wording."""
     wc = word_count(section)
     hits = len(IBR_PATTERNS.findall(section))
-    return wc < 1500 and hits >= 1, wc, hits
+    return (wc < 1500 and hits >= 1) or wc < 300, wc, hits
 
 
 def exhibit13_docs(meta):
@@ -156,30 +161,52 @@ def get_exhibit13_text(sec, ticker, meta):
     return "\n\n".join(texts)
 
 
-# Headings an Annual Report (Exhibit 13) uses for the material a bank's
-# 10-K Item 1 / Item 7 points to. Used only when a section is incorporated
-# by reference.
-EX13_ITEM7_START = re.compile(r"^management['’]s discussion and analysis\b", re.I)
-EX13_ITEM7_END = re.compile(r"^(?:quantitative and qualitative disclosures about market risk"
-                            r"|(?:consolidated )?financial statements"
-                            r"|report of independent registered public accounting firm"
-                            r"|management['’]s report on internal control)\b", re.I)
+# When Item 7 is a cross-reference, it names where the MD&A really is, in
+# quotes: JPM says it is "entitled 'Management's discussion and analysis'",
+# Wells Fargo says it is in the Annual Report "under 'Financial Review'".
+# We look for those titles as headings in Exhibit 13 (if the filing has one)
+# or elsewhere in the 10-K itself, and cut up to the financial statements.
+MDA_DEFAULT_TITLE = "management's discussion and analysis"
+MDA_END = re.compile(r"^(?:quantitative and qualitative disclosures about market risk"
+                     r"|(?:consolidated )?financial statements"
+                     r"|report of independent registered public accounting firm"
+                     r"|management['’]s report on internal control"
+                     r"|controls and procedures)\b", re.I)
 
 
-def find_in_exhibit13(ex_text, which):
-    """Best-effort: find the MD&A in an Annual Report exhibit. For Item 1 we
-    don't guess (see notes) - the 10-K's own Item 1 is kept and the company
-    is flagged for a human if it is only a cross-reference."""
-    if which != "item7":
-        return ""
-    lines = line_offsets(ex_text)
-    starts = [o for o, l in lines if EX13_ITEM7_START.match(l) and len(l) < 120]
-    ends = [o for o, l in lines if EX13_ITEM7_END.match(l) and len(l) < 120]
+def quoted_titles(xref_text):
+    titles = re.findall(r"[“\"]([^”\"]{4,80})[”\"]", xref_text)
+    return [t.strip(" ,.;:") for t in titles]
+
+
+def find_referenced_mda(source_text, xref_text):
+    """Best piece of source_text that starts at a heading named in the
+    cross-reference and runs to the next financial-statements heading."""
+    titles = quoted_titles(xref_text) + [MDA_DEFAULT_TITLE]
+    pats = [re.compile(r"^" + re.escape(t).replace("['’]", "['’]").replace("'", "['’]")
+                       + r"\b", re.I) for t in titles]
+    lines = line_offsets(source_text)
+    starts = [o for o, l in lines if len(l) < 120 and any(p.match(l) for p in pats)]
+    ends = [o for o, l in lines if len(l) < 160 and MDA_END.match(l)]
     pieces = []
-    for s in starts:
-        nxt = [e for e in ends if e > s]
-        pieces.append(ex_text[s:nxt[0]] if nxt else "")
+    for st in starts:
+        nxt = [e for e in ends if e > st]
+        if nxt:
+            pieces.append(source_text[st:nxt[0]])
     return max(pieces, key=len).strip() if pieces else ""
+
+
+# Safety rule: we never read Risk Factors. Some Annual Reports (e.g. Wells
+# Fargo's Exhibit 13) put a "Risk Factors" chapter inside the referenced
+# MD&A, so every section is cut off at the first such heading.
+RISK_HEADING = re.compile(r"^(?:item\s*1\s*a\b|risk factors\b)", re.I)
+
+
+def cut_risk_factors(section):
+    for off, line in line_offsets(section):
+        if off > 0 and len(line) < 80 and RISK_HEADING.match(line):
+            return section[:off].strip(), word_count(section[off:])
+    return section, 0
 
 # ------------------------------------------------------ Human Capital part
 
@@ -187,7 +214,7 @@ HC_START = re.compile(r"^(?:our )?human capital(?: management| resources)?\b", r
 # Headings that usually come right after Human Capital inside Item 1.
 HC_END = re.compile(
     r"^(?:available information|supervision and regulation|regulation|"
-    r"government regulation|regulatory|competition|properties|"
+    r"government (?:supervision|regulation)|regulatory|competition|properties|"
     r"information about our executive officers|executive officers|"
     r"intellectual property|seasonality|environmental|corporate information|"
     r"where you can find more information|website|segment|"
@@ -241,28 +268,32 @@ def extract_company(sec, company, force=False):
         if is_xref:
             note = (f"{which}: 10-K section is {'missing' if not section else f'only {wc} words'}"
                     f" with {hits} cross-reference phrase(s)")
-            if exhibit13_docs(meta):
-                if ex13_text is None:
-                    ex13_text = get_exhibit13_text(sec, t, meta)
-                    (out / "exhibit13.txt").write_text(ex13_text, encoding="utf-8")
-                ex_part = find_in_exhibit13(ex13_text, which)
-                if ex_part and word_count(ex_part) > max(wc, 1500):
-                    # keep the 10-K's own text too (e.g. Human Capital is often
-                    # in the 10-K itself even when the rest is in Exhibit 13)
-                    section = (section + "\n\n[From Exhibit 13, Annual Report]\n\n"
-                               + ex_part).strip()
-                    source = "10-K + Exhibit 13"
-                    note += f"; used Exhibit 13 ({word_count(ex_part)} words)"
+            found = ""
+            if which == "item7":
+                if exhibit13_docs(meta):
+                    if ex13_text is None:
+                        ex13_text = get_exhibit13_text(sec, t, meta)
+                        (out / "exhibit13.txt").write_text(ex13_text, encoding="utf-8")
+                    found, where = find_referenced_mda(ex13_text, section), "Exhibit 13"
                 else:
-                    note += "; Exhibit 13 exists but the matching part wasn't found"
-                    flag_human(t, "extract", f"{which} incorporated by reference; "
-                               "could not locate it in Exhibit 13", note)
+                    found, where = find_referenced_mda(text, section), "elsewhere in the 10-K"
+            if found and word_count(found) > max(wc, 1500):
+                section = (section + f"\n\n[Referenced section, from {where}]\n\n"
+                           + found).strip()
+                source = "10-K + Exhibit 13" if where == "Exhibit 13" else "10-K (referenced section)"
+                note += f"; used the referenced section {where} ({word_count(found):,} words)"
             else:
-                note += "; no Exhibit 13 in this filing"
-                flag_human(t, "extract", f"{which} not found cleanly", note)
+                note += "; could not locate the referenced content"
+                flag_human(t, "extract", f"{which} incorporated by reference; "
+                           "could not locate the referenced content", note)
             info["notes"].append(note)
             log("extract", f"{t}: {note}")
 
+        section, cut = cut_risk_factors(section)
+        if cut:
+            note = f"{which}: removed {cut:,} words starting at a Risk Factors heading"
+            info["notes"].append(note)
+            log("extract", f"{t}: {note}")
         (out / f"{which}.txt").write_text(section + "\n", encoding="utf-8")
         info["sections"][which] = {"words": word_count(section), "source": source,
                                    "candidates": cand}

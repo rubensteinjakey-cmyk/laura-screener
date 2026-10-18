@@ -1,0 +1,36 @@
+{
+  "ticker": "BAC",
+  "accession_number": "0000070858-26-000157",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "full_text_words": 137680,
+  "sections": {
+    "item1": {
+      "words": 5697,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5697,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 46167,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          46167,
+          13
+        ]
+      }
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1129,
+  "human_capital_found": true
+}

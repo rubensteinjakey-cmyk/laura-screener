@@ -1,0 +1,38 @@
+{
+  "ticker": "JPM",
+  "accession_number": "0001628280-26-008131",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "full_text_words": 182124,
+  "sections": {
+    "item1": {
+      "words": 5857,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5857,
+          28
+        ]
+      }
+    },
+    "item7": {
+      "words": 60944,
+      "source": "10-K (referenced section)",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          55,
+          13
+        ]
+      }
+    }
+  },
+  "notes": [
+    "item7: 10-K section is only 55 words with 2 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (60,882 words)"
+  ],
+  "human_capital_words": 897,
+  "human_capital_found": true
+}
