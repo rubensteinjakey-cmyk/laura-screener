@@ -23,6 +23,13 @@ REPORTS = DATA / "reports"
 OUTPUT = ROOT / "output"
 LOGS = ROOT / "logs"
 
+# Section names used in config.yaml, how they're labeled for the AI, and
+# which full text their quotes are checked against. Targeted MD&A quotes are
+# checked against the FULL Item 7.
+SECTION_LABELS = {"item1": "Item 1", "item7": "Item 7",
+                  "item7_targeted": "Item 7 (targeted MD&A excerpts)"}
+VERIFY_AGAINST = {"item1": "item1", "item7": "item7", "item7_targeted": "item7"}
+
 for d in (FILINGS, SECTIONS, SCORES, VERIFIED, REPORTS, OUTPUT, LOGS):
     d.mkdir(parents=True, exist_ok=True)
 

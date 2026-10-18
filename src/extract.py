@@ -4,8 +4,10 @@ Item 1 (Business) and Item 7 (MD&A). No AI usage.
 Item 1A (Risk Factors) is never extracted or sent anywhere.
 
 Output, per company, in data/sections/{TICKER}/:
-  item1.txt, item7.txt   the section text (this exact text is what the AI
-                         reads and what quotes are checked against)
+  item1.txt, item7.txt   the section text (quotes are checked against it)
+  item7_targeted.txt     "targeted MD&A": only the Item 7 paragraphs that
+                         mention Laura-relevant terms (foundation, community,
+                         small business, artists...). Much smaller to send.
   info.json              word counts, Human Capital word count, and notes
                          (e.g. "incorporated by reference" found)
 
@@ -208,9 +210,38 @@ def cut_risk_factors(section):
             return section[:off].strip(), word_count(section[off:])
     return section, 0
 
+# ------------------------------------------------------ targeted MD&A
+# Only the MD&A paragraphs that mention these terms are sent to the AI when
+# config.yaml says item7_targeted. Quotes are still checked against the FULL
+# Item 7 text.
+TARGET_TERMS = re.compile(
+    r"\b(?:foundations?|philanthrop\w*|charit\w*|communit(?:y|ies)|scholarships?|"
+    r"educat\w*|students?|small[- ]business(?:es)?|entrepreneur\w*|creators?|"
+    r"artists?|accessib\w*|multilingual)\b", re.I)
+
+
+def targeted_mda(item7):
+    """Return (excerpt_text, paragraphs_kept, paragraphs_total)."""
+    paras = [p.strip() for p in item7.split("\n") if p.strip()]
+    kept = []
+    for i, p in enumerate(paras):
+        if not TARGET_TERMS.search(p):
+            continue
+        # a short table label ("Small business customers (in millions)") has
+        # its numbers on the next line ("7.4 | 7.0 | 6.4"): keep them together
+        nxt = paras[i + 1] if i + 1 < len(paras) else ""
+        if len(p.split()) <= 12 and re.match(r"^[\d$(.\-–—]", nxt):
+            p = p + "\n" + nxt
+        kept.append(p)
+    return "\n\n".join(kept), len(kept), len(paras)
+
 # ------------------------------------------------------ Human Capital part
 
-HC_START = re.compile(r"^(?:our )?human capital(?: management| resources)?\b", re.I)
+# "Human Capital" is the usual heading, but some companies use another name
+# for the same section (Etsy: "Workforce Access").
+HC_START = re.compile(r"^(?:(?:our )?human capital(?: management| resources)?|"
+                      r"(?:our )?employees|(?:our )?people(?: and culture)?|"
+                      r"(?:our )?workforce(?: access)?|team members|our team)\s*$", re.I)
 # Headings that usually come right after Human Capital inside Item 1.
 HC_END = re.compile(
     r"^(?:available information|supervision and regulation|regulation|"
@@ -298,6 +329,13 @@ def extract_company(sec, company, force=False):
         info["sections"][which] = {"words": word_count(section), "source": source,
                                    "candidates": cand}
 
+    item7 = (out / "item7.txt").read_text(encoding="utf-8")
+    excerpt, kept, total = targeted_mda(item7)
+    (out / "item7_targeted.txt").write_text(excerpt + "\n", encoding="utf-8")
+    info["sections"]["item7_targeted"] = {
+        "words": word_count(excerpt), "source": "paragraphs of item7 with target terms",
+        "paragraphs_kept": kept, "paragraphs_total": total}
+
     item1 = (out / "item1.txt").read_text(encoding="utf-8")
     hc = human_capital_part(item1)
     info["human_capital_words"] = word_count(hc)
@@ -310,7 +348,8 @@ def extract_company(sec, company, force=False):
     log("extract", f"{t}: item1 {info['sections']['item1']['words']:,} words "
                    f"({info['sections']['item1']['source']}), item7 "
                    f"{info['sections']['item7']['words']:,} words "
-                   f"({info['sections']['item7']['source']}), human capital "
+                   f"({info['sections']['item7']['source']}), targeted MD&A "
+                   f"{info['sections']['item7_targeted']['words']:,} words, human capital "
                    f"{info['human_capital_words']} words")
 
 

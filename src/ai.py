@@ -97,9 +97,33 @@ def parse_json_reply(text):
     return json.loads(text)
 
 
-def check_themes(obj, themes=THEMES):
-    """Raise ValueError if the themes part isn't in the rubric's format."""
-    if not isinstance(obj, dict) or not isinstance(obj.get("themes"), dict):
+STATUSES = {"current", "past", "planned"}
+COVERAGES = {"sufficient", "insufficient"}
+
+
+def check_reply(obj, themes=THEMES, source_docs=None):
+    """Raise ValueError if the reply isn't in Rubric v2's output format:
+    a list of evidence records, then the themes, each with score, coverage,
+    evidence_ids and reason. source_docs: allowed values of each record's
+    source_doc (only used by the second look)."""
+    if not isinstance(obj, dict):
+        raise ValueError("reply is not a JSON object")
+    ev = obj.get("evidence")
+    if not isinstance(ev, list):
+        raise ValueError("missing 'evidence' list")
+    for i, e in enumerate(ev):
+        if not isinstance(e, dict):
+            raise ValueError(f"evidence[{i}] is not an object")
+        for f in ("id", "activity", "quote", "section", "status"):
+            if not isinstance(e.get(f), str):
+                raise ValueError(f"evidence[{i}].{f} must be text")
+        if e["status"] not in STATUSES:
+            raise ValueError(f"evidence[{i}].status must be current/past/planned")
+        if not isinstance(e.get("themes", {}), dict):
+            raise ValueError(f"evidence[{i}].themes must be an object")
+        if source_docs and e.get("source_doc") not in source_docs:
+            raise ValueError(f"evidence[{i}].source_doc must be one of {sorted(source_docs)}")
+    if not isinstance(obj.get("themes"), dict):
         raise ValueError("missing 'themes' object")
     for th in themes:
         t = obj["themes"].get(th)
@@ -107,8 +131,10 @@ def check_themes(obj, themes=THEMES):
             raise ValueError(f"missing theme '{th}'")
         if not isinstance(t.get("score"), int) or not 0 <= t["score"] <= 5:
             raise ValueError(f"{th}.score must be a whole number 0-5")
-        if not isinstance(t.get("quotes", []), list) or \
-                not all(isinstance(q, str) for q in t.get("quotes", [])):
-            raise ValueError(f"{th}.quotes must be a list of strings")
-        if not isinstance(t.get("level_reason", ""), str):
-            raise ValueError(f"{th}.level_reason must be text")
+        if t.get("coverage") not in COVERAGES:
+            raise ValueError(f"{th}.coverage must be sufficient or insufficient")
+        if not isinstance(t.get("evidence_ids", []), list) or \
+                not all(isinstance(x, str) for x in t.get("evidence_ids", [])):
+            raise ValueError(f"{th}.evidence_ids must be a list of ids")
+        if not isinstance(t.get("reason", ""), str):
+            raise ValueError(f"{th}.reason must be text")

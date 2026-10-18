@@ -1,0 +1,42 @@
+{
+  "ticker": "ADBE",
+  "accession_number": "0000796343-26-000003",
+  "filing_date": "2026-01-15",
+  "fiscal_year": 2025,
+  "full_text_words": 51063,
+  "sections": {
+    "item1": {
+      "words": 8932,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          8932,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6898,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6898,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 383,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 3,
+      "paragraphs_total": 268
+    }
+  },
+  "notes": [],
+  "human_capital_words": 620,
+  "human_capital_found": true
+}

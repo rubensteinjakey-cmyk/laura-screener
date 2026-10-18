@@ -11,7 +11,7 @@ import argparse
 
 from bs4 import BeautifulSoup
 
-from common import (FILINGS, Sec, add_batch_args, clear_human_flags, flag_human,
+from common import (FILINGS, ROOT, Sec, add_batch_args, clear_human_flags, flag_human,
                     load_config, log, read_json, select_companies, write_json)
 
 TICKER_MAP_URL = "https://www.sec.gov/files/company_tickers.json"
@@ -30,6 +30,18 @@ def ticker_to_cik(sec):
     # The SEC writes class shares as BRK-B; people often type BRK.B.
     return {v["ticker"].upper().replace("-", "."): int(v["cik_str"])
             for v in data.values()}
+
+
+def cik_overrides():
+    """Optional cik_overrides.csv (ticker,cik,reason): for tickers whose SEC
+    ID changed, e.g. a new holding company that hasn't filed a 10-K yet."""
+    path = ROOT / "cik_overrides.csv"
+    if not path.exists():
+        return {}
+    import csv
+    with open(path, encoding="utf-8-sig") as f:
+        return {r["ticker"].strip().upper(): int(r["cik"]) for r in csv.DictReader(f)
+                if r.get("ticker") and r.get("cik")}
 
 
 def filings_table(sec, cik):
@@ -90,7 +102,10 @@ def download_company(sec, cik_map, company):
         log("download", f"{t}: already downloaded, skipping")
         return
 
-    cik = cik_map.get(t.replace("-", "."))
+    overrides = cik_overrides()
+    cik = overrides.get(t) or cik_map.get(t.replace("-", "."))
+    if t in overrides:
+        log("download", f"{t}: using CIK {cik} from cik_overrides.csv")
     if not cik:
         log("download", f"{t}: ticker not found in SEC list")
         flag_human(t, "download", "ticker not found in SEC ticker list")
@@ -100,7 +115,9 @@ def download_company(sec, cik_map, company):
     filing, is_amendment = pick_10k(table)
     if not filing:
         log("download", f"{t}: no 10-K found")
-        flag_human(t, "download", "no 10-K found on EDGAR")
+        flag_human(t, "download", "no 10-K found on EDGAR",
+                   f"SEC name: {sub.get('name', '')}. If this is a new holding company, "
+                   "add the predecessor's CIK to cik_overrides.csv")
         return
     if is_amendment:
         log("download", f"{t}: no original 10-K, using 10-K/A {filing['accessionNumber']}")

@@ -19,9 +19,14 @@ model: "claude-opus-5-5"
 # it doesn't depend on each teammate's personal Claude Code settings.
 effort: "high"
 
-# Which 10-K sections the AI reads.
-# TODO (UNDECIDED): Item 1 only, or Item 1 + Item 7 (MD&A)?
-# The 3-bank test compares both. Until the team decides, keep [item1].
+# Which 10-K sections the AI reads. Three options:
+#   [item1]                   Item 1 (Business) only
+#   [item1, item7_targeted]   Item 1 + "targeted MD&A": only the MD&A
+#                             paragraphs that mention foundation, community,
+#                             education, small business, artists, etc.
+#   [item1, item7]            Item 1 + the full MD&A (about 7x more usage)
+# TODO (UNDECIDED): which option the full run uses. The test compares all
+# three. Until the team decides, keep [item1].
 sections: [item1]
 
 # A label for your scoring run. CHANGE THIS to your first name.
@@ -42,3 +47,9 @@ sec_delay_seconds: 0.15
 
 # Max seconds to wait for one Claude scoring call before giving up.
 claude_timeout_seconds: 900
+
+# Shortlist (rank.py): the top share of each sector by final score gets
+# in_shortlist = true. Ties with the last spot are included, and every
+# sector keeps at least shortlist_min_per_sector companies.
+shortlist_pct: 0.40
+shortlist_min_per_sector: 2

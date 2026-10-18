@@ -10,6 +10,7 @@ Output: output/merged.json
 
 Run:  python src/merge.py
       python src/merge.py --run-ids jakey,maya,sam   (only these runs)
+      python src/merge.py --sections item1,item7_targeted
 """
 
 import argparse
@@ -19,13 +20,16 @@ from common import (OUTPUT, VERIFIED, load_companies, load_config, log,
                     read_json, write_json)
 
 
-def merge(run_ids=None):
+def merge(run_ids=None, sections=None):
     cfg = load_config()
-    want_sections = list(cfg["sections"])
+    want_sections = list(sections or cfg["sections"])
     by_ticker, skipped = defaultdict(list), []
     for f in sorted(VERIFIED.glob("*.json")):
         r = read_json(f)
         if run_ids and r["run_id"] not in run_ids:
+            continue
+        if r.get("rubric_version", 1) != 2:
+            skipped.append(f"{f.name} (old rubric v1)")
             continue
         if r["model"] != cfg["model"] or list(r["sections"]) != want_sections:
             skipped.append(f"{f.name} (model {r['model']}, sections {r['sections']})")
@@ -71,9 +75,12 @@ def merge(run_ids=None):
 def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--run-ids", default="", help="comma list; default = all")
+    p.add_argument("--sections", default="",
+                   help="override config.yaml sections, e.g. item1,item7_targeted")
     args = p.parse_args()
     ids = {x.strip() for x in args.run_ids.split(",") if x.strip()} or None
-    merge(ids)
+    secs = [x.strip() for x in args.sections.split(",") if x.strip()] or None
+    merge(ids, secs)
 
 
 if __name__ == "__main__":

@@ -28,6 +28,12 @@
           13
         ]
       }
+    },
+    "item7_targeted": {
+      "words": 1155,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 20,
+      "paragraphs_total": 2232
     }
   },
   "notes": [],

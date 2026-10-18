@@ -1,0 +1,42 @@
+{
+  "ticker": "ETSY",
+  "accession_number": "0001370637-26-000019",
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "full_text_words": 64463,
+  "sections": {
+    "item1": {
+      "words": 9428,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          9428,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6162,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6162,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 16,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 227
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1603,
+  "human_capital_found": true
+}

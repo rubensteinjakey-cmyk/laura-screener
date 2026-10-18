@@ -1,0 +1,523 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion should be read in conjunction with our Consolidated Financial Statements and Notes thereto. Discussion regarding our financial condition and results of operations for fiscal 2024 as compared to fiscal 2023 is included in Item 7 of our Annual Report on Form 10-K for the fiscal year ended November 29, 2024, filed with the SEC on January 13, 2025.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+In preparing our Consolidated Financial Statements in accordance with generally accepted accounting principles in the United States (“GAAP”) and pursuant to the rules and regulations of the SEC, we make assumptions, judgments and estimates that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosures of contingent assets and liabilities. We base our assumptions, judgments and estimates on historical experience and various other factors that we believe to be reasonable under the circumstances. Actual results could differ materially from these estimates under different assumptions or conditions. We evaluate our assumptions, judgments and estimates on a regular basis. We also discuss our critical accounting policies and estimates with the Audit Committee of the Board of Directors.
+
+We believe that the assumptions, judgments and estimates involved in the accounting for revenue recognition and income taxes have the greatest potential impact on our Consolidated Financial Statements. These areas are key components of our results of operations and are based on complex rules requiring us to make judgments and estimates, and consequently, we consider these to be our critical accounting policies. Historically, our assumptions, judgments and estimates relative to our critical accounting policies have not differed materially from actual results.
+
+Revenue Recognition
+
+Our contracts with customers may include promises to transfer multiple products and services. Determining whether products and services are distinct performance obligations to be accounted for separately or combined as part of a single performance obligation may require significant judgment, primarily for our solutions that include both on-premise and/or on-device software licenses and cloud services. We have concluded that certain subscription offerings, which include both on-premise/on-device software licenses and cloud services, represent a single, highly integrated performance obligation. This conclusion reflects the high degree of integration, interdependency and interrelation between the software and the cloud services, such that customers receive the intended benefit only when these components operate together. The nature of our promise to customers is to deliver a complete end-to-end solution, and the intended functionality and workflow efficiencies cannot be obtained from either the software or the cloud services on a standalone basis. Accordingly, revenue for these offerings is recognized ratably over the subscription period during which the cloud services are provided.
+
+Accounting for Income Taxes
+
+We use the asset and liability method of accounting for income taxes. Under this method, income tax expense is recognized for the amount of taxes payable or refundable for the current year. In addition, deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for tax loss and credit carryforwards. Significant judgment is required in determining our current provision for income taxes and deferred tax assets or liabilities. We record a valuation allowance to reduce deferred tax assets to an amount for which realization is more likely than not.
+
+Our assumptions, judgments and estimates relative to the current provision for income taxes take into account our interpretation and application of current tax laws and possible outcomes of current and future examinations conducted by domestic and foreign tax authorities. We have established reserves for income taxes to address potential exposures involving tax positions that could be challenged by tax authorities. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and associated reserves. To the extent that the final determination of any of these examinations is different from the amounts recorded, such differences will affect the provision for income taxes and the effective tax rate in the period in which such determination is made.
+
+Recent Accounting Pronouncements
+
+See Note 1 of our Notes to Consolidated Financial Statements for information regarding recent accounting pronouncements that are of significance or potential significance to us.
+
+RESULTS OF OPERATIONS
+
+Overview of Fiscal 2025
+
+For our fiscal 2025, we experienced strong demand across our Digital Media and Digital Experience offerings, driven by transformative and customer-focused product innovation. As we execute on our long-term growth initiatives, with emphasis on delivering value through AI-powered and highly differentiated solutions to meet the needs of our diverse and expanding customer base, we have continued to experience growth in software-based subscription revenue across our portfolio of offerings.
+
+Digital Media
+
+Our Digital Media products, services and solutions help users create, design and publish rich content and 3D experiences, and improve productivity by transforming how they view, share and collaborate on documents and content. These offerings include our Creative Cloud flagship applications (“apps”) such as Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe Premiere Pro and Adobe After Effects; as well as Adobe Acrobat, Adobe Express, Adobe Firefly and many more products, which are available across surfaces and platforms as desktop tools, web and mobile apps and cloud-based services. Adobe Express is our web and mobile app designed to enable a broad spectrum of users, including novice content creators and communicators, to create, edit and customize content quickly and easily with content first, task-based solutions. Our Adobe Acrobat offerings fuel document productivity, enabling users to create, collaborate, review, approve, sign and track documents at home, in the office and across devices. AI innovation is deeply infused into our Digital Media solutions, including through Adobe Firefly-powered generative AI features available across our Creative Cloud flagship apps, and through Acrobat AI Assistant, a generative AI-powered conversational interface designed to enhance document experiences. In August 2025, we released Acrobat Studio, which brings together Adobe Acrobat, Adobe Express and AI agents to further unite productivity and creativity, empowering users to quickly derive insights from their documents and create visually compelling content. Our Digital Media customers include business professionals, consumers, creative professionals, creators and marketing professionals.
+
+During fiscal 2025, Annualized Recurring Revenue (“ARR”) was the key performance metric our management used to assess the health and trajectory of our overall Digital Media segment. Digital Media ARR was calculated as the sum of the annual value of Digital Media subscriptions and services and the annual value of Digital Media Enterprise Term License Agreements.
+
+Digital Media ARR grew to $19.20 billion at the end of fiscal 2025, representing 11.5% year-over-year growth. Our success in driving growth in ARR has positively affected our revenue growth. Digital Media segment revenue grew to $17.65 billion in fiscal 2025, up from $15.86 billion in fiscal 2024, representing 11% year-over-year growth.
+
+Digital Experience
+
+Our Digital Experience apps and services are designed to accelerate customer experience orchestration at scale and supply intelligence for businesses of any size in any industry. Digital Experience is comprised of solutions to deliver actionable data, with products such as Adobe Analytics and Adobe Real-Time Customer Data Platform; optimize personalized content delivery, with products such as Adobe Experience Manager, Adobe Commerce and Adobe GenStudio for Performance Marketing; and manage customer journeys, with products such as Adobe Marketo Engage and Adobe Campaign. Our differentiation and competitive advantage are strengthened by our ability to use the Adobe Experience Platform to integrate our comprehensive set of solutions and our ability to embed AI into our product portfolio, such as with our Adobe Experience Platform AI Assistant, a generative AI-powered conversational interface designed to help customers automate workflows and generate new audiences and journeys. Our Digital Experience customers include marketing professionals such as brand managers, channel marketers and campaign strategists.
+
+Digital Experience revenue was $5.86 billion in fiscal 2025, up from $5.37 billion in fiscal 2024, representing 9% year-over-year growth. Subscription revenue grew to $5.41 billion in fiscal 2025, up from $4.86 billion in fiscal 2024, representing 11% year-over-year growth.
+
+Customer-Focused Strategy
+
+Our customers often are involved in workflows that integrate multiple Adobe products across both segments. By combining the creativity of our Digital Media business with the science of our Digital Experience business, such as with our Adobe GenStudio solutions, we help our customers to more efficiently and effectively make, manage, measure and monetize their content across every channel with an end-to-end workflow.
+
+Spanning both our Digital Media and Digital Experience segments, we drove continued business success through audience-specific product innovation and go-to-market strategy focused on the following two customer groups:
+
+•Business Professionals & Consumers desire web and mobile apps with easy-to-use AI capabilities, and are increasingly benefiting from using Adobe Acrobat and Adobe Express. Revenue associated with the Business Professionals & Consumers customer group consists of Adobe Acrobat offerings and Adobe Express, all of which are part of Digital Media.
+
+•Creative & Marketing Professionals require agile and comprehensive solutions to create high volumes of compelling content, infused with commercially safe AI capabilities; and are benefiting from investments in powerful, integrated workflows through offerings such as Adobe Firefly and Adobe GenStudio. Revenue associated with the Creative & Marketing Professionals customer group consists of Digital Experience offerings as well as Creative Cloud flagship apps such as Photoshop, Lightroom and Illustrator within Digital Media.
+
+Due to the nature of certain offerings which contain cross-product integrations or benefits, revenue attributable to certain product entitlements may be recognized in either customer group.
+
+By viewing the business through this lens, we can more effectively execute our long-term growth strategies. Our success will be achieved through continued acquisition and retention of our customer base by delivering valuable new features and technologies to customers with our latest releases, including generative AI capabilities to enhance creativity, productivity and marketing, and expanding availability of our offerings across an increasing number of surfaces.
+
+As part of our customer-focused strategy, we utilize a data-driven operating model and tailored go-to-market motion to raise awareness of our products and drive customer acquisition, engagement and retention. Overall, our strategy is designed to increase our revenue with existing users, continue to attract new customers, and grow our recurring and predictable revenue stream that is recognized ratably.
+
+The key performance metric used by management to evaluate progress against our customer-focused strategy is Total Adobe ARR, which represents the annual value of subscription contracts in the Creative & Marketing Professionals and Business Professionals & Consumers customer groups. We adjust our reported ARR on an annual basis, primarily to reflect any exchange rate changes. Our reported ARR results in the current fiscal year are based on currency rates set at the beginning of the year and held constant throughout the year for measurement purposes. Prior year ARR balances are also revalued at the new currency rates for comparative purposes.
+
+Total Adobe ARR grew to $25.20 billion exiting fiscal 2025, representing 11.5% year-over-year growth. Revaluing our ending ARR for fiscal 2025 using currency rates determined at the beginning of fiscal 2026, our Total Adobe ARR at the end of fiscal 2025 would be $25.66 billion, or approximately $460 million higher than the ARR reported above.
+
+Macroeconomic Conditions
+
+As a corporation with an extensive global footprint, we are subject to risks and exposures from the evolving macroeconomic environment, including the effects of increased global inflationary pressures and interest rates, fluctuations in foreign currency exchange rates, potential economic slowdowns or recessions and geopolitical pressures, including the unknown impacts of current and future trade regulations. We continuously monitor the direct and indirect impacts of these circumstances on our business and financial results.
+
+While our revenue and earnings are relatively predictable as a result of our subscription-based business model, the broader implications of these macroeconomic events on our business, results of operations and overall financial position, particularly in the long term, remain uncertain. See the section titled “Risk Factors” in Part I, Item 1A of this report for further discussion of the possible impact of these macroeconomic issues on our business.
+
+Financial Performance Summary for Fiscal 2025
+
+•Total Adobe ARR of approximately $25.20 billion as of November 28, 2025 increased by 11.5% from $22.61 billion as of November 29, 2024 revalued using currency rates determined at the beginning of fiscal 2025.
+
+•Digital Media ARR of approximately $19.20 billion as of November 28, 2025 increased by 11.5% from $17.22 billion as of November 29, 2024 revalued using currency rates determined at the beginning of fiscal 2025.
+
+•Digital Media revenue of $17.65 billion during fiscal 2025 increased by $1.79 billion, or 11%, compared to fiscal 2024.
+
+•Digital Experience revenue of $5.86 billion during fiscal 2025 increased by $498 million, or 9%, compared to fiscal 2024.
+
+•Cost of revenue of $2.55 billion during fiscal 2025 increased by $193 million, or 8%, compared to fiscal 2024.
+
+•Operating expenses of $12.51 billion during fiscal 2025 remained relatively flat compared to fiscal 2024.
+
+•Net income of $7.13 billion during fiscal 2025 increased by $1.57 billion, or 28%, compared to fiscal 2024.
+
+•Cash flows from operations of $10.03 billion during fiscal 2025 increased by $1.98 billion, or 25%, compared to fiscal 2024. Fiscal 2024 cash flows from operations were adversely impacted by payment of the $1 billion Figma termination fee.
+
+•Remaining performance obligations of $22.52 billion as of November 28, 2025 increased by 13% from $19.96 billion as of November 29, 2024.
+
+Revenue
+
+(dollars in millions) | 2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Subscription | $ | 22,904 | $ | 20,521 | $ | 18,284 | 12 % | %
+
+Percentage of total revenue | 96 % | % | 95 % | % | 94 % | %
+
+Product | 325 | 386 | 460 | (16)% | %
+
+Percentage of total revenue | 2 % | % | 2 % | % | 2 % | %
+
+Services and other | 540 | 598 | 665 | (10)% | %
+
+Percentage of total revenue | 2 % | % | 3 % | % | 4 % | %
+
+Total revenue | $ | 23,769 | $ | 21,505 | $ | 19,409 | 11 % | %
+
+Subscription
+
+Our subscription revenue is comprised primarily of fees we charge for our subscription and hosted service offerings, and also includes subscription-based consulting services. We primarily recognize subscription revenue ratably over the term of agreements with our customers, beginning with commencement of service. Subscription revenue related to certain offerings, where fees are based on a number of transactions and invoicing is aligned to the pattern of performance, customer benefit and consumption, are recognized on a usage basis.
+
+Product
+
+Our product revenue is comprised primarily of fees related to licenses for on-premise software purchased on a perpetual basis, for a fixed period of time, or based on usage for certain of our original equipment manufacturer and royalty agreements. We primarily recognize product revenue at the point in time the software is available to the customer, provided all other revenue recognition criteria are met.
+
+Services and Other
+
+Our services and other revenue is comprised primarily of fees related to project-based consulting and training, as well as maintenance and support for certain on-premise licenses that are recognized at a point in time and our advertising offerings. We sell our project-based consulting contracts on a time-and-materials or fixed-fee basis. These revenues are recognized as the services are performed for time-and-materials contracts and on a relative performance basis for fixed-fee contracts. Training revenues are recognized as the services are performed. Our maintenance and support offerings, which entitle customers,
+
+partners and developers to receive desktop product upgrades and enhancements or technical support, depending on the offering, are generally recognized ratably over the term of the arrangement. Transaction-based advertising revenue is recognized on a usage basis as we satisfy the performance obligations to our customers.
+
+Segments
+
+In fiscal 2025, we categorized our products into the following reportable segments:
+
+•Digital Media—Our Digital Media segment provides products and services that enable individuals, teams, businesses, and enterprises to create, publish and promote their content anywhere and accelerate their productivity by transforming how they view, share, engage with and collaborate on documents and creative content. Our customers span creative professionals, including graphic designers, photographers, videographers, illustrators and 3D artists; creators, including social media influencers and solopreneurs; business professionals, including social media teams, small business owners and knowledge workers; and consumers.
+
+•Digital Experience—Our Digital Experience segment provides marketing professionals with an integrated platform and set of products, services and solutions that enable businesses to create, manage, execute, measure, monetize and optimize customer experiences that span from analytics to commerce. Our customers include marketers, advertisers, brand managers, campaign strategists, merchandisers, merchants, data analysts, developers and executives across the C-suite.
+
+•Publishing and Advertising—Our Publishing and Advertising segment contains legacy products and services that address diverse market opportunities, including eLearning solutions, technical document publishing, web conferencing, document and forms platform, web app development, high-end printing and our Adobe Advertising offerings.
+
+Segment Information
+
+Total revenue by reportable segment for fiscal 2025, 2024 and 2023 were as follows:
+
+(dollars in millions) | 2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Digital Media | $ | 17,649 | $ | 15,864 | $ | 14,216 | 11 % | %
+
+Percentage of total revenue | 74 % | % | 74 % | % | 73 % | %
+
+Digital Experience | 5,864 | 5,366 | 4,893 | 9 % | %
+
+Percentage of total revenue | 25 % | % | 25 % | % | 25 % | %
+
+Publishing and Advertising | 256 | 275 | 300 | (7)% | %
+
+Percentage of total revenue | 1 % | % | 1 % | % | 2 % | %
+
+Total revenue | $ | 23,769 | $ | 21,505 | $ | 19,409 | 11 % | %
+
+Revenue from Digital Media increased $1.79 billion and revenue from Digital Experience increased $498 million during fiscal 2025 as compared to fiscal 2024. The increases in total revenue were due to subscription revenue growth across our Digital Media and Digital Experience offerings.
+
+Subscription revenue by reportable segment for fiscal 2025, 2024 and 2023 were as follows:
+
+(dollars in millions) | 2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Digital Media | $ | 17,389 | $ | 15,547 | $ | 13,838 | 12 % | %
+
+Digital Experience | 5,409 | 4,864 | 4,331 | 11 % | %
+
+Publishing and Advertising | 106 | 110 | 115 | (4)% | %
+
+Total subscription revenue | $ | 22,904 | $ | 20,521 | $ | 18,284 | 12 % | %
+
+The increase in subscription revenue for the Digital Media segment was driven by strength in Creative Cloud Pro and other flagship apps as well as Acrobat across all routes to market and geographies. The increase in subscription revenue for the Digital Experience segment was driven by strength in GenStudio solutions, and Adobe Experience Platform and related apps.
+
+Digital Media and Digital Experience subscription revenue by customer group for fiscal 2025, 2024 and 2023 were as follows:
+
+(dollars in millions) | 2025 | 2024 | 2023 | % Change
+
+2025-2024
+% Change
+
+2024-2023
+
+Creative & Marketing Professionals
+$ | 16,303 | $ | 14,749 | $ | 13,425 | 11 % | % | 10 % | %
+
+Business Professionals & Consumers
+6,495 | 5,662 | 4,744 | 15 % | % | 19 % | %
+
+Total Digital Media and Digital Experience subscription revenue
+$ | 22,798 | $ | 20,411 | $ | 18,169 | 12 % | % | 12 % | %
+
+During fiscal 2025 and 2024 as compared to the respective prior years, increases in subscription revenue for the Creative & Marketing Professionals customer group were driven by strength in Creative Cloud Pro and other flagship apps, GenStudio solutions, and Adobe Experience Platform and related apps. During fiscal 2025 and 2024 as compared to the respective prior years, increases in subscription revenue for the Business Professionals & Consumers customer group were driven by strength in Acrobat.
+
+Geographical Information
+
+(dollars in millions) | 2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Americas | $ | 14,120 | $ | 12,891 | $ | 11,654 | 10 % | %
+
+Percentage of total revenue | 59 % | % | 60 % | % | 60 % | %
+
+EMEA | 6,289 | 5,554 | 4,881 | 13 % | %
+
+Percentage of total revenue | 27 % | % | 26 % | % | 25 % | %
+
+APAC | 3,360 | 3,060 | 2,874 | 10 % | %
+
+Percentage of total revenue | 14 % | % | 14 % | % | 15 % | %
+
+Total revenue | $ | 23,769 | $ | 21,505 | $ | 19,409 | 11 % | %
+
+Overall revenue during fiscal 2025 increased in all geographic regions as compared to fiscal 2024. Within each geographic region, the fluctuations in revenue by reportable segment were attributable to the factors noted in the segment information above.
+
+Included in the overall change in revenue were impacts associated with foreign currency which were mitigated in part by our foreign currency hedging program. During fiscal 2025 as compared to fiscal 2024, the U.S. Dollar primarily strengthened against APAC currencies and weakened against EMEA currencies, which resulted in a net decrease in revenue in U.S. Dollar equivalents of approximately $18 million and was offset by net hedging gains of $22 million from our cash flow hedging program.
+
+See Note 2 of our Notes to Consolidated Financial Statements for additional details of revenue by geography.
+
+Cost of Revenue
+
+(dollars in millions) | 2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Subscription | $ | 2,027 | $ | 1,799 | $ | 1,822 | 13 % | %
+
+Percentage of total revenue | 9 % | % | 8 % | % | 9 % | %
+
+Product | 23 | 25 | 29 | (8)% | %
+
+Percentage of total revenue | * | * | *
+
+Services and other | 501 | 534 | 503 | (6)% | %
+
+Percentage of total revenue | 2 % | % | 2 % | % | 3 % | %
+
+Total cost of revenue | $ | 2,551 | $ | 2,358 | $ | 2,354 | 8 % | %
+
+_________________________________________
+
+(*) Percentage is less than 1%.
+
+Subscription
+
+Cost of subscription revenue consists primarily of third-party hosting services and data center costs, including expenses related to operating our network infrastructure and AI inferencing costs. Cost of subscription revenue also includes
+
+compensation costs associated with network operations, implementation, account management and technical support personnel, royalty fees, software costs and amortization of certain intangible assets.
+
+Cost of subscription revenue increased due to the following:
+
+Components of
+
+% Change
+
+2025-2024
+
+Hosting services and data center costs
+8 % | %
+
+Loss contingency reversal
+
+Compensation costs
+
+Various individually insignificant items | 1
+
+Total change | 13 % | %
+
+Product
+
+Cost of product revenue is primarily comprised of third-party royalties, localization costs and costs associated with the manufacturing of our products.
+
+Services and Other
+
+Cost of services and other revenue is primarily comprised of compensation and contracted costs incurred to provide consulting services, training and product support, and hosting services and data center costs.
+
+Cost of services and other revenue decreased during fiscal 2025 as compared to fiscal 2024 primarily due to decreases in compensation costs and professional fees.
+
+Operating Expenses
+
+(dollars in millions)
+2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Research and development | $ | 4,294 | $ | 3,944 | $ | 3,473 | 9 % | %
+
+Percentage of total revenue | 18 % | % | 18 % | % | 18 % | %
+
+Sales and marketing | 6,488 | 5,764 | 5,351 | 13 % | %
+
+Percentage of total revenue | 27 % | % | 27 % | % | 28 % | %
+
+General and administrative | 1,573 | 1,529 | 1,413 | 3 % | %
+
+Percentage of total revenue | 7 % | % | 7 % | % | 7 % | %
+
+Acquisition termination fee
+— | 1,000 | — | **
+
+Percentage of total revenue | * | 5 % | % | *
+
+Amortization of intangibles | 157 | 169 | 168 | (7)% | %
+
+Percentage of total revenue | 1 % | % | 1 % | % | 1 % | %
+
+Total operating expenses | $ | 12,512 | $ | 12,406 | $ | 10,405 | 1 % | %
+
+_________________________________________
+
+(*) Percentage is less than 1%.
+
+(**) Percentage is not meaningful.
+
+Research and Development
+
+Research and development expenses consist primarily of compensation and contracted costs associated with software development, third-party hosting services and data center costs including AI training costs, related facilities costs, and expenses associated with computer equipment and software used in development activities. Research and development expenses increased during fiscal 2025 as compared to fiscal 2024 primarily due to increases in compensation costs.
+
+Investments in research and development, including the recruiting and hiring of software developers, are critical to remain competitive in the marketplace and are directly related to continued timely development of new and enhanced offerings and solutions. We will continue to focus on long-term opportunities available in our end markets and make significant investments in the development of our subscription and service offerings, apps and tools.
+
+Sales and Marketing
+
+Sales and marketing expenses consist primarily of compensation costs, amortization of contract acquisition costs, including sales commissions, travel expenses and related facilities costs for our sales, marketing, order management and global supply chain management personnel. Sales and marketing expenses also include the costs of programs aimed at increasing revenue, such as advertising, trade shows and events, public relations and other market development programs. Sales and marketing expenses increased during fiscal 2025 as compared to fiscal 2024 primarily due to increases in advertising expenses and, to a lesser extent, compensation costs.
+
+General and Administrative
+
+General and administrative expenses consist primarily of compensation and contracted costs, travel expenses and related facilities costs for our finance, facilities, human resources, legal, information services and executive personnel. General and administrative expenses also include outside legal and accounting fees, expenses associated with computer equipment and software used in the administration of the business, charitable contributions, provision for bad debts and various forms of insurance.
+
+General and administrative expenses increased due to the following:
+
+Components of
+
+% Change
+
+2025-2024
+
+Compensation costs
+5 % | %
+
+Software licenses | 2
+
+Professional and consulting fees
+
+Lease-related asset impairments and other charges
+(7)
+
+Various individually insignificant items | 1
+
+Total change | 3 % | %
+
+General and administrative expenses during fiscal 2024 included costs associated with the optimization of our leased facilities, primarily consisting of impairment charges for certain operating lease right-of-use assets and leasehold improvements.
+
+Acquisition Termination Fee
+
+During fiscal 2024, we incurred a $1 billion termination fee which resulted from termination of the Figma transaction.
+
+Non-Operating Income (Expense), Net
+
+(dollars in millions)
+2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Interest expense | $ | (263) | $ | (169) | $ | (113) | 56 % | %
+
+Investment gains (losses), net | 43 | 48 | 16 | **
+
+Other income (expense), net | 248 | 311 | 246 | (20)% | %
+
+Total non-operating income (expense), net | $ | 28 | $ | 190 | $ | 149 | **
+
+_________________________________________
+
+(**) Percentage is not meaningful.
+
+Interest Expense
+
+Interest expense represents interest associated with our debt instruments. Interest on our senior notes is payable semi-annually, in arrears. Floating interest payments on our interest rate swaps are paid quarterly. The fixed-rate interest receivable on the swaps is received semi-annually concurrent with the senior notes interest payments.
+
+Interest expense increased during fiscal 2025 as compared to fiscal 2024 primarily due to the senior notes issued in January 2025. See Notes 5 and 17 for further details regarding our interest rate swaps and debt, respectively.
+
+Investment Gains (Losses), Net
+
+Investment gains (losses), net consists principally of unrealized holding gains and losses associated with our deferred compensation plan assets.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of interest earned on cash, cash equivalents and short-term fixed income investments. Other income (expense), net also includes realized gains and losses on fixed income investments and foreign exchange gains and losses.
+
+Other income (expense), net decreased during fiscal 2025 as compared to fiscal 2024 primarily due to decreases in interest income driven by lower average overall cash balances and interest rates.
+
+Provision for Income Taxes
+
+(dollars in millions)
+2025 | 2024 | 2023 | % Change
+
+2025-2024
+
+Provision for income taxes
+$ | 1,604 | $ | 1,371 | $ | 1,371 | 17 % | %
+
+Effective tax rate | 18 % | % | 20 % | % | 20 % | %
+
+Our effective tax rate for fiscal 2025 decreased by approximately two percentage points compared to fiscal 2024, primarily due to the impact of the Figma acquisition termination fee incurred in the prior year, which was not deductible for financial statement purposes, partially offset by a net tax expense related to stock-based compensation recorded in fiscal 2025 as compared to a net tax benefit related to stock-based compensation recorded in the prior year.
+
+Our effective tax rate for fiscal 2025 was lower than the U.S. federal statutory tax rate of 21% primarily due to the net tax benefits from effects of non-U.S. operations and the U.S. federal research tax credit, partially offset by state taxes and a net tax expense related to stock-based compensation.
+
+We recognize deferred tax assets to the extent that we believe these assets are more likely than not to be realized based on evaluation of all available positive and negative evidence. On the basis of this evaluation, we continue to maintain a valuation allowance to reduce our deferred tax assets to the amount realizable. The total valuation allowance was $806 million as of November 28, 2025, primarily related to certain U.S. state and federal credits and capital loss carryforwards.
+
+We are a U.S.-based multinational company subject to tax in multiple domestic and foreign tax jurisdictions. The current U.S. tax law subjects the earnings of certain foreign subsidiaries to U.S. tax and generally allows an exemption from taxation for distributions from foreign subsidiaries.
+
+In the current global tax policy environment, the domestic and foreign governing bodies continue to consider, and in some cases introduce, changes in regulations applicable to corporate multinationals such as Adobe. As regulations are issued, we account for finalized regulations in the period of enactment.
+
+Many countries have enacted the Organization for Economic Cooperation and Development’s 15% global minimum tax regime effective for us starting in fiscal 2025. The legislation did not have a material impact on our fiscal 2025 effective rates for income taxes or for cash taxes paid, however we continue to monitor developments and evaluate impacts, if any, of these rules on our results of operations and cash flows.
+
+On July 4, 2025, the One Big Beautiful Bill Act (“2025 U.S. Tax Act”) was enacted in the United States. Among the changes, the 2025 U.S. Tax Act restores immediate expensing of domestic research and development costs and modifies certain international provisions effective for us starting in fiscal 2026 and 2027, respectively. The 2025 U.S. Tax Act did not have a material impact on fiscal 2025 effective rates for income taxes or for cash taxes paid. While we continue to evaluate the impact for future years, we anticipate a reduction to our effective rates for cash taxes paid in years after fiscal 2025.
+
+See Note 10 of our Notes to Consolidated Financial Statements for further information regarding our provision for income taxes.
+
+Accounting for Uncertainty in Income Taxes
+
+The gross liabilities for unrecognized tax benefits excluding interest and penalties were $693 million and $683 million at the end of fiscal 2025 and 2024, respectively. If the total unrecognized tax benefits as of November 28, 2025 and November 29, 2024 were recognized, $528 million and $519 million would decrease the respective effective tax rates.
+
+As of November 28, 2025 and November 29, 2024, the combined amounts of accrued interest and penalties included in long-term income taxes payable related to tax positions taken on our tax returns were not material.
+
+The timing of the resolution of income tax examinations is highly uncertain as are the amounts and timing of tax payments that are part of any audit settlement process. These events could cause large fluctuations in the balance sheet classification of our tax assets and liabilities. We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude or statutes of limitations on certain income tax examination periods will expire, or both. Although the timing of resolution, settlement and closing of audits is not certain, it is reasonably possible that the underlying unrecognized tax benefits may decrease by up to $40 million over the next 12 months.
+
+Our future effective tax rates may be materially affected by changes in the tax rates in jurisdictions where our income is earned, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in the valuation of our deferred tax assets and liabilities, changes in or interpretation of tax rules and regulations in the jurisdictions in which we do business, or unexpected changes in business and market conditions that could reduce certain tax benefits.
+
+In addition, tax laws in the United States as well as other countries and jurisdictions in which we conduct business are subject to change as new laws are passed and/or new interpretations are made available. These countries, governmental bodies, such as the European Commission of the European Union, and intergovernmental economic organizations, such as the Organization for Economic Cooperation and Development, have made and/or could make other unprecedented assertions about how taxation is determined and, in some cases, have proposed or enacted new laws that are contrary to the way in which rules and regulations have historically been interpreted and applied. Changes in our operating landscape, such as changes in laws or interpretations of tax rules, have in the past and may in the future adversely affect our effective tax rates and/or cause us to respond by making changes to our business structure, which could adversely affect our operations and financial results.
+
+Moreover, we are subject to the examination of our income tax returns by domestic and foreign tax authorities. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from these examinations. Our policy is to record interest and penalties related to unrecognized tax benefits in income tax expense. While we believe our tax estimates are reasonable, we cannot provide assurance that the final determination of any of these examinations will not have an adverse effect on our financial position and results of operations.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash Flows
+
+Our primary source of cash is receipts from revenue. Other customary sources of cash include proceeds from maturities and sales of short-term investments and issuance of debt instruments. Our primary uses of cash are general business expenses including payroll and related benefits costs, income taxes, marketing and third-party hosting services, as well as our stock repurchase program as described below. Other customary uses of cash include purchases of short-term investments, property and equipment, payments for taxes related to net share settlement of equity awards, repayment of debt instruments and business acquisitions.
+
+This data should be read in conjunction with our Consolidated Statements of Cash Flows.
+
+As of
+
+(in millions) | November 28, 2025 | November 29, 2024
+
+Cash and cash equivalents | $ | 5,431 | $ | 7,613
+
+Short-term investments | $ | 1,164 | $ | 273
+
+Working capital | $ | (37) | $ | 711
+
+Stockholders’ equity | $ | 11,623 | $ | 14,105
+
+A summary of our cash flows for fiscal 2025, 2024 and 2023 is as follows:
+
+(in millions) | 2025 | 2024 | 2023
+
+Net cash provided by operating activities | $ | 10,031 | $ | 8,056 | $ | 7,302
+
+Net cash provided by (used for) investing activities | (1,187) | 149 | 776
+
+Net cash used for financing activities | (11,060) | (7,724) | (5,182)
+
+Effect of foreign currency exchange rates on cash and cash equivalents | 34 | (9) | 9
+
+Net change in cash and cash equivalents | $ | (2,182) | $ | 472 | $ | 2,905
+
+Cash Flows from Operating Activities
+
+For fiscal 2025, net cash provided by operating activities of $10.03 billion was primarily comprised of net income adjusted for the net effect of non-cash items. Working capital sources of cash included increases in deferred revenue, partially offset by increases in trade receivables attributable to the timing of billings.
+
+Cash Flows from Investing Activities
+
+For fiscal 2025, net cash used for investing activities of $1.19 billion was primarily due to purchases of short-term and long-term investments, net of proceeds from the maturities of short-term investments, and ongoing capital expenditures.
+
+Cash Flows from Financing Activities
+
+For fiscal 2025, net cash used for financing activities of $11.06 billion was primarily due to payments for our common stock repurchases and repayment of our 1.90% 2025 Notes and 3.25% 2025 Notes. These uses of cash were offset in part by proceeds from the issuance of senior notes. See the sections titled “Senior Notes” and “Stock Repurchase Program” below.
+
+Liquidity and Capital Resources Considerations
+
+Our existing cash, cash equivalents and investment balances may fluctuate during fiscal 2026 due to changes in our planned cash outlay.
+
+Cash from operations could also be affected by various risks and uncertainties, including, but not limited to, risks detailed in the section titled “Risk Factors” in Part I, Item 1A of this report. Based on our current business plan and revenue prospects, we believe that our existing cash, cash equivalents and short-term investment balances, our anticipated cash flows from operations and our available revolving credit facility will be sufficient to meet our working capital, operating resource expenditure and capital expenditure requirements for the next twelve months and for the foreseeable future.
+
+Our cash equivalent and short-term investment portfolio as of November 28, 2025 consisted of money market funds, corporate debt securities, U.S. Treasury securities, time deposits and other investments.
+
+We expect to continue our investing activities, including short-term and long-term investments, purchases of computer and server hardware to operate our network infrastructure, sales and marketing, product support and administrative staff. Furthermore, cash reserves may be used to repurchase stock under our stock repurchase program and to strategically acquire companies, products or technologies that are complementary to our business.
+
+On November 18, 2025, we entered into a definitive agreement to acquire Semrush Holdings, Inc., a publicly held brand visibility platform company, for approximately $1.9 billion of cash consideration. The transaction is subject to regulatory approvals and customary closing conditions and is expected to close in the first half of fiscal 2026. We expect to finance the acquisition using cash on hand.
+
+Revolving Credit Agreement
+
+We have a $1.5 billion senior unsecured revolving credit agreement (the “Revolving Credit Agreement”) with a syndicate of lenders, providing for loans to us and certain of our subsidiaries through June 30, 2027. Subject to the agreement of lenders, we may obtain up to an additional $500 million in commitments, for a maximum aggregate commitment of $2 billion. As of November 28, 2025, there were no outstanding borrowings under the Revolving Credit Agreement and the entire $1.5 billion credit line remains available for borrowing. Under the terms of our Revolving Credit Agreement, we are not prohibited from paying cash dividends unless payment would trigger an event of default or if one currently exists. We do not anticipate paying any cash dividends in the foreseeable future.
+
+Commercial Paper Program
+
+We have a commercial paper program under which we may issue unsecured commercial paper up to a total of $3 billion outstanding at any time, with maturities of up to 397 days from the date of issue. The net proceeds from the issuance of commercial paper are expected to be used for general corporate purposes, which may include working capital, capital expenditures, acquisitions, stock repurchases, refinancing indebtedness or any other general corporate purposes. As of November 28, 2025, there were no outstanding borrowings under the commercial paper program.
+
+Senior Notes
+
+In January 2025, we issued $800 million of senior notes due January 17, 2028, $700 million of senior notes due January 17, 2030 and $500 million of senior notes due January 17, 2035. In total, we have $6.15 billion of senior notes outstanding, which rank equally with our other unsecured and unsubordinated indebtedness. During fiscal 2025, we entered into interest rate swaps for certain of our senior notes that effectively convert the fixed interest rates on the notes to floating interest rates. As of November 28, 2025, the carrying value of our senior notes was $6.21 billion, net of fair value of the interest rate swaps and unamortized discount and debt issuance costs, and our maximum commitment for interest payments was $1.03 billion for the remaining duration of our outstanding senior notes and interest rate swaps. Interest on the notes is payable semi-annually, in arrears, and interest on the swaps is payable quarterly. Our senior notes do not contain any financial covenants. See Note 17 of our Notes to Consolidated Financial Statements for further details regarding our debt.
+
+Contractual Obligations
+
+Our principal commitments consist of purchase obligations resulting from agreements to purchase goods and services in the ordinary course of business. As of November 28, 2025, the value of our non-cancellable unconditional purchase obligations was $6.82 billion, primarily relating to contracts with vendors for third-party hosting and data center services. See Note 16 of our Notes to Consolidated Financial Statements for additional information regarding our purchase obligations.
+
+We lease certain facilities and data centers under non-cancellable operating lease arrangements that expire at various dates through 2038. As of November 28, 2025, the value of our obligations under operating leases was $485 million. See Note 7 of our Notes to Consolidated Financial Statements for additional information regarding our lease obligations.
+
+Stock Repurchase Program
+
+To facilitate our stock repurchase program, designed to return value to our stockholders and minimize dilution from stock issuances, we may repurchase our shares in the open market or enter into structured repurchase agreements with third parties. In March 2024, our Board of Directors granted authority to repurchase up to $25 billion in our common stock through March 14, 2028. In September 2025, we entered into a stock repurchase arrangement with a large financial institution to execute up to $2.5 billion in open market repurchases, which remained partially outstanding as of November 28, 2025. Upon completion of this arrangement, $5.90 billion remains under our March 2024 stock repurchase authority.
+
+During fiscal 2025, we entered into stock repurchase arrangements with large financial institutions and made payments totaling $11.28 billion to repurchase shares.
+
+See section titled “Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities” in Part II, Item 5 of this report for stock repurchases during the quarter ended November 28, 2025 and Note 14 of our Notes to Consolidated Financial Statements for further details regarding our stock repurchase program.
+
+Indemnifications
+
+In the ordinary course of business, we provide indemnifications of varying scope to our customers and channel partners against claims of intellectual property infringement made by third parties arising from the use of our products and from time to time, we are subject to claims by our customers under these indemnification provisions. Historically, costs related to these indemnification provisions have not been significant and we are unable to estimate the maximum potential impact of these indemnification provisions on our future results of operations.
+
+To the extent permitted under Delaware law, we have agreements whereby we indemnify our officers and directors for certain events or occurrences while the officer or director is or was serving at our request in such capacity. The indemnification period covers all pertinent events and occurrences during the officer’s or director’s lifetime. The maximum potential amount of future payments we could be required to make under these indemnification agreements is unlimited; however, we have director and officer insurance coverage that reduces our exposure and enables us to recover a portion of any future amounts paid.

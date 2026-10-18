@@ -1,22 +1,27 @@
-"""Step 9: second look at thin filings. Uses some Claude subscription usage.
+"""Step 9: second look when evidence is insufficient. Uses some Claude usage.
 
-Only for companies whose verified result has thin_filing = true:
+Trigger (the same for every company): the verified result has coverage
+"insufficient" on Community or Cross-cultural.
   1. Find the latest sustainability / impact / ESG report. Claude (with web
      search turned on, nothing else) suggests PDF links; the CODE accepts one
      only if
-       - its web address is on the company's own domain. "Own domain" means
-         a website the company itself lists in its 10-K text (so we don't
-         trust the AI on which site is official), and
+       - its web address contains the company's brand name, taken from the
+         main website the company lists in its own 10-K (e.g. wellsfargo.com
+         -> "wellsfargo", so wellsfargomedia.com is accepted). Any report NOT
+         on the main domain is listed in needs_human.csv for a quick check.
        - the PDF says 2024 or later on its first pages.
      A human can also put a link in data/reports/manual_urls.csv
      (columns: ticker,url) and it will be used instead of searching.
   2. Read only the relevant chapters (people, community, education,
      inclusion), found through the PDF's bookmarks or its table of contents.
-  3. Rescore only Community and Cross-cultural with the same rubric.
-  4. verify.py then checks the quotes against the report text and keeps the
-     higher score (scores can only go up).
-  5. If no valid report is found: keep the 10-K score and add the company to
-     needs_human.csv with the reason "no report found".
+  3. Rescore ONLY the insufficient theme(s) FROM SCRATCH, using the 10-K
+     sections and the report together, with the same rubric. Each evidence
+     record says which document it came from (source_doc "10-K" or
+     "report"), and verify.py checks its quote against that document.
+  4. Scores can go up, down or stay the same. verify.py keeps the original
+     10-K scores too.
+  5. If no valid report is found: keep the 10-K score, coverage stays
+     insufficient, and the company goes in needs_human.csv ("no report found").
 
 Run:  python src/second_look.py            (run_id from config)
 """
@@ -31,9 +36,13 @@ from urllib.parse import urlparse
 import requests
 from pypdf import PdfReader
 
-from ai import ClaudeError, check_themes, parse_json_reply, run_claude
-from common import (REPORTS, ROOT, SECTIONS, VERIFIED, clear_human_flags,
-                    flag_human, load_config, log, read_json, write_json)
+from ai import ClaudeError, check_reply, parse_json_reply, run_claude
+from common import (REPORTS, ROOT, SECTION_LABELS, SECTIONS, VERIFIED,
+                    clear_human_flags, flag_human, load_config, log, read_json,
+                    write_json)
+from score import ask_claude
+
+SECOND_LOOK_THEMES = ["community", "cross_cultural"]
 
 MIN_YEAR = 2024
 MAX_PDF_BYTES = 80_000_000
@@ -52,18 +61,30 @@ Reply with ONLY this JSON, nothing else:
 {{"candidates": [{{"url": "https://...", "title": "...", "year": 2025}}]}}
 List up to 5 candidates, best first. If you find nothing, reply {{"candidates": []}}."""
 
-RESCORE_PROMPT = """Below is the scoring rubric, then chapters from {company_name}'s ({ticker}) {year} sustainability/impact report (only the chapters about people, community, education and inclusion).
+RESCORE_PROMPT = """Below is the scoring rubric, then {company_name}'s ({ticker}) 10-K sections, then chapters from its {year} sustainability/impact report (only the chapters about people, community, education and inclusion).
 
 <rubric>
 {rubric}
 </rubric>
 
-Rescore ONLY these two themes from this report text: "community" and "cross_cultural". Use the same ladders, rules and traps as for a 10-K. Use ONLY the text below.
+The 10-K alone didn't give enough information to judge these theme(s): {themes_list}.
+Rescore ONLY {themes_list} FROM SCRATCH, using the 10-K text and the report text together, with the same rubric (same ladders, rules, caps and traps). The new score can be higher, lower or the same as before. Use ONLY the text below.
 
-Every quote must be copied exactly, character for character, from the report text below: one continuous passage, no "..." and no changes, each under about 40 words, 1-3 quotes for any score of 1 or higher, empty list for 0.
+Rules:
+- List every qualifying activity for these theme(s) as an evidence record (ids E1, E2, ...).
+- Each record must have "source_doc": "10-K" if its quote comes from the 10-K text, or "report" if it comes from the report text.
+- Each "quote" must be copied exactly, character for character, from that document: one continuous passage, no "..." and no changes, about 40 words max.
+- A score of 1 or higher must list at least one evidence id. Don't list the same activity twice for one theme.
+- Report figures describe the report's year; still only "current" activities raise a score.
 
 Reply with ONE JSON object and nothing else:
-{{"themes": {{"community": {{"score": 0, "level_reason": "", "quotes": []}}, "cross_cultural": {{"score": 0, "level_reason": "", "quotes": []}}}}}}
+{{"evidence": [{{"id": "E1", "activity": "", "quote": "", "section": "", "status": "current", "indicators": "", "themes": {{}}, "source_doc": "report"}}],
+ "themes": {themes_skeleton},
+ "notes": ""}}
+
+<tenk_sections>
+{tenk}
+</tenk_sections>
 
 <report_chapters>
 {text}
@@ -95,9 +116,20 @@ def company_domains(ticker):
     return doms
 
 
-def on_own_domain(url, domains):
-    host = urlparse(url).hostname or ""
-    return registered_domain(host) in domains
+def brand_check(url, domains):
+    """Option (b): accept a link whose domain contains the company's brand
+    name. The brand is the main domain the 10-K mentions most, minus its
+    ending (jpmorganchase.com -> "jpmorganchase").
+    Returns (accepted, on_main_domain, main_domain)."""
+    if not domains:
+        return False, False, ""
+    main = max(domains, key=domains.get)
+    brand = main.split(".")[0]
+    reg = registered_domain(urlparse(url).hostname or "")
+    if reg in domains:
+        return True, reg == main, main
+    return len(brand) >= 4 and brand in reg.split(".")[0], False, main
+
 
 # ------------------------------------------------------------- PDF handling
 
@@ -243,8 +275,10 @@ def find_report(company, cfg, folder, log_lines):
 
     for c in candidates:
         url = str(c.get("url", ""))
-        if not manual and not on_own_domain(url, domains):
-            log_lines.append(f"rejected (not company's own domain): {url}")
+        ok, on_main, main = brand_check(url, domains)
+        if not manual and not ok:
+            log_lines.append(f"rejected (domain doesn't contain the company's brand "
+                             f"name from {main}): {url}")
             continue
         try:
             data = fetch_pdf(url, cfg)
@@ -259,11 +293,14 @@ def find_report(company, cfg, folder, log_lines):
         pdf_path = folder / f"report_{year}.pdf"
         pdf_path.write_bytes(data)
         log_lines.append(f"accepted {url} (year {year})")
-        return url, year, reader, pdf_path.name
-    return None, None, None, None
+        note = "" if on_main else (
+            f"report is not on the company's main domain ({main or 'unknown'}); "
+            f"quick human check: {url}")
+        return url, year, reader, pdf_path.name, note
+    return None, None, None, None, ""
 
 
-def second_look(company, cfg, run_id):
+def second_look(company, cfg, run_id, themes, sections):
     t = company["ticker"]
     folder = REPORTS / t
     folder.mkdir(parents=True, exist_ok=True)
@@ -276,14 +313,18 @@ def second_look(company, cfg, run_id):
     record = {"ticker": t, "run_id": run_id, "model": cfg["model"],
               "done_at": datetime.now().isoformat(timespec="seconds")}
 
-    url, year, reader, pdf_name = find_report(company, cfg, folder, lines)
+    record["themes_rescored"] = themes
+    url, year, reader, pdf_name, domain_note = find_report(company, cfg, folder, lines)
     if not url:
         record.update(status="no report found", log=lines)
         write_json(out_path, record)
         flag_human(t, "second_look", "no report found", " | ".join(lines)[:500])
         log("second_look", f"{t}: no report found")
         return
-    record.update(report_url=url, report_year=year, report_pdf=pdf_name)
+    record.update(report_url=url, report_year=year, report_pdf=pdf_name,
+                  domain_note=domain_note)
+    if domain_note:
+        flag_human(t, "second_look", "report not on main domain - quick check", domain_note)
 
     text, chapters, method = relevant_text(reader)
     if not text:
@@ -297,50 +338,63 @@ def second_look(company, cfg, run_id):
     lines.append(f"chapters via {method}: {chapters}")
 
     rubric = (ROOT / "rubric.md").read_text(encoding="utf-8")
-    prompt = RESCORE_PROMPT.format(company_name=company["company_name"], ticker=t,
-                                   year=year, rubric=rubric, text=text)
-    log("second_look", f"{t}: rescoring from {url} ({len(prompt):,} characters)")
-    result, err = None, ""
-    for attempt in (1, 2):
-        try:
-            reply, info = run_claude(prompt if attempt == 1 else prompt +
-                                     f"\n\nYour previous reply was unusable ({err}). JSON only.", cfg)
-            result = parse_json_reply(reply)
-            check_themes(result, ["community", "cross_cultural"])
-            break
-        except (ValueError, KeyError, ClaudeError) as e:
-            err, result = str(e), None
+    tenk = "\n\n".join(
+        f'<filing_section name="{SECTION_LABELS[sec]}">\n'
+        + (SECTIONS / t / f"{sec}.txt").read_text(encoding="utf-8").strip()
+        + "\n</filing_section>" for sec in sections)
+    skeleton = "{" + ", ".join(
+        f'"{th}": {{"score": 0, "coverage": "sufficient", "evidence_ids": [], "reason": ""}}'
+        for th in themes) + "}"
+    prompt = RESCORE_PROMPT.format(
+        company_name=company["company_name"], ticker=t, year=year, rubric=rubric,
+        themes_list=" and ".join(f'"{th}"' for th in themes), themes_skeleton=skeleton,
+        tenk=tenk, text=text)
+    log("second_look", f"{t}: rescoring {themes} from {url} "
+                       f"({len(prompt):,} characters, ~{len(prompt) // 4:,} tokens)")
+    result, attempts, err = ask_claude(
+        prompt, cfg, lambda r: check_reply(r, themes, {"10-K", "report"}), t, "second_look")
     if result is None:
-        record.update(status="rescore failed", log=lines, error=err)
+        record.update(status="rescore failed", log=lines, error=err, attempts=attempts)
         write_json(out_path, record)
         flag_human(t, "second_look", "rescore reply invalid twice", err[:300])
         return
     record.update(status="scored", report_text_file=text_file, chapters=chapters,
-                  chapter_method=method, prompt_chars=len(prompt),
-                  ai={"themes": result["themes"]}, log=lines)
+                  chapter_method=method, prompt_chars=len(prompt), sections=sections,
+                  ai={"evidence": result["evidence"],
+                      "themes": {th: result["themes"][th] for th in themes},
+                      "notes": result.get("notes", "")},
+                  attempts=attempts, log=lines)
     write_json(out_path, record)
-    log("second_look", f"{t}: community {result['themes']['community']['score']}, "
-                       f"cross_cultural {result['themes']['cross_cultural']['score']} "
-                       f"(before quote check)")
-
+    log("second_look", f"{t}: " + ", ".join(
+        f"{th} {result['themes'][th]['score']}" for th in themes) + " (before checks)")
 
 def main():
     cfg = load_config()
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--run-id", default=cfg["run_id"])
     p.add_argument("--test-tickers", default="",
-                   help="TESTING ONLY: also run for these tickers even if not thin "
+                   help="TESTING ONLY: also run for these tickers even if coverage is sufficient "
                         "(use with a separate --run-id so real results aren't affected)")
     args = p.parse_args()
     forced = {x.strip().upper() for x in args.test_tickers.split(",") if x.strip()}
-    thin = [read_json(f) for f in sorted(VERIFIED.glob(f"*_{args.run_id}.json"))]
-    thin = [r for r in thin if r.get("run_id") == args.run_id
-            and (r.get("thin_filing") or r["ticker"] in forced)]
-    log("second_look", f"{len(thin)} thin filing(s) in run '{args.run_id}'")
-    for r in thin:
+    todo = []
+    for f in sorted(VERIFIED.glob(f"*_{args.run_id}.json")):
+        r = read_json(f)
+        if r.get("run_id") != args.run_id or r.get("rubric_version") != 2:
+            continue
+        themes = [th for th in SECOND_LOOK_THEMES
+                  if r["coverage"][th] == "insufficient"
+                  and not r["themes"][th].get("rescored_from_report")]
+        if r["ticker"] in forced and not themes:
+            themes = list(SECOND_LOOK_THEMES)
+        if themes:
+            todo.append((r, themes))
+    log("second_look", f"{len(todo)} company(ies) with insufficient coverage in "
+                       f"run '{args.run_id}'")
+    for r, themes in todo:
         try:
             second_look({"ticker": r["ticker"], "company_name": r["company_name"]},
-                        cfg, args.run_id)
+                        cfg, args.run_id, themes, r["sections"])
         except ClaudeError as e:
             log("second_look", f"STOPPING: {e}. Run again later to resume.")
             break

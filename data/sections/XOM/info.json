@@ -1,0 +1,45 @@
+{
+  "ticker": "XOM",
+  "accession_number": "0000034088-26-000045",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "full_text_words": 64779,
+  "sections": {
+    "item1": {
+      "words": 957,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          957,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 17785,
+      "source": "10-K (referenced section)",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          38,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 385,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 540
+    }
+  },
+  "notes": [
+    "item7: 10-K section is only 38 words with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (17,740 words)",
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false
+}

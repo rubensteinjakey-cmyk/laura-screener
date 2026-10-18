@@ -1,0 +1,42 @@
+{
+  "ticker": "INTU",
+  "accession_number": "0000896878-26-000037",
+  "filing_date": "2026-09-09",
+  "fiscal_year": 2026,
+  "full_text_words": 64326,
+  "sections": {
+    "item1": {
+      "words": 8398,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          8398,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 10225,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          10225,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 21,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 336
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1109,
+  "human_capital_found": true
+}
