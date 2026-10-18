@@ -1,8 +1,201 @@
 ticker,company_name,sector
-JPM,JPMorgan Chase & Co.,Financials
-BAC,Bank of America Corporation,Financials
-WFC,Wells Fargo & Company,Financials
-ETSY,Etsy Inc.,Consumer Discretionary
+OSCR,"Oscar Health, Inc.",Health Care
+MU,Micron Technology,Information Technology
+SNDK,Sandisk,Information Technology
+QLYS,Qualys,Information Technology
+NTAP,NetApp,Information Technology
+PAYC,Paycom,Industrials
+DELL,Dell Technologies,Information Technology
+VLO,Valero Energy,Energy
+DINO,HF Sinclair,Energy
+CORT,Corcept Therapeutics,Health Care
+MANH,Manhattan Associates,Information Technology
+CNC,Centene Corporation,Health Care
+ILMN,"Illumina, Inc.",Health Care
+MPC,Marathon Petroleum,Energy
+RNG,"RingCentral, Inc.",Information Technology
+SM,SM Energy Company,Energy
+PSX,Phillips 66,Energy
+PANW,Palo Alto Networks,Information Technology
+CRWD,CrowdStrike,Information Technology
+HUM,Humana,Health Care
+RBRK,Rubrik Inc. Class A Common Stock,Information Technology
+FTNT,Fortinet,Information Technology
+VEEV,Veeva Systems,Health Care
+OKTA,"Okta, Inc.",Information Technology
+AVTR,Avantor,Health Care
+GTLB,GitLab Inc.,Information Technology
+DDOG,Datadog,Information Technology
+AMD,Advanced Micro Devices,Information Technology
+INSW,"International Seaways, Inc.",Energy
+P,Everpure,Information Technology
+HAE,Haemonetics,Health Care
+HPE,Hewlett Packard Enterprise,Information Technology
+TXG,"10x Genomics, Inc.",Health Care
+VRNS,"Varonis Systems, Inc.",Information Technology
+MXL,"MaxLinear, Inc.",Information Technology
+FROG,JFrog Ltd.,Information Technology
+HPQ,HP Inc.,Information Technology
+DBX,Dropbox,Information Technology
+TWST,Twist Bioscience Corporation,Health Care
+PCTY,Paylocity,Industrials
+NTRA,"Natera, Inc.",Health Care
+ALAB,"Astera Labs, Inc.",Information Technology
+DOCU,Docusign,Information Technology
+HNGE,"Hinge Health, Inc.",Health Care
+ANF,Abercrombie & Fitch,Consumer Discretionary
+ZETA,Zeta Global Holdings Corp.,Information Technology
+SNOW,Snowflake Inc.,Information Technology
+ELF,e.l.f. Beauty,Consumer Staples
+SN,SharkNinja,Consumer Discretionary
+EXPD,Expeditors International,Industrials
+MRNA,Moderna,Health Care
+DT,Dynatrace,Information Technology
+DUOL,Duolingo,Consumer Discretionary
+TWLO,Twilio,Information Technology
+ADP,Automatic Data Processing,Industrials
+CVI,"CVR Energy, Inc.",Energy
+PBF,PBF Energy,Energy
+IOVA,"Iovance Biotherapeutics, Inc.",Health Care
+NTNX,Nutanix,Information Technology
+CAKE,"The Cheesecake Factory, Inc.",Consumer Discretionary
+MRVL,Marvell Technology,Information Technology
+CAH,Cardinal Health,Health Care
+TGTX,"TG Therapeutics, Inc.",Health Care
+BOX,"Box, Inc.",Information Technology
+RVTY,Revvity,Health Care
+EXEL,Exelixis,Health Care
+ZBRA,Zebra Technologies,Information Technology
+CRL,Charles River Laboratories,Health Care
+HRB,H&R Block,Consumer Discretionary
+MEDP,Medpace,Health Care
+WDAY,"Workday, Inc.",Information Technology
+NEU,NewMarket Corporation,Materials
+WAT,Waters Corporation,Health Care
+KDP,Keurig Dr Pepper,Consumer Staples
+CEG,Constellation Energy,Utilities
+APA,APA Corporation,Energy
+VNO,Vornado Realty Trust,Real Estate
+CVLT,CommVault Systems,Information Technology
+ABNB,Airbnb,Consumer Discretionary
+KMX,"CarMax, Inc.",Consumer Discretionary
+NVDA,Nvidia,Information Technology
+GH,"Guardant Health, Inc.",Health Care
+INCY,Incyte,Health Care
+NAVN,"Navan, Inc.",Information Technology
+PM,Philip Morris International,Consumer Staples
+VSXY,Victoria's Secret,Consumer Discretionary
+MO,Altria,Consumer Staples
+OMC,Omnicom Group,Communication Services
+MCK,McKesson,Health Care
+HALO,Halozyme,Health Care
+NOW,ServiceNow,Information Technology
+BBY,Best Buy,Consumer Discretionary
+VCTR,"Victory Capital Holdings, Inc.",Financials
+KNTK,"Kinetik Holdings, Inc.",Energy
+FFIV,"F5, Inc.",Information Technology
+KOD,Kodiak Sciences Inc.,Health Care
+DVA,DaVita,Health Care
+SAIC,Science Applications Intl Corp,Information Technology
+CF,CF Industries,Materials
+CHE,Chemed Corp.,Health Care
+ETSY,Etsy,Consumer Discretionary
+CHRD,Chord Energy,Energy
+CART,Maplebear Inc.,Consumer Staples
+CDE,Coeur Mining,Materials
+STRL,Sterling Infrastructure,Industrials
+THC,Tenet Health,Health Care
+ZS,"Zscaler, Inc.",Information Technology
+PTGX,"Protagonist Therapeutics, Inc.",Health Care
+WST,West Pharmaceutical Services,Health Care
+EOG,EOG Resources,Energy
+CAI,"Caris Life Sciences, Inc.",Health Care
+JXN,"Jackson Financial, Inc.",Financials
+SCCO,Southern Copper Corporation,Materials
+MNST,Monster Beverage,Consumer Staples
+A,Agilent Technologies,Health Care
+PLTR,Palantir Technologies,Information Technology
+IQV,IQVIA,Health Care
+SAIL,"SailPoint, Inc.",Information Technology
+AAPL,Apple Inc.,Information Technology
+APPF,AppFolio,Information Technology
+ALKS,Alkermes plc,Health Care
+LLY,Lilly (Eli),Health Care
+DXCM,Dexcom,Health Care
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary
+CRM,Salesforce,Information Technology
+DOCS,Doximity,Health Care
+S,"SentinelOne, Inc.",Information Technology
+RS,"Reliance, Inc.",Materials
+BIIB,Biogen,Health Care
+AMRX,Amneal Pharmaceuticals,Health Care
+CTVA,Corteva,Materials
+ABBV,AbbVie,Health Care
+FIX,Comfort Systems USA,Industrials
+ADM,Archer Daniels Midland,Consumer Staples
+SWKS,Skyworks Solutions,Information Technology
+QCOM,Qualcomm,Information Technology
+PI,"Impinj, Inc.",Information Technology
+EXLS,EXL Service,Industrials
+UGI,UGI Corp,Utilities
+LYFT,"Lyft, Inc.",Industrials
+STX,Seagate Technology,Information Technology
+PTC,PTC Inc.,Information Technology
+VTRS,Viatris,Health Care
+MLI,Mueller Industries,Industrials
+ROKU,"Roku, Inc.",Communication Services
+OVV,Ovintiv,Energy
+PR,Permian Resources,Energy
+M,Macy's,Consumer Discretionary
+NUE,Nucor,Materials
+ACN,Accenture,Information Technology
+NTSK,"Netskope, Inc.",Information Technology
+SJM,J.M. Smucker Company (The),Consumer Staples
+NEM,Newmont,Materials
+DVN,Devon Energy,Energy
+ELV,Elevance Health,Health Care
+COP,ConocoPhillips,Energy
+NFG,National Fuel Gas,Utilities
+LTH,"Life Time Group Holdings, Inc.",Consumer Discretionary
+AMG,Affiliated Managers Group,Financials
+ALSN,Allison Transmission,Industrials
+PAYX,Paychex,Industrials
+KYMR,"Kymera Therapeutics, Inc.",Health Care
+COF,Capital One,Financials
+MATX,"Matson, Inc.",Industrials
+CRBG,Corebridge Financial,Financials
 ADBE,Adobe Inc.,Information Technology
-INTU,Intuit Inc.,Information Technology
-XOM,Exxon Mobil Corporation,Energy
+RPRX,Royalty Pharma plc,Health Care
+CI,Cigna,Health Care
+CVX,Chevron Corporation,Energy
+STLD,Steel Dynamics,Materials
+XOM,ExxonMobil,Energy
+PAG,Penske Automotive Group,Consumer Discretionary
+SXT,Sensient Technologies,Materials
+SEIC,SEI Investments Company,Financials
+CBC,"Central Bancompany, Inc.",Financials
+ARXS,"Arxis, Inc.",Industrials
+TMO,Thermo Fisher Scientific,Health Care
+MSFT,Microsoft,Information Technology
+MSM,MSC Industrial Direct,Industrials
+LNTH,Lantheus Holdings,Health Care
+MTD,Mettler Toledo,Health Care
+GPN,Global Payments,Financials
+RDDT,Reddit,Communication Services
+MTCH,Match Group,Communication Services
+PNFP,Pinnacle Financial Partners,Financials
+LGND,"Ligand Pharmaceuticals, Inc.",Health Care
+RGEN,Repligen,Health Care
+HST,Host Hotels & Resorts,Real Estate
+WDC,Western Digital,Information Technology
+MET,MetLife,Financials
+BMNR,"Bitmine Immersion Technologies, Inc.",Financials
+SNX,TD Synnex,Information Technology
+DECK,Deckers Brands,Consumer Discretionary
+MRK,Merck & Co.,Health Care
+WTS,Watts Water Technologies,Industrials
+RAL,Ralliant Corp,Information Technology
+G,Genpact,Industrials
+EAT,Brinker International,Consumer Discretionary
+FDS,FactSet,Financials
+IESC,IES Holdings,Industrials

@@ -1,0 +1,201 @@
+ticker,company_name,sector,sector_check,sec_name,sec_industry_sic
+OSCR,"Oscar Health, Inc.",Health Care,,"Oscar Health, Inc.",Hospital & Medical Service Plans
+MU,Micron Technology,Information Technology,,MICRON TECHNOLOGY INC,Semiconductors & Related Devices
+SNDK,Sandisk,Information Technology,,Sandisk Corp,Computer Storage Devices
+QLYS,Qualys,Information Technology,,"QUALYS, INC.",Services-Prepackaged Software
+NTAP,NetApp,Information Technology,,"NetApp, Inc.",Computer Storage Devices
+PAYC,Paycom,Industrials,CHECK,"Paycom Software, Inc.",Services-Prepackaged Software
+DELL,Dell Technologies,Information Technology,,Dell Technologies Inc.,Electronic Computers
+VLO,Valero Energy,Energy,,VALERO ENERGY CORP/TX,Petroleum Refining
+DINO,HF Sinclair,Energy,,HF Sinclair Corp,Pipe Lines (No Natural Gas)
+CORT,Corcept Therapeutics,Health Care,,CORCEPT THERAPEUTICS INC,Pharmaceutical Preparations
+MANH,Manhattan Associates,Information Technology,,MANHATTAN ASSOCIATES INC,Services-Prepackaged Software
+CNC,Centene Corporation,Health Care,,CENTENE CORP,Hospital & Medical Service Plans
+ILMN,"Illumina, Inc.",Health Care,,"ILLUMINA, INC.",Laboratory Analytical Instruments
+MPC,Marathon Petroleum,Energy,,Marathon Petroleum Corp,Petroleum Refining
+RNG,"RingCentral, Inc.",Information Technology,,"RingCentral, Inc.",Services-Computer Processing & Data Preparation
+SM,SM Energy Company,Energy,,SM Energy Co,Crude Petroleum & Natural Gas
+PSX,Phillips 66,Energy,,Phillips 66,Petroleum Refining
+PANW,Palo Alto Networks,Information Technology,,Palo Alto Networks Inc,"Computer Peripheral Equipment, NEC"
+CRWD,CrowdStrike,Information Technology,,"CrowdStrike Holdings, Inc.",Services-Prepackaged Software
+HUM,Humana,Health Care,,HUMANA INC,Hospital & Medical Service Plans
+RBRK,Rubrik Inc. Class A Common Stock,Information Technology,,"Rubrik, Inc.",Services-Prepackaged Software
+FTNT,Fortinet,Information Technology,,"Fortinet, Inc.","Computer Peripheral Equipment, NEC"
+VEEV,Veeva Systems,Health Care,,VEEVA SYSTEMS INC,Services-Prepackaged Software
+OKTA,"Okta, Inc.",Information Technology,,"Okta, Inc.",Services-Prepackaged Software
+AVTR,Avantor,Health Care,,"Avantor, Inc.",Laboratory Analytical Instruments
+GTLB,GitLab Inc.,Information Technology,,Gitlab Inc.,Services-Prepackaged Software
+DDOG,Datadog,Information Technology,,"Datadog, Inc.",Services-Prepackaged Software
+AMD,Advanced Micro Devices,Information Technology,,ADVANCED MICRO DEVICES INC,Semiconductors & Related Devices
+INSW,"International Seaways, Inc.",Energy,,"International Seaways, Inc.",Water Transportation
+P,Everpure,Information Technology,CHECK,"Everpure, Inc.",Computer Storage Devices
+HAE,Haemonetics,Health Care,,HAEMONETICS CORP,Surgical & Medical Instruments & Apparatus
+HPE,Hewlett Packard Enterprise,Information Technology,,Hewlett Packard Enterprise Co,Computer & office Equipment
+TXG,"10x Genomics, Inc.",Health Care,,"10x Genomics, Inc.",Laboratory Analytical Instruments
+VRNS,"Varonis Systems, Inc.",Information Technology,,VARONIS SYSTEMS INC,Services-Prepackaged Software
+MXL,"MaxLinear, Inc.",Information Technology,,"MAXLINEAR, INC",Semiconductors & Related Devices
+FROG,JFrog Ltd.,Information Technology,,JFrog Ltd,Services-Prepackaged Software
+HPQ,HP Inc.,Information Technology,,HP INC,Computer & office Equipment
+DBX,Dropbox,Information Technology,,"DROPBOX, INC.",Services-Prepackaged Software
+TWST,Twist Bioscience Corporation,Health Care,,Twist Bioscience Corp,"Biological Products, (No Diagnostic Substances)"
+PCTY,Paylocity,Industrials,CHECK,Paylocity Holding Corp,Services-Prepackaged Software
+NTRA,"Natera, Inc.",Health Care,,"Natera, Inc.",Services-Medical Laboratories
+ALAB,"Astera Labs, Inc.",Information Technology,,"Astera Labs, Inc.",Semiconductors & Related Devices
+DOCU,Docusign,Information Technology,,"DOCUSIGN, INC.",Services-Prepackaged Software
+HNGE,"Hinge Health, Inc.",Health Care,,"Hinge Health, Inc.",Services-Computer Processing & Data Preparation
+ANF,Abercrombie & Fitch,Consumer Discretionary,,ABERCROMBIE & FITCH CO /DE/,Retail-Family Clothing Stores
+ZETA,Zeta Global Holdings Corp.,Information Technology,,Zeta Global Holdings Corp.,Services-Prepackaged Software
+SNOW,Snowflake Inc.,Information Technology,,Snowflake Inc.,Services-Prepackaged Software
+ELF,e.l.f. Beauty,Consumer Staples,,"e.l.f. Beauty, Inc.","Perfumes, Cosmetics & Other Toilet Preparations"
+SN,SharkNinja,Consumer Discretionary,,"SharkNinja, Inc.",Household Appliances
+EXPD,Expeditors International,Industrials,,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,Arrangement of  Transportation of  Freight & Cargo
+MRNA,Moderna,Health Care,,"Moderna, Inc.","Biological Products, (No Diagnostic Substances)"
+DT,Dynatrace,Information Technology,,"Dynatrace, Inc.",Services-Prepackaged Software
+DUOL,Duolingo,Consumer Discretionary,CHECK,"Duolingo, Inc.",Services-Prepackaged Software
+TWLO,Twilio,Information Technology,,TWILIO INC,Services-Prepackaged Software
+ADP,Automatic Data Processing,Industrials,,AUTOMATIC DATA PROCESSING INC,Services-Computer Processing & Data Preparation
+CVI,"CVR Energy, Inc.",Energy,,CVR ENERGY INC,Petroleum Refining
+PBF,PBF Energy,Energy,,PBF Energy Inc.,Petroleum Refining
+IOVA,"Iovance Biotherapeutics, Inc.",Health Care,,"IOVANCE BIOTHERAPEUTICS, INC.","Biological Products, (No Diagnostic Substances)"
+NTNX,Nutanix,Information Technology,,"Nutanix, Inc.",Services-Prepackaged Software
+CAKE,"The Cheesecake Factory, Inc.",Consumer Discretionary,,CHEESECAKE FACTORY INC,Retail-Eating  Places
+MRVL,Marvell Technology,Information Technology,,"Marvell Technology, Inc.",Semiconductors & Related Devices
+CAH,Cardinal Health,Health Care,,CARDINAL HEALTH INC,"Wholesale-Drugs, Proprietaries & Druggists' Sundries"
+TGTX,"TG Therapeutics, Inc.",Health Care,,"TG THERAPEUTICS, INC.",Pharmaceutical Preparations
+BOX,"Box, Inc.",Information Technology,,BOX INC,Services-Prepackaged Software
+RVTY,Revvity,Health Care,,"REVVITY, INC.",Laboratory Analytical Instruments
+EXEL,Exelixis,Health Care,,"EXELIXIS, INC.","Biological Products, (No Diagnostic Substances)"
+ZBRA,Zebra Technologies,Information Technology,,ZEBRA TECHNOLOGIES CORP,General Industrial Machinery & Equipment
+CRL,Charles River Laboratories,Health Care,,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",Services-Commercial Physical & Biological Research
+HRB,H&R Block,Consumer Discretionary,,H&R BLOCK INC,Services-Personal Services
+MEDP,Medpace,Health Care,,"Medpace Holdings, Inc.",Services-Commercial Physical & Biological Research
+WDAY,"Workday, Inc.",Information Technology,,"Workday, Inc.",Services-Computer Processing & Data Preparation
+NEU,NewMarket Corporation,Materials,,NEWMARKET CORP,Industrial Organic Chemicals
+WAT,Waters Corporation,Health Care,,WATERS CORP /DE/,Laboratory Analytical Instruments
+KDP,Keurig Dr Pepper,Consumer Staples,,Keurig Dr Pepper Inc.,Beverages
+CEG,Constellation Energy,Utilities,,Constellation Energy Corp,Electric Services
+APA,APA Corporation,Energy,,APA Corp,Crude Petroleum & Natural Gas
+VNO,Vornado Realty Trust,Real Estate,,VORNADO REALTY TRUST,Real Estate Investment Trusts
+CVLT,CommVault Systems,Information Technology,,COMMVAULT SYSTEMS INC,Services-Prepackaged Software
+ABNB,Airbnb,Consumer Discretionary,,"Airbnb, Inc.",Services-To Dwellings & Other Buildings
+KMX,"CarMax, Inc.",Consumer Discretionary,,CARMAX INC,Retail-Auto Dealers & Gasoline Stations
+NVDA,Nvidia,Information Technology,,NVIDIA CORP,Semiconductors & Related Devices
+GH,"Guardant Health, Inc.",Health Care,,"Guardant Health, Inc.",Services-Medical Laboratories
+INCY,Incyte,Health Care,,INCYTE CORP,Services-Commercial Physical & Biological Research
+NAVN,"Navan, Inc.",Information Technology,CHECK,"Navan, Inc.",Services-Prepackaged Software
+PM,Philip Morris International,Consumer Staples,,Philip Morris International Inc.,Cigarettes
+VSXY,Victoria's Secret,Consumer Discretionary,,Victoria's Secret & Co.,Retail-Women's Clothing Stores
+MO,Altria,Consumer Staples,,"ALTRIA GROUP, INC.",Cigarettes
+OMC,Omnicom Group,Communication Services,,OMNICOM GROUP INC.,Services-Advertising Agencies
+MCK,McKesson,Health Care,,MCKESSON CORP,"Wholesale-Drugs, Proprietaries & Druggists' Sundries"
+HALO,Halozyme,Health Care,,"HALOZYME THERAPEUTICS, INC.","Biological Products, (No Diagnostic Substances)"
+NOW,ServiceNow,Information Technology,,"ServiceNow, Inc.",Services-Prepackaged Software
+BBY,Best Buy,Consumer Discretionary,,BEST BUY CO INC,"Retail-Radio, Tv & Consumer Electronics Stores"
+VCTR,"Victory Capital Holdings, Inc.",Financials,,"Victory Capital Holdings, Inc.",Investment Advice
+KNTK,"Kinetik Holdings, Inc.",Energy,,Kinetik Holdings Inc.,Natural Gas Transmission
+FFIV,"F5, Inc.",Information Technology,,"F5, INC.",Computer Communications Equipment
+KOD,Kodiak Sciences Inc.,Health Care,,Kodiak Sciences Inc.,"Biological Products, (No Diagnostic Substances)"
+DVA,DaVita,Health Care,,DAVITA INC.,"Services-Misc Health & Allied Services, NEC"
+SAIC,Science Applications Intl Corp,Information Technology,CHECK,Science Applications International Corp,Services-Computer Integrated Systems Design
+CF,CF Industries,Materials,,"CF Industries Holdings, Inc.",Agricultural Chemicals
+CHE,Chemed Corp.,Health Care,,CHEMED CORP,Services-Home Health Care Services
+ETSY,Etsy,Consumer Discretionary,,ETSY INC,"Services-Business Services, NEC"
+CHRD,Chord Energy,Energy,,Chord Energy Corp,Crude Petroleum & Natural Gas
+CART,Maplebear Inc.,Consumer Staples,CHECK,Maplebear Inc.,"Services-Business Services, NEC"
+CDE,Coeur Mining,Materials,,"Coeur Mining, Inc.",Gold and Silver Ores
+STRL,Sterling Infrastructure,Industrials,,"STERLING INFRASTRUCTURE, INC.",Heavy Construction Other Than Bldg Const - Contractors
+THC,Tenet Health,Health Care,,TENET HEALTHCARE CORP,"Services-General Medical & Surgical Hospitals, NEC"
+ZS,"Zscaler, Inc.",Information Technology,,"Zscaler, Inc.",Services-Computer Programming Services
+PTGX,"Protagonist Therapeutics, Inc.",Health Care,,"Protagonist Therapeutics, Inc",Pharmaceutical Preparations
+WST,West Pharmaceutical Services,Health Care,,WEST PHARMACEUTICAL SERVICES INC,Surgical & Medical Instruments & Apparatus
+EOG,EOG Resources,Energy,,EOG RESOURCES INC,Crude Petroleum & Natural Gas
+CAI,"Caris Life Sciences, Inc.",Health Care,,"Caris Life Sciences, Inc.",Services-Medical Laboratories
+JXN,"Jackson Financial, Inc.",Financials,,Jackson Financial Inc.,Life Insurance
+SCCO,Southern Copper Corporation,Materials,,SOUTHERN COPPER CORP/,Metal Mining
+MNST,Monster Beverage,Consumer Staples,,Monster Beverage Corp,Bottled & Canned Soft Drinks & Carbonated Waters
+A,Agilent Technologies,Health Care,,"AGILENT TECHNOLOGIES, INC.",Laboratory Analytical Instruments
+PLTR,Palantir Technologies,Information Technology,,Palantir Technologies Inc.,Services-Prepackaged Software
+IQV,IQVIA,Health Care,,IQVIA HOLDINGS INC.,Services-Commercial Physical & Biological Research
+SAIL,"SailPoint, Inc.",Information Technology,,"SailPoint, Inc.",Services-Prepackaged Software
+AAPL,Apple Inc.,Information Technology,,Apple Inc.,Electronic Computers
+APPF,AppFolio,Information Technology,,APPFOLIO INC,Services-Prepackaged Software
+ALKS,Alkermes plc,Health Care,,Alkermes plc.,Pharmaceutical Preparations
+LLY,Lilly (Eli),Health Care,,ELI LILLY & Co,Pharmaceutical Preparations
+DXCM,Dexcom,Health Care,,DEXCOM INC,Surgical & Medical Instruments & Apparatus
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,,WILLIAMS SONOMA INC,"Retail-Home Furniture, Furnishings & Equipment Stores"
+CRM,Salesforce,Information Technology,,"Salesforce, Inc.",Services-Prepackaged Software
+DOCS,Doximity,Health Care,,"Doximity, Inc.",Services-Computer Programming Services
+S,"SentinelOne, Inc.",Information Technology,,"SentinelOne, Inc.",Services-Prepackaged Software
+RS,"Reliance, Inc.",Materials,,"RELIANCE, INC.",Wholesale-Metals Service Centers & of fices
+BIIB,Biogen,Health Care,,BIOGEN INC.,"Biological Products, (No Diagnostic Substances)"
+AMRX,Amneal Pharmaceuticals,Health Care,,"Amneal Pharmaceuticals, Inc.",Pharmaceutical Preparations
+CTVA,Corteva,Materials,,"Corteva, Inc.",Agricultural Production-Crops
+ABBV,AbbVie,Health Care,,AbbVie Inc.,Pharmaceutical Preparations
+FIX,Comfort Systems USA,Industrials,,COMFORT SYSTEMS USA INC,Electrical Work
+ADM,Archer Daniels Midland,Consumer Staples,,Archer-Daniels-Midland Co,Fats & Oils
+SWKS,Skyworks Solutions,Information Technology,,"SKYWORKS SOLUTIONS, INC.",Semiconductors & Related Devices
+QCOM,Qualcomm,Information Technology,,QUALCOMM INC/DE,Radio & Tv Broadcasting & Communications Equipment
+PI,"Impinj, Inc.",Information Technology,,IMPINJ INC,"Electronic Components, NEC"
+EXLS,EXL Service,Industrials,CHECK,"ExlService Holdings, Inc.","Services-Business Services, NEC"
+UGI,UGI Corp,Utilities,,UGI CORP /PA/,Gas & Other Services Combined
+LYFT,"Lyft, Inc.",Industrials,,"Lyft, Inc.","Services-Business Services, NEC"
+STX,Seagate Technology,Information Technology,,Seagate Technology Holdings plc,Computer Storage Devices
+PTC,PTC Inc.,Information Technology,,PTC INC.,Services-Prepackaged Software
+VTRS,Viatris,Health Care,,Viatris Inc,Pharmaceutical Preparations
+MLI,Mueller Industries,Industrials,,MUELLER INDUSTRIES INC,Rolling Drawing & Extruding of  Nonferrous Metals
+ROKU,"Roku, Inc.",Communication Services,,"ROKU, INC",Cable & Other Pay Television Services
+OVV,Ovintiv,Energy,,Ovintiv Inc.,Crude Petroleum & Natural Gas
+PR,Permian Resources,Energy,,Permian Resources Corp,Crude Petroleum & Natural Gas
+M,Macy's,Consumer Discretionary,,"Macy's, Inc.",Retail-Department Stores
+NUE,Nucor,Materials,,NUCOR CORP,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)"
+ACN,Accenture,Information Technology,,Accenture plc,"Services-Business Services, NEC"
+NTSK,"Netskope, Inc.",Information Technology,,Netskope Inc,Services-Prepackaged Software
+SJM,J.M. Smucker Company (The),Consumer Staples,,J M SMUCKER Co,"Canned, Fruits, Veg, Preserves, Jams & Jellies"
+NEM,Newmont,Materials,,NEWMONT Corp /DE/,Gold and Silver Ores
+DVN,Devon Energy,Energy,,DEVON ENERGY CORP/DE,Crude Petroleum & Natural Gas
+ELV,Elevance Health,Health Care,,"Elevance Health, Inc.",Hospital & Medical Service Plans
+COP,ConocoPhillips,Energy,,CONOCOPHILLIPS,Petroleum Refining
+NFG,National Fuel Gas,Utilities,CHECK,NATIONAL FUEL GAS CO,Natural Gas Distribution
+LTH,"Life Time Group Holdings, Inc.",Consumer Discretionary,,"Life Time Group Holdings, Inc.",Services-Membership Sports & Recreation Clubs
+AMG,Affiliated Managers Group,Financials,,"AFFILIATED MANAGERS GROUP, INC.",Investment Advice
+ALSN,Allison Transmission,Industrials,,Allison Transmission Holdings Inc,Motor Vehicle Parts & Accessories
+PAYX,Paychex,Industrials,,PAYCHEX INC,"Services-Engineering, Accounting, Research, Management"
+KYMR,"Kymera Therapeutics, Inc.",Health Care,,"Kymera Therapeutics, Inc.","Biological Products, (No Diagnostic Substances)"
+COF,Capital One,Financials,,CAPITAL ONE FINANCIAL CORP,National Commercial Banks
+MATX,"Matson, Inc.",Industrials,,"Matson, Inc.",Water Transportation
+CRBG,Corebridge Financial,Financials,,"Corebridge Financial, Inc.",Life Insurance
+ADBE,Adobe Inc.,Information Technology,,ADOBE INC.,Services-Prepackaged Software
+RPRX,Royalty Pharma plc,Health Care,,Royalty Pharma plc,Pharmaceutical Preparations
+CI,Cigna,Health Care,,Cigna Group,Hospital & Medical Service Plans
+CVX,Chevron Corporation,Energy,,CHEVRON CORP,Petroleum Refining
+STLD,Steel Dynamics,Materials,,STEEL DYNAMICS INC,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)"
+XOM,ExxonMobil,Energy,,ExxonMobil Holdings Corp,Petroleum Refining
+PAG,Penske Automotive Group,Consumer Discretionary,,"PENSKE AUTOMOTIVE GROUP, INC.",Retail-Auto Dealers & Gasoline Stations
+SXT,Sensient Technologies,Materials,,SENSIENT TECHNOLOGIES CORP,Industrial Organic Chemicals
+SEIC,SEI Investments Company,Financials,,SEI INVESTMENTS CO,"Security Brokers, Dealers & Flotation Companies"
+CBC,"Central Bancompany, Inc.",Financials,,"Central Bancompany, Inc.",
+ARXS,"Arxis, Inc.",Industrials,CHECK,"Arxis, Inc.","Aircraft Parts & Auxiliary Equipment, NEC"
+TMO,Thermo Fisher Scientific,Health Care,,THERMO FISHER SCIENTIFIC INC.,"Measuring & Controlling Devices, NEC"
+MSFT,Microsoft,Information Technology,,MICROSOFT CORP,Services-Prepackaged Software
+MSM,MSC Industrial Direct,Industrials,,MSC INDUSTRIAL DIRECT CO INC,Wholesale-Industrial Machinery & Equipment
+LNTH,Lantheus Holdings,Health Care,,"Lantheus Holdings, Inc.",In Vitro & In Vivo Diagnostic Substances
+MTD,Mettler Toledo,Health Care,,METTLER TOLEDO INTERNATIONAL INC/,Laboratory Analytical Instruments
+GPN,Global Payments,Financials,,GLOBAL PAYMENTS INC,"Services-Business Services, NEC"
+RDDT,Reddit,Communication Services,,"Reddit, Inc.",Services-Computer Processing & Data Preparation
+MTCH,Match Group,Communication Services,,"Match Group, Inc.","Services-Computer Programming, Data Processing, Etc."
+PNFP,Pinnacle Financial Partners,Financials,,"Pinnacle Financial Partners, Inc.",National Commercial Banks
+LGND,"Ligand Pharmaceuticals, Inc.",Health Care,,LIGAND PHARMACEUTICALS INC,Pharmaceutical Preparations
+RGEN,Repligen,Health Care,,REPLIGEN CORP,"Biological Products, (No Diagnostic Substances)"
+HST,Host Hotels & Resorts,Real Estate,,"HOST HOTELS & RESORTS, INC.",Real Estate Investment Trusts
+WDC,Western Digital,Information Technology,,WESTERN DIGITAL CORP,Computer Storage Devices
+MET,MetLife,Financials,,METLIFE INC,Life Insurance
+BMNR,"Bitmine Immersion Technologies, Inc.",Financials,CHECK,"BITMINE IMMERSION TECHNOLOGIES, INC.",Finance Services
+SNX,TD Synnex,Information Technology,,TD SYNNEX CORP,Wholesale-Computers & Peripheral Equipment & Software
+DECK,Deckers Brands,Consumer Discretionary,,DECKERS OUTDOOR CORP,Rubber & Plastics Footwear
+MRK,Merck & Co.,Health Care,,"Merck & Co., Inc.",Pharmaceutical Preparations
+WTS,Watts Water Technologies,Industrials,,WATTS WATER TECHNOLOGIES INC,Miscellaneous Fabricated Metal Products
+RAL,Ralliant Corp,Information Technology,CHECK,Ralliant Corp,"Industrial Instruments For Measurement, Display, and Control"
+G,Genpact,Industrials,CHECK,Genpact LTD,Services-Management Consulting Services
+EAT,Brinker International,Consumer Discretionary,,"BRINKER INTERNATIONAL, INC",Retail-Eating  Places
+FDS,FactSet,Financials,,FACTSET RESEARCH SYSTEMS INC,"Services-Computer Programming, Data Processing, Etc."
+IESC,IES Holdings,Industrials,,"IES Holdings, Inc.",Electrical Work
