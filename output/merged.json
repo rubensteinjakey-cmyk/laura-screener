@@ -401,6 +401,7 @@
       "human_capital_words": 884,
       "score_source": "10-K",
       "report_url": "",
+      "report_link_found_on": "",
       "second_look": null
     },
     "NTAP": {
@@ -583,9 +584,11 @@
       "human_capital_words": 737,
       "score_source": "10-K",
       "report_url": "",
+      "report_link_found_on": "",
       "second_look": {
         "status": "no report found",
         "report_url": "",
+        "found_on": "",
         "report_year": null,
         "themes": [
           "cross_cultural"
@@ -773,6 +776,7 @@
       "human_capital_words": 655,
       "score_source": "10-K",
       "report_url": "",
+      "report_link_found_on": "",
       "second_look": null
     },
     "QLYS": {
@@ -1070,6 +1074,7 @@
       "human_capital_words": 1309,
       "score_source": "10-K",
       "report_url": "",
+      "report_link_found_on": "",
       "second_look": null
     },
     "SNDK": {
@@ -1227,6 +1232,7 @@
       "human_capital_words": 627,
       "score_source": "10-K",
       "report_url": "",
+      "report_link_found_on": "",
       "second_look": null
     }
   }

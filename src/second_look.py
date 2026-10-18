@@ -9,6 +9,9 @@ Trigger (the same for every company): the verified result has coverage
          main website the company lists in its own 10-K (e.g. wellsfargo.com
          -> "wellsfargo", so wellsfargomedia.com is accepted). Any report NOT
          on the main domain is listed in needs_human.csv for a quick check.
+       - a report on an investor-relations file service (q4cdn.com etc.) is
+         accepted ONLY if the code finds its link on a page of the company's
+         own website; that page is recorded. Found any other way: rejected.
        - the PDF says 2024 or later on its first pages.
      A human can also put a link in data/reports/manual_urls.csv
      (columns: ticker,url) and it will be used instead of searching.
@@ -31,7 +34,7 @@ import csv
 import io
 import re
 from datetime import datetime
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 import requests
 from pypdf import PdfReader
@@ -58,9 +61,10 @@ CHAPTER_WORDS = re.compile(
 SEARCH_PROMPT = """Find the most recent sustainability, impact, ESG, or corporate responsibility report PDF published by {company_name} (stock ticker {ticker}) on the company's OWN website. It must be from {min_year} or later.
 
 Use web search. Prefer direct links to PDF files on the company's own domain. Do not suggest third-party sites (ESG data aggregators, news sites, responsibilityreports.com, etc.).
+Some companies host their reports on an investor-relations file service (for example q4cdn.com). Such a link is only usable if it appears on a page of the company's own website (for example its investor relations or sustainability page): then give that page's address in "found_on". Always fill "found_on" with the company web page that links to the PDF, if you know it.
 
 Reply with ONLY this JSON, nothing else:
-{{"candidates": [{{"url": "https://...", "title": "...", "year": 2025}}]}}
+{{"candidates": [{{"url": "https://...", "title": "...", "year": 2025, "found_on": "https://www.company.com/..."}}]}}
 List up to 5 candidates, best first. If you find nothing, reply {{"candidates": []}}."""
 
 RESCORE_PROMPT = """Below is the scoring rubric, then {company_name}'s ({ticker}) 10-K sections, then chapters from its {year} sustainability/impact report (only the chapters about people, community, education and inclusion).
@@ -136,6 +140,24 @@ def brand_check(url, domains):
 
 
 # ------------------------------------------------------------- PDF handling
+
+
+# Investor-relations file services that companies use to host documents.
+# A report on one of these is accepted ONLY if the code finds its link on a
+# page of the company's own website (the page is recorded).
+IR_FILE_HOSTS = {"q4cdn.com", "q4web.com", "q4ir.com", "gcs-web.com", "investorroom.com"}
+
+
+def link_on_page(page_url, pdf_url, cfg):
+    """True if the company web page at page_url contains a link to pdf_url."""
+    ua = cfg["user_agent"]
+    r = requests.get(page_url, timeout=60, headers={
+        "User-Agent": f'Mozilla/5.0 (research screener; {ua["name"]} {ua["email"]})'})
+    r.raise_for_status()
+    html = unquote(r.text.replace("&amp;", "&"))
+    target = unquote(pdf_url)
+    path = urlparse(target).path
+    return target in html or (len(path) > 10 and path in html)
 
 
 def fetch_pdf(url, cfg):
@@ -284,10 +306,33 @@ def find_report(company, cfg, folder, log_lines):
     for c in candidates:
         url = str(c.get("url", ""))
         ok, on_main, main = brand_check(url, domains)
+        found_on = ""
         if not manual and not ok:
-            log_lines.append(f"rejected (domain doesn't contain the company's brand "
-                             f"name from {main}): {url}")
-            continue
+            host = registered_domain(urlparse(url).hostname or "")
+            if host not in IR_FILE_HOSTS:
+                log_lines.append(f"rejected (domain doesn't contain the company's brand "
+                                 f"name from {main}): {url}")
+                continue
+            # investor-relations file service: only if the link is on a
+            # page of the company's own website, checked by the code
+            page = str(c.get("found_on") or "")
+            page_ok, _, _ = brand_check(page, domains) if page else (False, False, main)
+            if not page_ok:
+                log_lines.append(f"rejected (on file service {host}, but no company web "
+                                 f"page given where the link appears): {url}")
+                continue
+            try:
+                linked = link_on_page(page, url, cfg)
+            except Exception as e:
+                log_lines.append(f"rejected (on file service {host}; couldn't read company "
+                                 f"page {page}: {e}): {url}")
+                continue
+            if not linked:
+                log_lines.append(f"rejected (on file service {host}; link not found on "
+                                 f"company page {page}): {url}")
+                continue
+            found_on = page
+            log_lines.append(f"file-service link confirmed on company page {page}")
         try:
             data = fetch_pdf(url, cfg)
             reader = PdfReader(io.BytesIO(data))
@@ -314,9 +359,10 @@ def find_report(company, cfg, folder, log_lines):
         log_lines.append(f"accepted {url} (year {year}, {len(reader.pages)} pages)")
         note = "" if on_main else (
             f"report is not on the company's main domain ({main or 'unknown'}); "
-            f"quick human check: {url}")
-        return url, year, (text, chapters, method), pdf_path.name, note
-    return None, None, None, None, ""
+            f"quick human check: {url}"
+            + (f" (link found on company page {found_on})" if found_on else ""))
+        return url, year, (text, chapters, method), pdf_path.name, note, found_on
+    return None, None, None, None, "", ""
 
 
 def second_look(company, cfg, run_id, themes, sections):
@@ -333,7 +379,7 @@ def second_look(company, cfg, run_id, themes, sections):
               "done_at": datetime.now().isoformat(timespec="seconds")}
 
     record["themes_rescored"] = themes
-    url, year, found, pdf_name, domain_note = find_report(company, cfg, folder, lines)
+    url, year, found, pdf_name, domain_note, found_on = find_report(company, cfg, folder, lines)
     if not url:
         record.update(status="no report found", log=lines)
         write_json(out_path, record)
@@ -341,7 +387,7 @@ def second_look(company, cfg, run_id, themes, sections):
         log("second_look", f"{t}: no report found")
         return
     record.update(report_url=url, report_year=year, report_pdf=pdf_name,
-                  domain_note=domain_note)
+                  domain_note=domain_note, report_link_found_on=found_on)
     if domain_note:
         flag_human(t, f"second_look:{run_id}", "report not on main domain - quick check", domain_note)
 

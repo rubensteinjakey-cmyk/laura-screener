@@ -295,6 +295,7 @@ def verify_record(rec, run_id):
     if sl_path.exists():
         sl = read_json(sl_path)
         second = {"status": sl.get("status"), "report_url": sl.get("report_url", ""),
+                  "found_on": sl.get("report_link_found_on", ""),
                   "report_year": sl.get("report_year"), "themes": sl.get("themes_rescored", [])}
         if sl.get("status") == "scored":
             report = (REPORTS / t / sl["report_text_file"]).read_text(encoding="utf-8")
@@ -371,6 +372,7 @@ def verify_record(rec, run_id):
         "human_capital_words": info.get("human_capital_words", 0),
         "score_source": score_source,
         "report_url": report_url,
+        "report_link_found_on": (second or {}).get("found_on", ""),
         "second_look": second,
     }
     write_json(VERIFIED / f"{t}_{run_id}.json", out)

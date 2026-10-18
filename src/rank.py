@@ -168,7 +168,8 @@ def main():
                    f"{r['final_score']}/100" + (" · shortlist" if r["in_shortlist"] else ""),
                    f"10-K filed {r['filing_date']} (fiscal {r['fiscal_year']}) · "
                    f"source: {r['score_source']}"
-                   + (f" · report: {r['report_url']}" if r["report_url"] else ""), ""]
+                   + (f" · report: {r['report_url']}" if r["report_url"] else "")
+                   + (f" (link found on {r['report_link_found_on']})" if r.get("report_link_found_on") else ""), ""]
             md.append("Scores: " + " · ".join(
                 f"{THEME_LABELS[t]} {r['scores'][t]} ({r['coverage'][t]})" for t in THEMES)
                 + f" → **{r['final_score']}**")

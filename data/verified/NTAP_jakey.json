@@ -178,9 +178,11 @@
   "human_capital_words": 737,
   "score_source": "10-K",
   "report_url": "",
+  "report_link_found_on": "",
   "second_look": {
     "status": "no report found",
     "report_url": "",
+    "found_on": "",
     "report_year": null,
     "themes": [
       "cross_cultural"
