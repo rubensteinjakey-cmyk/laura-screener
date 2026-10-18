@@ -327,7 +327,7 @@ def second_look(company, cfg, run_id, themes, sections):
     if out_path.exists():
         log("second_look", f"{t}: already done for run '{run_id}', skipping")
         return
-    clear_human_flags(t, "second_look")
+    clear_human_flags(t, f"second_look:{run_id}")
     lines = []
     record = {"ticker": t, "run_id": run_id, "model": cfg["model"],
               "done_at": datetime.now().isoformat(timespec="seconds")}
@@ -337,13 +337,13 @@ def second_look(company, cfg, run_id, themes, sections):
     if not url:
         record.update(status="no report found", log=lines)
         write_json(out_path, record)
-        flag_human(t, "second_look", "no report found", " | ".join(lines)[:500])
+        flag_human(t, f"second_look:{run_id}", "no report found", " | ".join(lines)[:500])
         log("second_look", f"{t}: no report found")
         return
     record.update(report_url=url, report_year=year, report_pdf=pdf_name,
                   domain_note=domain_note)
     if domain_note:
-        flag_human(t, "second_look", "report not on main domain - quick check", domain_note)
+        flag_human(t, f"second_look:{run_id}", "report not on main domain - quick check", domain_note)
 
     text, chapters, method = found
     text_file = f"report_{year}_chapters.txt"
@@ -369,7 +369,7 @@ def second_look(company, cfg, run_id, themes, sections):
     if result is None:
         record.update(status="rescore failed", log=lines, error=err, attempts=attempts)
         write_json(out_path, record)
-        flag_human(t, "second_look", "rescore reply invalid twice", err[:300])
+        flag_human(t, f"second_look:{run_id}", "rescore reply invalid twice", err[:300])
         return
     record.update(status="scored", report_text_file=text_file, chapters=chapters,
                   chapter_method=method, prompt_chars=len(prompt), sections=sections,
@@ -413,7 +413,7 @@ def main():
             break
         except Exception as e:
             log("second_look", f"{r['ticker']}: ERROR {e}")
-            flag_human(r["ticker"], "second_look", "second look error", str(e)[:300])
+            flag_human(r["ticker"], f"second_look:{args.run_id}", "second look error", str(e)[:300])
 
 
 if __name__ == "__main__":

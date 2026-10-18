@@ -172,9 +172,18 @@
   ],
   "notes": "Cross-cultural coverage is insufficient, so the automated second look (sustainability report on a company-owned domain) is triggered for that theme. Item 7 mentions 'customer education and training' within paid professional services; this was treated as product training bundled with support, not as an education business or external education program, and was not scored. Traps excluded: 'startups' appears only as competitors; 'collaborations' and 'partnerships' with NVIDIA, Cisco and Microsoft are commercial technology alliances; 'foundation' and 'design' are used in a technical or engineering sense; 'diversified customer base' and offices in over 20 countries do not count for cross-cultural. An employee survey covering 'inclusivity' and board oversight of 'workforce inclusion' are noted, but neither describes a specific barrier-removing practice. The environmental disclosure about 'positively affecting the communities' is commitment language only.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 737,
   "score_source": "10-K",
   "report_url": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "report_year": null,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }

@@ -24,8 +24,8 @@ import math
 from collections import defaultdict
 
 from ai import THEMES
-from common import (OUTPUT, SECTION_LABELS, load_config, read_json,
-                    read_needs_human)
+from common import (OUTPUT, SECTION_LABELS, load_companies, load_config,
+                    read_json, read_needs_human)
 
 THEME_LABELS = {"creativity": "Creativity", "community": "Community",
                 "cross_cultural": "Cross-cultural", "entrepreneurship": "Entrepreneurship"}
@@ -194,22 +194,26 @@ def main():
             md.append("")
     (OUTPUT / "summary.md").write_text("\n".join(md) + "\n", encoding="utf-8")
 
-    # keep verify flags only from the runs being ranked (not test runs)
+    # keep run-specific flags (verify:<run>, second_look:<run>) only from the
+    # runs being ranked, and only for companies in companies.csv
     ranked_runs = {r["run_id"] for r in merged["results"].values()}
-    ranked = set(merged["results"])
+    listed = {c["ticker"] for c in load_companies()}
     flags = [f for f in read_needs_human()
-             if not f["step"].startswith("verify:") or
-             (f["step"].split(":", 1)[1] in ranked_runs and f["ticker"] in ranked)]
-    for t in merged.get("missing", []):
-        flags.append({"ticker": t, "step": "merge", "reason": "no verified result",
-                      "details": "", "when": "", "who": ""})
+             if f["ticker"] in listed and
+             (":" not in f["step"] or f["step"].split(":", 1)[1] in ranked_runs)]
+    # companies with no result yet go in their own file (normal mid-run)
+    with open(OUTPUT / "not_scored_yet.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["ticker"])
+        w.writerows([t] for t in merged.get("missing", []))
     with open(OUTPUT / "needs_human.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["ticker", "step", "reason", "details", "when", "who"])
         w.writeheader()
         w.writerows(sorted(flags, key=lambda x: (x["ticker"], x["step"])))
 
     print(f"Wrote output/results.csv ({sum(len(v) for v in by_sector.values())} companies), "
-          f"output/evidence.csv, output/summary.md, output/needs_human.csv ({len(flags)} rows)")
+          f"output/evidence.csv, output/summary.md, output/needs_human.csv ({len(flags)} rows), "
+          f"output/not_scored_yet.csv ({len(merged.get('missing', []))} companies)")
 
 
 if __name__ == "__main__":
