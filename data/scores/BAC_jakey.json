@@ -1,0 +1,66 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America Corporation",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1"
+  ],
+  "accession_number": "0000070858-26-000157",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T20:21:18",
+  "prompt_chars": 48905,
+  "filing_chars": 38162,
+  "approx_prompt_tokens": 12226,
+  "ai": {
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "level_reason": "Level 0: Item 1 describes nothing about creative work, artists, storytelling or arts programs.",
+        "quotes": []
+      },
+      "community": {
+        "score": 2,
+        "level_reason": "Level 2: one specific practice, an internal employee training and development program (Bank of America Academy) with stated hours and internal mobility figures, but no school, nonprofit, community-investment or volunteering programs are described.",
+        "quotes": [
+          "we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy",
+          "We provide a variety of resources to help employees grow in their current roles and build new skills, including resources to help employees find new opportunities, re-skill and seek leadership positions.",
+          "In 2025, more than 14,000 employees found new roles within the Corporation"
+        ]
+      },
+      "cross_cultural": {
+        "score": 2,
+        "level_reason": "Level 2: one specific practice, employee networks with membership numbers; the rest is workforce demographic data and general inclusion language.",
+        "quotes": [
+          "We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally."
+        ]
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "level_reason": "Level 1: small businesses are named only in a general list of customers served, with no specific program, product or measurable data.",
+        "quotes": [
+          "serving individual consumers, small- and middle-market businesses, institutional investors, large corporations and governments with a full range of banking, investing, asset management and other financial and risk management products and services"
+        ]
+      }
+    },
+    "thin_filing": false,
+    "sections_read": [
+      "Item 1"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"BAC\",\"sector\":\"Financials\",\"sections_read\":[\"Item 1\"],\"themes\":{\"creativity\":{\"score\":0,\"level_reason\":\"Level 0: Item 1 describes nothing about creative work, artists, storytelling or arts programs.\",\"quotes\":[]},\"community\":{\"score\":2,\"level_reason\":\"Level 2: one specific practice, an internal employee training and development program (Bank of America Academy) with stated hours and internal mobility figures, but no school, nonprofit, community-investment or volunteering programs are described.\",\"quotes\":[\"we delivered more than 7.6 million hours of training and development to our teammates through Bank of America Academy\",\"We provide a variety of resources to help employees grow in their current roles and build new skills, including resources to help employees find new opportunities, re-skill and seek leadership positions.\",\"In 2025, more than 14,000 employees found new roles within the Corporation\"]},\"cross_cultural\":{\"score\":2,\"level_reason\":\"Level 2: one specific practice, employee networks with membership numbers; the rest is workforce demographic data and general inclusion language.\",\"quotes\":[\"We have 11 Employee Networks with over 330,000 voluntary memberships, which provide teammates opportunities to meet new people, have an impact across multiple business lines and grow personally and professionally.\"]},\"entrepreneurship\":{\"score\":1,\"level_reason\":\"Level 1: small businesses are named only in a general list of customers served, with no specific program, product or measurable data.\",\"quotes\":[\"serving individual consumers, small- and middle-market businesses, institutional investors, large corporations and governments with a full range of banking, investing, asset management and other financial and risk management products and services\"]}},\"thin_filing\":false}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16894,
+      "output_tokens": 1827,
+      "duration_ms": 19241
+    }
+  ]
+}
