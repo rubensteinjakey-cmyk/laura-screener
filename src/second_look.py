@@ -47,6 +47,7 @@ SECOND_LOOK_THEMES = ["community", "cross_cultural"]
 MIN_YEAR = 2024
 MAX_PDF_BYTES = 80_000_000
 MAX_CHAPTER_WORDS = 40_000
+MIN_REPORT_PAGES = 8  # shorter PDFs are usually link lists / indexes, not reports
 CHAPTER_WORDS = re.compile(
     r"people|employee|workforce|talent|human capital|our team|colleague|"
     r"communit|education|learning|school|philanthrop|giving|volunteer|"
@@ -298,13 +299,20 @@ def find_report(company, cfg, folder, log_lines):
         if not year or year < MIN_YEAR:
             log_lines.append(f"rejected (year {year} < {MIN_YEAR}): {url}")
             continue
+        if len(reader.pages) < MIN_REPORT_PAGES:
+            log_lines.append(f"rejected (only {len(reader.pages)} pages, not a report): {url}")
+            continue
+        text, chapters, method = relevant_text(reader)
+        if not text:
+            log_lines.append(f"rejected (no usable table of contents / chapters): {url}")
+            continue
         pdf_path = folder / f"report_{year}.pdf"
         pdf_path.write_bytes(data)
-        log_lines.append(f"accepted {url} (year {year})")
+        log_lines.append(f"accepted {url} (year {year}, {len(reader.pages)} pages)")
         note = "" if on_main else (
             f"report is not on the company's main domain ({main or 'unknown'}); "
             f"quick human check: {url}")
-        return url, year, reader, pdf_path.name, note
+        return url, year, (text, chapters, method), pdf_path.name, note
     return None, None, None, None, ""
 
 
@@ -322,7 +330,7 @@ def second_look(company, cfg, run_id, themes, sections):
               "done_at": datetime.now().isoformat(timespec="seconds")}
 
     record["themes_rescored"] = themes
-    url, year, reader, pdf_name, domain_note = find_report(company, cfg, folder, lines)
+    url, year, found, pdf_name, domain_note = find_report(company, cfg, folder, lines)
     if not url:
         record.update(status="no report found", log=lines)
         write_json(out_path, record)
@@ -334,13 +342,7 @@ def second_look(company, cfg, run_id, themes, sections):
     if domain_note:
         flag_human(t, "second_look", "report not on main domain - quick check", domain_note)
 
-    text, chapters, method = relevant_text(reader)
-    if not text:
-        record.update(status="no usable table of contents", log=lines)
-        write_json(out_path, record)
-        flag_human(t, "second_look", "report found but chapters could not be located", url)
-        log("second_look", f"{t}: report found but no usable table of contents")
-        return
+    text, chapters, method = found
     text_file = f"report_{year}_chapters.txt"
     (folder / text_file).write_text(text, encoding="utf-8")
     lines.append(f"chapters via {method}: {chapters}")
