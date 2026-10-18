@@ -1,0 +1,9 @@
+# Big downloaded files: each teammate's computer re-downloads these (cached)
+data/filings/
+data/sections/*/full_10k.txt
+data/sections/*/exhibit13.txt
+data/reports/*/*.pdf
+logs/
+__pycache__/
+*.tmp
+.DS_Store

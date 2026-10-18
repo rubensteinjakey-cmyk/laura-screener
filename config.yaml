@@ -1,0 +1,44 @@
+# ---------------------------------------------------------------
+# Laura Gao 10-K Values Screener: settings
+# Every teammate uses this same file. Only change the lines marked
+# "CHANGE THIS".
+# ---------------------------------------------------------------
+
+# The SEC requires every request to say who is asking.
+# CHANGE THIS to your own name and email.
+user_agent:
+  name: "Jakey Rubenstein"
+  email: "rubensteinjakey@gmail.com"
+
+# The Claude model used for scoring. Everyone MUST use the same one
+# so scores are comparable. Use the full ID (not just "opus") so the
+# model doesn't silently change when a new version comes out.
+model: "claude-opus-5-5"
+
+# How hard the model thinks (low, medium, high, xhigh, max). Fixed here so
+# it doesn't depend on each teammate's personal Claude Code settings.
+effort: "high"
+
+# Which 10-K sections the AI reads.
+# TODO (UNDECIDED): Item 1 only, or Item 1 + Item 7 (MD&A)?
+# The 3-bank test compares both. Until the team decides, keep [item1].
+sections: [item1]
+
+# A label for your scoring run. CHANGE THIS to your first name.
+# Score files are saved as data/scores/{TICKER}_{run_id}.json, so using your
+# name means teammates never overwrite each other's files in GitHub.
+# To score the same companies again (e.g. a consistency check) without
+# overwriting, use --run-id on the command line, e.g. --run-id jakey_repeat
+run_id: "jakey"
+
+# Which rows of companies.csv to process (1 = first company).
+# Can also be set on the command line: --start 1 --end 66
+batch:
+  start: 1
+  end: 9999
+
+# Seconds to wait between SEC requests (SEC limit is 10 per second).
+sec_delay_seconds: 0.15
+
+# Max seconds to wait for one Claude scoring call before giving up.
+claude_timeout_seconds: 900
