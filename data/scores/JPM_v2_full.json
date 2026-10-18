@@ -1,0 +1,177 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMorgan Chase & Co.",
+  "sector": "Financials",
+  "run_id": "v2_full",
+  "rubric_version": 2,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7"
+  ],
+  "accession_number": "0001628280-26-008131",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T22:18:44",
+  "prompt_chars": 458587,
+  "filing_chars": 443066,
+  "filing_words_sent": 66801,
+  "approx_prompt_tokens": 114646,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Voluntary training programs and educational resources offered to all employees",
+        "quote": "The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as leadership and management, artificial intelligence, data literacy and operational and professional skills.",
+        "section": "Item 1 > Human Capital > Developing employees",
+        "status": "current",
+        "indicators": "none disclosed (offered to all of 318,512 employees)",
+        "themes": {
+          "community": "employee development: specific firmwide training offering"
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Leadership Edge, a named global leadership and management development center",
+        "quote": "Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.",
+        "section": "Item 1 > Human Capital > Developing employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development: named, ongoing leadership development program"
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Internship training programs for students as part of recruitment",
+        "quote": "These opportunities range from internship training programs for students to entry-level, management and executive careers.",
+        "section": "Item 1 > Human Capital > Attracting and retaining employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development / recruitment pipeline: student internship training, limited in reach with no figures"
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Tuition assistance and financial education provided as employee benefits",
+        "quote": "child care access and support, tuition assistance, and financial education.",
+        "section": "Item 1 > Human Capital > Rewarding and supporting employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "employee development: tuition assistance benefit for staff"
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "$1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation, made in 2024",
+        "quote": "the absence of a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024.",
+        "section": "Item 7 > Executive Overview > Firmwide overview",
+        "status": "past",
+        "indicators": "$1.0 billion (2Q 2024); no comparable 2025 contribution disclosed",
+        "themes": {
+          "community": "community investment, recorded for context only because it is not current"
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Board Public Responsibility Committee oversees community investment and related policies",
+        "quote": "The Public Responsibility Committee oversees and reviews the Firm's positions and practices on public responsibility matters such as community investment, fair lending, sustainability, consumer practices and other public policy issues",
+        "section": "Item 7 > Firmwide Risk Management > Board oversight",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": "general/governance language only; no program, participants or dollars disclosed"
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Disclosure of workforce demographics including race/ethnicity, gender, LGBTQ+, veteran and disability status",
+        "quote": "Information on LGBTQ+ and veteran statuses is based on all U.S. employees, and all members of the Operating Committee and the Board of Directors.",
+        "section": "Item 1 > Human Capital > Workforce composition",
+        "status": "current",
+        "indicators": "U.S. employees: 4% LGBTQ+, 3% veterans, 5% people with disabilities; 48% women globally",
+        "themes": {
+          "cross_cultural": "demographic statistics only (disclosure, not an activity)"
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Credit provided to U.S. small businesses through Business Banking and related lending",
+        "quote": "Credit for U.S. small businesses",
+        "section": "Item 7 > Executive Overview > Credit provided and capital raised",
+        "status": "current",
+        "indicators": "$33 billion credit to U.S. small businesses in 2025; 7.4 million CCB small business customers; Business Banking average loans $19.1 billion; origination volume $3.2 billion (down from $4.5 billion)",
+        "themes": {
+          "entrepreneurship": "specific enabling service (small-business financing) with substantial reach shown by indicators"
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Commercial Banking provides banking products and services to start-ups and small and mid-sized companies",
+        "quote": "Commercial Banking provides banking products and services to clients, including start-ups, small and mid-sized companies, local governments, municipalities, and nonprofits, as well as commercial real estate clients.",
+        "section": "Item 7 > Business Segment & Corporate Results > Commercial & Investment Bank",
+        "status": "current",
+        "indicators": "Commercial Banking revenue $11.85 billion (start-up share not disclosed)",
+        "themes": {
+          "entrepreneurship": "banking services for start-ups; share devoted to founders not separated"
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing fully describes a financial-services business with no activity that creates or enables creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: current activities are employee development (named Leadership Edge, firmwide training, tuition assistance) plus student internships, with no current measured external education or community investment, so the employee-development cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E7"
+        ],
+        "reason": "Level 1: only workforce demographic statistics and general 'inclusive work environment' language are disclosed, with no specific inclusion or customer-access program."
+      },
+      "entrepreneurship": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E8",
+          "E9"
+        ],
+        "reason": "Level 3: a specific current small-business and start-up financing service with substantial disclosed reach ($33 billion credit, 7.4 million small business customers), but it is not shown as a major or core business line."
+      }
+    },
+    "notes": "Computed total: 0 + 12 + 4 + 9 = 25/100. Community and Cross-cultural coverage are marked insufficient, which triggers the sustainability-report second look. The human capital section is brief, and community investment appears only as a board committee oversight topic (E6) and a prior-year item. The $1.0 billion Visa-share contribution to the JPMorgan Chase Foundation (E5) was made in 2024, and the 2025 MD&A notes its absence, so it was not counted. Tax-oriented investments 'primarily in alternative energy and affordable housing' ($35.7 billion carrying value) were not counted as community investment: they are described as tax-credit investments, the affordable-housing portion is not separated, and the tie went to the lower level. The Conduct Hotline 'has translation services', but this is compliance infrastructure, so it was judged not to raise Cross-cultural above 1. 'Arts & Culture' appears only as a wholesale credit exposure subcategory (Leisure) and was treated as a trap for Creativity. Business Banking origination volume fell from $4.5 billion in 2024 to $3.2 billion in 2025. Also treated as traps: 'Consumer & Community Banking', the Community Reinvestment Act regulatory reference, 'stockholders' equity', and client fraud 'education and awareness trainings' (customer education).",
+    "sections_read": [
+      "Item 1",
+      "Item 7"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"JPM\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Voluntary training programs and educational resources offered to all employees\",\"quote\":\"The Firm offers voluntary training programs and educational resources to all employees covering a broad variety of topics such as leadership and management, artificial intelligence, data literacy and operational and professional skills.\",\"section\":\"Item 1 > Human Capital > Developing employees\",\"status\":\"current\",\"indicators\":\"none disclosed (offered to all of 318,512 employees)\",\"themes\":{\"community\":\"employee development: specific firmwide training offering\"}},{\"id\":\"E2\",\"activity\":\"Leadership Edge, a named global leadership and management development center\",\"quote\":\"Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.\",\"section\":\"Item 1 > Human Capital > Developing employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development: named, ongoing leadership development program\"}},{\"id\":\"E3\",\"activity\":\"Internship training programs for students as part of recruitment\",\"quote\":\"These opportunities range from internship training programs for students to entry-level, management and executive careers.\",\"section\":\"Item 1 > Human Capital > Attracting and retaining employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development / recruitment pipeline: student internship training, limited in reach with no figures\"}},{\"id\":\"E4\",\"activity\":\"Tuition assistance and financial education provided as employee benefits\",\"quote\":\"child care access and support, tuition assistance, and financial education.\",\"section\":\"Item 1 > Human Capital > Rewarding and supporting employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"employee development: tuition assistance benefit for staff\"}},{\"id\":\"E5\",\"activity\":\"$1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation, made in 2024\",\"quote\":\"the absence of a $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation recorded in the second quarter of 2024.\",\"section\":\"Item 7 > Executive Overview > Firmwide overview\",\"status\":\"past\",\"indicators\":\"$1.0 billion (2Q 2024); no comparable 2025 contribution disclosed\",\"themes\":{\"community\":\"community investment, recorded for context only because it is not current\"}},{\"id\":\"E6\",\"activity\":\"Board Public Responsibility Committee oversees community investment and related policies\",\"quote\":\"The Public Responsibility Committee oversees and reviews the Firm's positions and practices on public responsibility matters such as community investment, fair lending, sustainability, consumer practices and other public policy issues\",\"section\":\"Item 7 > Firmwide Risk Management > Board oversight\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":\"general/governance language only; no program, participants or dollars disclosed\"}},{\"id\":\"E7\",\"activity\":\"Disclosure of workforce demographics including race/ethnicity, gender, LGBTQ+, veteran and disability status\",\"quote\":\"Information on LGBTQ+ and veteran statuses is based on all U.S. employees, and all members of the Operating Committee and the Board of Directors.\",\"section\":\"Item 1 > Human Capital > Workforce composition\",\"status\":\"current\",\"indicators\":\"U.S. employees: 4% LGBTQ+, 3% veterans, 5% people with disabilities; 48% women globally\",\"themes\":{\"cross_cultural\":\"demographic statistics only (disclosure, not an activity)\"}},{\"id\":\"E8\",\"activity\":\"Credit provided to U.S. small businesses through Business Banking and related lending\",\"quote\":\"Credit for U.S. small businesses\",\"section\":\"Item 7 > Executive Overview > Credit provided and capital raised\",\"status\":\"current\",\"indicators\":\"$33 billion credit to U.S. small businesses in 2025; 7.4 million CCB small business customers; Business Banking average loans $19.1 billion; origination volume $3.2 billion (down from $4.5 billion)\",\"themes\":{\"entrepreneurship\":\"specific enabling service (small-business financing) with substantial reach shown by indicators\"}},{\"id\":\"E9\",\"activity\":\"Commercial Banking provides banking products and services to start-ups and small and mid-sized companies\",\"quote\":\"Commercial Banking provides banking products and services to clients, including start-ups, small and mid-sized companies, local governments, municipalities, and nonprofits, as well as commercial real estate clients.\",\"section\":\"Item 7 > Business Segment & Corporate Results > Commercial & Investment Bank\",\"status\":\"current\",\"indicators\":\"Commercial Banking revenue $11.85 billion (start-up share not disclosed)\",\"themes\":{\"entrepreneurship\":\"banking services for start-ups; share devoted to founders not separated\"}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing fully describes a financial-services business with no activity that creates or enables creative work.\"},\"community\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: current activities are employee development (named Leadership Edge, firmwide training, tuition assistance) plus student internships, with no current measured external education or community investment, so the employee-development cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E7\"],\"reason\":\"Level 1: only workforce demographic statistics and general 'inclusive work environment' language are disclosed, with no specific inclusion or customer-access program.\"},\"entrepreneurship\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E8\",\"E9\"],\"reason\":\"Level 3: a specific current small-business and start-up financing service with substantial disclosed reach ($33 billion credit, 7.4 million small business customers), but it is not shown as a major or core business line.\"}},\"notes\":\"Computed total: 0 + 12 + 4 + 9 = 25/100. Community and Cross-cultural coverage are marked insufficient, which triggers the sustainability-report second look. The human capital section is brief, and community investment appears only as a board committee oversight topic (E6) and a prior-year item. The $1.0 billion Visa-share contribution to the JPMorgan Chase Foundation (E5) was made in 2024, and the 2025 MD&A notes its absence, so it was not counted. Tax-oriented investments 'primarily in alternative energy and affordable housing' ($35.7 billion carrying value) were not counted as community investment: they are described as tax-credit investments, the affordable-housing portion is not separated, and the tie went to the lower level. The Conduct Hotline 'has translation services', but this is compliance infrastructure, so it was judged not to raise Cross-cultural above 1. 'Arts & Culture' appears only as a wholesale credit exposure subcategory (Leisure) and was treated as a trap for Creativity. Business Banking origination volume fell from $4.5 billion in 2024 to $3.2 billion in 2025. Also treated as traps: 'Consumer & Community Banking', the Community Reinvestment Act regulatory reference, 'stockholders' equity', and client fraud 'education and awareness trainings' (customer education).\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 164907,
+      "output_tokens": 6839,
+      "duration_ms": 64511
+    }
+  ]
+}
