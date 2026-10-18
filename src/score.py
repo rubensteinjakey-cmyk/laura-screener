@@ -50,6 +50,7 @@ Instructions:
 """
 
 RUBRIC_VERSION = "2.1"
+MIN_ITEM1_WORDS = 300  # below this, Item 1 extraction failed
 
 TARGETED_NOTE = (
     "\n- The Item 7 text is NOT the full MD&A: it is only the MD&A paragraphs that "
@@ -113,10 +114,13 @@ def score_company(company, cfg, sections, run_id):
         log("score", f"{t}: not extracted yet, skipping")
         return
     info = read_json(SECTIONS / t / "info.json")
-    empty = [s for s in sections if info["sections"].get(s, {}).get("words", 0) == 0]
-    if "item1" in empty:
-        log("score", f"{t}: Item 1 is empty - not scoring")
-        flag_human(t, "score", "Item 1 text empty, not scored")
+    item1_words = info["sections"].get("item1", {}).get("words", 0)
+    if item1_words < MIN_ITEM1_WORDS:
+        # extraction failed (e.g. the 10-K only has a cross-reference index):
+        # don't score on almost nothing
+        log("score", f"{t}: Item 1 is only {item1_words} words - extraction failed, not scoring")
+        flag_human(t, "score", f"Item 1 extraction failed ({item1_words} words); not scored",
+                   "; ".join(info.get("notes", []))[:300])
         return
 
     prompt, filing_chars = build_prompt(company, sections, info["fiscal_year"])

@@ -1,0 +1,261 @@
+ITEM 1. BUSINESS
+
+Overview
+
+Docusign solutions bring agreements to life, accelerating and simplifying the process of doing business. Docusign’s core offerings — our Intelligent Agreement Management (“IAM”) platform, the world’s leading e-signature solution, and contract lifecycle management (“CLM”) solution — allow organizations to boost productivity, accelerate contract review cycles, and transform agreement data into insights and actions, while providing a customer-centric experience. The Docusign IAM platform is a system of record that enables customers of all sizes to ingest a vast, complex body of agreements into a single repository, build agreement workflows that operate at scale, and take action on high-accuracy insights from agreement data. As of January 31, 2026, over 1.8 million customers and more than a billion users worldwide utilize Docusign to accelerate and simplify the process of doing business, and more than 25,000 customers are on IAM today.
+
+We offer subscriptions to our products to businesses of all sizes, from global enterprises down to very small businesses (“VSBs”). We offer more than 1,100 active partner integrations with the applications that many of our customers already use so that they can create, commit, and manage agreements directly within these applications. We have a diverse customer base spanning across virtually all industries and around the world with no significant customer concentration. No single customer accounted for more than 10% of total revenue in any of the periods presented.
+
+We focused initially on selling our products to commercial businesses and VSBs and later expanded our focus to target enterprise customers. As of January 31, 2026, we had a total of over 1.8 million customers, including approximately 280,000 direct enterprise and commercial customers managed through our sales force and partner channels, compared to nearly 1.7 million customers and over 260,000 direct enterprise and commercial customers as of January 31, 2025. We define a customer as a separate and distinct buying entity, such as a company, an educational or government institution, or a distinct business unit of a large company that has an active contract to access our products. The number of our customers with greater than $300,000 in annualized contract value was 1,205 as of January 31, 2026, compared to 1,131 as of January 31, 2025. Each of our customer types has a different purchasing pattern. VSBs typically become customers by quickly utilizing our digital and self-serve channels and generate smaller average contract values, while commercial and enterprise customers typically involve longer sales cycles, larger contract values, and greater expansion opportunities for us.
+
+We generate substantially all our revenue from sales of subscriptions, which accounted for 98% of our revenue in the year ended January 31, 2026 and 97% of our revenue in the year ended January 31, 2025. Our subscription fees are primarily comprised of fees from customers using our products and access to customer support. Subscriptions generally range from one to three years, and substantially all our multi-year customers pay in annual installments, one year in advance.
+
+We also generate revenue from professional and other non-subscription services, which consists primarily of fees associated with providing new customers with deployment and integration services. Professional services and other revenue accounted for the remainder of total revenue in each of the years ended January 31, 2026 and 2025.
+
+Historically, we offered access to most of our products on a subscription basis with prices based on the functionality and the quantity of Envelopes required by our customers. Similar to the physical envelopes historically used to mail paper documents, an Envelope is a digital container used to send one or more documents for signature or approval to one or more recipients. Our customers have the flexibility to put a large number of documents in an Envelope. For several use cases, such as buying a home, multiple Envelopes are used over the course of the process. To drive customer reach and adoption, we also offer certain limited-time or feature-constrained versions of our e-signature solution for free.
+
+In the second quarter of fiscal 2025, we began offering our IAM platform on a user-based subscription basis in specific customer segments and geographies, through our direct sales channel, and in fiscal 2026, we made IAM available across all major geographies where we do business. Our IAM subscription offerings have multiple pricing tiers as well as specialized packages for specific user personas, customer verticals and segments, and departments within an organization. While IAM subscriptions include our core products and solutions, like eSignature, we expect standalone eSignature to continue to represent the majority of our revenue for the foreseeable future given IAM’s early growth phase. For the year ended January 31, 2026, customers using IAM represented approximately 10.8% of our annual recurring revenue.
+
+Docusign, Inc. | 2026 Form 10-K | 4
+
+Our Growth and Investment Strategy
+
+We believe that our market opportunity is large, and we plan to invest to support long-term growth based on the three pillars of our long-term strategy:
+
+Accelerating Product Innovation
+
+The first pillar is to accelerate product innovation through research and development investments, helping our IAM platform address our customers’ agreement management needs comprehensively. We aim to deliver category-leading value in the agreement management market while evolving into a platform company.
+
+◦IAM: In April 2024, we announced the launch of the IAM platform at our annual Momentum customer conference. We rapidly innovated the platform from ideation to launch, leveraging customer feedback. As a platform, IAM includes our industry-leading eSignature product as a core capability and is powered by Docusign Iris, our AI engine. Other capabilities include Navigator, our AI-powered agreement repository that helps customers manage and identify insights from their agreements, and Maestro, our no-code workflow builder that helps customers accelerate agreement processes. Additional AI-powered tools, including Agreement Desk, AI-Assisted Review, and AI contract agents, streamline agreement creation and management.
+
+◦Developer Ecosystem: Part of our evolution into a platform company requires supporting a dynamic community of developers and partners to create new solutions that extend the capabilities of our IAM platform. In November 2024, we hosted Docusign Discover, our first-ever developer-focused conference, and launched Docusign for Developers, giving our partners tools to build apps powered by the IAM platform. Partners can share their apps in the Docusign App Center, adding to the over 1,100 active partner integrations with Docusign products.
+
+◦eSignature and CLM: With a renewed focus on product innovation, these products have seen improved innovation delivery, as a result of our investment in our IAM platform, which brings more AI-powered capabilities across the greater Docusign product portfolio.
+
+◦Core Value Propositions: Docusign is building IAM on the foundation created by our existing customer value propositions and benefits, including eSignature user simplicity, which has generated over 775,000 Apple App Store ratings with an average score of 4.9 out of 5; global footprint and adoption by customers in many jurisdictions that require different legal requirements to complete valid agreements; highly auditable agreements and signatures; stringent security certification standards; and scaled infrastructure that enables delivery of eSignature at over 99.9% availability worldwide.
+
+◦AI Competitive Advantages: As we continue to build deeper innovation into the IAM platform, we will do it with three advantages:
+
+▪#1 - Differentiated and large-scale proprietary data: Models trained on reliable data deliver the most accurate results to customers. One of Docusign’s biggest differentiators is our extensive library of private agreements, covering a wide variety of contract types, clauses, customer segments, jurisdictions, and verticals, which we have processed on our IAM platform with our customers’ consent. By training Iris, our AI engine, on this rich body of private, anonymized, and aggregated data, we believe we can achieve up to a 15 percentage point improvement in precision and recall compared to our models trained on public contract data, which can be transformative, especially when managing business-critical workflows and legal contracts.When customers adopt IAM, their eSignature documents are automatically available in Navigator, and they can include virtually any other agreements as well. To date, opted-in customer agreements ingested into Navigator are approaching 200 million, averaging tens of millions of additional opted-in customer agreements per month.
+
+▪#2 - An expansive ecosystem: At our annual Docusign Discover developer conference in October 2025, we expanded our ecosystem by adding new AI tools and platforms. We announced that IAM will be available in ChatGPT, and can also be connected to Anthropic Claude, Gemini Enterprise, GitHub Copilot, Copilot Studio, and Agentforce, all by using the Model Context Protocol (“MCP”) server that’s currently in beta. At Discover, we also launched APIs that enable customers to connect Navigator and Maestro to third-party systems and proprietary internal apps.
+
+▪#3 - AI solutions at enterprise scale: Our largest customers have millions of agreements in IAM, and our AI models are designed to handle hundreds of millions of agreements efficiently. In addition to scalability, customers tell us that trust is paramount when deploying AI to manage sensitive agreement information. In a recent Docusign survey, 70% of professionals said they trust a dedicated enterprise contract AI solution over a general-purpose model for handling agreements. IAM draws on Docusign’s
+
+Docusign, Inc. | 2026 Form 10-K | 5
+
+years-long track record of delivering highly secure solutions for some of the world’s most security-conscious companies and government entities, and meeting stringent standards of compliance, data security, and privacy protection. During fiscal 2026, IAM achieved FedRAMP Moderate and GovRAMP authorization, and we expanded our identity portfolio by launching CLEAR and Risk-Based Verification. For the second year in a row, Newsweek has named Docusign the most trustworthy software company in the U.S.
+
+Strengthening Our Omnichannel Go-To-Market
+
+The second growth pillar focuses on improving our omnichannel go-to-market (“GTM”) capabilities to better meet the evolving needs of our customers. By strengthening our direct sales, partner, and self-service routes to market, we aim to simultaneously accelerate our ability to scale while reducing our customer acquisition and management costs. This refined approach enables us to reach new customers, more flexibly respond to customer needs, and fuel efficient growth.
+
+◦Direct Sales: Docusign has placed a growing emphasis on customer retention and enhancing customer relationships with its direct sales team. With the launch of IAM, we are focused on delivering greater value to customers through a complete end-to-end agreement management system of record. This requires strengthening our direct sales force’s ability to provide greater consultation and solution education to our customers. At the beginning of fiscal 2026, we made meaningful changes to the direct sales organization, which included introducing new sales segments, territories, and performance-based compensation, all focused on maximizing Docusign’s long-term opportunity and multi-year growth acceleration. We believe the result will be broader IAM deployments across a greater number of use cases vs. our historic eSignature relationships with customers.
+
+◦Third-Party Channel Partners: In addition, we are increasing our efforts to drive broader customer engagement through third-party channel partners to support the delivery of Docusign’s products, in particular IAM. At the start of fiscal 2026, we relaunched our partner program to align partners with our IAM strategy and build solutions with IAM that deliver value to customers. Within our GTM strategy evolution, we are investing in deeper partner engagement across strategic technology partners like Microsoft, SAP, and Salesforce with whom we have both product integrations and co-selling relationships. We also continue to invest in expanding relationships with independent software vendors (“ISVs”) and system integrators (“SIs”). These efforts are supported by the continued development of our third-party ecosystem called Docusign for Developers which includes software development kits (“SDKs”), application programming interfaces (“APIs”) to launch apps on IAM, an MCP server to integrate with large language models (“LLMs”), and dedicated engagement with partners at our global series of Momentum customer events.
+
+◦Digital E-commerce Sales & Self-Service: We continue to invest in product-led growth and self-service capabilities as cornerstones of our GTM strategy. In fiscal 2026, digital revenue grew faster than overall revenue, demonstrating strong results from our focus on e-commerce capabilities and making it easier for customers to discover, try, and buy from Docusign. We will continue working to remove friction and deliver delight across every step of the digital customer journey to make our experiences seamless and intuitive.
+
+Increasing Operational and Financial Efficiency
+
+Finally, our third growth pillar is to enhance operational and financial efficiency to scale effectively and sustainably. This includes prioritizing investments in infrastructure and technology that best serve our diverse customer base, including our migration to cloud-based infrastructure. Additionally, we continue to evaluate strategic acquisitions and partnerships that align with our growth objectives and expand our product offerings.
+
+We believe these combined efforts will strengthen our ability to retain and grow within our existing customer base, while also attracting new customers.
+
+Increasing International Revenue
+
+International revenue increased by 13% in the year ended January 31, 2026, compared to the year ended January 31, 2025. Our international revenue represented 29%, 28% and 26% of our total revenue in each of the years ended January 31, 2026, 2025, and 2024.
+
+Docusign, Inc. | 2026 Form 10-K | 6
+
+We started our international selling efforts in English-speaking common law countries, such as Canada, the UK and Australia, where we were able to leverage our core technologies due to similar approaches to electronic signature in these jurisdictions and the U.S. We have since made significant investments to be able to offer our products in select civil law countries. For example, in Europe, we offer Standards-Based Signature (“SBS”) technology tailored for the European Union’s (“EU”) electronic Identification, Authentication, and Trust Services (“eIDAS”) regulations. SBS supports signatures that involve digital certificates, including those specified in the EU’s eIDAS regulations for advanced and qualified electronic signatures.
+
+We believe there is a substantial opportunity for us to increase our international customer base by leveraging and expanding investments in our technology, direct sales force and strategic partnerships around the world, as well as helping existing U.S.-based customers manage agreements across their international businesses. As of early fiscal 2026, IAM became available in all major geographies where we do business. We have experienced increased demand across multiple regions and are focusing our sales and marketing resources to capitalize on the potential growth of these markets. Additionally, we expect to continue to develop and enhance our strategic partnerships in key international markets as we grow internationally, with particular focus on IAM.
+
+Our Products
+
+Docusign enables businesses to address each aspect of the agreement process with our product offerings, which are tailored for each step in the agreement lifecycle and, in some cases, for particular market segments, industries or geographic regions. We focus on meeting customer needs by providing them a variety of products and solutions to address their needs.
+
+Key subscriptions include:
+
+•IAM Applications built on our AI-powered IAM platform, enabling customers to gain intelligence and automation across the entire agreement lifecycle — how agreements are created, negotiated, signed, and managed after signature. Three editions (Core, Sales and CX) contain a combination of our key platform capabilities, in particular: our industry-leading eSignature product; Navigator, a unified AI-powered repository of all agreements, including those saved in third-party applications, that surfaces actionable insights and contract details through AI; Maestro, which enables customers to easily build and deploy no-code customized workflows to automate and accelerate agreement processes; Agreement Desk, which enables customers to manage all agreement requests and collaborate with ease in one centralized location, and Docusign App Center, which allows customers to customize and extend agreement processes with third-party applications.
+
+•eSignature enables sending and signing of agreements on a wide variety of devices, from virtually anywhere in the world, securely. We offer multiple editions and add-ons that can be combined to fit the needs of different organizational sizes, industries and regions.
+
+•CLM orchestrates workflows across the entire agreement process. It provides organizations the flexibility to automate complex processes for generating, negotiating, and storing agreements, as well as the ability to leverage AI-powered contract analytics to discover risks and opportunities hidden within agreements. We offer multiple editions of CLM, each tailored to meet the needs of customers with different organizational sizes and contracting complexity.
+
+•Add-on Products, which are additional capabilities to help better streamline the agreement process:
+
+◦Payments to collect payments along with signed agreements;
+
+◦Identity verification and SBS for enhanced signer-identification and signatures with digital certification;
+
+◦Notary for remote online notarization;
+
+◦Web Forms for accelerated contract drafting and building customized agreements; and
+
+◦Monitor for advanced analytics.
+
+Additionally, we believe customers benefit from these core value propositions:
+
+•Doing business faster. By replacing manual, paper-driven processes with automated digital workflows, Docusign can substantially reduce the time and labor necessary to complete agreements. In fiscal 2026, 76% of all transactions using eSignature were completed in less than 24 hours and 40% within 15 minutes. Our eSignature product also saves customers time by allowing users to review and sign agreements quickly from mobile devices. Our other products also contribute to faster turnaround times, such as less time spent creating new agreements or less time spent finding completed agreements. By streamlining workflows, Docusign enables businesses to save valuable time and resources, resulting in increased productivity and cost savings.
+
+•Better customer and employee experience. Organizations that use Docusign services internally and externally can deliver a simpler, more streamlined experience for their own customers and employees. For example, eSignature
+
+Docusign, Inc. | 2026 Form 10-K | 7
+
+replaces the hassle and costs of faxing, printing, scanning, emailing, and other manual activities with a few clicks or taps—which can be done from practically anywhere, at any time. Our CLM software consolidates and automates every step of the agreement process from generation through negotiation, signature, ongoing management and storage.
+
+•Tailored industry-specific offerings. Industry-specific Docusign offerings include: Real Estate for eSignature, which allows brokers, agents and customers to manage the entire real estate transaction digitally; U.S. Federal, State and Local Government through a Federal Risk and Authorization Management Program (“FedRAMP”) Impact Level Moderate environment for eSignature and CLM products, and dedicated data centers and system boundaries that offer heightened security; and Health and Life Sciences with eSignature modules enabling compliance with the U.S. Food and Drug Administration’s 21 CFR Part 11 regulations.
+
+•Reduced risk. Organizations that rely on manual, paper-based agreement processes may be prone to error and difficult to audit. Using Docusign, organizations can centralize, standardize, and automate agreement workflows—so employees have an easy way to use approved processes and templates, with audit trails generated automatically. Also, AI technologies can help employees identify risks within large sets of existing agreements that would otherwise be impractical for manual review. Finally, fewer manual interactions during an agreement’s lifecycle means fewer opportunities for mishandling or improper access.
+
+•Minimized environmental impact. Environmental sustainability has been an important part of Docusign’s mission from the start. By digitizing paper agreement processes, we help reduce environmental impacts while supporting organizations in their sustainability goals. We believe that Docusign plays a crucial role in creating a sustainable future and we are committed to minimizing our impact on the planet. Since 2022, we have matched 100% of our energy use with renewable energy credits and made investments in the voluntary carbon markets to offset a portion of our residual emissions. In 2024, we set Science-Based Targets (“SBTs”), including a commitment to reduce emissions by 2030 and reach net-zero by 2050. Docusign has reached our long-term Scope 1 and Scope 2 emissions targets ahead of schedule, meaning we have reduced our direct emissions by 90% compared to our 2021 baseline. Through partnerships with nonprofits such as Forest Stewardship Council and Wildlife Conservation Society, we’re helping to drive meaningful change for a sustainable future.
+
+Our Technology, Infrastructure, Research and Development, and Operations
+
+Since inception, we have invested in research and development (“R&D”) to innovate our product offerings, including the world’s leading electronic signature solution. Our product and engineering teams are responsible for the design, development, testing, and certification of our products and focus on improving and enhancing the features, functionality, performance, availability and security of our product offerings. We focus on innovation in global security and privacy management, high availability, enterprise-class manageability, extensible identity proofing, digital transaction processing and integration into companies' systems and workflows. This infrastructure supports over one billion people and over 1.8 million customers, including some of the world’s largest companies, and underpins our product offerings.
+
+Our operations are based on stringent global industry security standards, and we maintain compliance with ISO27K, PCI, and SSAE 18 standards. For example, our IAM platform, eSignature and CLM solutions are FedRAMP- and GovRAMP-authorized, which means they operate in an environment that meets 325 National Institute of Standards and Technology (“NIST”) Special Publication 800-53 (NIST 800-53) security and privacy controls. In addition, we offer a range of options for authenticating users and proving their identities and have a robust digital transaction processing platform that captures signatures and tags. Docusign is a Trust Service Provider (“TSP”) in the EU. As a TSP, Docusign France provides qualified electronic signatures, qualified time stamps, advanced electronic signatures, and advanced seals recognized by all EU member states. Docusign France is listed as a qualified TSP in the Trusted List managed by the French IT Security Agency, ANSSI.
+
+Our flagship e-signature solution and our IAM platform are designed as always-on, geographically redundant and distributed cloud solutions that primarily run in SSAE 18 audited data centers in the U.S., EU, and other jurisdictions. Recognizing that our customers often depend on Docusign for their day-to-day operations, we have provided best-in-class availability. Our e-signature solution operated at over 99.9% availability to our customers and users during the year ended January 31, 2026.
+
+We operate co-location data centers in several locations, and we also leverage public cloud infrastructure for an increasing number of services, as we continue to migrate our production services from our data center hosting facilities to Microsoft Azure Cloud, a third-party cloud provider. We believe these efforts will help better support our customers with respect to the scale, security, and availability needs of our mobile, web, and cloud-native applications. Companies can also integrate Docusign into their systems and workflows using one of more than 1,100 active partner integrations.
+
+Docusign, Inc. | 2026 Form 10-K | 8
+
+Our Customers
+
+As of January 31, 2026, we had a global base of over 1.8 million customers. Docusign serves Fortune 500 enterprises, government institutions, small and medium-sized businesses, individual entrepreneurs, and consumers handling personal agreements. No single customer accounted for more than 10% of our revenue in fiscal 2026. We believe the breadth and depth of our customer base across industry verticals, company sizes, and geographies validates the ubiquitous value Docusign creates for customers in agreement management and creates business model strength through customer diversity.
+
+Sales, Marketing and Customer Success
+
+Our sales and marketing teams drive customer acquisition, accelerate product and platform adoption, and expand usage across our IAM, eSignature, and CLM subscriptions. We benefit greatly from our strong brand recognition given our association with positive signing moments in people’s lives—such as accepting a job or buying a house—which can influence the adoption of our solutions at their companies. Our go-to-market strategy employs a multi-channel approach designed to efficiently acquire and expand customers across all segments.
+
+Sales
+
+Our approach leverages our direct sales force, which enables us to expand within large commercial and enterprise companies while addressing industry-specific requirements; our partnerships, which drive customer engagement and support delivery of Docusign products; and our digital self-service channel, which serves as a powerful acquisition engine. This model addresses the entire customer journey from awareness, to sales, to product adoption, and renewal.
+
+Direct Sales: We sell subscriptions primarily through our direct sales force across our field offices around the world. Our account executives and pre-sales solution consultants focus on new and existing enterprise and commercial customers. Our direct sales team focuses on companies looking to drive efficiency and growth through their front office operations (e.g., sales, services or marketing) and back-office operations (e.g., human resources, procurement, finance, or legal). Our platform solution solves problems across a variety of industries, so our go-to-market is largely a horizontal motion focused on our enterprise and commercial segments. In some cases, we employ industry vertical teams to drive repeatable go-to-market motions in industries such as financial services, the public sector, healthcare, and life sciences. Now, with our IAM platform, the insights that are unlocked from agreement data represent a significant opportunity for our customers. By expanding within an organization, we believe we can generate incremental revenue through the addition of new users, seat expansions and higher usage, Envelopes, plan upgrades, and additional offerings to other functions or business units of a particular customer.
+
+Partner Channel:
+
+▪Global partners: We have partnerships with some of the world’s foremost technology providers including Salesforce, Microsoft, SAP, Google, ServiceNow, and Workday—that help us sell into a far greater number of accounts than we could do alone. These partnerships are multi-dimensional and involve joint investments, technology integrations, co-marketing agreements, membership in partner programs, and go-to-market commitments.
+
+▪Systems integrators: We have strong partnerships with a number of global and regional systems integrators. These relationships are important given that those firms act as strategic technology advisors to many large customers and prospects. We intend to invest further in collaborating with these partners, especially those that are creating Docusign specific practices and solutions.
+
+▪ISVs: We partner with a host of leading ISVs—including our strategic partners above as well as vertical oriented partners solving unique high-value requirements, helping bring the power of Docusign to customers around the world.
+
+▪Distributors and resellers: As part of our evolving go-to-market strategy, we have distribution partnerships with global industry leaders like Ingram Micro enabling us to reach a vast number of resellers, and providing them with operational efficiency and localized support. We also have partnerships with global solution providers such as Deutsche Telekom and others that have expertise in specific vertical and regional markets, enabling us to add further value directly to those markets.
+
+Docusign, Inc. | 2026 Form 10-K | 9
+
+Digital E-commerce Sales: Our digital channel serves as both an acquisition engine and an efficient self-service platform for all customers. Through our website, mobile applications, and in-product experiences, we enable frictionless 14-day trials and self-service purchases, while increasingly supporting all customers with self-serve renewals, seat expansion, and account management capabilities. This digital-first approach not only drives initial adoption by creating a funnel of new customers who can become candidates for future expansion through our direct sales team or partners, but also significantly reduces our cost to serve customers by deflecting routine transactions from higher-touch channels. This land-and-expand model, where digital channels capture initial adoption and sales teams orchestrate expansion, has proven particularly effective in transforming departmental users into company-wide IAM implementations. For the fiscal year ended January 31, 2026, digital sales accounted for 15% of our total revenue.
+
+Marketing
+
+To accelerate pipeline generation and global customer acquisition across market segments, our marketing programs combine digital performance marketing, demand generation, product-led growth, and category-building thought leadership. These multi-channel campaigns not only generate qualified opportunities for our sales teams but also establish Docusign as the definitive leader in agreement management, educating the market on our evolution beyond eSignature to agreement transformation.
+
+We employ a wide range of marketing channels to generate demand and engage customers throughout the world. This includes account-based marketing aimed at our high-value customers, industry-specific marketing by our industry vertical teams, our global series of Momentum conferences for customers and partners and our first-ever Docusign Discover conference for third-party developers and ISV partners. Our channel mix includes broader digital demand generation campaigns; corporate communications and analyst relations; first-party events, such as our annual set of roadshows gathering customers, prospects, developers and partners; participation in third-party events, such as Salesforce’s Dreamforce; comprehensive customer evidence programs; developer relations programs; cooperative marketing with strategic partners; a comprehensive webinar series, and more.
+
+Customer Success & Customer Support
+
+We believe that our Customer Success and Customer Support efforts are critical to retaining and expanding our customer base.
+
+Customer Success helps onboard customers by designing, integrating, training, and deploying solutions that meet their needs. Our digital transformation consultants and technical experts can also design tailored solutions to help customers improve workflow and automate business processes. We also offer professional services through both subscription entitlements as well as statement of work projects. Once customers are onboarded, Customer Success continues to guide them through their Docusign journeys using motions such as health checks, use case planning and renewal management.
+
+Customer Support also plays an important role in helping our customers by being available via telephone, email or the web to help answer general and technical questions.
+
+Both Customer Success and Customer Support offer in-depth expertise, proven best practices, and repeatable delivery methodologies designed to enhance our customers’ overall Docusign experience and ensure they achieve successful outcomes using our products.
+
+Docusign, Inc. | 2026 Form 10-K | 10
+
+Human Capital Management
+
+At Docusign, we foster a culture that celebrates and harnesses the strength of our people, recognizing that every individual brings unique perspectives and experiences to the table. Our mission is to redefine how the world comes together and agrees. Over the last two years, our company has evolved at an extraordinary pace — new products, new ways of working, and much higher expectations from our customers. To keep growing with clarity and consistency, we have developed shared principles that guide how we think, how we collaborate, and how we make decisions every day. The Docusign Principles give us a common language and a clear standard for what “great” looks like as we move into the next chapter.
+
+•Customer First: Start with the customer. Every decision, every time.
+
+•Deliver Results: Focus on impact. Deliver with urgency.
+
+•Say What Matters: Be honest and direct. Speak with integrity.
+
+•Own It, Make It Better: Take ownership. Raise the bar.
+
+•One Team: Win together. Purpose not ego.
+
+We are a global organization with an increasingly international footprint. As we continue to grow in new markets, we anticipate continuing to recruit in new geographies. As of January 31, 2026, we had 7,044 employees, of which approximately 60% were based in the U.S. and the remainder in international locations. None of our U.S. employees are represented by a labor union with respect to their employment with us. Employees in some other countries are represented by workers' councils or participate in collective bargaining arrangements at the national and/or industry level. We have not experienced any work stoppages. We consider our relations with our employees to be positive, and we measure employee satisfaction through bi-annual engagement surveys.
+
+Talent and Career Development
+
+Docusign is recognized as a company where employees can develop their careers. We empower our people to constantly learn, develop, and contribute to their full potential. We value and embrace ideas, encouraging innovation and creativity at every level, while staying true to our mission and core values to drive positive change in everything we do. We offer a number of resources to eligible employees to foster engagement and encourage career development, including career development coursework, frameworks and education assistance.
+
+Compensation and Benefits Programs
+
+Our compensation programs are designed to recruit, reward and retain talented individuals who possess the skills necessary to support our business, contribute to our strategic goals and create long-term value for our stockholders. We aim to provide employees with competitive compensation packages that include base salary, bonus or commission plan and equity awards tied to the value of our stock. We also provide a range of health, savings, retirement, time-off and wellness benefits for our employees, which vary based on local regulations and norms.
+
+Engagement with our Communities
+
+Docusign is dedicated to corporate responsibility and putting our values into action. We believe that this engagement with our communities is an important aspect of our company culture and brings long-term value to our stockholders, while making the world a better place. With Docusign.org, we are committed to harnessing the power of Docusign's people, products, and resources to make a difference in the global communities where our employees and customers live and work. This work is brought to life through our Docusign Foundation, Docusign Impact and Docusign for Nonprofit programs.
+
+At Docusign, we know an agreement is more than a contract; it is the foundation of trust, coordination, and progress. Docusign Foundation’s new Agreements for Good strategy extends this belief beyond our products, investing in the real-time collaboration that allows people and institutions to come together, align around shared goals, and make commitments that last. Our three funding areas – Climate & Environment, Data Privacy & Security, and Future of Work – are the domains that are not only important to Docusign’s business; they are domains where progress is most constrained by breakdowns in trust, coordination, and shared accountability. To date, we have awarded $5 million in grants through the Docusign Foundation.
+
+We believe in promoting a culture of giving back and community support throughout our organization. Through our Docusign Impact program, we encourage our employees to take action in their own communities by volunteering. We are proud to support their efforts by providing up to 24 hours of paid time off a year for volunteering. To date, our
+
+Docusign, Inc. | 2026 Form 10-K | 11
+
+employees have volunteered more than 140,000 hours collectively, including at organizations promoting healthier forests, echoing our company-wide commitment to environmental programs. Additionally, we match funds given by our employees to qualifying nonprofits. To date, we have mobilized $25 million in employee donations and company match, supporting approximately 10,700 organizations.
+
+Through our Docusign for Nonprofits program, we aim to empower organizations with the agreement platform needed to achieve their missions. As a company, we ensure that thousands of charitable organizations have the opportunity to use our products at a discount every year.
+
+Our Competition
+
+Our primary global competitor for eSignature is currently Adobe, which offers an electronic signature solution known as Adobe Acrobat Sign. We also face competition from other global software companies that have or may elect to include basic electronic signature capability in their products and from various vendors that focus on specific industries, geographies, or product areas such as contract lifecycle management and advanced contract analytics. As AI advances make some foundational capabilities for agreements (such as analyzing, summarizing, comparing, and acting upon text) cheaper and easier to replicate, our eSignature and Intelligent Agreement Management platform may also increasingly compete with providers of LLMs, data platform companies and other enterprise software companies, and with homegrown solutions developed internally by customers.
+
+We believe the principal factors that drive competition between vendors in the future will include:
+
+•breadth and depth of innovative product functionality (including proprietary product differentiators and AI application innovation);
+
+•breadth and depth of capability to holistically manage end-to-end agreement workflows in a lightweight, modern software user experience;
+
+•ease of use and deployment;
+
+•level of customer satisfaction;
+
+•brand awareness and reputation;
+
+•breadth and depth of integrations with the applications and systems customers already use;
+
+•availability and reliability;
+
+•trust and security;
+
+•unit costs and total cost of ownership; and
+
+•ability to address legal, regulatory, and cultural matters associated with e-signature and agreement management across jurisdictions.
+
+We believe that we generally compete favorably on the basis of the factors listed above.
+
+Intellectual Property
+
+We own and develop significant intellectual property (“IP”) and related IP rights globally, with a focus on key markets such as the United States, European Union, and Asia-Pacific. This global strategy ensures that our products and services are protected and competitive in major international markets. Our IP portfolio includes patents, copyrights, trade secrets, trademarks, and other rights. We actively seek to protect our global IP rights and to deter unauthorized use of our IP and other assets. We have obtained patents in the U.S. and other countries. As we expand our product offerings into new areas, we also seek to extend our patent coverage to such products. In addition to developing patents based on our own R&D efforts, we may purchase or license patents from third parties.
+
+The software that we embed within our products, as well as software that we distribute, also is entitled to copyright and other IP protection. We also protect details about our processes, products, and strategies as trade secrets, keeping confidential the information that we believe provides us with a competitive advantage.
+
+In addition, we seek to protect our IP rights by requiring our employees, independent contractors, and business partners involved in development of IP on our behalf to enter into agreements acknowledging that all works or other IP generated or conceived by them on our behalf are our property, and assigning to us any rights, including IP rights, that they may claim or otherwise have in those works or property, to the extent allowable under applicable law.
+
+Docusign, Inc. | 2026 Form 10-K | 12
+
+Because of the fast pace of innovation and product development, our products may become obsolete before the patents related to them expire, and in some cases may become obsolete before the patents are granted. Efforts to protect our IP can be difficult, particularly in countries that provide less protection to IP rights and in the absence of harmonized international IP standards. Competitors and others may already have IP rights covering similar products. There is no assurance that we will be able to obtain IP rights covering our own products, or that we will be able to obtain IP licenses from other companies on favorable terms or at all. For a discussion of IP-related risks, see "Risk Factors".
+
+Corporate Information
+
+We were incorporated as Docusign, Inc. in Washington in April 2003. We merged with and into Docusign, Inc., a Delaware corporation, in March 2015. Our website address is www.Docusign.com. The information contained in, or accessible through, our website or any other websites referred to in this Annual Report on Form 10-K are not incorporated into this filing. Further, our references to website addresses are only as inactive textual references.
+
+“Docusign,” the Docusign logo, and other trademarks or service marks of Docusign, Inc. appearing in this Annual Report on Form 10-K are the property of Docusign, Inc. This Annual Report on Form 10-K contains additional trade names, trademarks and service marks of others, which are the property of their respective owners. Solely for convenience, trademarks and trade names referred to in this Annual Report on Form 10-K may appear without the ® or ™ symbols.
+
+Available Information
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to these reports filed pursuant to Sections 13(a) and 15(d) of the Exchange Act are filed with the SEC. Such reports and other information filed or furnished by us with the SEC are available free of charge on our website at investor.docusign.com, as soon as reasonably practicable after we file such material with, or furnish it to, the SEC, when such reports are available on the SEC’s website at www.sec.gov. We use our website, including our investor relations website at investor.docusign.com, as a means of disclosing material non-public information and for complying with our disclosure obligations under Regulation FD.
+
+Docusign, Inc. | 2026 Form 10-K | 13

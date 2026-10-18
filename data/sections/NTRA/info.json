@@ -1,0 +1,43 @@
+{
+  "ticker": "NTRA",
+  "accession_number": "0001104659-26-020881",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "full_text_words": 81931,
+  "sections": {
+    "item1": {
+      "words": 16854,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          16854,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6491,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6491,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 168,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 337
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1358,
+  "human_capital_found": true,
+  "people_paragraph_words": 1313
+}

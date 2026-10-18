@@ -1,0 +1,15 @@
+{
+  "ticker": "CORT",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-18T23:52:32",
+  "themes_rescored": [
+    "community",
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['corcept.com']",
+    "search suggested 0 candidate(s)"
+  ]
+}

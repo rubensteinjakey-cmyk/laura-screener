@@ -47,18 +47,19 @@
       "score": 1,
       "coverage": "insufficient",
       "evidence_ids": [
-        "E2"
+        "SL-E1"
       ],
       "valid_evidence_ids": [
-        "E2"
+        "SL-E1"
       ],
       "kinds": [
         "demographics_only"
       ],
-      "reason": "Level 1: only equal-opportunity boilerplate, a federal-contractor hiring commitment and demographic percentages; coverage is insufficient under condition 2 because the relevant inclusion discussion is under about 150 words.",
+      "reason": "Level 1. The 10-K offers equal-employment-opportunity boilerplate, a federal-contractor commitment to hire veterans and people with disabilities, and demographic percentages (E1). It describes no specific practice such as employee networks, accessibility programs, multilingual services or community-connecting programs. The supplied report text adds nothing on this theme. The relevant 10-K discussion is about 130 words, under the roughly 150-word threshold, so coverage stays insufficient.",
       "flags": [],
       "coverage_trigger": "ai",
-      "coverage_reason_ai": "Level 1: only equal-opportunity boilerplate, a federal-contractor hiring commitment and demographic percentages; coverage is insufficient under condition 2 because the relevant inclusion discussion is under about 150 words."
+      "score_from_10k": 1,
+      "rescored_from_report": true
     },
     "entrepreneurship": {
       "ai_score": 1,
@@ -91,8 +92,13 @@
     "entrepreneurship": "sufficient"
   },
   "final_score": 19.0,
-  "original_10k_scores": null,
-  "original_10k_final": null,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "original_10k_final": 19.0,
   "evidence": [
     {
       "id": "E1",
@@ -150,14 +156,41 @@
       "warnings": [],
       "verified": true,
       "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Discloses the share of U.S. employees who are veterans or reservists and who are individuals with disabilities",
+      "quote": "As of December 31, 2025, approximately 11 percent and 12 percent of our U.S. employees were veterans and reservists of the U.S. Armed Forces, and individuals with disabilities, respectively.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Company Culture and Human Capital (People) Strategy",
+      "status": "current",
+      "indicators": "11 percent; 12 percent",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only, a disclosure rather than an activity"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
     }
   ],
   "notes": "The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. Tuition reimbursement and financial education appear in a single benefits sentence of about 75 words; they were not recorded separately because the sentence exceeds the quote length, and they would be employee development under the same Community cap anyway. Year-round safety training for employees and contractors is operational and compliance training and was not scored. The filing points to the 2025 Valero Report on Guiding Principles for community and employee disclosures but gives no specific community activities, so Cross-cultural (insufficient) triggers the automated second look; Community was marked sufficient because the filing describes employee training. Caregiver support networks and an on-site child care center are employee benefits, not cross-cultural practices. The planned idling of the Benicia Refinery by April 2026 does not affect any theme. 'Foundation of respect' and 'reward innovation' are traps and were not scored.",
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 1003,
-  "score_source": "10-K",
-  "report_url": "",
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://www.valero.com/sites/default/files/valero-documents/2025-08/2025%20GPR%20FINAL%20DIGITAL%20Pages.pdf",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://www.valero.com/sites/default/files/valero-documents/2025-08/2025%20GPR%20FINAL%20DIGITAL%20Pages.pdf",
+    "found_on": "",
+    "report_year": 2025,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }

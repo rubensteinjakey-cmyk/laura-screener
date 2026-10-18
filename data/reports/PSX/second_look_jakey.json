@@ -1,0 +1,18 @@
+{
+  "ticker": "PSX",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-18T23:54:29",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['phillips66.com']",
+    "search suggested 4 candidate(s)",
+    "rejected (download/read failed: link is not a PDF): https://www.phillips66.com/sustainability/",
+    "rejected (download/read failed: link is not a PDF): https://www.phillips66.com/sustainability/esg-library/",
+    "rejected (download/read failed: link is not a PDF): https://investor.phillips66.com/financial-information/news-releases/news-release-details/2025/Phillips-66-releases-2025-Sustainability-and-People-Report/default.aspx",
+    "rejected (download/read failed: link is not a PDF): https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-releases-2024-Sustainability-and-People-Report/default.aspx"
+  ]
+}

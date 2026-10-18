@@ -1,0 +1,595 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. As discussed in the section titled “Note Regarding Forward-Looking Statements,” the following discussion and analysis contains forward-looking statements that involve risks and uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, those identified below and those discussed in the section titled “Risk Factors” under Part I, Item 1A in this Annual Report on Form 10-K. Our fiscal year ends January 31.
+
+Executive Overview of Fiscal 2026 Results
+
+Overview
+
+Docusign solutions bring agreements to life, accelerating and simplifying the process of doing business. Docusign’s core offerings — our IAM platform, the world’s leading e-signature solution, and CLM solution — allow organizations to boost productivity, accelerate contract review cycles, and transform agreement data into insights and actions, while providing a customer-centric experience. The Docusign IAM platform is a system of record that enables customers of all sizes to ingest a vast, complex body of agreements into a single repository, build agreement workflows that operate at scale, and take action on high-accuracy insights from agreement data. As of January 31, 2026, over 1.8 million customers and more than a billion users worldwide utilize Docusign to accelerate and simplify the process of doing business.
+
+We generate substantially all our revenue from sales of subscriptions, which accounted for 98%, 97% and 97% of our revenue in each of the years ended January 31, 2026, 2025 and 2024. Our subscription fees include the use of our products and access to customer support. Subscriptions generally range from one to three years, and substantially all our multi-year customers pay in annual installments, one year in advance.
+
+We also generate revenue from professional and other non-subscription services, which consists primarily of fees associated with providing new customers with deployment and integration services. Professional services and other revenue accounted for the remainder of total revenue in each of the years ended January 31, 2026, 2025 and 2024. We anticipate placing a greater focus on investing in customer success through professional services offered by partners. We believe it plays an important role in accelerating our customers’ adoption of our products, which helps drive customer retention and expansion.
+
+One pillar of our long-term strategy is to evolve our go-to-market (“GTM”) channels from the historically direct sales-driven approach. We are currently investing in three routes to market, including direct sales, our partner channel, and digital self-service purchasing. We expect that Docusign’s IAM platform will increasingly be offered across all three channels.
+
+We offer subscriptions to our products to businesses of all sizes, from global enterprises down to local, very small businesses (“VSBs”). We offer more than 1,100 active partner integrations with the applications that many of our customers already use so that they can create, commit and manage agreements directly within these applications. We have a diverse customer base spanning across virtually all industries and around the world with no significant customer concentration. No single customer accounted for more than 10% of total revenue in any of the periods presented.
+
+We focused initially on selling our products to commercial businesses and VSBs and later expanded our focus to target enterprise customers. The number of our customers with greater than $300,000 in annualized contract value was 1,205 as of January 31, 2026 compared to 1,131 as of January 31, 2025. Each of our customer types has a different purchasing pattern. VSBs typically become customers by quickly utilizing our digital and self-serve channels and generate smaller average contract values, while commercial and enterprise customers typically involve longer sales cycles, larger contract values and greater expansion opportunities for us.
+
+Docusign, Inc. | 2026 Form 10-K | 43
+
+Financial Results for the Year Ended January 31, 2026
+
+(in thousands) | Year Ended January 31, 2026
+
+Total revenue | $ | 3,219,500
+
+Total costs and expenses | 2,920,921
+
+Total stock-based compensation expense | 622,321
+
+Income from operations | 298,579
+
+Net income | 309,085
+
+Cash provided by operating activities | 1,165,007
+
+Capital expenditures | (106,445)
+
+Cash, cash equivalents, restricted cash and investments were $1.1 billion as of January 31, 2026.
+
+Key Factors Affecting Our Performance
+
+We believe that our future performance will depend on many factors, including the following:
+
+Investing for Growth
+
+We believe that our market opportunity is large, and we plan to invest to support long-term growth. We have three growth pillars in our long-term strategy. The first is to accelerate product innovation through research and development investments for our IAM platform. We aim to deliver category-leading value in the agreement management market while evolving into a platform company. This includes supporting a community of developers, builders, and partners to create new solutions that extend the capabilities of our IAM platform.
+
+The second growth pillar is to strengthen our omnichannel GTM by evolving our direct sales, partner, and self-service routes to market to better meet evolving customer needs. By strengthening our direct sales, partner, and self-service routes to market, we aim to simultaneously accelerate our ability to scale while reducing our customer acquisition and managements costs.
+
+Finally, our third growth pillar is to enhance operational and financial efficiency to scale effectively and sustainably. This includes prioritizing the infrastructure and technology investments that best serve our diverse customer base, including our migration to cloud-based infrastructure. Additionally, we continue to evaluate strategic acquisitions and partnerships that align with our growth objectives and expand our product offerings.
+
+We believe these combined efforts will strengthen our ability to retain and grow within our existing customer base, while also attracting new customers.
+
+Growing Customer Base
+
+As of January 31, 2026, we had a total of over 1.8 million customers, including approximately 280,000 small and medium-sized businesses (“SMBs”), mid-market companies, and large enterprise customers served by our direct sales force. We had a total of nearly 1.7 million customers, including over 260,000 customers served by our direct sales force as of January 31, 2025.
+
+In fiscal 2026, we defined enterprise customers as companies generally included in the Global 2000. We have defined mid-market customers as companies outside the Global 2000 that have more than 250 employees and defined SMBs as companies with between 10 and 249 employees, in each case excluding any enterprise customers. We defined VSBs as companies with fewer than 10 employees. VSBs were our most numerous group of customers, and we typically served them through digital and self-service resources outside of our direct sales channels. We referred to total customers as all enterprises, mid-market, SMBs, and VSBs. In fiscal 2027, we plan to distinguish between enterprise, commercial mid-market and SMB customers on the basis of annual recurring revenue.
+
+We believe that our ability to increase the number of customers using our products, particularly the number of enterprise and commercial customers, is an indicator of our market penetration, the growth of our business, and our potential future business opportunities. By increasing awareness of our products, further developing our sales and marketing expertise, and continuing to build features tuned to different industry needs, we have expanded the diversity of our customer base to include organizations of all sizes across nearly every industry.
+
+Docusign, Inc. | 2026 Form 10-K | 44
+
+Increasing International Revenue
+
+International revenue increased by 13% in the year ended January 31, 2026, compared to the year ended January 31, 2025. Our international revenue represented 29%, 28% and 26% of our total revenue in each of the years ended January 31, 2026, 2025, and 2024.
+
+We started our international selling efforts in English-speaking common law countries, such as Canada, the UK and Australia, where we were able to leverage our core technologies due to similar approaches to electronic signature in these jurisdictions and the U.S. We have since made significant investments to be able to offer our products in select civil law countries. For example, in Europe, we offer SBS technology tailored for the EU’s eIDAS regulations. SBS supports signatures that involve digital certificates, including those specified in the EU’s eIDAS regulations for advanced and qualified electronic signatures.
+
+We believe there is a substantial opportunity for us to increase our international customer base by leveraging and expanding investments in our technology, direct sales force, and strategic partnerships around the world, as well as helping existing U.S.-based customers manage agreements across their international businesses. We have experienced increased demand across multiple regions and are focusing our sales and marketing resources to capitalize on the potential growth of these markets. Additionally, we expect to continue to develop and enhance our strategic partnerships in key international markets as we grow internationally, with a particular focus on IAM.
+
+Components of Results of Operations
+
+Revenue
+
+We derive revenue primarily from the sale of subscriptions and, to a lesser extent, professional services.
+
+Subscription Revenue
+
+Subscription revenue consists of fees for the use of our software platform and our technical infrastructure and access to customer support, which includes phone or email support. We typically invoice customers annually in advance. We recognize subscription revenue ratably over the term of the contract subscription period beginning on the date access to our software platform is provided.
+
+Professional Services and Other Revenue
+
+Professional services revenue includes fees associated with new customers requesting deployment and integration services. We price professional services on a time and materials basis and on a fixed fee basis. We generally have standalone value for our professional services and recognize revenue based on standalone selling price as services are performed or upon completion of services for fixed fee contracts. Other revenue includes amounts derived from sales of on-premises solutions.
+
+Overhead Allocation
+
+We allocate shared overhead costs, such as facilities (including rent, utilities and depreciation on equipment shared by all departments), information technology, information security and recruiting costs to all departments based on headcount. As such, these allocated overhead costs are reflected in each cost of revenue and operating expense category.
+
+Docusign, Inc. | 2026 Form 10-K | 45
+
+Cost of Revenue
+
+Cost of Subscription Revenue
+
+Cost of subscription revenue primarily consists of expenses related to hosting our software platform and providing support. These expenses consist of employee-related costs, including salaries, bonuses, benefits, stock-based compensation, and other related costs associated with our technical infrastructure, customer success and customer support. These expenses also consist of software and maintenance costs, third-party hosting fees, outside services associated with the delivery of our subscription services, amortization expense associated with capitalized internal-use software and acquired intangible assets, credit card processing fees and allocated overhead costs.
+
+Cost of Professional Services and Other Revenue
+
+Cost of professional services and other revenue consists primarily of personnel costs for our professional services delivery team, travel-related costs and allocated overhead costs.
+
+Gross Profit and Gross Margin
+
+Gross profit is total revenue less total cost of revenue. Gross margin is gross profit expressed as a percentage of total revenue. We expect that gross profit and gross margin will continue to be affected by various factors including our pricing, timing and amount of investment to maintain or expand our hosting capability, the growth of our software platform support and professional services team, stock-based compensation expenses, amortization of costs associated with capitalized internal use software and acquired intangible assets and allocated overhead costs.
+
+Operating Expenses
+
+Our operating expenses consist of sales and marketing, research and development, general and administrative, and restructuring and other related charges. As our revenues continue to increase, our operating expenses as a percentage of revenue may increase or decrease at different rates, driven by the timing of revenue recognition, the timing of hiring, our investments in growth and other factors.
+
+Sales and Marketing Expense
+
+Sales and marketing expense consists primarily of personnel costs, including sales commissions. These expenses also include expenditures related to advertising, marketing, promotional events, and brand awareness activities, as well as allocated overhead costs. We expect sales and marketing expense to continue to increase in absolute dollars as we enhance our product offerings and implement marketing strategies.
+
+Research and Development Expense
+Research and development expense consists primarily of personnel costs. These expenses also include non-personnel costs, such as subcontracting, consulting and professional fees for third-party development resources, as well as allocated overhead costs. Our research and development efforts focus on maintaining and enhancing existing functionality and adding new functionality. We expect research and development expense to increase in absolute dollars as we invest in the enhancement of our software platform.
+
+General and Administrative Expense
+
+General and administrative expense consists primarily of employee-related costs for those employees providing administrative services such as legal, human resources, information technology related to internal systems, accounting, and finance. These expenses also include certain third-party consulting services, certain facilities costs, allocated overhead costs, and lease-related charges. We expect general and administrative expense to increase in absolute dollars to support the overall growth of our operations.
+
+Restructuring and Other Related Charges
+
+Restructuring and other related charges consist primarily of costs associated with restructuring plans approved by our board of directors. In connection with these restructuring actions or other exit actions, which were undertaken to improve operating margin and support our growth, scale and profitability objectives, we recognize costs related to termination benefits for former employees whose positions were eliminated, the write-off of facility-related balances, and other costs.
+
+Interest Expense
+
+In fiscal 2024, interest expense consisted primarily of contractual interest expense and amortization of debt issuance costs on our Convertible Senior Notes due 2023 (the “2023 Notes”) and our Convertible Senior Notes due 2024 (the “2024 Notes”). The 2023 Notes and the 2024 Notes (collectively, the “Notes”) were extinguished during fiscal 2024. In fiscal 2025 and 2026, interest expense consists primarily of commitment fees on the undrawn balance of our revolving credit facility and the amortization of the associated issuance costs.
+
+Docusign, Inc. | 2026 Form 10-K | 46
+
+Interest Income and Other Income, Net
+
+Interest income and other income, net, consists primarily of interest earned on our cash, cash equivalents and investments, changes in fair value of our strategic investments and foreign currency transaction gains and losses.
+
+Provision for (Benefit from) Income Taxes
+
+Our income tax provision consists primarily of U.S. federal, state and foreign income taxes. The difference between the effective tax rate and the federal statutory tax rate is primarily related to the U.S. federal research tax credit and discrete benefits from stock-based compensation.
+
+We regularly assess the need for a valuation allowance on our deferred tax assets. In making this assessment we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets to determine, based on the weight of available evidence, whether it is more likely than not that some or all the deferred tax assets will not be realized. In the event we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the United States. The legislation includes significant tax law changes, including the restoration of immediate deduction of domestic research and development costs. The legislation has multiple effective dates with certain provisions effective in 2025 and others implemented through 2027. The impact of changes effective during fiscal 2026 are included in our tax provision and have resulted in additional tax expense.
+
+Docusign, Inc. | 2026 Form 10-K | 47
+
+Discussion of Results of Operations
+
+The following table summarizes our historical consolidated statements of operations data:
+
+Year Ended January 31,
+
+(in thousands) | 2026 | As % of Revenue | 2025 | As % of Revenue
+
+Revenue:
+
+Subscription | $ | 3,150,551 | 98 | % | $ | 2,901,309 | 97 | %
+
+Professional services and other | 68,949 | 2 | 75,430 | 3
+
+Total revenue | 3,219,500 | 100 | 2,976,739 | 100
+
+Cost of revenue:
+
+Subscription | 581,058 | 18 | 532,445 | 18
+
+Professional services and other | 82,004 | 3 | 89,214 | 3
+
+Total cost of revenue | 663,062 | 21 | 621,659 | 21
+
+Gross profit | 2,556,438 | 79 | 2,355,080 | 79
+
+Operating expenses:
+
+Sales and marketing | 1,203,885 | 37 | 1,160,993 | 39
+
+Research and development | 664,985 | 21 | 588,455 | 20
+
+General and administrative | 388,989 | 12 | 375,983 | 12
+
+Restructuring and other related charges | — | — | 29,721 | 1
+
+Total operating expenses | 2,257,859 | 70 | 2,155,152 | 72
+
+Income from operations | 298,579 | 9 | 199,928 | 7
+
+Interest expense | (2,546) | — | (1,550) | —
+
+Interest income and other income, net | 51,295 | 2 | 49,563 | 1
+
+Income before provision for (benefit from) income taxes | 347,328 | 11 | 247,941 | 8
+
+Provision for (benefit from) income taxes | 38,243 | 1 | (819,944) | (28)
+
+Net income | $ | 309,085 | 10 | % | $ | 1,067,885 | 36 | %
+
+For a comparison of our results of operations for the fiscal years ended January 31, 2025 and 2024, see Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the fiscal year ended January 31, 2025, filed with the SEC on March 18, 2025.
+
+Revenue
+
+Year Ended January 31,
+2026 vs 2025
+
+(in thousands) | 2026 | As % of Revenue | 2025 | As % of Revenue
+
+Revenue:
+
+Subscription | $ | 3,150,551 | 98 | % | $ | 2,901,309 | 97 | % | 9 | %
+
+Professional services and other | 68,949 | 2 | 75,430 | 3 | (9) | %
+
+Total revenue | $ | 3,219,500 | 100 | % | $ | 2,976,739 | 100 | % | 8 | %
+
+Subscription revenue increased $249.2 million, or 9%, in the year ended January 31, 2026. The increase was primarily due to the expansion of revenue from our commercial and enterprise accounts, as well as our digital channel. We continue to invest in a variety of customer programs and initiatives, which, along with expanded customer use cases, have helped increase our subscription revenue over time.
+
+Docusign, Inc. | 2026 Form 10-K | 48
+
+Cost of Revenue and Gross Margin
+
+Year Ended January 31, | 2026 vs 2025
+
+(in thousands) | 2026 | 2025
+
+Cost of revenue:
+
+Subscription | $ | 581,058 | $ | 532,445 | 9 | %
+
+Professional services and other | 82,004 | 89,214 | (8) | %
+
+Total cost of revenue | $ | 663,062 | $ | 621,659 | 7 | %
+
+Gross margin:
+
+Subscription | 82 | % | 82 | % | — | pts
+
+Professional services and other | (19) | % | (18) | % | (1) | pts
+
+Total gross margin | 79 | % | 79 | % | — | pts
+
+Cost of subscription revenue increased $48.6 million, or 9%, in the year ended January 31, 2026, primarily driven by higher costs to support our growing customer base. Increases primarily consisted of:
+
+•$30.5 million in information technology costs, particularly hosting costs as we continued our transition from co-located data centers to public cloud infrastructure to support future growth of our platform, including IAM;
+
+•$10.7 million in partner and reseller fees to support our customer base due to higher transaction volume and merchant processing fees; and
+
+•$6.7 million in personnel costs due to an increase in commissions as part of our ongoing focus on expansion and driving customer acquisition.
+
+Sales and Marketing
+
+Year Ended January 31, | 2026 vs 2025
+
+(in thousands) | 2026 | 2025
+
+Sales and marketing | $ | 1,203,885 | $ | 1,160,993 | 4 | %
+
+Percentage of revenue | 37 | % | 39 | %
+
+Sales and marketing expenses increased $42.9 million, or 4%, in the year ended January 31, 2026, primarily due to investments in our workforce. Main drivers primarily consisted of:
+
+•$54.1 million increase in personnel costs, primarily due to higher commissions reflecting our continued focus on expansion and driving customer acquisition, as well as annual salary increases and greater incentive compensation tied to improved performance on certain company metrics; partially offset by
+
+•$13.0 million decrease in stock-based compensation expense mainly due to executive transitions that occurred in fiscal 2025.
+
+Research and Development
+
+Year Ended January 31, | 2026 vs 2025
+
+(in thousands) | 2026 | 2025
+
+Research and development | $ | 664,985 | $ | 588,455 | 13 | %
+
+Percentage of revenue | 21 | % | 20 | %
+
+Research and development expenses increased $76.5 million, or 13%, in the year ended January 31, 2026, primarily due to investments in our workforce to support product innovation, including expansion due to our acquisition of Lexion in fiscal 2025. Increases primarily consisted of:
+
+•$39.8 million in personnel costs due to higher headcount, including our acquisition of Lexion, and higher incentive compensation driven by higher performance on certain company metrics; and
+
+•$32.5 million in stock-based compensation expense due to annual merit increases and higher headcount.
+
+Docusign, Inc. | 2026 Form 10-K | 49
+
+General and Administrative
+
+Year Ended January 31, | 2026 vs 2025
+
+(in thousands) | 2026 | 2025
+
+General and administrative | $ | 388,989 | $ | 375,983 | 3 | %
+
+Percentage of revenue | 12 | % | 12 | %
+
+General and administrative expenses increased $13.0 million, or 3%, in the year ended January 31, 2026, primarily due to an increase in personnel expense related to higher headcount and annual merit increases.
+
+Provision for (benefit from) Income Taxes
+
+Year Ended January 31, | 2026 vs 2025
+
+(in thousands) | 2026 | 2025
+
+Provision for (benefit from) income taxes | $ | 38,243 | $ | (819,944) | 105 | %
+
+Percentage of revenue | 1 | % | (28) | %
+
+Provision for income taxes increased $858.2 million or 105% in the year ended January 31, 2026. The increase is primarily attributable to the $837.3 million benefit recognized during the year ended January 31, 2025 for the release of our U.S. federal and state valuation allowances, as well as higher profit before taxes in fiscal 2026.
+
+Docusign, Inc. | 2026 Form 10-K | 50
+
+Liquidity and Capital Resources
+
+Our principal sources of liquidity were cash, cash equivalents and investments as well as cash generated from operations. As of January 31, 2026, we had $866.5 million in cash and cash equivalents and short-term investments. We also had $208.4 million in long-term investments that provide additional capital resources. We finance our operations primarily through payments by our customers for use of our product offerings and related services, and we have additional borrowing capacity available from our credit facility.
+
+In May 2025, we entered into an agreement with a syndicate of banks, which provides for a secured revolving credit facility (“Credit Facility”) in the aggregate principal amount of $750.0 million and may be increased by an additional $250.0 million subject to customary terms and conditions. The Credit Facility superseded and replaced the revolving credit facility that we previously entered into in January 2021. As of January 31, 2026, there were no outstanding borrowings under the Credit Facility, and we were in compliance with related covenants. The Credit Facility matures in May 2030 and is available to optimize our capital structure and strengthen our balance sheet. We have included additional information in Note 8 to the Condensed Consolidated Financial Statements, included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+We believe that our sources of liquidity, including our cash, cash equivalents and investments, and expected future operating cash flows, and borrowing capacity available to us from our Credit Facility, are adequate to meet our potential cash commitments as well as meet our working capital and capital expenditure needs for the foreseeable future, including upcoming maturities of our contractual obligations over the next 12 months.
+
+We typically invoice our customers annually in advance. Therefore, a substantial source of our cash is from such invoices, which are included on our consolidated balance sheets in contract liabilities until revenue is recognized and in accounts receivable until cash is collected. Accordingly, collections from our customers have a material impact on our cash flows from operating activities. Contract liabilities consist of the unearned portion of billed fees for our subscriptions, which is subsequently recognized as revenue in accordance with our revenue recognition policy.
+
+Our future capital requirements will depend on many factors including our growth rate, customer retention and expansion, inflation, tax withholding obligations related to settlement of our RSUs, the timing and extent of spending to support our efforts to develop our software platform, the expansion of sales and marketing activities and the continuing market acceptance of our software platform. We may in the future enter into arrangements to acquire or invest in complementary businesses, technologies and intellectual property rights. We may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, operating results and financial condition would be adversely affected.
+
+Our principal contractual obligations and commitments consist of obligations under operating leases, as well as noncancelable contractual commitments that primarily relate to cloud infrastructure support and sales and marketing activities. Refer to Note 9 and Note 10 to the Consolidated Financial Statements, included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+We do not have any special purpose entities, and we do not engage in off-balance sheet financing arrangements.
+
+In addition to our contractual commitments, our board of directors has authorized a stock repurchase program, which commenced in March 2022. During the year ended January 31, 2026, we repurchased and settled 11.8 million shares of common stock for $869.1 million through our stock repurchase program. The program has no minimum purchase and no mandated end date. The repurchase program may be suspended or discontinued at any time at our discretion. We expect that our existing sources of liquidity, including our existing cash, cash equivalents and investments, expected future operating cash flows, and the borrowing capacity of our credit facility, will finance the repurchase of common stock at management’s discretion. The timing and amount of any repurchases of common stock will be determined by management based on its evaluation of market conditions and other factors.
+
+Docusign, Inc. | 2026 Form 10-K | 51
+
+Cash Flows
+
+The following table summarizes our cash flows for the periods indicated:
+
+Year Ended January 31,
+
+(in thousands) | 2026 | 2025
+
+Net cash provided by (used in):
+
+Operating activities | $ | 1,165,007 | $ | 1,017,272
+
+Investing activities | (126,781) | (312,876)
+
+Financing activities | (1,099,902) | (838,791)
+
+Effect of foreign exchange on cash, cash equivalents and restricted cash | 20,272 | (7,550)
+
+Net change in cash, cash equivalents and restricted cash | $ | (41,404) | $ | (141,945)
+
+Cash Flows from Operating Activities
+
+Cash provided by operating activities was $1.2 billion for the year ended January 31, 2026. Our primary sources of cash provided by operating activities were billings and the related cash collections in addition to interest income. Our primary uses of cash include the payment of employee salaries and benefits in addition to vendor payments.
+
+Cash provided by operating activities was $1.0 billion for the year ended January 31, 2025. Our primary sources of cash provided by operating activities were billings and the related cash collections in addition to interest income. Our primary uses of cash include payment of employee salaries and benefits, including the payment of termination benefits under the 2025 Restructuring Plan implemented in the first quarter of fiscal 2025, in addition to vendor payments. Additionally, in connection with the acquisition of Lexion, we agreed to pay $19.1 million in deferred compensation for key employees, which we paid into an escrow account.
+
+Cash Flows from Investing Activities
+
+For the year ended January 31, 2026, net cash used in investing activities of $126.8 million was primarily driven by $106.4 million in purchases of property and equipment as we continued to invest in capitalized software development projects and to support operations at our data centers in addition to $19.6 million net purchase of marketable securities.
+
+For the year ended January 31, 2025, net cash used in investing activities of $312.9 million was primarily driven by the acquisition of Lexion, which totaled $143.6 million, net of cash acquired. Additionally, net purchases of marketable securities were $70.9 million, and purchases of property and equipment were $97.0 million as we continued to support operations at our data centers and invest in capitalized software development projects.
+
+Cash Flows from Financing Activities
+
+For the year ended January 31, 2026, net cash used in financing activities of $1.1 billion was primarily driven by $869.1 million to repurchase 11.8 million shares of common stock through our stock repurchase program and $227.7 million payments for tax withholding on share settlements, net of proceeds associated with equity plans.
+
+For the year ended January 31, 2025, net cash used in financing activities of $838.8 million was primarily driven by $683.5 million to repurchase 11.0 million shares of common stock through our stock repurchase program, and $155.3 million payments for tax withholding on share settlements, net of proceeds associated with equity plans.
+
+Docusign, Inc. | 2026 Form 10-K | 52
+
+Critical Accounting Policies and Estimates
+
+We prepare our financial statements in accordance with United States (“U.S.”) generally accepted accounting principles (“GAAP”). Preparing these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses and related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Our actual results could differ from these estimates.
+
+The critical accounting estimates, assumptions and judgments that we believe to have the most significant impact on our consolidated financial statements are revenue recognition, deferred contract acquisition costs, stock-based compensation, income taxes, loss contingencies, and valuation of acquired intangible assets in business combinations.
+
+Revenue Recognition
+
+We recognize revenue from contracts with customers using the five-step method described in Note 1 to the consolidated financial statements. At contract inception, we evaluate whether two or more contracts should be combined and accounted for as a single contract and whether the combined or single contract includes more than one performance obligation. We combine contracts entered into at or near the same time with the same customer if we determine that the contracts are negotiated as a package with a single commercial objective; the amount of consideration to be paid in one contract depends on the price or performance of the other contract; or the services promised in the contracts are a single performance obligation.
+
+Our performance obligations consist of (i) subscription services, (ii) professional and other services, (iii) on-premises solutions and (iv) maintenance and support for our on-premises solutions. In general, we satisfy the majority of our performance obligations over time as we transfer the promised services to our customers. For some of our services, such as delivery of on-premises solutions, we satisfy our performance obligations at a point in time. We identify and evaluate terms and conditions in contracts which may impact revenue recognition.
+
+Period of Benefit of Deferred Contract Acquisition Costs
+
+Contract acquisition costs are amortized on a straight-line basis over their period of benefit. To determine the period of benefit, we evaluate the type of costs incurred, the nature of the related benefit, and the specific facts and circumstances of our arrangements. The period of benefit for commissions paid for the acquisition of the initial subscription contract is determined by considering our customer life and the technological life of our software platform and related significant features. The period of benefit for commissions on renewal subscription contracts is determined by considering the weighted average contractual term for our renewal contracts. Periodically, we evaluate these factors and review whether events or changes in circumstances have occurred that could impact the period of benefit. Any future changes in circumstances around our customer life and weighted average contractual terms of renewal contracts may materially change the periods of benefit and therefore the amortization amounts recognized in our consolidated statement of operations and comprehensive income.
+
+Stock-based Compensation
+
+We issue stock-based awards to employees, including restricted stock units (“RSUs”) and purchase rights granted under our Employee Stock Purchase Plan (“ESPP“). We measure the fair value of these awards at the grant date and recognize such fair value as expense over the service period.
+
+From time to time, we grant RSUs that also include performance-based or market-based conditions. The fair value of RSUs, including those granted with a performance condition, is estimated on the date of grant based on the fair value of our underlying common stock. For RSUs with a performance condition, we assess the probability that such performance conditions will be met or achieved every reporting period. For RSUs granted with a market condition, we use a Monte Carlo option-pricing model to determine the fair value of the RSUs. The fair value of ESPP purchase rights is estimated on the date of grant using a Black-Scholes option pricing model.
+
+Judgment is required to estimate the expected life of the stock awards, the volatility of the underlying common stock, forfeiture rates, and probability of achievement of performance conditions. Our assumptions may differ from those used in prior periods. Changes to the estimates we make from time to time may have a significant impact on our stock-based compensation expense and could materially impact our results of operations.
+
+Docusign, Inc. | 2026 Form 10-K | 53
+
+We recognize compensation expense net of forfeitures that are estimated at the time of grant based on historical experience and our expectations regarding future pre-vesting termination behavior of employees and revise in subsequent periods if actual forfeitures differ from those estimates. To the extent our actual forfeiture rate is different from our estimate, stock-based compensation expense is adjusted accordingly.
+
+Valuation of Acquired Intangible Assets in Business Combinations
+
+At the acquisition date, we make significant estimates and assumptions when we determine the fair value of acquired assets and liabilities, especially with respect to acquired intangible assets. Key assumptions include, but are not limited to, time and resources required to recreate the assets acquired. Although we believe the assumptions and estimates we have made are reasonable and appropriate, they are based in part on information obtained from the management of the acquired companies, our assessment of the information, and historical experience. Our estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain. During the measurement period of up to one year, from the acquisition date, based on new information obtained that relates to the facts and circumstances that existed as of the acquisition date, we record adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. We record adjustments identified, if any, subsequent to the end of the measurement period in our consolidated statement of operations.
+
+Income Taxes
+
+We use the asset and liability method of accounting for income taxes. Under this method, income tax expense is recognized for the amount of taxes payable or refundable for the current year. In addition, deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax basis of assets and liabilities, and for operating losses and tax credit carryforwards. Management must make assumptions, judgments and estimates to determine our current provision for income taxes and our deferred tax assets and liabilities.
+
+We regularly assess the need for a valuation allowance against our deferred tax assets. In making this assessment, we weigh both positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies and results of recent operations, to determine whether it is more likely than not that a deferred tax asset will be realized. This assessment requires significant judgment and is performed for each jurisdiction in which we operate. In the event we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+
+In recognizing tax benefits from uncertain tax positions, we assess whether it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. As we expand internationally, we will face increased complexity in determining the appropriate tax jurisdictions for revenue and expense items, and as a result, we may record unrecognized tax benefits in the future. At that time, we would make adjustments to these potential future reserves when facts and circumstances change, such as the closing of a tax audit or when the refinement of an estimate is appropriate. Our estimate of the potential outcome of any uncertain tax position is subject to management's assessment of relevant risks, facts and circumstances existing at that time. To the extent that the final tax outcome of these matters would be different to the amounts we may potentially record in the future, such differences will affect the provision for income taxes in the period in which such determination is made and could have a material impact on our financial condition and operating results.
+
+Loss Contingencies
+
+We evaluate contingent liabilities, including threatened or pending litigation, and make provisions for such liabilities when it is both probable that a loss has been incurred and its amount can be reasonably estimated. Because of uncertainties related to these legal matters, we base our estimates and accrue the liabilities, if any, on the information available at the time of our assessment. Developments in these matters could affect the amount of liability we accrue. As additional information becomes available, we may revise our estimates. Any revisions in the estimates of potential liabilities could have a material impact on our operating results and financial position. Further, until the final resolution of any such matter, there may be a loss exposure in excess of the liability recognized and such amount could be significant.
+
+Recent Accounting Pronouncements
+
+Refer to Note 1 in the Notes to the Consolidated Financial Statements in Part II, Item 8 of this Annual Report on Form 10-K for recently issued accounting pronouncements not yet adopted as of the date of this report.
+
+Docusign, Inc. | 2026 Form 10-K | 54
+
+Non-GAAP Financial Measures and Other Key Metrics
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we use certain non-GAAP financial measures, as described below, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may be different than similarly titled measures used by other companies, are presented to enhance investors’ overall understanding of our financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
+
+We believe that these non-GAAP financial measures provide useful information about our financial performance, enhance the overall understanding of our past performance and future prospects, and allow for greater transparency with respect to important metrics used by our management for financial and operational decision-making. We present these non-GAAP measures to assist investors in seeing our financial performance using a management view, and because we believe that these measures provide an additional tool for investors to use in comparing our core financial performance over multiple periods with other companies in our industry. However, these non-GAAP measures are not intended to be considered in isolation from, a substitute for, or superior to our GAAP results.
+
+Non-GAAP gross profit, non-GAAP gross margin, non-GAAP income from operations, non-GAAP operating margin and non-GAAP net income: We define these non-GAAP financial measures as the respective GAAP measures, excluding expenses related to stock-based compensation, employer payroll tax on employee stock transactions, amortization of acquisition-related intangibles, amortization of debt discount and issuance costs, acquisition-related expenses, fair value adjustments to strategic investments, lease-related impairment and lease-related charges, restructuring and other related charges, and, as applicable, other special items. The amount of employer payroll tax-related items on employee stock transactions is dependent on our stock price and other factors that are beyond our control and do not correlate to the operation of the business. When evaluating the performance of our business and making operating plans, we do not consider these items (for example, when considering the impact of equity award grants, we place a greater emphasis on overall stockholder dilution rather than the accounting charges associated with such grants). We believe it is useful to exclude these expenses in order to better understand the long-term performance of our core business and to facilitate comparison of our results to those of peer companies and over multiple periods. In addition to these exclusions, we subtract an assumed provision for income taxes to calculate non-GAAP net income. We utilize a fixed long-term projected tax rate in our computation of the non-GAAP income tax provision to provide better consistency across the reporting periods. For the years ended January 31, 2026, 2025 and 2024, we have determined the projected non-GAAP tax rate to be 21%, 20%, and 20%, respectively.
+
+Free cash flow: We define free cash flow as net cash provided by operating activities less purchases of property and equipment. We believe free cash flow is an important liquidity measure of the cash that is available (if any), after purchases of property and equipment, for operational expenses, investment in our business and to make acquisitions. Free cash flow is useful to investors as a liquidity measure because it measures our ability to generate or use cash in excess of our capital investments in property and equipment. Once our business needs and obligations are met, cash can be used to maintain a strong balance sheet and invest in future growth.
+
+Billings: We define billings as total revenues plus the change in our contract liabilities and refund liability less contract assets and unbilled accounts receivable in a given period. Billings reflects sales to new customers plus subscription renewals and additional sales to existing customers. Only amounts invoiced to a customer in a given period are included in billings. We considered billings to measure our periodic performance, when taking into consideration the timing aspects of customer renewals, which represent a large component of our business. Given that most of our customers pay in annual installments one year in advance, but we typically recognize a majority of the related revenue ratably over time, we used billings to measure and monitor our ability to provide our business with the working capital generated by upfront payments from our customers. Beginning in the first fiscal quarter of 2027, we will no longer report or guide to billings.
+
+Annual Recurring Revenue: We calculate Annual Recurring Revenue (“ARR”) as the annualized value of active customer contracts as of the measurement date. This calculation assumes that any contract expiring within the next 12 months renews on its existing terms, and excludes non-recurring revenue streams recognized at a point in time. When evaluating ARR on a product basis for contracts spanning multiple product lines, we allocate the support contract value to each product offering based on its proportional share of the total contract value. To annualize contracts, we divide the total committed contract value by the number of months in the subscription term and multiply by twelve. For international contracts denominated in foreign currencies, ARR is translated into U.S. dollars using a fixed exchange rate set at the beginning of each fiscal year. We adjust previously reported ARR annually to reflect these exchange rate changes for comparative purposes. We believe ARR measures our business performance and serves as a leading indicator of future revenue growth. ARR is an operating metric and should be viewed independently of revenue, deferred revenue, and
+
+Docusign, Inc. | 2026 Form 10-K | 55
+
+remaining performance obligations; it does not represent revenue under U.S. GAAP on an annual basis. ARR was $3,272 million as of January 31, 2026, $3,030 million as of January 31, 2025, and $2,805 million as of January 31, 2024. As of January 31, 2026, IAM represented 10.8% of our total ARR as of January 31, 2026, and 2.3% of our total ARR as of January 31, 2025.
+
+Reconciliation of gross profit (loss) and gross margin:
+
+Year Ended January 31,
+
+(in thousands) | 2026 | 2025 | 2024
+
+GAAP gross profit | $ | 2,556,438 | $ | 2,355,080 | $ | 2,189,261
+
+Add: Stock-based compensation | 72,397 | 76,987 | 79,996
+
+Add: Amortization of acquisition-related intangibles | 4,923 | 12,267 | 8,857
+
+Add: Employer payroll tax on employee stock transactions | 5,496 | 3,909 | 2,262
+
+Add: Lease-related impairment and lease-related charges | — | — | 721
+
+Non-GAAP gross profit | $ | 2,639,254 | $ | 2,448,243 | $ | 2,281,097
+
+GAAP gross margin | 79.4 | % | 79.1 | % | 79.3 | %
+
+Non-GAAP adjustments | 2.6 | % | 3.1 | % | 3.3 | %
+
+Non-GAAP gross margin | 82.0 | % | 82.2 | % | 82.6 | %
+
+GAAP subscription gross profit | $ | 2,569,493 | $ | 2,368,864 | $ | 2,226,803
+
+Add: Stock-based compensation | 56,501 | 58,348 | 51,660
+
+Add: Amortization of acquisition-related intangibles | 4,923 | 12,267 | 8,857
+
+Add: Employer payroll tax on employee stock transactions | 4,201 | 2,882 | 1,464
+
+Add: Lease-related impairment and lease-related charges | — | — | 505
+
+Non-GAAP subscription gross profit | $ | 2,635,118 | $ | 2,442,361 | $ | 2,289,289
+
+GAAP subscription gross margin | 81.6 | % | 81.6 | % | 82.9 | %
+
+Non-GAAP adjustments | 2.0 | % | 2.6 | % | 2.3 | %
+
+Non-GAAP subscription gross margin | 83.6 | % | 84.2 | % | 85.2 | %
+
+GAAP professional services and other gross loss | $ | (13,055) | $ | (13,784) | $ | (37,542)
+
+Add: Stock-based compensation | 15,896 | 18,639 | 28,336
+
+Add: Employer payroll tax on employee stock transactions | 1,295 | 1,027 | 798
+
+Add: Lease-related impairment and lease-related charges | — | — | 216
+
+Non-GAAP professional services and other gross income (loss) | $ | 4,136 | $ | 5,882 | $ | (8,192)
+
+GAAP professional services and other gross margin | (18.9) | % | (18.3) | % | (49.9) | %
+
+Non-GAAP adjustments | 24.9 | % | 26.1 | % | 39.0 | %
+
+Non-GAAP professional services and other gross margin | 6.0 | % | 7.8 | % | (10.9) | %
+
+Docusign, Inc. | 2026 Form 10-K | 56
+
+Reconciliation of income from operations and operating margin:
+
+Year Ended January 31,
+
+(in thousands) | 2026 | 2025 | 2024
+
+GAAP income from operations | $ | 298,579 | $ | 199,928 | $ | 31,634
+
+Add: Stock-based compensation | 622,321 | 605,499 | 611,835
+
+Add: Amortization of acquisition-related intangibles | 16,131 | 24,717 | 19,375
+
+Add: Employer payroll tax on employee stock transactions | 30,906 | 21,793 | 13,682
+
+Add: Acquisition-related expenses | — | 4,340 | —
+
+Add: Restructuring and other related charges | — | 29,721 | 30,381
+
+Add: Lease-related impairment and lease-related charges | — | — | 4,460
+
+Non-GAAP income from operations | $ | 967,937 | $ | 885,998 | $ | 711,367
+
+GAAP operating margin | 9.3 | % | 6.7 | % | 1.1 | %
+
+Non-GAAP adjustments | 20.8 | % | 23.1 | % | 24.7 | %
+
+Non-GAAP operating margin | 30.1 | % | 29.8 | % | 25.8 | %
+
+Reconciliation of net income:
+
+Year Ended January 31,
+
+(in thousands)
+2026 | 2025 | 2024
+
+GAAP net income | $ | 309,085 | $ | 1,067,885 | $ | 73,980
+
+Add: Stock-based compensation | 622,321 | 605,499 | 611,835
+
+Add: Amortization of acquisition-related intangibles | 16,131 | 24,717 | 19,375
+
+Add: Employer payroll tax on employee stock transactions | 30,906 | 21,793 | 13,682
+
+Add: Acquisition-related expenses | — | 4,340 | —
+
+Add: Restructuring and other related charges | — | 29,721 | 30,381
+
+Add: Amortization of debt discount and issuance costs | — | — | 5,175
+
+Add: Fair value adjustments to strategic investments | — | — | 22
+
+Add: Lease-related impairment and lease-related charges | — | — | 4,460
+
+Add: Income tax and other tax adjustments
+(175,261) | (1,006,746) | (136,023)
+
+Non-GAAP net income | $ | 803,182 | $ | 747,209 | $ | 622,887
+
+Computation of free cash flow:
+
+Year Ended January 31,
+
+(in thousands) | 2026 | 2025 | 2024
+
+Net cash provided by operating activities | $ | 1,165,007 | $ | 1,017,272 | $ | 979,526
+
+Less: Purchases of property and equipment | (106,445) | (96,988) | (92,391)
+
+Non-GAAP free cash flow | $ | 1,058,562 | $ | 920,284 | $ | 887,135
+
+Net cash provided by (used in) investing activities | $ | (126,781) | $ | (312,876) | $ | 44,612
+
+Net cash used in financing activities | $ | (1,099,902) | $ | (838,791) | $ | (946,039)
+
+Docusign, Inc. | 2026 Form 10-K | 57
+
+Computation of billings:
+
+Year Ended January 31,
+
+(in thousands) | 2026 | 2025 | 2024
+
+Revenue | $ | 3,219,500 | $ | 2,976,739 | $ | 2,761,882
+
+Add: Contract liabilities and refund liability, end of period | 1,663,128 | 1,479,266 | 1,343,792
+
+Less: Contract liabilities and refund liability, beginning of period | (1,479,266) | (1,343,792) | (1,191,269)
+
+Add: Contract assets and unbilled accounts receivable, beginning of period | 17,825 | 20,189 | 16,615
+
+Less: Contract assets and unbilled accounts receivable, end of period | (14,905) | (17,825) | (20,189)
+
+Add: Contract assets and unbilled accounts receivable contributed by acquisitions | — | 53 | —
+
+Less: Contract liabilities and refund liability contributed by acquisitions | — | (5,071) | —
+
+Non-GAAP billings | $ | 3,406,282 | $ | 3,109,559 | $ | 2,910,831
+
+Docusign, Inc. | 2026 Form 10-K | 58

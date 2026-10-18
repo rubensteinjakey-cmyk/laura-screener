@@ -1,0 +1,43 @@
+{
+  "ticker": "ZETA",
+  "accession_number": "0001193125-26-068598",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "full_text_words": 61064,
+  "sections": {
+    "item1": {
+      "words": 4641,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4641,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 9695,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          9695,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 110,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 831
+    }
+  },
+  "notes": [],
+  "human_capital_words": 369,
+  "human_capital_found": true,
+  "people_paragraph_words": 584
+}

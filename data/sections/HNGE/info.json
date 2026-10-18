@@ -1,0 +1,43 @@
+{
+  "ticker": "HNGE",
+  "accession_number": "0001628280-26-013808",
+  "filing_date": "2026-03-03",
+  "fiscal_year": 2025,
+  "full_text_words": 94621,
+  "sections": {
+    "item1": {
+      "words": 11546,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          11546,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 10756,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          10756,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 316
+    }
+  },
+  "notes": [],
+  "human_capital_words": 101,
+  "human_capital_found": true,
+  "people_paragraph_words": 528
+}

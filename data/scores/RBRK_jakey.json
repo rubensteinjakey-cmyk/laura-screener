@@ -1,0 +1,101 @@
+{
+  "ticker": "RBRK",
+  "company_name": "Rubrik Inc. Class A Common Stock",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001943896-26-000013",
+  "filing_date": "2026-03-19",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-18T23:57:20",
+  "prompt_chars": 66736,
+  "filing_chars": 46709,
+  "filing_words_sent": 6593,
+  "approx_prompt_tokens": 16684,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Pledge 1% equity commitment funding social impact and community initiatives",
+        "quote": "we have joined the Pledge 1% movement, and have committed to donating 1,354,671 shares of our Class A common stock representing approximately 1% of our outstanding capital stock as of immediately prior to our initial public offering over the next 10 years to fund our social impact and environmental, social, and governance initiatives.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Social Responsibility and Community Initiatives",
+        "status": "current",
+        "indicators": "1,354,671 shares; approximately 1% of outstanding capital stock; over the next 10 years",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment with no disclosed recipients, programs or reach"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Rubrik University training and certification courses for customers' technical staff",
+        "quote": "We offer Rubrik University, which includes instructor-led training with hands-on labs, on-demand e-learning courses, and certification exams.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Commercial Offerings > Education",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external training program, limited in reach and tied to the company's own products, no participant figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers data security and AI operations software in full and shows no creative activity. 'Foundation Edition' and 'design' in the engineering sense are traps."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: there is a current Pledge 1% equity commitment and customer-facing Rubrik University training, but no recipients, programs, participants or reach are disclosed, so the lower level is chosen when torn between 2 and 3."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests only on general language (wanting employees to 'feel like they belong') in a workforce section of more than 150 words, with no specific inclusion or access activity. International revenue does not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests only on serving smaller customers through an inside-sales model and on the company's own innovation, with no specific service that enables founders or small businesses."
+      }
+    },
+    "notes": "Item 7 reports an $11.8 million increase in charitable donations in fiscal 2026. This supports treating the Pledge 1% commitment (E1) as current, but it is the same activity, so it is not counted again. Item 1 also states a plan to 'commit our time' to community initiatives; this is planned and not scored. Rubrik University is customer product training sold as part of support. It is scored as limited external education, not as marketing, but it should be checked against the 'educating customers' trap. The total score is 0 + 12 + 4 + 3 = 19/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"RBRK\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Pledge 1% equity commitment funding social impact and community initiatives\",\"quote\":\"we have joined the Pledge 1% movement, and have committed to donating 1,354,671 shares of our Class A common stock representing approximately 1% of our outstanding capital stock as of immediately prior to our initial public offering over the next 10 years to fund our social impact and environmental, social, and governance initiatives.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Social Responsibility and Community Initiatives\",\"status\":\"current\",\"indicators\":\"1,354,671 shares; approximately 1% of outstanding capital stock; over the next 10 years\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment with no disclosed recipients, programs or reach\"}}},{\"id\":\"E2\",\"activity\":\"Rubrik University training and certification courses for customers' technical staff\",\"quote\":\"We offer Rubrik University, which includes instructor-led training with hands-on labs, on-demand e-learning courses, and certification exams.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Commercial Offerings > Education\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external training program, limited in reach and tied to the company's own products, no participant figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers data security and AI operations software in full and shows no creative activity. 'Foundation Edition' and 'design' in the engineering sense are traps.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: there is a current Pledge 1% equity commitment and customer-facing Rubrik University training, but no recipients, programs, participants or reach are disclosed, so the lower level is chosen when torn between 2 and 3.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests only on general language (wanting employees to 'feel like they belong') in a workforce section of more than 150 words, with no specific inclusion or access activity. International revenue does not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests only on serving smaller customers through an inside-sales model and on the company's own innovation, with no specific service that enables founders or small businesses.\"}},\"notes\":\"Item 7 reports an $11.8 million increase in charitable donations in fiscal 2026. This supports treating the Pledge 1% commitment (E1) as current, but it is the same activity, so it is not counted again. Item 1 also states a plan to 'commit our time' to community initiatives; this is planned and not scored. Rubrik University is customer product training sold as part of support. It is scored as limited external education, not as marketing, but it should be checked against the 'educating customers' trap. The total score is 0 + 12 + 4 + 3 = 19/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 22313,
+      "output_tokens": 3222,
+      "duration_ms": 33175
+    }
+  ]
+}
