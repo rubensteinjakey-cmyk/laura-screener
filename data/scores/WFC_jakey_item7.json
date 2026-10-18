@@ -1,0 +1,69 @@
+{
+  "ticker": "WFC",
+  "company_name": "Wells Fargo & Company",
+  "sector": "Financials",
+  "run_id": "jakey_item7",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7"
+  ],
+  "accession_number": "0000072971-26-000133",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-18T20:22:45",
+  "prompt_chars": 307851,
+  "filing_chars": 297096,
+  "approx_prompt_tokens": 76962,
+  "ai": {
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "level_reason": "Level 0: nothing in the filing relates to creating, publishing or enabling creative work; 'Entertainment and recreation' appears only as a loan industry category.",
+        "quotes": []
+      },
+      "community": {
+        "score": 2,
+        "level_reason": "Level 2: one specific practice (tuition reimbursement) beyond standard training; the $200 million figure covers internal employee development including required compliance training, with no school, nonprofit or community partnerships described.",
+        "quotes": [
+          "Additionally, we provide tuition reimbursement to eligible employees.",
+          "During 2025, we invested approximately $200 million in a variety of employee learning and development programs, including functional training, required risk and regulatory compliance training, leadership and professional development, and early talent development programs."
+        ]
+      },
+      "cross_cultural": {
+        "score": 1,
+        "level_reason": "Level 1: only a general welcoming-environment statement and workforce demographic percentages, with no specific inclusion practice described.",
+        "quotes": [
+          "provide an environment that welcomes people from different backgrounds and with different experiences",
+          "In the U.S., 50% of our workforce identified as white, 49% identified as other races/ethnicities, and 1% did not declare."
+        ]
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "level_reason": "Level 2: one specific practice (small business lending and banking products within the consumer segment); small-business data is combined with consumer figures rather than reported separately.",
+        "quotes": [
+          "Consumer Banking and Lending offers diversified financial products and services for consumers and small businesses.",
+          "We provide consumer financial products and services including checking and savings accounts, credit and debit cards, and home, auto, personal, and small business lending."
+        ]
+      }
+    },
+    "thin_filing": false,
+    "sections_read": [
+      "Item 1",
+      "Item 7"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"WFC\",\"sector\":\"Financials\",\"sections_read\":[\"Item 1\",\"Item 7\"],\"themes\":{\"creativity\":{\"score\":0,\"level_reason\":\"Level 0: nothing in the filing relates to creating, publishing or enabling creative work; 'Entertainment and recreation' appears only as a loan industry category.\",\"quotes\":[]},\"community\":{\"score\":2,\"level_reason\":\"Level 2: one specific practice (tuition reimbursement) beyond standard training; the $200 million figure covers internal employee development including required compliance training, with no school, nonprofit or community partnerships described.\",\"quotes\":[\"Additionally, we provide tuition reimbursement to eligible employees.\",\"During 2025, we invested approximately $200 million in a variety of employee learning and development programs, including functional training, required risk and regulatory compliance training, leadership and professional development, and early talent development programs.\"]},\"cross_cultural\":{\"score\":1,\"level_reason\":\"Level 1: only a general welcoming-environment statement and workforce demographic percentages, with no specific inclusion practice described.\",\"quotes\":[\"provide an environment that welcomes people from different backgrounds and with different experiences\",\"In the U.S., 50% of our workforce identified as white, 49% identified as other races/ethnicities, and 1% did not declare.\"]},\"entrepreneurship\":{\"score\":2,\"level_reason\":\"Level 2: one specific practice (small business lending and banking products within the consumer segment); small-business data is combined with consumer figures rather than reported separately.\",\"quotes\":[\"Consumer Banking and Lending offers diversified financial products and services for consumers and small businesses.\",\"We provide consumer financial products and services including checking and savings accounts, credit and debit cards, and home, auto, personal, and small business lending.\"]}},\"thin_filing\":false}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 110163,
+      "output_tokens": 1603,
+      "duration_ms": 17591
+    }
+  ]
+}
