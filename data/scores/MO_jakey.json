@@ -1,0 +1,151 @@
+{
+  "ticker": "MO",
+  "company_name": "Altria",
+  "sector": "Consumer Staples",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000764180-26-000017",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:23:05",
+  "prompt_chars": 45807,
+  "filing_chars": 25814,
+  "filing_words_sent": 3732,
+  "approx_prompt_tokens": 11451,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee development programs, including onboarding, training, technical certification training and an educational refund program",
+        "quote": "Employees have access to a wide variety of development programs, including new employee onboarding, in-person, virtual and self-guided training programs, technical training, including training to maintain professional certifications, and our educational refund program for continuing education.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Attracting, Developing, Retaining and Deploying Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Company-funded contribution toward eligible employees' higher-education student loans",
+        "quote": "We also provide eligible employees with a company-funded contribution applied to the employee’s qualified higher education student loans to help reduce student loan debt.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Compensation and Benefits",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Internships and partnerships with student-support organizations as part of entry-level recruiting",
+        "quote": "Our salaried entry-level recruitment efforts include building relationships with university students, internship opportunities and partnerships with organizations that support a broad range of students.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Attracting, Developing, Retaining and Deploying Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current activity, limited in reach (recruitment-oriented internships and partnerships, no figures)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Annual pay equity analysis reporting pay ratios by gender and race",
+        "quote": "If we adjust for differentiating factors that legitimately influence pay, salaries of our female employees were 99.9% of those of our male employees, and salaries of our employees of color were 99.9% of those of our white employees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Compensation and Benefits",
+        "status": "current",
+        "indicators": "99.9%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: pay statistics by demographic group, a disclosure rather than a described barrier-removing program"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Contract growing program buying leaf tobacco directly from domestic growers",
+        "quote": "In the United States, under a contract growing program, PM USA purchases the majority of its burley and flue-cured leaf tobaccos directly from domestic tobacco growers.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Description of Business > Distribution, Competition and Raw Materials",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: ordinary commercial relationship with small producers, no enabling service aimed at barriers"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers only the manufacture and sale of tobacco and nicotine products, with no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: the filing shows employee development and recruitment-oriented internships and student partnerships with no reach figures, so it does not reach level 3."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the filing gives pay-equity statistics by gender and race and general equal-opportunity and inclusion language, with no specific inclusion program or customer-access activity; when torn between 1 and 2, the lower level was chosen."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 1: the filing describes the company's own R&D and innovation and an ordinary contract growing relationship with tobacco growers, with no specific program enabling founders or small businesses."
+      }
+    },
+    "notes": "Item 7 excerpts contain no qualifying activity: 'educational campaigns' refers to state and local tobacco-control legislation, and 'scientific and public health communities' is a trap term. 'Horizon Innovations LLC' and 'Helix Innovations LLC' are entity names and the joint venture is a trap term; the Horizon HTS joint venture has no products on the market, so it is planned only. The human capital section points to Corporate Responsibility Reports on www.altria.com but also describes specific activities itself, so coverage is sufficient. Family-creation benefits (surrogacy, adoption, doula reimbursement) and up to 12 weeks of paid family leave were considered for Cross-cultural as inclusive benefits, but the filing presents them as general benefits, so they were not scored above 1. The pay-equity sentence with unadjusted figures (98.4%, 98.5%) exceeds the quote length limit, so only the adjusted figures are quoted. NJOY ACE is subject to an ITC exclusion order, which is not relevant to the themes.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"MO\",\"sector\":\"Consumer Staples\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee development programs, including onboarding, training, technical certification training and an educational refund program\",\"quote\":\"Employees have access to a wide variety of development programs, including new employee onboarding, in-person, virtual and self-guided training programs, technical training, including training to maintain professional certifications, and our educational refund program for continuing education.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Attracting, Developing, Retaining and Deploying Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Company-funded contribution toward eligible employees' higher-education student loans\",\"quote\":\"We also provide eligible employees with a company-funded contribution applied to the employee’s qualified higher education student loans to help reduce student loan debt.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Compensation and Benefits\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Internships and partnerships with student-support organizations as part of entry-level recruiting\",\"quote\":\"Our salaried entry-level recruitment efforts include building relationships with university students, internship opportunities and partnerships with organizations that support a broad range of students.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Attracting, Developing, Retaining and Deploying Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current activity, limited in reach (recruitment-oriented internships and partnerships, no figures)\"}}},{\"id\":\"E4\",\"activity\":\"Annual pay equity analysis reporting pay ratios by gender and race\",\"quote\":\"If we adjust for differentiating factors that legitimately influence pay, salaries of our female employees were 99.9% of those of our male employees, and salaries of our employees of color were 99.9% of those of our white employees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Compensation and Benefits\",\"status\":\"current\",\"indicators\":\"99.9%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: pay statistics by demographic group, a disclosure rather than a described barrier-removing program\"}}},{\"id\":\"E5\",\"activity\":\"Contract growing program buying leaf tobacco directly from domestic growers\",\"quote\":\"In the United States, under a contract growing program, PM USA purchases the majority of its burley and flue-cured leaf tobaccos directly from domestic tobacco growers.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Description of Business > Distribution, Competition and Raw Materials\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: ordinary commercial relationship with small producers, no enabling service aimed at barriers\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers only the manufacture and sale of tobacco and nicotine products, with no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: the filing shows employee development and recruitment-oriented internships and student partnerships with no reach figures, so it does not reach level 3.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the filing gives pay-equity statistics by gender and race and general equal-opportunity and inclusion language, with no specific inclusion program or customer-access activity; when torn between 1 and 2, the lower level was chosen.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 1: the filing describes the company's own R&D and innovation and an ordinary contract growing relationship with tobacco growers, with no specific program enabling founders or small businesses.\"}},\"notes\":\"Item 7 excerpts contain no qualifying activity: 'educational campaigns' refers to state and local tobacco-control legislation, and 'scientific and public health communities' is a trap term. 'Horizon Innovations LLC' and 'Helix Innovations LLC' are entity names and the joint venture is a trap term; the Horizon HTS joint venture has no products on the market, so it is planned only. The human capital section points to Corporate Responsibility Reports on www.altria.com but also describes specific activities itself, so coverage is sufficient. Family-creation benefits (surrogacy, adoption, doula reimbursement) and up to 12 weeks of paid family leave were considered for Cross-cultural as inclusive benefits, but the filing presents them as general benefits, so they were not scored above 1. The pay-equity sentence with unadjusted figures (98.4%, 98.5%) exceeds the quote length limit, so only the adjusted figures are quoted. NJOY ACE is subject to an ITC exclusion order, which is not relevant to the themes.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16090,
+      "output_tokens": 5548,
+      "duration_ms": 53229
+    }
+  ]
+}

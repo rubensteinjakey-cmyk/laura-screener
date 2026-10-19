@@ -1,0 +1,67 @@
+{
+  "ticker": "MCK",
+  "company_name": "McKesson",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000927653-26-000069",
+  "filing_date": "2026-05-08",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T01:24:10",
+  "prompt_chars": 25774,
+  "filing_chars": 5783,
+  "filing_words_sent": 802,
+  "approx_prompt_tokens": 6443,
+  "ai": {
+    "evidence": [],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes healthcare distribution, oncology and specialty care services, and technology solutions, with no creative work that the company creates or enables."
+      },
+      "community": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 1: the provided text has no human capital, workforce, people or community section, and 'community-based oncology practices' and 'Community Oncology Revitalization Enterprise Ventures' are business and practice names, not community programs."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 1: there is no human capital, workforce, people or community discussion, 'make quality care more accessible and affordable' is general mission language with no cross-cultural practice, and 'diversified healthcare services leader' is a trap term."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description shows no service aimed at founders or small businesses, and the practice consulting and network support for physician-led oncology practices is not presented as enabling small businesses, so the lower level was chosen."
+      }
+    },
+    "notes": "The Item 1 text provided contains only the Forward-Looking Statements and Available Information subsections. It has no business overview and no Human Capital section, so the business description was taken from the targeted Item 7 excerpts. The Available Information paragraph mentions that the company website posts 'sustainability matters' but describes no specific activities. Community and Cross-cultural are insufficient, which triggers the automated second look using a McKesson sustainability report on a company-owned domain. Trap terms were seen and excluded: 'diversified' (Cross-cultural trap), 'community-based oncology practices' and 'Community Oncology Revitalization Enterprise Ventures' (practice and entity names, not community investment), and 'partner with biopharma companies' (commercial relationships). Entrepreneurship was torn between 0 and 1. The company provides practice consulting and business/administrative services to physician-led oncology practices, including through the Core Ventures acquisition (70% interest for $2.5 billion). The filing does not frame these as small-business customers or as enabling founders, so the lower level was chosen. The Item 7 excerpts also disclose an estimated $5.7 billion opioid-related litigation liability as of March 31, 2026. This is relevant to the financial review, not to the theme scores.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"MCK\",\"sector\":\"Health Care\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes healthcare distribution, oncology and specialty care services, and technology solutions, with no creative work that the company creates or enables.\"},\"community\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 1: the provided text has no human capital, workforce, people or community section, and 'community-based oncology practices' and 'Community Oncology Revitalization Enterprise Ventures' are business and practice names, not community programs.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 1: there is no human capital, workforce, people or community discussion, 'make quality care more accessible and affordable' is general mission language with no cross-cultural practice, and 'diversified healthcare services leader' is a trap term.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description shows no service aimed at founders or small businesses, and the practice consulting and network support for physician-led oncology practices is not presented as enabling small businesses, so the lower level was chosen.\"}},\"notes\":\"The Item 1 text provided contains only the Forward-Looking Statements and Available Information subsections. It has no business overview and no Human Capital section, so the business description was taken from the targeted Item 7 excerpts. The Available Information paragraph mentions that the company website posts 'sustainability matters' but describes no specific activities. Community and Cross-cultural are insufficient, which triggers the automated second look using a McKesson sustainability report on a company-owned domain. Trap terms were seen and excluded: 'diversified' (Cross-cultural trap), 'community-based oncology practices' and 'Community Oncology Revitalization Enterprise Ventures' (practice and entity names, not community investment), and 'partner with biopharma companies' (commercial relationships). Entrepreneurship was torn between 0 and 1. The company provides practice consulting and business/administrative services to physician-led oncology practices, including through the Core Ventures acquisition (70% interest for $2.5 billion). The filing does not frame these as small-business customers or as enabling founders, so the lower level was chosen. The Item 7 excerpts also disclose an estimated $5.7 billion opioid-related litigation liability as of March 31, 2026. This is relevant to the financial review, not to the theme scores.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 9857,
+      "output_tokens": 2165,
+      "duration_ms": 22242
+    }
+  ]
+}
