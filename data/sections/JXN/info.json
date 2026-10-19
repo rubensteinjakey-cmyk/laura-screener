@@ -1,0 +1,47 @@
+{
+  "ticker": "JXN",
+  "accession_number": "0001822993-26-000022",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 106866,
+  "sections": {
+    "item1": {
+      "words": 100,
+      "source": "10-K",
+      "candidates": {
+        "starts": 25,
+        "ends": 16,
+        "lengths": [
+          100,
+          30
+        ]
+      }
+    },
+    "item7": {
+      "words": 248,
+      "source": "10-K",
+      "candidates": {
+        "starts": 49,
+        "ends": 97,
+        "lengths": [
+          248,
+          51
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 6
+    }
+  },
+  "notes": [
+    "item1: 10-K section is only 100 words with 0 cross-reference phrase(s); could not locate the referenced content",
+    "item7: 10-K section is only 248 words with 0 cross-reference phrase(s); could not locate the referenced content",
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 0
+}
