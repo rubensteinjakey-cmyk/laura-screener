@@ -59,6 +59,11 @@ def tidy(text):
         line = re.sub(r"(\s*\|)+\s*$", "", line)       # trailing empty cells
         line = re.sub(r"(\|\s*){2,}", "| ", line)      # runs of empty cells
         lines.append(line.strip())
+    # Some 10-Ks (e.g. BMNR) put "Item" on its own line and "1. Business."
+    # on the next; join them so the heading is found.
+    for i in range(len(lines) - 1):
+        if re.fullmatch(r"items?", lines[i], re.I) and lines[i + 1]:
+            lines[i], lines[i + 1] = "", f"{lines[i]} {lines[i + 1]}"
     out, blank = [], 0
     for line in lines:
         if line:
