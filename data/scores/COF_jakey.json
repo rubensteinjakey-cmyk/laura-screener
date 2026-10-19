@@ -1,0 +1,134 @@
+{
+  "ticker": "COF",
+  "company_name": "Capital One",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000927628-26-000024",
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T15:43:10",
+  "prompt_chars": 106941,
+  "filing_chars": 86948,
+  "filing_words_sent": 12982,
+  "approx_prompt_tokens": 26735,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Internal learning and development team delivering online and classroom training to associates across the company",
+        "quote": "Our internal enterprise learning and development team blends multiple approaches to learning to support associate development across lines of business, levels and roles, including online and live classroom training.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Hiring, Developing and Retaining",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Leadership development courses, cohort-based programs and coaching open to all associates",
+        "quote": "We also focus on cultivating talent with leadership development courses, cohort-based programs, network building and coaching, open to all associates.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Hiring, Developing and Retaining",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Investments in entities (community development entities) that provide capital to low-income and rural communities",
+        "quote": "Includes amounts related to entities that provide capital to low-income and rural communities of $2.1 billion, $2.0 billion and $1.8 billion in 2025, 2024 and 2023, respectively.",
+        "source_doc": "10-K",
+        "section": "Item 7 (targeted) > table footnote (5)",
+        "status": "current",
+        "indicators": "$2.1 billion",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, but disclosed only as a table footnote with no program, reach or context, so limited"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Deposit gathering and lending for small businesses within Consumer Banking",
+        "quote": "Consists of our deposit gathering and lending activities for consumers and small businesses, national auto lending and services offered by the Global Payment Network.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Operations and Business Segments",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: ordinary small-business deposits and lending, no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers credit cards, banking and payment networks and shows no creative activity (copyright/IP protection is not creative work)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: substantive employee development plus a community development investment disclosed only as an uncontextualized footnote figure, so torn between 2 and 3 and the lower level is chosen."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language (recruiting 'talent from all backgrounds', a pay equity philosophy) with no specific employee networks, accessibility or multilingual programs described, although the Human Capital section is well over 150 words."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: small-business card lending, deposits and loans are ordinary serving activities with no named enabling program."
+      }
+    },
+    "notes": "The Item 7 excerpts are fragmentary. E3's footnote ($2.1 billion related to entities providing capital to low-income and rural communities) appears in an unidentified table that also reports related interest expense, so its nature (investment vs. consolidated funding) is unclear. The glossary defines Investor Entities as those investing in CDEs that 'provide debt financing to businesses and non-profit entities in low-income and rural communities' and mentions a Community Benefits Plan (CBP) without detail. This was treated as the same activity as E3 and not counted separately. It was not credited as an Entrepreneurship 'enabling' program or a Cross-cultural 'customer access' activity because no named program, reach or description is given; when torn, the lower level was chosen. A human reviewer may wish to check the full MD&A tables. Educational assistance and competitive parental leave benefits are mentioned but are generic. 'Community Reinvestment Act', 'Government & Education' table row, and 'foundation' (risk framework) mentions were treated as traps or non-activities. The planned Brex acquisition (agreement signed January 22, 2026) is a planned activity and was not scored.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"COF\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Internal learning and development team delivering online and classroom training to associates across the company\",\"quote\":\"Our internal enterprise learning and development team blends multiple approaches to learning to support associate development across lines of business, levels and roles, including online and live classroom training.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Hiring, Developing and Retaining\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Leadership development courses, cohort-based programs and coaching open to all associates\",\"quote\":\"We also focus on cultivating talent with leadership development courses, cohort-based programs, network building and coaching, open to all associates.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Hiring, Developing and Retaining\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Investments in entities (community development entities) that provide capital to low-income and rural communities\",\"quote\":\"Includes amounts related to entities that provide capital to low-income and rural communities of $2.1 billion, $2.0 billion and $1.8 billion in 2025, 2024 and 2023, respectively.\",\"source_doc\":\"10-K\",\"section\":\"Item 7 (targeted) > table footnote (5)\",\"status\":\"current\",\"indicators\":\"$2.1 billion\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, but disclosed only as a table footnote with no program, reach or context, so limited\"}}},{\"id\":\"E4\",\"activity\":\"Deposit gathering and lending for small businesses within Consumer Banking\",\"quote\":\"Consists of our deposit gathering and lending activities for consumers and small businesses, national auto lending and services offered by the Global Payment Network.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Operations and Business Segments\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: ordinary small-business deposits and lending, no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers credit cards, banking and payment networks and shows no creative activity (copyright/IP protection is not creative work).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: substantive employee development plus a community development investment disclosed only as an uncontextualized footnote figure, so torn between 2 and 3 and the lower level is chosen.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language (recruiting 'talent from all backgrounds', a pay equity philosophy) with no specific employee networks, accessibility or multilingual programs described, although the Human Capital section is well over 150 words.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: small-business card lending, deposits and loans are ordinary serving activities with no named enabling program.\"}},\"notes\":\"The Item 7 excerpts are fragmentary. E3's footnote ($2.1 billion related to entities providing capital to low-income and rural communities) appears in an unidentified table that also reports related interest expense, so its nature (investment vs. consolidated funding) is unclear. The glossary defines Investor Entities as those investing in CDEs that 'provide debt financing to businesses and non-profit entities in low-income and rural communities' and mentions a Community Benefits Plan (CBP) without detail. This was treated as the same activity as E3 and not counted separately. It was not credited as an Entrepreneurship 'enabling' program or a Cross-cultural 'customer access' activity because no named program, reach or description is given; when torn, the lower level was chosen. A human reviewer may wish to check the full MD&A tables. Educational assistance and competitive parental leave benefits are mentioned but are generic. 'Community Reinvestment Act', 'Government & Education' table row, and 'foundation' (risk framework) mentions were treated as traps or non-activities. The planned Brex acquisition (agreement signed January 22, 2026) is a planned activity and was not scored.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 35150,
+      "output_tokens": 4101,
+      "duration_ms": 38781
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "ticker": "ADBE",
+  "company_name": "Adobe Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000796343-26-000003",
+  "filing_date": "2026-01-15",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T15:45:44",
+  "prompt_chars": 85847,
+  "filing_chars": 65842,
+  "filing_words_sent": 9315,
+  "approx_prompt_tokens": 21461,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sells Creative Cloud Pro, a subscription suite of creative apps (Photoshop, Illustrator, Premiere Pro, After Effects and others) for creative professionals and enthusiasts",
+        "quote": "Adobe Creative Cloud Pro is a cloud-based subscription to an ecosystem of apps that enables creative professionals and enthusiasts alike to express themselves and collaborate with apps and services for photography, design, video, social media, and more that connect across surfaces, platforms and geographies.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Principal Solutions > Creative & Marketing Professionals > Adobe Creative Cloud Pro",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 5: creative software that enables others' creative work is the company's core offering"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Runs Adobe Stock, a library of licensed creative assets (photos, illustrations, video, audio, 3D) built into its apps",
+        "quote": "Adobe Stock provides designers and businesses with access to millions of high-quality, curated, royalty-free photos, vectors, illustrations, videos, templates, audio and 3D assets, for all their creative projects.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Principal Solutions > Creative & Marketing Professionals > Adobe Stock",
+        "status": "current",
+        "indicators": "millions",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "enables creative work by licensing creative assets for others' creative projects"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Offers Adobe Express, an AI content creation app for users of any skill level, including novice creators",
+        "quote": "Adobe Express is our all-in-one AI content creation app for users of any level, such as novice content creators and communicators, to easily create video, marketing, and social content.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Principal Solutions > Business Professionals & Consumers > Adobe Express",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "creative tool that lets novice and general users create visual and video content"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Offers Firefly Custom Models that artists can train on their own assets to generate content in their own style",
+        "quote": "Firefly Custom Models enable quick content creation that is on-brand or in an artists’ own aesthetic style through Firefly generative AI image models that are trained with an enterprise’s brand content or an artist’s own person assets.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Principal Solutions > Creative & Marketing Professionals > Adobe Firefly Custom Models",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "tool that directly supports artists working in their own style"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Digital Media segment customers include solopreneurs and small business owners",
+        "quote": "Our customers span creative professionals, including graphic designers, photographers, videographers, illustrators and 3D artists; creators, including social media influencers and solopreneurs; business professionals, including social media teams, small business owners and knowledge workers; and consumers.",
+        "source_doc": "10-K",
+        "section": "Item 7 > Digital Media",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business and solopreneur customers with no specific enabling program described"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Learning Fund that pays employees toward university and short-term learning",
+        "quote": "Through Adobe’s Learning Fund, employees are eligible to receive up to $11,000 per year toward university and short-term learning opportunities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Growth and Development",
+        "status": "current",
+        "indicators": "$11,000 per year",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Employee Networks and community-building forums for employees",
+        "quote": "We also strive to build community by bringing together our employees through onsite events, discussion groups, messaging forums and our Employee Networks as we believe that a sense of belonging contributes to our employees’ overall wellbeing.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Compensation, Benefits and Wellbeing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 5,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 5: selling tools that enable others' creative work (Creative Cloud, Express, Stock, Firefly) is the core business described throughout Item 1."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 2: the only qualifying activity is employee development (Learning Fund), so the score is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7"
+        ],
+        "reason": "Level 2: the filing describes Employee Networks but gives no membership or reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 1: solopreneurs and small business owners are named as customers, but no specific enabling program for founders is described."
+      }
+    },
+    "notes": "Creativity was scored 5 because the filing presents creative tools as the core business. Acrobat (document productivity) and the Digital Experience segment (marketing and data) are large non-creative parts of the business, and no segment revenue split was provided. Without revenue figures, someone could argue for 4. Digital Learning Solutions (free and fee-based training and certifications on Adobe products) was treated as customer product training, not external education. Adobe Research's 'collaboration with universities' is a research partnership and was not counted. 'Charitable contributions' appears only as a G&A expense line with no program or amount. Adobe Ventures is corporate venture capital described as strategic investment, so it was not counted as an enabling program. 'Adobe for All' is a cultural label, and the Employee Networks are not described by purpose or membership. 'Accessible entry points' (freemium pricing) and international field offices were not counted for Cross-cultural. A board seat at StoryCorps and the Fine Arts Museums of San Francisco is an executive's personal activity, not company activity. Segments will be combined into one starting in fiscal 2026. All quotes use the filing's curly apostrophes.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ADBE\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sells Creative Cloud Pro, a subscription suite of creative apps (Photoshop, Illustrator, Premiere Pro, After Effects and others) for creative professionals and enthusiasts\",\"quote\":\"Adobe Creative Cloud Pro is a cloud-based subscription to an ecosystem of apps that enables creative professionals and enthusiasts alike to express themselves and collaborate with apps and services for photography, design, video, social media, and more that connect across surfaces, platforms and geographies.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Principal Solutions > Creative & Marketing Professionals > Adobe Creative Cloud Pro\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 5: creative software that enables others' creative work is the company's core offering\"}}},{\"id\":\"E2\",\"activity\":\"Runs Adobe Stock, a library of licensed creative assets (photos, illustrations, video, audio, 3D) built into its apps\",\"quote\":\"Adobe Stock provides designers and businesses with access to millions of high-quality, curated, royalty-free photos, vectors, illustrations, videos, templates, audio and 3D assets, for all their creative projects.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Principal Solutions > Creative & Marketing Professionals > Adobe Stock\",\"status\":\"current\",\"indicators\":\"millions\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"enables creative work by licensing creative assets for others' creative projects\"}}},{\"id\":\"E3\",\"activity\":\"Offers Adobe Express, an AI content creation app for users of any skill level, including novice creators\",\"quote\":\"Adobe Express is our all-in-one AI content creation app for users of any level, such as novice content creators and communicators, to easily create video, marketing, and social content.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Principal Solutions > Business Professionals & Consumers > Adobe Express\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"creative tool that lets novice and general users create visual and video content\"}}},{\"id\":\"E4\",\"activity\":\"Offers Firefly Custom Models that artists can train on their own assets to generate content in their own style\",\"quote\":\"Firefly Custom Models enable quick content creation that is on-brand or in an artists’ own aesthetic style through Firefly generative AI image models that are trained with an enterprise’s brand content or an artist’s own person assets.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Principal Solutions > Creative & Marketing Professionals > Adobe Firefly Custom Models\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"tool that directly supports artists working in their own style\"}}},{\"id\":\"E5\",\"activity\":\"Digital Media segment customers include solopreneurs and small business owners\",\"quote\":\"Our customers span creative professionals, including graphic designers, photographers, videographers, illustrators and 3D artists; creators, including social media influencers and solopreneurs; business professionals, including social media teams, small business owners and knowledge workers; and consumers.\",\"source_doc\":\"10-K\",\"section\":\"Item 7 > Digital Media\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business and solopreneur customers with no specific enabling program described\"}}},{\"id\":\"E6\",\"activity\":\"Learning Fund that pays employees toward university and short-term learning\",\"quote\":\"Through Adobe’s Learning Fund, employees are eligible to receive up to $11,000 per year toward university and short-term learning opportunities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Growth and Development\",\"status\":\"current\",\"indicators\":\"$11,000 per year\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E7\",\"activity\":\"Employee Networks and community-building forums for employees\",\"quote\":\"We also strive to build community by bringing together our employees through onsite events, discussion groups, messaging forums and our Employee Networks as we believe that a sense of belonging contributes to our employees’ overall wellbeing.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Compensation, Benefits and Wellbeing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}}],\"themes\":{\"creativity\":{\"score\":5,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 5: selling tools that enable others' creative work (Creative Cloud, Express, Stock, Firefly) is the core business described throughout Item 1.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 2: the only qualifying activity is employee development (Learning Fund), so the score is capped at 2.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\"],\"reason\":\"Level 2: the filing describes Employee Networks but gives no membership or reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 1: solopreneurs and small business owners are named as customers, but no specific enabling program for founders is described.\"}},\"notes\":\"Creativity was scored 5 because the filing presents creative tools as the core business. Acrobat (document productivity) and the Digital Experience segment (marketing and data) are large non-creative parts of the business, and no segment revenue split was provided. Without revenue figures, someone could argue for 4. Digital Learning Solutions (free and fee-based training and certifications on Adobe products) was treated as customer product training, not external education. Adobe Research's 'collaboration with universities' is a research partnership and was not counted. 'Charitable contributions' appears only as a G&A expense line with no program or amount. Adobe Ventures is corporate venture capital described as strategic investment, so it was not counted as an enabling program. 'Adobe for All' is a cultural label, and the Employee Networks are not described by purpose or membership. 'Accessible entry points' (freemium pricing) and international field offices were not counted for Cross-cultural. A board seat at StoryCorps and the Fine Arts Museums of San Francisco is an executive's personal activity, not company activity. Segments will be combined into one starting in fiscal 2026. All quotes use the filing's curly apostrophes.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 28547,
+      "output_tokens": 7466,
+      "duration_ms": 68937
+    }
+  ]
+}

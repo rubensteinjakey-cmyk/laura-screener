@@ -1,0 +1,85 @@
+{
+  "ticker": "MATX",
+  "company_name": "Matson, Inc.",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001104659-26-020944",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T15:43:31",
+  "prompt_chars": 61731,
+  "filing_chars": 41735,
+  "filing_words_sent": 6131,
+  "approx_prompt_tokens": 15432,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee training, professional development and tuition reimbursement programs for Matson staff",
+        "quote": "The Company also provided nearly 4,500 hours of employee training and professional development training, and tuition reimbursement programs, while giving annual performance reviews to its non-union workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > C. Employees and Labor Relations > Succession and Career Planning",
+        "status": "current",
+        "indicators": "nearly 4,500 hours",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers ocean transportation and logistics in detail and shows no creative activity ('state-of-the-art' and vessel 'design' are traps)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only specific activity is employee development (training hours and tuition reimbursement), so the employee-development cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language (a diverse workforce that reflects local communities, equal employment opportunity and merit-based hiring statements) with no specific inclusion activity, and international routes and offices do not count."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description shows no service or program enabling founders or small businesses ('joint venture' and 'Matson Ventures' are traps)."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. The human capital section refers readers to the Sustainability Report for more detail. However, it describes specific activities itself (training hours, tuition reimbursement, internal promotion), so Community and Cross-cultural are marked sufficient and no second look is triggered. Several items were not scored as activities because they are claims or lack any specific program: the vision bullet 'Improving the communities in which we work and live' is a mission statement; the focus on 'driving greater awareness of and interest in careers in the maritime and logistics sectors' names no program; and the AMP membership is policy advocacy. The 53 percent internal fill rate is part of the same employee-development activity as E1 and is not counted separately.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"MATX\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee training, professional development and tuition reimbursement programs for Matson staff\",\"quote\":\"The Company also provided nearly 4,500 hours of employee training and professional development training, and tuition reimbursement programs, while giving annual performance reviews to its non-union workforce.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > C. Employees and Labor Relations > Succession and Career Planning\",\"status\":\"current\",\"indicators\":\"nearly 4,500 hours\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers ocean transportation and logistics in detail and shows no creative activity ('state-of-the-art' and vessel 'design' are traps).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only specific activity is employee development (training hours and tuition reimbursement), so the employee-development cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language (a diverse workforce that reflects local communities, equal employment opportunity and merit-based hiring statements) with no specific inclusion activity, and international routes and offices do not count.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description shows no service or program enabling founders or small businesses ('joint venture' and 'Matson Ventures' are traps).\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. The human capital section refers readers to the Sustainability Report for more detail. However, it describes specific activities itself (training hours, tuition reimbursement, internal promotion), so Community and Cross-cultural are marked sufficient and no second look is triggered. Several items were not scored as activities because they are claims or lack any specific program: the vision bullet 'Improving the communities in which we work and live' is a mission statement; the focus on 'driving greater awareness of and interest in careers in the maritime and logistics sectors' names no program; and the AMP membership is policy advocacy. The 53 percent internal fill rate is part of the same employee-development activity as E1 and is not counted separately.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 22810,
+      "output_tokens": 1905,
+      "duration_ms": 18918
+    }
+  ]
+}

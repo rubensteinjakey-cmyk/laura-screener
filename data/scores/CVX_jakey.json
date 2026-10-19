@@ -1,0 +1,102 @@
+{
+  "ticker": "CVX",
+  "company_name": "Chevron Corporation",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000093410-26-000078",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T15:47:17",
+  "prompt_chars": 100862,
+  "filing_chars": 80865,
+  "filing_words_sent": 12388,
+  "approx_prompt_tokens": 25215,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Discloses workforce headcount by sex and region",
+        "quote": "The following table summarizes the number of Chevron employees by sex, where data is available, and by region as of December 31, 2025.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "12,438 female; 30,013 male; 43,039 total employees",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Corporate venture unit (Chevron Technology Ventures) invests in early-stage startups to bring external technology into Chevron",
+        "quote": "CTV has more than 26 years of being the primary on-ramp for early-stage, external innovation into Chevron, including venture investing, with 10 funds that have supported more than 140 startups.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Other Businesses > Technology, Projects and Execution (TPE)",
+        "status": "current",
+        "indicators": "more than 26 years; 10 funds; more than 140 startups",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: the company's own innovation pipeline (strategic corporate venture investing), not a program aimed at founders' barriers"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers oil, gas, refining, chemicals, renewable fuels and new energies in detail and shows no creative activity. 'Design' refers only to engineering and facilities."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the roughly 290-word human capital section offers only general language about investing in people and culture and helping employees develop their full potential. It names no training program, external education or community investment, and the university collaboration is R&D, not education."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the filing gives only workforce demographics by sex and region plus a general statement about fostering an inclusive work environment, with no specific practice, network, or customer-access program."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: the CTV startup investing is described as the on-ramp for external innovation into Chevron, so it counts as the company's own innovation, and there is no enabling program aimed at founders' or small businesses' barriers."
+      }
+    },
+    "notes": "CTV venture investing (10 funds, more than 140 startups) was weighed as possible 'enabling' financing for founders. The filing frames it as strategic sourcing of technology for Chevron's own operations, so the lower level (own_innovation, 1) was chosen under the when-torn rule. Branded service stations supplied through retailers and marketers count as serving business customers only. 'Communities' in the Item 7 excerpt refers to climate-policy stakeholders and is not a qualifying activity. The Worldwide Emergency Response Team training is operational readiness training, not employee development. Human capital discussion exceeds 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Implied final score: 0 + 6 + 4 + 3 = 13/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "```json\n{\n  \"ticker\": \"CVX\",\n  \"sector\": \"Energy\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Item 1\", \"Item 7 (targeted)\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Discloses workforce headcount by sex and region\",\n      \"quote\": \"The following table summarizes the number of Chevron employees by sex, where data is available, and by region as of December 31, 2025.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Human Capital Management\",\n      \"status\": \"current\",\n      \"indicators\": \"12,438 female; 30,013 male; 43,039 total employees\",\n      \"themes\": {\n        \"cross_cultural\": {\n          \"kind\": \"demographics_only\",\n          \"criterion\": \"level 1: demographic statistics only\"\n        }\n      }\n    },\n    {\n      \"id\": \"E2\",\n      \"activity\": \"Corporate venture unit (Chevron Technology Ventures) invests in early-stage startups to bring external technology into Chevron\",\n      \"quote\": \"CTV has more than 26 years of being the primary on-ramp for early-stage, external innovation into Chevron, including venture investing, with 10 funds that have supported more than 140 startups.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Other Businesses > Technology, Projects and Execution (TPE)\",\n      \"status\": \"current\",\n      \"indicators\": \"more than 26 years; 10 funds; more than 140 startups\",\n      \"themes\": {\n        \"entrepreneurship\": {\n          \"kind\": \"own_innovation\",\n          \"criterion\": \"level 1: the company's own innovation pipeline (strategic corporate venture investing), not a program aimed at founders' barriers\"\n        }\n      }\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\n      \"score\": 0,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 0: the business description covers oil, gas, refining, chemicals, renewable fuels and new energies in detail and shows no creative activity. 'Design' refers only to engineering and facilities.\"\n    },\n    \"community\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 1: the roughly 290-word human capital section offers only general language about investing in people and culture and helping employees develop their full potential. It names no training program, external education or community investment, and the university collaboration is R&D, not education.\"\n    },\n    \"cross_cultural\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [\"E1\"],\n      \"reason\": \"Level 1: the filing gives only workforce demographics by sex and region plus a general statement about fostering an inclusive work environment, with no specific practice, network, or customer-access program.\"\n    },\n    \"entrepreneurship\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [\"E2\"],\n      \"reason\": \"Level 1: the CTV startup investing is described as the on-ramp for external innovation into Chevron, so it counts as the company's own innovation, and there is no enabling program aimed at founders' or small businesses' barriers.\"\n    }\n  },\n  \"notes\": \"CTV venture investing (10 funds, more than 140 startups) was weighed as possible 'enabling' financing for founders. The filing frames it as strategic sourcing of technology for Chevron's own operations, so the lower level (own_innovation, 1) was chosen under the when-torn rule. Branded service stations supplied through retailers and marketers count as serving business customers only. 'Communities' in the Item 7 excerpt refers to climate-policy stakeholders and is not a qualifying activity. The Worldwide Emergency Response Team training is operational readiness training, not employee development. Human capital discussion exceeds 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Implied final score: 0 + 6 + 4 + 3 = 13/100.\"\n}\n```",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 36960,
+      "output_tokens": 2777,
+      "duration_ms": 25778
+    }
+  ]
+}

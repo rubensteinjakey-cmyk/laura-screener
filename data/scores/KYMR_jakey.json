@@ -1,0 +1,85 @@
+{
+  "ticker": "KYMR",
+  "company_name": "Kymera Therapeutics, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-073395",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T15:42:31",
+  "prompt_chars": 151614,
+  "filing_chars": 131605,
+  "filing_words_sent": 19541,
+  "approx_prompt_tokens": 37903,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Development support for the company's own employees, including individual plans, mentoring, coaching, group training, conferences and tuition reimbursement",
+        "quote": "We support our employees’ further development with individualized development plans, mentoring, coaching, group training, conference attendance and financial support including tuition reimbursement.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers only small-molecule drug discovery, so it shows no creative activity; 'design' (drug design) and 'licensing' (drug license agreements with Sanofi and Gilead) are excluded traps."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only disclosed activity is specific current employee development (mentoring, training, tuition reimbursement), so the employee-development cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the Employees and Human Capital section (more than 150 words) describes compensation, benefits and development but no qualifying inclusion, accessibility or community-connecting activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own drug-discovery innovation, with no service or program that enables founders or small businesses."
+      }
+    },
+    "notes": "Item 7 excerpt mentions only 'the medical community' (an excluded trap). Item 1 mentions 'small business' only in the context of an FDA user-fee waiver (excluded trap). 'Collaboration' and 'partnership' language refers to drug licensing deals with Sanofi and Gilead (excluded trap). References to an 'underserved patient population' concern medical treatment gaps, not cultural or access barriers, so they were not scored under Cross-cultural. Entrepreneurship was scored 1 on the literal ladder wording ('company's own innovation'); a reviewer may prefer 0 because 'innovation' is listed as a trap. Sanofi stopped development of KT-474, which is noted as past and does not affect any theme.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"KYMR\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Development support for the company's own employees, including individual plans, mentoring, coaching, group training, conferences and tuition reimbursement\",\"quote\":\"We support our employees’ further development with individualized development plans, mentoring, coaching, group training, conference attendance and financial support including tuition reimbursement.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers only small-molecule drug discovery, so it shows no creative activity; 'design' (drug design) and 'licensing' (drug license agreements with Sanofi and Gilead) are excluded traps.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only disclosed activity is specific current employee development (mentoring, training, tuition reimbursement), so the employee-development cap of 2 applies.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the Employees and Human Capital section (more than 150 words) describes compensation, benefits and development but no qualifying inclusion, accessibility or community-connecting activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own drug-discovery innovation, with no service or program that enables founders or small businesses.\"}},\"notes\":\"Item 7 excerpt mentions only 'the medical community' (an excluded trap). Item 1 mentions 'small business' only in the context of an FDA user-fee waiver (excluded trap). 'Collaboration' and 'partnership' language refers to drug licensing deals with Sanofi and Gilead (excluded trap). References to an 'underserved patient population' concern medical treatment gaps, not cultural or access barriers, so they were not scored under Cross-cultural. Entrepreneurship was scored 1 on the literal ladder wording ('company's own innovation'); a reviewer may prefer 0 because 'innovation' is listed as a trap. Sanofi stopped development of KT-474, which is noted as past and does not affect any theme.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 48931,
+      "output_tokens": 1964,
+      "duration_ms": 19612
+    }
+  ]
+}

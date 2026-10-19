@@ -1,0 +1,167 @@
+{
+  "ticker": "CI",
+  "company_name": "Cigna",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001739940-26-000006",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T15:46:50",
+  "prompt_chars": 112426,
+  "filing_chars": 92439,
+  "filing_words_sent": 13031,
+  "approx_prompt_tokens": 28106,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Online learning platform and career development tools offering training and development to all employees",
+        "quote": "Our online learning platform and career development tools, including a career portal and career planning tool, offer a broad range of training, education and development resources to all employees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Acquisition, Development and Retention",
+        "status": "current",
+        "indicators": "45 hours of learning on average per employee",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Education reimbursement program for full-time and part-time employees",
+        "quote": "The Cigna Group also offers an education reimbursement program for both full-time and part-time employees who meet the continuing education criteria.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Acquisition, Development and Retention",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Charitable giving and employee volunteerism in operating communities",
+        "quote": "We also give back through charitable giving and volunteerism in communities where we operate around the world.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Corporate Impact and Sustainability > Healthy Society",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 1: general statement of giving and volunteering with no program, participants or dollars disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Pay equity practices: role benchmarking, no salary-history questions in hiring, and monitoring for pay disparities across gender and underrepresented groups",
+        "quote": "Our compensation practices, rooted in our pay-for-performance philosophy, promote fair and competitive pay through measures such as benchmarking compensation by role, eliminating inquiries regarding applicants' compensation history from the hiring process and monitoring for potential disparities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Acquisition, Development and Retention",
+        "status": "current",
+        "indicators": "more than 99 cents",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal practice, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Workforce demographic disclosure",
+        "quote": "At year-end 2025, our global workforce was approximately 69% women and 31% men, and about 40% of our U.S. employees identified as ethnic minorities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "69% women, 31% men, 40% of U.S. employees ethnic minorities",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Health benefits sold to small employers as a market segment",
+        "quote": "Small. Employers with 2 to 50 eligible employees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Cigna Healthcare > Market Segments",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers pharmacy benefits, health insurance and care services and shows no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: the specific activities are employee development (learning platform, education reimbursement), so the cap of 2 applies; charitable giving and volunteering is general language with no figures."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: a specific current internal pay-equity practice aimed at disparities for women and underrepresented groups, limited in reach, plus demographic disclosure."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: small-employer customers are served with standard health benefits, and there is no specific enabling program for founders or small businesses."
+      }
+    },
+    "notes": "Item 7 excerpts contain only mission language and a reference to charitable contributions booked in Corporate, with no programs or figures. The Medicare Advantage and related businesses were sold to HCSC in March 2025 and are treated as past. The rebate-free pharmacy model is planned for 2027-2028 and is not relevant to any theme. 'Commitment to health equity' and 'reviewing coverage policies for health equity' are general language with no described practice, so they were not scored. Indicative total: 0 + 12 + 8 + 3 = 23/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"CI\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Online learning platform and career development tools offering training and development to all employees\",\"quote\":\"Our online learning platform and career development tools, including a career portal and career planning tool, offer a broad range of training, education and development resources to all employees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Acquisition, Development and Retention\",\"status\":\"current\",\"indicators\":\"45 hours of learning on average per employee\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Education reimbursement program for full-time and part-time employees\",\"quote\":\"The Cigna Group also offers an education reimbursement program for both full-time and part-time employees who meet the continuing education criteria.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Acquisition, Development and Retention\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Charitable giving and employee volunteerism in operating communities\",\"quote\":\"We also give back through charitable giving and volunteerism in communities where we operate around the world.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Corporate Impact and Sustainability > Healthy Society\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 1: general statement of giving and volunteering with no program, participants or dollars disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Pay equity practices: role benchmarking, no salary-history questions in hiring, and monitoring for pay disparities across gender and underrepresented groups\",\"quote\":\"Our compensation practices, rooted in our pay-for-performance philosophy, promote fair and competitive pay through measures such as benchmarking compensation by role, eliminating inquiries regarding applicants' compensation history from the hiring process and monitoring for potential disparities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Acquisition, Development and Retention\",\"status\":\"current\",\"indicators\":\"more than 99 cents\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal practice, limited in reach\"}}},{\"id\":\"E5\",\"activity\":\"Workforce demographic disclosure\",\"quote\":\"At year-end 2025, our global workforce was approximately 69% women and 31% men, and about 40% of our U.S. employees identified as ethnic minorities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"69% women, 31% men, 40% of U.S. employees ethnic minorities\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E6\",\"activity\":\"Health benefits sold to small employers as a market segment\",\"quote\":\"Small. Employers with 2 to 50 eligible employees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Cigna Healthcare > Market Segments\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers pharmacy benefits, health insurance and care services and shows no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: the specific activities are employee development (learning platform, education reimbursement), so the cap of 2 applies; charitable giving and volunteering is general language with no figures.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\",\"E5\"],\"reason\":\"Level 2: a specific current internal pay-equity practice aimed at disparities for women and underrepresented groups, limited in reach, plus demographic disclosure.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: small-employer customers are served with standard health benefits, and there is no specific enabling program for founders or small businesses.\"}},\"notes\":\"Item 7 excerpts contain only mission language and a reference to charitable contributions booked in Corporate, with no programs or figures. The Medicare Advantage and related businesses were sold to HCSC in March 2025 and are treated as past. The rebate-free pharmacy model is planned for 2027-2028 and is not relevant to any theme. 'Commitment to health equity' and 'reviewing coverage policies for health equity' are general language with no described practice, so they were not scored. Indicative total: 0 + 12 + 8 + 3 = 23/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 35796,
+      "output_tokens": 3844,
+      "duration_ms": 34550
+    }
+  ]
+}
