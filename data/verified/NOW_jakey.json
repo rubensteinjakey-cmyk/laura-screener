@@ -1,0 +1,133 @@
+{
+  "ticker": "NOW",
+  "company_name": "ServiceNow",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-01-29",
+  "fiscal_year": 2025,
+  "accession_number": "0001373715-26-000007",
+  "scored_at": "2026-10-19T01:42:29",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business is enterprise workflow and AI software, and its 'Creator' products are low-code tools for building business applications rather than creative work.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "external_education"
+      ],
+      "reason": "Level 2: ServiceNow University and RiseUp with ServiceNow are specific current external education programs, but the filing discloses no participant, dollar or other reach figures, so level 3 is not met.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests only on general language, namely a value about making everyone feel they belong and a belonging measure in the employee survey, with no specific inclusion practice, network or access program described.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests only on the company's own innovation (R&D, Now Next AI co-building) and enterprise customers, with no enabling service for founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 19.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "ServiceNow University, a free AI-powered learning hub open to employees, customers, partners and individuals across the ecosystem",
+      "quote": "It is free and available to organizations and individuals throughout the entire ServiceNow ecosystem—employees, customers and partners.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Learning and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific current external education program (free learning hub open to non-employees), reach not quantified"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "RiseUp with ServiceNow upskilling initiative giving people without traditional technology backgrounds training and opportunities to pursue technology careers",
+      "quote": "ServiceNow University also supports our upskilling initiative, RiseUp with ServiceNow, which provides training and opportunities for individuals without traditional technology backgrounds to pursue technology careers and helps address talent needs across our ecosystem.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Learning and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: named external skills program for people outside the company, no participant or dollar figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Creativity traps excluded: 'Creator and Other' and App Engine are low-code enterprise app development, not artistic creation. 'Design' in professional services means implementation and architecture. 'Tell meaningful talent stories' is HR data language. Marketing brand campaigns are not scored. Cross-cultural: Now Assist for FSM mentions 'multilingual knowledge creation', and a customer case cites a portal in 'more than 10 languages'. These are incidental product features or a customer's own deployment rather than an access program, so I left them unscored at the lower level. 'Accessible to users with varying technical expertise' and WSD 'accessible work environments' are not inclusion activities. RiseUp's focus on people 'without traditional technology backgrounds' does not explicitly target underrepresented cultural or demographic groups, so it is counted for Community only. Community exclusions: customer support online training, the Knowledge user conference and the World Forums are customer education and marketing. The EVS and total rewards are employee programs, but they add nothing above E1 and E2. ServiceNow University launched in 2025 and is current. Coverage: the human capital section is over 150 words, so Community and Cross-cultural are marked sufficient and no second look is triggered. The targeted Item 7 excerpt repeats the business overview and adds no qualifying activity.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 455,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

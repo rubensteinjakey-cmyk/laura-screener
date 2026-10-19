@@ -1,0 +1,118 @@
+{
+  "ticker": "CHE",
+  "company_name": "Chemed Corp.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001562762-26-000020",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:48:05",
+  "prompt_chars": 86394,
+  "filing_chars": 66399,
+  "filing_words_sent": 9904,
+  "approx_prompt_tokens": 21598,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Roto-Rooter safety training program deployed to all field employees",
+        "quote": "Its “Safety Certified Program” is deployed to all field employees, including supervisors, managers, and sales personnel.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Workforce Safety and Training",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "VITAS learning management system that trains employees on clinical, leadership and other topics",
+        "quote": "VITAS employs a learning management system to deploy and track training provided to its employees on a regular basis, across a range of topics in addition to the safety ones discussed above, including clinical areas, processes, functional areas, leadership topics, human resources topics (including diversity) and regulatory compliance (including HIPAA).",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Workforce Safety and Training",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Roto-Rooter brand marketed to and used by independent franchisees",
+        "quote": "The Company considers the Roto-Rooter marks to be a valuable asset and a significant factor in the marketing of Roto-Rooter’s franchises, products and services and the products and services provided by its franchises.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Patents, Service Marks and Licenses",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: franchisee small-business relationships with no described enabling service or support"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers hospice care and plumbing services and shows no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: the filing describes only employee development (safety and role training), so the score is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1 rests on general language alone: the Diversity discussion is a general statement of valuing a diverse workforce, with diversity mentioned only as a training topic. Coverage is insufficient under condition 2, because the relevant discussion is under about 150 words."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: Roto-Rooter has franchisee relationships but the filing describes no specific enabling service, support program or reach for franchisees, so I chose the lower level."
+      }
+    },
+    "notes": "Item 7 (targeted) excerpt was empty. VITAS 'Difference Maker Program' (stay bonuses, over $39.2 million paid) is described as a past retention program, not development, so it was not scored. Volunteer recruitment and training appears only as a description of Medicare Conditions of Participation requirements, not as a described VITAS program, so it was not counted as external education. Roto-Rooter is acquiring franchises: one in 2025 and three in 2024. That consolidation suggests the franchise system is shrinking rather than being expanded as an enabling program. The Human Rights Policy and SASB index are referenced on chemed.com. Cross-cultural is insufficient, so this company triggers the automated sustainability-report second look.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"CHE\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Roto-Rooter safety training program deployed to all field employees\",\"quote\":\"Its “Safety Certified Program” is deployed to all field employees, including supervisors, managers, and sales personnel.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Workforce Safety and Training\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"VITAS learning management system that trains employees on clinical, leadership and other topics\",\"quote\":\"VITAS employs a learning management system to deploy and track training provided to its employees on a regular basis, across a range of topics in addition to the safety ones discussed above, including clinical areas, processes, functional areas, leadership topics, human resources topics (including diversity) and regulatory compliance (including HIPAA).\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Workforce Safety and Training\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Roto-Rooter brand marketed to and used by independent franchisees\",\"quote\":\"The Company considers the Roto-Rooter marks to be a valuable asset and a significant factor in the marketing of Roto-Rooter’s franchises, products and services and the products and services provided by its franchises.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Patents, Service Marks and Licenses\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: franchisee small-business relationships with no described enabling service or support\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers hospice care and plumbing services and shows no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: the filing describes only employee development (safety and role training), so the score is capped at 2.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1 rests on general language alone: the Diversity discussion is a general statement of valuing a diverse workforce, with diversity mentioned only as a training topic. Coverage is insufficient under condition 2, because the relevant discussion is under about 150 words.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: Roto-Rooter has franchisee relationships but the filing describes no specific enabling service, support program or reach for franchisees, so I chose the lower level.\"}},\"notes\":\"Item 7 (targeted) excerpt was empty. VITAS 'Difference Maker Program' (stay bonuses, over $39.2 million paid) is described as a past retention program, not development, so it was not scored. Volunteer recruitment and training appears only as a description of Medicare Conditions of Participation requirements, not as a described VITAS program, so it was not counted as external education. Roto-Rooter is acquiring franchises: one in 2025 and three in 2024. That consolidation suggests the franchise system is shrinking rather than being expanded as an enabling program. The Human Rights Policy and SASB index are referenced on chemed.com. Cross-cultural is insufficient, so this company triggers the automated sustainability-report second look.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 28278,
+      "output_tokens": 4914,
+      "duration_ms": 47750
+    }
+  ]
+}

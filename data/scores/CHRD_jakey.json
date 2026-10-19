@@ -1,0 +1,101 @@
+{
+  "ticker": "CHRD",
+  "company_name": "Chord Energy",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001486159-26-000005",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:50:11",
+  "prompt_chars": 114498,
+  "filing_chars": 94507,
+  "filing_words_sent": 14139,
+  "approx_prompt_tokens": 28624,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Learning and development programs for employees, including leadership, professional competency, safety and IT training",
+        "quote": "We provide our employees with programs that support their learning and development, which are designed to build and strengthen employees’ abilities, including leadership trainings, development of professional competencies, safety trainings and information and technology trainings.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Training, development and career opportunities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Sponsors local technical training programs, engineering scholarships, and educational programs such as OneGoal and Junior Achievement, plus other charitable projects",
+        "quote": "Our charitable initiatives include sponsoring technical training programs in our local communities, engineering scholarships, environmental and wildlife rehabilitation programs, Habitat for Humanity projects, mental health programs, and educational programs like OneGoal and Junior Achievement.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Community Involvement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education and charitable activity, limited or unmeasured reach"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers only oil, NGL and natural gas exploration and production, with no creative activity (the reference to a 'more creative, innovative' organization is generic workforce language, not creative work)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: specific current employee development plus sponsored external education programs (technical training, engineering scholarships, OneGoal, Junior Achievement), with no participant numbers or dollars disclosed to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only, namely 'diversity of thought' statements, equal-opportunity boilerplate and standard reasonable-accommodation language, with no specific inclusion program, network or customer-access activity described."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes no service, program or tool enabling founders or small businesses; 'culture of innovation' is a trap term and, when torn between 0 and 1, the lower level applies."
+      }
+    },
+    "notes": "Final score: Creativity 0 (0), Community 2 (12), Cross-cultural 1 (4), Entrepreneurship 0 (0) = 16/100. The 10-K points to its Sustainability Report and website for ESG detail but also describes specific activities itself (Community Involvement, Training, Workforce dynamics sections, each over 150 words), so coverage is sufficient and no second look is triggered. Volunteer time off, employee volunteerism and philanthropy are mentioned without figures and were not scored separately. Field offices in New Town and Mandaree are listed without any described community or cross-cultural program, so they were not counted. Mentions of 'communities' in the mission and safety statements are general language. Safety and Code of Conduct certification training are treated as compliance training. The targeted Item 7 excerpts repeat the mission statement and goodwill accounting text only, and add no qualifying activity.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"CHRD\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Learning and development programs for employees, including leadership, professional competency, safety and IT training\",\"quote\":\"We provide our employees with programs that support their learning and development, which are designed to build and strengthen employees’ abilities, including leadership trainings, development of professional competencies, safety trainings and information and technology trainings.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Training, development and career opportunities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Sponsors local technical training programs, engineering scholarships, and educational programs such as OneGoal and Junior Achievement, plus other charitable projects\",\"quote\":\"Our charitable initiatives include sponsoring technical training programs in our local communities, engineering scholarships, environmental and wildlife rehabilitation programs, Habitat for Humanity projects, mental health programs, and educational programs like OneGoal and Junior Achievement.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Community Involvement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education and charitable activity, limited or unmeasured reach\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers only oil, NGL and natural gas exploration and production, with no creative activity (the reference to a 'more creative, innovative' organization is generic workforce language, not creative work).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: specific current employee development plus sponsored external education programs (technical training, engineering scholarships, OneGoal, Junior Achievement), with no participant numbers or dollars disclosed to show substantial reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only, namely 'diversity of thought' statements, equal-opportunity boilerplate and standard reasonable-accommodation language, with no specific inclusion program, network or customer-access activity described.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes no service, program or tool enabling founders or small businesses; 'culture of innovation' is a trap term and, when torn between 0 and 1, the lower level applies.\"}},\"notes\":\"Final score: Creativity 0 (0), Community 2 (12), Cross-cultural 1 (4), Entrepreneurship 0 (0) = 16/100. The 10-K points to its Sustainability Report and website for ESG detail but also describes specific activities itself (Community Involvement, Training, Workforce dynamics sections, each over 150 words), so coverage is sufficient and no second look is triggered. Volunteer time off, employee volunteerism and philanthropy are mentioned without figures and were not scored separately. Field offices in New Town and Mandaree are listed without any described community or cross-cultural program, so they were not counted. Mentions of 'communities' in the mission and safety statements are general language. Safety and Code of Conduct certification training are treated as compliance training. The targeted Item 7 excerpts repeat the mission statement and goodwill accounting text only, and add no qualifying activity.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 36866,
+      "output_tokens": 3310,
+      "duration_ms": 30782
+    }
+  ]
+}
