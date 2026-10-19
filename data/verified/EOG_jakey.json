@@ -1,0 +1,176 @@
+{
+  "ticker": "EOG",
+  "company_name": "EOG Resources",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "accession_number": "0000821189-26-000054",
+  "scored_at": "2026-10-19T04:46:35",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers only oil and gas exploration and production, and the single mention of 'creativity' is general workforce language rather than creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 2: the filing shows employee development plus a matching gifts program and paid volunteer time with no reach figures, so external reach is limited and level 3 indicators are absent.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: rests only on general language valuing employees' gender, racial, ethnic and cultural backgrounds and on equal-opportunity boilerplate, with no specific networks, accessibility or access programs described.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing describes no small business, founder or creator enabling activity, and the 'innovation' references concern the company's own drilling technology, which is a listed trap.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 16.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Company training for employees in leadership, communication, team effectiveness, technical skills and company systems",
+      "quote": "EOG supports employees' professional development and provides training in leadership, communication, team effectiveness, technical skills and use of EOG systems and applications.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Training and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Tuition reimbursement and professional certification reimbursement for employees",
+      "quote": "EOG also offers its employees a tuition reimbursement program as well as reimbursement for the costs of professional certifications.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Training and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "College recruiting and internship program used to attract talent",
+      "quote": "By providing employees with a quality work environment and maintaining a consistent college recruiting and internship program and experienced talent recruiting program, EOG is able to attract and retain many of the industry's best and brightest.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Culture; Recruiting; Retention",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: talent pipeline and recruiting program, treated as employee development because it is framed as recruiting and retention"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Employee matching gifts program and paid volunteer time",
+      "quote": "EOG also offers a holistic wellness program, a matching gifts program, a flexible work schedule, paid family care leave, paid leave for illness or injury, paid volunteer time and an employee assistance program to support the mental well-being of employees and their dependents.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Compensation, Benefits, Health & Wellness",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community giving and volunteering support, limited reach with no figures disclosed"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 (targeted) excerpt was empty, meaning no MD&A paragraphs matched the theme terms. Safety training for employees and contractors was excluded because it is compliance training. The Human Capital Management section runs well over 150 words, so Community and Cross-cultural are marked sufficient, even though the diversity paragraph alone is short. International operations in Trinidad, Bahrain and the UAE, the use of 'diversified' marketing, references to tribal lands as regulatory matters, and 'design' meaning platform engineering were treated as traps and not scored. Illustrative weighted total: 0 + 12 + 4 + 0 = 16/100.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 513,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

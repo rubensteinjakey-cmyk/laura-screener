@@ -1,0 +1,101 @@
+{
+  "ticker": "PTGX",
+  "company_name": "Protagonist Therapeutics, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001104659-26-019696",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T04:45:32",
+  "prompt_chars": 133629,
+  "filing_chars": 113615,
+  "filing_words_sent": 16422,
+  "approx_prompt_tokens": 33407,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Financially supports continuing education and sponsors, mentors and hosts students in life sciences",
+        "quote": "In addition to financial support of continuing education, we are active sponsors, mentors, and hosts for students seeking to broaden their understanding of life sciences in the interest of advancing human health.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability, Corporate Responsibility and Human Capital Disclosures > Social Responsibility",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity (student mentoring and hosting, continuing-education support), limited reach with no figures or named program"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Training and development programs for employees' leadership and professional skills",
+        "quote": "We also invest in the growth and development of our employees through various training and development programs that help build and strengthen our employees’ leadership and professional skills.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability, Corporate Responsibility and Human Capital Disclosures > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers peptide drug discovery and development only and shows no creative activity; 'molecular design' and 'designed' refer to drug design, which is a trap."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: specific current external education (student mentoring, hosting and continuing-education support) plus employee training, but the filing gives no figures or named program to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests on general language only, namely 'supportive and inclusive workplace' and a Board with 'a wide range of backgrounds', with no specific inclusion or access activity; the Human Capital section is long enough to judge."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes no services, customers or programs for founders or small businesses; references to 'innovation' and 'collaboration agreements' are traps."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. The 'license and collaboration agreements' with JNJ, Takeda and Zealand are licensing deals and were excluded under the Community trap. Patient access through clinical trials and long-term extensions is a healthcare-access statement and does not qualify under the cross-cultural criteria. The employee count split between the United States and Australia is geographic, not an inclusion activity. For Entrepreneurship, the choice was between 0 and 1 (own innovation); the lower level was chosen.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"PTGX\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Financially supports continuing education and sponsors, mentors and hosts students in life sciences\",\"quote\":\"In addition to financial support of continuing education, we are active sponsors, mentors, and hosts for students seeking to broaden their understanding of life sciences in the interest of advancing human health.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sustainability, Corporate Responsibility and Human Capital Disclosures > Social Responsibility\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity (student mentoring and hosting, continuing-education support), limited reach with no figures or named program\"}}},{\"id\":\"E2\",\"activity\":\"Training and development programs for employees' leadership and professional skills\",\"quote\":\"We also invest in the growth and development of our employees through various training and development programs that help build and strengthen our employees’ leadership and professional skills.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sustainability, Corporate Responsibility and Human Capital Disclosures > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers peptide drug discovery and development only and shows no creative activity; 'molecular design' and 'designed' refer to drug design, which is a trap.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: specific current external education (student mentoring, hosting and continuing-education support) plus employee training, but the filing gives no figures or named program to show substantial reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests on general language only, namely 'supportive and inclusive workplace' and a Board with 'a wide range of backgrounds', with no specific inclusion or access activity; the Human Capital section is long enough to judge.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes no services, customers or programs for founders or small businesses; references to 'innovation' and 'collaboration agreements' are traps.\"}},\"notes\":\"The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. The 'license and collaboration agreements' with JNJ, Takeda and Zealand are licensing deals and were excluded under the Community trap. Patient access through clinical trials and long-term extensions is a healthcare-access statement and does not qualify under the cross-cultural criteria. The employee count split between the United States and Australia is geographic, not an inclusion activity. For Entrepreneurship, the choice was between 0 and 1 (own innovation); the lower level was chosen.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 44623,
+      "output_tokens": 1973,
+      "duration_ms": 19726
+    }
+  ]
+}

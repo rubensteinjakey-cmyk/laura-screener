@@ -105,10 +105,21 @@
   ],
   "notes": "The Item 7 (targeted) section provided was empty, so no MD&A paragraphs matched the theme terms. The human capital section is about 115 words. Community and Cross-cultural are marked insufficient, which triggers the automated second look for a company-hosted sustainability report. Several pivotal studies are past or discontinued (DAZZLE was discontinued; GLEAM and GLIMMER missed their endpoints), but none affects theme scoring. The VETi wearable headset's 'identity security' use is a trap term and was not counted. The company has no product revenue, and all candidates are investigational.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 368,
   "score_source": "10-K",
   "report_url": "",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

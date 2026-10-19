@@ -43,16 +43,30 @@
       "coverage_trigger": ""
     },
     "cross_cultural": {
-      "ai_score": 1,
-      "score": 1,
-      "coverage": "insufficient",
-      "evidence_ids": [],
-      "valid_evidence_ids": [],
-      "kinds": [],
-      "reason": "Level 1 on general language only ('making Illumina a place where everyone can belong'); coverage is insufficient under condition 3 because the human capital section points to the Corporate Responsibility Report for further information and gives no specific inclusion or access activities itself.",
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "SL-E2",
+        "SL-E1",
+        "SL-E3",
+        "SL-E4"
+      ],
+      "valid_evidence_ids": [
+        "SL-E2",
+        "SL-E1",
+        "SL-E3",
+        "SL-E4"
+      ],
+      "kinds": [
+        "customer_access",
+        "internal_practice"
+      ],
+      "reason": "Level 3: iHope is a named, current program that removes access barriers for underserved communities, with reach figures (25 clinics across 13 countries, more than 3,000 clinical cases). Internal practices support it: ERGs with no membership figures, a zero net pay gap across gender and ethnicity, and inclusive fertility benefits. Customer or community access is not a major business line with measured reach, so the score does not reach 4.",
       "flags": [],
       "coverage_trigger": "ai",
-      "coverage_reason_ai": "Level 1 on general language only ('making Illumina a place where everyone can belong'); coverage is insufficient under condition 3 because the human capital section points to the Corporate Responsibility Report for further information and gives no specific inclusion or access activities itself."
+      "score_from_10k": 1,
+      "rescored_from_report": true
     },
     "entrepreneurship": {
       "ai_score": 1,
@@ -75,18 +89,23 @@
   "scores": {
     "creativity": 0,
     "community": 2,
-    "cross_cultural": 1,
+    "cross_cultural": 3,
     "entrepreneurship": 1
   },
   "coverage": {
     "creativity": "sufficient",
     "community": "sufficient",
-    "cross_cultural": "insufficient",
+    "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 19.0,
-  "original_10k_scores": null,
-  "original_10k_final": null,
+  "final_score": 27.0,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "original_10k_final": 19.0,
   "evidence": [
     {
       "id": "E1",
@@ -125,14 +144,98 @@
       "warnings": [],
       "verified": true,
       "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Employee resource groups run as an employee-led program built on community service, business impact, career development and education pillars",
+      "quote": "Our ERGs are catalysts for engagement and impact.",
+      "source_doc": "sustainability_report",
+      "section": "Nurture our people and communities > Engage our people and communities > Employee resource groups (ERGs)",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no membership figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "iHope philanthropic program providing in-kind genomic testing for children with suspected genetic disease in underserved regions, run through a global network of affiliated clinics",
+      "quote": "Launched by Illumina in 2017 , iHope is a philanthropic initiative designed to expand access to clinical genomic testing and care for children with suspected genetic diseases in underserved regions worldwide.",
+      "source_doc": "sustainability_report",
+      "section": "Access > Champion patients > iHope",
+      "status": "current",
+      "indicators": "25 clinics across 13 countries; more than 3,000 clinical cases",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 3: named program serving underserved communities, with reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Annual pay equity review that keeps a zero net pay gap across gender, ethnicity and race",
+      "quote": "We are proud to have reached this milestone early—and as of 2025, we have maintained a zero net pay gap for seven consecutive years.",
+      "source_doc": "sustainability_report",
+      "section": "Nurture our people and communities > Attract, develop, and retain top talent > Pay equity and transparency",
+      "status": "current",
+      "indicators": "zero net pay gap; seven consecutive years",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific inclusive workplace practice"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "Fertility benefit program covering employees pursuing nontraditional paths to parenthood",
+      "quote": "Through our partner Progyny, we offer a comprehensive fertility benefit program to eligible US-based employees that covers fertility preservation, providing access to care for our employees, including those pursuing nontraditional paths to parenthood.",
+      "source_doc": "sustainability_report",
+      "section": "Nurture our people and communities > Employee benefits > Supporting growing families",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: inclusive benefits, limited reach disclosed"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
     }
   ],
   "notes": "Cross-cultural coverage is insufficient (condition 3), so the company qualifies for the automated second look using the Corporate Responsibility Report at www.illumina.com/csr, which is on the company's main domain. The filing says the 2025 workforce details will be published there in April 2026. Excluded as traps or non-qualifying: 'Illumina user community' and 'bioinformatics community' (scientific community); regional employee headcounts (geographic distribution, not an inclusion activity); 48% of revenue from shipments outside the U.S. (international sales); and the environmental and 'committed to' statements. The Item 7 text is excerpts only, and the foundation's activities are not described in the filing.",
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 264,
-  "score_source": "10-K",
-  "report_url": "",
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://emea.illumina.com/content/dam/illumina-marketing/documents/company/2025-cr-report/illumina-2025-cr-report-en.pdf",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://emea.illumina.com/content/dam/illumina-marketing/documents/company/2025-cr-report/illumina-2025-cr-report-en.pdf",
+    "found_on": "",
+    "report_year": 2025,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }

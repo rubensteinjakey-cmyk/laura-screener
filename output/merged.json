@@ -5,14 +5,6 @@
     "item7_targeted"
   ],
   "missing": [
-    "CART",
-    "CDE",
-    "STRL",
-    "THC",
-    "ZS",
-    "PTGX",
-    "WST",
-    "EOG",
     "CAI",
     "JXN",
     "SCCO",
@@ -2429,6 +2421,411 @@
         ]
       }
     },
+    "CART": {
+      "ticker": "CART",
+      "company_name": "Maplebear Inc.",
+      "sector": "Consumer Staples",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-26",
+      "fiscal_year": 2025,
+      "accession_number": "0001579091-26-000018",
+      "scored_at": "2026-10-19T04:42:27",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers grocery e-commerce, fulfillment and advertising technology in enough detail and shows no activity that creates or enables creative work.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E2"
+          ],
+          "valid_evidence_ids": [
+            "E2"
+          ],
+          "kinds": [
+            "employee_development"
+          ],
+          "reason": "Level 2: only employee development (manager training and learning tools) is described, so Community is capped at 2.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E3",
+            "E4"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E3",
+            "E4"
+          ],
+          "kinds": [
+            "internal_practice"
+          ],
+          "reason": "Level 2: funded, executive-sponsored ERGs plus inclusion and fair-hiring training are specific internal practices, but no membership or other reach figures are disclosed.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E5"
+          ],
+          "valid_evidence_ids": [
+            "E5"
+          ],
+          "kinds": [
+            "serving"
+          ],
+          "reason": "Level 1: retailers, including local mainstays, are served as customers, but the filing describes no named service aimed at small-business or founder barriers.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 23.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Executive-sponsored Employee Resource Groups that receive company funding for programming",
+          "quote": "Members of our executive team personally sponsor Employee Resource Groups (“ERGs”) and Instacart allocates funding to our ERGs for programming and initiatives that range from professional development sessions, employee networking opportunities, and volunteer events to belonging and engagement opportunities.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital > Supporting a High-Performing Workforce > Fostering an Inclusive Environment",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: employee networks with no membership or funding figures"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Training and resources provided to all managers",
+          "quote": "To help accomplish this, we support all of our managers with training and resources designed to help them create an enriching environment within their teams.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital > Supporting a High-Performing Workforce > Ensuring Access to Opportunities while Minimizing Attrition",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Employee education on building an inclusive culture and on recognizing and managing bias",
+          "quote": "Additionally, in order to improve collaboration among diverse teams, we have invested in resources to educate our employees on building an inclusive culture and on recognizing and managing bias.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital > Supporting a High-Performing Workforce > Fostering an Inclusive Environment",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: specific inclusion practice, limited reach disclosed"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Fair-evaluation training for recruiters, hiring managers and interviewers",
+          "quote": "We provide training to recruiters, hiring managers, and interviewers on our recruiting practices, with the goal of ensuring that all candidates are seen and evaluated fairly.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital > Supporting a High-Performing Workforce > Accessing the Available Talent Pool",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: specific inclusive hiring practice, limited reach disclosed"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "Fulfillment technology offered to retailers of all sizes, including local stores",
+          "quote": "Retailers — from national and regional retailers to local mainstays — can leverage our fulfillment API to help fulfill orders that are placed through their owned and operated online storefronts.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Instacart Technology > Instacart Enterprise Platform",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "entrepreneurship": {
+              "kind": "serving",
+              "criterion": "level 1: small or local businesses served as customers with no specific enabling program"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Final score is 0 + 12 + 8 + 3 = 23/100. The approximately 600,000 independent-contractor shoppers offered a 'flexible earnings opportunity' are gig work, not founders building ventures, so they were not counted for Entrepreneurship. The 'Instacart community' of shoppers in Item 1 and the Item 7 excerpt is not a Community activity. Instacart Ads, brand pages and Carrot Ads are advertising tools for consumer brands, not creative work. The 165 copyright registrations are IP protection, not a creative activity. ERG volunteer events are mentioned without figures, so they were not scored separately as community investment. The Human Capital section is well over 150 words, so coverage for Community and Cross-cultural is sufficient and no second look is triggered.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 820,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
+    "CDE": {
+      "ticker": "CDE",
+      "company_name": "Coeur Mining",
+      "sector": "Materials",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-18",
+      "fiscal_year": 2025,
+      "accession_number": "0000215466-26-000004",
+      "scored_at": "2026-10-19T04:43:07",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers only precious metals mining and sales, with no creative activity.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "kinds": [
+            "employee_development",
+            "external_education"
+          ],
+          "reason": "Level 2: sizeable employee development (IMPACT) plus specific external apprenticeships, internships and youth career education whose disclosed reach (over 40 placements) is limited, so the lower level is chosen when torn with 3.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E3",
+            "E4",
+            "E5"
+          ],
+          "valid_evidence_ids": [
+            "E3",
+            "E4",
+            "E5"
+          ],
+          "kinds": [
+            "internal_practice"
+          ],
+          "reason": "Level 2: specific current internal inclusion practices (Coeur Heroes veteran hiring, domestic partner benefits, inclusion training) with limited or indirect reach figures, so the lower level is chosen when torn with 3.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the filing fully describes the business and shows no service or program enabling founders or small businesses.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 0
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 20.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "IMPACT, an 18-month in-house leadership training program for front-line supervisors",
+          "quote": "Through IMPACT training, we have invested over 26,250 cumulative hours of leadership training and personal development in almost 270 employees.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Employee Development",
+          "status": "current",
+          "indicators": "over 26,250 cumulative hours; almost 270 employees; 18-month training program",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Apprenticeships and internships for local community members, plus youth career education with partner organizations such as By the Hand Club",
+          "quote": "During 2025, we provided over 40 apprenticeships and internships and worked with organizations such as By the Hand Club in Chicago to educate youth in our communities about career opportunities in mining.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Local Hire",
+          "status": "current",
+          "indicators": "over 40 apprenticeships and internships",
+          "themes": {
+            "community": {
+              "kind": "external_education",
+              "criterion": "level 2: specific current external education activity, limited in reach"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Coeur Heroes program providing career opportunities to current and former U.S. military personnel",
+          "quote": "Coeur’s continuing commitment to fostering an inclusive workforce is evidenced by programs such as Coeur Heroes, which provided over 110 career opportunities to current and former U.S. military personnel last year.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Inclusion",
+          "status": "current",
+          "indicators": "over 110 career opportunities",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: specific current inclusion activity, limited in reach"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Domestic partner benefits offered to employees",
+          "quote": "We were a leader in the mining industry by providing domestic partner benefits in 2017 and participation has increased 250% since introduction.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Rewards & Wellness",
+          "status": "current",
+          "indicators": "participation has increased 250% since introduction",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: inclusive benefits, specific current activity"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "Inclusion training on bullying and bystander intervention for the hourly workforce at every operation",
+          "quote": "In order to emphasize the importance of inclusion in the workplace, we provided our hourly workforce at every operation with training on topics such as bullying and bystander intervention, as well as education on overall mental wellness to support each employee feeling respected and included at work.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Inclusion",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: specific current inclusion practice, no reach figures"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "The Item 7 targeted excerpt was empty, so all evidence is from Item 1. The Recruitment section also mentions partnership programs providing internships, scholarships and apprenticeships. These are treated as the same activity as E2 to avoid double counting, and the scholarships have no disclosed figures. Coeur Heroes (veterans) is tagged cross-cultural because the filing presents it under Inclusion; whether veterans count as an underrepresented group is borderline. The Lovelock medical clinic serves employees and dependents only, so it is not counted as community investment. Indigenous consultation is a permitting requirement and is not scored. The New Gold acquisition is planned (expected to close in first half of 2026) and does not affect scores. The Biodiversity Management Standard bullet appears twice in the Responsibility list.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 1345,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
     "CEG": {
       "ticker": "CEG",
       "company_name": "Constellation Energy",
@@ -2663,28 +3060,51 @@
           "coverage_trigger": ""
         },
         "community": {
-          "ai_score": 1,
-          "score": 1,
-          "coverage": "insufficient",
-          "evidence_ids": [],
-          "valid_evidence_ids": [],
-          "kinds": [],
-          "reason": "Level 1, resting on general language only: the single sentence about 'investing in extensive recruitment, training and professional development opportunities for our employees' names no specific program, and coverage is insufficient under condition 2 because the relevant discussion is under about 150 words.",
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E1",
+            "SL-E2",
+            "SL-E3",
+            "SL-E4"
+          ],
+          "valid_evidence_ids": [
+            "SL-E1",
+            "SL-E2",
+            "SL-E3",
+            "SL-E4"
+          ],
+          "kinds": [
+            "community_investment",
+            "employee_development"
+          ],
+          "reason": "Level 2. The report shows specific current community investment: a Volunteer Time Off program with 33% employee participation (E1) and site-based donations and fundraising (E2). It also shows extensive employee development (E3, E4). The community investment gives only a participation rate, with no dollars, volunteer hours or beneficiaries, so reach is not shown to be substantial. When torn, pick the lower level. Employee development alone is capped at 2.",
           "flags": [],
           "coverage_trigger": "ai",
-          "coverage_reason_ai": "Level 1, resting on general language only: the single sentence about 'investing in extensive recruitment, training and professional development opportunities for our employees' names no specific program, and coverage is insufficient under condition 2 because the relevant discussion is under about 150 words."
+          "score_from_10k": 1,
+          "rescored_from_report": true
         },
         "cross_cultural": {
-          "ai_score": 1,
-          "score": 1,
-          "coverage": "insufficient",
-          "evidence_ids": [],
-          "valid_evidence_ids": [],
-          "kinds": [],
-          "reason": "Level 1, resting on general language only: 'fostering a culture of inclusion and engagement' describes no specific practice, and coverage is insufficient under condition 2 because the relevant discussion is under about 150 words.",
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E5",
+            "SL-E6"
+          ],
+          "valid_evidence_ids": [
+            "SL-E5",
+            "SL-E6"
+          ],
+          "kinds": [
+            "internal_practice"
+          ],
+          "reason": "Level 3. Inclusion Resource Groups are employee networks open to all staff with a disclosed membership figure: 665 employees as of December 2024, up from 150 (E5). That is substantial against roughly 2,900 employees. Participation in the WBCSD LEAP program for women executives (E6) adds a smaller internal practice. There is no customer-access or connecting-communities activity at business scale that would support level 4.",
           "flags": [],
           "coverage_trigger": "ai",
-          "coverage_reason_ai": "Level 1, resting on general language only: 'fostering a culture of inclusion and engagement' describes no specific practice, and coverage is insufficient under condition 2 because the relevant discussion is under about 150 words."
+          "score_from_10k": 1,
+          "rescored_from_report": true
         },
         "entrepreneurship": {
           "ai_score": 0,
@@ -2700,28 +3120,157 @@
       },
       "scores": {
         "creativity": 0,
-        "community": 1,
-        "cross_cultural": 1,
+        "community": 2,
+        "cross_cultural": 3,
         "entrepreneurship": 0
       },
       "coverage": {
         "creativity": "sufficient",
-        "community": "insufficient",
-        "cross_cultural": "insufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 10.0,
-      "original_10k_scores": null,
-      "original_10k_final": null,
-      "evidence": [],
+      "final_score": 24.0,
+      "original_10k_scores": {
+        "creativity": 0,
+        "community": 1,
+        "cross_cultural": 1,
+        "entrepreneurship": 0
+      },
+      "original_10k_final": 10.0,
+      "evidence": [
+        {
+          "id": "SL-E1",
+          "activity": "Volunteer Time Off program giving employees paid time to volunteer in local communities, with a participation target and achieved rate",
+          "quote": "Achieve 25% employee participation in the Volunteer Time Off (VTO) program by the end of 2025 (achieved at 33%).",
+          "source_doc": "sustainability_report",
+          "section": "6. Our Workplace & Communities > Our Workplace & Communities Goals",
+          "status": "current",
+          "indicators": "25%; 33%",
+          "themes": {
+            "community": {
+              "kind": "community_investment",
+              "criterion": "level 2: specific current volunteering program; participation rate only, with no dollars, hours or beneficiaries disclosed, so reach is limited"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E2",
+          "activity": "Site-based financial donations, volunteer activities and fundraising in local communities",
+          "quote": "We also support them in making a positive impact in the communities where they live and work, providing time off to volunteer and through site-based financial donations, volunteer activities and fundraising, and proactive community engagement.",
+          "source_doc": "sustainability_report",
+          "section": "6. Our Workplace & Communities > introduction",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "community_investment",
+              "criterion": "level 2: specific current community giving, limited reach with no figures"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E3",
+          "activity": "Education Assistance Program reimbursing employees' tuition at accredited institutions",
+          "quote": "A program for up to $10,000 of eligible approved education expenses each calendar year for covered education programs at an accredited institution.",
+          "source_doc": "sustainability_report",
+          "section": "6. Our Workplace & Communities > Training & Development > Education Assistance Program",
+          "status": "current",
+          "indicators": "$10,000",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E4",
+          "activity": "Internal leadership development programs, including the Frontline Leadership Development Program for new team leaders",
+          "quote": "This program upskills new team leaders by teaching fundamental leadership skills, such as goal setting, coaching and feedback, and managing change.",
+          "source_doc": "sustainability_report",
+          "section": "6. Our Workplace & Communities > Leadership Development",
+          "status": "current",
+          "indicators": "23 participants",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E5",
+          "activity": "Inclusion Resource Groups (employee networks) open to all employees, with growing membership",
+          "quote": "Since their launch in late 2021, our IRG membership has increased from 150 employees to 665 employees as of December 2024.",
+          "source_doc": "sustainability_report",
+          "section": "6. Our Workplace & Communities > Inclusion & Engagement",
+          "status": "current",
+          "indicators": "150 employees; 665 employees",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 3: employee networks with membership figures"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E6",
+          "activity": "Leaders took part in the WBCSD LEAP Program for women executives",
+          "quote": "In 2024, members of our leadership team took part in the WBCSD LEAP Program, designed to empower women executives with essential skills and insights in sustainability.",
+          "source_doc": "sustainability_report",
+          "section": "9. Coalitions, Partnerships & Policy Engagement > CF Industries Notable Engagements (WBCSD)",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: specific development program for an underrepresented group, limited reach with no figures"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
       "notes": "The Item 7 (targeted) section was empty, meaning no MD&A paragraphs matched the theme terms. The Human Capital section is about 340 words, but most of it covers headcount by country, tenure, collective bargaining and safety metrics (RIR 0.26, DART 0.13). Only about 60 words address training, development or inclusion, and only in general terms, so Community and Cross-cultural are marked insufficient under condition 2. The Board's 'Environmental Sustainability and Community Committee' is only a committee name and does not count as an activity. Employee location percentages (80% US, 14% Canada, 6% UK) are geographic and are not demographics of underrepresented groups. 'Joint venture' references (Blue Point, PLNL, CHS strategic venture) are entrepreneurship traps and were excluded. A 'license to use certain intellectual property' contributed to Blue Point is not creative licensing and was excluded. Both Community and Cross-cultural have insufficient coverage, so this company qualifies for the automated second look using the company's sustainability report from www.cfindustries.com.",
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 345,
-      "score_source": "10-K",
-      "report_url": "",
+      "score_source": "10-K + sustainability report",
+      "report_url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/sustainability-reports/2024_cf-industries_corporate-stewardship-report.pdf",
       "report_link_found_on": "",
-      "second_look": null
+      "second_look": {
+        "status": "scored",
+        "report_url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/sustainability-reports/2024_cf-industries_corporate-stewardship-report.pdf",
+        "found_on": "",
+        "report_year": 2024,
+        "themes": [
+          "community",
+          "cross_cultural"
+        ]
+      }
     },
     "CHE": {
       "ticker": "CHE",
@@ -2875,12 +3424,22 @@
       ],
       "notes": "Item 7 (targeted) excerpt was empty. VITAS 'Difference Maker Program' (stay bonuses, over $39.2 million paid) is described as a past retention program, not development, so it was not scored. Volunteer recruitment and training appears only as a description of Medicare Conditions of Participation requirements, not as a described VITAS program, so it was not counted as external education. Roto-Rooter is acquiring franchises: one in 2025 and three in 2024. That consolidation suggests the franchise system is shrinking rather than being expanded as an enabling program. The Human Rights Policy and SASB index are referenced on chemed.com. Cross-cultural is insufficient, so this company triggers the automated sustainability-report second look.",
       "quote_check_status": "passed",
-      "flags": [],
+      "flags": [
+        "coverage insufficient (cross_cultural); second look: no report found"
+      ],
       "human_capital_words": 1090,
       "score_source": "10-K",
       "report_url": "",
       "report_link_found_on": "",
-      "second_look": null
+      "second_look": {
+        "status": "no report found",
+        "report_url": "",
+        "found_on": "",
+        "report_year": null,
+        "themes": [
+          "cross_cultural"
+        ]
+      }
     },
     "CHRD": {
       "ticker": "CHRD",
@@ -5981,6 +6540,182 @@
         ]
       }
     },
+    "EOG": {
+      "ticker": "EOG",
+      "company_name": "EOG Resources",
+      "sector": "Energy",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-24",
+      "fiscal_year": 2025,
+      "accession_number": "0000821189-26-000054",
+      "scored_at": "2026-10-19T04:46:35",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers only oil and gas exploration and production, and the single mention of 'creativity' is general workforce language rather than creative activity.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2",
+            "E3",
+            "E4"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2",
+            "E3",
+            "E4"
+          ],
+          "kinds": [
+            "community_investment",
+            "employee_development"
+          ],
+          "reason": "Level 2: the filing shows employee development plus a matching gifts program and paid volunteer time with no reach figures, so external reach is limited and level 3 indicators are absent.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 1: rests only on general language valuing employees' gender, racial, ethnic and cultural backgrounds and on equal-opportunity boilerplate, with no specific networks, accessibility or access programs described.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the filing describes no small business, founder or creator enabling activity, and the 'innovation' references concern the company's own drilling technology, which is a listed trap.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 0
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 16.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Company training for employees in leadership, communication, team effectiveness, technical skills and company systems",
+          "quote": "EOG supports employees' professional development and provides training in leadership, communication, team effectiveness, technical skills and use of EOG systems and applications.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Training and Development",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Tuition reimbursement and professional certification reimbursement for employees",
+          "quote": "EOG also offers its employees a tuition reimbursement program as well as reimbursement for the costs of professional certifications.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Training and Development",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "College recruiting and internship program used to attract talent",
+          "quote": "By providing employees with a quality work environment and maintaining a consistent college recruiting and internship program and experienced talent recruiting program, EOG is able to attract and retain many of the industry's best and brightest.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Culture; Recruiting; Retention",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: talent pipeline and recruiting program, treated as employee development because it is framed as recruiting and retention"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Employee matching gifts program and paid volunteer time",
+          "quote": "EOG also offers a holistic wellness program, a matching gifts program, a flexible work schedule, paid family care leave, paid leave for illness or injury, paid volunteer time and an employee assistance program to support the mental well-being of employees and their dependents.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Compensation, Benefits, Health & Wellness",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "community_investment",
+              "criterion": "level 2: specific current community giving and volunteering support, limited reach with no figures disclosed"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "The Item 7 (targeted) excerpt was empty, meaning no MD&A paragraphs matched the theme terms. Safety training for employees and contractors was excluded because it is compliance training. The Human Capital Management section runs well over 150 words, so Community and Cross-cultural are marked sufficient, even though the diversity paragraph alone is short. International operations in Trinidad, Bahrain and the UAE, the use of 'diversified' marketing, references to tribal lands as regulatory matters, and 'design' meaning platform engineering were treated as traps and not scored. Illustrative weighted total: 0 + 12 + 4 + 0 = 16/100.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 513,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
     "ETSY": {
       "ticker": "ETSY",
       "company_name": "Etsy",
@@ -8868,16 +9603,30 @@
           "coverage_trigger": ""
         },
         "cross_cultural": {
-          "ai_score": 1,
-          "score": 1,
-          "coverage": "insufficient",
-          "evidence_ids": [],
-          "valid_evidence_ids": [],
-          "kinds": [],
-          "reason": "Level 1 on general language only ('making Illumina a place where everyone can belong'); coverage is insufficient under condition 3 because the human capital section points to the Corporate Responsibility Report for further information and gives no specific inclusion or access activities itself.",
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "SL-E2",
+            "SL-E1",
+            "SL-E3",
+            "SL-E4"
+          ],
+          "valid_evidence_ids": [
+            "SL-E2",
+            "SL-E1",
+            "SL-E3",
+            "SL-E4"
+          ],
+          "kinds": [
+            "customer_access",
+            "internal_practice"
+          ],
+          "reason": "Level 3: iHope is a named, current program that removes access barriers for underserved communities, with reach figures (25 clinics across 13 countries, more than 3,000 clinical cases). Internal practices support it: ERGs with no membership figures, a zero net pay gap across gender and ethnicity, and inclusive fertility benefits. Customer or community access is not a major business line with measured reach, so the score does not reach 4.",
           "flags": [],
           "coverage_trigger": "ai",
-          "coverage_reason_ai": "Level 1 on general language only ('making Illumina a place where everyone can belong'); coverage is insufficient under condition 3 because the human capital section points to the Corporate Responsibility Report for further information and gives no specific inclusion or access activities itself."
+          "score_from_10k": 1,
+          "rescored_from_report": true
         },
         "entrepreneurship": {
           "ai_score": 1,
@@ -8900,18 +9649,23 @@
       "scores": {
         "creativity": 0,
         "community": 2,
-        "cross_cultural": 1,
+        "cross_cultural": 3,
         "entrepreneurship": 1
       },
       "coverage": {
         "creativity": "sufficient",
         "community": "sufficient",
-        "cross_cultural": "insufficient",
+        "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 19.0,
-      "original_10k_scores": null,
-      "original_10k_final": null,
+      "final_score": 27.0,
+      "original_10k_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 1
+      },
+      "original_10k_final": 19.0,
       "evidence": [
         {
           "id": "E1",
@@ -8950,16 +9704,100 @@
           "warnings": [],
           "verified": true,
           "problem": ""
+        },
+        {
+          "id": "SL-E1",
+          "activity": "Employee resource groups run as an employee-led program built on community service, business impact, career development and education pillars",
+          "quote": "Our ERGs are catalysts for engagement and impact.",
+          "source_doc": "sustainability_report",
+          "section": "Nurture our people and communities > Engage our people and communities > Employee resource groups (ERGs)",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: employee networks with no membership figures"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E2",
+          "activity": "iHope philanthropic program providing in-kind genomic testing for children with suspected genetic disease in underserved regions, run through a global network of affiliated clinics",
+          "quote": "Launched by Illumina in 2017 , iHope is a philanthropic initiative designed to expand access to clinical genomic testing and care for children with suspected genetic diseases in underserved regions worldwide.",
+          "source_doc": "sustainability_report",
+          "section": "Access > Champion patients > iHope",
+          "status": "current",
+          "indicators": "25 clinics across 13 countries; more than 3,000 clinical cases",
+          "themes": {
+            "cross_cultural": {
+              "kind": "customer_access",
+              "criterion": "level 3: named program serving underserved communities, with reach figures"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E3",
+          "activity": "Annual pay equity review that keeps a zero net pay gap across gender, ethnicity and race",
+          "quote": "We are proud to have reached this milestone early—and as of 2025, we have maintained a zero net pay gap for seven consecutive years.",
+          "source_doc": "sustainability_report",
+          "section": "Nurture our people and communities > Attract, develop, and retain top talent > Pay equity and transparency",
+          "status": "current",
+          "indicators": "zero net pay gap; seven consecutive years",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: specific inclusive workplace practice"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "SL-E4",
+          "activity": "Fertility benefit program covering employees pursuing nontraditional paths to parenthood",
+          "quote": "Through our partner Progyny, we offer a comprehensive fertility benefit program to eligible US-based employees that covers fertility preservation, providing access to care for our employees, including those pursuing nontraditional paths to parenthood.",
+          "source_doc": "sustainability_report",
+          "section": "Nurture our people and communities > Employee benefits > Supporting growing families",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "internal_practice",
+              "criterion": "level 2: inclusive benefits, limited reach disclosed"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
         }
       ],
       "notes": "Cross-cultural coverage is insufficient (condition 3), so the company qualifies for the automated second look using the Corporate Responsibility Report at www.illumina.com/csr, which is on the company's main domain. The filing says the 2025 workforce details will be published there in April 2026. Excluded as traps or non-qualifying: 'Illumina user community' and 'bioinformatics community' (scientific community); regional employee headcounts (geographic distribution, not an inclusion activity); 48% of revenue from shipments outside the U.S. (international sales); and the environmental and 'committed to' statements. The Item 7 text is excerpts only, and the foundation's activities are not described in the filing.",
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 264,
-      "score_source": "10-K",
-      "report_url": "",
+      "score_source": "10-K + sustainability report",
+      "report_url": "https://emea.illumina.com/content/dam/illumina-marketing/documents/company/2025-cr-report/illumina-2025-cr-report-en.pdf",
       "report_link_found_on": "",
-      "second_look": null
+      "second_look": {
+        "status": "scored",
+        "report_url": "https://emea.illumina.com/content/dam/illumina-marketing/documents/company/2025-cr-report/illumina-2025-cr-report-en.pdf",
+        "found_on": "",
+        "report_year": 2025,
+        "themes": [
+          "cross_cultural"
+        ]
+      }
     },
     "INCY": {
       "ticker": "INCY",
@@ -10089,12 +10927,23 @@
       ],
       "notes": "The Item 7 (targeted) section provided was empty, so no MD&A paragraphs matched the theme terms. The human capital section is about 115 words. Community and Cross-cultural are marked insufficient, which triggers the automated second look for a company-hosted sustainability report. Several pivotal studies are past or discontinued (DAZZLE was discontinued; GLEAM and GLIMMER missed their endpoints), but none affects theme scoring. The VETi wearable headset's 'identity security' use is a trap term and was not counted. The company has no product revenue, and all candidates are investigational.",
       "quote_check_status": "passed",
-      "flags": [],
+      "flags": [
+        "coverage insufficient (community, cross_cultural); second look: no report found"
+      ],
       "human_capital_words": 368,
       "score_source": "10-K",
       "report_url": "",
       "report_link_found_on": "",
-      "second_look": null
+      "second_look": {
+        "status": "no report found",
+        "report_url": "",
+        "found_on": "",
+        "report_year": null,
+        "themes": [
+          "community",
+          "cross_cultural"
+        ]
+      }
     },
     "MANH": {
       "ticker": "MANH",
@@ -15132,6 +15981,140 @@
         ]
       }
     },
+    "PTGX": {
+      "ticker": "PTGX",
+      "company_name": "Protagonist Therapeutics, Inc.",
+      "sector": "Health Care",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-25",
+      "fiscal_year": 2025,
+      "accession_number": "0001104659-26-019696",
+      "scored_at": "2026-10-19T04:45:32",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers peptide drug discovery and development only and shows no creative activity; 'molecular design' and 'designed' refer to drug design, which is a trap.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "kinds": [
+            "employee_development",
+            "external_education"
+          ],
+          "reason": "Level 2: specific current external education (student mentoring, hosting and continuing-education support) plus employee training, but the filing gives no figures or named program to show substantial reach.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 1: this rests on general language only, namely 'supportive and inclusive workplace' and a Board with 'a wide range of backgrounds', with no specific inclusion or access activity; the Human Capital section is long enough to judge.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the filing describes no services, customers or programs for founders or small businesses; references to 'innovation' and 'collaboration agreements' are traps.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 0
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 16.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Financially supports continuing education and sponsors, mentors and hosts students in life sciences",
+          "quote": "In addition to financial support of continuing education, we are active sponsors, mentors, and hosts for students seeking to broaden their understanding of life sciences in the interest of advancing human health.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Sustainability, Corporate Responsibility and Human Capital Disclosures > Social Responsibility",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "external_education",
+              "criterion": "level 2: specific current external education activity (student mentoring and hosting, continuing-education support), limited reach with no figures or named program"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Training and development programs for employees' leadership and professional skills",
+          "quote": "We also invest in the growth and development of our employees through various training and development programs that help build and strengthen our employees’ leadership and professional skills.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Sustainability, Corporate Responsibility and Human Capital Disclosures > Human Capital",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. The 'license and collaboration agreements' with JNJ, Takeda and Zealand are licensing deals and were excluded under the Community trap. Patient access through clinical trials and long-term extensions is a healthcare-access statement and does not qualify under the cross-cultural criteria. The employee count split between the United States and Australia is geographic, not an inclusion activity. For Entrepreneurship, the choice was between 0 and 1 (own innovation); the lower level was chosen.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 608,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
     "P": {
       "ticker": "P",
       "company_name": "Everpure",
@@ -16936,6 +17919,118 @@
       "report_link_found_on": "",
       "second_look": null
     },
+    "STRL": {
+      "ticker": "STRL",
+      "company_name": "Sterling Infrastructure",
+      "sector": "Industrials",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-26",
+      "fiscal_year": 2025,
+      "accession_number": "0000874238-26-000024",
+      "scored_at": "2026-10-19T04:43:31",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers site development, electrical, transportation infrastructure and concrete/plumbing construction, and shows no creative activity.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1"
+          ],
+          "valid_evidence_ids": [
+            "E1"
+          ],
+          "kinds": [
+            "employee_development"
+          ],
+          "reason": "Level 1: the only specific training is safety and hazard training, which is compliance-type, and the rest is general language about developing talent, caring for communities and retention, with no external education or community investment.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 1: rests only on the general statement that the company strives to instill an inclusive culture, with no specific networks, accessibility or access programs described.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the filing fully describes the business and shows no enabling program for founders or small businesses; small local contractors appear only as competitors, which is a trap.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 1,
+        "cross_cultural": 1,
+        "entrepreneurship": 0
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 10.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Hazard-specific safety training, a safety orientation for new hires, and follow-up trainings for project employees",
+          "quote": "All project employees receive hazard specific training and our newly-hired employees undergo an initial safety orientation and receive follow-up trainings during their first 90 days of employment.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 1: safety-related training tied to OSHA-type workplace safety requirements, closer to required compliance training than to broader development"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Sustainability and 'The Sterling Way' language about caring for people and communities is a mission statement only. The strategy section mentions 'developing talent and trades people', but it is general and gives no named program, participants or external reach. The filing says public transportation contracts impose 'requirements regarding labor relations and subcontracting with designated classes of disadvantaged businesses'. This is presented as a government contract requirement, not a company program, so it was not scored for Entrepreneurship or Cross-cultural; when torn, the lower level was picked. Joint venture arrangements are a trap and were not scored. The Item 7 excerpt repeats the Item 1 overview word for word and adds no new activities. The planned downsizing of the Texas heavy highway business (expected complete 2026) does not affect the theme scores.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 616,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
     "TGTX": {
       "ticker": "TGTX",
       "company_name": "TG Therapeutics, Inc.",
@@ -17068,6 +18163,211 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 224,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
+    "THC": {
+      "ticker": "THC",
+      "company_name": "Tenet Health",
+      "sector": "Health Care",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-17",
+      "fiscal_year": 2025,
+      "accession_number": "0000070318-26-000012",
+      "scored_at": "2026-10-19T04:44:33",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers hospitals, ambulatory surgery and revenue cycle services and shows no creative activity; 'state-of-the-art' is a trap term.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 3,
+          "score": 3,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2",
+            "E3"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2",
+            "E3"
+          ],
+          "kinds": [
+            "employee_development",
+            "external_education"
+          ],
+          "reason": "Level 3: in addition to employee development, the company runs external education through a named school of health professions, a nationwide nursing extern program and graduate medical education at 29 teaching-affiliated hospitals.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E4"
+          ],
+          "valid_evidence_ids": [
+            "E4"
+          ],
+          "kinds": [
+            "customer_access"
+          ],
+          "reason": "Level 2: a specific current customer-access service (uninsured discounts and charity care, including for people unable to enroll in insurance programs) with no reach figures in the cited paragraph; other inclusion language is general.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E5"
+          ],
+          "valid_evidence_ids": [
+            "E5"
+          ],
+          "kinds": [
+            "serving"
+          ],
+          "reason": "Level 1: physician practices appear only as service clients, with no specific program enabling founders or small businesses.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 3,
+        "cross_cultural": 2,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 29.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Clinical training, leadership development, courses and mentoring for employees",
+          "quote": "opportunities for continuing education and advancement through a broad range of clinical training and leadership development experiences, including in‑person and online courses and mentoring opportunities;",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Resources > Employees > Compensation and Benefits",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Operates a school of health professions and a nationwide nursing extern and immersion program giving students hands-on training before graduation",
+          "quote": "We also continue to work within our communities to increase access to healthcare programs and careers, including at our Baptist School of Health Professions in San Antonio and through our nationwide nursing extern and immersion program, which provides students with relevant hands-on training prior to graduation.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Resources > Employees > Competition; Staffing and Labor Trends",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "external_education",
+              "criterion": "level 3: named external education programs for students outside the company, nationwide in scope"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Hospitals affiliated with academic institutions that host graduate medical education for residents",
+          "quote": "As of December 31, 2025, 29 of our hospitals were affiliated with academic institutions and were eligible to receive such payments.",
+          "source_doc": "10-K",
+          "section": "Item 7 (targeted) > Direct Graduate and Indirect Medical Education Payments",
+          "status": "current",
+          "indicators": "29 of our hospitals",
+          "themes": {
+            "community": {
+              "kind": "external_education",
+              "criterion": "level 3: graduate medical education across a measured number of teaching-affiliated hospitals"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E4",
+          "activity": "Uninsured discounts and charity care for uninsured patients, including people who cannot enroll in exchanges or government insurance",
+          "quote": "However, we continue to provide uninsured discounts and charity care due to the failure of certain states to expand Medicaid coverage and for persons living in the country who are not permitted to enroll in a health insurance exchange or government healthcare insurance program.",
+          "source_doc": "10-K",
+          "section": "Item 7 (targeted) > Uninsured discounts and charity care",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "customer_access",
+              "criterion": "level 2: specific current service for underserved and immigrant patients, no reach figures in the same paragraph"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E5",
+          "activity": "Conifer revenue cycle services provided to clients that include physician practices",
+          "quote": "Tenet and CommonSpirit Health facilities represented approximately 44% of these clients, and the remainder were unaffiliated health systems, hospitals, physician practices, self‑insured organizations, health plans and other entities.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Hospital Operations and Services Segment",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "entrepreneurship": {
+              "kind": "serving",
+              "criterion": "level 1: small-business (physician practice) customers with no specific enabling service"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Charity and uninsured admissions (20,701) and visits (385,815) appear in a separate MD&A table, not in the paragraph quoted for E4, so they were not attached as indicators. Under the cap-by-kind rule, Cross-cultural would fall to 1 if E4 were judged not to qualify. The Community score of 3 rests on named programs and the 29 teaching-affiliated hospitals; no participant or dollar figures are disclosed, so it sits at the lower edge of level 3. The paragraph cited for E3 is framed as Medicare reimbursement eligibility. The academic teaching services contracts supporting graduate medical education are the same activity as E3 and are not counted twice. Items excluded as general language or outside the theme criteria: the Community Healthcare Engagement Council (no specific activities or figures), volunteerism and community-service support (no figures), and health programs and educational materials for communities (general). Also excluded: the Tenet Care Fund, an employee hardship charity that is not an education or community program. Mandatory HIPAA and ethics compliance training is excluded as compliance training. Physician joint ventures are a 'joint venture' trap and are not counted for Entrepreneurship. Physician relocation income guarantees are recruitment arrangements, not an enabling program.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 1677,
       "score_source": "10-K",
       "report_url": "",
       "report_link_found_on": "",
@@ -19211,6 +20511,168 @@
       "report_link_found_on": "",
       "second_look": null
     },
+    "WST": {
+      "ticker": "WST",
+      "company_name": "West Pharmaceutical Services",
+      "sector": "Health Care",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-02-17",
+      "fiscal_year": 2025,
+      "accession_number": "0000105770-26-000010",
+      "scored_at": "2026-10-19T04:45:58",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers injectable drug containment, delivery devices and contract manufacturing, and shows no creative activity; 'design' here means engineering or product design, which is a trap.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1"
+          ],
+          "valid_evidence_ids": [
+            "E1"
+          ],
+          "kinds": [
+            "employee_development"
+          ],
+          "reason": "Level 2: the only specific activity is employee development (tuition reimbursement and a 50,000+ course learning catalog), so the score is capped at 2; philanthropy focused on STEM education is general language with no specific programs.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E2"
+          ],
+          "valid_evidence_ids": [
+            "E2"
+          ],
+          "kinds": [
+            "demographics_only"
+          ],
+          "reason": "Level 1: the filing gives only a gender demographic statistic and general mention of 'inclusion' strategies, with no specific inclusion practice or customer-access program.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E3"
+          ],
+          "valid_evidence_ids": [
+            "E3"
+          ],
+          "kinds": [
+            "own_innovation"
+          ],
+          "reason": "Level 1: only the company's own R&D and innovation are described; customers are large pharmaceutical and medical device firms, and there is no service enabling founders or small businesses.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 19.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Employee learning programs, including tuition reimbursement and an online learning catalog",
+          "quote": "We offer resources such as our tuition reimbursement program and our online learning catalog, with more than 50,000 courses available.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Training, Compliance and Talent Development",
+          "status": "current",
+          "indicators": "more than 50,000 courses",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Disclosure of the share of female employees in the workforce",
+          "quote": "As of December 31, 2025, approximately 37% of our full-time employees were female.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital Management > Our People",
+          "status": "current",
+          "indicators": "37%",
+          "themes": {
+            "cross_cultural": {
+              "kind": "demographics_only",
+              "criterion": "level 1: demographic statistics only"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "In-house research labs and contract engineering services to develop the company's and its customers' new drug-delivery products",
+          "quote": "We maintain our own research-scale production facilities and laboratories for developing new products and offer contract engineering design and development services to assist customers with new product development.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Research and Development Activities",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "entrepreneurship": {
+              "kind": "own_innovation",
+              "criterion": "level 1: company's own innovation"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "Item 7 targeted excerpt was empty. The philanthropic programs (children's health, access to healthcare, STEM education) are described only in general terms, with no named programs, participants or dollars, so they do not lift Community above the employee-development cap. Training is offered 'in many different languages' and the Code of Conduct is available in multiple languages; these were treated as routine operations of a global workforce rather than an inclusion activity, consistent with picking the lower level when torn. Sales outside the U.S. (56.7%) do not count toward Cross-cultural. SEE-DO-SAY safety training was treated as compliance/safety training and not scored.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 800,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
     "ZBRA": {
       "ticker": "ZBRA",
       "company_name": "Zebra Technologies",
@@ -19611,6 +21073,164 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 369,
+      "score_source": "10-K",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": null
+    },
+    "ZS": {
+      "ticker": "ZS",
+      "company_name": "Zscaler, Inc.",
+      "sector": "Information Technology",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-09-03",
+      "fiscal_year": 2026,
+      "accession_number": "0001713683-26-000157",
+      "scored_at": "2026-10-19T04:45:12",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the business description covers cloud cybersecurity products in detail and shows no creative work being created, enabled or supported. Uses of 'design' refer to engineering and do not count.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 2,
+          "score": 2,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "valid_evidence_ids": [
+            "E1",
+            "E2"
+          ],
+          "kinds": [
+            "employee_development"
+          ],
+          "reason": "Level 2: the filing describes only employee development programs, with no external education or community investment, so the score is capped at 2.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "cross_cultural": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [
+            "E3"
+          ],
+          "valid_evidence_ids": [
+            "E3"
+          ],
+          "kinds": [
+            "customer_access"
+          ],
+          "reason": "Level 1: the Human Capital section is substantial but describes no inclusion activity, and the only related item is a VPAT 508 listed among compliance credentials with no described accessibility feature or program, so it scores at most 1 when torn. International operations do not count.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "entrepreneurship": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 1: this rests on general language only, namely the company's own innovation and R&D and an 'Innovation' value, and the filing has no specific service enabling founders or small businesses.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "sufficient",
+        "cross_cultural": "sufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 19.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "evidence": [
+        {
+          "id": "E1",
+          "activity": "Employee development programs that build staff talent and skills from the first day of employment",
+          "quote": "We invest in our employees through a suite of programs from their first day of employment to develop their talent and skills as our business grows.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital > Employee Development",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E2",
+          "activity": "Structured sales and product training for new customer care and success staff, plus live and online technical training and tech talks",
+          "quote": "Our technical teams have access to live and online training resources and participate in frequent company tech talks where training on best practices and latest developments are shared.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Human Capital > Employee Development",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "community": {
+              "kind": "employee_development",
+              "criterion": "level 2: employee development of any size (cap)"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        },
+        {
+          "id": "E3",
+          "activity": "Holds a VPAT 508 (Section 508 accessibility conformance documentation) as part of its U.S. government compliance portfolio",
+          "quote": "We also hold CMMC Level 2 certification, ITAR, FIPS, CJIS, SOC 1 and VPAT 508 in our U.S. Government portfolio.",
+          "source_doc": "10-K",
+          "section": "Item 1 > Compliance",
+          "status": "current",
+          "indicators": "none disclosed",
+          "themes": {
+            "cross_cultural": {
+              "kind": "customer_access",
+              "criterion": "level 1: listed compliance credential only, with no described accessibility feature or program"
+            }
+          },
+          "figures_removed": [],
+          "warnings": [],
+          "verified": true,
+          "problem": ""
+        }
+      ],
+      "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. The channel partner 'education, training and programs' supports resellers and integrators in selling Zscaler products. That is commercial sales enablement, not external education or small-business enablement, so it was not scored. The Zenith Live conference and Public Sector Summit are marketing events and were not scored. 'Foundation' (security architecture), 'content' (web content), 'training' (AI/ML model training) and 'identity' (identity-based access) are trap terms and were excluded. Customers are mostly large enterprises ('enterprises of all sizes'), with no small-business program. The Human Capital section describes no community investment, volunteering, employee networks or inclusion programs. Coverage is still marked sufficient because the section is well over 150 words and does not point to another document for these areas.",
+      "quote_check_status": "passed",
+      "flags": [],
+      "human_capital_words": 703,
       "score_source": "10-K",
       "report_url": "",
       "report_link_found_on": "",

@@ -1,0 +1,119 @@
+{
+  "ticker": "WST",
+  "company_name": "West Pharmaceutical Services",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000105770-26-000010",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T04:45:58",
+  "prompt_chars": 44512,
+  "filing_chars": 24501,
+  "filing_words_sent": 3453,
+  "approx_prompt_tokens": 11128,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee learning programs, including tuition reimbursement and an online learning catalog",
+        "quote": "We offer resources such as our tuition reimbursement program and our online learning catalog, with more than 50,000 courses available.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Training, Compliance and Talent Development",
+        "status": "current",
+        "indicators": "more than 50,000 courses",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Disclosure of the share of female employees in the workforce",
+        "quote": "As of December 31, 2025, approximately 37% of our full-time employees were female.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Our People",
+        "status": "current",
+        "indicators": "37%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "In-house research labs and contract engineering services to develop the company's and its customers' new drug-delivery products",
+        "quote": "We maintain our own research-scale production facilities and laboratories for developing new products and offer contract engineering design and development services to assist customers with new product development.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Research and Development Activities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: company's own innovation"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers injectable drug containment, delivery devices and contract manufacturing, and shows no creative activity; 'design' here means engineering or product design, which is a trap."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only specific activity is employee development (tuition reimbursement and a 50,000+ course learning catalog), so the score is capped at 2; philanthropy focused on STEM education is general language with no specific programs."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: the filing gives only a gender demographic statistic and general mention of 'inclusion' strategies, with no specific inclusion practice or customer-access program."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: only the company's own R&D and innovation are described; customers are large pharmaceutical and medical device firms, and there is no service enabling founders or small businesses."
+      }
+    },
+    "notes": "Item 7 targeted excerpt was empty. The philanthropic programs (children's health, access to healthcare, STEM education) are described only in general terms, with no named programs, participants or dollars, so they do not lift Community above the employee-development cap. Training is offered 'in many different languages' and the Code of Conduct is available in multiple languages; these were treated as routine operations of a global workforce rather than an inclusion activity, consistent with picking the lower level when torn. Sales outside the U.S. (56.7%) do not count toward Cross-cultural. SEE-DO-SAY safety training was treated as compliance/safety training and not scored.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"WST\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee learning programs, including tuition reimbursement and an online learning catalog\",\"quote\":\"We offer resources such as our tuition reimbursement program and our online learning catalog, with more than 50,000 courses available.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Training, Compliance and Talent Development\",\"status\":\"current\",\"indicators\":\"more than 50,000 courses\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Disclosure of the share of female employees in the workforce\",\"quote\":\"As of December 31, 2025, approximately 37% of our full-time employees were female.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Our People\",\"status\":\"current\",\"indicators\":\"37%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E3\",\"activity\":\"In-house research labs and contract engineering services to develop the company's and its customers' new drug-delivery products\",\"quote\":\"We maintain our own research-scale production facilities and laboratories for developing new products and offer contract engineering design and development services to assist customers with new product development.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Research and Development Activities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: company's own innovation\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers injectable drug containment, delivery devices and contract manufacturing, and shows no creative activity; 'design' here means engineering or product design, which is a trap.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only specific activity is employee development (tuition reimbursement and a 50,000+ course learning catalog), so the score is capped at 2; philanthropy focused on STEM education is general language with no specific programs.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: the filing gives only a gender demographic statistic and general mention of 'inclusion' strategies, with no specific inclusion practice or customer-access program.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: only the company's own R&D and innovation are described; customers are large pharmaceutical and medical device firms, and there is no service enabling founders or small businesses.\"}},\"notes\":\"Item 7 targeted excerpt was empty. The philanthropic programs (children's health, access to healthcare, STEM education) are described only in general terms, with no named programs, participants or dollars, so they do not lift Community above the employee-development cap. Training is offered 'in many different languages' and the Code of Conduct is available in multiple languages; these were treated as routine operations of a global workforce rather than an inclusion activity, consistent with picking the lower level when torn. Sales outside the U.S. (56.7%) do not count toward Cross-cultural. SEE-DO-SAY safety training was treated as compliance/safety training and not scored.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 15183,
+      "output_tokens": 2373,
+      "duration_ms": 24805
+    }
+  ]
+}

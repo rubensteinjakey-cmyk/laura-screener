@@ -1,0 +1,163 @@
+{
+  "ticker": "CF",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T04:46:41",
+  "themes_rescored": [
+    "community",
+    "cross_cultural"
+  ],
+  "report_url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/sustainability-reports/2024_cf-industries_corporate-stewardship-report.pdf",
+  "report_year": 2024,
+  "report_pdf": "report_2024.pdf",
+  "domain_note": "",
+  "report_link_found_on": "",
+  "status": "scored",
+  "report_text_file": "report_2024_chapters.txt",
+  "chapters": [
+    "Our Workplace & Communities",
+    "Coalitions, Partnerships & Policy Engagement"
+  ],
+  "chapter_method": "printed table of contents",
+  "prompt_chars": 126890,
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Volunteer Time Off program giving employees paid time to volunteer in local communities, with a participation target and achieved rate",
+        "quote": "Achieve 25% employee participation in the Volunteer Time Off (VTO) program by the end of 2025 (achieved at 33%).",
+        "source_doc": "sustainability_report",
+        "section": "6. Our Workplace & Communities > Our Workplace & Communities Goals",
+        "status": "current",
+        "indicators": "25%; 33%",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current volunteering program; participation rate only, with no dollars, hours or beneficiaries disclosed, so reach is limited"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Site-based financial donations, volunteer activities and fundraising in local communities",
+        "quote": "We also support them in making a positive impact in the communities where they live and work, providing time off to volunteer and through site-based financial donations, volunteer activities and fundraising, and proactive community engagement.",
+        "source_doc": "sustainability_report",
+        "section": "6. Our Workplace & Communities > introduction",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community giving, limited reach with no figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Education Assistance Program reimbursing employees' tuition at accredited institutions",
+        "quote": "A program for up to $10,000 of eligible approved education expenses each calendar year for covered education programs at an accredited institution.",
+        "source_doc": "sustainability_report",
+        "section": "6. Our Workplace & Communities > Training & Development > Education Assistance Program",
+        "status": "current",
+        "indicators": "$10,000",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Internal leadership development programs, including the Frontline Leadership Development Program for new team leaders",
+        "quote": "This program upskills new team leaders by teaching fundamental leadership skills, such as goal setting, coaching and feedback, and managing change.",
+        "source_doc": "sustainability_report",
+        "section": "6. Our Workplace & Communities > Leadership Development",
+        "status": "current",
+        "indicators": "23 participants",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Inclusion Resource Groups (employee networks) open to all employees, with growing membership",
+        "quote": "Since their launch in late 2021, our IRG membership has increased from 150 employees to 665 employees as of December 2024.",
+        "source_doc": "sustainability_report",
+        "section": "6. Our Workplace & Communities > Inclusion & Engagement",
+        "status": "current",
+        "indicators": "150 employees; 665 employees",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 3: employee networks with membership figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Leaders took part in the WBCSD LEAP Program for women executives",
+        "quote": "In 2024, members of our leadership team took part in the WBCSD LEAP Program, designed to empower women executives with essential skills and insights in sustainability.",
+        "source_doc": "sustainability_report",
+        "section": "9. Coalitions, Partnerships & Policy Engagement > CF Industries Notable Engagements (WBCSD)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific development program for an underrepresented group, limited reach with no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2. The report shows specific current community investment: a Volunteer Time Off program with 33% employee participation (E1) and site-based donations and fundraising (E2). It also shows extensive employee development (E3, E4). The community investment gives only a participation rate, with no dollars, volunteer hours or beneficiaries, so reach is not shown to be substantial. When torn, pick the lower level. Employee development alone is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 3. Inclusion Resource Groups are employee networks open to all staff with a disclosed membership figure: 665 employees as of December 2024, up from 150 (E5). That is substantial against roughly 2,900 employees. Participation in the WBCSD LEAP program for women executives (E6) adds a smaller internal practice. There is no customer-access or connecting-communities activity at business scale that would support level 4."
+      }
+    },
+    "notes": "Rescored from the FY2025 10-K plus the 2024 sustainability report. The report figures (IRG membership, VTO participation, cohort sizes) describe 2024, while the 10-K covers FY2025. The 10-K still refers to 'fostering a culture of inclusion and engagement' and investing in training, and nothing indicates these programs were discontinued, so they are treated as current. The report's equal-opportunity and non-discrimination language is boilerplate and was not scored separately. The expanded corporate giving philosophy (STEM education, food access, first responders) is listed as 'IN PROGRESS' with no figures, so it was recorded only as context and did not raise the score. Partnerships with local first responders for safety training and industry-association education (Mærsk Center, Global CCS Institute) are safety and industry activities, not community education, so they were not counted. IRG-sponsored community outreach is noted but not double counted under Community."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "```json\n{\"evidence\": [{\"id\": \"E1\", \"activity\": \"Volunteer Time Off program giving employees paid time to volunteer in local communities, with a participation target and achieved rate\", \"quote\": \"Achieve 25% employee participation in the Volunteer Time Off (VTO) program by the end of 2025 (achieved at 33%).\", \"source_doc\": \"sustainability_report\", \"section\": \"6. Our Workplace & Communities > Our Workplace & Communities Goals\", \"status\": \"current\", \"indicators\": \"25%; 33%\", \"themes\": {\"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2: specific current volunteering program; participation rate only, with no dollars, hours or beneficiaries disclosed, so reach is limited\"}}}, {\"id\": \"E2\", \"activity\": \"Site-based financial donations, volunteer activities and fundraising in local communities\", \"quote\": \"We also support them in making a positive impact in the communities where they live and work, providing time off to volunteer and through site-based financial donations, volunteer activities and fundraising, and proactive community engagement.\", \"source_doc\": \"sustainability_report\", \"section\": \"6. Our Workplace & Communities > introduction\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2: specific current community giving, limited reach with no figures\"}}}, {\"id\": \"E3\", \"activity\": \"Education Assistance Program reimbursing employees' tuition at accredited institutions\", \"quote\": \"A program for up to $10,000 of eligible approved education expenses each calendar year for covered education programs at an accredited institution.\", \"source_doc\": \"sustainability_report\", \"section\": \"6. Our Workplace & Communities > Training & Development > Education Assistance Program\", \"status\": \"current\", \"indicators\": \"$10,000\", \"themes\": {\"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size (cap)\"}}}, {\"id\": \"E4\", \"activity\": \"Internal leadership development programs, including the Frontline Leadership Development Program for new team leaders\", \"quote\": \"This program upskills new team leaders by teaching fundamental leadership skills, such as goal setting, coaching and feedback, and managing change.\", \"source_doc\": \"sustainability_report\", \"section\": \"6. Our Workplace & Communities > Leadership Development\", \"status\": \"current\", \"indicators\": \"23 participants\", \"themes\": {\"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size (cap)\"}}}, {\"id\": \"E5\", \"activity\": \"Inclusion Resource Groups (employee networks) open to all employees, with growing membership\", \"quote\": \"Since their launch in late 2021, our IRG membership has increased from 150 employees to 665 employees as of December 2024.\", \"source_doc\": \"sustainability_report\", \"section\": \"6. Our Workplace & Communities > Inclusion & Engagement\", \"status\": \"current\", \"indicators\": \"150 employees; 665 employees\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 3: employee networks with membership figures\"}}}, {\"id\": \"E6\", \"activity\": \"Leaders took part in the WBCSD LEAP Program for women executives\", \"quote\": \"In 2024, members of our leadership team took part in the WBCSD LEAP Program, designed to empower women executives with essential skills and insights in sustainability.\", \"source_doc\": \"sustainability_report\", \"section\": \"9. Coalitions, Partnerships & Policy Engagement > CF Industries Notable Engagements (WBCSD)\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific development program for an underrepresented group, limited reach with no figures\"}}}],\n \"themes\": {\"community\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E2\", \"E3\", \"E4\"], \"reason\": \"Level 2. The report shows specific current community investment: a Volunteer Time Off program with 33% employee participation (E1) and site-based donations and fundraising (E2). It also shows extensive employee development (E3, E4). The community investment gives only a participation rate, with no dollars, volunteer hours or beneficiaries, so reach is not shown to be substantial. When torn, pick the lower level. Employee development alone is capped at 2.\"}, \"cross_cultural\": {\"score\": 3, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E5\", \"E6\"], \"reason\": \"Level 3. Inclusion Resource Groups are employee networks open to all staff with a disclosed membership figure: 665 employees as of December 2024, up from 150 (E5). That is substantial against roughly 2,900 employees. Participation in the WBCSD LEAP program for women executives (E6) adds a smaller internal practice. There is no customer-access or connecting-communities activity at business scale that would support level 4.\"}},\n \"notes\": \"Rescored from the FY2025 10-K plus the 2024 sustainability report. The report figures (IRG membership, VTO participation, cohort sizes) describe 2024, while the 10-K covers FY2025. The 10-K still refers to 'fostering a culture of inclusion and engagement' and investing in training, and nothing indicates these programs were discontinued, so they are treated as current. The report's equal-opportunity and non-discrimination language is boilerplate and was not scored separately. The expanded corporate giving philosophy (STEM education, food access, first responders) is listed as 'IN PROGRESS' with no figures, so it was recorded only as context and did not raise the score. Partnerships with local first responders for safety training and industry-association education (Mærsk Center, Global CCS Institute) are safety and industry activities, not community education, so they were not counted. IRG-sponsored community outreach is noted but not double counted under Community.\"}\n```",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 46507,
+      "output_tokens": 3736,
+      "duration_ms": 35486
+    }
+  ],
+  "log": [
+    "company domains found in 10-K: ['cfindustries.com']",
+    "search suggested 3 candidate(s)",
+    "rejected (only 3 pages, not a report): https://www.cfindustries.com/globalassets/cf-industries/media/documents/2025_cf-industries_corporate-stewardship-report-ceo-letter.pdf",
+    "accepted https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/sustainability-reports/2024_cf-industries_corporate-stewardship-report.pdf (year 2024, 104 pages)",
+    "chapters via printed table of contents: ['Our Workplace & Communities', 'Coalitions, Partnerships & Policy Engagement']"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "ticker": "STRL",
+  "company_name": "Sterling Infrastructure",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000874238-26-000024",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T04:43:31",
+  "prompt_chars": 46490,
+  "filing_chars": 26483,
+  "filing_words_sent": 3882,
+  "approx_prompt_tokens": 11622,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Hazard-specific safety training, a safety orientation for new hires, and follow-up trainings for project employees",
+        "quote": "All project employees receive hazard specific training and our newly-hired employees undergo an initial safety orientation and receive follow-up trainings during their first 90 days of employment.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 1: safety-related training tied to OSHA-type workplace safety requirements, closer to required compliance training than to broader development"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers site development, electrical, transportation infrastructure and concrete/plumbing construction, and shows no creative activity."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only specific training is safety and hazard training, which is compliance-type, and the rest is general language about developing talent, caring for communities and retention, with no external education or community investment."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on the general statement that the company strives to instill an inclusive culture, with no specific networks, accessibility or access programs described."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing fully describes the business and shows no enabling program for founders or small businesses; small local contractors appear only as competitors, which is a trap."
+      }
+    },
+    "notes": "Sustainability and 'The Sterling Way' language about caring for people and communities is a mission statement only. The strategy section mentions 'developing talent and trades people', but it is general and gives no named program, participants or external reach. The filing says public transportation contracts impose 'requirements regarding labor relations and subcontracting with designated classes of disadvantaged businesses'. This is presented as a government contract requirement, not a company program, so it was not scored for Entrepreneurship or Cross-cultural; when torn, the lower level was picked. Joint venture arrangements are a trap and were not scored. The Item 7 excerpt repeats the Item 1 overview word for word and adds no new activities. The planned downsizing of the Texas heavy highway business (expected complete 2026) does not affect the theme scores.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"STRL\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Hazard-specific safety training, a safety orientation for new hires, and follow-up trainings for project employees\",\"quote\":\"All project employees receive hazard specific training and our newly-hired employees undergo an initial safety orientation and receive follow-up trainings during their first 90 days of employment.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 1: safety-related training tied to OSHA-type workplace safety requirements, closer to required compliance training than to broader development\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers site development, electrical, transportation infrastructure and concrete/plumbing construction, and shows no creative activity.\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the only specific training is safety and hazard training, which is compliance-type, and the rest is general language about developing talent, caring for communities and retention, with no external education or community investment.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on the general statement that the company strives to instill an inclusive culture, with no specific networks, accessibility or access programs described.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing fully describes the business and shows no enabling program for founders or small businesses; small local contractors appear only as competitors, which is a trap.\"}},\"notes\":\"Sustainability and 'The Sterling Way' language about caring for people and communities is a mission statement only. The strategy section mentions 'developing talent and trades people', but it is general and gives no named program, participants or external reach. The filing says public transportation contracts impose 'requirements regarding labor relations and subcontracting with designated classes of disadvantaged businesses'. This is presented as a government contract requirement, not a company program, so it was not scored for Entrepreneurship or Cross-cultural; when torn, the lower level was picked. Joint venture arrangements are a trap and were not scored. The Item 7 excerpt repeats the Item 1 overview word for word and adds no new activities. The planned downsizing of the Texas heavy highway business (expected complete 2026) does not affect the theme scores.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16072,
+      "output_tokens": 2118,
+      "duration_ms": 23273
+    }
+  ]
+}

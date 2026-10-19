@@ -1,0 +1,150 @@
+{
+  "ticker": "CDE",
+  "company_name": "Coeur Mining",
+  "sector": "Materials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000215466-26-000004",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T04:43:07",
+  "prompt_chars": 45663,
+  "filing_chars": 25670,
+  "filing_words_sent": 3733,
+  "approx_prompt_tokens": 11415,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "IMPACT, an 18-month in-house leadership training program for front-line supervisors",
+        "quote": "Through IMPACT training, we have invested over 26,250 cumulative hours of leadership training and personal development in almost 270 employees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Employee Development",
+        "status": "current",
+        "indicators": "over 26,250 cumulative hours; almost 270 employees; 18-month training program",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Apprenticeships and internships for local community members, plus youth career education with partner organizations such as By the Hand Club",
+        "quote": "During 2025, we provided over 40 apprenticeships and internships and worked with organizations such as By the Hand Club in Chicago to educate youth in our communities about career opportunities in mining.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Local Hire",
+        "status": "current",
+        "indicators": "over 40 apprenticeships and internships",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Coeur Heroes program providing career opportunities to current and former U.S. military personnel",
+        "quote": "Coeur’s continuing commitment to fostering an inclusive workforce is evidenced by programs such as Coeur Heroes, which provided over 110 career opportunities to current and former U.S. military personnel last year.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Inclusion",
+        "status": "current",
+        "indicators": "over 110 career opportunities",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion activity, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Domestic partner benefits offered to employees",
+        "quote": "We were a leader in the mining industry by providing domestic partner benefits in 2017 and participation has increased 250% since introduction.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Rewards & Wellness",
+        "status": "current",
+        "indicators": "participation has increased 250% since introduction",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: inclusive benefits, specific current activity"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Inclusion training on bullying and bystander intervention for the hourly workforce at every operation",
+        "quote": "In order to emphasize the importance of inclusion in the workplace, we provided our hourly workforce at every operation with training on topics such as bullying and bystander intervention, as well as education on overall mental wellness to support each employee feeling respected and included at work.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion practice, no reach figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers only precious metals mining and sales, with no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: sizeable employee development (IMPACT) plus specific external apprenticeships, internships and youth career education whose disclosed reach (over 40 placements) is limited, so the lower level is chosen when torn with 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: specific current internal inclusion practices (Coeur Heroes veteran hiring, domestic partner benefits, inclusion training) with limited or indirect reach figures, so the lower level is chosen when torn with 3."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing fully describes the business and shows no service or program enabling founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so all evidence is from Item 1. The Recruitment section also mentions partnership programs providing internships, scholarships and apprenticeships. These are treated as the same activity as E2 to avoid double counting, and the scholarships have no disclosed figures. Coeur Heroes (veterans) is tagged cross-cultural because the filing presents it under Inclusion; whether veterans count as an underrepresented group is borderline. The Lovelock medical clinic serves employees and dependents only, so it is not counted as community investment. Indigenous consultation is a permitting requirement and is not scored. The New Gold acquisition is planned (expected to close in first half of 2026) and does not affect scores. The Biodiversity Management Standard bullet appears twice in the Responsibility list.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"CDE\",\"sector\":\"Materials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"IMPACT, an 18-month in-house leadership training program for front-line supervisors\",\"quote\":\"Through IMPACT training, we have invested over 26,250 cumulative hours of leadership training and personal development in almost 270 employees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Employee Development\",\"status\":\"current\",\"indicators\":\"over 26,250 cumulative hours; almost 270 employees; 18-month training program\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Apprenticeships and internships for local community members, plus youth career education with partner organizations such as By the Hand Club\",\"quote\":\"During 2025, we provided over 40 apprenticeships and internships and worked with organizations such as By the Hand Club in Chicago to educate youth in our communities about career opportunities in mining.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Local Hire\",\"status\":\"current\",\"indicators\":\"over 40 apprenticeships and internships\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, limited in reach\"}}},{\"id\":\"E3\",\"activity\":\"Coeur Heroes program providing career opportunities to current and former U.S. military personnel\",\"quote\":\"Coeur’s continuing commitment to fostering an inclusive workforce is evidenced by programs such as Coeur Heroes, which provided over 110 career opportunities to current and former U.S. military personnel last year.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Inclusion\",\"status\":\"current\",\"indicators\":\"over 110 career opportunities\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion activity, limited in reach\"}}},{\"id\":\"E4\",\"activity\":\"Domestic partner benefits offered to employees\",\"quote\":\"We were a leader in the mining industry by providing domestic partner benefits in 2017 and participation has increased 250% since introduction.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Rewards & Wellness\",\"status\":\"current\",\"indicators\":\"participation has increased 250% since introduction\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: inclusive benefits, specific current activity\"}}},{\"id\":\"E5\",\"activity\":\"Inclusion training on bullying and bystander intervention for the hourly workforce at every operation\",\"quote\":\"In order to emphasize the importance of inclusion in the workplace, we provided our hourly workforce at every operation with training on topics such as bullying and bystander intervention, as well as education on overall mental wellness to support each employee feeling respected and included at work.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion practice, no reach figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers only precious metals mining and sales, with no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: sizeable employee development (IMPACT) plus specific external apprenticeships, internships and youth career education whose disclosed reach (over 40 placements) is limited, so the lower level is chosen when torn with 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 2: specific current internal inclusion practices (Coeur Heroes veteran hiring, domestic partner benefits, inclusion training) with limited or indirect reach figures, so the lower level is chosen when torn with 3.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing fully describes the business and shows no service or program enabling founders or small businesses.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so all evidence is from Item 1. The Recruitment section also mentions partnership programs providing internships, scholarships and apprenticeships. These are treated as the same activity as E2 to avoid double counting, and the scholarships have no disclosed figures. Coeur Heroes (veterans) is tagged cross-cultural because the filing presents it under Inclusion; whether veterans count as an underrepresented group is borderline. The Lovelock medical clinic serves employees and dependents only, so it is not counted as community investment. Indigenous consultation is a permitting requirement and is not scored. The New Gold acquisition is planned (expected to close in first half of 2026) and does not affect scores. The Biodiversity Management Standard bullet appears twice in the Responsibility list.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16028,
+      "output_tokens": 4310,
+      "duration_ms": 38667
+    }
+  ]
+}

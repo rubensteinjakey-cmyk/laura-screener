@@ -150,10 +150,20 @@
   ],
   "notes": "Item 7 (targeted) excerpt was empty. VITAS 'Difference Maker Program' (stay bonuses, over $39.2 million paid) is described as a past retention program, not development, so it was not scored. Volunteer recruitment and training appears only as a description of Medicare Conditions of Participation requirements, not as a described VITAS program, so it was not counted as external education. Roto-Rooter is acquiring franchises: one in 2025 and three in 2024. That consolidation suggests the franchise system is shrinking rather than being expanded as an enabling program. The Human Rights Policy and SASB index are referenced on chemed.com. Cross-cultural is insufficient, so this company triggers the automated sustainability-report second look.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 1090,
   "score_source": "10-K",
   "report_url": "",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }
