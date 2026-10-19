@@ -26,34 +26,57 @@
       "coverage_trigger": ""
     },
     "community": {
-      "ai_score": 1,
-      "score": 1,
-      "coverage": "insufficient",
-      "evidence_ids": [],
-      "valid_evidence_ids": [],
-      "kinds": [],
-      "reason": "Level 1 on general language only ('support our employees across many facets of wellness and personal development' and 'engaging in philanthropic activities' with no specific program or figures); coverage is insufficient under condition 2 because the relevant human capital and community discussion is under about 150 words.",
-      "flags": [],
-      "coverage_trigger": "ai",
-      "coverage_reason_ai": "Level 1 on general language only ('support our employees across many facets of wellness and personal development' and 'engaging in philanthropic activities' with no specific program or figures); coverage is insufficient under condition 2 because the relevant human capital and community discussion is under about 150 words."
-    },
-    "cross_cultural": {
-      "ai_score": 1,
-      "score": 1,
-      "coverage": "insufficient",
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
       "evidence_ids": [
-        "E2"
+        "SL-E1",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7"
       ],
       "valid_evidence_ids": [
-        "E2"
+        "SL-E1",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7"
       ],
       "kinds": [
-        "demographics_only"
+        "community_investment",
+        "employee_development",
+        "external_education"
       ],
-      "reason": "Level 1: only workforce demographic statistics are disclosed, with no inclusion or access activity; coverage is insufficient under condition 2 because the relevant workforce discussion is under about 150 words.",
+      "reason": "Level 2: the company has specific current external education and community investment. These are internships (six interns), a Matching Gifts Program (over $18,000 total) and volunteering with three NYC organizations. It also has employee development (tuition assistance for 20 colleagues, coaching for seven, a leadership program). The external activities are named, but their reach is small, so they do not show the substantial reach level 3 needs. Torn between 2 and 3, the lower level applies.",
       "flags": [],
       "coverage_trigger": "ai",
-      "coverage_reason_ai": "Level 1: only workforce demographic statistics are disclosed, with no inclusion or access activity; coverage is insufficient under condition 2 because the relevant workforce discussion is under about 150 words."
+      "score_from_10k": 1,
+      "rescored_from_report": true
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "SL-E2",
+        "SL-E8"
+      ],
+      "valid_evidence_ids": [
+        "SL-E2",
+        "SL-E8"
+      ],
+      "kinds": [
+        "demographics_only",
+        "internal_practice"
+      ],
+      "reason": "Level 2: Project Onramp is a specific current program giving paid internships to college students from communities with limited access to industry opportunities. Its reach is limited (two interns in 2025). Workforce demographics in the 10-K are disclosure only, and equal-opportunity policy language is boilerplate.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "score_from_10k": 1,
+      "rescored_from_report": true
     },
     "entrepreneurship": {
       "ai_score": 1,
@@ -75,19 +98,24 @@
   },
   "scores": {
     "creativity": 0,
-    "community": 1,
-    "cross_cultural": 1,
+    "community": 2,
+    "cross_cultural": 2,
     "entrepreneurship": 1
   },
   "coverage": {
     "creativity": "sufficient",
-    "community": "insufficient",
-    "cross_cultural": "insufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 13.0,
-  "original_10k_scores": null,
-  "original_10k_final": null,
+  "final_score": 23.0,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "original_10k_final": 13.0,
   "evidence": [
     {
       "id": "E1",
@@ -126,14 +154,175 @@
       "warnings": [],
       "verified": true,
       "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Annual internship program hosting students across investment and research teams, with some interns hired into permanent roles",
+      "quote": "During the summer of 2025, we hosted six interns across Research, Search and Evaluation, and Strategy and Analytics.",
+      "source_doc": "sustainability_report",
+      "section": "Building and Supporting Talent > Talent Pipeline Development and Recruitment > Early Career Development",
+      "status": "current",
+      "indicators": "six interns; three undergraduate-level interns hired into permanent roles since 2021",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific current external education activity, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "Project Onramp paid summer internships for college students from communities with limited access to industry opportunities",
+      "quote": "Project Onramp: Facilitated by LSC, creates paid summer internships for college students from communities with limited access to industry opportunities.",
+      "source_doc": "sustainability_report",
+      "section": "Building and Supporting Talent > Talent Pipeline Development and Recruitment > Early Career Development",
+      "status": "current",
+      "indicators": "two interns in 2025",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current access program for underrepresented students, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Matching Gifts Program matching employee donations to non-profits",
+      "quote": "Royalty Pharma offers a Matching Gifts Program that matches employee donations of up to $1,000 per employee per year to eligible non-profit organizations.",
+      "source_doc": "sustainability_report",
+      "section": "Building and Supporting Talent > Employee Engagement in Partnerships and Philanthropy",
+      "status": "current",
+      "indicators": "up to $1,000 per employee per year; over $18,000 donated in total",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: named giving program with limited dollar reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "Employee volunteering with New York City organizations (CUNY laptop donation, Osborne Foundation toy drive, El Nido de Esperanza school-supply backpacks)",
+      "quote": "In 2025, Royalty Pharma partnered with three New York City-based organizations to offer employee volunteering opportunities:",
+      "source_doc": "sustainability_report",
+      "section": "Building and Supporting Talent > Employee Engagement in Partnerships and Philanthropy",
+      "status": "current",
+      "indicators": "three New York City-based organizations",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current volunteering partnerships, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E5",
+      "activity": "Tuition assistance program for full-time employees",
+      "quote": "In 2025, 20 colleagues participated, pursuing a range of educational opportunities, including advanced degrees and specialized certifications.",
+      "source_doc": "sustainability_report",
+      "section": "Building and Supporting Talent > Training and Professional Development > Individual Development Programming",
+      "status": "current",
+      "indicators": "20 colleagues",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E6",
+      "activity": "Executive Coaching Program with external coaches",
+      "quote": "In 2025, seven employees participated in coaching.",
+      "source_doc": "sustainability_report",
+      "section": "Building and Supporting Talent > Training and Professional Development > Individual Development Programming",
+      "status": "current",
+      "indicators": "seven employees",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E7",
+      "activity": "Six-month leadership development program",
+      "quote": "Our six-month leadership development program supports colleagues in identifying individual development goals and strengthening their leadership capabilities.",
+      "source_doc": "sustainability_report",
+      "section": "Building and Supporting Talent > Group Learning",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E8",
+      "activity": "Disclosure of workforce gender and ethnic composition",
+      "quote": "As of December 31, 2025, 48% of the workforce are women and approximately 36% of the workforce of are ethnically diverse.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital",
+      "status": "current",
+      "indicators": "48% women; approximately 36% ethnically diverse",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
     }
   ],
   "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. 'Partner' and 'collaborating' refer to royalty, licensing and funding transactions, and 'innovation' is used in its trap sense; neither was scored as Community or Entrepreneurship. The mission statement ('accelerate innovation in life sciences and thereby positively impact patient lives globally') and the patient-access funding language are general claims. The company has 100 employees following the May 2025 Internalization. Community and Cross-cultural are marked insufficient, which triggers the automated second look using the company sustainability report. The E2 quote reproduces the filing's typo 'of are' exactly.",
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 1246,
-  "score_source": "10-K",
-  "report_url": "",
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://www.royaltypharma.com/wp-content/uploads/2026/04/RP_CRR-2025.pdf",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://www.royaltypharma.com/wp-content/uploads/2026/04/RP_CRR-2025.pdf",
+    "found_on": "",
+    "report_year": 2026,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

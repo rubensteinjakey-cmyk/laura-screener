@@ -123,10 +123,20 @@
   ],
   "notes": "The People, Access and Belonging label has no described practices behind it, so it scores 1 at most. Workforce figures by region are geographic, not demographic. The filing refers readers to the Global Responsibility Report, which is not incorporated. Because Cross-cultural coverage is insufficient, this company qualifies for the automated second look. The education-vertical software (colleges, universities, K-12) is payments and business software for institutions, not an education business, so it was not counted for Community. The small-to-medium physician practice software (AdvancedMD, sold December 2024) and Heartland Payroll Solutions (sold September 2025) are past activities. Issuer Solutions is a discontinued operation divested in January 2026, and Worldpay was acquired in January 2026, after the fiscal year.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 623,
   "score_source": "10-K",
   "report_url": "",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }

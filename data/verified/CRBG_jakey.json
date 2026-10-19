@@ -320,10 +320,20 @@
   ],
   "notes": "The targeted Item 7 excerpt was empty, so all evidence comes from Item 1. Cross-cultural coverage is insufficient (condition 2), which triggers the automated sustainability-report second look. Excluded: (1) the founding membership in the Alliance for Lifetime Income, because its education promotes the company's own product category (annuities) and resembles 'educating customers as marketing'; (2) retirement education for Group Retirement plan participants, which is part of the core financial-services offering rather than an education business; (3) the Compassionate Colleague Fund, which is an employee hardship benefit. The HBCU First and Rock the Street, Wall Street partnerships (E2) may serve underrepresented students, but the filing does not describe who they serve, so they are not tagged for cross-cultural. Community was torn between levels 2 and 3 (named programs, but the only reach figure is volunteer hours), so the lower level was chosen.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 3,
   "score_source": "10-K",
   "report_url": "",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }

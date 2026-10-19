@@ -193,10 +193,20 @@
   ],
   "notes": "The donation figure is reported as 'over $5,400', which is unusually small for a company of this size and may be a reporting error; it is recorded exactly as written. The E4 quote uses the adjacent full sentence because the sentence containing the figure is broken by a line-break hyphen ('non-/profit'). The Art of Kindness text says 'events' plural but also says 'only one event during fiscal year 2026', which suggests the program shrank from prior years; the score reflects the single current event. Community scoring at 3 depends mainly on E5's volunteer hours, so this is a borderline 2/3 call and is worth a human check. The ESG oversight paragraph mentions 'belonging' and charitable giving, but only as committee oversight scope. The Item 7 excerpt ('a deep connection to culture and community') is marketing language and was not scored. Cross-cultural coverage is insufficient, which triggers the automated second look; the 10-K references the Creating Change Report at deckers.com/responsibility. The Koolaburra and AHNU phase-outs and the Sanuk sale are past brand actions with no theme relevance. Final score: 7 + 18 + 4 + 0 = 29/100.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 0,
   "score_source": "10-K",
   "report_url": "",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }

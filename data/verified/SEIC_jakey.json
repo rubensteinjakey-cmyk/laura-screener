@@ -126,10 +126,21 @@
   ],
   "notes": "Community and Cross-cultural are marked insufficient, which triggers the automated second look using the company's sustainability report. Items treated as traps or excluded: 'customer education' (a client function, not company education); 'higher education' and 'not-for-profit organizations' (institutional clients only); 'foundation' in MD&A (used metaphorically); 'diversified portfolios'; 'product innovation'; the Global Capability Center in India (international operations alone do not count); and investments in new businesses (the company's own R&D). Stratos 'advisor-enablement' and succession-planning capabilities serve advisor businesses but give no specific founder or small-business enabling program and no reach figures, so they are not scored above 1. The FCA remediation matter involving SIEL is not relevant to the themes.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 109,
   "score_source": "10-K",
   "report_url": "",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

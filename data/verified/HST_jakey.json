@@ -43,22 +43,42 @@
       "coverage_trigger": ""
     },
     "cross_cultural": {
-      "ai_score": 1,
-      "score": 1,
-      "coverage": "insufficient",
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
       "evidence_ids": [
-        "E2"
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7",
+        "SL-E8",
+        "SL-E9",
+        "SL-E10"
       ],
       "valid_evidence_ids": [
-        "E2"
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5",
+        "SL-E6",
+        "SL-E7",
+        "SL-E8",
+        "SL-E9",
+        "SL-E10"
       ],
       "kinds": [
-        "demographics_only"
+        "connecting_communities",
+        "internal_practice"
       ],
-      "reason": "Level 1: only workforce demographic statistics are disclosed; coverage is insufficient under condition 2 (the inclusion-relevant discussion is a two-sentence demographics paragraph well under about 150 words) and condition 3 (the filing points to the Corporate Responsibility Report, including its EEO-1 report and social performance, while giving no specific inclusion activities itself).",
+      "reason": "Level 3: current, specific inclusion activities with reported figures. These are an employee resource group with a membership figure (nearly 100 members, E1), the Dignity of Work sourcing pledge benefiting refugees and people with disabilities (over 300 and over 500 hours, E5), and a resort Hawaiian cultural center connecting visitors and the local community (five full-time Native Hawaiian staff, E10). Further current activities without figures support this (E2-E4, E6-E9). Not level 4, because cross-cultural access is not a major part of the lodging REIT business. The 10-K alone gives demographics only (E11).",
       "flags": [],
       "coverage_trigger": "ai",
-      "coverage_reason_ai": "Level 1: only workforce demographic statistics are disclosed; coverage is insufficient under condition 2 (the inclusion-relevant discussion is a two-sentence demographics paragraph well under about 150 words) and condition 3 (the filing points to the Corporate Responsibility Report, including its EEO-1 report and social performance, while giving no specific inclusion activities itself)."
+      "score_from_10k": 1,
+      "rescored_from_report": true
     },
     "entrepreneurship": {
       "ai_score": 0,
@@ -75,18 +95,23 @@
   "scores": {
     "creativity": 0,
     "community": 2,
-    "cross_cultural": 1,
+    "cross_cultural": 3,
     "entrepreneurship": 0
   },
   "coverage": {
     "creativity": "sufficient",
     "community": "sufficient",
-    "cross_cultural": "insufficient",
+    "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 16.0,
-  "original_10k_scores": null,
-  "original_10k_final": null,
+  "final_score": 24.0,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "original_10k_final": 16.0,
   "evidence": [
     {
       "id": "E1",
@@ -125,14 +150,231 @@
       "warnings": [],
       "verified": true,
       "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Women's Inspirational Network, an employee resource group open to all employees, holding development and networking events",
+      "quote": "The Women’s Inspirational Network (WIN) — Host’s nearly 100-member resource group that is open to all employees and dedicated to fostering development and networking opportunities — held a panel discussion and celebration in commemoration of Women’s History Month.",
+      "source_doc": "sustainability_report",
+      "section": "In the Workplace > Women's Inspirational Network",
+      "status": "current",
+      "indicators": "nearly 100-member",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 3: employee network with a membership figure"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "Executive-hosted employee events for Pride Month and Juneteenth, with programming rotated each year across the communities represented at Host",
+      "quote": "Highlights in 2025 included executive-hosted celebrations for Pride Month and Juneteenth that included personal reflections from employees.",
+      "source_doc": "sustainability_report",
+      "section": "In the Workplace > Employee Programming",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current internal inclusion programming, limited reach, no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Hiring practice requiring candidate slates for all externally sourced positions to include candidates from varied backgrounds (including LGBTQ+, veterans, neurodiversity, disabilities)",
+      "quote": "In 2025, 100% of candidate slates for externally sourced positions included qualified candidates with varying backgrounds and experiences.",
+      "source_doc": "sustainability_report",
+      "section": "In the Workplace > 2030 Inclusion and Belonging Target",
+      "status": "current",
+      "indicators": "100%",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current inclusive hiring practice at a small (163-employee) workforce"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "Women employees attend industry leadership and advancement programs (AHLA BUILD/ELEVATE, AHLA ForWard Conference)",
+      "quote": "In 2025, 19 Host employees attended the 2025 AHLA ForWard Conference — celebrating the power and advancement of women.",
+      "source_doc": "sustainability_report",
+      "section": "In the Workplace > 2030 Inclusion and Belonging Target",
+      "status": "current",
+      "indicators": "19 Host employees",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current activity, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E5",
+      "activity": "Dignity of Work Pledge: sourcing from social enterprises that create work for adults with disabilities, refugees, formerly incarcerated people and other vulnerable groups",
+      "quote": "Since 2024, Host has contributed over 300 hours toward the pledge while Host properties have contributed over 500 hours. These contributions have benefited adults with disabilities, formerly incarcerated individuals, survivors of human trafficking, refugees and people experiencing homelessness.",
+      "source_doc": "sustainability_report",
+      "section": "Inclusion Across the Value Chain > Case Study: Dignity of Work Pledge",
+      "status": "current",
+      "indicators": "over 300 hours; over 500 hours",
+      "themes": {
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2-3: named ongoing program for refugees and people with disabilities, with figures but modest scale"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E6",
+      "activity": "Paid hands-on hotel training for students with disabilities at a Host-owned resort, including deaf interns",
+      "quote": "At Hyatt Regency Coconut Point Resort and Spa, students with disabilities also complete paid, hands-on training across various hotel departments as a pathway to real work experience and creating long-term opportunity.",
+      "source_doc": "sustainability_report",
+      "section": "Inclusion Across the Value Chain > Case Study: Careers in Hospitality for People with Disabilities",
+      "status": "current",
+      "indicators": "two deaf interns",
+      "themes": {
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2: specific current program for people with disabilities, limited reach (single property)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E7",
+      "activity": "Founding donor to Nareit Foundation grant program supporting nonprofits that increase participation of underrepresented populations in the REIT industry",
+      "quote": "Host is a Founding Donor of Nareit Foundation’s DTD Giving Campaign and Grant Program, which supports nonprofit organizations working to increase the participation of underrepresented populations in the REIT and publicly traded real estate industry.",
+      "source_doc": "sustainability_report",
+      "section": "Inclusion Across the Value Chain > Build Capacity Within the Real Estate Industry",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2: specific current activity, no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E8",
+      "activity": "Procurement practice seeking to increase capital expenditure spend with historically underrepresented or overlooked suppliers",
+      "quote": "To develop a more resilient and expanded supplier base, Host proactively seeks opportunities to increase direct capital expenditure spend with historically underrepresented or overlooked suppliers, contractors and consultants.",
+      "source_doc": "sustainability_report",
+      "section": "Inclusion Across the Value Chain > Create Economic Opportunity Within Supplier Base",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current practice, no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E9",
+      "activity": "Support for the Marriott-Sorenson Center for Hospitality Leadership at Howard University (an HBCU), including employee engagement with students on careers",
+      "quote": "In 2025, Host employees shared real estate investing perspectives at a Center event and engaged directly with students to share information about career pathways within the hospitality industry.",
+      "source_doc": "sustainability_report",
+      "section": "Inclusion Across the Value Chain > Support Next Generation of Hospitality Leaders",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2: specific current activity, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E10",
+      "activity": "Hale Kukuna Hawaiian cultural center at Host-owned Fairmont Kea Lani, connecting visitors, employees and the Native Hawaiian community through cultural workshops and programs",
+      "quote": "This immersive center honors the rich traditions of Hawai’i while fostering meaningful connections between visitors, employees and the local community.",
+      "source_doc": "sustainability_report",
+      "section": "Community Development > Case Study: Honoring and Preserving Local Culture",
+      "status": "current",
+      "indicators": "five full-time Native Hawaiian employees",
+      "themes": {
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2-3: named ongoing program actively bringing cultures together, at a single property"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E11",
+      "activity": "Disclosure of workforce racial composition",
+      "quote": "Our workforce also consists of 37% minorities, with 21% of management positions held by minorities.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources",
+      "status": "current",
+      "indicators": "37%; 21%",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
     }
   ],
   "notes": "The Item 7 targeted excerpt is empty, so no MD&A terms matched. Hotel staff are employed by third-party managers (only 162 corporate employees), so most workforce activity sits outside the filer. The ADA paragraph describes regulatory compliance and possible past or future accessibility capex, with no current named program, so it is not scored as customer access. The Corporate Responsibility section ('committed to advancing health, well-being and opportunity', EPIC value of 'Community') is claim language only. The August 2025 Corporate Responsibility Report is referenced but not incorporated by reference, and Cross-cultural insufficient coverage should trigger the automated second look using that report (hosthotels.com domain). The Asia/Pacific JV exit in 2025 and international hotels are not cross-cultural activity.",
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 715,
-  "score_source": "10-K",
-  "report_url": "",
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://www.hosthotels.com/-/media/HostHotels/Files/DownloadLinksAssets/CR-Highlights/Host_Hotels_Resorts_Inc_2026_Corporate_Responsibility_Report.pdf",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://www.hosthotels.com/-/media/HostHotels/Files/DownloadLinksAssets/CR-Highlights/Host_Hotels_Resorts_Inc_2026_Corporate_Responsibility_Report.pdf",
+    "found_on": "",
+    "report_year": 2026,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
 }

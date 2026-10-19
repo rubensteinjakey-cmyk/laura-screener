@@ -1,0 +1,17 @@
+{
+  "ticker": "CRBG",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T18:16:24",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['corebridgefinancial.com']",
+    "search suggested 3 candidate(s)",
+    "rejected (on file service q4cdn.com; link not found on company page https://investors.corebridgefinancial.com/): https://s201.q4cdn.com/405089319/files/doc_downloads/2026/09/TCFD-Report-Corebridge-Financial.pdf",
+    "rejected (on file service q4cdn.com; link not found on company page https://investors.corebridgefinancial.com/): https://s201.q4cdn.com/405089319/files/doc_downloads/2026/03/TCFD-Report-Corebridge-Financial.pdf",
+    "rejected (only 7 pages, not a report): https://investors.corebridgefinancial.com/files/doc_downloads/2026/09/TCFD-Report-Corebridge-Financial.pdf"
+  ]
+}

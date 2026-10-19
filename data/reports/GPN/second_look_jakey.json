@@ -1,0 +1,15 @@
+{
+  "ticker": "GPN",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T18:18:29",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['bill.com', 'globalpayments.com', 'globalpaymentsinc.com']",
+    "search suggested 1 candidate(s)",
+    "rejected (domain doesn't contain the company's brand name from globalpayments.com): https://d1io3yog0oux5.cloudfront.net/_9c5ca5f691dfa70cb7ef2c9d345c37ef/globalpayments/files/pages/sustainability/2025_Global_Responsibility_Report.pdf"
+  ]
+}

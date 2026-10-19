@@ -105,10 +105,21 @@
   ],
   "notes": "Community and Cross-cultural are marked insufficient (condition 3), so this company qualifies for the automated second look using the Sustainability and Performance Report, which the filing says is on its website under 'Corporate Responsibility'. E1 relates to Penske Transportation Solutions, a 28.9% equity-method affiliate, not a consolidated operation. Excluded traps: 'designs' in the manufacturer trademark license; 'diversified' revenue and geography; 'create a strong sense of community' in social media marketing; 'identity theft prevention'; 'joint venture'; 'innovative' and 'technological innovations'. The independent rental agents and the non-company-owned dealer franchise network in Australia/New Zealand are distribution channels, not enabling programs. Safety consulting partnerships are compliance-related. The targeted Item 7 excerpt contains only a social media disclaimer with no relevant content.",
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
   "human_capital_words": 289,
   "score_source": "10-K",
   "report_url": "",
   "report_link_found_on": "",
-  "second_look": null
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }

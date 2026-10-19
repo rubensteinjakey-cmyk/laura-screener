@@ -1,0 +1,17 @@
+{
+  "ticker": "DECK",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T18:17:18",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['ahnu.com', 'deckers.com', 'koolaburra.com']",
+    "search suggested 3 candidate(s)",
+    "rejected (no usable table of contents / chapters): https://deckers.com/sites/default/files/pdf/FY25_Deckers_PathwaytoCreatingChange.pdf",
+    "rejected (only 5 pages, not a report): https://deckers.com/sites/default/files/pdf/FY26%20Statement%20Against%20Modern%20Slavery%20(FINAL).pdf",
+    "rejected (only 5 pages, not a report): https://deckers.com/sites/default/files/pdf/FY25%20Statement%20Against%20Modern%20Slavery%20[2025.05.02]_0.pdf"
+  ]
+}
