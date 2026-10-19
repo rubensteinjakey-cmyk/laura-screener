@@ -1,0 +1,43 @@
+{
+  "ticker": "CEG",
+  "accession_number": "0001868275-26-000032",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 93477,
+  "sections": {
+    "item1": {
+      "words": 11446,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          11446,
+          12
+        ]
+      }
+    },
+    "item7": {
+      "words": 15292,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          15292,
+          36
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 110,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 604
+    }
+  },
+  "notes": [],
+  "human_capital_words": 801,
+  "human_capital_found": true,
+  "people_paragraph_words": 872
+}

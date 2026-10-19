@@ -1,0 +1,43 @@
+{
+  "ticker": "NVDA",
+  "accession_number": "0001045810-26-000021",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2026,
+  "full_text_words": 51542,
+  "sections": {
+    "item1": {
+      "words": 7078,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          7078,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 5281,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          5281,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 38,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 195
+    }
+  },
+  "notes": [],
+  "human_capital_words": 174,
+  "human_capital_found": true,
+  "people_paragraph_words": 446
+}

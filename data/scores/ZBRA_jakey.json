@@ -1,0 +1,182 @@
+{
+  "ticker": "ZBRA",
+  "company_name": "Zebra Technologies",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-007668",
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:09:03",
+  "prompt_chars": 60539,
+  "filing_chars": 40526,
+  "filing_words_sent": 5600,
+  "approx_prompt_tokens": 15134,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Online learning platform for all employees, linked to individual development plans",
+        "quote": "These resources include the Zebra Education Network, an online learning platform available to all employees offering a wide variety of learning content that employees can connect to their individual development plans.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Annual global in-person and virtual learning series for all employees, launched in 2025",
+        "quote": "In 2025, Zebra also launched a new annual global learning series entitled “Development Days...Learn, Grow, Succeed,” which focused on in-person and virtual learning for all employees globally.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Leadership and management courses for employees who are new to leading people",
+        "quote": "Employees who are new to leading people can complete our Leadership Essentials, Coaching Your Team and Mastering Development Conversations courses, which are designed to foster their leadership and management skills.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Culture and values workshop for employees",
+        "quote": "As of the end of 2025, more than 90% of global employees have attended the workshop.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "more than 90% of global employees",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee-led resource groups open to all employees",
+        "quote": "Zebra has ten employee-led ERGs, each of which is open to all employees. Over 25% of our employees are members of at least one ERG.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Employee Resource Groups (ERGs)",
+        "status": "current",
+        "indicators": "ten employee-led ERGs; Over 25% of our employees are members",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 3: employee networks with membership figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Employee volunteering supported through the Zebra Gives programs",
+        "quote": "Our employees actively participate in volunteering activities, supported through our Zebra Gives programs.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Community Engagement and Philanthropy",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current activity, limited in reach (named program, no figures)"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Philanthropic investments and partnerships focused on STEM, education, healthcare and disaster relief",
+        "quote": "We take a comprehensive approach in engaging Zebra’s global talent and resources to make investments and create partnerships in these four priority areas: Science, Technology, Engineering and Math (STEM), Education, Healthcare and Disaster Relief.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Community Engagement and Philanthropy",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current activity, limited in reach (no dollars or participants disclosed)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers AIDC hardware, software and services in detail and shows no creative activity; 'design' refers to engineering and product design only."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 2: substantial employee development plus named external volunteering and philanthropy (Zebra Gives, STEM and education partnerships) with no reach figures, so it does not reach level 3."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 3: ten employee resource groups open to all employees, with membership disclosed as over 25% of employees, matching the rubric's level 3 example of networks with membership figures."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing fully describes the business and its sales channels but shows no service, program or tool that enables founders or small businesses; 'innovation' and 'innovative culture' are trap terms."
+      }
+    },
+    "notes": "The targeted Item 7 excerpt was empty, so all evidence comes from Item 1. Community: the external programs (Zebra Gives, partnerships in STEM and education) are named but have no participant or dollar figures, so the score stays at 2. Cross-cultural: the equal employment opportunity policy and 'culture of belonging' language are general and are not scored separately; the ERG membership figure is what supports level 3. Entrepreneurship: VARs, ISVs and channel partners are distribution relationships, not small-business enablement; Elo's point-of-sale and kiosk products are not described as aimed at small businesses. Values language such as 'Make a Positive Impact' is a claim and was not scored.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ZBRA\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Online learning platform for all employees, linked to individual development plans\",\"quote\":\"These resources include the Zebra Education Network, an online learning platform available to all employees offering a wide variety of learning content that employees can connect to their individual development plans.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Annual global in-person and virtual learning series for all employees, launched in 2025\",\"quote\":\"In 2025, Zebra also launched a new annual global learning series entitled “Development Days...Learn, Grow, Succeed,” which focused on in-person and virtual learning for all employees globally.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Leadership and management courses for employees who are new to leading people\",\"quote\":\"Employees who are new to leading people can complete our Leadership Essentials, Coaching Your Team and Mastering Development Conversations courses, which are designed to foster their leadership and management skills.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E4\",\"activity\":\"Culture and values workshop for employees\",\"quote\":\"As of the end of 2025, more than 90% of global employees have attended the workshop.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"more than 90% of global employees\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E5\",\"activity\":\"Employee-led resource groups open to all employees\",\"quote\":\"Zebra has ten employee-led ERGs, each of which is open to all employees. Over 25% of our employees are members of at least one ERG.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Employee Resource Groups (ERGs)\",\"status\":\"current\",\"indicators\":\"ten employee-led ERGs; Over 25% of our employees are members\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 3: employee networks with membership figures\"}}},{\"id\":\"E6\",\"activity\":\"Employee volunteering supported through the Zebra Gives programs\",\"quote\":\"Our employees actively participate in volunteering activities, supported through our Zebra Gives programs.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Community Engagement and Philanthropy\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current activity, limited in reach (named program, no figures)\"}}},{\"id\":\"E7\",\"activity\":\"Philanthropic investments and partnerships focused on STEM, education, healthcare and disaster relief\",\"quote\":\"We take a comprehensive approach in engaging Zebra’s global talent and resources to make investments and create partnerships in these four priority areas: Science, Technology, Engineering and Math (STEM), Education, Healthcare and Disaster Relief.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Community Engagement and Philanthropy\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current activity, limited in reach (no dollars or participants disclosed)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers AIDC hardware, software and services in detail and shows no creative activity; 'design' refers to engineering and product design only.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E6\",\"E7\"],\"reason\":\"Level 2: substantial employee development plus named external volunteering and philanthropy (Zebra Gives, STEM and education partnerships) with no reach figures, so it does not reach level 3.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 3: ten employee resource groups open to all employees, with membership disclosed as over 25% of employees, matching the rubric's level 3 example of networks with membership figures.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing fully describes the business and its sales channels but shows no service, program or tool that enables founders or small businesses; 'innovation' and 'innovative culture' are trap terms.\"}},\"notes\":\"The targeted Item 7 excerpt was empty, so all evidence comes from Item 1. Community: the external programs (Zebra Gives, partnerships in STEM and education) are named but have no participant or dollar figures, so the score stays at 2. Cross-cultural: the equal employment opportunity policy and 'culture of belonging' language are general and are not scored separately; the ERG membership figure is what supports level 3. Entrepreneurship: VARs, ISVs and channel partners are distribution relationships, not small-business enablement; Elo's point-of-sale and kiosk products are not described as aimed at small businesses. Values language such as 'Make a Positive Impact' is a claim and was not scored.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 19976,
+      "output_tokens": 3784,
+      "duration_ms": 34260
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ticker": "VSXY",
+  "accession_number": "0001856437-26-000004",
+  "filing_date": "2026-03-20",
+  "fiscal_year": 2026,
+  "full_text_words": 49703,
+  "sections": {
+    "item1": {
+      "words": 4694,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4694,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 11464,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          11464,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 181,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 4,
+      "paragraphs_total": 378
+    }
+  },
+  "notes": [],
+  "human_capital_words": 829,
+  "human_capital_found": true,
+  "people_paragraph_words": 566
+}

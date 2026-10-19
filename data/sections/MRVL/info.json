@@ -1,0 +1,43 @@
+{
+  "ticker": "MRVL",
+  "accession_number": "0001835632-26-000011",
+  "filing_date": "2026-03-11",
+  "fiscal_year": 2026,
+  "full_text_words": 68878,
+  "sections": {
+    "item1": {
+      "words": 6778,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          6778,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8087,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8087,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 192
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1017,
+  "human_capital_found": true,
+  "people_paragraph_words": 832
+}

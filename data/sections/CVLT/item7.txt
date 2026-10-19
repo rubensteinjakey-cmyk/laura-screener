@@ -1,0 +1,333 @@
+Item 7. | Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion and analysis along with our consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. The statements in this discussion regarding our expectations of our future performance, liquidity and capital resources, and other non-historical statements are forward-looking statements. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to, the risks and uncertainties described under "Risk Factors" and elsewhere in this Annual Report on Form 10-K. Our actual results may differ materially from those contained in or implied by any forward-looking statements. For discussion comparing the period ended March 31, 2025 to March 31, 2024, please refer to our Annual Report on Form 10-K, filed with the SEC on May 05, 2025.
+
+Overview
+
+Commvault Systems, Inc. ("Commvault") is a provider of cyber resiliency solutions designed to help the enterprise protect, secure, and recover their data, applications, and identity systems in a world of increasing cyber threats and attacks. Commvault’s offerings provide cyber resilience, including data protection, cyber recovery, data security, and governance, aiming to enable customers continuous business.
+
+Industry
+
+Our industry continues to be reshaped by accelerating data growth, increasingly sophisticated cyberattacks, the rapid adoption of AI, and the expansion of hybrid, multi-cloud, cloud-native and SaaS environments. Customers increasingly require a cyber resilience platform that brings together data security, identity resilience, real-time governance, threat detection, and verified clean recovery for structured and unstructured data, cloud-native applications, and AI workloads. Commvault Cloud is designed to help organizations secure, govern, and recover data and workloads anywhere to anywhere, while supporting compliance and operational resilience at scale.
+
+Sources of Revenues
+
+We generate revenues through subscription arrangements, which includes both term-based software licenses and SaaS, perpetual software licenses, customer support contracts and other services. A significant portion of our revenues comes from subscription arrangements, delivered on-premise through term-based licensing, or through cloud-based SaaS offerings. These arrangements are economically and contractually similar, as customers generally receive access to our software for a specified term under binding agreements. We are focused on these types of recurring revenue arrangements.
+
+We expect our subscription arrangements will continue to generate revenues from the renewals of term-based licenses and SaaS offerings sold in prior years. Any of our pricing models (capacity, instance-based, consumption, etc.) can be sold either through term-based licensing or via cloud-based SaaS offerings. In term-based license arrangements, software revenue is generally recognized when the software is delivered or made available for download. Revenue related to our SaaS offerings is generally recognized ratably over the contract period or, in consumption arrangements, as the solutions are consumed.
+
+Our customer support revenue includes support services for term‑based subscription customers and support contracts for perpetual license customers. Customer support includes software updates on a when-and-if-available basis, telephone support, integrated web-based support, and other premium support offerings. We sell our customer support contracts as a percentage of net software purchases. Customer support revenue is recognized ratably over the term of the customer support agreement, which is typically one year on our perpetual licenses and over the term on our term-based licenses, which typically range from one to three years.
+
+Our other services revenue consists primarily of professional service offerings, including consultation, assessment and design, installation services, and customer education. Revenue from other services can vary period over period based on the timing services are delivered and are typically recognized as the services are performed.
+
+We sell to end-user customers both directly through our sales force and indirectly through our global network of value-added reseller partners, systems integrators, corporate resellers, OEMs, and marketplaces. Revenues generated through indirect distribution channels accounted for approximately 90% of our total revenues in the fiscal years ended March 31, 2026, 2025, and 2024. Revenues generated through direct distribution channels accounted for approximately 10% of our total revenues in the fiscal years ended March 31, 2026, 2025, and 2024. Deals initiated by our direct sales force are sometimes transacted through indirect channels based on end-user customer requirements, which are not always in our control and can cause this overall percentage split to vary from period to period. As such, there may be fluctuations in the dollars and percentage of revenues generated through our distribution channels from time to time. We believe that the growth of our revenues, derived from both our indirect channel partners and direct sales force, are key attributes to our long-term growth strategy. We intend to continue to invest in both our channel relationships and direct sales force in the future, but we continue to expect more revenues to be generated through indirect distribution channels over the long term. The failure of our indirect distribution channels or our direct sales force to effectively sell our products and services could have a material adverse effect on our revenues and results of operations.
+
+We have non-exclusive distribution agreements with certain partners who enable a more efficient and effective distribution channel for our solutions by managing our resellers and leveraging their own industry experience. For the fiscal years ended March 31, 2026, 2025, and 2024, Partner A accounted for approximately 32%, 35%, and 36% of our total revenues, respectively. Separately, Partner B accounted for approximately 11% of our total revenues for the fiscal year ended March 31, 2026. Total revenues for the fiscal years ended March 31, 2025 and 2024 for Partner B were less than 10%. If any of these partners were to discontinue or materially reduce their sales of our solutions, terminate their agreements with us, or experience operational or financial difficulties, and if we were unable to effectively replace them or assume management of the affected distribution activities, our business, revenues, and results of operations could be materially adversely affected.
+
+We also sell our solutions through cloud-based marketplace offerings operated by third-party platform providers. Revenue from marketplace transactions are typically recorded on a gross basis, and amounts paid to the marketplace providers are capitalized as contract costs and amortized over the term of the related arrangement. Amortization of capitalized marketplace costs was $2.0 million, $1.7 million, and $0.3 million for the fiscal years ended March 31, 2026, 2025, and 2024, respectively. Transactions through third‑party cloud marketplace providers represented less than 10% of our total revenues for the fiscal years ended March 31, 2026, 2025, and 2024, respectively. These transactions include sales to both new and existing customers and may include new purchases, renewals, expansions for existing customers, and subscriptions for both on‑premise and SaaS offerings.
+
+For additional information on how we recognize revenue, see Note 3 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Description of Costs and Expenses
+
+Our cost of revenues consist of the following:
+
+•Cost of Subscription Revenue, consists primarily of third-party hosting fees related to our SaaS offerings, third-party royalty costs on certain offerings, and other costs such as media, manuals, translation and distribution costs;
+
+•Cost of Perpetual License Revenue, consists primarily of third-party royalty costs on certain offerings;
+
+•Cost of Customer Support Revenue, consists primarily of salary and other employee compensation costs in providing customer support services; and
+
+•Cost of Other Services Revenue, consists primarily of salary and other employee compensation costs in providing professional services.
+
+Our operating expenses consist of the following:
+
+•Sales and Marketing, consists primarily of salaries, commissions and bonuses, employee benefits, stock-based compensation and other direct and indirect business expenses, including travel and related expenses, sales promotion expenses, public relations expenses and costs for marketing materials and other marketing events (such as trade shows and advertising);
+
+•Research and Development, consists primarily of salaries, bonuses, stock-based compensation, benefits and related expenses for research and development personnel associated with the development of new, or the modification of existing, offerings and applications; further, costs related to certain contract labor and consulting fees and expenses associated with the design, certification and testing of our offerings are included; as well as legal costs associated with the patent registration of such offerings and applications;
+
+•General and Administrative, consists primarily of salaries, bonuses, stock-based compensation and benefits for our executives, finance, human resources, legal and compliance, business technology and other administrative personnel. Also included in this category are other general corporate expenses, such as outside legal, consulting and accounting services, compliance costs and insurance; and
+
+•Depreciation and Amortization, consists of depreciation expense for fixed assets, computer equipment we use for information services and in our development and test labs, and amortization of intangible assets.
+
+Key Performance Indicators ($ in millions)
+
+We monitor the following key performance indicators to help evaluate the state of our business. We believe the below metrics are material to investors to understand the growth and performance of our business, as they help normalize certain variable factors. Metrics such as Annualized Recurring Revenue ("ARR"), Subscription ARR, SaaS ARR and SaaS Net Dollar Retention Rate ("SaaS NRR") provide a consistent view of our recurring revenue profile. ARR, Subscription ARR, and SaaS ARR exclude non-recurring elements and reflect the annualized value of active contracts, while SaaS NRR measures net expansion within our existing SaaS customer base. Together, we believe these metrics offer meaningful insight into the health and trajectory of our recurring revenue streams.
+
+Total Annualized Recurring Revenue ("ARR")
+
+Total ARR represents the annualized value of all active contracts as of the end of a reporting period. ARR includes recurring subscription offerings, customer support associated with perpetual and term licenses, premium support offerings for subscription-based customers, and managed service offerings. ARR excludes non-recurring elements, such as perpetual licenses and professional services, which are typically delivered at a point in time. For all term-based arrangements, ARR is calculated by dividing the total active contract value by the number of days in the contract term and multiplying the result by 365. For consumption-based arrangements on a pay as you go model without a fixed commitment, ARR is calculated by annualizing the revenue contractually expected to be received in a given month based on actual monthly usage from a prior month. Because ARR includes only contracts that are active at the end of the reporting period, it does not reflect assumptions or estimates regarding future contract renewals or non-renewals.
+
+We believe ARR is a valuable metric for evaluating the growth of our business, as it provides a normalized view of recurring revenue by excluding the variability associated with contract term lengths and omitting contracts that are not expected to renew. Because ARR reflects the annualized value of recurring customer contracts at a particular point in time, quarter‑to‑quarter movements can vary depending on the timing of customer transactions, renewals and other normal purchasing patterns.
+
+March 31,
+
+2026 | 2025
+
+Total ARR | $ | 1,121.6 | $ | 930.1
+
+% Growth | 21 | % | 21 | %
+
+Subscription ARR
+
+Subscription ARR represents the portion of ARR attributable to term-based licenses, maintenance and support services associated with term license arrangements, SaaS subscriptions, and consumption‑based arrangements, calculated using the same ARR methodology. We believe Subscription ARR provides useful insight into the growth of our subscription-based offerings and reflects both new customer acquisition and expansion within our existing customer base. As our most strategically significant and rapidly expanding revenue streams, our subscription arrangements are central to our long-term growth strategy and operational focus.
+
+March 31,
+
+2026 | 2025
+
+Subscription ARR | $ | 989.3 | $ | 780.1
+
+% Growth | 27 | % | 31 | %
+
+SaaS ARR
+
+SaaS ARR represents the cloud‑hosted portion of Subscription ARR and excludes revenue attributable to term license arrangements and related maintenance and support services. SaaS ARR reflects the annualized value of active SaaS contracts and we believe this metric provides insight into customer adoption trends and expansion within our cloud-based offerings. As SaaS continues to represent a growing share of both subscription and total revenues, we view this metric as a key indicator of our ability to meet the evolving needs of our customer base. Continued adoption, expansion, and conversion to SaaS arrangements are critical to sustaining our long-term growth and aligning with customer preferences for cloud-delivered solutions.
+
+March 31,
+
+2026 | 2025
+
+SaaS ARR | $ | 400.2 | $ | 281.0
+
+% Growth | 42 | % | 68 | %
+
+SaaS Net Dollar Retention Rate (SaaS NRR)
+
+SaaS NRR is the percentage of SaaS ARR retained from existing customers at the start of an annual period after accounting for expansion revenue, churn, and downsell. It is presented on a constant currency basis using exchange rates as of March 31, 2025. Acquired SaaS ARR is excluded until the acquisition is fully integrated, which we generally expect to occur twelve months from the closing date. We believe our SaaS Net Dollar Retention Rate offers valuable insight into the year-over-year expansion of our existing customer base, reflecting both increased utilization of current products and services as well as the adoption of additional offerings.
+
+March 31,
+
+2026 | 2025
+
+SaaS NRR | 122 | % | 127 | %
+
+These metrics are non-GAAP measures and do not have standardized definitions under U.S. generally accepted accounting principles ("GAAP"). As such, they may not be comparable to similarly titled measures used by other companies and should be considered as a supplement to, and not as a substitute for, financial information prepared in accordance with GAAP. Management uses these metrics to assess the health of our recurring revenue base and to inform strategic decision making. These metrics should be viewed independently of GAAP revenue, deferred revenue and unbilled revenue and are not intended to be combined with or to replace those items. ARR is not a forecast of future revenue.
+
+Foreign Currency Exchange Rates’ Impact on Results of Operations
+
+Sales outside the United States were 47% of our total revenues for fiscal 2026, 46% for fiscal 2025 and 48% for fiscal 2024. The income statements of our non-U.S. operations are translated into U.S. dollars at the average exchange rates for each applicable month in a period. To the extent the U.S. dollar weakens against foreign currencies, the translation of these foreign currency-denominated transactions generally results in increased revenues, operating expenses and income from operations for our non-U.S. operations. Similarly, our revenues, operating expenses and income from operations will generally decrease for our non-U.S. operations if the U.S. dollar strengthens against foreign currencies.
+
+Using the average foreign currency exchange rates from fiscal 2025, our fiscal 2026 total revenues would have been lower by $29.5 million, our cost of revenues would have been lower by $1.2 million, and our operating expenses would have been lower by $7.7 million.
+
+In addition, we are exposed to risks of foreign currency fluctuation primarily from cash balances, accounts receivables and intercompany accounts denominated in foreign currencies and are subject to the resulting transaction gains and losses, which are recorded as a component of general and administrative expenses. We recognized net foreign currency transaction losses of $2.1 million, $1.5 million and $2.4 million in fiscal 2026, fiscal 2025 and fiscal 2024, respectively.
+
+Critical Accounting Policies
+
+In presenting our consolidated financial statements in conformity with GAAP, we are required to make estimates and judgments that affect the amounts reported therein. Some of the estimates and assumptions we are required to make relate to matters that are inherently uncertain as they pertain to future events. We base these estimates on historical experience and on various other assumptions that we believe to be reasonable and appropriate. Actual results may differ significantly from these estimates. To the extent that there are material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows may be affected.
+
+In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application, while in other cases, significant judgment is required in selecting among available alternative accounting standards that allow different accounting treatment for similar transactions. We consider these policies requiring significant management judgment to be critical accounting policies. The following is a description of these critical accounting policies:
+
+Revenue Recognition
+
+We account for revenue in accordance with Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers. Our revenue recognition policies require us to make significant judgments and estimates. In applying these policies, we must determine which portions of our revenue are recognized currently (generally software-related revenue) and which portions must be deferred and recognized in future periods (generally SaaS, customer support, and other services revenues). We analyze various factors including, but not limited to, the standalone selling prices of performance obligations, our pricing policies, the creditworthiness of our customers, and contractual terms and conditions, including whether extended payment terms give rise to a significant financing component, in making such judgments about revenue recognition. As most of our transactions go through indirect distribution channels, we are also required to make judgments around principal versus agent considerations and determining which party is our customer in multi-party arrangements. Changes in judgment on any of these factors could materially impact the timing and amount of revenue recognized in a given period.
+
+Most of our contracts with customers contain multiple performance obligations. For these contracts, we evaluate and account for individual performance obligations separately if they are determined to be distinct. The transaction price is allocated to the separate performance obligations on a relative standalone selling price basis. Standalone selling prices for software licenses (both term-based and perpetual) are typically estimated using the residual approach. Standalone selling prices for SaaS, customer support contracts, and other services are typically estimated based on observable transactions when these services are sold on a standalone basis. We recognize revenue net of sales taxes. For additional information on how we recognize revenue, see Note 3 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Accounting for Income Taxes
+
+Under ASC 740, Income Taxes, deferred income taxes arise from temporary differences between the tax basis of assets and liabilities and their reported amounts. Valuation allowances are established when, in our judgment, it is more likely than not that deferred tax assets will not be realized. In assessing the need for a valuation allowance, we consider all available objective and verifiable evidence both positive and negative, including historical levels of pre-tax income or loss, both on a consolidated basis and tax reporting entity basis, legislative developments, expectations and risks associated with estimates of future pre-tax income, and prudent and feasible tax planning strategies. At March 31, 2026 and 2025, we recorded a valuation allowance, which reflects uncertainties around our ability to generate sufficient income in certain jurisdictions to utilize our net deferred tax assets. We believe, in the current period, it is more likely than not that we will have sufficient taxable income to realize our remaining deferred tax assets.
+
+Goodwill and Purchased Intangible Assets
+
+Goodwill is recorded when the consideration paid for an acquisition exceeds the fair value of net tangible and intangible assets acquired. The carrying value of goodwill is tested for impairment on an annual basis on January 1, or more often if an event occurs or circumstances change that would more likely than not reduce the fair value of its carrying amount. For the purpose of impairment testing, we have a single reporting unit. We have elected to first assess the qualitative factors to determine whether it is more likely than not that the fair value of our single reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the quantitative goodwill impairment test. This may involve making judgments about a variety of factors that impact fair value, including business plans, anticipated future cash flows, economic projections, and other market data. If the qualitative assessment indicates that it is more likely than not that the fair value is less than the carrying amount, a quantitative goodwill impairment test is performed. If the fair value exceeds the carrying amount, no further analysis is required; otherwise, an impairment loss is recognized for the amount by which the carrying value of goodwill exceeds its fair value. Because there are inherent uncertainties involved in these factors, significant differences between these estimates and actual results could result in future impairment charges and could materially impact our future financial results. No impairment of goodwill has been identified during the years presented.
+
+We apply judgment in estimating the fair value of purchased intangible assets, which involves the use of significant judgment. The assumptions used in valuing intangible assets include, but are not limited to, future expected cash flows of the asset, discount rates to determine the present value of the future cash flows, attrition rates of customers, and expected technology life cycles. We also estimate the useful lives of the intangible assets based on the expected period over which we anticipate generating economic benefit from the asset. Additionally, we assess purchased intangible assets for impairment when events or changes in circumstances indicate the carrying amount is not recoverable and exceeds its fair value. Determining the fair value of intangible assets requires management to make estimates based on all available information and, in some cases, assumptions regarding the timing and amount of future revenues and expenses associated with the asset. Because there are inherent uncertainties involved in these factors, significant differences between these estimates and actual results could result in future impairment charges and could materially impact our future financial results. No impairment of purchased intangible assets has been identified during the years presented.
+
+Results of Operations
+
+Amounts reported in millions are rounded based on the amounts in thousands. As a result, the sum of the components reported in millions may not equal the total amount reported in millions due to rounding.
+
+Fiscal year ended March 31, 2026 compared to fiscal year ended March 31, 2025
+
+Revenues ($ in millions)
+
+Year Ended March 31,
+
+2026 | 2025 | % Change
+
+Subscription:
+
+Term-based license | $ | 435.3 | $ | 370.4 | 18 | %
+
+SaaS | 333.0 | 219.3 | 52 | %
+
+Total subscription | 768.3 | 589.7 | 30 | %
+
+Perpetual license | 43.2 | 55.6 | (22) | %
+
+Customer support | 320.4 | 307.6 | 4 | %
+
+Other services | 51.7 | 42.7 | 21 | %
+
+Total revenues | $ | 1,183.7 | $ | 995.6 | 19 | %
+
+–Total revenues increased $188.1 million, or 19% year over year, driven primarily by continued growth in subscription revenue, reflecting our strategic focus on selling term-based software licenses and SaaS offerings. Subscription revenue growth included a $64.9 million increase in term-based license revenue and a $113.7 million increase in SaaS revenue. This growth was partially offset by a $12.4 million decrease in perpetual license revenue.
+
+–Term-based license revenue increased $64.9 million, or 18% year over year, primarily driven by growth in larger transactions. Deals greater than $0.1 million increased 19% year over year, reflecting a 2% increase in average deal size and a 16% increase in transaction volume. These trends were driven by continued strength in new customer acquisition as well as expansion within our existing customer base.
+
+–SaaS revenue increased $113.7 million, or 52% year over year, driven by strong demand for our SaaS offerings, including higher SaaS bookings from new customers and expansion within our existing customer installed base, including greater multi-product usage.
+
+–Perpetual license revenue decreased $12.4 million, or 22% year over year, consistent with our continued shift toward subscription-based offerings. Perpetual licenses are generally only sold in limited verticals and geographies, and we expect perpetual license revenue to continue to decline over time.
+
+–Customer support revenue increased $12.9 million, or 4% year over year, driven by a $33.0 million increase in term-based support revenue, partially offset by a $20.1 million decrease in perpetual support revenue. For the full fiscal year 2026, term-based support revenue was $202.2 million and perpetual support revenue was $118.3 million.
+
+–Other services revenue increased $9.0 million, or 21% year over year. Period over period changes in other services revenue are primarily driven by the timing of professional services delivery and can vary between periods.
+
+We track total revenues on a geographic basis. Our Americas region includes the United States, Canada, and Latin America. Our International region primarily includes Europe, Middle East, Africa, Australia, India, Southeast Asia and China. Americas and International represented 59% and 41% of our total revenues, respectively, for the year ended March 31, 2026. Total revenues increased 16% and 24% year over year in the Americas and International regions, respectively.
+
+▪The increase in Americas total revenues was primarily due to increases of 7% and 58% in term-based license and SaaS revenues, respectively, partially offset by a 47% decrease in perpetual license revenue, driven by the shift from selling perpetual licenses to subscription software arrangements. Customer support
+
+revenue remained flat compared to the same period of the prior year. Other services revenue increased 20% primarily due to the timing professional services were delivered compared to the same period of the prior year.
+
+▪The increase in International total revenues was due to increases of 39%, 42%, 10% and 23% in term-based license, SaaS, customer support and other services revenues, respectively, partially offset by a 10% decrease in perpetual license revenue, as compared to the same period of the prior year.
+
+Our total revenues in International is subject to changes in foreign exchange rates as further discussed above in the "Foreign Currency Exchange Rates’ Impact on Results of Operations" section.
+
+Cost of Revenues and Gross Margin ($ in millions)
+
+Year Ended March 31,
+
+2026 | 2025
+
+Cost of
+
+Revenues | Gross
+
+Margin | Cost of
+
+Revenues | Gross
+
+Margin
+
+Subscription:
+
+Term-based license | $ | 10.7 | 98 | % | $ | 9.6 | 97 | %
+
+SaaS | 118.3 | 64 | % | 79.3 | 64 | %
+
+Total subscription | 129.0 | 83 | % | 88.9 | 85 | %
+
+Perpetual license | 0.5 | 99 | % | 1.5 | 97 | %
+
+Customer support | 58.9 | 82 | % | 57.7 | 81 | %
+
+Other services | 34.7 | 33 | % | 31.0 | 28 | %
+
+Total | $ | 223.1 | 81 | % | $ | 179.0 | 82 | %
+
+–Total cost of revenues increased $44.1 million and represented 19% of our total revenues in fiscal 2026 compared to 18% fiscal 2025.
+
+–Cost of term-based license revenue increased $1.1 million and represented 2% of our term-based license revenue in fiscal 2026 compared to 3% in fiscal 2025.
+
+–Cost of SaaS revenue increased $39.0 million and represented 36% of our SaaS revenue in both fiscal 2026 and fiscal 2025. The year over year increase is primarily the result of an increase in the cost of infrastructure related to growth in our SaaS offerings.
+
+–Cost of perpetual license revenue decreased $1.0 million and represented 1% of our total perpetual revenue in fiscal 2026 compared to 3% in fiscal 2025.
+
+–Cost of customer support revenue increased $1.2 million and represented 18% of our total customer support revenue in fiscal 2026 compared to 19% in fiscal 2025.
+
+–Cost of other services revenue increased $3.8 million and represented 67% of our total other services revenue in fiscal 2026 compared to 72% in fiscal 2025. The increase in cost of other services revenue was driven by the timing of the delivery of certain professional services.
+
+Operating Expenses ($ in millions)
+
+–Sales and marketing expenses increased $85.6 million, or 20%, primarily driven by a $54.1 million increase in employee compensation and related expenses. This net increase reflects headcount additions, as well as higher sales commissions and payroll taxes associated with higher revenue levels relative to the prior year. Sales and marketing expenses also increased $3.5 million due to higher stock-based compensation. In addition, sales and marketing expenses increased $17.0 million due to higher spending on marketing initiatives, including in‑person events and travel.
+
+–Research and development expenses increased $15.9 million, or 11%, driven by a $9.6 million increase in employee compensation and related expenses, including $4.5 million in higher stock-based compensation. The increase in employee compensation and related expenses is primarily driven by additional headcount, including headcount added through acquisitions. In addition, internal software development and maintenance costs increased $4.8 million, primarily related to development activity to support our product roadmap. Investing in research and development remains a priority for Commvault and we anticipate continued responsible spending related to the development of our software applications and hosted services.
+
+–General and administrative expenses increased $24.3 million, or 18%, driven by an $11.6 million increase in professional services, including third party consultants, accounting and compliance activities. In the second quarter of fiscal 2026, we incurred $1.8 million in legal and consulting expenses as a result of our response to a non-routine security matter. General and administrative expenses also included a $3.3 million increase in employee compensation and related expenses, reflecting the impact of annual merit increases. In addition, there was a $2.7 million increase in stock-based compensation.
+
+–Depreciation and amortization expense increased $1.3 million, or 14%, driven by the acquisition of intangible assets.
+
+–Restructuring expenses were $32.2 million for the year end March 31, 2026. These charges relate to two restructuring plans initiated during fiscal 2026 and consist primarily of severance and associated costs from headcount reductions. These expenses included $4.5 million in fiscal 2026 of stock-based compensation resulting from modifications to existing awards granted to certain employees. We anticipate both plans will be completed in fiscal 2027, with approximately $2.0 million of additional costs expected to be incurred. Restructuring expenses were $10.0 million for the year end March 31, 2025 and related to a prior restructuring plan that was completed in fiscal 2025.
+
+Risks associated with our restructuring plan include additional unexpected costs, adverse effects on employee morale and the failure to meet operational and growth targets due to the loss of key employees, any of which may impair our ability to achieve anticipated results of operations or otherwise harm our business.
+
+–Change in contingent consideration: During the first quarter of fiscal 2026, we recorded a reduction to expense of $0.5 million related to the final achievement under our contingent consideration arrangement related to the acquisition of Appranix, Inc. The arrangement, with final aggregate consideration of $1.9 million, was contingent upon meeting certain financial metrics by June 30, 2025 and could have ranged up to $4.0 million.
+
+Interest Income
+
+Interest income was $21.8 million in fiscal 2026 compared to $6.7 million in fiscal 2025. The increase in interest income was primarily due to higher interest earned on invested cash balances, including investments in money market funds.
+
+Income Tax Expense
+
+Income tax expense was $21.5 million in fiscal 2026 compared to $4.9 million in fiscal 2025. The change in income tax expense and effective tax rate is primarily attributable to items related to stock-based compensation. The One Big Beautiful Bill Act (the "OBBBA"), enacted on July 4, 2025, includes several corporate tax provisions relevant to U.S. businesses. Included in this legislation are provisions that allow for the immediate expensing of domestic research and development expenses, extensions of bonus depreciation, and modifications to the international tax regimes. The provisions in the legislation are generally effective beginning in our fiscal 2026 and have been included in our operating results. The OBBBA primarily affected current and deferred federal tax balances and did not have a material impact on income tax expense for the fiscal year ended March 31, 2026.
+
+Other Factors
+
+In addition, during the first half of fiscal 2027, we expect to incur a contingent business expense related to performance‑based fees associated with certain strategic pricing and packaging initiatives. The obligation to pay these fees is contingent upon the achievement of defined outcomes, and the timing and amount of the expense remain subject to uncertainty. The amount of any such expense, if triggered, is currently estimated to range from approximately $5.0 million to $10.0 million. If incurred, the expense could increase operating costs and affect comparability of results for the period.
+
+Liquidity and Capital Resources
+
+In recent fiscal years, our principal source of liquidity has been cash provided by operations. As of March 31, 2026, our cash and cash equivalents balance was $900.0 million, of which $308.7 million was held outside of the United States by our foreign legal entities. These balances are dispersed across approximately 35 international locations. We believe that such dispersion meets the current and anticipated future liquidity needs of our foreign legal entities. In the event we need to repatriate funds from outside of the United States, such repatriation would likely be subject to restrictions by local laws and/or tax consequences, including foreign withholding taxes. Our cash and cash equivalents consisted of cash deposits and money market funds, which are highly liquid and are intended to support our operating, investing and financing needs.
+
+On September 5, 2025, we completed a private offering of senior, unsecured convertible notes (the "Notes"), with an aggregate principal amount of $900.0 million. Net proceeds after deducting debt issuance costs were approximately $878.4 million. In connection with the Notes, we entered into capped call transactions (the "Capped Calls") which are expected to reduce the potential dilution of our common stock upon any conversion of the Notes and/or offset any cash payments we could be required to make in excess of the principal amount of converted Notes. We used an aggregate amount of $99.6 million of the net proceeds of the Notes to purchase the Capped Calls. Upon conversion, consideration will consist of cash, up to the principal amount of the Notes to be converted, and, for any conversion in excess of principal, cash or shares of our common stock, at our election.
+
+On April 15, 2025, we refinanced our existing $100.0 million senior secured revolving credit facility, replacing it with a new five-year $300.0 million senior secured revolving credit facility (the "Credit Facility") with JPMorgan Chase Bank, N.A, as administrative agent, and the lenders party thereto. The Credit Facility is available for share repurchases, general corporate purposes, and letters of credit. The Credit Facility contains financial maintenance covenants, including a leverage ratio and interest coverage ratio. The Credit Facility also contains certain customary events of default which would permit the lenders to, among other things, declare all loans then outstanding to be immediately due and payable if such default is not cured within applicable grace periods. The Credit Facility also limits our ability to incur certain additional indebtedness, create or permit liens on assets, make acquisitions or investments, make loans or advances, sell or transfer assets, pay dividends or distributions, and engage in certain transactions with affiliates. Outstanding borrowings under the Credit Facility accrue interest at a per annum rate determined by the Company’s election of either the Secured Overnight Financing Rate plus a margin ranging from 1.50% to 2.00%, or a base rate, which is generally the greater of the prime rate plus a margin ranging from 0.50% to 1.00%. The applicable margin in each case is contingent upon the Company’s leverage ratio. Additionally, the unused balance on the Credit Facility is subject to an unused commitment fee ranging from 0.25% to 0.35% per annum based on the Company's leverage ratio. As of March 31, 2026, there were no borrowings under the Credit Facility and we were in compliance with all covenants.
+
+During fiscal 2026, our Board of Directors (the "Board") approved multiple recommitments of our existing share repurchase program. On April 17, 2025, the Board approved a recommitment authorizing $250.0 million under the program, and on January 14, 2026, the Board approved an additional recommitment, bringing the amount available under the program to $250.0 million.
+
+For the year end March 31, 2026, we repurchased $446.1 million of our common stock, of which $117.7 million was used in connection with the Notes and paid from the net proceeds. As of March 31, 2026, no funds remained available under the share repurchase program.
+
+On April 15, 2026, the Board approved a further recommitment of our existing share repurchase program, authorizing $250.0 million to be made available. The share repurchase program does not have an expiration date.
+
+A summary of our stock repurchase activity is as follows:
+
+Year Ended March 31,
+
+2026 | 2025 | 2024 | 2023 | 2022
+
+Cash used for repurchases (in millions) | $ | 446.1 | $ | 165.0 | $ | 184.0 | $ | 150.9 | $ | 305.2
+
+Shares repurchased (in millions) | 4.2 | 1.2 | 2.5 | 2.5 | 4.3
+
+Average price per share | $ | 106.91 | $ | 135.77 | $ | 74.24 | $ | 59.90 | $ | 70.87
+
+Our summarized cash flow information is as follows (in millions):
+
+Year Ended March 31,
+
+2026 | 2025
+
+Net cash provided by operating activities | $ | 244.7 | $ | 207.4
+
+Net cash used in investing activities | (5.4) | (70.4)
+
+Net cash provided by (used in) financing activities | 345.3 | (147.8)
+
+Effects of exchange rate — changes in cash | 13.3 | 0.2
+
+Net increase (decrease) in cash and cash equivalents | $ | 597.9 | $ | (10.6)
+
+- Net cash provided by operating activities was impacted by:
+
+•Fiscal 2026: net income adjusted for the impact of non-cash charges and an increase in deferred revenue, partially offset by an increase in accounts receivable.
+
+•Fiscal 2025: net income adjusted for the impact of non-cash charges and an increase in deferred revenue, partially offset by an increase in accounts receivable.
+
+- Net cash used in investing activities was impacted by:
+
+•Fiscal 2026: $25.8 million for the acquisition of Satori Cyber Ltd., $7.5 million of capital expenditures and $7.0 million for the purchase of equity securities, partially offset by $34.8 million of net proceeds from the sale of Commvault's corporate headquarters.
+
+•Fiscal 2025: $65.3 million for the acquisitions of Appranix, Inc. and Clumio, Inc., $3.8 million of capital expenditures and $1.3 million for the purchase of equity securities.
+
+- Net cash provided by (used in) financing activities was impacted by:
+
+•Fiscal 2026: $900.0 million of proceeds from the issuance of the Notes and $14.5 million of proceeds from the Employee Stock Purchase Plan, partially offset by $446.1 million used to repurchase shares of our common stock under our repurchase program, $99.6 million for the purchase of the Capped Calls and $23.4 million of payment of debt issuance costs.
+
+•Fiscal 2025: $165.0 million used to repurchase shares of our common stock under our repurchase program, partially offset by $17.5 million of proceeds from the exercise of stock options and the Employee Stock Purchase Plan.
+
+Working capital increased $548.3 million from $80.0 million as of March 31, 2025 to $628.3 million as of March 31, 2026. The increase in working capital was primarily the result of an increase in cash and cash equivalents from the issuance of convertible notes and an increase in accounts receivable, partially offset by an increase in the current portion of deferred revenue.
+
+Our primary cash needs over the next twelve months and longer term include working capital requirements, income taxes, capital expenditures, potential stock repurchases and the potential cash portion of consideration upon conversion or at maturity of the Notes. We have discretion to settle conversion consideration above principal in cash, stock, or a combination; the timing and amount of any related cash outflows will depend on our stock price, conversion activity, and our financing strategy. We believe our existing cash and cash flows from operations are sufficient to meet these cash requirements for at least the next twelve months.
+
+Summary Disclosures about Contractual Obligations and Commercial Commitments
+
+We have various contractual obligations and commitments, such as purchase commitments, royalty expenses, warranties, and leases that are disclosed in the Notes to Consolidated Financial Statements. See Note 9, "Commitments and Contingencies" and Note 16, "Leases" of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for further information regarding these commitments.
+
+Indemnifications
+
+Certain of our software licensing agreements contain certain provisions that indemnify our customers from any claim, suit or proceeding arising from alleged or actual intellectual property infringement. These provisions continue in perpetuity along with our software licensing and SaaS agreements. We have never incurred a liability relating to one of these indemnification provisions in the past and we believe that the likelihood of any future payout relating to these provisions is remote. Therefore, we have not recorded a liability during any period related to these indemnification provisions.
+
+Impact of Recently Issued Accounting Standards
+
+See Note 2 of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for a discussion of the impact of recently issued accounting standards.

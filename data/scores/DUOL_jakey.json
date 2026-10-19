@@ -1,0 +1,209 @@
+{
+  "ticker": "DUOL",
+  "company_name": "Duolingo",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-012494",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:00:19",
+  "prompt_chars": 61458,
+  "filing_chars": 41455,
+  "filing_words_sent": 6394,
+  "approx_prompt_tokens": 15364,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Free-to-use mobile language-learning app offering hundreds of language courses to a global user base",
+        "quote": "As of December 31, 2025, Duolingo offers over 250 total language courses to more than 130 million monthly active users.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Business",
+        "status": "current",
+        "indicators": "over 250 total language courses; more than 130 million monthly active users",
+        "themes": {
+          "community": {
+            "kind": "education_business",
+            "criterion": "level 5: education is the core business"
+          },
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 4: multilingual language-learning access is a major part of the business, with measured reach"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Duolingo English Test, a low-cost online alternative to test-center English proficiency exams for international student admissions",
+        "quote": "By offering a more accessible, online option that is both rigorous and accurate, we provide greater opportunities for aspiring students and professionals dependent on the successful completion of these high stakes assessments.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Business",
+        "status": "current",
+        "indicators": "over 6,100 education programs accept results; over 5,300 of those being higher education programs",
+        "themes": {
+          "community": {
+            "kind": "education_business",
+            "criterion": "level 5: education assessment product line within an education core business"
+          },
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 4: removes cost and location barriers for international applicants, with measured reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Duolingo for Schools, a web tool for teachers to use the platform in classrooms",
+        "quote": "Duolingo for Schools is a web-based tool that aims to make it easier for teachers to use the Duolingo platform in a structured learning environment, like a classroom.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Solutions > Other Initiatives",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "education_business",
+            "criterion": "level 5: supports schools and teachers within an education core business"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Duolingo ABC, an app teaching early literacy to young children",
+        "quote": "Duolingo ABC is an app that teaches young children early literacy skills.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Solutions > Other Initiatives",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "education_business",
+            "criterion": "level 5: literacy education product within an education core business"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Music course teaching learners to read music notes and play songs",
+        "quote": "In 2023, we launched a music course that's designed to teach music literacy, including how to read music notes and play songs.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Business",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current arts-education activity, reach not separately disclosed"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "In-house character art, animation and backstories used in lessons",
+        "quote": "Our cheerful characters, with their own personalities and backstories, show up throughout the courses and make the learning experience more interesting and meaningful.",
+        "source_doc": "10-K",
+        "section": "Item 1 > The Duolingo Method",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used as a routine product input"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Statement on founders' immigrant background and international workforce",
+        "quote": "We are proud to say that Duolingo was founded by two immigrants and that our employees represent a wide range of countries and backgrounds, representing the diversity of our global learner community.",
+        "source_doc": "10-K",
+        "section": "Item 1 > People and Culture",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce background statement only"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Ongoing patent program protecting the company's own assessment innovations",
+        "quote": "Duolingo has filed two patent applications directed to proprietary techniques we developed for generating language proficiency test questions and evaluating language proficiency as part of an on-going program to identify and protect innovations developed by the Company.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Intellectual Property",
+        "status": "current",
+        "indicators": "two patent applications",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: the company's own innovation only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: a specific current arts-education offering (the music course) with no separate reach figures, while art and animation are otherwise a routine product input."
+      },
+      "community": {
+        "score": 5,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 5: education and learning is the core business, shown by the language app with more than 130 million MAUs, the English Test, and the schools and literacy products."
+      },
+      "cross_cultural": {
+        "score": 4,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 4: customer access across languages is a major part of the business with measured reach (over 250 language courses, more than 130 million MAUs, and an accessible English test accepted by over 6,100 programs)."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E8"
+        ],
+        "reason": "Level 1: the filing shows only the company's own innovation and no service enabling founders or small businesses."
+      }
+    },
+    "notes": "Mission and values language (for example, 'make it universally available' and the company principles) was not scored above 1. Cross-cultural was weighed between 4 and 5: language learning removes language barriers, and the filing notes refugees among learners and more Irish and Hawaiian learners than native speakers. However, the core business is framed as education, so the lower level of 4 was chosen. The People and Culture section has only an inclusion statement, a legal-compliance hiring policy, and workforce background (E7, demographics only), with no employee networks or programs. No employee training programs are described. Free access and the freemium model are part of the same app (E1) and are not counted separately. The music course has no separate user figures. Math and Chess courses are covered under E1. The Item 7 excerpt on Duolingo English Test acceptance is truncated mid-sentence, so Item 1 was used for quotes. No small-business or founder-enabling activity is disclosed.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DUOL\",\"sector\":\"Consumer Discretionary\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Free-to-use mobile language-learning app offering hundreds of language courses to a global user base\",\"quote\":\"As of December 31, 2025, Duolingo offers over 250 total language courses to more than 130 million monthly active users.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Business\",\"status\":\"current\",\"indicators\":\"over 250 total language courses; more than 130 million monthly active users\",\"themes\":{\"community\":{\"kind\":\"education_business\",\"criterion\":\"level 5: education is the core business\"},\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 4: multilingual language-learning access is a major part of the business, with measured reach\"}}},{\"id\":\"E2\",\"activity\":\"Duolingo English Test, a low-cost online alternative to test-center English proficiency exams for international student admissions\",\"quote\":\"By offering a more accessible, online option that is both rigorous and accurate, we provide greater opportunities for aspiring students and professionals dependent on the successful completion of these high stakes assessments.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Business\",\"status\":\"current\",\"indicators\":\"over 6,100 education programs accept results; over 5,300 of those being higher education programs\",\"themes\":{\"community\":{\"kind\":\"education_business\",\"criterion\":\"level 5: education assessment product line within an education core business\"},\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 4: removes cost and location barriers for international applicants, with measured reach\"}}},{\"id\":\"E3\",\"activity\":\"Duolingo for Schools, a web tool for teachers to use the platform in classrooms\",\"quote\":\"Duolingo for Schools is a web-based tool that aims to make it easier for teachers to use the Duolingo platform in a structured learning environment, like a classroom.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Solutions > Other Initiatives\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"education_business\",\"criterion\":\"level 5: supports schools and teachers within an education core business\"}}},{\"id\":\"E4\",\"activity\":\"Duolingo ABC, an app teaching early literacy to young children\",\"quote\":\"Duolingo ABC is an app that teaches young children early literacy skills.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Solutions > Other Initiatives\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"education_business\",\"criterion\":\"level 5: literacy education product within an education core business\"}}},{\"id\":\"E5\",\"activity\":\"Music course teaching learners to read music notes and play songs\",\"quote\":\"In 2023, we launched a music course that's designed to teach music literacy, including how to read music notes and play songs.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Business\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current arts-education activity, reach not separately disclosed\"}}},{\"id\":\"E6\",\"activity\":\"In-house character art, animation and backstories used in lessons\",\"quote\":\"Our cheerful characters, with their own personalities and backstories, show up throughout the courses and make the learning experience more interesting and meaningful.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > The Duolingo Method\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used as a routine product input\"}}},{\"id\":\"E7\",\"activity\":\"Statement on founders' immigrant background and international workforce\",\"quote\":\"We are proud to say that Duolingo was founded by two immigrants and that our employees represent a wide range of countries and backgrounds, representing the diversity of our global learner community.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > People and Culture\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce background statement only\"}}},{\"id\":\"E8\",\"activity\":\"Ongoing patent program protecting the company's own assessment innovations\",\"quote\":\"Duolingo has filed two patent applications directed to proprietary techniques we developed for generating language proficiency test questions and evaluating language proficiency as part of an on-going program to identify and protect innovations developed by the Company.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Intellectual Property\",\"status\":\"current\",\"indicators\":\"two patent applications\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: the company's own innovation only\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\"],\"reason\":\"Level 2: a specific current arts-education offering (the music course) with no separate reach figures, while art and animation are otherwise a routine product input.\"},\"community\":{\"score\":5,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 5: education and learning is the core business, shown by the language app with more than 130 million MAUs, the English Test, and the schools and literacy products.\"},\"cross_cultural\":{\"score\":4,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 4: customer access across languages is a major part of the business with measured reach (over 250 language courses, more than 130 million MAUs, and an accessible English test accepted by over 6,100 programs).\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E8\"],\"reason\":\"Level 1: the filing shows only the company's own innovation and no service enabling founders or small businesses.\"}},\"notes\":\"Mission and values language (for example, 'make it universally available' and the company principles) was not scored above 1. Cross-cultural was weighed between 4 and 5: language learning removes language barriers, and the filing notes refugees among learners and more Irish and Hawaiian learners than native speakers. However, the core business is framed as education, so the lower level of 4 was chosen. The People and Culture section has only an inclusion statement, a legal-compliance hiring policy, and workforce background (E7, demographics only), with no employee networks or programs. No employee training programs are described. Free access and the freemium model are part of the same app (E1) and are not counted separately. The music course has no separate user figures. Math and Chess courses are covered under E1. The Item 7 excerpt on Duolingo English Test acceptance is truncated mid-sentence, so Item 1 was used for quotes. No small-business or founder-enabling activity is disclosed.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20091,
+      "output_tokens": 6958,
+      "duration_ms": 63267
+    }
+  ]
+}

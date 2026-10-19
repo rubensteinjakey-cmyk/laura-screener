@@ -1,0 +1,102 @@
+{
+  "ticker": "TGTX",
+  "company_name": "TG Therapeutics, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001437749-26-006133",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:05:58",
+  "prompt_chars": 104129,
+  "filing_chars": 84124,
+  "filing_words_sent": 12514,
+  "approx_prompt_tokens": 26032,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Celebrity collaboration on a Super Bowl commercial to raise awareness of multiple sclerosis, used as marketing content",
+        "quote": "Announced collaboration with Christina Applegate to raise awareness of multiple sclerosis (MS) via a Super Bowl LX commercial",
+        "source_doc": "10-K",
+        "section": "Item 1 > Overview > Business Highlights > Next In MS™ Platform Launch in Collaboration with Christina Applegate",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work (advertising content) used as a routine marketing input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Next In MS disease-awareness platform hosting conversations about living with MS",
+        "quote": "Launched, Next In MS™, a platform designed to foster honest, real-world conversations about life with MS—featuring unfiltered dialogue, including discussions with Christina Applegate—and to support people living with MS in continuing those conversations with family, friends, and healthcare professionals on their own terms.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Overview > Business Highlights > Next In MS™ Platform Launch in Collaboration with Christina Applegate",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 1 at most: a patient-awareness platform launched alongside product marketing, so it falls under the 'educating customers as marketing' trap; no participants, partners or dollars are disclosed"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only creative element is a Super Bowl advertising collaboration used as marketing content (a routine input), and the core business is drug development."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: the Human Capital section (over 150 words) describes no training or community programs, and the Next In MS platform is a disease-awareness effort tied to marketing, leaving only general 'patient first' language."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, resting on general language only: the Human Capital section gives equal-opportunity boilerplate and a 'diverse workforce' aspiration, with no specific inclusion or access activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description is fully disclosed and shows no small-business, founder or creator enabling activity; 'innovative treatments' is a trap term."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Super Bowl LX commercial and the Next In MS platform appear under fiscal 2025 business highlights, but their exact launch dates relative to fiscal year-end are not stated; they are treated as current, and neither affects a score above 1. 'Health Care and Education Reconciliation Act', 'industry-sponsored scientific and educational activities', 'collaborations', 'joint ventures', 'license agreements' and 'Asian countries subject to previously existing partnerships' were treated as traps. A patient support website (BRIUMVIPATIENTSUPPORT.com) is mentioned without any description of its services, so it was not scored. The Community and Cross-cultural Human Capital discussion is roughly 200 words with no pointer to a sustainability report, so coverage is sufficient and no second look is triggered.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"TGTX\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Celebrity collaboration on a Super Bowl commercial to raise awareness of multiple sclerosis, used as marketing content\",\"quote\":\"Announced collaboration with Christina Applegate to raise awareness of multiple sclerosis (MS) via a Super Bowl LX commercial\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Overview > Business Highlights > Next In MS™ Platform Launch in Collaboration with Christina Applegate\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work (advertising content) used as a routine marketing input\"}}},{\"id\":\"E2\",\"activity\":\"Next In MS disease-awareness platform hosting conversations about living with MS\",\"quote\":\"Launched, Next In MS™, a platform designed to foster honest, real-world conversations about life with MS—featuring unfiltered dialogue, including discussions with Christina Applegate—and to support people living with MS in continuing those conversations with family, friends, and healthcare professionals on their own terms.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Overview > Business Highlights > Next In MS™ Platform Launch in Collaboration with Christina Applegate\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 1 at most: a patient-awareness platform launched alongside product marketing, so it falls under the 'educating customers as marketing' trap; no participants, partners or dollars are disclosed\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the only creative element is a Super Bowl advertising collaboration used as marketing content (a routine input), and the core business is drug development.\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: the Human Capital section (over 150 words) describes no training or community programs, and the Next In MS platform is a disease-awareness effort tied to marketing, leaving only general 'patient first' language.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, resting on general language only: the Human Capital section gives equal-opportunity boilerplate and a 'diverse workforce' aspiration, with no specific inclusion or access activity.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description is fully disclosed and shows no small-business, founder or creator enabling activity; 'innovative treatments' is a trap term.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Super Bowl LX commercial and the Next In MS platform appear under fiscal 2025 business highlights, but their exact launch dates relative to fiscal year-end are not stated; they are treated as current, and neither affects a score above 1. 'Health Care and Education Reconciliation Act', 'industry-sponsored scientific and educational activities', 'collaborations', 'joint ventures', 'license agreements' and 'Asian countries subject to previously existing partnerships' were treated as traps. A patient support website (BRIUMVIPATIENTSUPPORT.com) is mentioned without any description of its services, so it was not scored. The Community and Cross-cultural Human Capital discussion is roughly 200 words with no pointer to a sustainability report, so coverage is sufficient and no second look is triggered.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 34219,
+      "output_tokens": 3615,
+      "duration_ms": 38363
+    }
+  ]
+}

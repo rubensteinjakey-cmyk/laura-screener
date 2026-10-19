@@ -1,0 +1,43 @@
+{
+  "ticker": "HRB",
+  "accession_number": "0000012659-26-000026",
+  "filing_date": "2026-08-14",
+  "fiscal_year": 2026,
+  "full_text_words": 40765,
+  "sections": {
+    "item1": {
+      "words": 3275,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3275,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 5211,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          5211,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 175,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 210
+    }
+  },
+  "notes": [],
+  "human_capital_words": 911,
+  "human_capital_found": true,
+  "people_paragraph_words": 673
+}

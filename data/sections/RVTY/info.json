@@ -1,0 +1,43 @@
+{
+  "ticker": "RVTY",
+  "accession_number": "0000031791-26-000012",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 49180,
+  "sections": {
+    "item1": {
+      "words": 7986,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          7986,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 4679,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          4679,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 33,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 86
+    }
+  },
+  "notes": [],
+  "human_capital_words": 968,
+  "human_capital_found": true,
+  "people_paragraph_words": 1055
+}

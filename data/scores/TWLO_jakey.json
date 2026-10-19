@@ -1,0 +1,136 @@
+{
+  "ticker": "TWLO",
+  "company_name": "Twilio",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001447669-26-000021",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:01:00",
+  "prompt_chars": 47933,
+  "filing_chars": 27932,
+  "filing_words_sent": 3974,
+  "approx_prompt_tokens": 11983,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Twilio.org program that donates products, sells them at a reduced rate to nonprofits, and gives grant funding",
+        "quote": "Through Twilio.org, which is a part of our company and not a separate legal entity, we donate and sell our products at a reduced rate to nonprofits and offer grant funding to help scale these organizations’ missions.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Twilio.org",
+        "status": "current",
+        "indicators": "1% of Twilio's common stock reserved; 265,225 shares of Twilio Class A common stock set aside; over 30,000 social impact customers; more than 803 million people",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing community investment program (donations, discounted products, grants) with substantial reach shown by indicators (social impact customers, people reached, shares set aside)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Email marketing product with design and template tools for customers' marketing emails",
+        "quote": "Marketing Campaigns includes email design and templates, list management, dynamic content and email testing.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Platform > Our key products",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: design tools for routine marketing content, not original creative work or a creator tool"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Routine statistical pay-equity analysis of employee compensation",
+        "quote": "We routinely run a rigorous statistical analysis to ensure compensation is fair, taking into account factors that should impact pay, like role, level, location, and performance.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Employees and Human Capital Resources",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: fairness practice described alongside equal-opportunity language; borderline for level 2, so the lower level was taken"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Serves small and medium-sized businesses among its customer accounts",
+        "quote": "We have experienced substantial growth in our business since inception, and as of December 31, 2025, we had over 402,000 Active Customer Accounts representing organizations from small and medium-sized businesses to large enterprises across a broad range of industries.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Overview",
+        "status": "current",
+        "indicators": "over 402,000 Active Customer Accounts",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: the only creative element is email design and template tooling for customers' routine marketing content; the core business is communications APIs, data and AI infrastructure, not creating or enabling creative work."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 3: Twilio.org is a named, ongoing community investment program (product donations, reduced pricing for nonprofits, grants) with substantial reach shown by over 30,000 social impact customers and more than 803 million people reached, but the filing does not present it as central to strategy, so level 4 does not apply."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: the human capital section has only equal-opportunity and inclusive-workplace language plus a pay-fairness analysis, with no employee networks, accessibility, multilingual-service or community-connecting program, and when torn the lower level was chosen."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the company serves small and medium-sized businesses as customers but describes no specific program or tool aimed at barriers to starting or growing a business."
+      }
+    },
+    "notes": "Item 7 excerpts show a 'Charitable contributions' line (18,940 / 19,907 / 17,346; units and years not shown in the excerpt) within G&A. It was not recorded as separate evidence because it may overlap with Twilio.org (E1), and counting it separately could double count. 'Multiple languages' in the Email description refers to programming client libraries, not human languages, and global messaging is international operations, so neither counts for Cross-cultural. 'Customer community' documentation and the SIGNAL conference are customer education and marketing (a trap) and were not counted for Community. ISV and partner relationships are a sales channel, not an enabling program for founders. 'Identity' refers to user authentication (a trap). The pay-equity analysis (E3) is borderline between levels 1 and 2 for Cross-cultural; the lower level was applied under the tie-break rule.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"TWLO\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Twilio.org program that donates products, sells them at a reduced rate to nonprofits, and gives grant funding\",\"quote\":\"Through Twilio.org, which is a part of our company and not a separate legal entity, we donate and sell our products at a reduced rate to nonprofits and offer grant funding to help scale these organizations’ missions.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Twilio.org\",\"status\":\"current\",\"indicators\":\"1% of Twilio's common stock reserved; 265,225 shares of Twilio Class A common stock set aside; over 30,000 social impact customers; more than 803 million people\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing community investment program (donations, discounted products, grants) with substantial reach shown by indicators (social impact customers, people reached, shares set aside)\"}}},{\"id\":\"E2\",\"activity\":\"Email marketing product with design and template tools for customers' marketing emails\",\"quote\":\"Marketing Campaigns includes email design and templates, list management, dynamic content and email testing.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Platform > Our key products\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: design tools for routine marketing content, not original creative work or a creator tool\"}}},{\"id\":\"E3\",\"activity\":\"Routine statistical pay-equity analysis of employee compensation\",\"quote\":\"We routinely run a rigorous statistical analysis to ensure compensation is fair, taking into account factors that should impact pay, like role, level, location, and performance.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Employees and Human Capital Resources\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: fairness practice described alongside equal-opportunity language; borderline for level 2, so the lower level was taken\"}}},{\"id\":\"E4\",\"activity\":\"Serves small and medium-sized businesses among its customer accounts\",\"quote\":\"We have experienced substantial growth in our business since inception, and as of December 31, 2025, we had over 402,000 Active Customer Accounts representing organizations from small and medium-sized businesses to large enterprises across a broad range of industries.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Overview\",\"status\":\"current\",\"indicators\":\"over 402,000 Active Customer Accounts\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: the only creative element is email design and template tooling for customers' routine marketing content; the core business is communications APIs, data and AI infrastructure, not creating or enabling creative work.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 3: Twilio.org is a named, ongoing community investment program (product donations, reduced pricing for nonprofits, grants) with substantial reach shown by over 30,000 social impact customers and more than 803 million people reached, but the filing does not present it as central to strategy, so level 4 does not apply.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: the human capital section has only equal-opportunity and inclusive-workplace language plus a pay-fairness analysis, with no employee networks, accessibility, multilingual-service or community-connecting program, and when torn the lower level was chosen.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the company serves small and medium-sized businesses as customers but describes no specific program or tool aimed at barriers to starting or growing a business.\"}},\"notes\":\"Item 7 excerpts show a 'Charitable contributions' line (18,940 / 19,907 / 17,346; units and years not shown in the excerpt) within G&A. It was not recorded as separate evidence because it may overlap with Twilio.org (E1), and counting it separately could double count. 'Multiple languages' in the Email description refers to programming client libraries, not human languages, and global messaging is international operations, so neither counts for Cross-cultural. 'Customer community' documentation and the SIGNAL conference are customer education and marketing (a trap) and were not counted for Community. ISV and partner relationships are a sales channel, not an enabling program for founders. 'Identity' refers to user authentication (a trap). The pay-equity analysis (E3) is borderline between levels 1 and 2 for Cross-cultural; the lower level was applied under the tie-break rule.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16094,
+      "output_tokens": 4241,
+      "duration_ms": 40609
+    }
+  ]
+}

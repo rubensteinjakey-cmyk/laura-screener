@@ -1,0 +1,509 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and notes thereto included in Part II, Item 8 of this report. The following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this report, particularly in “Risk Factors” included in Part I, Item 1A of this report.
+
+The following discussion of our financial condition and results of operations covers fiscal 2026 and 2025 items and year-over-year comparisons between fiscal 2026 and 2025. Discussions of fiscal 2024 items and year-over-year comparisons between fiscal 2025 and 2024 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended January 31, 2025, that was filed with the SEC on March 11, 2025.
+
+Amounts in this report may not recalculate due to rounding. Year-over-year comparisons, operating margin, and net income per share are calculated using unrounded data.
+
+Overview
+
+Workday is the enterprise AI platform for managing people, money, and agents. We deliver cloud-based, AI-powered applications for HCM, financial management, spend management, and planning. Our diverse customer base includes emerging, medium-sized, and large global organizations within numerous industries, including financial services, government, higher education, healthcare, hospitality, manufacturing, professional and business services, retail, technology and media, and transportation. Workday helps customers deliver better employee experiences, increase productivity, improve operational efficiencies, and provide insights for faster, data-driven decision-making.
+
+We have achieved significant growth since our inception in 2005, when we pioneered HCM in the cloud. As a result of our innovation and commitment to customer success, today we are a Fortune 500 company with more than 11,500 customers around the world. As we continue to grow, we are focused on driving sustainable, long-term subscription revenue growth by adding new customers and expanding our relationships with existing customers through increased adoption of our suite of solutions. Central to this effort is investing in strategic growth areas including developing innovative AI solutions, expanding internationally, growing our partner ecosystem, deepening our presence in industry verticals and the emerging and medium enterprise market, and exploring strategic acquisitions to complement our organic innovation. Our investments across these targeted growth areas may require additional costs, but we remain committed to optimizing resource allocation and realizing a return on our investments. Over time, we believe these investments will support revenue growth and a more scalable business.
+
+We are focused on expanding our operating margin by driving scale and building efficiencies across the business through investments in people, processes, and systems. As a result of our focus on expanding operating margin, we expect our product development, sales and marketing, and general and administrative expenses as a percentage of total revenues will decrease over the longer term as we grow our revenues and invest in a disciplined manner to support our long-term growth objectives.
+
+Financial Results Overview
+
+The following table provides an overview of our key metrics (in millions, except percentages, basis points, and headcount data):
+
+As of and for the Years Ended January 31,
+
+2026 | 2025 | Change
+
+Total revenues | $ | 9,552 | $ | 8,446 | 13 | %
+
+Subscription services revenues | $ | 8,833 | $ | 7,718 | 14 | %
+
+GAAP operating income | $ | 721 | $ | 415 | 74 | %
+
+Non-GAAP operating income (1)
+$ | 2,824 | $ | 2,186 | 29 | %
+
+GAAP operating margin | 7.5 | % | 4.9 | % | 263 bps
+
+Non-GAAP operating margin (1)
+29.6 | % | 25.9 | % | 368 bps
+
+Operating cash flows | $ | 2,939 | $ | 2,461 | 19 | %
+
+Free cash flows (1)
+$ | 2,777 | $ | 2,192 | 27 | %
+
+Total subscription revenue backlog | $ | 28,101 | $ | 25,056 | 12 | %
+
+12-month subscription revenue backlog | $ | 8,833 | $ | 7,631 | 16 | %
+
+Cash, cash equivalents, and marketable securities | $ | 5,443 | $ | 8,017 | (32) | %
+
+Headcount | 21,070 | 20,482 | 3 | %
+
+(1)See “Non-GAAP Financial Measures” below for further information.
+
+Additional notable transactions from fiscal 2026 include:
+
+•Business combinations: In September 2025, we acquired Paradox, a candidate experience agent that uses conversational AI to simplify every step of the job application journey, for purchase consideration of $1.1 billion, and in November 2025, we acquired Sana, a leading AI company building the next generation of enterprise knowledge tools, for purchase consideration of $1.1 billion.
+
+•Share repurchases: During fiscal 2026, we repurchased approximately 12.8 million shares of our Class A common stock for $2.9 billion as part of our share repurchase programs.
+
+•Restructuring activities: In February 2025, we announced a restructuring plan (“Fiscal 2026 Restructuring Plan”), intended to prioritize our investments and continue advancing our ongoing focus on durable growth. The plan resulted in the reduction of approximately 7.5% of our workforce and the exit of certain owned office space. In February 2026, we announced an additional restructuring plan (“Fiscal 2027 Restructuring Plan”) intended to better align our people and resources to our highest priorities in fiscal 2027. The plan is expected to result in the reduction of approximately 2% of our workforce, and in the impairment of certain office space and long-lived assets. For fiscal 2026, we incurred approximately $303 million in costs related to these restructuring activities.
+
+Impact of Current Economic Conditions
+
+Recent macroeconomic events including increased tariffs, elevated inflation, and fluctuating interest rates and foreign currency exchange rates, as well as geopolitical instability, continue to impact the global economy and create uncertainty, volatility, and disruption of financial markets. As a result, we have experienced, and may continue to experience, a moderation of revenue growth rates due to deal scrutiny and the lengthening of certain sales cycles, particularly within net new opportunities, as well as reduced growth in headcount-level commitments upon renewals of existing customers. The extended sales cycles are particularly evident in the government, higher education, and healthcare industries which are tied to federal funding. Further, we have provided, and may continue to provide, certain customers with more flexible payment terms. For further discussion of the potential impacts of recent macroeconomic events on our business, financial condition, and operating results, see “Risk Factors” included in Part I, Item 1A of this report.
+
+Components of Results of Operations
+
+Revenues
+
+We derive our revenues from subscription services and professional services. Subscription services revenues primarily consist of fees that provide customers access to our cloud applications, with standard and enhanced customer support. Professional services revenues include fees for deployment services, optimization services, and training.
+
+Subscription services revenues accounted for approximately 92% of our total revenues for the fiscal year ended January 31, 2026, and represented 97% of our total unearned revenue as of January 31, 2026. Subscription services revenues are driven primarily by the number of customers, the number of workers at each customer, the specific applications subscribed to by each customer, and the price of our applications.
+
+The mix of applications to which each customer subscribes can affect our financial performance due to price differentials in our applications. Pricing for our applications varies based on many factors, including the complexity and maturity of the application and its acceptance in the marketplace. New products or services offerings by competitors in the future could also impact the mix and pricing of our offerings.
+
+Subscription services revenues are recognized over time as services are delivered, beginning on the date our service is made available to the customer. Our subscription contracts typically have a term of three years or longer and are generally noncancelable. We generally invoice our customers annually in advance for subscription services. We may provide certain customers flexible payment terms and the timing of revenue recognition may differ from the timing of invoicing to our customers.
+
+Our professional services consulting engagements are billed on a time and materials or fixed price basis. We generally invoice our customers as the work is performed for time and materials arrangements, and in advance for fixed price arrangements. For contracts billed on a time and materials basis, revenues are recognized over time as the professional services are performed. For contracts billed on a fixed price basis, revenues are recognized over time based on the proportion of the professional services performed. In some cases, we supplement our consulting teams by subcontracting resources from our service partners and deploying them on customer engagements. As the Workday-related consulting practices of our partner firms continue to develop, we expect these partners to increasingly contract directly with our subscription customers for services engagements.
+
+Subscription Revenue Backlog
+
+Our subscription revenue backlog, which is also referred to as remaining performance obligations for subscription contracts, represents contracted subscription services revenues that have not yet been recognized and includes billed and unbilled amounts. Subscription revenue backlog may fluctuate from period-to-period due to a number of factors, including the timing of renewals and overall renewal rates, new business growth, average contract duration, business combinations, and seasonality.
+
+Costs and Expenses
+
+Costs of subscription services revenues. Costs of subscription services revenues consist primarily of expenses associated with hosting our applications and delivering standard and enhanced customer support services. These costs include employee-related expenses, expenses related to data center capacity and third-party hosted infrastructure, depreciation of our data center equipment, amortization of certain acquisition-related intangible assets, and allocated overhead.
+
+Costs of professional services revenues. Costs of professional services revenues consist primarily of employee-related expenses associated with these services, subcontractor expenses, travel expenses, and allocated overhead.
+
+Product development expenses. Product development expenses consist primarily of employee-related expenses associated with our efforts to add new features and applications, increase functionality, and enhance the ease of use of our cloud applications, as well as expenses related to third-party hosted infrastructure, and allocated overhead.
+
+Sales and marketing expenses. Sales and marketing expenses consist primarily of employee-related expenses, sales commissions, marketing programs, travel expenses, amortization of certain acquisition-related intangible assets, and allocated overhead. Marketing programs consist of advertising, events, corporate communications, brand awareness, brand ambassador campaigns, and product marketing activities. Sales commissions are considered incremental costs of obtaining a contract with a customer. Sales commissions for new revenue contracts are capitalized and amortized on a straight-line basis over a period of benefit that we have determined to be five years.
+
+General and administrative expenses. General and administrative expenses consist primarily of employee-related expenses for our finance and accounting, legal, human resources, and information systems personnel, as well as professional services fees, allocated overhead, and other corporate expenses.
+
+We allocate shared costs, such as facilities, IT, benefits, and recruiting, primarily based on headcount. As such, overhead expenses are reflected in each of the costs and expenses categories.
+
+Restructuring expenses. Restructuring expenses are associated with a formal restructuring program and consist of charges related to workforce reductions, including employee transition, severance payments, and share-based compensation, as well as charges associated with the closure of facilities and other exit and disposal activities.
+
+Results of Operations
+
+Revenues
+
+Our total revenues were as follows (in millions):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Subscription services | $ | 8,833 | $ | 7,718 | $ | 6,603
+
+Professional services | 719 | 728 | 656
+
+Total revenues | $ | 9,552 | $ | 8,446 | $ | 7,259
+
+Total revenues were $9.6 billion for fiscal 2026, compared to $8.4 billion for fiscal 2025, an increase of $1.1 billion, or 13%. Subscription services revenues were $8.8 billion for fiscal 2026, compared to $7.7 billion for fiscal 2025, an increase of $1.1 billion, or 14%. Approximately 60% of the increase in subscription services revenues was attributable to expansion within our customers that existed as of the beginning of the comparable prior year period, and the remaining 40% was attributable to customers added after the beginning of the comparable prior year period. Professional services revenues were $719 million for fiscal 2026, compared to $728 million for fiscal 2025, a decrease of $10 million, or 1%. The decrease in professional services revenues was driven by variation in project size and mix of deployment and integration services provided as we continue to expand and leverage our service partners.
+
+Gross Revenue Retention Rate
+
+Our growth in subscription services revenues attributable to existing customers is further reflected by our gross revenue retention rate of approximately 97% as of January 31, 2026. Our gross revenue retention rate measures the percentage of recurring revenue retained from existing customers and is calculated by taking total annual recurring revenue (“ARR”) of our customers as of the corresponding prior period-end and comparing that to ARR from that same set of customers as of the current period-end. The metric takes into account recurring revenues lost to product or customer churn but does not account for additional revenue earned from add-ons or net expansions, which include volume and price adjustments. Our high gross revenue retention rate demonstrates our ability to maintain our existing customer base and drive strong overall customer satisfaction.
+
+Our gross revenue retention rate is based on ARR, which represents the annualized value of active subscription contracts as of the end of each period. Each subscription contract is annualized by dividing the total contract value by the number of days in the contract term and then multiplying by 365. We exclude certain subscription contracts from the calculation, including contracts with terms less than one year that are distinct from our core product offering, such as contracts for tenants which are used for implementation and testing. To the extent that we are negotiating a renewal with a customer after the expiration of the subscription, ARR is only adjusted if the customer churns. We calculate ARR on a constant currency basis using exchange rates set at the beginning of each fiscal year.
+
+Subscription Revenue Backlog
+
+As of January 31, 2026, our total subscription revenue backlog was $28.1 billion, with $8.8 billion expected to be recognized in revenues over the next 12 months. As of January 31, 2025, our total subscription revenue backlog was $25.1 billion, with $7.6 billion expected to be recognized in revenues over the next 12 months. The increase in subscription revenue backlog was primarily driven by expansion within our existing customer base, sales to new customers, and timing of renewals for existing customers.
+
+Costs and Expenses
+
+Our costs and expenses were as follows (in millions):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Costs of subscription services | $ | 1,531 | $ | 1,266 | $ | 1,031
+
+Costs of professional services | 790 | 803 | 740
+
+Product development | 2,679 | 2,626 | 2,464
+
+Sales and marketing | 2,616 | 2,432 | 2,139
+
+General and administrative | 912 | 820 | 702
+
+Restructuring
+303 | 84 | 0
+
+Total costs and expenses | $ | 8,831 | $ | 8,031 | $ | 7,076
+
+Total costs and expenses were $8.8 billion for fiscal 2026, compared to $8.0 billion for fiscal 2025, an increase of $800 million, or 10%. The increase in total costs and expenses included increases of $219 million in restructuring-related expenses, $159 million in third-party hosted infrastructure expenses, $212 million in employee-related expenses, net of restructuring-related cost savings, $81 million in facilities and IT-related expenses, $52 million related to professional services, $41 million in amortization of deferred sales commissions, $27 million in amortization of acquisition-related intangible assets, and $16 million related to marketing programs, offset by a reduction of $19 million in subcontractor expenses.
+
+Costs of Subscription Services
+
+Costs of subscription services were $1.5 billion for fiscal 2026, compared to $1.3 billion for fiscal 2025, an increase of $264 million, or 21%. The increase in costs of subscription services included increases of $139 million in third-party hosted infrastructure expenses, $74 million in employee-related expenses primarily due to delivering our enhanced customer support services, net of restructuring-related cost savings, $29 million in facilities and IT-related expenses, and $19 million in amortization of acquisition-related intangible assets.
+
+We expect costs of subscription services will continue to increase in absolute dollars as we improve and expand our technical operations infrastructure, including third-party hosted infrastructure, and as we grow our enhanced customer support services.
+
+Costs of Professional Services
+
+Costs of professional services were $790 million for fiscal 2026, compared to $803 million for fiscal 2025, a decrease of $13 million, or 2%. The decrease in costs of professional services included a reduction of $19 million in subcontractor expenses offset by an increase of $7 million in facilities and IT-related expenses. Employee-related expenses remained relatively flat as a result of restructuring-related cost savings.
+
+We expect costs of professional services as a percentage of total revenues to continue to decline as we expand and leverage our service partners to deploy our applications and focus on growing our subscription revenues.
+
+Product Development
+
+Product development expenses were $2.7 billion for fiscal 2026, compared to $2.6 billion for fiscal 2025, an increase of $55 million, or 2%. The increase in product development expenses included increases of $41 million in employee-related expenses, net of restructuring-related cost savings, $18 million in third-party hosted infrastructure expenses, and $14 million in facilities and IT-related expenses, offset by a reduction of $11 million related to professional services.
+
+We expect product development expenses will continue to increase in absolute dollars as we improve and extend our applications and develop new technologies.
+
+Sales and Marketing
+
+Sales and marketing expenses were $2.6 billion for fiscal 2026, compared to $2.4 billion for fiscal 2025, an increase of $184 million, or 8%. The increase in sales and marketing expenses included increases of $76 million in employee-related expenses, net of restructuring-related cost savings, $41 million in amortization of deferred sales commissions, $19 million related to marketing programs, $17 million related to professional services, and $17 million in facilities and IT-related expenses.
+
+We expect sales and marketing expenses to increase in absolute dollars as we continue to invest domestically and internationally to expand awareness of our brand and product offerings to attract new and existing customers.
+
+General and Administrative
+
+General and administrative expenses were $912 million for fiscal 2026, compared to $820 million for fiscal 2025, an increase of $92 million, or 11%. The increase in general and administrative expenses included increases of $45 million related to professional services, $20 million in employee-related expenses, net of restructuring-related cost savings, and $14 million in facilities and IT-related expenses.
+
+We expect general and administrative expenses will continue to increase in absolute dollars as we continue to grow our business and invest in our people, processes, and systems to support our global operations.
+
+Restructuring
+
+Restructuring expenses were $303 million for fiscal 2026, of which approximately $186 million related to employee transition, severance payments, employee benefits, and share-based compensation, and $117 million related to impairment charges associated with office space and other long-lived assets.
+
+Restructuring expenses were $84 million for fiscal 2025, of which approximately $65 million related to employee transition, severance payments, employee benefits, and share-based compensation, and $19 million related to impairment charges associated with office space.
+
+For further information, see Note 21, Restructuring, of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this report.
+
+Share-based Compensation
+
+Costs and expenses include share-based compensation expense as follows (in millions):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Costs of subscription services | $ | 156 | $ | 145 | $ | 120
+
+Costs of professional services | 111 | 114 | 116
+
+Product development | 690 | 670 | 653
+
+Sales and marketing | 344 | 310 | 282
+
+General and administrative | 269 | 272 | 245
+
+Restructuring
+56 | 8 | 0
+
+Total share-based compensation expense
+$ | 1,626 | $ | 1,519 | $ | 1,416
+
+Percentage of total revenues
+17.0 | % | 18.0 | % | 19.5 | %
+
+Share-based compensation expense increased by $107 million during fiscal 2026, primarily due to restructuring activities and additional grants to new and existing employees.
+
+Equity compensation is an important element of our compensation philosophy. While we expect share-based compensation expense to grow in absolute dollars as we expand our global workforce, we expect it to decline as a percentage of total revenues.
+
+Operating Income and Operating Margin
+
+GAAP operating income was $721 million, or 7.5% of revenues, in fiscal 2026, compared to $415 million, or 4.9% of revenues in fiscal 2025. The increase is primarily due to our revenue growth outpacing headcount growth, moderation of operating expenses, including share-based compensation, and restructuring-related cost savings, partially offset by restructuring expenses.
+
+Non-GAAP operating income was $2.8 billion, or 29.6% of revenues, in fiscal 2026, compared to $2.2 billion, or 25.9% of revenues in fiscal 2025. The increase is primarily due to our revenue growth outpacing headcount growth, moderation of operating expenses, and restructuring-related cost savings.
+
+Reconciliations of our GAAP to non-GAAP operating income and operating margin were as follows (in millions, except percentages). See “Non-GAAP Financial Measures” below for further information.
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Operating income | $ | 721 | $ | 415 | $ | 183
+
+Share-based compensation expense (1)
+1,570 | 1,511 | 1,416
+
+Employer payroll tax-related items on employee stock transactions
+62 | 76 | 66
+
+Amortization of acquisition-related intangible assets | 106 | 79 | 75
+
+Acquisition-related costs
+62 | 21 | 1
+
+Restructuring costs
+303 | 84 | 0
+
+Non-GAAP operating income | $ | 2,824 | $ | 2,186 | $ | 1,741
+
+Operating margin | 7.5 | % | 4.9 | % | 2.5 | %
+
+Share-based compensation expense (1)
+16.4 | % | 17.9 | % | 19.5 | %
+
+Employer payroll tax-related items on employee stock transactions
+0.7 | % | 0.9 | % | 0.9 | %
+
+Amortization of acquisition-related intangible assets | 1.1 | % | 0.9 | % | 1.1 | %
+
+Acquisition-related costs
+0.6 | % | 0.2 | % | 0.0 | %
+
+Restructuring costs
+3.3 | % | 1.1 | % | 0.0 | %
+
+Non-GAAP operating margin | 29.6 | % | 25.9 | % | 24.0 | %
+
+(1)Share-based compensation expense in the GAAP to non-GAAP reconciliation tables above excludes share-based compensation associated with restructuring activities of $56 million and $8 million for fiscal 2026 and 2025, respectively. These expenses are included in Restructuring costs.
+
+Other Income, Net
+
+Other income, net was as follows (in millions):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Total other income, net | $ | 288 | $ | 223 | $ | 173
+
+Other income, net increased by $65 million for fiscal 2026, primarily due to $77 million in higher net gains on equity investments and $26 million in higher realized net gains from the sale of debt securities to fund acquisition activities and share repurchases. These increases were offset by a $32 million reduction in interest income resulting from both decreased investment balances and lower interest rates.
+
+Provision For (Benefit From) Income Taxes
+
+The provision for (benefit from) income taxes was as follows (in millions):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Provision for (benefit from) income taxes | $ | 316 | $ | 112 | $ | (1,025)
+
+The income tax provision for fiscal 2026 and 2025 was primarily attributable to an increase in our U.S. pretax income and income tax expenses in profitable foreign jurisdictions.
+
+On July 4, 2025, the One Big Beautiful Bill Act (“The 2025 Tax Act”) was signed into law. The 2025 Tax Act makes permanent key elements of the Tax Cuts and Jobs Act, including 100% bonus depreciation, domestic research cost expensing, and modifications to the international tax framework. The 2025 Tax Act did not have a material impact on our annual effective tax rate and reduced our domestic cash tax outflows for fiscal 2026. The 2025 Tax Act includes multiple effective dates, with certain provisions effective in fiscal 2026 and others phased in through fiscal 2028. We continue to evaluate the impact of the 2025 Tax Act’s provisions that take effect in future periods.
+
+The Organization for Economic Cooperation and Development (“OECD”) released Pillar Two model rules defining a 15% global minimum tax for large multinational corporations. The OECD continues to release additional guidance and countries are implementing legislation, with widespread adoption of the Pillar Two Framework expected in the near future. Pillar Two rules are at varying stages of adoption across the jurisdictions where we operate. The specific rules and timeline to implement these rules vary by jurisdiction. The adoption of Pillar Two rules may affect our effective tax rate and current tax obligations and liabilities. While we do not currently anticipate Pillar Two rules to have a material impact on our consolidated financial results, we are monitoring developments from the OECD, governmental bodies, such as the EU, and intergovernmental economic organizations, to evaluate the impact of changing global tax laws.
+
+For further information, see Note 17, Income Taxes, of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this report.
+
+Liquidity and Capital Resources
+
+As of January 31, 2026, our principal sources of liquidity were cash, cash equivalents, and marketable securities totaling $5.4 billion, which were primarily held for working capital and general corporate purposes. Our cash equivalents and marketable securities are primarily composed of, in order from largest to smallest, corporate bonds, U.S. treasury securities, money market funds, U.S. agency obligations, commercial paper, asset-backed securities, and supranational securities.
+
+We believe our existing cash, cash equivalents, marketable securities, cash provided by operating activities, unbilled amounts related to the remaining term of contracted noncancelable subscription agreements, which are not reflected on the Consolidated Balance Sheets, and, if necessary, our borrowing capacity under our 2022 Credit Agreement that provides for $1.0 billion of unsecured financing, are sufficient to meet our working capital, capital expenditure, share repurchase, and debt repayment needs over the next 12 months and beyond.
+
+Our long-term future capital requirements depend on many factors, including the effects of macroeconomic trends, customer growth rates, subscription renewal activity, headcount growth, the timing and extent of development efforts, the expansion of sales and marketing activities, the introduction of new and enhanced services offerings, infrastructure development, and our investment and acquisition activities. As part of our strategy, we may choose to seek additional debt or equity financing, which may not be available on terms favorable to us or at all. Additionally, our cash provided by operating activities could be affected by various risks and uncertainties, including the “Risk Factors” included in Part I, Item 1A of this report.
+
+Our cash flows were as follows (in millions):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Net cash provided by (used in):
+
+Operating activities | $ | 2,939 | $ | 2,461 | $ | 2,149
+
+Investing activities | 333 | (1,781) | (1,751)
+
+Financing activities | (3,319) | (1,150) | (268)
+
+Effect of exchange rate changes | 2 | 0 | (1)
+
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+$ | (45) | $ | (470) | $ | 129
+
+Operating Activities
+
+Cash provided by operating activities was $2.9 billion and $2.5 billion for fiscal 2026 and 2025, respectively. The improvement in cash provided by operating activities was primarily the result of higher cash collections of $1.2 billion mainly due to increased sales, partially offset by increased supplier payments of $335 million to support our continued growth and increased employee-related payments of $272 million, which include payments made under the Fiscal 2026 Restructuring Plan.
+
+Investing Activities
+
+Cash provided in investing activities for fiscal 2026 was $333 million, which primarily resulted from net inflows of $2.6 billion as we converted marketable debt securities into cash to fund acquisition activities and share repurchases, offset by net outflows of $2.1 billion for acquisitions, and capital expenditures of $162 million mainly for office space projects.
+
+Cash used in investing activities for fiscal 2025 was $1.8 billion, which primarily resulted from a net outflow of $667 million related to marketable debt securities activities, net outflows of $825 million for acquisitions, and capital expenditures of $269 million for data center and office space projects.
+
+We expect capital expenditures will be approximately $270 million in fiscal 2027. This primarily includes investments in our office facilities to support our continued growth.
+
+Financing Activities
+
+Cash used in financing activities for fiscal 2026 was $3.3 billion, which was due to repurchases of common stock of $2.9 billion under our share repurchase programs and taxes paid of $616 million related to net share settlement of equity awards, offset by proceeds of $192 million from the issuance of common stock from employee equity plans.
+
+Cash used in financing activities for fiscal 2025 was $1.2 billion, which was due to repurchases of common stock of $700 million under our share repurchase programs and taxes paid of $636 million related to net share settlement of equity awards, offset by proceeds of $186 million from the issuance of common stock from employee equity plans.
+
+Free Cash Flows
+
+In evaluating our performance internally, we focus on long-term, sustainable growth in free cash flows. We define free cash flows, a non-GAAP financial measure, as net cash provided by operating activities minus capital expenditures. See “Non-GAAP Financial Measures” below for further information.
+
+Free cash flows were $2.8 billion for fiscal 2026, compared to $2.2 billion for the prior year period. The improvement was primarily the result of higher cash collections of $1.2 billion mainly due to increased sales and decreased capital expenditures of $107 million, partially offset by increased supplier payments of $335 million to support our continued growth and increased employee-related payments of $272 million, which include payments made under the Fiscal 2026 Restructuring Plan.
+
+Reconciliation of our GAAP net cash provided by operating activities to non-GAAP free cash flows is as follows (in millions):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+Net cash provided by operating activities | $ | 2,939 | $ | 2,461 | $ | 2,149
+
+Less: Capital expenditures | (162) | (269) | (232)
+
+Free cash flows
+$ | 2,777 | $ | 2,192 | $ | 1,917
+
+Share Repurchase Programs
+
+We repurchase shares of our Class A common stock under share repurchase programs authorized by our Board of Directors. Under these programs, in accordance with applicable securities laws and other restrictions, we may repurchase shares of our Class A common stock through open market purchases, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act, in privately negotiated transactions, or by other means. The timing and total amount of share repurchases will depend upon business, economic, and market conditions, corporate and regulatory requirements, prevailing stock prices, and other considerations. The share repurchase programs have no expiration date, may be suspended or discontinued at any time, and do not obligate us to acquire any amount of Class A common stock.
+
+Share repurchase programs authorized by our Board of Directors that were active during fiscal 2026 and 2025 were as follows (in millions):
+
+Authorization Date
+
+Amount Authorized
+
+Authorization Completion Date
+
+November 2022
+$ | 500
+Q1 fiscal 2025
+
+February 2024
+Q3 fiscal 2025
+
+August 2024
+1,000
+Q3 fiscal 2026
+
+May 2025
+1,000
+Q4 fiscal 2026
+
+September 2025 | 4,000
+
+As of January 31, 2026, we were authorized to repurchase a remaining $2.9 billion of our outstanding shares of Class A common stock under our share repurchase programs.
+
+For further information, see Note 14, Stockholders’ Equity, of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this report.
+
+Contractual Obligations
+
+Our contractual obligations primarily consist of borrowings under our Senior Notes, agreements for third-party hosted infrastructure platforms for business operations, leases for office space and co-location facilities for data center capacity, and other purchase obligations entered into in the ordinary course of business. The table below includes our material contractual obligations, excluding imputed interest, as of January 31, 2026 (in millions). For further information, see the associated Notes to Consolidated Financial Statements included in Part II, Item 8 of this report referenced in the table below.
+
+Payments Due by Period
+
+Total | Short-term | Long-term | Reference
+
+Senior Notes (1)
+$ | 3,458 | $ | 110 | $ | 3,348
+Note 11
+
+Third-party hosted infrastructure platform obligations | 1,056 | 298 | 758
+Note 13
+
+Operating leases | 1,065 | 146 | 919
+Note 12
+
+Other purchase obligations | 510 | 163 | 347
+Note 13
+
+Total
+$ | 6,089 | $ | 717 | $ | 5,372
+
+(1)Consists of principal and interest payments on the Senior Notes.
+
+Non-GAAP Financial Measures
+
+Regulation S-K Item 10(e), “Use of non-GAAP financial measures in Commission filings,” defines and prescribes the conditions for use of non-GAAP financial information. Our measures of non-GAAP operating income, non-GAAP operating margin, and free cash flows meet the definition of non-GAAP financial measures.
+
+Non-GAAP Operating Income and Non-GAAP Operating Margin
+
+We use the non-GAAP financial measures of non-GAAP operating income and non-GAAP operating margin to understand and compare operating results across accounting periods, for internal budgeting and forecasting purposes, for short- and long-term operating plans, and to evaluate our financial performance. We believe that these non-GAAP financial measures reflect our ongoing business in a manner that allows for meaningful period-to-period comparisons and analysis of trends in our business.
+
+Our non-GAAP operating income and non-GAAP operating margin exclude the components listed below. For the reasons set forth below, we believe that excluding these components provides useful information to investors and others in understanding and evaluating our operating results and prospects in the same manner as management, in comparing financial results across accounting periods and to those of peer companies, and to better understand the long-term performance of our core business.
+
+•Share-based compensation expense. Share-based compensation primarily consists of non-cash expenses for employee RSUs and our employee stock purchase plan. Although share-based compensation is an important aspect of the compensation of our employees and executives, this expense is determined using a number of factors, including our stock price, volatility, and forfeiture rates, that are beyond our control and generally unrelated to operational decisions and performance in any particular period. Further, share-based compensation expense is not reflective of the value ultimately received by the grant recipients.
+
+•Employer payroll tax-related items on employee stock transactions. We exclude the employer payroll tax-related items on employee stock transactions in order to show the full effect that excluding share-based compensation expense has on our operating results. Similar to share-based compensation expense, this tax expense is dependent on our stock price and other factors that are beyond our control and do not correlate to the operation of our business.
+
+•Amortization of acquisition-related intangible assets. For business combinations, we generally allocate a portion of the purchase price to intangible assets. The amount of the allocation is based on estimates and assumptions made by management and is subject to amortization. The amount of purchase price allocated to intangible assets and the term of the related amortization can vary significantly and are unique to each acquisition and thus we do not believe this activity is reflective of our ongoing operations. Although we exclude the amortization of acquisition-related intangible assets from these non-GAAP financial measures, we believe that it is important for investors to understand that such intangible assets were recorded as part of purchase accounting and contribute to revenue generation.
+
+•Acquisition-related costs. Acquisition-related costs include direct transaction costs, such as due diligence and advisory fees, and certain compensation and integration-related expenses. We exclude the effects of acquisition-related costs as we believe these transaction-specific expenses are inconsistent in amount and frequency and do not correlate to the operation of our business.
+
+•Restructuring costs. Restructuring costs are associated with a formal restructuring plan and are primarily related to workforce reductions, the closure of facilities, and other exit and disposal activities. We exclude these expenses because they are not reflective of ongoing business and operating results.
+
+Free Cash Flows
+
+We define free cash flows as net cash provided by operating activities minus capital expenditures. We use free cash flows as a measure of financial progress in our business, as it balances operating results, cash management, and capital efficiency. We believe information regarding free cash flows provides investors and others with an enhanced view of cash flow generation from the ongoing operations of our business.
+
+Limitations on the Use of Non-GAAP Financial Measures
+
+A limitation of our non-GAAP financial measures of non-GAAP operating income, non-GAAP operating margin, and free cash flows is that they do not have uniform definitions. Our definitions will likely differ from the definitions used by other companies, including peer companies, and therefore comparability may be limited. Further, these non-GAAP financial measures have certain limitations as they do not reflect all items of expense or cash that affect our operations and are reflected in the corresponding GAAP financial measures. In the case of share-based compensation, if we did not pay out a portion of compensation in the form of share-based compensation, the cash salary expense included in operating expenses would be higher, which would affect our cash position.
+
+We compensate for these limitations by reconciling the non-GAAP financial measures to the most comparable GAAP financial measures. These non-GAAP financial measures should be considered in addition to, not as a substitute for or in isolation from, measures prepared in accordance with GAAP. We encourage investors and others to review our financial information in its entirety, not to rely on any single financial measure, and to view our non-GAAP financial measures in conjunction with the most comparable GAAP financial measures.
+
+See “Results of Operations—Operating Income and Operating Margin” for reconciliations from the most directly comparable GAAP financial measures of GAAP operating income and GAAP operating margin, to the non-GAAP financial measures of non-GAAP operating income and non-GAAP operating margin, for fiscal 2026, 2025, and 2024.
+
+See “Liquidity and Capital Resources—Free Cash Flows” for a reconciliation from the most comparable GAAP financial measure, net cash provided by operating activities, to the non-GAAP financial measure, free cash flows, for fiscal 2026, 2025, and 2024.
+
+Critical Accounting Estimates
+
+Our consolidated financial statements are prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. On an ongoing basis, we evaluate our estimates, judgments, and assumptions. Our actual results may differ from these estimates under different assumptions or conditions.
+
+We believe that of our significant accounting policies, which are described in Note 2, Accounting Standards and Significant Accounting Policies, of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this report, the following accounting policies include specific estimates that involve a greater degree of judgment and complexity. Accordingly, these are the estimates we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and operating results.
+
+Revenue Recognition
+
+We derive our revenues from subscription services and professional services. Revenues are recognized when control of these services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to receive in exchange for services rendered.
+
+We determine revenue recognition through the following steps:
+
+•Identification of the contract, or contracts, with a customer;
+
+•Identification of the performance obligations in the contract;
+
+•Determination of the transaction price;
+
+•Allocation of the transaction price to the performance obligations in the contract; and
+
+•Recognition of revenues when, or as, we satisfy a performance obligation.
+
+We believe the area we apply the most critical judgment when determining revenue recognition relates to the identification of distinct performance obligations.
+
+Identification of Performance Obligations
+
+A performance obligation is a promise in a contract with a customer to transfer products or services that are distinct. Our contracts with customers may include multiple promises to transfer services to a customer. Determining whether products and services are distinct performance obligations that should be accounted for separately or combined as a single performance obligation may require significant judgment that requires us to assess the nature of the promise and the value delivered to the customer. We apply significant judgment in identifying and evaluating any terms and conditions in contracts which may impact revenue recognition.
+
+Our primary performance obligations consist of subscription services and professional services. We satisfy these performance obligations over time as we transfer the promised services to our customers. Subscription services are made up of a daily requirement to deliver the service to the customer. Each day the delivery of the service provides value to the customer and each day represents a measure toward completion of the service. As such, subscription services meet the criteria to be a series of distinct services. In determining whether professional services are distinct, we consider the following factors for each professional services agreement: availability of the services from other vendors, the nature of the professional services, the timing of when the professional services contract was signed in comparison to the subscription start date, and the contractual dependence of the service on the customer’s satisfaction with the professional services work. To date, we have concluded that professional services included in contracts with multiple performance obligations are generally distinct as the professional services are not interrelated with subscription services nor do they result in significant customization of the subscription service. As such, we view professional services as a separate performance obligation to the customer.
+
+At contract inception, we evaluate whether two or more contracts should be combined and accounted for as a single contract and whether the combined or single contract includes more than one performance obligation. We combine contracts entered into at or near the same time with the same customer if we determine that the contracts are negotiated as a package with a single commercial objective; the amount of consideration to be paid in one contract depends on the price or performance of the other contract; or the services promised in the contracts are a single performance obligation. For contracts that contain multiple performance obligations, we assess each promise separately and allocate the transaction price on a relative standalone selling price (“SSP”) basis.
+
+Deferred Commissions
+
+Sales commissions earned by our sales force are considered incremental and recoverable costs of obtaining a contract with a customer. Sales commissions for new revenue contracts are capitalized and then amortized on a straight-line basis over a period of benefit that we have determined to be five years. We determined the period of benefit by exercising judgment, taking into consideration our customer contracts, our technology, and other factors.
+
+Periodically, we review whether events or changes in circumstances have occurred that could impact the period of benefit. Any future changes in circumstances around the terms of our initial and renewal contracts, customer attrition, underlying technology life, and certain other factors may materially change the period of benefit and therefore the amortization amounts recognized on the Consolidated Statements of Operations. There was no change to the period of benefit during the periods presented.
+
+Income Taxes
+
+We record a provision for, or benefit from, income taxes for the anticipated tax consequences of the reported results of operations using the asset and liability method. Under this method, we recognize deferred tax assets and liabilities for the expected future tax consequences of temporary differences between the financial reporting and tax basis of assets and liabilities, as well as for operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using the tax rates that are expected to apply to taxable income for the years in which those tax assets and liabilities are expected to be realized or settled. A valuation allowance is established when necessary to reduce deferred tax assets to the net amount that is more likely than not to be realized. Significant judgment is required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, both positive and negative, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for (benefit from) income taxes in the period in which such determination is made.
+
+We recognize the tax benefit of an uncertain tax position only if it is more likely than not that the position is sustainable upon examination by the taxing authority, based on the technical merits. The tax benefit recognized is measured as the largest amount of benefit which is greater than 50% likely to be realized upon settlement with the taxing authority. Significant judgment is required to evaluate uncertain tax positions. Our evaluations are based upon a number of factors, including changes in facts or circumstances, changes in tax law or guidance, correspondence with tax authorities during the course of audits, and effective settlement of audit issues. Changes in the recognition or measurement of uncertain tax positions could result in material increases or decreases in our provision for (benefit from) income taxes in the period in which we make the change.
+
+Business Combinations, Goodwill, and Acquisition-Related Intangible Assets
+
+We allocate the purchase consideration of acquired companies to tangible and intangible assets acquired and liabilities assumed based on their estimated fair values on the acquisition date, with the exception of contract assets and unearned revenue which are measured and recognized on the acquisition date in accordance with our revenue recognition policy. Any residual purchase price is recorded as goodwill. The purchase price allocation process requires us to make significant estimates and assumptions related to the fair value of identifiable intangible assets. Critical estimates used in valuing certain intangible assets include, but are not limited to, future expected cash flows from acquired customer contracts, expected life cycle and innovation timelines for acquired technologies, forecasted customer attrition rates and revenue growth, royalty rates for comparable market technologies, and discount rates. The amounts and estimated useful lives assigned to acquisition-related intangible assets impact the amount and timing of future amortization expense.
+
+Recent Accounting Pronouncements
+
+See Note 2, Accounting Standards and Significant Accounting Policies, of the Notes to Consolidated Financial Statements included in Part II, Item 8 of this report for a full description of recent accounting pronouncements.

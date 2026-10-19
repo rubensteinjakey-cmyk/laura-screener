@@ -1,0 +1,41 @@
+{
+  "ticker": "VNO",
+  "accession_number": "0000899689-26-000009",
+  "filing_date": "2026-02-09",
+  "fiscal_year": 2025,
+  "full_text_words": 72557,
+  "sections": {
+    "item1": {
+      "words": 2696,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          2696
+        ]
+      }
+    },
+    "item7": {
+      "words": 12298,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 3,
+        "lengths": [
+          12298
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 13,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 593
+    }
+  },
+  "notes": [],
+  "human_capital_words": 525,
+  "human_capital_found": true,
+  "people_paragraph_words": 782
+}

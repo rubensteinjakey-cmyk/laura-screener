@@ -1,0 +1,45 @@
+{
+  "ticker": "OMC",
+  "accession_number": "0000029989-26-000006",
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "full_text_words": 56565,
+  "sections": {
+    "item1": {
+      "words": 2852,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          2852,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 16451,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          16451,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 401,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 4,
+      "paragraphs_total": 455
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 494
+}

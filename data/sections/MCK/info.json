@@ -1,0 +1,44 @@
+{
+  "ticker": "MCK",
+  "accession_number": "0000927653-26-000069",
+  "filing_date": "2026-05-08",
+  "fiscal_year": 2026,
+  "full_text_words": 69627,
+  "sections": {
+    "item1": {
+      "words": 393,
+      "source": "10-K",
+      "candidates": {
+        "starts": 13,
+        "ends": 13,
+        "lengths": [
+          393
+        ]
+      }
+    },
+    "item7": {
+      "words": 13873,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 63,
+        "lengths": [
+          13873
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 409,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 5,
+      "paragraphs_total": 457
+    }
+  },
+  "notes": [
+    "item1: 10-K section is only 393 words with 1 cross-reference phrase(s); could not locate the referenced content",
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 0
+}

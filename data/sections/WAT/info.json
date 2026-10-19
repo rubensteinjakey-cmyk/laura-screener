@@ -1,0 +1,41 @@
+{
+  "ticker": "WAT",
+  "accession_number": "0001193125-26-062604",
+  "filing_date": "2026-02-23",
+  "fiscal_year": 2025,
+  "full_text_words": 65241,
+  "sections": {
+    "item1": {
+      "words": 9059,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          9059
+        ]
+      }
+    },
+    "item7": {
+      "words": 8431,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          8431
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 580
+    }
+  },
+  "notes": [],
+  "human_capital_words": 323,
+  "human_capital_found": true,
+  "people_paragraph_words": 553
+}

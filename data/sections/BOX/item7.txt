@@ -1,0 +1,1498 @@
+Item 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+You should read the following discussion and analysis of our financial condition and results of operations together with the consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those discussed in the section titled “Risk Factors” and in other parts of this Annual Report on Form 10-K.
+
+A discussion regarding our financial condition and results of operations for the year ended January 31, 2026 compared to the year ended January 31, 2025 is presented below. A discussion regarding our financial condition and results of operations for the year ended January 31, 2025 compared to the year ended January 31, 2024 can be found under Part II, Item 7 of our Annual Report on Form 10-K for the year ended January 31, 2025, filed with the SEC on March 10, 2025, which is available on the SEC’s website at www.sec.gov.
+
+Overview
+
+Box is the leading ICM provider. Box gives organizations a single platform for their unstructured data – which typically represents about 90% of all data within an organization. This data is content – from blueprints to wireframes, videos to documents, proprietary formats to PDFs – and it is the source of an organization’s unique value. The Box ICM platform enables our customers to securely manage the entire content lifecycle, from the moment a file is created or ingested to when it is shared, edited, published, approved, signed, classified, and retained. Box keeps content secure and compliant, while also allowing easy access and sharing of this content from anywhere, on any device – both within the organization and with external partners.
+
+With our SaaS platform, customers can work with their content as they need – from secure external collaboration and workspaces to e-signature processes and content workflows – improving employee productivity and accelerating business processes. IT teams can establish a space for compliant content management, and developers can easily create customized portals for white-labeled content collaboration. Administrators have a wide range of security, data protection, and compliance features they can activate to help meet legal and regulatory requirements, internal policies, and industry standards. The Box ICM platform enables a broad range of high-value business use cases and integrates with more than 1,500 leading business applications. With hundreds of file formats and media types supported, Box is compatible with multiple application environments, operating systems, and devices – ensuring that workers can securely access their critical business content whenever and wherever they need it.
+
+We offer our solution to our customers as a subscription-based service, with subscription fees based on the requirements of our customers, including the number of users and functionality deployed. The duration of our contracts with customers ranges from one to three years or more, and we typically invoice our customers at the beginning of the term, in annual, multi-year, quarterly or monthly installments. We recognize revenue as we satisfy our performance obligations. Accordingly, due to our subscription model, we recognize revenue for our subscription services ratably over the term of the contract.
+
+Our objective is to build an enduring business that creates sustainable revenue and earnings growth over the long term. To best achieve this objective, we focus on growing the number of users and paying organizations through direct field sales, direct inside sales, indirect channel sales and through word-of-mouth by individual users, some of whom use our services at no cost. Individual users and organizations can also simply sign up to use our solution on our website. We believe this approach not only helps us build a critical mass of users but also has a viral
+
+effect within organizations as more of their employees use our service and encourage their IT professionals to deploy our services to a broader user base.
+
+As of January 31, 2026, we had over 100,000 paying organizations, and our solution was offered in 25 languages. We define paying organizations as separate and distinct buying entities, such as a company, an educational or government institution, or a distinct business unit of a large corporation, that have entered into a subscription agreement with us to utilize our services.
+
+Organizations typically purchase our solution in the following ways: (i) employees in one or more small groups within the organization may individually purchase our service; (ii) organizations may purchase IT-sponsored, enterprise-level agreements with deployments for specific, targeted use cases ranging from tens to thousands of user seats; (iii) organizations may purchase IT- sponsored, enterprise-level agreements (ELAs) where the number of user seats sold is intended to accommodate and enable nearly all information workers within the organization in whatever use cases they desire to adopt over the term of the subscription; and (iv) organizations may purchase our Box Platform service to create custom business applications for their internal use and extended ecosystem of customers, suppliers and partners. Customers can choose between an a la carte approach (i.e., by purchasing specific add-on products to complement their Box subscription) or one of our bundled plans, which include multiple add-on products to help accelerate customer time to value.
+
+We intend to continue scaling our organization to meet the increasingly complex needs of our customers. Our sales and customer success teams are organized to efficiently serve organizations ranging from small businesses to the world’s largest global organizations. We have invested in our sales and marketing teams to sell our services around the world, as well as in our development efforts to deliver additional features and capabilities of our cloud services to address our customers’ evolving needs. We also expect to continue to make investments in both our infrastructure to meet the needs of our growing global user base and our professional services organization (Box Consulting) to address the strategic needs of our customers in more complex deployments and to drive broader adoption across a wide array of use cases.
+
+Current Period Highlights
+
+For the years ended January 31, 2026 and 2025, our revenue was $1.18 billion and $1.09 billion, respectively, representing year-over-year growth of 8%, or 7% growth on a constant currency basis. As of January 31, 2026, our remaining performance obligations were $1.71 billion, representing a 17% increase from our remaining performance obligations of $1.47 billion as of January 31, 2025, or 16% growth on a constant currency basis. For the year ended January 31, 2026, our gross profit was $932.6 million, and our gross margin was 79.2%, compared to our gross profit of $862.0 million and our gross margin of 79.1% for the year ended January 31, 2025. For the year ended January 31, 2026, our operating income was $83.2 million and our operating margin was 7.1%, compared to our operating income of $79.6 million and our operating margin of 7.3% for the year ended January 31, 2025. For the year ended January 31, 2026, our net cash provided by operating activities was $356.5 million, a 7% increase from our net cash provided by operating activities of $332.3 million for the year ended January 31, 2025. For the year ended January 31, 2026, our non-GAAP free cash flow was $312.9 million, a 3% increase from our non-GAAP free cash flow of $304.6 million for the year ended January 31, 2025.
+
+To supplement our current period highlights, we present growth on a constant currency basis for revenue and remaining performance obligations. Growth on a constant currency basis is determined by comparing current period reported results with the current results calculated using the equivalent rates in the prior period, excluding the effect of hedging.
+
+Continuous Innovation
+
+During the year ended January 31, 2026, several new products and product enhancements were made generally available or announced, including:
+
+•
+Box Extract, our solution that simplifies the process of metadata extraction across the enterprise with AI agents.
+
+•
+Box Automate, our content-focused agentic workflow automation solution that will be built natively in Box to orchestrate work across agents and teams.
+
+•
+Box Shield Pro, our solution that delivers a powerful new suite of security capabilities powered by AI that helps safeguard sensitive data, improve threat detection, and protect against ransomware.
+
+•
+Enhancements to Box AI, including a simplified interface that makes it easy to apply AI actions to content anywhere in the Box User Interface as well as improvements to the customer agent building experience for Box administrators.
+
+•
+Remote Box Model Context Protocol (MCP) Server, a secure content layer for AI that ensures any external AI agent adheres to existing Box security permissions and access policies.
+
+•
+Box Archive, our solution that provides advanced data preservation with long-term content storage.
+
+Impact of Macroeconomic Factors on Our Business
+
+Our overall performance depends in part on worldwide economic and geopolitical conditions and their impact on customer behavior. Economic conditions, including impacts from inflation, higher interest rates, tariffs, slower growth, the stronger dollar versus foreign currencies, particularly the Japanese Yen, government shutdowns, reductions in U.S. federal spending, the ongoing Russia-Ukraine conflict and conflicts in the Middle East, and other changes in economic conditions, may adversely affect our results of operations and financial performance. As a result, we may continue to experience customer churn and delayed sales cycles, as well as customers and prospective customers reducing budgets for services that we offer.
+
+Our Business Model
+
+Our business model focuses on maximizing the lifetime value of a customer relationship. We make significant investments in acquiring new customers and believe that we will be able to achieve a positive return on these investments by retaining customers, cross-selling our add-on products and expanding the size of our deployments within our customer base over time. In connection with the acquisition of new customers, we incur and recognize significant upfront costs. These costs include sales and marketing costs associated with acquiring new customers, such as sales commission expenses, substantially all of which are deferred and then amortized over a period of benefit, and marketing costs, which are expensed as incurred. We recognize revenue as we satisfy our performance obligations to customers. Accordingly, due to our subscription model, we recognize revenue for our subscription services ratably over the term of the contract.
+
+We experience a range of profitability with our customers depending in large part upon their current stage. We generally incur higher sales and marketing expenses for new customers and existing customers who are still in an expanding stage. For new customers and for customers who are expanding their use of Box, our associated sales and marketing expenses typically represent a higher portion of revenue for the initial subscription term for new customers or the remaining subscription term for existing customers. For customers who are renewing their Box subscriptions, our associated sales and marketing expenses are significantly less than the revenue we recognize from those customers over the term of the renewed subscription. These differences are primarily driven by the higher compensation we provide to our sales force for new customers and customer subscription expansions compared to the compensation we provide to our sales force for routine subscription renewals by customers. We have experienced, and expect to continue to experience, lower sales and marketing expenses as a percentage of revenue as our existing customer base grows over time and a relatively higher percentage of our revenue is attributable to renewals versus new or expanding Box deployments.
+
+Key Business Metrics
+
+We use the key metrics below for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe that these key metrics provide meaningful supplemental information regarding our performance. We believe that both management and investors benefit from referring to these key metrics in assessing our performance and when planning, forecasting, and analyzing future periods. These key metrics also facilitate management’s internal comparisons to our historical performance as well as comparisons to
+
+certain competitors’ operating results. We believe these key metrics are useful to investors both because (1) they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making and (2) they are used by institutional investors and the analyst community to help analyze the health of our business.
+
+Remaining Performance Obligations
+
+Remaining performance obligations (RPO) represent, at a point in time, contracted revenue that has not yet been recognized. RPO consists of deferred revenue and backlog. Backlog is defined as non-cancellable contracts deemed certain to be invoiced and recognized as revenue in future periods. Future invoicing is determined to be certain when we have an executed non-cancellable contract or a significant penalty is due upon cancellation. Short-term RPO consists of the portion that is expected to be recognized within the next 12 months. While Box believes RPO is a leading indicator of revenue as it represents sales activity not yet recognized in revenue, it is not necessarily indicative of future revenue growth as it is influenced by several factors, including seasonality, contract renewal timing, average contract terms and foreign currency exchange rates. Box monitors RPO to manage the business and evaluate performance.
+
+RPO as of January 31, 2026 was $1.71 billion, an increase of 17% from January 31, 2025. As of January 31, 2026, short-term RPO was $913.7 million, an increase of 12% from January 31, 2025, and long-term RPO was $797.0 million, an increase of 22% from January 31, 2025. The increase in RPO was driven by expansion within existing customers as they broadened their deployment of our product offerings and the conversion to multi-product Suites, the timing of customer-driven renewals, longer average contract terms, and the addition of new customers. RPO growth was favorably impacted by approximately 70 basis points due to fluctuations in foreign currency exchange rates.
+
+Billings
+
+Billings represent our revenue plus the changes in deferred revenue and contract assets in the period. Billings we record in any particular period primarily reflect subscription renewals and expansion within existing customers plus sales to new customers, and represent amounts invoiced for all of our products and professional services. We typically invoice our customers at the beginning of the term, in annual, multi-year, quarterly or monthly installments. If the customer negotiates to pay the full subscription amount at the beginning of the period, the total subscription amount for the entire term will be reflected in billings. If the customer negotiates to be invoiced annually or more frequently, only the amount billed for such period will be included in billings.
+
+Billings help investors better understand our sales activity for a particular period, which is not necessarily reflected in our revenue given that we recognize subscription revenue ratably over the contract term. We consider billings a significant performance measure. We monitor billings to manage our business, make planning decisions, evaluate our performance and allocate resources. We believe that billings offer valuable supplemental information regarding the performance of our business and will help investors better understand the sales volumes and performance of our business. We do not consider billings to be a non-GAAP financial measure because it is calculated using exclusively revenue, deferred revenue, and contract assets, all of which are financial measures calculated in accordance with GAAP.
+
+Billings for the year ended January 31, 2026 were $1.22 billion, an increase of 10% from the year ended January 31, 2025. The increase in billings was primarily driven by expansion within existing customers as they broadened their deployment of our product offerings and the conversion to multi-product Suites, the addition of new customers, and the timing of customer-driven renewals. Billings growth was favorably impacted by approximately 170 basis points due to fluctuations in foreign currency exchange rates.
+
+Our use of billings has certain limitations as an analytical tool and should not be considered in isolation or as a substitute for revenue or an analysis of our results as reported under GAAP. Billings are recognized when invoiced, while the related subscription and premier services revenue is recognized ratably over the contract term as we satisfy a performance obligation. Also, other companies, including companies in our industry, may not use billings, may calculate billings differently, may have different billing frequencies, or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of billings as a comparative measure.
+
+Over time, we expect to continue to normalize payment durations. In addition, as we have gained and expect to continue to gain more traction with large enterprise customers, we also anticipate our quarterly billings to increasingly concentrate in the back half of our fiscal year, especially in the fourth quarter.
+
+A calculation of billings starting with revenue, the most directly comparable GAAP financial measure, is presented below (in thousands):
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+GAAP revenue
+
+$
+
+1,177,253
+
+$
+
+1,090,130
+
+$
+
+1,037,741
+
+Deferred revenue, end of period
+
+656,697
+
+608,600
+
+586,871
+
+Less: deferred revenue, beginning of period
+
+(608,600
+
+)
+
+(586,871
+
+)
+
+(566,630
+
+)
+
+Contract assets, beginning of period
+
+4,160
+
+2,452
+
+1,900
+
+Less: contract assets, end of period
+
+(6,479
+
+)
+
+(4,160
+
+)
+
+(2,452
+
+)
+
+Billings
+
+$
+
+1,223,031
+
+$
+
+1,110,151
+
+$
+
+1,057,430
+
+Non-GAAP Free Cash Flow
+
+We define non-GAAP free cash flow as cash flows from operating activities less net capital expenditures (purchases of property and equipment less proceeds from sales of property and equipment), principal payments of finance lease liabilities, capitalized software costs, and other items that did not or are not expected to require cash settlement and that management considers to be outside of our core business.
+
+Non-GAAP free cash flow for the year ended January 31, 2026 was $312.9 million, representing an increase of 3% from the year ended January 31, 2025. The increase in non-GAAP free cash flow was primarily driven by the increase in cash flows from operating activities and the reduction in payments of finance lease liabilities due to our migration to the public cloud from our collocated data centers, partially offset by a decrease in proceeds from sales of property and equipment, an increase in capitalized software costs, and an increase in purchases of property and equipment. The year-over-year changes in cash flows from operating activities are described in more detail under Liquidity and Capital Resources below.
+
+A reconciliation of non-GAAP free cash flow to net cash provided by operating activities, its nearest GAAP equivalent, is presented in the non-GAAP Financial Measures section at the end of Item 7 of this Annual Report on Form 10-K. The presentation of non-GAAP free cash flow is also not meant to be considered in isolation or as an alternative to cash flows from operating activities as a measure of liquidity.
+
+Net Retention Rate
+
+Net retention rate is defined as the net percentage of Total Annual Recurring Revenue (Total ARR) retained from existing customers, including expansion. We define Total ARR as the annualized recurring revenue from all active customer contracts at the end of a reporting period. We calculate our net retention rate as of a period end by starting with the Total ARR from customers as of 12 months prior to such period end (Prior Period Total ARR). We then calculate Total ARR from these same customers as of the current period end (Current Period Total ARR). Finally, we divide the Current Period Total ARR by the Prior Period Total ARR to arrive at our net retention rate. In calculating our net retention rate, we include only Total ARR associated with those customers who have subscribed to Box for at least 12 months. We believe our net retention rate is an important metric that provides insight into the long-term value of our subscription agreements and our ability to retain and grow revenue from our customer base. Net retention rate is an operational metric and there is no comparable GAAP financial measure to which we can reconcile this particular key metric.
+
+Our net retention rate was 104%, 102%, and 101% as of January 31, 2026, 2025 and 2024, respectively. Our net retention rate continues to be impacted by heightened budget scrutiny, putting pressure on seat expansion within existing customers and increased partial customer churn. As our customers purchase add-on products or our bundled plans, we tend to realize significantly higher average contract values and stronger net retention rates as compared to
+
+customers who only purchase our core product. We believe our go-to-market efforts to deliver a solution selling strategy and our investments in product, customer success, and Box Consulting, including our Box Shuttle migration offering, are significant factors in our customer retention results. As we penetrate customer accounts, we expect our net retention rate to remain above 100% for the foreseeable future.
+
+Components of Results of Operations
+
+Revenue
+
+We derive our revenue primarily from three sources: (1) subscription revenue, which is comprised of subscription fees from customers who have access to our ICM platform including routine customer support; (2) revenue from customers purchasing our premier services package; and (3) revenue from professional services such as implementing best practice use cases, project management and implementation consulting services.
+
+To date, practically all of our revenue has been derived from subscription and premier services. Subscription and premier services revenue are driven primarily by the number of customers, the number of seats sold to each customer and the price of our services.
+
+We recognize revenue as we satisfy our performance obligations. Accordingly, due to our subscription model, we recognize revenue for our subscription and premier services ratably over the contract term. The duration of our contracts with customers ranges from one to three years or more, and we typically invoice our customers at the beginning of the term, in annual, multi-year, quarterly or monthly installments. Our subscription and premier services contracts are typically non-cancellable and do not contain refund-type provisions.
+
+Professional services are generally billed on a fixed price basis, for which revenue is recognized over time based on the proportion performed. Professional services revenue was not material as a percentage of total revenue for all periods presented.
+
+Revenue is presented net of sales and other taxes we collect on behalf of governmental authorities.
+
+Cost of Revenue
+
+Our cost of revenue consists primarily of costs related to providing our subscription services to our paying customers, including employee compensation and related expenses for data center operations, customer support and professional services personnel, public cloud hosting costs, depreciation of servers and equipment, security services and other tools, as well as amortization expense associated with acquired technology and capitalized software development. We allocate overhead such as facilities, information technology costs and employee benefit costs to all departments based on headcount. As such, general overhead expenses are reflected in cost of revenue and each of the operating expense categories set forth below.
+
+Operating Expenses
+
+Our operating expenses consist of research and development, sales and marketing, and general and administrative expenses. Personnel costs are the most significant component of each category of operating expenses. Operating expenses also include allocated overhead costs for facilities, information technology costs and employee benefit costs.
+
+Research and Development. Research and development expense consists primarily of employee compensation and related expenses, as well as allocated overhead. Our research and development efforts are focused on scaling our platform, building an ecosystem of best-of-breed applications and platforms, infrastructure, adding enterprise grade features, functionality and enhancements such as workflow automation, intelligent content management capabilities, advanced security, e-signature capability, native visual collaboration and whiteboarding, and artificial intelligence to enhance the ease of use of our intelligent content management platform. We capitalize certain qualifying costs to develop software for internal use incurred during the application development stage.
+
+Sales and Marketing. Sales and marketing expense consists primarily of employee compensation and related expenses, sales commissions, marketing programs, travel-related expenses, as well as allocated overhead. Marketing programs include but are not limited to advertising, events, corporate communications, brand building, and product marketing. Sales and marketing expense also consists of public cloud hosting, data center and customer support costs related to providing our cloud-based services to our free users. We market and sell our intelligent content management services worldwide through our direct sales organization and through indirect distribution channels such as strategic resellers. Our sales and marketing expenses are generally higher for acquiring new or expanding existing customers than for renewals of existing customer subscriptions.
+
+General and Administrative. General and administrative expense consists primarily of employee compensation and related expenses for administrative functions including finance, legal, human resources, recruiting, information systems, enterprise security, compliance, fees for external professional services and cloud-based enterprise systems, as well as allocated overhead. External professional services fees are primarily comprised of outside legal, accounting, audit and outsourcing services.
+
+Interest Income
+
+Interest income consists primarily of interest earned on our cash and cash equivalents and short-term investments. We have historically invested our cash and cash equivalents in overnight deposits, certificates of deposit, money market funds, U.S. treasury securities and non-U.S. government issued securities.
+
+Interest Expense
+
+Interest expense consists primarily of interest charges and the amortization of issuance costs for our convertible senior notes.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of gains and losses from foreign currency transactions and foreign currency forward contracts not designated as cash flow hedges.
+
+Benefit from Income Taxes
+
+Benefit from income taxes consists primarily of U.S. and foreign income taxes and, as applicable, changes in our deferred taxes, related valuation allowance positions and uncertain tax positions.
+
+Results of Operations
+
+The following tables set forth our results of operations for the periods presented (in thousands, except per share data):
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+Consolidated Statements of Operations Data:
+
+Revenue
+
+$
+
+1,177,253
+
+$
+
+1,090,130
+
+$
+
+1,037,741
+
+Cost of revenue (1)
+
+244,647
+
+228,105
+
+260,612
+
+Gross profit
+
+932,606
+
+862,025
+
+777,129
+
+Operating expenses:
+
+Research and development (1)
+
+294,542
+
+264,853
+
+248,767
+
+Sales and marketing (1)
+
+403,992
+
+380,154
+
+348,638
+
+General and administrative (1)
+
+150,883
+
+137,384
+
+128,971
+
+Total operating expenses
+
+849,417
+
+782,391
+
+726,376
+
+Income from operations
+
+83,189
+
+79,634
+
+50,753
+
+Interest income
+
+24,740
+
+23,709
+
+18,714
+
+Interest expense
+
+(10,698
+
+)
+
+(6,075
+
+)
+
+(3,841
+
+)
+
+Other income (expense), net
+
+1,498
+
+(12,108
+
+)
+
+(3,040
+
+)
+
+Income before income taxes
+
+98,729
+
+85,160
+
+62,586
+
+Benefit from income taxes
+
+(16,654
+
+)
+
+(159,461
+
+)
+
+(66,446
+
+)
+
+Net income
+
+115,383
+
+244,621
+
+129,032
+
+Accretion and dividend on series A convertible preferred stock
+
+(17,138
+
+)
+
+(17,143
+
+)
+
+(17,105
+
+)
+
+Undistributed earnings attributable to preferred stockholders
+
+(11,192
+
+)
+
+(25,911
+
+)
+
+(12,780
+
+)
+
+Net income attributable to common stockholders
+
+$
+
+87,053
+
+$
+
+201,567
+
+$
+
+99,147
+
+Net income per share attributable to common stockholders
+
+Basic
+
+$
+
+0.60
+
+$
+
+1.40
+
+$
+
+0.69
+
+Diluted
+
+$
+
+0.58
+
+$
+
+1.36
+
+$
+
+0.67
+
+Weighted-average shares used to compute net income per share attributable to common stockholders
+
+Basic
+
+144,195
+
+144,228
+
+144,203
+
+Diluted
+
+149,155
+
+148,643
+
+148,586
+
+(1)
+Includes stock-based compensation expense as follows:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+Cost of revenue
+
+$
+
+21,831
+
+$
+
+18,656
+
+$
+
+19,111
+
+Research and development
+
+81,364
+
+77,557
+
+70,240
+
+Sales and marketing
+
+76,568
+
+75,281
+
+65,886
+
+General and administrative
+
+53,953
+
+47,509
+
+43,546
+
+Total stock-based compensation
+
+$
+
+233,716
+
+$
+
+219,003
+
+$
+
+198,783
+
+Comparison of the Years Ended January 31, 2026 and 2025
+
+Revenue
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Revenue
+
+$
+
+1,177,253
+
+$
+
+1,090,130
+
+$
+
+87,123
+
+%
+
+The $87.1 million, or 8%, increase in revenue during the year ended January 31, 2026 was primarily driven by seat growth, net of churn in existing customers and continued strong attach rates of our multi-product Suites offerings, particularly Enterprise Plus and Enterprise Advanced. The increase was also impacted by the strengthening of foreign currency exchange rates, which positively impacted our revenue growth rate by approximately 80 basis points.
+
+Cost of Revenue
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Cost of revenue
+
+$
+
+244,647
+
+$
+
+228,105
+
+$
+
+16,542
+
+%
+
+Percentage of revenue
+
+20.8
+
+%
+
+20.9
+
+%
+
+Gross margin
+
+79.2
+
+%
+
+79.1
+
+%
+
+The $16.5 million, or 7%, increase in cost of revenue during the year ended January 31, 2026 was primarily due to a $13.7 million increase in amortization of capitalized software, a $7.9 million increase in public cloud infrastructure costs, and a decrease of $4.5 million in gains related to the sale of data center assets due to the completion of our migration to the public cloud from our collocated data centers. This increase was partially offset by a decrease of $4.8 million in subscription software contract expense and decreases of $4.1 million in bandwidth and data center related expense and $1.3 million in contractor related costs due to the completion of our migration to the public cloud from our collocated data centers. Cost of revenue as a percentage of revenue decreased approximately 10 basis points year-over-year.
+
+Over time, we expect our cost of revenue to increase in absolute dollars but decrease as a percentage of revenue as we invest in public cloud hosting service optimization.
+
+Research and Development
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Research and development
+
+$
+
+294,542
+
+$
+
+264,853
+
+$
+
+29,689
+
+%
+
+Percentage of revenue
+
+%
+
+%
+
+The $29.7 million, or 11%, increase in research and development expense during the year ended January 31, 2026 was primarily due to increases of $18.4 million and $6.6 million in employee related costs and stock-based compensation expense, respectively, driven by a 5% increase in headcount. The increased employee headcount and related costs are primarily driven by the growth in lower cost regions. Additionally, we had increases of $4.8 million in workforce reorganization expenses, $4.7 million in subscription software contract expense, $3.3 million in office related costs, and $2.5 million in public cloud infrastructure costs. The increase was partially offset by an increase of $10.6 million in capitalized internally developed software costs. Research and development expenses as a percentage of revenue increased approximately 100 basis points year-over-year.
+
+We expect our research and development expenses to increase in absolute dollars but decrease as a percentage of revenue over time as we continue to make significant improvements to our product offerings and services and increase headcount in lower cost regions.
+
+Sales and Marketing
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Sales and marketing
+
+$
+
+403,992
+
+$
+
+380,154
+
+$
+
+23,838
+
+%
+
+Percentage of revenue
+
+%
+
+%
+
+The $23.8 million, or 6%, increase in sales and marketing expense during the year ended January 31, 2026 was primarily due to increases of $10.6 million and $1.4 million in employee related costs and stock-based compensation expense, respectively, driven by a 5% increase in headcount, $3.1 million in workforce reorganization expenses, and $2.0 million in subscription software contract expense. Additionally, we had increases of $1.9 million in office related costs, $1.8 million in commission expenses, $1.7 million in consulting services, and $1.6 million in marketing expenses. Sales and marketing expenses as a percentage of revenue decreased approximately 100 basis points year-over-year.
+
+We expect to continue to invest in capturing our large market opportunity globally and capitalize on our competitive position with a continued focus on our profitability objectives. We expect our sales and marketing expenses to increase in absolute dollars but decrease as a percentage of revenue over time as our existing customer base grows and a relatively higher percentage of our revenue is attributable to renewals versus new or expanding Box deployments and as we continue to focus on improving sales productivity.
+
+General and Administrative
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+General and administrative
+
+$
+
+150,883
+
+$
+
+137,384
+
+$
+
+13,499
+
+%
+
+Percentage of revenue
+
+%
+
+%
+
+The $13.5 million, or 10%, increase in general and administrative expense during the year ended January 31, 2026 was primarily due to increases of $6.3 million and $3.4 million in stock-based compensation expense and employee related costs, respectively, driven by a 4% increase in headcount. Additionally, we had increases of $1.3 million in workforce reorganization expenses, $1.0 million in subscription software contract expense, and $1.0 million in litigation expense. General and administrative expense as a percentage of revenue remained flat year-over-year.
+
+We expect our general and administrative expenses to increase in absolute dollars but decrease as a percentage of revenue over time as we benefit from greater operational scale and efficiency.
+
+Interest Income
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Interest income
+
+$
+
+24,740
+
+$
+
+23,709
+
+$
+
+1,031
+
+%
+
+The $1.0 million increase during the year ended January 31, 2026 was primarily due to an increase in interest income on cash and cash equivalents and short-term investments due to higher average cash and short-term investment balances, partially offset by lower interest rates on our investments.
+
+Interest Expense
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Interest expense
+
+$
+
+10,698
+
+$
+
+6,075
+
+$
+
+4,623
+
+%
+
+The $4.6 million increase during the year ended January 31, 2026 was primarily due to an increase of $5.4 million in interest expense related to the 2029 Convertible Notes, which bear interest at a rate of 1.50% per year compared to the 0.00% convertible notes that matured in 2026 (the "2026 Convertible Notes" and together with the 2029 Convertible Notes, the "Convertible Notes").
+
+Other Income (Expense), Net
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Other income (expense), net
+
+$
+
+1,498
+
+$
+
+(12,108
+
+)
+
+$
+
+13,606
+
+(112
+
+)%
+
+The $13.6 million increase during the year ended January 31, 2026 was primarily due to the convertible debt inducement expense of $10.1 million recognized during the year ended January 31, 2025 and an increase of $3.1 million in net foreign currency gains.
+
+Benefit from Income Taxes
+
+Year Ended January 31,
+
+2026
+
+2025
+
+$ Change
+
+% Change
+
+(dollars in thousands)
+
+Benefit from income taxes
+
+$
+
+(16,654
+
+)
+
+$
+
+(159,461
+
+)
+
+$
+
+142,807
+
+(90
+
+)%
+
+The $142.8 million decrease during the year ended January 31, 2026 was primarily due to a one-time $177.6 million net benefit from the release of the U.S. valuation allowance in the year ended January 31, 2025, partially offset by a $48.4 million net benefit from adjusting our federal research and development (R&D) credits carryforwards and related uncertain tax positions (UTP) in the year ended January 31, 2026. Additionally, we had increases in foreign and U.S. income taxes resulting from increased profitability, partially offset by the benefit of the current year R&D credit and favorable shift in the mix of our jurisdictional earnings.
+
+Liquidity and Capital Resources
+
+As of January 31, 2026, we had cash and cash equivalents, restricted cash, and short-term investments of $479.6 million. During the year ended January 31, 2026, we generated operating cash flow of $356.5 million. Since our inception, we have financed our operations primarily through equity financing, cash generated from operations and debt financing. We believe our existing cash, cash equivalents, and short-term investments, together with our credit facility, will be sufficient to meet our working capital and capital expenditure needs for at least the next 12 months and beyond. Our long-term capital requirements will depend on many factors including our growth rate, subscription renewal activity, billing frequency, public cloud obligations, repayment or refinancing of our debt obligations, settlement of our convertible senior notes and convertible preferred stock, the timing and extent of spending to support development efforts, the expansion of international activities, the introduction of new and enhanced service offerings, and the continuing market acceptance of our services. We may in the future enter into arrangements to acquire or invest in complementary businesses, services and technologies, including intellectual property rights. We may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all.
+
+Cash Flows
+
+For the years ended January 31, 2026, 2025, and 2024, our cash flows were as follows (in thousands):
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+Net cash provided by operating activities
+
+$
+
+356,450
+
+$
+
+332,257
+
+$
+
+318,727
+
+Net cash used in investing activities
+
+(42,702
+
+)
+
+(23,211
+
+)
+
+(82,792
+
+)
+
+Net cash used in financing activities
+
+(569,522
+
+)
+
+(62,362
+
+)
+
+(272,896
+
+)
+
+Operating Activities
+
+The $24.2 million increase in net cash provided by operating activities for the year ended January 31, 2026 compared to the year ended January 31, 2025 was primarily due to a $152.4 million increase in non-cash items and a
+
+$1.0 million increase in net cash provided from changes in operating assets and liabilities, partially offset by a $129.2 million decrease in our net income.
+
+The $152.4 million increase in non-cash items was primarily due to a $139.7 million decrease in deferred income tax benefit, a $14.7 million increase in stock-based compensation expense driven by an increase in headcount, and a $10.8 million increase in depreciation and amortization expense driven by an increase in amortization of capitalized software, partially offset by a decrease of $10.1 million in induced conversion expense recognized during the year ended January 31, 2025 related to the 2026 Convertible Notes.
+
+The $1.0 million increase in net cash provided from changes in operating assets and liabilities was primarily due to a $19.2 million change in deferred revenue due to the timing of revenue recognition, a $2.1 million change in other assets due to the timing of prepayments, and a $2.0 million change in operating lease liabilities due to recurring lease payments. These were partially offset by a $16.7 million change in accounts receivable due to the timing of our cash collections, a $4.1 million change in deferred commissions resulting from capitalization of incremental commissions paid to our sales force, and a $1.7 million change in operating lease right-of-use assets due to amortization.
+
+Investing Activities
+
+The $19.5 million increase in net cash used in investing activities for the year ended January 31, 2026 compared to the year ended January 31, 2025 was primarily due to a $20.9 million decrease in maturities and sales of short-term investments, an $8.1 million decrease in proceeds from sales of property and equipment, and a $7.5 million increase in capitalized software costs, partially offset by a $17.0 million decrease in purchases of short-term investments.
+
+Financing Activities
+
+The $507.2 million increase in net cash used in financing activities for the year ended January 31, 2026 compared to the year ended January 31, 2025 was primarily due to nonrecurring activities that were recognized during the year ended January 31, 2025, including $447.8 million in proceeds from the issuance of the 2029 Convertible Notes, net of issuance costs and $30.3 million in proceeds from the settlement of capped calls related to the 2026 Convertible Notes (the “2026 Capped Calls” and together with the 2029 Capped Calls, the “Capped Calls”), partially offset by $191.7 million paid for the partial repurchase of our 2026 Convertible Notes, $52.5 million for the purchase of 2029 Capped Calls, and $30.0 million used for principal payments on our secured credit agreement. Additionally, the decrease was driven by $205.0 million used for remaining principal payments upon the maturity of the 2026 Convertible Notes during the year ended January 31, 2026, a $78.8 million increase used for repurchases of our common stock, and a $17.6 million decrease in proceeds from the exercise of stock options.
+
+Debt
+
+In September 2024, we issued $460.0 million aggregate principal amount of 1.50% convertible senior notes due September 15, 2029. The 2029 Convertible Notes are senior unsecured obligations and bear interest at a rate of 1.50% per year payable semiannually in arrears on March 15 and September 15 of each year, beginning on March 15, 2025. Each $1,000 principal amount of the 2029 Convertible Notes will be convertible into 23.0102 shares of our Class A common stock, which is equivalent to a conversion price of approximately $43.46 per share, subject to adjustment upon the occurrence of specified events. Upon conversion, we will satisfy our conversion obligation by paying cash up to the aggregate principal amount of the 2029 Convertible Notes to be converted and we will pay or deliver, as the case may be, the conversion premium in cash, shares of common stock or a combination of cash and shares of common stock, at our election.
+
+In January 2021, we issued $345.0 million aggregate principal amount of 0.00% convertible senior notes due January 15, 2026. In September 2024, using proceeds from the issuance of the 2029 Convertible Notes, we entered into separate and privately negotiated transactions with certain holders of the 2026 Convertible Notes to repurchase $140.0 million aggregate principal amount of the 2026 Convertible Notes. Upon maturity in 2026, we settled in full the $205.0 million outstanding principal amount in cash.
+
+In June 2023, we entered into an amended and restated secured credit agreement (the “June 2023 Facility”) and in December 2024, we entered into Amendment No. 1 to the June 2023 Facility to provide for a $75.0 million revolving loan facility with a $45.0 million sublimit for the issuance of letters of credit. As of January 31, 2026, we had no debt outstanding on the June 2023 Facility.
+
+Refer to Note 9 in Part II, Item 8 of this Annual Report on Form 10-K for detailed descriptions of the Convertible Notes and the June 2023 Facility.
+
+Series A Convertible Preferred Stock
+
+On April 7, 2021 we entered into an Investment Agreement with KKR and certain other investors relating to the issuance and sale of 500,000 shares of our Series A Convertible Preferred Stock, par value of $0.0001 per share, for an aggregate purchase price of $500 million, or $1,000 per share (the “Issuance”). Refer to Note 10 in Part II, Item 8 of this Annual Report on Form 10-K for a detailed description of our Series A Convertible Preferred Stock.
+
+Share Repurchase Plan
+
+Our Board of Directors has authorized a share repurchase plan to opportunistically repurchase shares of our outstanding Class A common stock in open market transactions. On December 2, 2025, we announced that our Board of Directors authorized a $150 million expansion of the share repurchase plan. During the year ended January 31, 2026, we repurchased 9.7 million shares at a weighted average price of $30.35 per share for a total amount of $292.9 million. As of January 31, 2026, $59.2 million remained authorized and available for additional repurchases.
+
+Off-Balance Sheet Arrangements
+
+Through January 31, 2026, we did not have any relationships with unconsolidated entities that have, or are reasonably likely to have, a material effect on our financial statements.
+
+Contractual Obligations and Commitments
+
+Our principal commitments consist of (i) obligations under operating leases for office spaces, (ii) purchase obligations not recognized on the consolidated balance sheet as of January 31, 2026, which relate primarily to public cloud hosting services and IT software and support services, and (iii) debt, including obligations under our June 2023 Facility and 2029 Convertible Notes. For more information regarding our obligations for leases, purchase agreements, and debt, refer to Notes 7, 8, and 9, respectively, in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Critical Accounting Estimates
+
+Our consolidated financial statements are prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions.
+
+Income Taxes
+
+We account for income taxes under the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the temporary differences between the financial statement and tax basis of assets and liabilities using the enacted tax rates in effect for the years in which the differences are expected to reverse.
+
+Valuation allowances are established when necessary to reduce deferred tax assets to the amounts we believe are more likely than not to be realized. Future realization of deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character, within the carry-back or carry-forward periods available under the applicable tax law. In assessing our need for a valuation allowance, we consider available evidence, including past operating results, expirations or limitations of tax attributes, estimated future taxable income, and the feasibility of tax planning strategies. Our judgment regarding future estimates may change due to many factors,
+
+including future market conditions and the ability to successfully execute our business plans and tax planning strategies. Should there be a change in the ability to recover deferred tax assets, our provision for income taxes would increase or decrease in the period in which the assessment is changed. A release of a valuation allowance would result in the recognition of certain deferred tax assets and material income tax benefit in the period of release. As of January 31, 2026 and 2025, we evaluated all negative and positive evidence and determined that our net deferred tax assets, with the exception of those in California, are more likely than not to be realizable.
+
+Our tax positions are subject to income tax audits by multiple tax jurisdictions throughout the world. We recognize tax benefits from uncertain tax positions only if we believe that it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. Significant judgment is required in determining the technical merits of an uncertain tax position, such as taking into account current tax laws, our interpretation of current tax laws, and possible outcomes of current and future audits conducted by foreign and domestic tax authorities.
+
+Recently Adopted and Issued Accounting Pronouncements
+
+Refer to Note 2 in Part II, Item 8 of this Annual Report on Form 10-K regarding the effect of recently adopted and issued accounting pronouncements on our financial statements.
+
+Non-GAAP Financial Measures
+
+Regulation S-K Item 10(e), “Use of Non-GAAP Financial Measures in Commission Filings,” defines and prescribes the conditions for use of non-GAAP financial information. Our measure of non-GAAP free cash flow (as defined above) meets the definition of a non-GAAP financial measure.
+
+We use non-GAAP financial measures and our key metrics for financial and operational decision-making (including for purposes of determining variable compensation of members of management and other employees) and as a means to evaluate period-to-period comparisons. We believe that these non-GAAP financial measures and key metrics provide meaningful supplemental information regarding our performance by excluding certain expenses that may not be indicative of our recurring core business operating results. We believe that both management and investors benefit from referring to these non-GAAP financial measures and key metrics in assessing our performance and when planning, forecasting, and analyzing future periods. These non-GAAP financial measures and key metrics also facilitate management’s internal comparisons to our historical performance as well as comparisons to our competitors’ operating results. We believe these non-GAAP financial measures and key metrics are useful to investors both because (1) they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making and (2) they are used by our institutional investors and the analyst community to help them analyze the health of our business.
+
+Non-GAAP operating income, non-GAAP operating margin, non-GAAP net income attributable to common stockholders, and non-GAAP net income per share attributable to common stockholders.
+
+We define these non-GAAP financial measures as the respective GAAP measures, excluding expenses related to stock-based compensation, acquired intangible assets amortization, and as applicable, other special items. Although stock-based compensation is an important aspect of the compensation of our employees and executives, determining the fair value of certain of the stock-based instruments we utilize involves estimation and the expense recorded may bear little resemblance to the actual value realized upon the vesting or future exercise of the related stock-based awards. Management believes it is useful to exclude stock-based compensation in order to better understand the long-term performance of our core business and to facilitate comparison of our results to those of peer companies. Management also views amortization of acquired intangible assets, such as the amortization of the cost associated with an acquired company’s developed technology and trade names, as items arising from pre-acquisition activities determined at the time of an acquisition. While these intangible assets are continually evaluated for impairment, amortization of the cost of purchased intangibles is a static expense that is not typically affected by operations during any particular period. We exclude the following expenses as they are considered by management to be special items outside of our core operating results: (1) expenses related to certain litigation, (2) expenses associated with a non-recurring workforce reorganization, consisting primarily of severance and other personnel-related costs, and (3) expenses related to acquisitions. In addition to these expenses, we exclude the following items
+
+to calculate non-GAAP net income attributable to common stockholders: (1) amortization of debt issuance costs, (2) induced conversion of convertible notes, (3) the income tax benefit from the release of a valuation allowance on deferred tax assets, (4) non-recurring benefits of federal R&D credits carryforwards and related UTP, (5) the income tax effects of non-GAAP adjustments, and (6) undistributed earnings attributable to preferred stockholders. Non-GAAP operating margin is defined as non-GAAP operating income as a percentage of revenue. Non-GAAP net income per share attributable to common stockholders is defined as non-GAAP net income attributable to common stockholders divided by the weighted-average outstanding shares.
+
+Non-GAAP Free Cash Flow
+
+We define non-GAAP free cash flow as cash flows from operating activities less net capital expenditures (purchases of property and equipment less proceeds from sales of property and equipment), principal payments of finance lease liabilities, capitalized software development costs, and other items that did not or are not expected to require cash settlement and that management considers to be outside of our core business. We specifically identify adjusting items in our reconciliation of GAAP to non-GAAP financial measures. We consider non-GAAP free cash flow to be a profitability and liquidity measure that provides useful information to management and investors about the amount of cash generated by the business that can possibly be used for investing in our business and strengthening the balance sheet, but it is not intended to represent the residual cash flow available for discretionary expenditures. The presentation of non-GAAP free cash flow is also not meant to be considered in isolation or as an alternative to cash flows from operating activities as a measure of liquidity.
+
+Limitations on the use of non-GAAP financial measures
+
+A limitation of our non-GAAP financial measures is that they do not have uniform definitions. Our definitions will likely differ from the definitions used by other companies, including peer companies, and therefore comparability may be limited. Thus, our non-GAAP financial measures should be considered in addition to, not as a substitute for, or in isolation from, measures prepared in accordance with GAAP.
+
+We compensate for these limitations by reconciling non-GAAP financial measures to the most comparable GAAP financial measures. We encourage investors and others to review our financial information in its entirety, not to rely on any single financial measure and to view our non-GAAP financial measures in conjunction with the most comparable GAAP financial measures.
+
+Our reconciliation of the GAAP to non-GAAP financial measures for years ended January 31, 2026, 2025 and 2024 are as follows (in thousands, except per share data and percentages):
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+GAAP operating income and operating margin
+
+$
+
+83,189
+
+7.1
+
+%
+
+$
+
+79,634
+
+7.3
+
+%
+
+$
+
+50,753
+
+4.9
+
+%
+
+Stock-based compensation
+
+233,716
+
+19.9
+
+219,003
+
+20.1
+
+198,783
+
+19.2
+
+Acquired intangible assets amortization
+
+3,974
+
+0.3
+
+4,214
+
+0.4
+
+5,838
+
+0.6
+
+Acquisition-related expenses
+
+—
+
+—
+
+—
+
+Expenses related to litigation
+
+1,483
+
+0.1
+
+0.1
+
+—
+
+Workforce reorganization
+
+10,629
+
+0.9
+
+—
+
+—
+
+—
+
+Non-GAAP operating income and operating margin
+
+$
+
+333,583
+
+28.3
+
+%
+
+$
+
+303,648
+
+27.9
+
+%
+
+$
+
+256,767
+
+24.7
+
+%
+
+GAAP net income and net income per share attributable to common stockholders, diluted
+
+$
+
+87,053
+
+$
+
+0.58
+
+$
+
+201,567
+
+$
+
+1.36
+
+$
+
+99,147
+
+$
+
+0.67
+
+Stock-based compensation
+
+233,716
+
+1.57
+
+219,003
+
+1.47
+
+198,783
+
+1.34
+
+Acquired intangible assets amortization
+
+3,974
+
+0.03
+
+4,214
+
+0.03
+
+5,838
+
+0.04
+
+Acquisition-related expenses
+
+1,973
+
+0.01
+
+—
+
+—
+
+Expenses related to litigation
+
+1,483
+
+0.01
+
+—
+
+—
+
+Workforce reorganization
+
+10,629
+
+0.07
+
+—
+
+—
+
+0.01
+
+Amortization of debt issuance costs
+
+3,517
+
+0.03
+
+2,662
+
+0.02
+
+1,899
+
+0.01
+
+Induced conversion expense (1)
+
+—
+
+—
+
+10,139
+
+0.07
+
+—
+
+—
+
+Benefit from the release of a valuation allowance on deferred tax assets
+
+—
+
+—
+
+(177,190
+
+)
+
+(1.19
+
+)
+
+(75,240
+
+)
+
+(0.51
+
+)
+
+Benefit from federal R&D credit
+
+(48,381
+
+)
+
+(0.32
+
+)
+
+—
+
+—
+
+—
+
+—
+
+Income tax effects of non-GAAP adjustments (2)
+
+(63,478
+
+)
+
+(0.43
+
+)
+
+—
+
+—
+
+—
+
+—
+
+Undistributed earnings attributable to preferred stockholders
+
+(16,339
+
+)
+
+(0.11
+
+)
+
+(6,791
+
+)
+
+(0.05
+
+)
+
+(15,147
+
+)
+
+(0.10
+
+)
+
+Non-GAAP net income and net income per share attributable to common stockholders, diluted
+
+$
+
+214,147
+
+$
+
+1.44
+
+$
+
+254,401
+
+$
+
+1.71
+
+$
+
+216,673
+
+$
+
+1.46
+
+Weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted (1)
+
+149,155
+
+148,643
+
+148,586
+
+Weighted-average shares used to compute non-GAAP net income per share attributable to common stockholders, diluted
+
+149,155
+
+148,870
+
+148,586
+
+GAAP net cash provided by operating activities
+
+$
+
+356,450
+
+$
+
+332,257
+
+$
+
+318,727
+
+Purchases of property and equipment
+
+(6,074
+
+)
+
+(2,573
+
+)
+
+(4,703
+
+)
+
+Proceeds from sales of property and equipment
+
+8,395
+
+2,860
+
+Principal payments of finance lease liabilities
+
+—
+
+(2,141
+
+)
+
+(30,176
+
+)
+
+Capitalized internal-use software costs
+
+(37,763
+
+)
+
+(31,332
+
+)
+
+(17,742
+
+)
+
+Non-GAAP free cash flow
+
+$
+
+312,922
+
+$
+
+304,606
+
+$
+
+268,966
+
+GAAP net cash used in investing activities
+
+$
+
+(42,702
+
+)
+
+$
+
+(23,211
+
+)
+
+$
+
+(82,792
+
+)
+
+GAAP net cash used in financing activities
+
+$
+
+(569,522
+
+)
+
+$
+
+(62,362
+
+)
+
+$
+
+(272,896
+
+)
+
+(1)
+For the year ended January 31, 2025, weighted-average shares used to compute GAAP net income per share attributable to common stockholders, diluted exclude weighted-average shares related to the induced conversion of the 2026 Convertible Notes because the impact was antidilutive.
+
+(2)
+Non-GAAP tax provision for the year ended January 31, 2026 uses a long-term projected tax rate of 25%, which reflects currently available information and could be subject to change.

@@ -1,0 +1,166 @@
+{
+  "ticker": "MRNA",
+  "company_name": "Moderna",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001682852-26-000033",
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:58:33",
+  "prompt_chars": 186094,
+  "filing_chars": 166103,
+  "filing_words_sent": 24341,
+  "approx_prompt_tokens": 46523,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Structured technical training curriculum for all employees",
+        "quote": "To further invest in our teams, we have established a structured training curriculum for our employees so that every employee becomes deeply familiar with our core technology and technologies that might further enable our innovation.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Our approach to training our employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "AI Academy delivering practical AI skills training to employees",
+        "quote": "In 2025, we delivered a targeted learning portfolio focused on practical AI skills designed to build durable habits and fundamentally change how employees work.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Our approach to training our employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Moderna ONE onboarding learning program for new employees",
+        "quote": "New employees participate in our Moderna ONE onboarding program, which is an interactive learning experience designed to immerse our people in our culture and Mindsets from day one.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Our approach to training our employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Employee volunteer and matching donation programs supporting local communities",
+        "quote": "Giving and volunteering: Our people have the opportunity to give back to their communities and directly support causes that they are passionate about through volunteer and employee matching donation programs.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Our approach to attracting and retaining talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current activity, limited reach (no figures disclosed)"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Disclosure of workforce gender and racial/ethnic composition",
+        "quote": "44% of our U.S. employees identify as racially or ethnically diverse as of December 31, 2025.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "49% female; 44% of U.S. employees racially or ethnically diverse",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Annual outside statistical pay equity analysis across gender, race and ethnicity",
+        "quote": "In 2025, for the fourth year in a row, an outside statistical pay equity analysis confirmed zero statistically significant differences in pay across gender globally and across gender, race and ethnicity in the United States.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: statistical outcome disclosure, not a barrier-removing program"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description of an mRNA medicines company shows no creative activity; 'state-of-the-art' and sequence/LNP 'design' are traps."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: employee training programs plus volunteer and matching donation programs with no reach figures, so external activity has only limited demonstrated reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 1: the filing gives workforce demographics, a pay-equity statistic and general 'belonging' language but no specific inclusion or access program."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own innovation and ownership mindset, with no program enabling founders or small businesses."
+      }
+    },
+    "notes": "Gates Foundation framework funding concluded during 2025 and BARDA contract concluded June 2025 (past, and research funding rather than qualifying activities). ILCM no-fee license, Merck/Vertex/Recordati/Immatics collaborations are licensing/legal partnerships (trap). Local manufacturing in UK, Canada and Australia is international operations, not cross-cultural access. Public health vaccine programs for regions with less well-established health systems are pipeline R&D, not current access activity. CSR section refers to the 2024 Impacting Human Health Report on the website, but Human Capital gives specific activities, so coverage is sufficient and no second look is triggered. Pay equity analysis (E6) is borderline internal practice; scored as disclosure under the pick-lower rule. 'Scientific community' is a trap.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"MRNA\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Structured technical training curriculum for all employees\",\"quote\":\"To further invest in our teams, we have established a structured training curriculum for our employees so that every employee becomes deeply familiar with our core technology and technologies that might further enable our innovation.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Our approach to training our employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"AI Academy delivering practical AI skills training to employees\",\"quote\":\"In 2025, we delivered a targeted learning portfolio focused on practical AI skills designed to build durable habits and fundamentally change how employees work.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Our approach to training our employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Moderna ONE onboarding learning program for new employees\",\"quote\":\"New employees participate in our Moderna ONE onboarding program, which is an interactive learning experience designed to immerse our people in our culture and Mindsets from day one.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Our approach to training our employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E4\",\"activity\":\"Employee volunteer and matching donation programs supporting local communities\",\"quote\":\"Giving and volunteering: Our people have the opportunity to give back to their communities and directly support causes that they are passionate about through volunteer and employee matching donation programs.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Our approach to attracting and retaining talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current activity, limited reach (no figures disclosed)\"}}},{\"id\":\"E5\",\"activity\":\"Disclosure of workforce gender and racial/ethnic composition\",\"quote\":\"44% of our U.S. employees identify as racially or ethnically diverse as of December 31, 2025.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"49% female; 44% of U.S. employees racially or ethnically diverse\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E6\",\"activity\":\"Annual outside statistical pay equity analysis across gender, race and ethnicity\",\"quote\":\"In 2025, for the fourth year in a row, an outside statistical pay equity analysis confirmed zero statistically significant differences in pay across gender globally and across gender, race and ethnicity in the United States.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: statistical outcome disclosure, not a barrier-removing program\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description of an mRNA medicines company shows no creative activity; 'state-of-the-art' and sequence/LNP 'design' are traps.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: employee training programs plus volunteer and matching donation programs with no reach figures, so external activity has only limited demonstrated reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\"],\"reason\":\"Level 1: the filing gives workforce demographics, a pay-equity statistic and general 'belonging' language but no specific inclusion or access program.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own innovation and ownership mindset, with no program enabling founders or small businesses.\"}},\"notes\":\"Gates Foundation framework funding concluded during 2025 and BARDA contract concluded June 2025 (past, and research funding rather than qualifying activities). ILCM no-fee license, Merck/Vertex/Recordati/Immatics collaborations are licensing/legal partnerships (trap). Local manufacturing in UK, Canada and Australia is international operations, not cross-cultural access. Public health vaccine programs for regions with less well-established health systems are pipeline R&D, not current access activity. CSR section refers to the 2024 Impacting Human Health Report on the website, but Human Capital gives specific activities, so coverage is sufficient and no second look is triggered. Pay equity analysis (E6) is borderline internal practice; scored as disclosure under the pick-lower rule. 'Scientific community' is a trap.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 61500,
+      "output_tokens": 4307,
+      "duration_ms": 41868
+    }
+  ]
+}

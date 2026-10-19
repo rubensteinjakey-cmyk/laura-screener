@@ -1,0 +1,45 @@
+{
+  "ticker": "NTNX",
+  "accession_number": "0001193125-26-394793",
+  "filing_date": "2026-09-18",
+  "fiscal_year": 2026,
+  "full_text_words": 69757,
+  "sections": {
+    "item1": {
+      "words": 5911,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5911,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 11006,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          11006,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 192,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 1053
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 1441
+}

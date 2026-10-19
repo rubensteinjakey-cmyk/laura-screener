@@ -1,0 +1,560 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion and analysis of our financial condition and results of operations together with the consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This discussion and other parts of this Annual Report on Form 10-K contain forward-looking statements that involve risk and uncertainties, such as statements of our plans, objectives, beliefs, expectations and intentions. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those discussed in Part I, Item 1A, “Risk Factors,” of this Annual Report on Form 10-K.
+
+The following generally compares our results of operations for the years ended December 31, 2025 and 2024. A detailed discussion comparing our results of operations for the years ended December 31, 2024 and 2023 can be found in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the year ended December 31, 2024.
+
+In 2025, we started to present revenue and cost of revenue in a single line on the accompanying consolidated statement of operations. Accordingly, we recast our presentation of revenue and cost of revenue for the years ended December 31, 2024 and 2023 to conform with the current year presentation. See Revenue Recognition section of Note 2, Summary of Significant Accounting Policies, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information related to the disaggregation of revenue. In addition, we included in this section a detailed discussion comparing our revenue and cost of revenue under the recast presentation for the years ended December 31, 2024 and 2023.
+
+Overview
+
+We are a leading precision oncology company focused on guarding wellness and giving every person more time free from cancer. We are transforming patient care by providing critical insights into what drives disease through our advanced blood and tissue tests, real-world data and AI analytics. Our tests help improve outcomes across all stages of care, including screening to find cancer early, monitoring for recurrence in early-stage cancer, and treatment selection for patients with advanced cancer. For patients with advanced-stage cancer, we offer the Guardant360 Liquid test, formerly known as the Guardant360 LDT test, and the Guardant360 CDx test, the first comprehensive liquid biopsy test approved by the U.S. Food and Drug Administration, or the FDA, to provide tumor mutation profiling with solid tumors and to be used as a companion diagnostic in connection with non-small cell lung cancer, or NSCLC, colorectal cancer and breast cancer. We also offer the Guardant360 Tissue test for advanced-stage cancer and the Guardant Reveal test to detect residual and recurring disease in early-stage colorectal, breast and lung cancer patients. We have also expanded the Guardant Reveal test to include late-stage therapy response monitoring for patients with solid tumors. Our product portfolio is now powered by our Smart Platform, which utilizes methylation technology with genomic, epigenomic, and RNA-based data, to unlock multi-modal biology with proprietary chemistry, advanced algorithms and our InfinityAI learning engine.
+
+We also collaborate with biopharmaceutical companies in clinical studies by providing the above-mentioned tests, as well as the GuardantINFINITY blood test, also powered by our Smart Platform, which provides new, multi-dimensional insights into the complexities of tumor molecular profiles and immune response to advance cancer research and therapy development, and the GuardantOMNI blood test for advanced-stage cancer. Using data collected from our tests and through AI-enabled analytical tools, we have also developed our GuardantINFORM platform to help biopharmaceutical companies accelerate precision oncology drug development through the use of this in-silico research platform to unlock further insights into tumor evolution and treatment resistance across various biomarker-driven cancers.
+
+For early cancer detection, we offer the Shield blood test for colorectal cancer screening in adults age 45 and older who are at average risk for the disease. Shield is the first blood test approved by the FDA for primary colorectal cancer screening and also the first blood test for colorectal cancer screening that meets coverage requirements by Medicare. In addition, our Shield blood test is included in the National Comprehensive Cancer Network colorectal cancer screening guidelines. We also expect to expand into lung cancer screening and multi-cancer detection, or MCD, with our Shield platform. The FDA has granted Breakthrough Device designation to our Shield MCD test to provide patients and healthcare providers with timely access to medical devices by speeding up their development, assessment and review. In addition, we have expanded our Shield blood test to include an MCD results report with a data collection effort to better understand the clinical impact of MCD results.
+
+We currently perform clinical, research use only, and investigation use only tests in our laboratory located in Redwood City, California. Our Redwood City laboratory is licensed pursuant to the Clinical Laboratory Improvement Amendments of 1988, or CLIA, accredited by the College of American Pathologists, or CAP, permitted by the New York State Department of Health, or NYSDOH, and licensed in California and four other states. We also perform clinical tests in our laboratory located in Long Island City, New York, for which we have received a clinical laboratory license from New York State, and research use only tests in our laboratory located in San Diego, California. In addition, our Redwood City, San Diego and Palo Alto, California laboratories are currently operated as centers for our research and technology development, and our Palo Alto laboratory is also CLIA licensed.
+
+We generated total revenue of $982.0 million, $739.0 million and $563.9 million for the years ended December 31, 2025, 2024 and 2023, respectively. We also incurred net losses of $416.3 million, $436.4 million and $479.4 million in the years ended December 31, 2025, 2024 and 2023, respectively. We have funded our operations to date principally from the sales of our common stock, issuances of convertible senior notes, and generation of our revenue. See Note 7, Debt, and Note 10, Common Stock, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information on our convertible senior notes and common stock. As of December 31, 2025, we had cash, cash equivalents, restricted cash and marketable debt securities of approximately $1.3 billion.
+
+Factors affecting our performance
+
+We believe there are several important factors that have impacted and that we expect will impact our operating performance and results of operations, including:
+
+•Testing volume, pricing, and product and customer mix. Our revenue and cost of revenue are affected by the volume of tests, and average selling price per sample and cost per sample in relation to the mix of products and customers from period to period. We evaluate the volume of tests performed both for patients on behalf of clinicians and for biopharmaceutical companies, including tests delivered by labs operated by our strategic partners. Our performance depends on our ability to retain and broaden adoption of our existing and new products, with existing customers, as well as attract new customers.
+
+•Payer coverage and reimbursement. Our revenue depends on achieving broad coverage and reimbursement for our tests from third-party payers, including both commercial and government payers. Our oncology and screening revenue is calculated based on our expected cash collections, using the estimated variable consideration. The variable consideration is estimated based on historical collection patterns as well as the potential for changes in future reimbursement behavior by one or more payers. Estimation of the impact of the potential for changes in reimbursement requires significant judgment and considers payers' past patterns of changes in reimbursement as well as any stated plans to implement changes. Any cash collections over the expected reimbursement period exceeding the estimated variable consideration are recorded in future periods based on actual cash received. Payment from commercial payers can vary depending on whether we have entered into a contract with the payers as a “participating provider” or do not have a contract and are considered a “non-participating provider”. Payers often reimburse non-participating providers, if at all, at a lower amount than participating providers. Because we are not contracted with these payers, they determine the amount that they are willing to reimburse us for any of our tests and they can prospectively and retrospectively adjust the amount of reimbursement, adding to the complexity in estimating the variable consideration. When we contract with a payer to serve as a participating provider, reimbursements by the payer are generally made pursuant to a negotiated fee schedule and are limited to only covered indications or where prior approval has been obtained. Becoming a participating provider can result in higher reimbursement amounts for covered uses of our tests and, potentially, no reimbursement for non-covered uses identified under the payer’s policies or the contract. As a result, the potential for more favorable reimbursement associated with becoming a participating provider may be offset by a potential loss of reimbursement for non-covered uses of our tests. Current Procedural Terminology, or CPT, coding plays a significant role in how our tests are reimbursed both from commercial and governmental payers. In addition, Z-Code Identifiers are used by certain payers, including under Medicare's Molecular Diagnostic Services Program, or MolDx, to supplement CPT codes for our molecular diagnostics tests. Changes to the codes used to report to payers may result in significant changes in its reimbursement. If their policies were to change in the future to cover additional cancer indications, we anticipate that our total reimbursement would increase.
+
+In March 2021, the Centers for Medicare and Medicaid Services, or CMS, approved advanced diagnostic laboratory test, or ADLT, status to our Guardant360 CDx test, based on which Medicare paid us at the lowest available commercial rate per test, from April 1, 2021 to December 31, 2021. Effective January 1, 2022, Medicare started to reimburse Guardant360 CDx services at the median rate of claims paid by commercial
+
+payers. In March 2022, Palmetto GBA, the Medicare administrative contractor for MolDX, conveyed coverage for our Guardant360 Tissue test under the existing local coverage determination. The policy covers our Guardant360 Tissue test for Medicare fee-for-service patients with advanced solid tumor cancers. In July 2022, Palmetto GBA conveyed coverage for our Guardant Reveal test for fee-for-service Medicare patients in the United States with stage II or III colorectal cancer whose testing is initiated within three months following curative intent therapy, with an effective date of December 2021. Effective January 1, 2024, Medicare has increased the reimbursement rate for our Guardant360 Liquid test to the same rate as our Guardant360 CDx test. In January 2025, Palmetto GBA granted coverage for our Guardant Reveal test to monitor disease recurrence in patients with colorectal cancer in the surveillance setting following curative intent therapy. This represents an expansion from the prior Medicare coverage of our Guardant Reveal test for colorectal cancer in the early post-surgical setting only. In May 2025, the coverage for our upgraded Guardant360 Tissue test was expanded by Medicare to include both DNA and RNA testing.
+
+In August 2024, following the FDA approval, our Shield blood test met the coverage requirements by Medicare based on the criteria established in its National Coverage Determination for blood-based colorectal cancer screening tests. The test is covered once every three years for eligible Medicare beneficiaries. In March 2025, CMS approved ADLT status for our Shield blood test for colorectal cancer screening, which initiated a specific, market-based approach to pricing the test for Medicare patients. In March 2025, our Shield blood test received coverage for patients receiving community care authorized by the U.S. Department of Veterans Affairs, or VA, as an in-network benefit, with no copay for average-risk individuals who are age 45 or older. Following Medicare coverage for our Shield blood test in August 2024, the VA network coverage is the first for individuals between the ages of 45 and 64. In addition, in January 2026, our Shield blood test received coverage for active-duty service members and their families through TRICARE, the U.S. military’s health insurance coverage, with no copay for average-risk individuals ages 45 and older.
+
+Due to the inherent variability and unpredictability of the reimbursement landscape, including related to the amount that payers reimburse us for any of our tests, we estimate the amount of our oncology and screening revenue to be recognized at the time a test is provided and record revenue adjustments if and when the cash subsequently received differs from the revenue recorded. Due to this variability and unpredictability, previously recorded revenue adjustments are not indicative of future revenue adjustments from actual cash collections, which may fluctuate significantly. Additionally, if coding changes were to occur, payments for certain uses of our tests could be reduced, put on hold, or eliminated. This variability and unpredictability could increase the risk of future revenue reversal and result in our failing to meet any previously publicly stated guidance we may provide.
+
+•Biopharmaceutical customers. Our revenue also depends on our ability to attract, maintain and expand relationships with biopharmaceutical customers. As we continue to develop these relationships, we expect to support a growing number of clinical studies globally and continue to have opportunities to offer our services to such customers, primarily including companion diagnostic development and regulatory approval, monitoring and maintenance, GuardantINFORM data services and GuardantConnect referral services.
+
+•Research and development. A significant aspect of our business is our investment in research and development, including the development of new products. In particular, we have invested heavily in clinical studies as we believe these studies are critical to gaining physician adoption and driving favorable coverage decisions by payers. With respect to Guardant Reveal, in October 2021, we initiated a 1,000-patient prospective, observational, multi-center study, which we refer to as the ORACLE study, designed to evaluate the performance of our Guardant Reveal liquid biopsy test to predict cancer recurrence after curative intent treatment, across 11 solid tumor types. In addition, with respect to Guardant Reveal, in December 2022, we entered into a partnership with Susan G. Komen®, the world’s leading breast cancer organization, to bring the patient perspective to the development of clinical studies that help identify early-stage breast cancer patients who are at high risk of disease recurrence and may benefit from additional monitoring or therapy. With respect to Shield, in December 2022, we announced that the ECLIPSE study, a registrational study evaluating the performance of our Shield blood test for detecting colorectal cancer in average-risk adults, met co-primary endpoints. The test demonstrated 83% sensitivity in detecting individuals with colorectal cancer. Specificity was 90% in both individuals without advanced neoplasia and in those who had a negative colonoscopy result. These results exceed the performance criteria set forth by the CMS for reimbursement. This test also demonstrated 13% sensitivity in detecting advanced adenomas. Based on these study results, in March 2023, we submitted a PMA to the FDA for our Shield blood test. In July 2024, we received FDA approval of our Shield blood test for colorectal cancer screening in adults age 45 and older who are at average risk for the disease, and in August 2024, our Shield blood test became commercially available in the U.S. as the first blood test approved by the FDA for primary colorectal cancer screening, meaning healthcare providers can offer Shield in a manner similar to all other non-invasive methods recommended in screening guidelines. Shield is also the first blood test for colorectal cancer screening that meets coverage requirements by Medicare. In addition, in June 2025, the National Comprehensive Cancer Network included our Shield blood test in its updated colorectal cancer screening guidelines. In July 2025, we initiated patient enrollment for the required Shield post FDA-approval study with the goal of assessing our Shield blood test performance, which we refer to as the SOLAR study. The SOLAR study will continue patient enrollment into 2026, and we aim to conclude the SOLAR study by 2031. To clinically validate the performance of our next-generation Shield blood test in lung cancer screening in high-risk individuals ages 50-80, in January 2022, we initiated a nearly 10,000-patient prospective, registrational study, which we refer to as the SHIELD LUNG study. In addition, in January 2025, our Shield multi-cancer detection, or MCD, test was selected for the Vanguard study funded by the National Cancer Institute, part of the National Institutes of Health. The Vanguard study is a four-year pilot study which initiated patient enrollment in June 2025 and will enroll up to 24,000 people to inform the design of a randomized controlled trial evaluating the use of MCD tests for cancer screening. In June 2025, the FDA also granted Breakthrough Device designation to our Shield MCD test to provide patients and healthcare providers with timely access to medical devices by speeding up their development, assessment and review. We have expended considerable resources, and expect to increase such expenditures over the next few years, to support our research and development programs with the goal of fueling further innovation.
+
+•International expansion. A component of our long-term growth strategy is to expand our commercial footprint internationally, and we expect to increase our sales and marketing expense to execute on this strategy. We currently offer our oncology and screening tests in countries outside the United States primarily through distributor relationships, direct contracts with hospitals, and partnerships with local research organizations and laboratory companies.
+
+In July 2023, Japan's Ministry of Health, Labour and Welfare granted national reimbursement approval for our Guardant360 CDx test for patients with advanced or metastatic solid tumor cancers in Japan.
+
+In December 2020, we signed our first public private partnership agreement with Vall D'Hebron Institute of Oncology, or VHIO, one of Europe’s leading cancer research institutions, and in May 2022, the first blood-based cancer testing services in Europe based on our digital sequencing platform became available at the VHIO testing facility in Spain. In October 2021, we signed a partnership agreement with The Royal Marsden NHS Foundation Trust, or Royal Marsden, a premier cancer center within the United Kingdom, or the UK, for patient care, research and teaching of all types of cancer, and in April 2023, the blood-based cancer testing services based on our digital sequencing platform became available at Royal Marsden testing facility in the UK. In September 2024, we signed a partnership agreement with Fondazione Policlinico Universitario Agostino Gemelli IRCCS, or Policlinico Gemelli, one of Italy’s largest and most renowned hospitals known for its advanced oncology services, including diagnostics, treatment, and research, to establish an in-house liquid biopsy testing service within its hospital system, and in December 2025, the liquid biopsy testing service based on our proprietary Guardant360® CDx technology became available at the Policlinico Gemelli facility in Italy.
+
+In June 2022, we signed a strategic partnership agreement with Adicon Holdings Limited, or Adicon, a leading independent clinical laboratory company based in China, and in December 2023, the blood-based cancer testing services based on our digital sequencing platform became available at Adicon's testing facility, which offers our industry-leading comprehensive genomic profiling tests to biopharmaceutical companies to advance clinical research and the development of new cancer therapies in China.
+
+The success of our international expansion strategy depends on a number of factors, including the internal and external constraints placed on our international laboratory partners and biopharmaceutical companies in the context of broader global, regional and U.S. economic and geopolitical conditions. For example, deterioration in the bilateral relationship between the United States and China may impact international trade, government spending, regional stability and macroeconomic conditions. The impact of these potential developments, including any resulting sanctions, export controls or other restrictive actions that may be imposed against governmental or other entities in, for example, China, may contribute to disruption of our international partnerships and instability and volatility in the global markets, which in turn could adversely impact our operations and weaken our financial results.
+
+•Sales and marketing expense. Our financial results have historically, and will likely continue to, fluctuate significantly based upon the impact of our sales and marketing expense, increase in headcount, and in particular, our various marketing programs around existing and new product introductions.
+
+•General and administrative expense. Our financial results have historically, and will likely continue to, fluctuate significantly based upon the impact of our general and administrative expense, and in particular, our stock-based compensation expense. Our equity awards, including performance-based restricted stock units, are intended to retain and incentivize employees to lead us to sustained, long-term superior financial and operational performance.
+
+•Other operating expense. Our financial results might fluctuate significantly based upon the impact of our other operating expense, and in particular, our legal reserves, which could potentially decrease or increase significantly.
+
+While each of these areas presents significant opportunities for us, they also pose significant risks and challenges that we must address. See Part I, Item 1A, “Risk Factors” of this Annual Report on Form 10-K for more information.
+
+Components of results of operations
+
+Revenue
+
+We derive our revenue from four major sources, including oncology, biopharma and data, screening, and licensing and other.
+
+Oncology. Oncology revenue was previously presented as precision oncology revenue from tests for clinical customers. Oncology revenue includes amounts derived from the delivery of our oncology tests for clinical customers, including hospitals, cancer centers, research institutions and patients, and oncology tests delivered by labs operated by our strategic partners. In the United States, we submit claims to Medicare and private payers for reimbursement for our Guardant360 CDx, Guardant360 Liquid, Guardant360 Tissue, and Guardant Reveal tests performed for qualifying patients.
+
+Biopharma and data. Biopharma and data revenue includes amounts derived from the delivery of our tests for biopharmaceutical customers, previously presented as precision oncology revenue from tests for biopharmaceutical customers. Biopharma and data revenue also includes amounts derived from the performance of our service agreements with biopharmaceutical customers, previously presented as a component of development services and other revenue, primarily comprised of companion diagnostic development and regulatory approval, monitoring and maintenance, GuardantINFORM data services and GuardantConnect referral services.
+
+Screening. Screening revenue, previously included in other revenue, includes amounts derived from the delivery of our Shield screening tests. In August 2024, following the FDA approval, our Shield screening test met the coverage requirements by Medicare, and we submit claims to Medicare for reimbursement for our Shield screening tests performed for qualifying patients. We also submit claims to private payers for reimbursement for qualifying patients covered under Medicare Advantage program. In addition, in March 2025, our Shield screening test received coverage for patients receiving community care authorized by the U.S. Department of VA, as an in-network benefit, with no copay for average-risk individuals who are age 45 or older. Following Medicare coverage for our Shield screening test in August 2024, the VA network coverage is the first for individuals between the ages of 45 and 64.
+
+Licensing and other. We also derive revenue from licensing our technologies, previously included in other revenue.
+
+Costs and operating expenses
+
+Cost of revenue. Costs associated with performing our tests generally consists of cost of materials, including inventory write-downs; cost of labor, including employee benefits, bonus, and stock-based compensation; equipment and infrastructure expenses associated with processing test samples, such as sample preparation, library preparation, sequencing, and quality control analyses; freight; curation of test results for physicians; phlebotomy; and license fees due to third parties. Infrastructure expenses include depreciation of laboratory equipment, rent costs, depreciation of leasehold improvements and information technology costs. Costs associated with performing our tests are recorded as the tests are performed regardless of whether revenue was recognized with respect to the tests. We expect the costs associated with performing our tests to generally increase in line with the increase in the number of tests we perform, but we expect the cost per test to decrease modestly over time due to the efficiencies we may gain as test volume increases, and from automation and other cost reductions.
+
+Cost of revenue also includes costs incurred for the performance of our service agreements and partnership agreements with biopharmaceutical customers and strategic partners, which comprise of labor and material costs. Costs associated with our service agreements and partnership agreements will vary depending on the nature, timing and scope of customer projects.
+
+Research and development expense. Research and development expenses consist of costs incurred to develop technology and include salaries and benefits including stock-based compensation, reagents and supplies used in research and development laboratory work, infrastructure expenses, including facility occupancy and information technology costs, contract services, other outside costs and costs to develop our technology capabilities. Research and development expenses also include costs related to activities performed under contracts with biopharmaceutical companies before technological feasibility has been achieved. Research and development costs are expensed as incurred. Payments made prior to the receipt of goods or services to be used in research and development are deferred and recognized as an expense in the period in which the related goods are received or services are rendered. Costs to develop our technology capabilities are recorded as research and development unless they meet the criteria to be capitalized as internal-use software costs. We expect that our research and development expenses will continue to increase in absolute dollars as we continue to innovate and develop additional products, expand our genomic and medical data management resources and conduct our ongoing and new clinical studies.
+
+Sales and marketing expense. Our sales and marketing expenses are expensed as incurred and include costs associated with our sales organization, including our direct sales force and sales management, client services, marketing and reimbursement, medical affairs, as well as business development personnel who are focused on our biopharmaceutical customers. These expenses consist primarily of salaries, commissions, bonuses, employee benefits, travel expenses and stock-based compensation, as well as marketing, sales incentives, and educational activities and overhead expenses. We expect our sales and marketing expenses to increase in absolute dollars as we expand our sales force, increase our presence within and outside of the United States, and increase our marketing activities to drive further awareness and adoption of our tests.
+
+General and administrative expense. Our general and administrative expenses include costs for our executive, accounting and finance, information technology, legal and human resources functions. These expenses consist principally of salaries, bonuses, employee benefits, travel expenses and stock-based compensation, as well as professional services fees such as consulting, audit, tax and legal fees, and general corporate costs and overhead expenses. In addition, our general and administrative expenses also include severance costs related to workforce reduction. We expect that our general and administrative expenses will continue to increase as we incur additional costs to support the growth of our business. These expenses, though expected to increase in absolute dollars, are expected to decrease modestly as a percentage of revenue in the long term, though they may fluctuate as a percentage of revenue from period to period due to the timing and extent of these expenses being incurred.
+
+Interest income
+
+Interest income consists of interest earned on our cash, cash equivalents, restricted cash and marketable debt securities.
+
+Interest expense
+
+Interest expense consists of coupon interest expense and amortization of debt issuance costs, net of amortization of debt premium.
+
+Other income (expense), net
+
+Other income (expense), net consists of foreign currency exchange gains and losses, unrealized and realized gains and losses on marketable equity securities, gain on extinguishment of convertible notes, and impairment of non-marketable equity securities and other related assets. We expect our foreign currency gains and losses to continue to fluctuate in the future due to changes in foreign currency exchange rates.
+
+Provision for (benefit from) income tax
+
+Income taxes are recorded using an asset and liability approach. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases using enacted tax rates in effect for the year in which the differences are expected to affect taxable income. Tax benefits are recognized when it is more likely than not that a tax position will be sustained during an audit. Deferred tax assets are reduced by a valuation allowance if current evidence indicates that it is considered more likely than not that these benefits will not be realized.
+
+Our tax positions are subject to income tax audits. We recognize the tax benefit of an uncertain tax position only if it is more likely than not that the position is sustainable upon examination by the taxing authority, based on the technical merits. The tax benefit recognized is measured as the largest amount of benefit which is more likely than not to be realized upon settlement with the taxing authority. We recognize interest accrued and penalties related to unrecognized tax benefits in its tax provision. We evaluate uncertain tax positions on a regular basis. The evaluations are based on a number of factors, including changes in facts and circumstances, changes in tax law, correspondence with tax authorities during the course of the audit, and effective settlement of audit issues. The provision for (benefit from) income taxes includes the effects of any accruals that we believe are appropriate, as well as the related net interest and penalties.
+
+Results of operations
+
+The following tables set forth the significant components of our results of operations for the periods presented.
+
+Year Ended December 31,
+
+2025 | 2024
+
+(in thousands)
+
+Revenue
+$ | 982,021 | $ | 739,016
+
+Costs and operating expenses:
+
+Cost of revenue(1)
+349,007 | 289,799
+
+Research and development expense(1)
+364,191 | 347,753
+
+Sales and marketing expense(1)
+494,661 | 364,935
+
+General and administrative expense(1)
+211,410 | 180,123
+
+Total costs and operating expenses
+1,419,269 | 1,182,610
+
+Loss from operations
+(437,248) | (443,594)
+
+Interest income | 34,095 | 53,691
+
+Interest expense | (3,897) | (2,581)
+
+Other income (expense), net | (10,490) | (42,605)
+
+Loss before (benefit from) provision for income taxes
+(417,540) | (435,089)
+
+(Benefit from) provision for income taxes
+(1,263) | 1,284
+
+Net loss
+$ | (416,277) | $ | (436,373)
+
+(1)Amounts include stock-based compensation expense as follows:
+
+Year Ended December 31,
+
+2025 | 2024
+
+(in thousands)
+
+Cost of revenue
+$ | 10,699 | $ | 9,365
+
+Research and development expense | 50,937 | 50,566
+
+Sales and marketing expense | 44,724 | 36,479
+
+General and administrative expense | 59,857 | 44,001
+
+Total stock-based compensation expense
+$ | 166,217 | $ | 140,411
+
+In November 2020 and May 2021, we granted restricted stock units with certain performance metrics, or PSUs, consisting of a performance period of 4 years combined with an additional service period requirement of six months should the vesting criteria be met, with a grant date fair value of $113.40 per share and $148.19 per share, respectively. Before 2024, no compensation expense for these PSUs had been recorded since the achievement of the performance metrics did not meet the criteria for accrual. In 2024, the performance metrics of these PSUs were considered to be achieved; as such we recorded $24.8 million in stock-based compensation expense related to these PSUs, based on 219,161 shares granted with fair values of $113.40 per share and $148.19 per share, of which $2.4 million was recorded to cost of revenue, and $11.8 million, $6.5 million and $4.1 million was recorded as components of research and development expense, sales and marketing expense, and general and administrative expense, respectively. In the first quarter of 2025, these PSUs were vested after the additional six months service requirements were fulfilled.
+
+Comparison of the Years Ended December 31, 2025 and 2024
+
+Revenue
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+Oncology | $ | 683,595 | $ | 542,827 | $ | 140,768 | 26 | %
+
+Biopharma & data | 210,132 | 177,579 | 32,553 | 18 | %
+
+Screening | 79,732 | 5,124 | 74,608 | *
+
+Licensing and other
+8,562 | 13,486 | (4,924) | (37) | %
+
+Total revenue
+$ | 982,021 | $ | 739,016 | $ | 243,005 | 33 | %
+
+*Not meaningful
+
+Total revenue was $982.0 million for the year ended December 31, 2025, compared to $739.0 million for the year ended December 31, 2024, an increase of $243.0 million, or 33%.
+
+Oncology revenue was $683.6 million for the year ended December 31, 2025, compared to $542.8 million for the year ended December 31, 2024, an increase of $140.8 million, or 26%. This increase was driven primarily by an increase in oncology test volume to approximately 276,000 for the year ended December 31, 2025, from approximately 206,700 for the year ended December 31, 2024.
+
+Biopharma and data revenue was $210.1 million for the year ended December 31, 2025, compared to $177.6 million for the year ended December 31, 2024, an increase of $32.6 million, or 18%. This increase was driven primarily by an increase in volume of our GuardantINFINITY test, as well as an increase in revenue derived from the achievement of certain milestones of our companion diagnostic development and regulatory approval service agreements and revenue derived from our data services.
+
+Screening revenue was $79.7 million for the year ended December 31, 2025, generated from the delivery of approximately 87,000 of our Shield screening tests.
+
+Licensing and other revenue was $8.6 million for the year ended December 31, 2025, compared to $13.5 million for the year ended December 31, 2024, a decrease of $4.9 million, primarily due to nonrecurring milestone revenue recorded related to one of our partnership agreements for the year ended December 31, 2024.
+
+Cost of Revenue
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+Cost of revenue
+$ | 349,007 | $ | 289,799 | $ | 59,208 | 20 | %
+
+Cost of revenue was $349.0 million for the year ended December 31, 2025, compared to $289.8 million for the year ended December 31, 2024, an increase of $59.2 million, or 20%. This increase in cost of revenue was driven primarily by an increase in sample volume of our oncology, biopharma and screening tests, partially offset by reduced cost per sample of our tests, primarily Guardant Reveal, Guardant360 Liquid and Shield screening tests.
+
+Operating Expenses
+
+Research and development expense
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+Research and development expense
+$ | 364,191 | $ | 347,753 | $ | 16,438 | 5 | %
+
+Research and development expenses were $364.2 million for the year ended December 31, 2025, compared to $347.8 million for the year ended December 31, 2024, an increase of $16.4 million, or 5%. This increase was related to continued investment in the development of our technologies and products, primarily including an increase of $9.6 million in personnel costs, an increase of $6.7 million in material costs, and an increase of $3.8 million in information technology infrastructure costs; partially offset by a decrease of $6.5 million in outside services costs related to clinical studies.
+
+Sales and marketing expense
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+Sales and marketing expense
+$ | 494,661 | $ | 364,935 | $ | 129,726 | 36 | %
+
+Sales and marketing expenses were $494.7 million for the year ended December 31, 2025, compared to $364.9 million for the year ended December 31, 2024, an increase of $129.7 million, or 36%. This increase was related to commercial team expansion and marketing activities to support both the Shield product launch and existing products growth, primarily resulting in an increase of $77.0 million in personnel costs, an increase of $35.1 million in marketing activity related costs, an increase of $8.2 million in stock-based compensation, an increase of $4.8 million in office and administrative costs, and an increase of $4.7 million in information technology infrastructure costs.
+
+General and administrative expense
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+General and administrative expense
+$ | 211,410 | $ | 180,123 | $ | 31,287 | 17 | %
+
+General and administrative expenses were $211.4 million for the year ended December 31, 2025, compared to $180.1 million for the year ended December 31, 2024, an increase of $31.3 million, or 17%. This increase was primarily due to an increase of $15.9 million in stock-based compensation, an increase of $13.9 million in information technology infrastructure costs, and an increase of $4.0 million in outside service costs; partially offset by a decrease of $5.6 million in legal expenses.
+
+Interest income
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+Interest income
+$ | 34,095 | $ | 53,691 | $ | (19,596) | (36) | %
+
+Interest income was $34.1 million for the year ended December 31, 2025, compared to $53.7 million for the year ended December 31, 2024, a decrease of $19.6 million, or 36%. This decrease was primarily due to reduced average investment balances and lower available market rates of return on our investment portfolio.
+
+Interest expense
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+Interest expense
+$ | (3,897) | $ | (2,581) | $ | (1,316) | 51 | %
+
+Interest expense was primarily related to the coupon interest, amortization of debt issuance costs, net of amortization of debt premium of our convertible senior notes for the years ended December 31, 2025, and 2024. See Note 7, Debt to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information on our convertible senior notes.
+
+Other income (expense), net
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+Other income (expense), net
+$ | (10,490) | $ | (42,605) | $ | 32,115 | (75) | %
+
+Other income (expense), net was a $10.5 million expense for the year ended December 31, 2025, primarily attributable to an impairment of $18.6 million recorded for our non-marketable equity security investments, partially offset by a gain on extinguishment of convertible notes of $13.7 million related to the convertible notes exchange transaction completed in February 2025. Other income (expense), net was a $42.6 million expense for the year ended December 31, 2024, primarily due to $44.4 million of net unrealized and realized losses recorded for our marketable equity security investment in Lunit, Inc. during the period.
+
+(Benefit from) provision for income taxes
+
+Year Ended December 31,
+Change
+
+2025 | 2024
+$
+
+%
+
+(in thousands)
+
+(Benefit from) provision for income taxes
+$ | (1,263) | $ | 1,284 | $ | (2,547) | (198) | %
+
+The (benefit from) provision for income taxes for the years ended December 31, 2025 and 2024 was insignificant.
+
+Comparison of the Years Ended December 31, 2024 and 2023
+
+Revenue
+
+Year Ended December 31,
+Change
+
+2024 | 2023
+$
+
+%
+
+(in thousands)
+
+Oncology | $ | 542,827 | $ | 403,876 | $ | 138,951 | 34 | %
+
+Biopharma & data | 177,579 | 136,351 | 41,228 | 30 | %
+
+Screening | 5,124 | — | 5,124
+*
+
+Licensing and other
+13,486 | 23,721 | (10,235) | (43) | %
+
+Total revenue
+$ | 739,016 | $ | 563,948 | $ | 175,068 | 31 | %
+
+* Not meaningful
+
+Total revenue was $739.0 million for the year ended December 31, 2024, compared to $563.9 million for the year ended December 31, 2023, an increase of $175.1 million, or 31%.
+
+Oncology revenue was $542.8 million for the year ended December 31, 2024, compared to $403.9 million for the year ended December 31, 2023, an increase of $139.0 million, or 34%. This increase was driven primarily by an increase in oncology test volume and an increase in reimbursement for our oncology tests. Total oncology test volume increased to approximately 206,700 for the year ended December 31, 2024, from approximately 172,900 for the year ended December 31, 2023. The increase in reimbursement for our tests for the year ended December 31, 2024 was primarily attributable to an increase in Medicare reimbursement for our Guardant360 Liquid test to $5,000, effective January 1, 2024; and increases in Medicare Advantage and commercial payer reimbursement.
+
+Biopharma and data revenue was $177.6 million for the year ended December 31, 2024, compared to $136.4 million for the year ended December 31, 2023, an increase of $41.2 million, or 30%. This increase was driven primarily by an increase in volume of our GuardantINFINITY test, as well as an increase in revenue derived from the achievement of certain milestones of our companion diagnostic development and regulatory approval service agreements.
+
+Screening revenue was $5.1 million for the year ended December 31, 2024, primarily generated from the delivery of approximately 6,400 of our Shield screening tests for the three months ended December 31, 2024, following the FDA approval.
+
+Licensing and other revenue was $13.5 million for the year ended December 31, 2024, compared to $23.7 million for the year ended December 31, 2023, a decrease of $10.2 million, or 43%, primarily due to a decrease of $7.2 million associated with our partnership agreements and a reduction of $3.2 million in royalty revenue.
+
+Cost of Revenue
+
+Year Ended December 31,
+Change
+
+2024 | 2023
+$
+
+%
+
+(in thousands)
+
+Cost of revenue
+$ | 289,799 | $ | 227,052 | $ | 62,747 | 28 | %
+
+Cost of revenue was $289.8 million for the year ended December 31, 2024, compared to $227.1 million for the year ended December 31, 2023, an increase of $62.7 million, or 28%. This increase in cost of revenue was driven primarily by an increase in sample volume of our oncology, biopharma and screening tests.
+
+Liquidity and capital resources
+
+We have incurred losses and negative cash flows from operations since our inception, and as of December 31, 2025, we had an accumulated deficit of $3.0 billion. We expect to incur additional operating losses in the near future and our operating expenses will increase as we continue to invest in clinical studies and develop new products, expand our sales organization, and increase our marketing efforts to drive market adoption of our tests. As demand for our tests are expected to continue to increase from physicians and biopharmaceutical companies, we anticipate that our capital expenditure requirements could also increase if we require additional laboratory capacity.
+
+We have funded our operations to date principally from the sales of our common stock, issuances of convertible notes and generation of our revenue. As of December 31, 2025, we had cash, cash equivalents, restricted cash and marketable debt securities of $1.3 billion. Cash in excess of immediate requirements is invested in accordance with our investment policy, primarily with a view to provide liquidity while ensuring capital preservation. Additionally, we have investments held in marketable debt securities consisting primarily of commercial paper and U.S. treasury securities that can be immediately liquid.
+
+Based on our current business plan, we believe our current cash, cash equivalents, restricted cash and marketable debt securities and anticipated cash flows from operations, will be sufficient to meet our anticipated cash requirements for more than 12 months from the date of this Annual Report on Form 10-K. We may consider raising additional capital to expand our business, to pursue strategic investments, to take advantage of financing opportunities or for other reasons. As our revenue is expected to grow long-term, we expect our accounts receivable and inventory balances to increase. Any increase in accounts receivable and inventory may not be completely offset by increases in accounts payable and accrued liabilities, which could impact our working capital balances.
+
+If our available cash, cash equivalents, restricted cash and marketable debt securities and anticipated cash flows from operations are insufficient to satisfy our liquidity requirements because of lower demand for our products as a result of lower than currently expected rates of reimbursement from our customers or other risks described in this Annual Report on Form 10-K, we may seek to sell additional common or preferred equity or convertible debt securities, enter into a credit facility or another form of third-party funding or seek other debt financing. The sale of equity and convertible debt securities may result in dilution to our stockholders and, in the case of preferred equity securities or convertible debt, those securities could provide for rights, preferences or privileges senior to those of our common stock. The terms of debt securities issued or borrowings pursuant to a credit agreement could impose significant restrictions on our operations. If we raise funds through collaborations and licensing arrangements, we might be required to relinquish significant rights to our platform technologies or products or grant licenses on terms that are not favorable to us. Additional capital may not be available to us on reasonable terms, or at all. See Note 7, Debt, and Note 10, Common Stock, to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information on our convertible senior notes and common stock.
+
+Cash flows
+
+The following table summarizes our cash flows for the periods presented:
+
+Year Ended December 31,
+
+2025 | 2024
+
+(in thousands)
+
+Net cash used in operating activities | $ | (184,760) | $ | (239,858)
+
+Net cash used in investing activities
+(627,202) | (261,308)
+
+Net cash provided by (used in) financing activities
+$ | 671,133 | $ | (996)
+
+Operating activities
+
+Cash used in operating activities during the year ended December 31, 2025 was $184.8 million, which resulted from a net loss of $416.3 million and changes in our operating assets and liabilities of $14.4 million, partially offset by reconciliation adjustments of $245.9 million. Reconciliation adjustments primarily consisted of $166.2 million of stock-based compensation, $39.7 million of depreciation and amortization, $33.6 million of operating lease costs, and $18.6 million of impairment on nonmarketable equity security investments; partially offset by $13.7 million of gain on extinguishment of convertible notes. The changes in our operating assets and liabilities was primarily the result of a $37.5 million payment of operating lease liabilities net of receipt of tenant improvement allowance, a $28.2 million increase in accounts receivable, net, a $14.8 million increase in inventory, net, and a $6.4 million increase in prepaid expenses and other current assets, net; partially offset by a $52.7 million increase in accounts payable and accrued liabilities, and a $19.5 million increase in deferred revenue.
+
+Cash used in operating activities during the year ended December 31, 2024 was $239.9 million, which resulted from a net loss of $436.4 million and changes in our operating assets and liabilities of $60.9 million, partially offset by reconciliation adjustments of $257.4 million. Reconciliation adjustments primarily consisted of $140.4 million of stock-based compensation, $44.4 million of net unrealized and realized losses on marketable equity security investment in Lunit, inc., $42.4 million of depreciation and amortization, and $31.1 million of operating lease costs; partially offset by $6.8 million of amortization of discount on marketable debt securities. The changes in our operating assets and liabilities was primarily the result of a $36.1 million payment of operating lease liabilities net of receipt of tenant improvement allowance, a $21.4 million increase in accounts receivable, net, a $9.1 million increase in inventory, net, a $7.7 million increase in prepaid expenses and other current assets, net, and a $2.8 million decrease in accounts payable and accrued liabilities; partially offset by a $18.7 million increase in deferred revenue.
+
+Investing activities
+
+Cash used in investing activities during the year ended December 31, 2025 was $627.2 million, which resulted primarily from purchases of marketable debt securities of $818.2 million, business acquisition net of cash acquired of $59.0 million, purchases of property and equipment of $48.3 million, and purchases of non-marketable equity security investments of $9.0 million; partially offset by maturities of marketable debt securities of $307.3 million.
+
+Cash used in investing activities during the year ended December 31, 2024 was $261.3 million, which resulted primarily from purchases of marketable debt securities of $307.3 million, purchases of property and equipment of $35.1 million, and purchases of non-marketable equity security investments of $7.5 million; partially offset by sales of marketable equity security investment in Lunit, Inc. of $53.6 million and maturities of marketable debt securities of $35.0 million.
+
+Financing activities
+
+Cash provided by financing activities during the year ended December 31, 2025 was $671.1 million, which was primarily attributable to proceeds from issuance of convertible senior notes of $402.5 million, proceeds from equity offering of $257.1 million, proceeds from treasury stock reissuance upon equity offering of $87.9 million, proceeds from exercise of stock options of $19.2 million, and proceeds from issuances of common stock under our employee stock purchase plan of $13.6 million; partially offset by repurchase of treasury stock of $45.0 million, employee taxes paid related to net share settlement of restricted stock units of $30.5 million, payment of debt issuance costs of $24.6 million, and payment of equity offering costs of $17.7 million.
+
+Cash used in financing activities during the year ended December 31, 2024 was $1.0 million, which was primarily attributable to employee taxes paid related to net share settlement of restricted stock units of $15.7 million, partially offset by proceeds from issuances of common stock under our employee stock purchase plan of $11.7 million and proceeds from exercise of stock options of $3.1 million.
+
+Critical accounting policies and estimates
+
+We have prepared our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America, or GAAP. Our preparation of these consolidated financial statements requires us to make estimates, assumptions and judgments that affect the reported amounts of assets, liabilities, expenses and related disclosures at the date of the consolidated financial statements, as well as revenue and expenses recorded during the reporting periods. We evaluate our estimates and judgments on an ongoing basis. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results could therefore differ materially from these estimates under different assumptions or conditions.
+
+While our significant accounting policies are described in more detail in Note 2 to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K, we believe the following accounting policies to be critical to the judgments and estimates used in the preparation of our financial statements.
+
+Revenue recognition
+
+We derive revenue from four major sources, including oncology, biopharma and data, screening, and licensing and other. We currently receive payments from third-party commercial and governmental payers, certain hospitals and oncology centers, and individual patients, as well as biopharmaceutical companies, research institutes, international laboratory partners and distributors.
+
+Revenues are recognized when control of services is transferred to customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those services. FASB ASC Topic 606, Revenue from Contracts with Customers, provides for a five-step model that includes identifying the contract with a customer, identifying the performance obligations in the contract, determining the transaction price, allocating the transaction price to the performance obligations, and recognizing revenue when, or as, an entity satisfies a performance obligation.
+
+Oncology
+
+Oncology revenue was previously presented as precision oncology revenue from tests for clinical customers. Oncology revenue includes amounts derived from the delivery of our oncology tests for clinical customers, including hospitals, cancer centers, research institutions and patients, and oncology tests delivered by labs operated by our strategic partners.
+
+Oncology revenue is recognized at the time results of the test are reported to physicians. Most oncology tests requested by clinical customers are sold without a written agreement; however, we determine an implied contract exists with our clinical customers. We identify each sale of our test to a clinical customer as a single performance obligation. With the exception of certain limited contracted arrangements with insurance carriers and other institutions where the transaction price is fixed, a stated contract price does not exist and the transaction price for each implied contract with clinical customers represents variable consideration. We estimate the variable consideration under the portfolio approach and consider the historical reimbursement data from third-party commercial and governmental payers and patients, as well as known or anticipated reimbursement trends not reflected in the historical data. We monitor the estimated amount to be collected in the portfolio at each reporting period based on actual cash collections in order to assess whether a revision to the estimate is required. Both the estimate and any subsequent revision contain uncertainty and require the use of significant judgment in the estimation of the variable consideration and application of the constraint for such variable consideration. We analyze the actual cash collections over the expected reimbursement period and compare it with the estimated variable consideration for each portfolio and any difference is recognized as an adjustment to estimated revenue, subject to assessment of the risk of cumulative future revenue reversal.
+
+Biopharma and data
+
+Biopharma and data revenue includes amounts derived from the delivery of our tests for biopharmaceutical customers, previously presented as precision oncology revenue from tests for biopharmaceutical customers. Biopharma and data revenue also includes amounts derived from the performance of our service agreements with
+
+biopharmaceutical customers, previously presented as a component of development services and other revenue, primarily comprised of companion diagnostic development and regulatory approval, monitoring and maintenance, GuardantINFORM data services and GuardantConnect referral services.
+
+Revenue from the delivery of our tests for biopharmaceutical customers are based on a negotiated price per test or on the basis of an agreement to provide certain testing volume over a defined period. We identify our promise to transfer a series of distinct tests to biopharmaceutical customers as a single performance obligation. Tests for biopharmaceutical customers are generally billed at a fixed price for each test performed. For agreements involving testing volume to be satisfied over a defined period, revenue is recognized over time based on the number of tests performed as the performance obligation is satisfied over time. Results of our tests are delivered electronically, and as such there are no shipping or handling fees incurred by us or billed to customers.
+
+In addition, we collaborate with biopharmaceutical companies in the development of new drugs. As part of these collaborations, we provide services related to regulatory filings to support companion diagnostic device submissions for our testing panels. Under these collaborations, we generate revenue from achievement of milestones. The transaction price of these contracts typically represents variable consideration. Application of the constraint for variable consideration to milestone payments is an area that requires significant judgment. We evaluate factors such as the scientific, clinical, regulatory, commercial, and other risks that must be managed to achieve the respective milestone and the level of effort and investment required to achieve the respective milestone. The constraint for variable consideration is applied to the contract price such that it is probable a significant cumulative reversal of revenue will not occur when the uncertainty associated with the contingency is resolved. We also provide other services to our biopharmaceutical customers, such as monitoring and maintenance, GuardantINFORM data services and GuardantConnect referral services. These revenues are generally recognized over time based on an input method to measure progress in the service period, utilizing costs incurred to-date relative to total expected costs as its measure of progress.
+
+Screening
+
+Screening revenue, previously included in other revenue, includes amounts derived from the delivery of our Shield screening tests. As is the case with our Oncology revenue, we recognize our Screening revenue at the time the results of the tests are reported. Due to consistencies with our Oncology revenue, we apply the concepts of variable consideration under the portfolio approach to our Screening revenue in a manner consistent with that of our Oncology revenue, described above.
+
+Licensing and other
+
+We also derive revenue from licensing our technologies, previously included in other revenue. We recognize licensing and other revenue based on the nature and terms of the technology licensing arrangements.
+
+Contracts with multiple performance obligations
+
+Our contracts with biopharmaceutical customers and international laboratory partners may include multiple distinct performance obligations, such as delivery of our tests, performance of the above-mentioned services, and licensing our technologies, among others. We evaluate the terms and conditions included within our contracts with biopharmaceutical customers and international laboratory partners to ensure appropriate revenue recognition. We first identify material promises, in contrast to immaterial promises or administrative tasks, under the contract, and then evaluate whether these promises are both capable of being distinct and distinct within the context of the contract. In assessing whether a promised service is capable of being distinct, we consider whether the customer could benefit from the service either on its own or together with other resources that are readily available to the customer, including factors such as the research, development, and commercialization capabilities of a third party as well as the availability of the associated expertise in the general marketplace. In assessing whether a promised service is distinct within the context of the contract, we consider whether we provide a significant integration of the services, whether the services significantly modify or customize one another, or whether the services are highly interdependent or interrelated.
+
+For contracts with multiple performance obligations, the transaction price is allocated to the separate performance obligations on a relative standalone selling price basis. We determine standalone selling price by considering the historical selling price of these performance obligations in similar transactions as well as other factors, including, but not limited to, the price that customers in the market would be willing to pay, competitive pricing of other vendors, industry publications and current pricing practices, and expected costs of satisfying each performance obligation plus appropriate margin; or by using the residual approach if standalone selling price is not observable, by reference to the total transaction price less the sum of the observable standalone selling prices of other performance obligations promised in the contract.
+
+Stock-based compensation
+
+We measure the grant date fair value of our service-based and performance-based restricted stock units issued to employees and non-employees based on the closing market price of the common stock on the date of grant. For restricted stock units with only service-based vesting conditions, compensation expense is recognized on a straight-line basis over the requisite service period. Compensation expense for restricted stock units with performance metrics, or PSUs, is calculated based upon expected achievement of the metrics specified in the grant, and is recognized using an accelerated attribution model over the requisite service period for each separately vesting portion of the award. No stock-based compensation expense is recorded for PSUs, unless it is determined to be probable that the related performance metrics will be met. In addition, a cumulative adjustment will be recorded in the period when the probability of achieving the related performance metrics is adjusted. For awards granted with a market condition, we derive the grant date fair value using the Monte Carlo simulation model and the related compensation expense is recognized over the requisite service period using an accelerated attribution model commencing on the grant date. Any awards that remain unvested at the end of the performance period will be forfeited. Forfeitures are accounted for as they occur.
+
+We measure stock-based compensation expense for stock options granted to our employees, directors, and non-employees on the date of grant based on the fair value of the awards and recognize the corresponding compensation expense of those awards over the requisite service period, which is generally the vesting period of the respective awards. Compensation expense for stock options with performance metrics is calculated based upon expected achievement of the metrics specified in the grant.
+
+We estimate the fair value of our stock options on the grant date using the Black-Scholes option-pricing model. The Black-Scholes option-pricing model requires the use of assumptions regarding a number of variables that are complex, subjective and generally require significant judgment to determine. The assumptions used to calculate the fair value of our stock options, were:
+
+Fair Value of Common Stock
+
+The fair value of our common stock is determined by the closing price, on the date of grant, of our common stock, which is traded on the Nasdaq Global Select Market.
+
+Expected Term
+
+The expected term represents the period that the stock options granted are expected to be outstanding and is determined using the simplified method (based on the mid-point between the vesting date and the end of the contractual term) as we have concluded that our stock option exercise history does not provide a reasonable basis upon which to estimate expected term.
+
+Expected Volatility
+
+Prior to the commencement of trading of our common stock on the Nasdaq Global Select Market on October 4, 2018 in connection with our IPO, there was no active trading market for our common stock. Due to limited historical data for the trading of our common stock, for awards granted prior to fiscal year 2025, expected volatility was estimated based on the average volatility for comparable publicly traded peer group companies in the same industry plus our expected volatility for the available periods. The comparable companies are chosen based on their similar size, stage in the life cycle or area of specialty. As sufficient trading data became available, for awards granted since fiscal year 2025, we estimate expected volatility based on its own historical stock price volatility.
+
+Risk-Free Interest Rate
+
+The risk-free interest rate is based on the U.S. Treasury rate, with maturities similar to the expected term of the stock options.
+
+Expected Dividend Yield
+
+We do not anticipate paying any dividends in the foreseeable future and, therefore, use an expected dividend yield of zero.
+
+Black-Scholes Assumptions
+
+The weighted-average assumptions used in our Black-Scholes option-pricing model were as follows for stock option granted to our employees, directors and non-employees for the periods presented:
+
+Year Ended December 31,
+
+2025 | 2024 | 2023
+
+Expected term (in years)
+
+5.50 – 6.10
+
+5.50 – 6.09
+
+5.50 – 6.10
+
+Expected volatility
+
+65.4% – 67.2%
+
+67.4% – 69.4%
+
+69.3% – 70.5%
+
+Risk-free interest rate
+
+3.7% – 4.3%
+
+3.8% – 4.5%
+
+3.4% – 4.5%
+
+Expected dividend yield
+—% | —% | —%
+
+We will continue to use judgment in evaluating the assumptions related to our stock-based compensation on a prospective basis, including probabilities of meeting performance metrics for our PSUs. As we continue to accumulate additional data related to our common stock, we may have refinements to our estimates, which could materially impact our future stock-based compensation expense.
+
+Recent accounting pronouncements
+
+See Note 2, Summary of Significant Accounting Policies, to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for more information.

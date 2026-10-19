@@ -1,0 +1,117 @@
+{
+  "ticker": "RVTY",
+  "company_name": "Revvity",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000031791-26-000012",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:07:38",
+  "prompt_chars": 78503,
+  "filing_chars": 58512,
+  "filing_words_sent": 8019,
+  "approx_prompt_tokens": 19625,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company-funded charitable matching program for employee donations to their communities",
+        "quote": "We encourage our employees to support the communities in which they live and where we operate, and to assist in that effort, we fund a long-term charitable matching program for our employees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Community",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited in reach (no participants or dollars disclosed)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Virtual coaching offered to eligible employees for leadership or well-being development goals",
+        "quote": "Lastly, we recognize that professional development requires support of the whole person, and we therefore offer virtual coaching to help eligible employees meet their unique development goals, whether such goals are leadership or well-being focused.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Training and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Internal mobility program offering job rotations, stretch assignments and mentoring to employees",
+        "quote": "Our internal mobility program empowers employees to explore many different career options available to them.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Training and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers life science reagents, instruments, diagnostics and scientific software, with no creative activity; ChemDraw drawings, 'Signals Image Artist' and 'design' refer to scientific or engineering work and are traps."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: a charitable matching program with no disclosed reach, plus employee coaching and internal mobility, are specific current activities that are limited in reach and have no figures."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1 rests on general language only ('everyone feels valued', operating in a multicultural world, equal-employment boilerplate); coverage is insufficient under condition 3 because the filing points to esg.revvity.com for its social and workplace performance and itself describes no specific inclusion activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes customers who are pharma, biotech, academic, hospital and lab institutions and shows no service that enables founders or small businesses; collaborations and innovation language are the company's own and fall under the traps."
+      }
+    },
+    "notes": "The Item 7 excerpt contains only 'foundation' in a financial sense, which is a trap. Several items were not counted for Cross-cultural: Great Place to Work certifications in several countries, 11,000 employees with about 80% outside the US, operations in about 40 countries, and benefits tailored by country. These are workplace recognition, demographics and international operations, not inclusion activities. Cross-cultural is marked insufficient, so the company should get the automated second look using a sustainability report from the esg.revvity.com domain. That domain is a subdomain of the main company domain, but listing it for a quick human check is advisable. The Community section also points to the ESG site, but it is scored as sufficient because it names a specific activity (charitable matching).",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"RVTY\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Company-funded charitable matching program for employee donations to their communities\",\"quote\":\"We encourage our employees to support the communities in which they live and where we operate, and to assist in that effort, we fund a long-term charitable matching program for our employees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Community\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited in reach (no participants or dollars disclosed)\"}}},{\"id\":\"E2\",\"activity\":\"Virtual coaching offered to eligible employees for leadership or well-being development goals\",\"quote\":\"Lastly, we recognize that professional development requires support of the whole person, and we therefore offer virtual coaching to help eligible employees meet their unique development goals, whether such goals are leadership or well-being focused.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Training and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Internal mobility program offering job rotations, stretch assignments and mentoring to employees\",\"quote\":\"Our internal mobility program empowers employees to explore many different career options available to them.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Training and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers life science reagents, instruments, diagnostics and scientific software, with no creative activity; ChemDraw drawings, 'Signals Image Artist' and 'design' refer to scientific or engineering work and are traps.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: a charitable matching program with no disclosed reach, plus employee coaching and internal mobility, are specific current activities that are limited in reach and have no figures.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1 rests on general language only ('everyone feels valued', operating in a multicultural world, equal-employment boilerplate); coverage is insufficient under condition 3 because the filing points to esg.revvity.com for its social and workplace performance and itself describes no specific inclusion activity.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes customers who are pharma, biotech, academic, hospital and lab institutions and shows no service that enables founders or small businesses; collaborations and innovation language are the company's own and fall under the traps.\"}},\"notes\":\"The Item 7 excerpt contains only 'foundation' in a financial sense, which is a trap. Several items were not counted for Cross-cultural: Great Place to Work certifications in several countries, 11,000 employees with about 80% outside the US, operations in about 40 countries, and benefits tailored by country. These are workplace recognition, demographics and international operations, not inclusion activities. Cross-cultural is marked insufficient, so the company should get the automated second look using a sustainability report from the esg.revvity.com domain. That domain is a subdomain of the main company domain, but listing it for a quick human check is advisable. The Community section also points to the ESG site, but it is scored as sufficient because it names a specific activity (charitable matching).\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 27789,
+      "output_tokens": 3263,
+      "duration_ms": 31375
+    }
+  ]
+}

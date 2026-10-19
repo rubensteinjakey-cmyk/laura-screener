@@ -1,0 +1,39 @@
+{
+  "ticker": "CAH",
+  "accession_number": "0000721371-26-000038",
+  "filing_date": "2026-08-11",
+  "fiscal_year": 2026,
+  "full_text_words": 57457,
+  "sections": {
+    "item1": {
+      "words": 0,
+      "source": "10-K",
+      "candidates": {
+        "starts": 0,
+        "ends": 0
+      }
+    },
+    "item7": {
+      "words": 11483,
+      "source": "10-K (referenced section)",
+      "candidates": {
+        "starts": 0,
+        "ends": 0
+      }
+    },
+    "item7_targeted": {
+      "words": 185,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 425
+    }
+  },
+  "notes": [
+    "item1: 10-K section is missing with 0 cross-reference phrase(s); could not locate the referenced content",
+    "item7: 10-K section is missing with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (11,476 words)",
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 0
+}

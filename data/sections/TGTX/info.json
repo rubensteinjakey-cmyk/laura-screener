@@ -1,0 +1,43 @@
+{
+  "ticker": "TGTX",
+  "accession_number": "0001437749-26-006133",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "full_text_words": 86396,
+  "sections": {
+    "item1": {
+      "words": 12514,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          12514,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7925,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7925,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 348
+    }
+  },
+  "notes": [],
+  "human_capital_words": 224,
+  "human_capital_found": true,
+  "people_paragraph_words": 252
+}

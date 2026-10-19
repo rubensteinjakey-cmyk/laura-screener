@@ -1,0 +1,274 @@
+Item 1. Business
+
+Overview
+
+Nutanix, Inc. ("we," "us," "our," or "Nutanix") is a hybrid cloud and AI platform company, offering organizations a unified infrastructure software platform to run applications, data, and AI anywhere. Our vision is to simplify the deployment and operation of hybrid computing infrastructure and AI factories to support the increasingly distributed landscape of apps and data, including agentic AI, while freeing organizations to modernize their infrastructure and focus on business goals. Our mission is to delight customers with an open, secure platform with rich data services that increases their ability to take advantage of technologies such as cloud native and AI, optimizes how they run their organizations today, and accelerates innovation, efficiency, and growth.
+
+The Nutanix Cloud Platform is designed to enable organizations to build hybrid cloud infrastructure. It provides a consistent cloud operating model with a single platform for running and managing applications, agentic AI workloads, and data in core data centers, at the edge, and in public clouds. We aim to provide customers with flexibility and choice across server platforms, storage options, virtualized and cloud-native environments, public clouds, and deployment models. The Nutanix Cloud Platform supports a wide variety of workloads with varied compute, storage, and network requirements. These workloads include traditional business-critical general-purpose applications, modern applications (including containerized applications running on Kubernetes), data platforms (including SQL, NoSQL and vector databases, as well as business intelligence applications), and enterprise AI workloads (including machine learning, generative AI, and agentic AI applications).
+
+We first pioneered hyperconverged infrastructure ("HCI") by combining compute, storage and networking through a software-defined architecture. We subsequently developed Nutanix AHV, our native enterprise hypervisor. Building on this foundation, the Nutanix Cloud Platform has evolved into a unified infrastructure platform. The Nutanix Cloud Platform supports a broader range of architectures, applications and deployment models, across public clouds (including AWS, Azure, and Google Cloud), datacenters, and edge. This expansion includes support for qualified external storage systems, modern applications through our Kubernetes platform, and enterprise agentic AI workloads through our AI infrastructure and management offerings. Our research and development efforts on the agentic AI front aim to provide customers with an optimized full stack platform to run, control, and govern AI workloads.
+
+Our business is organized into a single operating and reportable segment. We operate a subscription-based business model, meaning our products, including associated support and maintenance arrangements, are sold with a defined duration. For more information, see the section titled "Components of Our Results of Operations" included in Part II, Item 7, as well as Note 2 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+The Nutanix Cloud Platform
+
+The Nutanix Cloud Platform brings together infrastructure, application, data and management capabilities that enable organizations to run traditional, modern and AI workloads across hybrid multicloud environments. The Nutanix Cloud Platform’s scale-out architecture, common operating model, integrated data services and expanding support for server platforms, storage options, virtualized and cloud-native environments, and public and managed cloud environments provide organizations with flexibility in how they modernize and operate their environments.
+
+Nutanix Cloud Infrastructure (NCI) is a distributed HCI for enterprise IT applications. NCI software combines compute, storage, and networking resources from a cluster of servers into a single logical pool with integrated resiliency, security, performance, and simplified administration. NCI also supports qualified external storage systems in supported configurations. We believe this expands infrastructure choice for customers and allows organizations to modernize virtualization and cloud infrastructure while leveraging existing storage investments. NCI includes the following underlying features and services:
+
+•
+Nutanix AOS is the scale-out storage technology that makes HCI possible. It delivers enterprise-grade capabilities via a highly distributed software architecture that runs across clusters of servers. AOS includes integrated snapshots, replication, and disaster recovery that can be used with block, file, and object storage, for both virtual machines and containers. AOS can be run on virtual machines such as AHV and in containers such as AWS EKS, enabling customers to leverage AOS storage for both virtualized and containerized applications.
+
+•
+Nutanix AHV is our enterprise hypervisor—a virtualization solution designed to provide software-defined compute capabilities to power all kinds of applications including AI, cloud-native, and traditional virtualized workloads.
+
+•
+Nutanix Data Services for Kubernetes offers enterprise data services such as data protection, recovery, migration, cloning, and copy data management for containerized, modern applications on Kubernetes.
+
+•
+Nutanix Disaster Recovery helps organizations design disaster recovery plans. With options that include on-prem, public cloud, and managed service providers, Nutanix Disaster Recovery offers one-click failover, failback, and automated recovery.
+
+•
+Flow Network Security is a stateful, distributed firewall providing microsegmentation designed to secure network traffic between applications.
+
+•
+Flow Virtual Networking provides software-defined networking with multi-tenant isolation, hybrid cloud networking, self-service provisioning, and IP address preservation.
+
+•
+Nutanix Cloud Clusters (NC2) extends the Nutanix platform to public clouds. NC2 enables organizations to run and manage applications across on-premises and multiple public clouds in a consistent manner. NC2 is designed to enable IT operators to place workloads in their clouds of choice with ease of deployment and migration, delivering flexibility and portability across public clouds.
+
+•
+Nutanix Central provides management of the Nutanix hybrid multicloud environment. Nutanix Central provides global visibility and simplified governance through a single console with federated access, license management, and seamless navigation across on-premises and public cloud deployments.
+
+•
+Nutanix Service Provider Central (SP Central) is a purpose-built control plane designed specifically for Service Providers. SP Central enables consistent, secure, and scalable multi-tenant operations across the Nutanix Cloud Platform.
+
+•
+Nutanix Prism is the unified control plane and UI that provides centralized management for end-to-end IT infrastructure management and operations.
+
+Nutanix Cloud Infrastructure with External Storage is an option for customers wishing to run Nutanix compute and network virtualization and data services with external storage. Organizations can leverage Nutanix Cloud Infrastructure for compute while integrating with qualified external storage solutions, including Dell Technologies PowerFlex and PowerStore platforms and Everpure, Inc. FlashArray storage systems. We have also announced support for NetApp ONTAP-based and Lenovo ThinkSystem external storage integrations, with the NetApp ONTAP-based solution currently available through limited-availability programs.
+
+Nutanix Cloud Manager (NCM) is a unified management solution for providing intelligent operations, self-service and orchestration, security compliance and visibility, and control of cloud costs. NCM includes the following underlying features and services:
+
+•
+NCM Intelligent Operations optimizes capacity, proactively detects performance anomalies, and automates operational tasks.
+
+•
+NCM Self-Service and Orchestration streamlines how teams deploy, manage, and scale virtualized and cloud-native applications across hybrid cloud environment through self-service, automation, and centralized role-based governance.
+
+•
+NCM Cost Governance provides visibility into resource utilization, multicloud metering and chargeback.
+
+•
+Nutanix Security Central unifies security operations across distributed deployments to help organizations simplify security planning, define microsegmentation policies, and support regulatory compliance for zero trust.
+
+Nutanix Kubernetes Platform (NKP) is an enterprise Kubernetes platform for deploying and managing modern, containerized applications across hybrid multicloud environments. NKP is designed to standardize application deployment and Day 2 operations across fleets of Kubernetes clusters while providing customers flexibility across infrastructure environments. We believe NKP expands the Nutanix Cloud Platform beyond traditional virtualized applications by enabling customers to operate virtualized, cloud-native and AI workloads through a more consistent operating model across virtual machines and Kubernetes environments.
+
+•
+NKP Metal, currently available through an early access program, brings automated lifecycle management, resiliency, and enterprise data services to bare-metal Kubernetes deployments.
+
+Nutanix Enterprise AI (NAI) is a centralized fine-tuning and inferencing platform. NAI provides AI developers and infrastructure managers with access to models and AI services, with built-in resource management, control and governance capabilities for token economics, data privacy, and sovereignty management. NAI manages resources across GPUs, CPUs, DPUs, and other accelerators, for resource management, performance optimization and operational efficiency across AI workloads.
+
+•
+Nutanix Agent Gateway governs interactions between agents, LLMs, and tools. Nutanix Agent Gateway standardizes agent access to large language models (LLMs), MCP servers, and enterprise applications through a single governed gateway. In addition, it provides organizations with policy management and budget enforcement tools, usage visibility, and real-time token cost accountability across public cloud and self-hosted inference environments. Nutanix Agent Gateway facilitates token-efficient economics through smart model routing, real-time cost visibility, and token-based rate limiting across both private and cloud-hosted LLMs.
+
+•
+Nutanix Private Inferencing helps organizations build adaptive AI factories to serve inferencing needs across their AI initiatives. NAI provides inferencing on CNCF Kubernetes, running across public clouds, data centers, the edge, neoclouds, and OEM partner platforms (such as Cisco, Dell, and Supermicro), complete with Day 2 operations, security, and resilience.
+
+Nutanix Unified Storage (NUS) is a software-defined platform that consolidates file, object, and block storage into one intelligent data fabric. It features a compute-adjacent architecture that provides low-latency access to data for powering real-time AI pipelines and agentic AI workflows. NUS includes the following underlying features and services:
+
+•
+Nutanix Files Storage is a software-defined scale-out file storage solution that enables organizations to store, manage, and scale unstructured data by consolidating storage silos onto a single platform, while keeping it secure with integrated cybersecurity and ransomware protection.
+
+•
+Nutanix Objects Storage is a scale-out S3-compatible object storage solution for modern cloud native, AI, and big data applications. It offers intuitive operations, high performance, security, and flexibility for multicloud deployments.
+
+•
+Nutanix Volumes Block Storage is an enterprise-class, software-defined storage solution that exposes storage resources directly to virtualized guest operating systems or physical hosts using the iSCSI protocol.
+
+•
+Nutanix Data Lens is a cyber resilience service offering proactive defense and global visibility for unstructured data that can identify and inform users of malware attacks, such as ransomware, on the NUS platform.
+
+Nutanix Database Service (NDB) is a platform that automates management of diverse database environments with a database-as-a-service platform functionality across on-premises and public cloud environments. NDB automates database lifecycle management and integrates with cloud-native development processes.
+
+Delivery of Our Solutions
+
+The Nutanix Cloud Platform can be deployed in core data centers, at the edge, or in public or managed clouds. The Nutanix Cloud Platform runs on a variety of qualified hardware platforms, in popular public cloud environments such as Amazon Web Services ("AWS"), Microsoft Azure ("Azure") and Google Cloud through NC2, or, in the case of our cloud-based software and software-as-a-service ("SaaS") offerings, via hosted service. Our subscription term-based licenses are sold separately and typically have durations ranging from one to five years. Our cloud-based SaaS subscriptions have durations extending up to five years. Our customers generally purchase their qualified hardware platforms for deployment of our software from one of our channel partners or original equipment manufacturers ("OEMs").
+
+The Nutanix Cloud Platform typically includes support and entitlements. This provides customers with the right to software upgrades and enhancements as well as technical support. Purchases of term-based licenses and SaaS subscriptions have support and entitlements included within the subscription fees and are not sold separately. Purchases of non-portable software are typically accompanied by the purchase of separate support and entitlements.
+
+Our Partners
+
+We have established relationships with our channel, OEM, ecosystem and cloud partners, all of which help to drive the sale and adoption of our solutions with our end customers. Our solutions can be purchased through one of our channel partners or OEMs.
+
+Channel Partners. Our channel partners sell our solutions to end customers, and in certain cases, may also deliver our solutions to end customers through a managed or integrated offering. Our Elevate Partner Program simplifies engagement for our partner ecosystem using a consistent set of tools, resources, and marketing platforms. Our channel partners include distributors, resellers, managed service providers, telcos, and global systems integrators. Our top two distributors to our end customers represented 47%, 41% and 39% of our total revenue for fiscal 2024, 2025 and 2026, respectively.
+
+OEM Partners. Our software can run on qualified hardware from Cisco Systems, Inc. ("Cisco"), Dell Technologies ("Dell"), Fujitsu Technology Solutions GmbH ("Fujitsu"), Hewlett Packard Enterprise ("HPE"), and Lenovo Group Ltd. ("Lenovo"), as part of Cisco Compute Hyperconverged with Nutanix, Dell XC, Fujitsu XF, HPE DX, and Lenovo Converged HX, respectively. HPE also delivers our software with HPE DX servers as a service through the HPE GreenLake offering. Our OEM partners sell our solutions to end customers. We have also worked with Cisco to certify Cisco UCS blade servers for Nutanix AHV, enabling organizations to repurpose existing qualified server deployments.
+
+Ecosystem Partners. We have established relationships with a broad range of technology companies that help us deliver world-class solutions to our customers. Through the Technology Alliance Partner and AI Partner arms of our Elevate Partner Program, our developer, application, networking and security, data protection, hardware, infrastructure, and AI infrastructure partners receive access to resources that allow them to validate and integrate their products with Nutanix solutions and engage in joint sales training and enablement. Such integrations enable a simplified deployment and consumption experience for our customers and increase adoption of our platform. We have also developed and announced strategic technology partnerships that bring together best-in-class solutions across the ecosystem into integrated offerings and demonstrated interoperability and support for our customers, including partnerships with Advanced Micro Devices, Inc., Citrix Systems, Inc., Intel Corporation, NVIDIA Corporation, Omnissa, LLC, and Palo Alto Networks, Inc. In addition, we work closely with our technology partners through co-marketing and lead generation activities in an effort to broaden our marketing reach.
+
+External Storage Partners. We partner with enterprise data infrastructure providers to integrate the Nutanix Cloud Platform with qualified external storage solutions. Current offerings include Dell Technologies PowerFlex and PowerStore platforms and Everpure, Inc. FlashArray storage systems. We have also announced support for NetApp ONTAP-based and Lenovo ThinkSystem external storage integrations, with the NetApp ONTAP-based solution currently available through limited-availability programs. These integrations enable customers to deploy NCI with external storage and manage workloads across hybrid multicloud environments.
+
+Cloud Partners. Our partnerships with public cloud providers support our hybrid multicloud strategy. NC2 extends our platform to AWS, Azure, Google Cloud and OVHcloud, enabling organizations to run and manage workloads across private and public cloud environments with a consistent operating model.
+
+Our Support Programs
+
+Product Support. We offer varying levels of software support to our customers based on their needs. We also offer hardware support for customers who purchase the Nutanix-branded NX configured-to-order hardware platforms.
+
+Professional Services. We provide consulting and implementation services to customers through our professional services team for assessment, design, deployment, and optimizing of their Nutanix environments.
+
+Our End Customers
+
+We have end customers across a broad range of industries, such as financial services, retail, manufacturing, public sector, automotive and other transportation, consumer goods, education, energy, healthcare, media, technology, and telecommunications. We also sell to service providers, which utilize the Nutanix Cloud Platform and Nutanix Cloud Infrastructure (NCI) to build new cloud-based service offerings, including solutions tailored to assist their customers seeking virtualization alternatives. We had a broad and diverse base of over 32,000 end customers as of July 31, 2026. We define the number of end customers as the number of end customers for which we have received an order by the last day of the period, excluding partners to which we have sold products for their own demonstration purposes. A single organization or customer may represent multiple end customers for separate divisions, segments, or subsidiaries, and the total number of end customers may contract due to mergers, acquisitions, or other consolidation among existing end customers.
+
+Growth Strategy
+
+Key elements of our current growth strategy include:
+
+•
+Expanding our hybrid multicloud platform. We intend to continue investing in the Nutanix Cloud Platform through internal innovation and product development to enable customers to run traditional, modern and AI workloads and manage data and applications across hybrid multicloud environments. Our product priorities include our core hybrid cloud infrastructure, enterprise AI, Kubernetes and modern applications, database services, expanded infrastructure choice (including expanded server support and support for qualified external storage), and continued investments in our portfolio to support the broader partner ecosystem. We may also pursue strategic partnerships, technology investments and selective acquisitions where they can accelerate product development or expand platform capabilities.
+
+•
+Landing new end customers and expanding our addressable opportunities. We intend to continue to grow our customer footprint through targeted investments in sales and marketing and our channel, OEM, cloud and ecosystem partnerships. We believe broader support for server and storage infrastructure, together with our cloud-native, Kubernetes and enterprise AI capabilities, increases the range of customer environments, workloads and modernization initiatives that our platform can address.
+
+•
+Expanding within existing end customers through platform selling. Our end customers typically deploy our technology initially for a specific workload. Our sales teams and channel partners then target follow-on opportunities to drive additional purchases by expanding capacity for the existing workload, targeting new workloads, upselling higher product tiers, and cross-selling new products. We believe this land-and-expand strategy enables us to expand our footprint within our existing customer base. We also believe that our platform's recent expansion to support external storage and strengthened Kubernetes capabilities drive opportunities to expand with existing end customers.
+
+•
+Driving renewals and retention in existing end customers. In addition to our land-and-expand strategy, as part of our subscription-based business model, we intend to continue to focus on adoption and renewals among our existing customer base. Our focus on adoption drives customer value and stickiness. Our renewals are associated with lower sales costs as compared to landing new customers or expanding into our existing customer base, and help us drive profitable growth.
+
+•
+Leveraging our partner ecosystem. We intend to continue deepening relationships with channel, OEM, technology, cloud, silicon, service provider, and neocloud partners and expand our partner ecosystem globally to broaden the availability and capabilities of the Nutanix Cloud Platform. These relationships can expand our routes to market, increase customer consumption options through cloud, managed service and AI infrastructure offerings, broaden infrastructure choices available to customers, and expand the range of services and solutions built on or integrated with our platform.
+
+•
+Driving profitable growth. We intend to continue to invest in our growth, while balancing such growth against our operating expenses. By maintaining this balance, we believe we can sustain profitable growth. Key drivers of profitable growth include landing new customers, a growing base of renewals, expansions with existing customers, leveraging our partner and alliance ecosystem, and a continued focus on improving operational efficiencies across sales, marketing, and research and development.
+
+Sales and Marketing
+
+Sales. We primarily engage with our end customers through our global sales force who directly interact with key IT decision makers while also providing sales development, opportunity qualification and support to our channel partners. We have established relationships with our channel partners, who represent many of the key resellers and distributors of data center infrastructure software and systems in each of the geographic regions where we operate. We also engage our end customers through our OEM partners, which license our software and package it with their hardware and sell through their direct sales forces and channel partners. We expect to continue leveraging our relationships with our channel and OEM partners, deepening relationships with our cloud and ecosystem partners, and expanding our strategic engagements with service providers and neoclouds, to reach our end customers.
+
+Marketing. Our marketing team enables our global sales force and sales via our partner ecosystem. Our marketing focuses on educating our customers, prospects, partners, media and analysts, and influencers about the benefits and business outcomes our cloud software platform and solutions can deliver. The breadth of our product portfolio allows us to engage multiple buyer and user personas across the organization, including senior executives, IT professionals, and developers. Over the past year, we have focused on driving market awareness of our virtualization, cloud-native, and enterprise AI-ready capabilities amid ongoing industry disruption. In addition, we continue to drive market awareness of our evolution from a pioneer in HCI to a provider of a unified platform that helps enterprises manage the growing complexity of virtualized, containerized and enterprise AI workloads across hybrid multicloud environments. We seek to create and capture buyer demand through a variety of outbound and inbound marketing programs that include email, digital marketing, corporate and third-party events that generate customer and prospect awareness - including our annual user event, .NEXT, in-person and virtual demand generation activities, social media outreach, media and analyst relations activities, learning certifications, community programs, platform test drives, thought leadership, and our website. Our robust community empowers customers and partners to share and discuss best practices for leveraging our solutions as well as network with peers. We foster strategic marketing partnerships with our ecosystem of technology, channel, OEM, system integrator, and service provider partners, as well as emerging neoclouds, to expand market reach, increase brand awareness, and drive business growth. Through our unified Elevate Partner Program, we offer qualified partners access to market development funds, co-branded marketing campaigns, joint demand programs, and comprehensive learning paths.
+
+Research and Development
+
+Our research and development efforts are focused primarily on enhancing our existing technologies, developing new technologies in current and adjacent markets, and supporting existing end customer deployments. Our research and development teams include distributed systems software engineers, platform engineers, systems engineers, user interface engineers and user experience designers. A large portion of our research and development team is based in San Jose, California and India. We also maintain research and development centers in North Carolina, Washington, Serbia, Canada, Germany, Mexico, and the United Kingdom. We plan to dedicate significant resources to our continued research and development efforts and intend to continue to invest in our global research and development teams to support enhancements to our solutions, improve integration with ecosystem partners, and expand the range of technologies and features available through our platform. We believe that these investments will support our long-term growth strategy, although they may result in increased expenses and adversely affect our profitability in the near term.
+
+Manufacturing
+
+We do not manufacture any hardware. The Nutanix-branded NX series hardware platforms are manufactured by Super Micro Computer, Inc. ("Supermicro"). Supermicro provides the server chassis, assembles and tests the Nutanix-branded NX series hardware platforms and it procures the components used in the NX series hardware platforms directly from third-party suppliers in accordance with our design specifications. Our agreement with Supermicro automatically renews annually in May for successive one-year periods thereafter, with the option to terminate upon each annual renewal. Distributors handle fulfillment and shipment to end customers on demand, but do not hold hardware or component inventory.
+
+Competition
+
+We operate in the intensely competitive cloud infrastructure, platform services and enterprise AI markets and compete with a broad range of companies that sell software and hardware to build and operate private clouds, integrated systems, standalone storage and servers, and platforms supporting modern and agentic AI workloads, as well as cloud services providers and managed service providers. These markets are characterized by constant change, rapid innovation, and evolving licensing and consumption models. We face competition from a broad range of providers, including, among others:
+
+•
+software providers that offer virtualization, containerization, agentic AI, virtual networking and security, software defined storage, infrastructure and management and control plane products to build and operate enterprise and hybrid clouds, such as VMware by Broadcom, Microsoft, and Red Hat;
+
+•
+providers of public cloud infrastructure and SaaS-based offerings, such as AWS, Google Cloud, Oracle Cloud, and Azure; and
+
+•
+traditional IT systems vendors, such as Dell, Everpure, Inc., Fujitsu, HPE, Hitachi Vantara, Lenovo, Inc., NetApp, Inc., and Huawei Technologies Co., Ltd., many of which offer integrated systems that bundle servers, storage and networking solutions, as well as standalone server and storage products.
+
+Competition generally varies by workload and customer segment, and customers often evaluate multiple alternatives simultaneously. Several of our competitors are also our partners, resellers, or OEMs in certain offerings. As the market in which we compete continues to develop, we expect it will continue to attract new companies as well as existing larger vendors. Some of our competitors may also expand their product and service offerings, acquire or invest in competing businesses or emerging technologies (including agentic AI and AI factories), offer differentiated pricing terms, bundle their products with other products and capabilities (including AI, agentic AI, machine learning, generative AI, and agentic AI capabilities), provide closed technology platforms, partner with other companies to develop joint solutions, or otherwise leverage their scale, brand recognition or ecosystem relationships to gain a competitive advantage. Furthermore, as we expand our product offerings, we may expand into new markets, and we may encounter additional competitors in such markets. Additionally, as companies increasingly offer competing solutions, they may be less willing to cooperate with us as an OEM or otherwise. We believe the principal competitive factors in our market include:
+
+•
+platform features and capabilities, including AI capabilities and security;
+
+•
+system scalability, performance and resiliency;
+
+•
+the ecosystem of certified applications, services, and solutions for our platform;
+
+•
+management and operations, including provisioning, troubleshooting, analytics, automation, and upgrades;
+
+•
+total cost of ownership over the lifetime of the technology;
+
+•
+customer freedom of choice over, and product interoperability with, third-party applications, infrastructure software, infrastructure systems, and platforms and public clouds;
+
+•
+the ability to compete with incumbent vendors whose deeply integrated solutions and long-term commercial arrangements may limit customer flexibility and increase switching costs;
+
+•
+application mobility across disparate silos of enterprise computing, including public and private cloud infrastructure; and
+
+•
+quality of customer experience, including ease-of-use, support and professional services.
+
+We believe that we are positioned favorably against our competitors based on these factors. However, many of our competitors have substantially greater financial, technical and other resources, greater brand recognition, larger sales forces and marketing budgets, a larger existing customer base, broader distribution, and larger and more mature intellectual property portfolios.
+
+Intellectual Property
+
+Our success depends in part upon our ability to protect and use our core technology and intellectual property. We rely on patents, trademarks, copyrights and trade secret laws, confidentiality procedures, and employee nondisclosure and invention assignment agreements to protect our intellectual property rights. As of July 31, 2026, we had 626 U.S. patents that have been issued and 164 non-provisional patent applications pending in the United States. Our issued U.S. patents expire between 2033 and 2046. We also leverage some open source software in most of our products. See Item 1A, "Risk Factors," for further discussion of risks related to protecting our intellectual property.
+
+Facilities
+
+Our corporate headquarters are located in San Jose, California where, under lease agreements that expire through August 2030, we currently lease approximately 230,000 square feet of space. We also maintain offices in North America, Europe, Asia Pacific, the Middle East, Latin America, and Africa. We lease all of our facilities and do not own any real property. We believe that our facilities are adequate to meet our needs for the immediate future and that, should it be needed, we would be able to lease suitable additional space to accommodate our operations.
+
+Government Regulation
+
+Our business activities are subject to various federal, state, local, and foreign laws, rules and regulations. Compliance with these laws, rules and regulations has not had, and is not expected to have, a material effect on our capital expenditures, results of operations or competitive position as compared to prior periods. Nevertheless, compliance with existing or future governmental regulations, including, but not limited to, those pertaining to global trade, acquisitions, AI-related governance, data protection and data privacy, climate, employment and labor, and taxes could have a material impact on our business in subsequent periods. See Item 1A, "Risk Factors," for further discussion of risks related to the potential impact of government regulation on our business.
+
+Employees and Human Capital
+
+We had approximately 8,350 employees worldwide as of July 31, 2026. None of our employees in the United States are represented by a labor organization or are a party to any collective bargaining arrangement. In certain European countries in which we operate, we are subject to, and comply with, local labor law requirements in relation to the establishment of works councils and/or industry-wide collective bargaining agreements. We are often required to consult and seek the consent or advice of these works councils. We believe that our employee relations are strong and we have not experienced any work stoppages to date.
+
+We understand the importance of human capital and prioritize building our culture, talent development, and compensation and benefits. Our human capital objectives include attracting, retaining, and rewarding talent, as well as promoting the development and integration of our existing and new employees. The principal objectives of our equity and cash incentive plans are to attract, retain and reward personnel through stock-based and cash-based compensation awards, to drive stockholder value and the success of our company by motivating such individuals to align their work to company goals, and to perform to the best of their abilities and to achieve our objectives.
+
+Culture
+
+Our values are the framework that defines our culture and shape how we engage with one another, approach challenges, and work toward solutions:
+
+•
+Hungry – We are relentlessly driven to innovate, improve, and lead.
+
+•
+Humble – We stay grounded, always learning from each other and our customers.
+
+•
+Honest – Transparency, trust, and integrity guide every interaction.
+
+•
+with Heart – We approach every challenge with empathy, compassion, and a commitment to making a positive impact.
+
+Our culture principles also shape the way we work and define how we engage with each other and with our customers. These principles are designed to drive performance, foster innovation, and ensure that we remain focused on delivering value, both to our employees and our stakeholders:
+
+•
+We Own It – We take accountability for our actions, results, and decisions.
+
+•
+We Work as One Team – Collaboration is key. We work together to achieve common goals and celebrate our collective success.
+
+•
+We Obsess About Our Customers' Success – Our customers’ success is our success. Everything we do is aimed at driving value for them.
+
+•
+We Think Long-Term – We prioritize sustainability, future-focused growth, and enduring impact over short-term wins.
+
+Total Rewards
+
+We believe a robust and competitive Total Rewards portfolio is essential to attracting and retaining diverse talent that moves Nutanix forward. Our comprehensive reward programs offer physical, mental/emotional, and financial support to our employees and their families. We regularly review our programs and encourage employee feedback about the rewards they value most. We tailor rewards programs specifically based on local market practice and the competitive landscape. We provide a range of globally-available support programs, such as an Employee Assistance Program, online health engagement, and child development support.
+
+Health, Wellness, and Safety
+
+The health and safety of employees and others on our property are a top priority. We also focus on compliance with all health and safety laws applicable to our business. To that end, appropriate requirements are implemented, as needed, in order to comply with public health or safety obligations. We have a global physical security team that is empowered to protect the safety of our employees in the event of emergencies or disasters. In addition, we work with our employees and facilities management at our office locations to ensure that work areas are kept safe and free of hazardous conditions. Employees are required to be conscientious about workplace safety. In compliance with applicable laws, and to promote the concept of a safe workplace, we maintain an Injury and Illness Prevention Program. We also continue to support the well-being and continued development of our employees by offering well-being days, during which all employees may enjoy private time away from work requirements.
+
+Growth and Development
+
+We challenge our employees to constantly learn, continuously improve and evolve -- and to that end we invest in resources to foster a learning culture throughout our company. We empower our employees to drive their own personal and professional growth by equipping them with onboarding and learning programs. Our learning programs include digital learning, speed coaching, customized learning workshops, manager enablement and skills training for current, new and future managers, training on culture, language learning programs, and employee wellness programs. We believe that by empowering our employees as they strive to grow personally and professionally, we will be able to build a flexible and resilient workforce and maintain and nurture a robust pipeline of talent to fuel our future growth and strategy.
+
+Information about Segment and Geographic Areas
+
+The segment and geographic information required herein is contained in Note 13 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Corporate Information
+
+We were incorporated in Delaware in September 2009 as Nutanix, Inc. Our principal executive offices are located at 1740 Technology Drive, Suite 150, San Jose, California 95110, and our telephone number is (408) 400-3125. We have operations throughout North America, Europe, Asia Pacific, the Middle East, Latin America, and Africa. Our website address is www.nutanix.com. Information contained on or accessible through our website is neither a part of this Annual Report on Form 10-K nor incorporated by reference herein, and any references to our website and the inclusion of our website address in this Annual Report on Form 10-K are intended to be inactive textual references only.
+
+Available Information
+
+Our website is located at www.nutanix.com and our investor relations website is located at ir.nutanix.com. We file reports with the Securities and Exchange Commission ("SEC"), which maintains an internet site (http://www.sec.gov) that contains reports, proxy and information statements and other information regarding issuers, including us, that file electronically with the SEC. This Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, as amended, are made available free of charge on the investor relations portion of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. We also provide a link to the section of the SEC’s website at www.sec.gov that has, or will have, all of our public filings, including this Annual Report on Form 10-K and our Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, all amendments to those reports, our Proxy Statements, and other ownership-related filings. We use our investor relations website as well as social media as channels of distribution for important company information. For example, webcasts of our earnings calls and certain events we participate in or host with members of the investment community are on our investor relations website. Additionally, we announce investor information, including news and commentary about our business and financial performance, SEC filings, notices of investor events, and our press and earnings releases, on our investor relations website. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media and others interested in our company to review the information we post on social media channels listed on our investor relations website. Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts and RSS feeds. Further corporate governance information, including our corporate governance guidelines, board committee charters and code of business conduct and ethics, is also available on our investor relations website under the heading "Governance Documents." Information contained on or accessible through our websites is neither a part of nor incorporated by reference into this Annual Report on Form 10-K or any other report or document we file with or furnish to the SEC, and any references to our websites and the inclusion of our website addresses in this Annual Report on Form 10-K are intended to be inactive textual references only.

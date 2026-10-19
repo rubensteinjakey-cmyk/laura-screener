@@ -1,0 +1,43 @@
+{
+  "ticker": "INCY",
+  "accession_number": "0000879169-26-000010",
+  "filing_date": "2026-02-10",
+  "fiscal_year": 2025,
+  "full_text_words": 75174,
+  "sections": {
+    "item1": {
+      "words": 13826,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          13826,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6591,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6591,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 145,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 169
+    }
+  },
+  "notes": [],
+  "human_capital_words": 558,
+  "human_capital_found": true,
+  "people_paragraph_words": 825
+}

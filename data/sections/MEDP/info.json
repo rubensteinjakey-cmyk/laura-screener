@@ -1,0 +1,41 @@
+{
+  "ticker": "MEDP",
+  "accession_number": "0001668397-26-000006",
+  "filing_date": "2026-02-10",
+  "fiscal_year": 2025,
+  "full_text_words": 48366,
+  "sections": {
+    "item1": {
+      "words": 4758,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          4758
+        ]
+      }
+    },
+    "item7": {
+      "words": 6496,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          6496
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 149
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1139,
+  "human_capital_found": true,
+  "people_paragraph_words": 950
+}

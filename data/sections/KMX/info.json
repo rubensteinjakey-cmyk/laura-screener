@@ -1,0 +1,43 @@
+{
+  "ticker": "KMX",
+  "accession_number": "0001170010-26-000021",
+  "filing_date": "2026-04-15",
+  "fiscal_year": 2026,
+  "full_text_words": 52844,
+  "sections": {
+    "item1": {
+      "words": 5476,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5476,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 10121,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          10121,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 19,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 371
+    }
+  },
+  "notes": [],
+  "human_capital_words": 622,
+  "human_capital_found": true,
+  "people_paragraph_words": 542
+}

@@ -1,0 +1,167 @@
+Item 1. | Business
+
+Company Overview
+
+Commvault Systems, Inc. ("Commvault") is a provider of cyber resiliency solutions designed to help the enterprise protect, secure, and recover their data, applications, and identity systems in a world of increasing cyber threats and attacks. Commvault’s offerings provide cyber resilience, including data protection, cyber recovery, data security, and governance, aiming to enable customers continuous business.
+
+Commvault delivers its solutions through Commvault Cloud, a cloud‑native platform that unifies data security, cyber recovery, and identity resilience across on‑premise, hybrid, multi‑cloud, and software‑as‑a‑service ("SaaS") environments. The platform is designed to support enterprise‑scale deployments and enables customers to manage resilience consistently across diverse infrastructure footprints and operating models.
+
+Commvault Cloud provides a comprehensive set of capabilities intended to help customers prepare for, withstand, and recover from cyber incidents such as ransomware, data corruption, infrastructure failures, and cyberattacks. These capabilities include AI‑assisted data discovery, classification, and monitoring; immutability and air‑gapped protection; automated verification of clean recovery points; and orchestrated recovery workflows that enable customers to restore data, applications, and supporting infrastructure at scale.
+
+Commvault’s solutions are designed to support modern data architectures, including cloud‑native workloads, containerized applications, SaaS platforms, and AI‑driven data environments. Commvault also offers capabilities that support data residency, sovereignty, and regulatory requirements, so customers can retain control over where data is stored and recovered while maintaining consistent resilience across regions and jurisdictions.
+
+Commvault sells its offerings primarily through subscription‑based arrangements, including SaaS and term‑based subscriptions, and also offers perpetual licenses, customer support, and professional services. Its solutions are delivered through multiple deployment models, including Commvault‑hosted SaaS, customer‑managed software, integrated appliances, and offerings delivered and managed by strategic partners, cloud service providers, and managed service providers.
+
+Commvault was incorporated in Delaware in 1996.
+
+Products
+
+Commvault provides cyber resilience and data protection solutions designed to help organizations protect, secure, and recover data across hybrid, multi‑cloud, and cloud‑native environments. Our solutions are designed to enable customers to maintain business continuity and recover from cyber incidents, system failures, and data disruptions across on‑premises, cloud, and SaaS workloads.
+
+Our offerings are delivered through Commvault Cloud, a platform that unifies data protection, cyber recovery, and related resilience capabilities. Commvault Cloud supports deployment as customer‑managed software, SaaS‑delivered solutions, or a hybrid of the two, allowing customers to select the deployment model that best fits their operational, regulatory, and security requirements.
+
+Commvault Cloud is organized into the following solution packages: Operational Recovery, Autonomous Recovery, and Cyber Recovery.
+
+Operational Recovery provides core backup and recovery capabilities across hybrid enterprise workloads. It supports a broad range of environments, including physical servers, virtual machines (“VMs”), containers, databases, endpoints, and SaaS applications, all which may be deployed across on‑premises, cloud, or hybrid environments. Operational Recovery is designed to provide secure data protection, granular recovery, and workload mobility while helping customers manage data growth and cloud costs. Capabilities include backup, restore, recovery validation, and policy‑based data movement to cloud storage, enabling customers to improve availability and recover data in different environments.
+
+Autonomous Recovery builds on Operational Recovery by adding automation, orchestration, and validation intended to reduce recovery times, downtime, and operational complexity. It supports automated disaster recovery and cyber recovery use cases across on‑premises, cloud, and hybrid environments. Autonomous Recovery helps to provide continuous or periodic replication, automated failover and failback, application‑level recovery validation, and orchestrated recovery workflows for data, applications, VMs, and containers. These capabilities are designed to help organizations recover more predictably and at scale while optimizing infrastructure usage and recovery costs.
+
+Cyber Recovery represents the most comprehensive set of Commvault Cloud capabilities. It incorporates Operational and Autonomous Recovery and adds advanced cyber preparedness, threat detection, and clean recovery features to help organizations respond to ransomware and other cyber incidents. Cyber Recovery includes capabilities designed to identify risks within protected data, detect anomalies and indicators of compromise in backup environments, validate recovery integrity, and recover clean data at scale. These capabilities aim to help customers minimize the impact of cyber incidents and support faster, more reliable recovery following an attack.
+
+Commvault also offers a range of complementary capabilities that extend its core recovery solutions:
+
+Commvault Cleanroom Recovery provides an isolated, on‑demand recovery environment in the cloud that enables organizations to test recovery plans, perform forensic analysis, and execute data recoveries without reconnecting to potentially compromised production systems. It is designed to support recovery readiness, validation of clean data, and faster recovery following cyber incidents.
+
+Commvault HyperScale Grid is an integrated, scale‑out data protection solution designed to support enterprise environments transitioning from traditional infrastructure to virtualized, containerized, and hybrid cloud architectures. It supports a wide range of workloads from a single platform and can be deployed as an integrated appliance or as customer-configured infrastructure.
+
+Commvault HyperScale Flex is a data protection solution designed to support enterprise‑scale environments and large‑volume data workloads. It is intended for deployments operating at petabyte scale and supports high‑throughput, performance‑sensitive workloads across evolving infrastructure architectures. It uses a disaggregated architecture in which compute resources are decoupled from storage, allowing each to be scaled independently through the use of external storage.
+
+Commvault Threatscan is a resilience offering designed to help identify and isolate malicious or anomalous data within backup environments. It analyzes backup data for indicators such as malware infections, ransomware‑related encryption activity, and other suspicious file‑level changes to support recovery to a known clean state and reduce the risk of reinfection.
+
+Commvault Cloud Air Gap Protect provides isolated cloud storage designed to protect backup data from unauthorized access, deletion, or compromise. It supports hybrid cloud strategies and is intended to help customers improve recoverability by maintaining secure, logically isolated backup copies.
+
+Commvault's Compliance capabilities, available as an add‑on, support legal and regulatory requirements by helping preserve designated data in an unaltered state. These capabilities include reporting, auditing, and logging features designed to help organizations manage data subject to legal holds and certain compliance obligations.
+
+Commvault's Cloud Rewind combines data recovery with automated cloud application and infrastructure rebuild capabilities to help organizations restore cloud environments following outages or cyber incidents. It is designed to accelerate recovery of cloud‑native applications and associated infrastructure.
+
+Commvault’s Clumio Backtrack enables customers to revert cloud objects and datasets to a prior point in time, with support for Amazon S3, Amazon DynamoDB, and Google Cloud Storage. This capability supports recovery from accidental deletions, data corruption, or malicious encryption events.
+
+Professional & Customer Support Services
+
+Commvault offers a wide range of professional and customer support services to complement its product portfolio, with multiple levels of service that can be tailored to our customers’ needs.
+
+Our services consist of:
+
+•Global Real-Time Support. We offer global customer support from physical locations around the world, which allows us to provide 24/7 support. Our customers have access to support staff available by phone for first responses and to manage resolutions, and to an online support database for help with troubleshooting and operational questions. Additionally, we leverage Arlie, our AI-powered assistant within the Commvault Cloud platform, to enhance support with real-time, actionable insights. This advanced AI capability is designed for faster resolutions and an even more responsive support experience. Our cloud-based support system creates a virtual global support center to address customer needs. We have designed our support infrastructure to scale with the increasing globalization of our customers. We have also developed and maintain a knowledge library of storage systems and software products to further enable our support organization to quickly and effectively resolve customer problems.
+
+•Broad Expertise. Our support engineers have extensive knowledge of complex applications, servers and networks. We proactively work to identify the customer’s problem and offer bug fixes and updates as part of our commitment to enhancing performance and functionality.
+
+•Customer Success Options. We offer various Customer Success options for our software and SaaS customers, including Enterprise Success Program ("ESP") offerings. Our Customer Success offerings provide resources focused on proactively helping our customers achieve their goals and are aligned to their business initiatives. Our ESP offerings provide additional industry technical experts who provide strategic guidance and advice so our enterprise customers have the tools available to them to achieve their cyber resiliency objectives. The entire Customer Success program is centered around driving customer adoption, customer satisfaction and quick time to value.
+
+•Technology Consulting Services. Our technical consultants guide customers so their data protection environments are designed for optimal results, configured quickly, and easy to maintain. We offer architecture design; implementation; automation and orchestration; data migration; and health assessment services. In addition, we offer customers staff-augmentation options via resident support engineers to assist with rapid expert deployment and operation of the Commvault portfolio.
+
+•Recovery Services. Commvault Readiness Solutions provide the resources and expertise to quickly accelerate returning to normal business operations through the proper design, implementation, administration, and support of our customers' data protection and cyber resilience environment.
+
+•Education Services. We offer training content for learners at all levels, with basic, intermediate, and expert certifications available. We also provide a selection of self-paced online content for our products in our On-Demand Learning Library.
+
+•Cyber Resilience Managed Services. We provide results-oriented data protection and cyber resilience services to customers worldwide. Commvault experts provide secure, reliable, and cost-effective remote monitoring and management of our customers' data protection environment.
+
+Customers
+
+We serve a broad and diverse global customer base that includes large enterprises, small and mid‑sized businesses, and government agencies. Our customers operate across a range of regulated and mission‑critical industries, including banking and financial services, insurance, government, healthcare and life sciences, technology, legal, manufacturing, and energy and utilities.
+
+Strategic Relationships
+
+An important element of Commvault’s strategy is to establish and maintain relationships with technology, channel, and service provider partners that support the development, delivery, and adoption of our solutions. These relationships are intended to enhance the functionality and interoperability of our offerings, extend our market reach, and enable customers to deploy and operate our solutions more efficiently across diverse IT environments. We work with a broad ecosystem of partners across software, hardware, cloud, cybersecurity, identity, and AI to support customer requirements related to data protection, cyber resilience, regulatory compliance, and hybrid and cloud infrastructure initiatives.
+
+Our strategic relationships generally fall into the following categories:
+
+Alliance and Technology Partners. We maintain strategic sales, marketing, and technology relationships with a range of technology partners to integrate our solutions with complementary products and platforms. These relationships are designed to support interoperability across operating systems, applications, infrastructure platforms, identity systems, and cybersecurity tools. Through these integrations, customers are able to deploy Commvault solutions within heterogeneous environments and align data protection and cyber resilience workflows with their broader security and IT operations. We believe these relationships facilitate customer adoption and can support sales by reducing implementation complexity and aligning with customer technology standards.
+
+Distributor, Reseller, Systems Integrator, and OEM Relationships. We utilize a combination of distributors, value‑added resellers, systems integrators, corporate resellers, and original equipment manufacturers ("OEMs") to market, sell, and deploy our solutions globally. These partners may resell our solutions directly, bundle them with their own offerings, or integrate Commvault functionality into broader solutions delivered to end customers.
+
+We maintain non‑exclusive distribution arrangements with certain partners who manage reseller enablement and provide localized market coverage. In addition, we work closely with OEM partners to support joint solution development, technical integration, and field enablement, including coordinated go‑to‑market activities. These relationships are intended to extend our geographic reach and address customer requirements across enterprise, mid‑market, regulated, and industry‑specific use cases.
+
+Service Provider Partners. We partner with managed service providers and cloud service providers that deliver Commvault‑based solutions as part of managed, hosted, or cloud‑based offerings. As customers continue to adopt cloud, SaaS, and hybrid infrastructure models, these partners support the migration, management, and protection of customer data and applications. Our service provider relationships enable customers to consume Commvault solutions through operating models that align with their infrastructure strategies and internal resource requirements, while allowing Commvault to address a broader range of deployment preferences and operating environments.
+
+Cloud Hyperscalers and Marketplaces. We maintain relationships with major public cloud providers and offer certain solutions through cloud marketplace programs which allow customers to procure Commvault solutions, either directly or in conjunction with channel partners. Cloud marketplace relationships are intended to simplify procurement, align with customer cloud consumption preferences, and support deployment of Commvault solutions across public, private, and hybrid cloud environments.
+
+Cybersecurity and AI Ecosystem Partnerships. We continue to expand integrations with cybersecurity, identity protection, and AI ecosystem partners to support customer cyber resilience objectives. These integrations are designed to enable joint customers to identify potential security threats or anomalies, enhance data discovery and governance, and support rapid and reliable recovery workflows. By integrating Commvault solutions with third‑party security and AI platforms, customers can incorporate data protection, recovery, and resilience into broader security operations.
+
+Competition
+
+The markets in which we operate, including data protection, cyber resilience, and related software solutions, are highly competitive, rapidly evolving, and fragmented. Competition is based on a number of factors, including product functionality and performance, breadth of platform and workload coverage, scalability, interoperability with third‑party technologies, pricing and total cost of ownership, ease of deployment and integration, quality of customer support, global sales and distribution capabilities, and brand recognition. The ability of certain vendors to bundle solutions as part of broader infrastructure, cloud, or software platforms is also a significant competitive factor.
+
+We compete with a range of vendors that provide solutions addressing all or portions of the data protection and cyber resilience market. Our competitors include software providers offering enterprise and mid‑market data protection platforms, including vendors such as Rubrik, Cohesity, and Veeam, each of which competes with aspects of our product portfolio. In addition, in certain cloud‑native, SaaS, and government‑adjacent use cases, we face competition from hyperscalers and other vendors offering solutions related to data protection, cybersecurity, and data governance.
+
+Some of our competitors have greater financial resources and may have the ability to offer their products at lower prices than ours. In addition, some have greater name recognition, longer operating histories, substantially larger technical, sales, marketing and other global resources, and larger installed customer bases with broader product offerings. As a result, these competitors can devote greater resources to the development, promotion, sale and support of their products than we can. Refer to our "Risk Factors" below.
+
+Sales and Marketing
+
+We sell our cyber resilience solutions to businesses and government agencies of all sizes through a combination of our global direct sales force and partner channels, including distributors, resellers, system integrators, and cloud marketplaces.
+
+Our sales and marketing efforts are designed to build brand awareness, support demand generation, and enable customer adoption of our solutions and platform. Marketing activities include a combination of digital and field‑based programs, industry events and conferences, educational and technical content, public relations, analyst relations, partner‑led initiatives, and other programs intended to support lead generation and sales enablement. Our strategic partners also participate in joint sales and marketing activities, including events, trade shows, and coordinated campaigns.
+
+Research and Development
+
+Our research and development organization is responsible for the design, development, testing and certification of our resilience platform and solutions. Our engineering efforts support product development across all major operating systems, databases, applications, hyperscalers, identity systems and network storage devices. A substantial amount of our development effort goes into certification, integration and support of our solutions for interoperability with our strategic partners’ solutions and to extend our resilience offerings and platform across cloud, SaaS, hybrid, and on-premise and AI-driven workloads. We have also made substantial investments in the automation of our product test and quality assurance laboratories.
+
+Technology, Intellectual Property and Proprietary Rights
+
+We believe our solutions are a major differentiator versus our competitors’ portfolios. Our Commvault Cloud platform aims to deliver best-in-class cyber resilience with recovery across on-premise, hybrid and multi-cloud environments. Our solutions’ unique features drive the performance, scale, total cost of ownership benefits and interoperability of our offerings. Such features include encryption, indexing, immutability, anomaly detection, identity resilience and unified governance. Additional options enable content search and auditing features to support data discovery and compliance. Our success and ability to compete depend on our continued development and protection of our solutions. We rely primarily on a combination of trade secrets, patents, and copyrights, as well as contractual provisions, to establish and protect our intellectual property rights.
+
+We patent our technical infrastructure and key usability and design concepts. Our product’s unique capabilities are covered by a robust portfolio of patents worldwide. Areas such as cyber resilience, data protection, transformation, insights, and compliance and governance, including our SaaS, HyperScale X and cloud-native services, are core to our competitive advantage. As of March 31, 2026, more than 1,600 patents had been issued to Commvault worldwide as a result of our strategic patenting activities. In addition, we hold proprietary rights in
+
+various trademarks and have over 200 trademark registrations and pending trademark applications globally. We believe our intellectual property rights are important to our business; however, we cannot be certain that these protections will be adequate to prevent unauthorized use or that others will not assert intellectual property claims against us. See “Risk Factors” for additional information.
+
+Government Regulations
+
+The global legal and regulatory environment applicable to technology businesses is evolving rapidly and is often uncertain. These areas include data privacy, data protection and cybersecurity; AI governance; digital services, online content and platform regulation; cross-border data transfers and data residency; export controls, economic sanctions, tariffs and other trade restrictions; anti-bribery and anti-corruption; taxation; and intellectual property ownership, protection and infringement.
+
+We are subject to several local, state, federal and foreign laws and regulations regarding data privacy and security. Regulators around the world have adopted or proposed limitations on, or requirements regarding, the collection, distribution, use, security and storage of personal information, payment card information or other confidential information of individuals, and the U.S. Federal Trade Commission and many state attorneys general are applying federal and state consumer protection laws to impose standards on the online collection, use and dissemination of data. In the event of a security breach, these laws may subject us to incident response, notice and remediation costs. Failure to safeguard data adequately or to destroy data securely could subject us to regulatory investigations or enforcement actions under applicable data privacy and security, unfair practices or consumer protection laws. The scope and interpretation of these laws could change, and the associated burdens and our compliance costs could increase in the future. New and evolving laws and regulations, including AI and cyber incident reporting requirements, sovereign cloud and data residency obligations, and cross-border data transfer restrictions, may also increase our compliance obligations and affect product design and deployment decisions.
+
+We are also subject to global laws and regulations that govern or restrict our business and activities in certain countries and with certain persons, including the U.S. Commerce Department’s Export Administration Regulations and economic and trade sanctions regulations maintained by the Office of Foreign Assets Control, as well as anti-bribery and anti-corruption laws and regulations, including the Foreign Corrupt Practices Act and the U.K. Bribery Act. See “Risk Factors” for additional information.
+
+Seasonality
+
+Our business is subject to seasonal fluctuations driven primarily by customer purchasing patterns, renewal timing, and the cadence of large enterprise transactions. Historically, sales activity has tended to be stronger in the second half of our fiscal year, reflecting customer budget cycles, including within the public sector. While the increasing contribution of subscription and SaaS offerings has improved revenue visibility, seasonality and transaction timing may continue to cause variability in our quarterly operating results and cash flows.
+
+People
+
+Our employees are an important part of our ability to innovate, develop and deliver our solutions and to support our customers globally. As of March 31, 2026, we had approximately 3,300 employees worldwide, with approximately 36% based in the United States and 64% based internationally.
+
+We are committed to providing our employees with opportunities and resources that support professional development, skill development and effective collaboration. During fiscal 2026, our employees, partners and customers participated in over 3,400 training programs, representing over 219,000 training hours.
+
+Community and Belonging
+
+We believe that fostering a culture that supports community and belonging and draws on a broad range of skills, experiences, and perspectives is important to our business. These efforts support our ability to attract, develop, and retain talent and to meet the needs of our customers and partners. We seek to maintain an inclusive workplace environment and to build a diverse pipeline of candidates across our global operations.
+
+Employee Health, Safety and Wellness
+
+We are committed to supporting the health, safety, and well‑being of our employees. Our approach focuses on providing programs and resources that address physical, social, emotional, and financial well‑being. We also operate in accordance with applicable health and safety laws and procedures to help maintain a safe working environment for our employees.
+
+Information about our Executive Officers
+
+The following table presents information with respect to our executive officers as of May 7, 2026:
+
+Name | Age | Position
+
+Sanjay Mirchandani | 61 | President and Chief Executive Officer
+
+Gary Merrill | 51 | Chief Financial Officer
+
+William Geoffrey ("Geoff") Haydon | 60 | President of Customer and Field Operations
+
+Danielle Abrahamsen | 35 | Chief Accounting Officer
+
+Sanjay Mirchandani has served as our President and Chief Executive Officer ("CEO") since February 2019. Prior to joining Commvault, Mr. Mirchandani served from September 2016 to January 2019 as the Chief Executive Officer of Puppet, Inc. ("Puppet"), an Oregon-based IT automation company. Mr. Mirchandani joined Puppet in May 2016 as President and Chief Operating Officer. Mr. Mirchandani brings a wealth of international business experience through his diverse well-rounded career in technology. Before joining Puppet, from October 2013 to April 2016, Mr. Mirchandani served as Corporate Senior Vice President and General Manager of Asia Pacific and Japan at VMware, Inc. and, from June 2006 to October 2013, Mr. Mirchandani held various senior leadership positions at EMC Corporation, including Chief Information Officer and leader of the Global Centers of Excellence. Prior to that, Mr. Mirchandani held various positions at Microsoft Corporation and Arthur Andersen LLP. Mr. Mirchandani has a Master of Business Administration degree from the University of Pittsburgh and a bachelor’s degree in mathematics from Drew University.
+
+Gary Merrill has served as our Chief Financial Officer ("CFO") since April 2026. Prior to his current role, Mr. Merrill served as our Chief Commercial Officer from August 2024 to April 2026, our CFO from June 2022 to July 2024, and as our Chief of Business Operations from April 2021 until June 2022. He also held the position of Vice President of Operations from April 2019 through March 2021 and from December 2012 to March 2019, served as Chief Accounting Officer. Prior to joining Commvault, Mr. Merrill held accounting management positions with several publicly traded companies. Mr. Merrill began his career with Arthur Andersen LLP in its audit practice. Mr. Merrill obtained his bachelor’s degree in accounting from Elizabethtown College.
+
+William Geoffrey ("Geoff") Haydon has served as our President of Customer and Field Operations since April 2026. In this role, Mr. Haydon oversees the end-to-end customer experience, from sales and partnerships through customer support and success. Prior to becoming an executive officer, Mr. Haydon served as a member of our Board of Directors from October 2025 to April 2026. Before joining Commvault, Mr. Haydon served as CEO of Ontinue, Inc., a provider of AI-powered managed extended detection and response services, from January 2023 to April 2026. From May 2021 to December 2022, Mr. Haydon served as CEO of Open Systems AG, where he was also Executive Chairman from January 2023 to December 2024. Previously, Mr. Haydon led VMware, Inc.’s Carbon Black/Security Business Unit as Senior Vice President from February 2020 to May 2021 and was Chief Revenue Officer at SecureWorks Corp. from February 2018 to May 2021. Earlier, he served as Chief Executive Officer at Absolute Software from July 2014 to January 2018. Mr. Haydon holds a Bachelor of Arts degree in Honors Business Administration from the Richard Ivey School of Business, University of Western Ontario.
+
+Danielle Abrahamsen has served as our Chief Accounting Officer since August 2023. In this role, she oversees global accounting operations, SEC financial reporting, and compliance. Ms. Abrahamsen previously served as Corporate Controller from April 2022 to August 2023 and Assistant Controller from September 2020 to April 2022. Prior to joining Commvault, Ms. Abrahamsen spent over six years at Ernst & Young LLP, where she held various roles including Audit Manager, serving clients across technology and other sectors. She holds a Bachelor of Science degree in Accounting from Ramapo College of New Jersey and is a Certified Public Accountant in the State of New Jersey.
+
+Available Information
+
+Our website is located at: www.commvault.com. On the Investor Relations section of the website, we post filings as soon as reasonably practicable after they are electronically filed with or furnished to the U.S. Securities and Exchange Commission ("SEC"), including: our Annual Reports on Form 10-K, our quarterly reports on Form 10-Q, our current reports on Form 8-K, our definitive proxy statements and any amendments to those reports or statements filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act. All such filings are available on the Investor Relations portion of our website free of charge. The contents of our website are not incorporated by reference into this Annual Report on Form 10-K or in any other report, statement or document we file with the SEC.

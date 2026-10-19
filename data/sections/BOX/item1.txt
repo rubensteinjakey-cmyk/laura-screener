@@ -1,0 +1,361 @@
+Item 1. BUSINESS
+
+Overview
+
+Box is the leading Intelligent Content Management (ICM) provider. Box gives organizations a single platform for their unstructured data – which typically represents about 90% of all data within an organization. This data is content – from blueprints to wireframes, videos to documents, proprietary formats to PDFs – and it is the source of an organization’s unique value. The Box ICM platform enables our customers to securely manage the entire content lifecycle, from the moment a file is created or ingested to when it is shared, edited, published, approved, signed, classified, and retained. Box keeps content secure and compliant, while also allowing easy access and sharing of this content from anywhere, on any device – both within the organization and with external partners.
+
+With our Software-as-a-Service (SaaS) platform, customers can work with their content as they need – from secure external collaboration and workspaces to e-signature processes and content workflows – improving employee productivity and accelerating business processes. IT teams can establish a space for compliant content management, and developers can easily create customized portals for white-labeled content collaboration. Administrators have a wide range of security, data protection, and compliance features they can activate to help meet legal and regulatory requirements, internal policies, and industry standards. The Box ICM platform enables a broad range of high-value business use cases and integrates with more than 1,500 leading business applications. With hundreds of file formats and media types supported, Box is compatible with multiple application environments, operating systems, and devices – ensuring that workers can securely access their critical business content whenever and wherever they need it.
+
+Our go-to-market strategy includes selling the entire platform to an organization with the full set of Box capabilities. During that sales process, we partner with IT decision makers (including CEOs, CIOs, CISOs, and IT Directors), as well as departmental and line of business leaders, to identify their content-oriented pain points. From there, we work together to create joint success plans that define the path to Box implementations that meet the needs of the organization, including through the sale of our own consulting services, and in conjunction with partners. Between close partnerships with IT, line of business leaders, and end-user-driven bottoms-up adoption, we work with our customers to identify future opportunities using the Box ICM platform.
+
+We focus our efforts on larger enterprises, delivering solutions to use cases within key industries, capitalizing on international growth in key regions, and utilizing our partner ecosystem where most advantageous. In addition to our high-touch enterprise sales efforts, we field inbound inquiries and online sales opportunities through our proven self-service purchasing online platform. We further expand our market reach by leveraging our network of channel partners that include both value-added resellers and systems integrators. Additionally, we offer individuals a free version of Box that allows them to experience the Box ICM platform first-hand without commitment. Use of Box often spreads virally within and across organizations, as users adopt Box and invite new users to collaborate. This motion will often lead to an initial sale with an organization uniting their various users into an enterprise-governed implementation, and from there we continue our high-touch sales efforts, with a focus on use case expansion. Ultimately, our sales strategy is focused on ensuring that new and existing customers both understand and experience the transformative impact of Box.
+
+We have a rich technology partner ecosystem, offering integrations with partners such as Adobe, Apple, Cisco, CrowdStrike, Google, Guidewire, IBM, Microsoft, Okta, Oracle-NetSuite, Palo Alto Networks, Salesforce, ServiceNow, Slack, USDM, Workday, and Zoom. This gives our customers seamless and secure access to their content across all their workflows and applications. In addition, in-house enterprise developers and independent software developers can use our developer platform and open application programming interfaces (APIs) to rapidly build and provision new applications that leverage and extend the core functionality of our services, increasingly with a focus on specific industries and vertical market use cases. To date, tens of thousands of third-party developers have leveraged our platform as the secure content layer for their applications.
+
+We are committed to powering how the world does more good together. Founded in 2014, Box.org serves thousands of nonprofits globally with donated or discounted Box product, employee volunteer hours and grants from the Box Impact Fund. Box.org focuses on areas where Box is uniquely positioned to make an impact, including child welfare, crisis response and the environment.
+
+The Box Solution
+
+We offer web, mobile and desktop applications of our solution on a single platform, as well as the ability to develop custom applications. Four core capabilities differentiate Box from competitors: advanced data protection and compliance, modern workflow and collaboration experiences, a flexible and interoperable platform, and integration with advanced AI models. Box features and functionality include the following:
+
+Advanced Data Protection and Compliance
+
+•
+Global Cloud Architecture. We have built our platform from the ground up on a cloud-based architecture, which enables us to rapidly develop, update and provision our services to users. Our proprietary cloud architecture is particularly well-suited for today’s dynamically changing business requirements because it enables use of the most up-to-date versions of our solutions and administrators to immediately apply changes in policies and controls across all their organization’s critical content simultaneously. Our modern cloud infrastructure, supported by public cloud hosting services operated by third parties in various locations, also powers global scalability and reliability with minimal downtime for our customers, ensuring their business-critical content is always secure, compliant, and available.
+
+•
+Enterprise-Grade Security. We have invested heavily to build robust, frictionless security features to protect our customers from the most pervasive security threats. All files stored in Box are encrypted at rest and in transit. Box’s information rights management features enable secure access and management of files by providing granular control over users’ ability to access, view, download, edit, print or share content. Box also provides security controls such as multi-factor authentication that ensure user identity when allowing access to content, as well as endpoint security tools to restrict access to only properly vetted devices. With Box KeySafe, organizations can implement higher levels of data security and protection by keeping control of the encryption keys that protect their content. This advanced encryption feature is valuable to many organizations, including those in highly regulated industries such as financial services, health care, government and legal.
+
+•
+Intelligent Threat Detection and Smart Access with Box Shield and Box Shield Pro. Box Shield provides granular, near real-time threat detection and protection capabilities. Box Shield leverages advanced machine learning to scan files for sophisticated malware (including ransomware) and identify suspicious user behavior to detect and prevent threats before they become data breaches. Box Shield reduces the risk of accidental data leakage through native security classifications and granular access controls, and can automatically apply classification to content by identifying predefined attributes or personal identifiable information. In December 2025, we announced the general availability of Box Shield Pro, our innovative solution designed to expand the classification and threat protection capabilities of Box Shield. Box Shield Pro includes an AI Classification Agent, which streamlines data organization with context-driven automated classification, Additionally, it enhances Ransomware Activity Detection, providing advanced detection and alerting for ransomware events. Moreover, the AI Threat Analysis Agent further strengthens security by delivering AI-generated summaries for threat alerts.
+
+•
+Comprehensive Data Governance Strategy with Box Governance. Box serves as a secure, centralized system of record for retaining content for operational use while supporting adherence to applicable laws and regulations. Box Governance allows administrators to manage the lifecycle of content and has robust integrations with leading eDiscovery vendors. Box Governance allows customers to create and manage retention policies with an automated disposition action to meet an enterprise's specific business needs and maintain compliance. With Box Governance, organizations can apply legal holds to preserve content and protect content from being deleted, helping customers to reduce legal risk.
+
+•
+Box Zones for In-Region Data Storage. Box Zones enables businesses around the globe to adopt Box as their modern content management platform by letting them store and manage their content locally in certain regions. This helps organizations address region-specific compliance mandates associated with data residency and privacy.
+
+•
+Box Shuttle for Content Migration. Box makes it easy for organizations to move their existing data to Box, no matter where it is currently stored. Box Shuttle is our content migration tool, which enables petabyte-scale content migration from numerous source systems, including file servers, cloud sharing tools, and content management systems. Organizations can perform a full migration entirely within Box while leveraging advanced features such as in-depth analysis of existing data on third-party systems, migration simulations to verify configuration and mapping, retention of content features such as permissions and version history, and robust during- and post-migration analysis. For tailored migration needs, Box Consulting offers comprehensive migration services, from tool enablement to fully managed migrations – helping organizations get their content into Box.
+
+•
+Box Archive for Long-term Storage. Box Archive is a long-term, compliant content preservation solution built directly on the Box ICM platform. It is designed to help organizations protect and preserve inactive data for long periods while ensuring it remains secure, immutable, and easily accessible. Unlike traditional archival solutions that often rely on “cold storage” (which can take hours or days to retrieve), Box Archive ensures that archived content is highly available with similar response times as active content.
+
+•
+Focus on Industry-Specific Capabilities. Box offers solutions for industry-specific content needs, especially in industries that have more complex content, compliance, and collaboration challenges. Box works to target specific business problems within these industries with a combination of Box and industry partner technologies such as industry-specific tools like Guidewire's insurance platform and horizontal tools like Salesforce's customer relationship management platform. Our platform can be configured to meet strict industry compliance requirements like Federal Risk and Authorization Management Program (FedRAMP) High, Financial Industry Regulatory Authority (FINRA), GxP, Health Insurance Portability and Accountability Act (HIPAA), State Risk and Authorization Management (StateRAMP), and more. We offer implementation services through Box Consulting as well as key industry-oriented partners. Some of the key industries we serve include life sciences, financial services, retail and consumer packaged goods, and public sectors.
+
+•
+Enterprise Administrative Controls. We give IT administrators powerful enterprise-grade tools and automations to securely define access rights and permissions by users and groups, content type, devices, and business needs. Administrators can set specific content policies and restrictions, such as access by external groups, expiration dates to auto-delete files or deactivate links to time-sensitive materials.
+
+•
+Reporting and Insights. All internal and external user activity and content interactions in Box can be tracked and is auditable by our customers’ authorized administrators through the Box Admin Console and via APIs, providing visibility into how enterprise content is being accessed, used, and shared across the content lifecycle. Administrators gain insights with easy-to-use dashboards, visualizations and calls to action for monitoring, reporting and mitigating risk.
+
+•
+Simple and Rapid Deployment. Our cloud-based software allows organizations to deploy our products and native integrations easily, quickly, and cost effectively. IT administrators can quickly add users and groups, set up permissions, migrate content, create folders and policies, and begin using our products almost immediately without the need to procure and provision hardware or install and configure software.
+
+Modern Workflow and Collaboration Experiences
+
+•
+Intelligent, No-code Box Apps. Box Apps provides users with the flexibility to develop intelligent, no-code apps to accelerate mission-critical work throughout their business. Using our intuitive, no-code builder, both business process owners and IT can create purpose-built applications with custom dashboards, metadata views and integrated content workflows. Box Apps brings together the right content, metadata and workflows provisioned to the specific set of users who can use it to accelerate their daily work. Users can manage metadata at scale, leveraging AI to extract and validate metadata from content. With smart content processing, advanced search and retrieval capabilities, and seamless content workflows integration, Box Apps empowers our customers to work with content their way.
+
+•
+Connected Box Forms. Box Forms enables users to collect information and content needed for key business processes natively in Box. Users can quickly design, preview and publish engaging web and mobile forms with an intuitive, drag-and-drop builder. Box Forms enables customization of form layouts, conditional logic, and corporate branding, ensuring a tailored and engaging end-user experience. Users can integrate these forms to appropriate downstream tasks such as review and approval, document generation and e-signatures requests. By streamlining data collection and process automation, Box Forms supports key business functions, including vendor submissions, service requests, and client or project onboarding.
+
+•
+Automated Document Generation with Box Doc Gen. Box Doc Gen gives users the ability to dynamically generate documents on-demand by combining data from a variety of sources. Users can create templates to map data sources to predefined document tags, automating document creation at scale. Box Doc Gen is available in three modalities – natively in Box via Box Relay, through the Box for Salesforce managed package, and via Box APIs. These three modalities enable users to include document generation steps seamlessly within their existing workflows. Box Doc Gen also integrates with Box Sign, enabling seamless e-signature workflows – a common use case for document automation.
+
+•
+Box Sign for Electronic Signatures. Box Sign, our natively integrated e-signature capability, provides organizations with secure, seamless e-signature workflows, such as signing contracts, employment offers, or statements of work, right where their content lives – with enterprise-grade security, privacy, and compliance built in. Box Sign provides a seamless signer and sender experience across web and mobile devices, with flexible template options, support for more than 20 languages, and additional security features such as signer authentication and password protection. Our native integration with Box Sign empowers customers to leverage its functionalities alongside Box Shield and Box Relay. Customers can deploy Shield's access policies to restrict signature requests to authorized users. They can also use Relay to streamline and automate post-signature workflows. We also offer APIs that allow organizations to power e-signatures in their custom integrations and applications to embed e-signature workflows in common business processes. For life sciences customers, Box Sign (as part of Box GxP Validation) supports compliance with 21 CFR Part 11 regulation for electronic signatures to address FDA-regulated use cases.
+
+•
+Box Relay for Automation and Workflow Management. Box Relay, our no-code process automation tool for content-centric workflows, enables users to build process automations in Box in a matter of minutes without writing code. Box Relay provides hundreds of combinations of triggers and outcomes that enable a wide variety of file, folder, task, metadata and e-signature actions such as routing documents to specific folders, assigning tasks to individuals or teams, securing documents with watermarking and security classifications, dynamically naming files and folders at runtime, and managing metadata. In addition, we provide a library of pre-built Box Relay workflow templates for users to get started quickly, and reporting capabilities to make it easy for users to track and manage their own workflows. Box Relay integrates with Box Shield to automatically secure content and with Box Sign to automate post-signature workflows.
+
+•
+Internal and External Collaboration. Box offers a core native collaboration experience enabling users to securely share, preview and annotate files in Box from anywhere, on any device. Box has two primary ways to share files, by inviting collaborators and choosing between seven permission levels for their shared files and folders and by leveraging secure shared links with access permissions. With Box Shield, users can assign access restrictions with Smart Access controls such as download and print restrictions, based on the classification of the document, and administrators can set expiration dates for shared links. Box also has over 1,500 pre-built integrations, including Microsoft 365 (Office, Outlook), Microsoft Teams, Google Workspace, and Apple iWork, so that users can work together on a platform of their choice while managing content security and access permissions within Box.
+
+•
+Real-Time Collaboration, Content Authoring and Coauthoring with Box Notes. Our native content authoring tool, Box Notes, enables users to seamlessly share and collaborate in real time with internal teams and external partners. Box Notes combines lightweight word processing functionality with easy-to-use tables, content organization, and commenting features to make it simple for users to work together on projects in real time. Our pre-built integrations with Microsoft 365 and Google Workspace allow users to preview, open, create new, and co-author on content in real-time in the application of their choice.
+
+•
+Box Hubs for Intelligent Portals. Box Hubs enables users to securely curate and publish content in centralized portals that can be shared across the organization – without needing IT or administrator resources. All content published in a Hub retains Box’s enterprise-grade security, governance, and compliance capabilities, so that content is only made available to its intended audience.
+
+•
+Box Canvas for Whiteboarding and Visual Collaboration. Box Canvas, our native visual collaboration and white boarding tool, brings working together to life with new ways to connect, innovate, and share securely. Box Canvas offers a flexible, virtual environment where users can ideate, brainstorm and collaborate visually directly in Box.
+
+•
+Content Insights. Content Insights shows how each piece of content is being used, who is using it, and when it is being accessed. With easy-to-understand visualizations and the ability to filter and drill down to see performance over time, Content Insights provides users with a clear picture of content performance and gives them granular information needed to make data-driven decisions.
+
+•
+Mobility. With the Box Mobile application, users can securely access, manage, and share their content anytime and from anywhere, through native and web browser applications using nearly any device and a variety of operating systems, such as iOS and Android. Our mobile applications empower users to preview, comment, annotate, and collaborate on content from anywhere, and they make it easy to add content to Box with native scanning, uploading, and classification. With the Box for Vision Pro application, users can view and collaborate on media and 3D content using the Apple Vision Pro’s spatial computing workspace.
+
+•
+Elegant, Intuitive and User-Centric Interface. We have designed an intuitive user experience that minimizes or eliminates the need for upfront training. Our focus on a simple and elegant interface, coupled with compelling access, sharing, and collaboration features, aims to foster rapid adoption and user engagement.
+
+•
+Handle Content of Nearly Any Type. Users can securely access, share, and collaborate on content, from virtually any device or operating system, across a wide-range of formats and file types, including large media files.
+
+A Flexible and Interoperable Platform
+
+•
+Leading Pre-Built Integrations. Box provides a unified and secure content layer across the enterprise technology stack. We offer more than 1,500 pre-built integrations with leading enterprise technology providers, including Adobe, Apple, Cisco, CrowdStrike, Google, Guidewire, IBM, Microsoft, Okta, Oracle-NetSuite, Palo Alto Networks, Salesforce, ServiceNow, Slack, USDM, Workday, and Zoom. Our integrations offer seamless interoperability that boosts user productivity and maintains enterprise security, privacy and compliance policies. To make the entire enterprise ecosystem more secure, we continue to add or enhance integrations within our Box Trust Partner Program. We also have a
+
+developer platform, a developer community, and robust set of APIs that provide organizations with the ability to build custom integrations and solution applications on Box.
+
+•
+Box Platform. We provide a content Platform-as-a-Service (PaaS) product, known as Box Platform, which allows IT teams and third-party developers to extend the power of Box across their applications and build custom content experiences. With our easy-to-use APIs, businesses can create a single source of truth for their content, allowing IT teams to deploy key business applications while easily managing how content is accessed, collaborated on, and secured. Coupled with our robust developer tools, the Box Platform enables organizations to build applications faster, without having to invest in building their own content management infrastructure. We also give organizations the ability to extend our Box AI capabilities to power their third-party and customer applications, empowering even more industry and departmental use cases.
+
+Integration with Advanced AI Models
+
+•
+Box AI Platform. Box AI is an AI content platform that natively integrates advanced AI models into the Box platform and offers users AI agents to simplify and accelerate work across the entire content journey, including collaboration, content generation, and content curation – all while maintaining the enterprise-grade security, compliance, and privacy of Box.
+
+•
+Security and Privacy. Box remains committed to complying with privacy, security, and applicable regulations by prioritizing the continued protection of both user and enterprise data. To ensure that all content processed by our AI systems remains secure and confidential, encryption and data-security best practices are used to safeguard customer data. Box does not train AI models with customer content without the customer’s explicit authorization. Box also does not allow any partners or third parties to use customer data to train their models.
+
+•
+User Controls. Enterprises are in full control of AI usage. Box AI is governed by Box’s built-in permissions and is designed to keep customers in control of their data so that users can only see and interact with the files and content they are allowed to access.
+
+•
+Reporting. Enterprises that use Box AI have access to usage reporting from the Admin Console, such as who in the organization has used Box AI, and how many AI queries have been used in the organization.
+
+•
+Model Neutrality. Box AI is platform-neutral, consistent with the Box platform, and is powered by AI models from various AI vendors to provide the best user experience for our customers. For example, Box has announced partnerships with Microsoft’s Azure OpenAI, Google Cloud’s Vertex AI, and Anthropic’s Claude and Amazon Titan via Amazon Bedrock. In the future, we plan to enable customers to “bring your own model,” or BYOM, should they choose not to leverage default models.
+
+•
+Intelligent Documents. Box AI for Documents enables users to ask questions about a document to quickly uncover key findings or summarize complex topics, such as generating insights from a report. With the provided answers, users can also view citations and audit the source of the AI-generated statement.
+
+•
+AI for Real-Time Collaboration. Box AI for Notes helps to increase productivity further, and users are able to create content from scratch, generate new material from existing information, or refine drafted material.
+
+•
+Box Hubs for Intelligent Portals. Box Hubs is also available with Box AI. Using Box AI for Hubs, users can easily find answers to critical questions across multiple documents in Box and generate new content. All content published in a Hub will retain Box’s enterprise-grade security, governance, and compliance capabilities, so that content is only made available to its intended audience.
+
+•
+Box AI API. Box AI API enables developers to integrate Box AI capabilities into custom applications, while maintaining the same enterprise-grade security, compliance, and privacy of Box. The Box AI API provides additional flexibility to customers by bringing AI to their existing applications, empowering even more industry and departmental use cases.
+
+•
+Metadata Extraction with Box Extract. In January 2026, we announced the general availability of Box Extract, which enables users to use industry-leading AI models to extract key information from their content. These enriched metadata insights enhance content classification, security, business decision-making, and workflow automation, streamlining critical business processes. Metadata extraction can be performed on demand by users with a single action or applied at scale via Box API, enriching the content with key information to drive mission-critical business processes.
+
+•
+Box AI Studio for AI Agents. Box AI Studio enables Box administrators to build, deploy and manage custom AI agents to accelerate work. Agents can be quickly created and configured to use the latest AI models offered by our trusted providers, customized to respond in precise, standardized formats, tested on a user’s Box content in a safe and secure playground, and deployed to specific users within an organization. Users can easily select the right agent with the built-in agent switcher to get instant, relevant and structured answers. These agents can be configured via the Box AI Studio user interface and Box API. Users can build industry and department-specific agents tailored to their business needs and integrate multiple AI models to optimize accuracy and efficiency.
+
+Customers
+
+As of January 31, 2026, we had over 100,000 paying organizations, and our solution was offered in 25 languages. We define paying organizations as separate and distinct buying entities, such as a company, an educational or government institution, or a distinct business unit of a large corporation, that have entered into a subscription agreement with us to utilize our services. Organizations typically purchase our solution in the following ways: (i) employees in one or more small groups within the organization may individually purchase our service; (ii) organizations may purchase IT-sponsored, enterprise-level agreements with deployments for specific, targeted use cases ranging from tens to thousands of user seats; (iii) organizations may purchase IT-sponsored, enterprise-level agreements where the number of user seats sold is intended to accommodate and enable nearly all information workers within the organization in whatever use cases they desire to adopt over the term of the subscription; and (iv) organizations may purchase our Box Platform service to create custom business applications for their internal use and extended ecosystem of customers, suppliers and partners.
+
+We have developed several programs designed to provide customers with service options to quickly get them up and running and enhance their usage of Box. These services include 24x7 support provided by our Customer Success Management group and certain resellers; a professional services ecosystem that consists of our Box Consulting team and system integrators that help customers implement intelligent content management oriented use cases; a Customer Success Management group to assist customers in production; and an online community with self-service training materials, best practice guides and product documentation.
+
+No single customer represented 10% or more of our revenue in the year ended January 31, 2026. Our geographic revenue and segment information is set forth in Note 2 in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Sales and Marketing
+
+We offer our solution to customers as a subscription-based service, with subscription fees based on customer requirements, including the number of users, API and AI unit entitlements, and functionality deployed. The duration of our contracts with customers ranges from one to three years or more, and we typically invoice our customers at the beginning of the contract term, in annual, multi-year, quarterly or monthly installments. We recognize revenue as we satisfy our performance obligations. Accordingly, due to our subscription model, we recognize revenue for our subscription and premier services ratably over the term of the contract.
+
+We employ a direct sales team to offer a higher touch experience. We also make it easy for users and organizations to subscribe to paid versions of our service on our self-service web portal. Our sales team is composed of inside sales, outbound sales and field sales personnel who are generally organized by account size and geography, and/or major industry focus. We also have a rich ecosystem of channel partners who expand our reach to both large and small enterprises.
+
+We generate customer leads, accelerate sales opportunities and build brand awareness through our marketing programs and through our strategic relationships. Our marketing programs target senior IT leaders, technology professionals and senior line of business leaders.
+
+As a core part of our strategy, we have developed an ecosystem of partners to both broaden and complement our application offerings and to provide a broad array of services that fall outside of Box’s areas of focus. These relationships include software and technology partners, as well as consulting and implementation services providers that enable Box to address a broader set of use cases for our customers.
+
+Sales and marketing expenses were $404.0 million, $380.2 million and $348.6 million for the years ended January 31, 2026, 2025 and 2024, respectively.
+
+Research and Development
+
+Our ability to compete depends in large part on our continuous commitment to product development and our ability to rapidly introduce new applications, technologies, features and functionality. In simple conceptual form, we provide a single, secure, easy-to-use platform built for the entire content lifecycle. In practice, we develop and maintain a set of sophisticated software services (e.g., search, share, secure, convert/view, logging) around content. These services, which comprise our platform, are used to develop our own applications (e.g., sync, desktop, web, native mobile) and also support the development of third-party applications.
+
+Our product development organization is responsible for the specification, design, development and testing of our platform and applications. We focus our efforts on providing a platform that accelerates business processes, improves employee productivity, enables secure remote work, and protects an organization’s most valuable data. We strive to continually improve our applications so that they help users and teams become more productive in their day-to-day work.
+
+Research and development expenses were $294.5 million, $264.9 million and $248.8 million for the years ended January 31, 2026, 2025 and 2024, respectively.
+
+Competition
+
+The content management market is large, highly competitive and highly fragmented. It is subject to rapidly evolving technology, shifting customer needs and frequent introductions of new products and services. We face competition from a broad spectrum of technology providers: traditional content management vendors who deploy on-premise and offer deep records management, business process workflow, and archival capabilities; newer enterprise vendors who are beginning to enter the content collaboration market; vendors whose core competency is simple file sync and share, which can be deployed on-premises, hybrid, or via a SaaS delivery model; and social collaboration vendors who focus on the conversations that occur between teams. With our expanded product offerings and use cases, we also now compete with companies in the e-signature, content collaboration, workflow automation, AI, and security and governance markets. In the content management market, our primary competitors include, but are not limited to, Microsoft (SharePoint) and OpenText (Documentum). In the enterprise file sync and share market, our primary competitors include, but are not limited to, Microsoft (OneDrive), Google (Drive) and, to a lesser extent, Dropbox. We also compete with companies in the e-signature, content collaboration, workflow automation, artificial intelligence, and security and governance markets.
+
+We may face future competition in our markets from other large, established companies, as well as from smaller specialized companies. In addition, we expect continued consolidation in our industry which could adversely alter the competitive dynamics of our markets including both pricing and our ability to compete successfully for customers.
+
+The principal competitive factors in our market include:
+
+•
+enterprise-grade security and compliance;
+
+•
+scalability of product and infrastructure for large deployments;
+
+•
+ability to store content in multiple geographic locations;
+
+•
+speed, availability, and reliability of the service;
+
+•
+low-cost, quick deployment;
+
+•
+agnostic to device, operating system, and file type;
+
+•
+ease of user experience;
+
+•
+customer-centric product development;
+
+•
+current and forward-thinking product development;
+
+•
+automation and workflow management;
+
+•
+depth of integration into enterprise applications, including office productivity, desktop and mobile tools;
+
+•
+rich ecosystem of channel partners and applications;
+
+•
+open, extensible platform and APIs for custom application development;
+
+•
+intelligent content management including metadata capabilities;
+
+•
+superior customer service and commitment to customer success;
+
+•
+strength of professional services organization; and
+
+•
+self-service content migration tools.
+
+We believe that we compete favorably on the basis of these factors, primarily because of our industry-leading security and compliance, cloud-native approach to real-time, internal and external collaboration, integrations and open platform. Our ability to remain competitive will depend to a great extent upon our ongoing performance in the areas of product development, core technical innovation, platform and partner ecosystem, and customer support. In addition, many of our competitors may have greater name recognition, longer operating histories, larger marketing budgets, significantly greater resources and established relationships with our partners and customers, which can give them advantageous positioning for their products despite other competitive merits of respective product features and functionality. Some competitors may be able to devote greater resources to the development, promotion and sale of their products than we can to ours, which could allow them to respond more quickly than we can to new technologies and changes in customer needs.
+
+Intellectual Property
+
+We rely on a combination of trade secrets, patents, copyrights and trademarks, as well as contractual protections, to establish and protect our intellectual property rights. As of January 31, 2026, our patents were set to expire between 2028 and 2044. We intend to pursue additional patent protection to the extent that we believe it would be beneficial and cost effective.
+
+We require our employees, contractors, consultants and other third parties to enter into confidentiality and proprietary rights agreements and control access to software, documentation and other proprietary information. Although we rely on the intellectual property rights and contractual protections described above, we believe that factors such as the technological and creative skills of our personnel, creation of new modules, features and functionality, and frequent enhancements to our applications are more essential to establishing and maintaining our technology leadership position.
+
+Despite our efforts to protect our proprietary technology and our intellectual property rights, unauthorized parties may attempt to copy or obtain and use our technology to develop applications with the same functionality as our services. Policing unauthorized use of our technology and intellectual property rights on a global basis is difficult.
+
+We expect that software and other applications in our industry may be subject to third-party infringement claims as the number of competitors grows and the functionality of applications in different industry segments overlaps. Any of these third parties might make a claim of infringement against us at any time.
+
+Backlog
+
+We generally sign annual and multi-year subscription contracts for our ICM platform. The frequency of our invoices to each customer is negotiated and varies among our subscription contracts. We continued to focus on annual payment frequencies for multi-year contracts in the twelve months ended January 31, 2026. As a result, for multi-year contracts, we frequently invoice an initial amount at contract signing followed by subsequent annual invoices. Until amounts are invoiced, they are typically not recorded in deferred revenue, billings or elsewhere in our consolidated financial statements other than disclosed as part of remaining performance obligations. To the extent future invoicing is determined to be certain, we consider such future subscription invoices to be non-cancellable backlog, which is disclosed as part of remaining performance obligations. Future invoicing is determined to be certain when we have an executed non-cancellable contract or a significant penalty that is due upon cancellation. We had $1.06 billion and $861.4 million of non-cancellable backlog as of January 31, 2026 and 2025, respectively. The increase of non-cancellable backlog as of January 31, 2026 was driven by expansion within existing customers as they broadened their deployment of our product offerings and the conversion to multi-product Suites, the timing of customer-driven renewals, longer average contract terms, and the addition of new customers. Non-cancellable backlog was favorably impacted by foreign currency exchange rates.
+
+We expect that the amount of backlog relative to the total value of our contracts will change from year to year due to several factors, including the timing and duration of customer subscription agreements, varying price, volume, and invoicing cycles of subscription contracts, the timing of scheduled customer renewals, and foreign currency fluctuations. Accordingly, we believe that fluctuations in backlog are not always a reliable indicator of future revenue.
+
+Human Capital Resources
+
+As of January 31, 2026, we employed 2,912 people. None of our employees are represented by a labor union. We have not experienced any work stoppages, and we consider our relations with our employees to be very good.
+
+Belonging at Box
+
+At Box, our goal is to fully leverage and engage the individual talents and capabilities of our diverse teams, ultimately creating an environment where employees feel they belong and can do their best work. We approach fostering a sense of belonging through the following areas:
+
+Culture: At Box, we prioritize creating an environment where everyone can thrive, regardless of their background or identity. We focus on fostering a sense of belonging through our “Boxer Mindsets,” which promote behaviors that support inclusion for all employees. We also provide educational opportunities such as courses for people leaders on topics such as fostering psychologically safe environments and allyship courses to equip employees with the tools they need to create healthy and supportive environments for all individuals.
+
+Careers: We focus on ensuring that we are recruiting, developing and progressing a high performing workforce. We take great pride in celebrating our differences, and we hire the best talent from all backgrounds. Our recruiting team also focuses on a variety of initiatives to attract a wide array of high-performing talent through pipeline partnerships such as Hiring our Heroes and myGwork. We also offer a global 1:1 mentoring program, which enhances talent across the company, providing our employees with the skills and tools needed to thrive.
+
+Community: At Box, we have a dynamic array of employee resources communities (ERCs) and interest communities, which foster supportive environments for employees to connect and belong. These communities are open to all employees and include Box Women’s Network, Black Excellence Network, Box Asian Pacific Islander, BoxVets, Families at Box, Pride and BoxAbilities. These global communities engage in community gatherings, professional development opportunities and volunteering initiatives to support external communities.
+
+Learning and Development
+
+We want all of our employees to have thriving careers where they grow and develop in meaningful ways. There is no one-size-fits-all career path at Box, so we seek to ensure that every employee has the tools and support they need to drive their career. We do this by giving all employees access to learning and development opportunities that can be tailored to individual needs to help build skill sets and relevant experience. These initiatives include:
+
+•
+Internal mobility: We acknowledge that career progression looks less like a ladder and more like a climbing wall. We stand behind the idea that enabling our employees to work cross-functionally and within different teams provides a broader perspective of Box that will allow them to succeed in the future.
+
+•
+LearnFest: LearnFest, our learning lineup for skill development and personal and professional growth, offers live courses and chances to learn in groups each year. During LearnFest, the entire company has focused time for trainings, workshops, and other learning events. We also have on demand learnings available year-round.
+
+•
+Professional coaching and external leadership development programs: We offer targeted professional coaching for all levels of our executive leadership team (i.e., director-level and above) as well as access to business education and networking programs such as The Leadership Consortium affiliated with Harvard Business School and Better Up.
+
+•
+On-Demand Learning: We offer all employees access to an on-demand learning platform so they can develop a wide variety of skills at a time and place of their choosing. We offer thousands of learning resources from top content providers aimed at personal development, management, leadership and tech-based functional skill development to employees eager to learn.
+
+•
+AI certification: In fiscal year 2026, we implemented a mandatory in-house AI foundations training, which covered AI history, key concepts, and internal and external use cases.
+
+Pay Equity
+
+We hold ourselves accountable, which is why we signed the California Equal Pay Pledge. As part of our commitment, we conduct an annual company-wide pay analysis to promote and measure equitable compensation across genders, ethnicities, and age groups. In addition, we externally benchmark the compensation we provide for each role to ensure pay parity and provide periodic updates to the Compensation Committee of our Board of Directors.
+
+Employee Experience Surveys
+
+We survey employees once a year to ensure that everyone’s voice gets heard and we better understand the key areas where we can improve employee experience. These key areas include our experience with our managers, our ability to get work done, and our sense of belonging at work. Survey results are reviewed and become part of our action plans at all levels of the organization. Our People and Communities team incorporates survey feedback into our programs, policies, and the cultivated experiences that drive our culture. Our functional leaders leverage the feedback to drive annual plans across their teams to improve efficiency, establish communication channels, and reinforce behaviors aligned with our values. Finally, following each survey, managers discuss employee experience results with their team and form a plan to address issues that are identified in survey results.
+
+Employee Health and Safety
+
+The health and safety of our employees is one of our top priorities. We strive to create an environment where employees are physically and mentally safe and healthy. We offer a comprehensive health and wellness benefits package to all employees.
+
+We offer competitive paid time off and time off for holidays. We also provide various wellness initiatives such as meditation sessions, free coaching and therapy sessions for both employees and their dependents.
+
+Additionally, long-tenured employees have the opportunity to take sabbaticals, while our comprehensive benefits package includes family support and customized perks to support individuals throughout their career journey.
+
+Sustainability
+
+At Box, we are committed to operating sustainably. Recognizing the impact of climate change on the global economy, our company, and our stakeholders, we continue to focus on understanding our environmental footprint and strengthening how we manage our impact over time.
+
+In fiscal year 2026, by analyzing emissions across our operations and value chain from fiscal year 2025, we gained critical insights that inform our strategy to improve environmental impact. This work builds on our efforts to support a more sustainable future and provides a strong foundation for engaging stakeholders, optimizing our practices, and driving accountability.
+
+•
+Understanding Our Footprint: In fiscal year 2026, working with a third party, we completed our second comprehensive greenhouse gas (GHG) assessment. This assessment covered Scope 1, Scope 2, and Scope 3 emissions from fiscal year 2025 and further refined our understanding of our emissions profile to inform opportunities for improvement. We also obtained limited assurance over our Scope 1 and Scope 2 emissions, which provides an independent review of our environmental data and disclosures under applicable assurance standards.
+
+•
+Science Based Targets: In fiscal year 2026, we committed to the Science Based Targets initiative, reflecting an important milestone in strengthening our approach to climate governance and long-term emissions management.
+
+•
+Environmental Transparency for Our Customers: To address ongoing interest and demand from customers and prospects, we published an AI & Sustainability Data Sheet that shares information on the environmental considerations of our platform and our approach to responsible AI development.
+
+•
+Internal Policies and External Regulations: In fiscal year 2026, we adopted a company-wide environmental policy that establishes governance, roles, and expectations for managing environmental impacts across our operations. We continue to monitor evolving environmental and climate-related regulations and assess their potential implications for our business.
+
+•
+Rating Partners: We participated in environmental, social, and governance surveys and evaluations for organizations such as Carbon Disclosure Project, Ecovadis, and Institutional Shareholder Services, Inc.
+
+•
+Sustainable Offices: Our office buildings worldwide have received a number of certifications, including:
+
+▪
+BREEAM Certification in London and Warsaw.
+
+▪
+Energy Star Certified in Austin, Chicago, Redwood City and San Francisco.
+
+▪
+Fitwel Certification in Redwood City and San Francisco.
+
+▪
+LEED Platinum Certification in London.
+
+▪
+LEED Gold Certification in Austin, Redwood City, and San Francisco.
+
+▪
+LEED Silver Certification in New York.
+
+▪
+WELL Building Institute Gold Standard in Warsaw.
+
+▪
+WELL Health Safety Rated in Chicago and Warsaw.
+
+▪
+100% Renewable Electricity in Tokyo.
+
+▪
+CASBEE S rank in Tokyo.
+
+•
+Employee Engagement and Support: We support our employees with internal events focused on sustainability, engaging both remote and office-based employees throughout the year. Our commitment to sustainability extends beyond operations and includes efforts to foster awareness and participation across our workforce.
+
+Corporate Information
+
+Our website address is www.box.com, and our investor relations website is located at www.box.com/investors. The information on, or that can be accessed through, our website is not part of this Annual Report on Form 10-K. We were incorporated in 2005 as Box.Net, Inc., a Washington corporation, and later reincorporated in 2008 under the same name as a Delaware corporation. In November 2011, we changed our name to Box, Inc. The Box design logo, “Box” and our other registered and common law trade names, trademarks and service marks are the property of Box, Inc. Other trademarks, service marks, or trade names appearing in this Annual Report on Form 10-K are the property of their respective owners.
+
+Available Information
+
+We file annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended. The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements and other information that we file with the SEC electronically. Copies of our reports on Form 10-K, Forms 10-Q, Forms 8-K, and amendments to those reports may also be obtained, free of charge, electronically through our investor relations website located at www.box.com/investors as soon as reasonably practical after we file such material with, or furnish it to, the SEC.
+
+We also use our investor relations website as a channel of distribution for important company information. Important information, including press releases, analyst presentations and financial information regarding us, as well as corporate governance information, is routinely posted and accessible on certain X accounts, such as @box and @levie. Information on, or that can be accessed through, our websites or these X accounts is not part of this Annual Report on Form 10-K, and the inclusion of our website addresses and X accounts are inactive textual references only.

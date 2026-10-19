@@ -1,0 +1,135 @@
+{
+  "ticker": "CRL",
+  "company_name": "Charles River Laboratories",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001100682-26-000022",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:09:35",
+  "prompt_chars": 127017,
+  "filing_chars": 107008,
+  "filing_words_sent": 15303,
+  "approx_prompt_tokens": 31754,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Global learning strategy for employees covering technical training, mentoring, coaching, tuition reimbursement, sabbaticals and leadership development",
+        "quote": "Furthermore, we have created a global learning strategy that includes technical training, mentoring and coaching approaches, tuition reimbursement, sabbaticals, leadership development programs, and on-the-job training to ensure access to skill building and career advancement for all.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Talent Management, Belonging, and Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Scholarships for laboratory animal science training and financial support to non-profits that educate the public about animal welfare and the 3Rs",
+        "quote": "We provide scholarships for training in laboratory animal science, financial support to non-profit organizations that promote and educate the public about animal welfare, the 3Rs, and the benefits of animal research, and awards to outstanding leaders in the laboratory animal science field and the supporters of 3Rs.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Industry Support and Animal Welfare",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education and community investment, limited or undisclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Accessible hiring practices including reasonable accommodations for applicants",
+        "quote": "We strive to make our hiring practices accessible, including offering reasonable accommodations as appropriate.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Talent Management, Belonging, and Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: general statement close to equal-opportunity boilerplate, with no specific program described"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Flexible outsourced research services for virtual and small biotechnology companies with limited infrastructure",
+        "quote": "While the biopharmaceutical demand environment has been less robust in recent years, we believe that our portfolio provides flexible solutions and scientific expertise that meet the customized needs for virtual and small biotechnology companies, which have limited or no infrastructure.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Strategy > Strategic Outsourcing Drives Efficiency, Innovation, and Growth",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific named enabling program"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers research models, drug discovery, safety testing and manufacturing services in detail and shows no creative activity; 'state-of-the-art', drug design and 'design thinking' are traps."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: a specific current scholarship and non-profit support program (external education/community investment) with no reach figures, plus employee development, which does not reach the substantial-reach indicators needed for level 3."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: the human capital section offers only general belonging language, recruitment 'from a variety of backgrounds', legally required pay equity audits and reasonable accommodations, with no specific inclusion program, employee network or customer access activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the company serves small and virtual biotech clients and partners with venture capital firms to promote its services, but describes no specific enabling program aimed at barriers to starting or growing a business."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The CRADL (Charles River Accelerator and Development Lab) offering is described only as providing vivarium space to clients, not as a founder or startup program, so it was not scored as enabling; this follows the rule to pick the lower level when torn. The venture capital partnerships are described as a way to promote CRL's services and gain scientific insight, which counts as serving rather than enabling. Publishing scientific papers and symposia are listed as promotional activities and were not counted for Creativity. Insourcing Solutions' training of client research staff is part of a managed-service offering, not external education, and was not counted. The filing refers to a 2024 Corporate Citizenship Report on the company website, with a 2026 update planned, but coverage was judged sufficient because Item 1 has substantive human capital and community discussion. The planned divestiture of non-core businesses (about 7% of 2025 revenue) and planned site closures do not affect the theme scores.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"CRL\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Global learning strategy for employees covering technical training, mentoring, coaching, tuition reimbursement, sabbaticals and leadership development\",\"quote\":\"Furthermore, we have created a global learning strategy that includes technical training, mentoring and coaching approaches, tuition reimbursement, sabbaticals, leadership development programs, and on-the-job training to ensure access to skill building and career advancement for all.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Talent Management, Belonging, and Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Scholarships for laboratory animal science training and financial support to non-profits that educate the public about animal welfare and the 3Rs\",\"quote\":\"We provide scholarships for training in laboratory animal science, financial support to non-profit organizations that promote and educate the public about animal welfare, the 3Rs, and the benefits of animal research, and awards to outstanding leaders in the laboratory animal science field and the supporters of 3Rs.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Industry Support and Animal Welfare\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education and community investment, limited or undisclosed reach\"}}},{\"id\":\"E3\",\"activity\":\"Accessible hiring practices including reasonable accommodations for applicants\",\"quote\":\"We strive to make our hiring practices accessible, including offering reasonable accommodations as appropriate.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Talent Management, Belonging, and Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: general statement close to equal-opportunity boilerplate, with no specific program described\"}}},{\"id\":\"E4\",\"activity\":\"Flexible outsourced research services for virtual and small biotechnology companies with limited infrastructure\",\"quote\":\"While the biopharmaceutical demand environment has been less robust in recent years, we believe that our portfolio provides flexible solutions and scientific expertise that meet the customized needs for virtual and small biotechnology companies, which have limited or no infrastructure.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Strategy > Strategic Outsourcing Drives Efficiency, Innovation, and Growth\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific named enabling program\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers research models, drug discovery, safety testing and manufacturing services in detail and shows no creative activity; 'state-of-the-art', drug design and 'design thinking' are traps.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: a specific current scholarship and non-profit support program (external education/community investment) with no reach figures, plus employee development, which does not reach the substantial-reach indicators needed for level 3.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: the human capital section offers only general belonging language, recruitment 'from a variety of backgrounds', legally required pay equity audits and reasonable accommodations, with no specific inclusion program, employee network or customer access activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the company serves small and virtual biotech clients and partners with venture capital firms to promote its services, but describes no specific enabling program aimed at barriers to starting or growing a business.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The CRADL (Charles River Accelerator and Development Lab) offering is described only as providing vivarium space to clients, not as a founder or startup program, so it was not scored as enabling; this follows the rule to pick the lower level when torn. The venture capital partnerships are described as a way to promote CRL's services and gain scientific insight, which counts as serving rather than enabling. Publishing scientific papers and symposia are listed as promotional activities and were not counted for Creativity. Insourcing Solutions' training of client research staff is part of a managed-service offering, not external education, and was not counted. The filing refers to a 2024 Corporate Citizenship Report on the company website, with a 2026 update planned, but coverage was judged sufficient because Item 1 has substantive human capital and community discussion. The planned divestiture of non-core businesses (about 7% of 2025 revenue) and planned site closures do not affect the theme scores.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 40086,
+      "output_tokens": 3323,
+      "duration_ms": 31328
+    }
+  ]
+}

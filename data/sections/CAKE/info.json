@@ -1,0 +1,43 @@
+{
+  "ticker": "CAKE",
+  "accession_number": "0001104659-26-018643",
+  "filing_date": "2026-02-23",
+  "fiscal_year": 2025,
+  "full_text_words": 57090,
+  "sections": {
+    "item1": {
+      "words": 7535,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          7535,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7374,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7374,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 366
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1650,
+  "human_capital_found": true,
+  "people_paragraph_words": 708
+}

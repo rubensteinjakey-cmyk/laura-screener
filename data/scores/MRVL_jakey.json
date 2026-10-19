@@ -1,0 +1,101 @@
+{
+  "ticker": "MRVL",
+  "company_name": "Marvell Technology",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001835632-26-000011",
+  "filing_date": "2026-03-11",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T01:05:18",
+  "prompt_chars": 68050,
+  "filing_chars": 48037,
+  "filing_words_sent": 6778,
+  "approx_prompt_tokens": 17012,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Annual internship program for students as an early-career talent pipeline",
+        "quote": "Our annual internship program has been a strong source of talent for our company.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Attracting and Retaining the Best Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current program for people outside the company, limited reach with no figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Training, mentorship and mobility programs for employees, with customized programs for engineers",
+        "quote": "As a result, we offer extensive training, mentorship and mobility opportunities, no matter the path that employees wish to take.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Growing and Developing Our People",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers only data infrastructure semiconductors and shows no creative activity, since 'design' means chip design and 'content' means network data traffic."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: an annual internship program and employee training and mentorship are described, but no participant numbers, dollars or community investment are disclosed to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, resting on general language only (inclusive culture, belonging, diverse backgrounds); coverage is insufficient under conditions 2 and 3 because the inclusion discussion is under about 150 words and the filing points to its Sustainability Report and website without describing any specific inclusion activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, resting on general language only: the filing shows the company's own innovation and product applications for 'small medium enterprise' networking equipment, but no service or program enabling founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so only Item 1 was scored. Cross-cultural coverage is insufficient, which triggers the automated second look using the company's Sustainability Report. The sentence about attracting 'a diverse workforce through our university recruiting program' is a hiring channel carrying a diversity label, not a described inclusion practice, so it was not scored as a cross-cultural activity. 'Gaming consoles' and 'Printers' appear only as end-customer applications for the company's chips and do not count as enabling creative work. The automotive ethernet business was divested on August 14, 2025, and the Celestial AI and XConn acquisitions closed after fiscal year end; none of these affects the theme scores.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"MRVL\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Annual internship program for students as an early-career talent pipeline\",\"quote\":\"Our annual internship program has been a strong source of talent for our company.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Attracting and Retaining the Best Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current program for people outside the company, limited reach with no figures disclosed\"}}},{\"id\":\"E2\",\"activity\":\"Training, mentorship and mobility programs for employees, with customized programs for engineers\",\"quote\":\"As a result, we offer extensive training, mentorship and mobility opportunities, no matter the path that employees wish to take.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Growing and Developing Our People\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers only data infrastructure semiconductors and shows no creative activity, since 'design' means chip design and 'content' means network data traffic.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: an annual internship program and employee training and mentorship are described, but no participant numbers, dollars or community investment are disclosed to show substantial reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, resting on general language only (inclusive culture, belonging, diverse backgrounds); coverage is insufficient under conditions 2 and 3 because the inclusion discussion is under about 150 words and the filing points to its Sustainability Report and website without describing any specific inclusion activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, resting on general language only: the filing shows the company's own innovation and product applications for 'small medium enterprise' networking equipment, but no service or program enabling founders or small businesses.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so only Item 1 was scored. Cross-cultural coverage is insufficient, which triggers the automated second look using the company's Sustainability Report. The sentence about attracting 'a diverse workforce through our university recruiting program' is a hiring channel carrying a diversity label, not a described inclusion practice, so it was not scored as a cross-cultural activity. 'Gaming consoles' and 'Printers' appear only as end-customer applications for the company's chips and do not count as enabling creative work. The automotive ethernet business was divested on August 14, 2025, and the Celestial AI and XConn acquisitions closed after fiscal year end; none of these affects the theme scores.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 23110,
+      "output_tokens": 2675,
+      "duration_ms": 31000
+    }
+  ]
+}

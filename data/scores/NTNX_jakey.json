@@ -1,0 +1,102 @@
+{
+  "ticker": "NTNX",
+  "company_name": "Nutanix",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-394793",
+  "filing_date": "2026-09-18",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T01:03:52",
+  "prompt_chars": 63779,
+  "filing_chars": 43777,
+  "filing_words_sent": 6103,
+  "approx_prompt_tokens": 15944,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "In-house user experience designers within the R&D organization working on the company's infrastructure software",
+        "quote": "Our research and development teams include distributed systems software engineers, platform engineers, systems engineers, user interface engineers and user experience designers.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Research and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: design work used only as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee onboarding and learning programs, including digital learning, coaching, workshops, manager training and language learning",
+        "quote": "Our learning programs include digital learning, speed coaching, customized learning workshops, manager enablement and skills training for current, new and future managers, training on culture, language learning programs, and employee wellness programs.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital > Growth and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the company sells hybrid cloud and AI infrastructure software, and creative work appears only as a routine input through in-house user experience designers."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 2: the only qualifying activity is employee development through named learning programs, so the employee-development cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only, such as attracting and retaining 'diverse talent', with no specific inclusion, accessibility or community-connecting activity in a human capital section that is long enough to judge."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description is enough to judge, and it shows no service, program or tool that enables founders or small businesses; references to innovation are trap language and do not count."
+      }
+    },
+    "notes": "Excluded as traps or non-qualifying: 'Building on this foundation' (Item 7) is not a foundation program; 'learning certifications, community programs' and the user community are customer-facing marketing ('educating customers' trap); the Elevate Partner Program learning paths and market development funds are reseller and partner sales enablement, not education or small-business enablement; 'design specifications' and disaster-recovery 'design' are engineering design; education and media appear only as customer industries (serving, not creating or enabling). Language learning programs (within E2) were considered for Cross-cultural, but the filing does not describe them as an inclusion or barrier-removal practice, so the lower level was chosen. Offices and operations across regions do not count as cross-cultural activity. Item 7 excerpts repeat Item 1 text and add no new qualifying activity.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"NTNX\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"In-house user experience designers within the R&D organization working on the company's infrastructure software\",\"quote\":\"Our research and development teams include distributed systems software engineers, platform engineers, systems engineers, user interface engineers and user experience designers.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Research and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: design work used only as a routine business input\"}}},{\"id\":\"E2\",\"activity\":\"Employee onboarding and learning programs, including digital learning, coaching, workshops, manager training and language learning\",\"quote\":\"Our learning programs include digital learning, speed coaching, customized learning workshops, manager enablement and skills training for current, new and future managers, training on culture, language learning programs, and employee wellness programs.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital > Growth and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the company sells hybrid cloud and AI infrastructure software, and creative work appears only as a routine input through in-house user experience designers.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 2: the only qualifying activity is employee development through named learning programs, so the employee-development cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only, such as attracting and retaining 'diverse talent', with no specific inclusion, accessibility or community-connecting activity in a human capital section that is long enough to judge.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description is enough to judge, and it shows no service, program or tool that enables founders or small businesses; references to innovation are trap language and do not count.\"}},\"notes\":\"Excluded as traps or non-qualifying: 'Building on this foundation' (Item 7) is not a foundation program; 'learning certifications, community programs' and the user community are customer-facing marketing ('educating customers' trap); the Elevate Partner Program learning paths and market development funds are reseller and partner sales enablement, not education or small-business enablement; 'design specifications' and disaster-recovery 'design' are engineering design; education and media appear only as customer industries (serving, not creating or enabling). Language learning programs (within E2) were considered for Cross-cultural, but the filing does not describe them as an inclusion or barrier-removal practice, so the lower level was chosen. Offices and operations across regions do not count as cross-cultural activity. Item 7 excerpts repeat Item 1 text and add no new qualifying activity.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 21260,
+      "output_tokens": 2698,
+      "duration_ms": 29146
+    }
+  ]
+}

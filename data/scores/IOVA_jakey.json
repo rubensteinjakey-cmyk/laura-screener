@@ -1,0 +1,85 @@
+{
+  "ticker": "IOVA",
+  "company_name": "Iovance Biotherapeutics, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001104659-26-018899",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:03:22",
+  "prompt_chars": 155294,
+  "filing_chars": 135281,
+  "filing_words_sent": 20300,
+  "approx_prompt_tokens": 38823,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Mentoring and development programs offered to the company's own employees",
+        "quote": "We provide our employees with competitive salaries and bonuses, opportunities for equity ownership, mentoring, and development programs that enable continued learning and growth, career opportunities, and a robust employment package that promotes well-being across all aspects of their lives.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 1: generic mention of mentoring and development programs in a benefits list, with no named program or figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers TIL cell therapies and IL-2 products only and shows no creative activity; patent and technology licensing is a listed trap."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only qualifying item is a generic mention of employee mentoring and development programs with no named program, figures or detail, so when torn between 1 and 2 the lower level applies; there is no external education or community investment."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the human capital section, at about 190 words, discloses no employee networks, accessibility, multilingual or underserved-access activity, and the FDA diversity action plan text describes a regulation, not a company practice."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes no small-business customers or enabling programs; references to the company's own innovation are a listed trap, and when torn between 0 and 1 the lower level applies."
+      }
+    },
+    "notes": "Educating and training HCPs at authorized treatment centers was excluded because it is commercial product training aimed at customers, which the rubric treats as marketing. Several items were excluded as licensing or legal arrangements rather than community collaboration: the NCI CRADA, the NIH, Cellectis and Novartis license agreements, and support for investigator-sponsored trials. The 'community' references to 'community ATCs' and 'community oncologists' describe treatment-center types, not community investment. The diversity action plan passage summarizes the FDORA requirement and its uncertain timing and is not a company program. The contract-manufacturing agreement with Minaris terminated in Q1 2026, which is not relevant to the themes. The Item 7 excerpts repeat Item 1 text and add no new activities. Community could reasonably be read as 2, since employee development of any size can reach level 2, if a reviewer treats the generic mentoring and development statement as a specific activity.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"IOVA\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Mentoring and development programs offered to the company's own employees\",\"quote\":\"We provide our employees with competitive salaries and bonuses, opportunities for equity ownership, mentoring, and development programs that enable continued learning and growth, career opportunities, and a robust employment package that promotes well-being across all aspects of their lives.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 1: generic mention of mentoring and development programs in a benefits list, with no named program or figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers TIL cell therapies and IL-2 products only and shows no creative activity; patent and technology licensing is a listed trap.\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the only qualifying item is a generic mention of employee mentoring and development programs with no named program, figures or detail, so when torn between 1 and 2 the lower level applies; there is no external education or community investment.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the human capital section, at about 190 words, discloses no employee networks, accessibility, multilingual or underserved-access activity, and the FDA diversity action plan text describes a regulation, not a company practice.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes no small-business customers or enabling programs; references to the company's own innovation are a listed trap, and when torn between 0 and 1 the lower level applies.\"}},\"notes\":\"Educating and training HCPs at authorized treatment centers was excluded because it is commercial product training aimed at customers, which the rubric treats as marketing. Several items were excluded as licensing or legal arrangements rather than community collaboration: the NCI CRADA, the NIH, Cellectis and Novartis license agreements, and support for investigator-sponsored trials. The 'community' references to 'community ATCs' and 'community oncologists' describe treatment-center types, not community investment. The diversity action plan passage summarizes the FDORA requirement and its uncertain timing and is not a company program. The contract-manufacturing agreement with Minaris terminated in Q1 2026, which is not relevant to the themes. The Item 7 excerpts repeat Item 1 text and add no new activities. Community could reasonably be read as 2, since employee development of any size can reach level 2, if a reviewer treats the generic mentoring and development statement as a specific activity.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 50310,
+      "output_tokens": 2552,
+      "duration_ms": 27320
+    }
+  ]
+}

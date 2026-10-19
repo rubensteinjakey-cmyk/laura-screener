@@ -1,0 +1,2096 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition, results of operations and cash flows should be read in conjunction with the consolidated financial statements and the related notes thereto included elsewhere in this Annual Report on Form 10-K. The last day of our fiscal year is July 31. Our fiscal quarters end on October 31, January 31, April 30 and July 31. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under "Risk Factors" or in other parts of this Annual Report on Form 10-K. See also "Special Note Regarding Forward-Looking Statements" above. For a discussion of our results of operations for the fiscal year ended July 31, 2025 as compared to the fiscal year ended July 31, 2024, please refer to Part II, Item 7, “Management's Discussion and Analysis of Financial Condition and Results of Operations,” of our Annual Report on Form 10-K filed with the SEC on September 24, 2025.
+
+Overview
+
+Nutanix, Inc. ("we," "us," "our," or "Nutanix") is a hybrid cloud and AI platform company, offering organizations a unified infrastructure software platform to run applications, data, and AI anywhere. Our vision is to simplify the deployment and operation of hybrid computing infrastructure and AI factories to support the increasingly distributed landscape of apps and data, including agentic AI, while freeing organizations to modernize their infrastructure and focus on business goals. Our mission is to delight customers with an open, secure platform with rich data services that increases their ability to take advantage of technologies such as cloud native and AI, optimizes how they run their organizations today, and accelerates innovation, efficiency, and growth.
+
+The Nutanix Cloud Platform is designed to enable organizations to build hybrid cloud infrastructure. It provides a consistent cloud operating model with a single platform for running and managing applications, agentic AI workloads, and data in core data centers, at the edge, and in public clouds. We aim to provide customers with flexibility and choice across server platforms, storage options, virtualized and cloud-native environments, public clouds, and deployment models. The Nutanix Cloud Platform supports a wide variety of workloads with varied compute, storage, and network requirements. These workloads include traditional business-critical general-purpose applications, modern applications (including containerized applications running on Kubernetes), data platforms (including SQL, NoSQL and vector databases, as well as business intelligence applications), and enterprise AI workloads (including machine learning, generative AI, and agentic AI applications).
+
+We first pioneered hyperconverged infrastructure ("HCI") by combining compute, storage and networking through a software-defined architecture. We subsequently developed Nutanix AHV, our native enterprise hypervisor. Building on this foundation, the Nutanix Cloud Platform has evolved into a unified infrastructure platform. The Nutanix Cloud Platform supports a broader range of architectures, applications and deployment models, across public clouds (including AWS, Azure, and Google Cloud), datacenters, and edge. This expansion includes support for qualified external storage systems, modern applications through our Kubernetes platform, and enterprise agentic AI workloads through our AI infrastructure and management offerings. Our research and development efforts on the agentic AI front aim to provide customers with an optimized full stack platform to run, control, and govern AI workloads.
+
+Our business is organized into a single operating and reportable segment. We operate a subscription-based business model, meaning our products, including associated support and maintenance arrangements, are sold with a defined duration.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Our platform typically includes one or more years of support and maintenance, which provides customers with the right to software upgrades and enhancements as well as technical support. Purchases of term-based licenses and software-as-a-service ("SaaS") subscriptions have support and maintenance included within the subscription fees and are not sold separately.
+
+We had a broad and diverse base of over 32,000 end customers as of July 31, 2026. We define the number of end customers as the number of end customers for which we have received an order by the last day of the period, excluding partners to which we have sold products for their own demonstration purposes. A single organization or customer may represent multiple end customers for separate divisions, segments or subsidiaries, and the total number of end customers may contract due to mergers, acquisitions, or other consolidation among existing end customers.
+
+Our solutions are primarily sold through our channel partners or original equipment manufacturers ("OEMs") and delivered directly to our end customers. We have end customers across a broad range of industries, such as financial services, retail, manufacturing, public sector, automotive and other transportation, consumer goods, education, energy, healthcare, media, technology, and telecommunications. We also sell to service providers, who utilize our platform to provide a variety of cloud-based services to their customers.
+
+Key Financial and Performance Metrics
+
+We monitor the following key financial and performance metrics:
+
+As of and for the Fiscal Year Ended July 31,
+
+2024
+
+2025
+
+2026
+
+(in thousands, except percentages)
+
+Total revenue
+
+$
+
+2,148,816
+
+$
+
+2,537,927
+
+$
+
+2,853,545
+
+Year-over-year percentage increase
+
+%
+
+%
+
+%
+
+Annual recurring revenue ("ARR") (1)
+
+$
+
+1,873,251
+
+$
+
+2,201,672
+
+$
+
+2,548,797
+
+Gross profit
+
+$
+
+1,824,704
+
+$
+
+2,203,145
+
+$
+
+2,476,796
+
+Non-GAAP gross profit
+
+$
+
+1,862,203
+
+$
+
+2,235,736
+
+$
+
+2,510,666
+
+Gross margin
+
+84.9
+
+%
+
+86.8
+
+%
+
+86.8
+
+%
+
+Non-GAAP gross margin
+
+86.7
+
+%
+
+88.1
+
+%
+
+88.0
+
+%
+
+Operating expenses
+
+$
+
+1,817,141
+
+$
+
+2,030,604
+
+$
+
+2,202,826
+
+Non-GAAP operating expenses
+
+$
+
+1,515,096
+
+$
+
+1,699,616
+
+$
+
+1,835,306
+
+Operating income
+
+$
+
+7,563
+
+$
+
+172,541
+
+$
+
+273,970
+
+Non-GAAP operating income
+
+$
+
+347,107
+
+$
+
+536,120
+
+$
+
+675,360
+
+Operating margin
+
+0.4
+
+%
+
+6.8
+
+%
+
+9.6
+
+%
+
+Non-GAAP operating margin
+
+16.2
+
+%
+
+21.1
+
+%
+
+23.7
+
+%
+
+Net cash provided by operating activities
+
+$
+
+672,931
+
+$
+
+821,456
+
+$
+
+916,688
+
+Free cash flow
+
+$
+
+597,679
+
+$
+
+750,173
+
+$
+
+840,675
+
+(1)
+Beginning with the first quarter of fiscal 2026, our methodology for calculating ARR was updated to align more closely with the timing of when licenses are made available to customers. For comparability purposes, ARR for all prior periods have been adjusted to conform to the updated methodology.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Disaggregation of Revenue
+
+The following table depicts the disaggregation of revenue by type, consistent with how we evaluate our financial performance:
+
+Fiscal Year Ended July 31,
+
+2024
+
+2025
+
+2026
+
+(in thousands)
+
+Disaggregation of revenue:
+
+Subscription revenue
+
+$
+
+2,016,776
+
+$
+
+2,410,751
+
+$
+
+2,712,274
+
+Professional services and other revenue (1)
+
+132,040
+
+127,176
+
+141,271
+
+Total revenue
+
+$
+
+2,148,816
+
+$
+
+2,537,927
+
+$
+
+2,853,545
+
+(1)
+Prior to fiscal 2026, these amounts were presented as separate line items, Professional services and Other non-subscription product, as described below. Prior period amounts have been updated to conform to the current period presentation.
+
+Subscription revenue — Subscription revenue includes any performance obligation which has a defined duration and is generated from the sales of software maintenance subscriptions, support subscriptions, subscription software licenses and cloud-based SaaS offerings.
+
+•
+Ratable — We recognize revenue from software maintenance subscriptions, support subscriptions and SaaS offerings ratably over the contractual service period, the substantial majority of which relate to software maintenance subscriptions and support subscriptions. These offerings represented approximately $1,029.0 million, $1,138.4 million and $1,299.7 million of our subscription revenue for fiscal 2024, 2025 and 2026, respectively.
+
+•
+Upfront — We generally recognize revenue from our subscription software licenses upfront upon the transfer of control to the customer. For sales of our software purchased alongside a server from an OEM or other partner, revenue is typically recognized upon shipment of the server. For software sold separately from a server, revenue is typically recognized when the software is made available to the customer. These subscription software licenses represented approximately $987.8 million, $1,272.4 million and $1,412.6 million of our subscription revenue for fiscal 2024, 2025 and 2026, respectively.
+
+Professional services and other revenue — Includes Professional services revenue and Other non-subscription product revenue, as described below:
+
+•
+Professional services revenue — We also sell professional services with our products. We recognize revenue related to professional services as they are performed. Professional services revenue was approximately $100.9 million, $112.2 million, and $126.6 million for fiscal 2024, 2025 and 2026, respectively.
+
+•
+Other non-subscription product revenue — Includes non-portable software revenue and hardware revenue, which were immaterial for the periods presented.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Non-GAAP Financial Measures and Key Performance Measures
+
+In addition to GAAP metrics, we regularly monitor ARR, non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP operating margin, and free cash flow, which are non-GAAP financial measures and key performance measures, to help us evaluate our growth and operational efficiencies, measure our performance, identify trends in our sales activity, and establish our budgets. We evaluate these measures because they:
+
+•
+are used by management and our Board of Directors to understand and evaluate our performance and trends, as well as to provide a useful measure for period-to-period comparisons of our core business, particularly as we operate a subscription-based business model;
+
+•
+are widely used as a measure of financial performance to understand and evaluate companies in our industry; and
+
+•
+are used by management to prepare and approve our annual budget and to develop short-term and long-term operational and compensation plans, as well as to assess our actual performance against our goals.
+
+ARR is a performance measure that we believe provides useful information to our management and investors as it allows us to better track the top-line growth of our subscription business (including our ability to acquire subscriptions with new customers and to retain and expand with existing customers), while normalizing for differences in contract durations. Non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, and non-GAAP operating margin are performance measures which we believe provide useful information to investors, as they provide meaningful supplemental information regarding our performance and liquidity by excluding certain expenses and expenditures, such as stock-based compensation expense, that may not be indicative of our ongoing core business operating results. Free cash flow is a performance measure that we believe provides useful information to management and investors about the amount of cash generated by the business after capital expenditures. We use these non-GAAP financial and key performance measures for financial and operational decision-making and as a means to evaluate period-to-period comparisons.
+
+Non-GAAP financial measures have limitations as analytical tools and they should not be considered in isolation or as substitutes for analysis of our results as reported under generally accepted accounting principles ("GAAP") in the United States. Non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP operating margin, and free cash flow are not substitutes for gross profit, gross margin, operating expenses, operating income, operating margin, or net cash provided by operating activities, respectively. There is no GAAP measure that is comparable to ARR, so we have not reconciled ARR numbers included in this Annual Report on Form 10-K to any GAAP measure. In addition, other companies, including companies in our industry, may calculate non-GAAP financial measures and key performance measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures and key performance measures as tools for comparison. We urge you to review the reconciliation of our non-GAAP financial measures and key performance measures to the most directly comparable GAAP financial measures included below and not to rely on any single financial measure to evaluate our business.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+We calculate our non-GAAP financial and key performance measures as follows:
+
+ARR — We calculate ARR as the sum of annual contract value ("ACV") for all subscription contracts from all customers in effect as of the end of a specific period, assuming any subscription contract that expires is renewed on its existing terms. ARR excludes the value of professional services, non-portable software and support contracts and hardware sales. For the purposes of this calculation, we generally assume that the contract term begins on the date when the software is made available to the customer. ACV is defined as the total annualized value of a contract. The total annualized value for a contract is calculated by dividing the total value of the contract by the number of years in the term of such contract. Beginning with the first quarter of fiscal 2026, our methodology for calculating ARR was updated to align more closely with the timing of when licenses are made available to customers. Our calculation of ARR is not adjusted for the impact of any known or projected future events (such as customer cancellations, expansion or contraction of existing customers relationships or price increases or decreases) that may cause any subscription contract not to be renewed on its existing terms. ARR is a performance measure that should be viewed independently of revenue and does not represent our revenue under GAAP on an annualized basis or a forecast of GAAP revenue. Investors should not place undue reliance on ARR as an indicator of our future or expected results. ARR does not have any standardized meaning and is therefore unlikely to be comparable to similarly titled performance measures presented by other companies.
+
+Non-GAAP gross profit and Non-GAAP gross margin — We calculate non-GAAP gross margin as non-GAAP gross profit divided by total revenue. We define non-GAAP gross profit as gross profit adjusted to exclude stock-based compensation expense, amortization of acquired intangible assets, restructuring charges, and costs associated with certain other non-recurring transactions. Our presentation of non-GAAP gross profit and non-GAAP gross margin should not be construed as implying that our future results will not be affected by any recurring expenses or any unusual or non-recurring items that we exclude from our calculation of these non-GAAP financial measures.
+
+Non-GAAP operating expenses — We define non-GAAP operating expenses as total operating expenses adjusted to exclude stock-based compensation expense, amortization of acquired intangible assets, restructuring charges, litigation settlement accruals and legal fees related to certain non-ordinary course litigation matters, and costs associated with certain other non-recurring transactions. Our presentation of non-GAAP operating expenses should not be construed as implying that our future results will not be affected by any recurring expenses or any unusual or non-recurring items that we exclude from our calculation of this non-GAAP financial measure.
+
+Non-GAAP operating income and Non-GAAP operating margin — We calculate non-GAAP operating margin as non-GAAP operating income divided by total revenue. We define non-GAAP operating income as operating income adjusted to exclude stock-based compensation expense, amortization of acquired intangible assets, restructuring charges, litigation settlement accruals and legal fees related to certain non-ordinary course litigation matters, and costs associated with certain other non-recurring transactions. Our presentation of non-GAAP operating income and non-GAAP operating margin should not be construed as implying that our future results will not be affected by any recurring expenses or any unusual or non-recurring items that we exclude from our calculation of these non-GAAP financial measures.
+
+Free cash flow — We calculate free cash flow as net cash provided by operating activities less purchases of property and equipment, which measures our ability to generate cash from our business operations after our capital expenditures.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+The following table presents a reconciliation of non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP operating margin, and free cash flow to the most directly comparable GAAP financial measures, for each of the periods indicated:
+
+Fiscal Year Ended July 31,
+
+2024
+
+2025
+
+2026
+
+(in thousands, except percentages)
+
+Gross profit
+
+$
+
+1,824,704
+
+$
+
+2,203,145
+
+$
+
+2,476,796
+
+Stock-based compensation
+
+34,107
+
+30,406
+
+29,740
+
+Amortization of intangible assets
+
+3,392
+
+2,185
+
+Restructuring charges
+
+—
+
+—
+
+3,706
+
+Non-GAAP gross profit
+
+$
+
+1,862,203
+
+$
+
+2,235,736
+
+$
+
+2,510,666
+
+Gross margin
+
+84.9
+
+%
+
+86.8
+
+%
+
+86.8
+
+%
+
+Stock-based compensation
+
+1.6
+
+%
+
+1.2
+
+%
+
+1.1
+
+%
+
+Amortization of intangible assets
+
+0.2
+
+%
+
+0.1
+
+%
+
+—
+
+Restructuring charges
+
+—
+
+—
+
+0.1
+
+%
+
+Non-GAAP gross margin
+
+86.7
+
+%
+
+88.1
+
+%
+
+88.0
+
+%
+
+Operating expenses
+
+$
+
+1,817,141
+
+$
+
+2,030,604
+
+$
+
+2,202,826
+
+Stock-based compensation
+
+(299,726
+
+)
+
+(321,184
+
+)
+
+(327,927
+
+)
+
+Amortization of intangible assets
+
+(317
+
+)
+
+(353
+
+)
+
+(354
+
+)
+
+Restructuring reversals (charges)
+
+—
+
+(23,932
+
+)
+
+Litigation settlement accrual and legal fees
+
+(1,971
+
+)
+
+(9,451
+
+)
+
+(14,899
+
+)
+
+Other
+
+(225
+
+)
+
+—
+
+(408
+
+)
+
+Non-GAAP operating expenses
+
+$
+
+1,515,096
+
+$
+
+1,699,616
+
+$
+
+1,835,306
+
+Operating income
+
+$
+
+7,563
+
+$
+
+172,541
+
+$
+
+273,970
+
+Stock-based compensation
+
+333,833
+
+351,590
+
+357,667
+
+Amortization of intangible assets
+
+3,709
+
+2,538
+
+Restructuring (reversals) charges
+
+(194
+
+)
+
+—
+
+27,638
+
+Litigation settlement accrual and legal fees
+
+1,971
+
+9,451
+
+14,899
+
+Other
+
+—
+
+Non-GAAP operating income
+
+$
+
+347,107
+
+$
+
+536,120
+
+$
+
+675,360
+
+Operating margin
+
+0.4
+
+%
+
+6.8
+
+%
+
+9.6
+
+%
+
+Stock-based compensation
+
+15.5
+
+%
+
+13.8
+
+%
+
+12.6
+
+%
+
+Amortization of intangible assets
+
+0.2
+
+%
+
+0.1
+
+%
+
+—
+
+Restructuring (reversals) charges
+
+—
+
+—
+
+1.0
+
+%
+
+Litigation settlement accrual and legal fees
+
+0.1
+
+%
+
+0.4
+
+%
+
+0.5
+
+%
+
+Other
+
+—
+
+—
+
+—
+
+Non-GAAP operating margin
+
+16.2
+
+%
+
+21.1
+
+%
+
+23.7
+
+%
+
+Net cash provided by operating activities
+
+$
+
+672,931
+
+$
+
+821,456
+
+$
+
+916,688
+
+Purchases of property and equipment
+
+(75,252
+
+)
+
+(71,283
+
+)
+
+(76,013
+
+)
+
+Free cash flow (non-GAAP)
+
+$
+
+597,679
+
+$
+
+750,173
+
+$
+
+840,675
+
+Factors Affecting Our Performance
+
+We believe that our future success will depend on many factors, including those described below. While these areas present significant opportunity, they also present risks that we must manage to achieve successful results. Refer to Part I, Item 1A. "Risk Factors" in this Annual Report on Form 10-K for details. If we are unable to address these challenges, our business and operating results could be materially and adversely affected.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Investment in Profitable Growth
+
+We plan to continue investing in initiatives that support our long-term growth, while also focusing on driving operational efficiencies and prioritizing resources across our business, including in our go-to-market functions. Consistent with these objectives, we regularly evaluate the allocation of resources across our business and expect to continue directing investments toward strategic growth areas, including our agentic and other AI solutions, cloud-native offerings, sales capacity and digital sovereignty-related offerings and capabilities.
+
+Investment in Sales and Marketing – Our ability to drive top-line growth depends, in large part, on our ability to capitalize on our market opportunity, including our ability to recruit, train and retain sufficient numbers of ramped sales personnel. We plan to continue making targeted investments in sales and marketing functions, including initiatives focused on opportunities with major accounts, large deals, and commercial accounts, as well as other initiatives to increase our pipeline growth and support customer adoption of our broader platform capabilities. As we continue to invest in sales capacity and customer-facing resources, it will take time to train and ramp personnel to full productivity. These investments may increase our sales and marketing expense, although productivity initiatives, operational efficiencies and resource reallocations may offset a portion of such increases. We estimate, based on past experience, that our average sales team members typically become fully ramped up around the start of their fourth quarter of employment with us, and as our newer employees ramp up, we expect their increased productivity to contribute to our revenue growth. As we continue to focus some of our newer and existing sales team members on major accounts and large deals, and as we operate our subscription-based business model, it may take longer, potentially significantly, for these sales team members to become fully productive, and there may also be an impact to the overall productivity of our sales team. As part of our overall efforts to improve our operating margin performance, we have also proactively taken steps to increase our go-to-market productivity and over time, we intend to reduce our overall sales and marketing spend as a percentage of revenue. These measures include addressing a growing mix of renewals, which have a lower cost than landing new customers or expanding into our existing customer base, improving the efficiency of our demand generation spend, increasing leverage of our channel partners and OEMs, including supporting new OEMs, and aligning our sales and marketing resources with market opportunities.
+
+Investment in Research and Development – We plan to continue investing in our global research and development teams to support enhancements to our solutions, improve integration with ecosystem partners and expand the range of technologies and features available through our platform. These investments are intended to strengthen our core offerings, expand platform capabilities and ecosystem integrations, and enable us to respond to evolving technology trends, including developments in generative and agentic AI, cloud-native offerings and modern applications across hybrid and multicloud environments.
+
+We believe that these investments will support our long-term growth strategy, although they may result in increased expenses, may not produce the anticipated benefits, and may limit or adversely affect our profitability, operating margins or cash flow.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Our Subscription-Based Business Model
+
+We operate a subscription-based business model to provide our customers with the flexibility to choose their preferred license levels and durations based on their specific business needs. A subscription-based business model means one in which our products, including associated support and maintenance arrangements, are sold with a defined duration. Subscription-based sales consist of subscription term-based licenses and offerings with ongoing performance obligations, including software maintenance subscriptions, support subscriptions and cloud-based SaaS offerings. Revenue from subscription term-based licenses is generally recognized upfront upon transfer of control to the customer, which occurs when we make the software available to the customer. Accordingly, any reduction in the total average contract duration of our subscription term-based licenses would decrease the amount of license revenue recognized upfront and could adversely affect our revenue for the applicable period. Revenue from software maintenance subscriptions, support subscriptions and cloud-based SaaS offerings is recognized ratably over the contractual service period. Accordingly, any decline in such subscriptions, whether new subscriptions or renewals, in any given fiscal quarter may not be fully or immediately reflected in our revenue for that quarter. For additional information on revenue recognition, see Note 2 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K and "Critical Accounting Estimates" later in this "Management’s Discussion and Analysis of Financial Condition and Results of Operations" section.
+
+Market Adoption of Our Products
+
+Hybrid and multicloud architectures, as well as trends in enterprise AI and modern containerized applications, have affected IT buyer expectations around the simplicity, agility, scalability, portability, and pay-as-you-grow economics of IT resources. A key focus of our sales and marketing efforts is creating market awareness of the benefits of our platform. This includes our newer solutions that extend beyond our core hyperconverged infrastructure offering, both as compared to traditional data center architectures, as well as the public cloud, particularly as we continue to pursue large enterprises and mission critical workloads. Our business and operating results will be significantly affected by the degree to and speed with which organizations adopt our platform.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Leveraging Partners
+
+We plan to continue to leverage our relationships with our channel and OEM partners and expand our network of cloud and ecosystem partners, all of which help to drive the adoption and sale of our solutions with our end customers. We sell our solutions primarily through our partners, and our solutions primarily run on hardware platforms that our customers often choose to purchase from our channel or OEM partners. We believe that increasing channel leverage, particularly as we expand our focus on opportunities in commercial accounts, by investing in sales enablement and co-marketing with our channel and OEM partners over the long term will extend and improve our engagement with a broad set of end customers. Our reliance on manufacturers to produce the hardware platforms on which our software typically runs exposes us to supply chain delays, which could impair our ability to deliver solutions to end customers in a timely manner, particularly to the extent that current supply and pricing dynamics continue. Beginning in the latter half of the second quarter of fiscal 2026, constraints affecting the availability of certain hardware components at manufacturers became increasingly acute. These constraints have resulted in higher hardware pricing in the market and extended hardware lead times, which vary across hardware vendors. Higher hardware pricing, together with extended hardware lead times, have impacted, and may continue to impact, customers' ability to deploy and consume our software, which affects the timing of revenue recognition and cash flows from period to period and, in certain instances, may result in some customers delaying projects or otherwise seeking greater flexibility with licensing. Our software platform provides customers with flexibility and choice across deployment options, including hardware vendors, public cloud environments, and a growing set of external storage options, which can help enable customers to better manage how and when they deploy our solutions in periods of supply and pricing volatility. While a majority of our customer transactions involve a software‑only fulfillment motion, in a subset of transactions, customers previously purchased our software in connection with Nutanix‑branded NX‑series hardware platforms. To provide customers in these transactions with greater flexibility when facing extended hardware lead times, beginning in the third quarter of fiscal 2026, we enabled these customers to purchase our software independently of hardware delivery, thereby aligning software provisioning for these transactions with our existing software‑only fulfillment motion. This may impact the timing of revenue recognition and our ARR. Our business and results of operations will be significantly affected by our success in leveraging our relationships with our channel and OEM partners and expanding our network of cloud and ecosystem partners.
+
+Customer Acquisition, Retention and Expansion
+
+Our business and operating results will depend on our ability to obtain new end customers and retain and sell additional solutions to our existing base of end customers. Our ability to obtain new end customers and retain and sell additional solutions to existing customers will in turn depend in part on a number of factors. These factors include our ability to: execute on our business plans, vision, and objectives (including our growth and go-to-market strategies), respond to competitive pressures, effectively maintain existing and future customer relationships, continue to innovate by adding new functionality and improving usability of our solutions in a manner that addresses our end customers’ needs and requirements, and optimally price our solutions in light of marketplace conditions, our ability to respond to competitive pressures, manage our costs, and anticipate and manage customer demand.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Our end customers typically deploy our technology for a specific workload initially. After a new end customer's initial order, which includes the product and associated software maintenance subscriptions, support subscription and services, we focus on expanding our footprint by serving more workloads. We also generate recurring revenue from renewals, and given our subscription-focused business model, these renewals are having an increasing significance for our future revenue streams as existing subscriptions come up for renewal. We view continued purchases and upgrades as critical drivers of our success. As of July 31, 2026, our net dollar-based retention rate ("NRR") was 106%, compared to 109% as of July 31, 2025. NRR is calculated as of the end of a twelve-month period. We calculate NRR by starting with the ARR for all customers with subscription contracts at the beginning of the period. We then divide end-of-the-period ARR for the same customer group by the beginning-of-the-period ARR. NRR is a performance measure that we believe provides useful information to our management and investors as it provides an indication of our ability to retain and expand ARR from our existing customer base.
+
+Over time, our sales pipeline has evolved to include a higher mix of larger deal opportunities, which often take longer to close and require more levels of review from the customer's executive team, involve greater competition, and have greater variability in timing, outcome and deal structure. These trends drive greater variability in our ability to land new customers and expand sales to existing customers, and our top-line results may be adversely affected.
+
+Macroeconomic Conditions
+
+Our overall performance depends in part on worldwide economic and geopolitical conditions and their impact on customer and partner behavior. Macroeconomic conditions, including inflation, fluctuations in interest rates, foreign currency fluctuations, tariffs or other trade restrictions, geopolitical issues, changes in government policy or spending, and other changes in economic conditions, may adversely affect the buying patterns of our customers and prospective customers, including the length of sales cycles, our overall pipeline and pipeline conversion, and our top-line growth expectations. Due to our subscription-focused business model, any impact of the current macroeconomic environment on our business, particularly as a result of changes in our customer and partner behavior, may not be fully reflected in our results of operations until future periods, if at all. As we continue to monitor the direct and indirect impacts of the current environment, the broader implications of macroeconomic conditions on our business, results of operations and financial condition, particularly in the long term, remain uncertain.
+
+Components of Our Results of Operations
+
+Revenue
+
+We generate revenue primarily from the sale of the Nutanix Cloud Platform, sold primarily as subscription term-based licenses, and which can be deployed on a variety of qualified hardware platforms or, in the case of our cloud-based SaaS offerings, via hosted service or delivered pre-installed on a server that is configured to order.
+
+Our subscription term-based licenses are sold separately, or can be sold alongside configured-to-order servers. Our subscription term-based licenses typically have a term of one to five years. Our cloud-based SaaS subscriptions typically have terms extending up to five years.
+
+Our customers generally purchase their qualified hardware platforms for deployment of our software from one of our channel partners or OEMs. Our platform typically includes one or more years of support and maintenance, which provides customers with the right to software upgrades and enhancements as well as technical support. Our platform is primarily sold through channel partners and OEMs. Revenue is recognized net of sales tax and withholding tax.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Product revenue — Product revenue primarily consists of software revenue. A majority of our product revenue is generated from the sale of the Nutanix Cloud Platform. We also sell renewals of previously purchased software licenses and SaaS offerings. We recognize revenue from our software products upon the transfer of control to the customer. For sales of our software purchased alongside a server from an OEM or other partner, revenue is typically recognized upon shipment of the server. For software sold separately from a server, revenue is typically recognized when the software is made available to the customer. For our SaaS offerings, revenue is typically recognized as the services are performed. In the infrequent transactions where the hardware is purchased directly from Nutanix, we consider ourselves to be the principal in the transaction, and we record revenue and costs of goods sold on a gross basis.
+
+Support, maintenance and other services revenue — We generate our support, maintenance and other services revenue primarily from software maintenance subscriptions and support subscriptions, which include the right to software upgrades and enhancements as well as technical support. The majority of our product sales are sold in conjunction with software maintenance subscriptions and support subscriptions, with terms typically ranging from one to five years. Occasionally, we also sell professional services with our products. We recognize revenue from software maintenance subscriptions and support contracts ratably over the contractual service period, which typically commences upon transfer of control of the corresponding products to the customer. We recognize revenue related to professional services as they are performed.
+
+Cost of Revenue
+
+Cost of product revenue — Cost of product revenue consists of costs paid to OEM partners, hardware costs, personnel costs associated with our operations function, consisting of salaries, benefits, bonuses, and stock-based compensation, cloud-based costs associated with our SaaS offerings, and allocated costs. Allocated costs consist of certain facilities, depreciation and amortization, recruiting, and information technology costs that are allocated based on headcount.
+
+Cost of support, maintenance and other services revenue — Cost of support, maintenance and other services revenue includes personnel and operating costs associated with our global customer support and services organization, as well as allocated costs. We expect our cost of support, maintenance and other services revenue to increase in absolute dollars as our support, maintenance and other services revenue increases.
+
+Operating Expenses
+
+Our operating expenses consist of sales and marketing, research and development and general and administrative expenses. The largest component of our operating expenses is personnel costs. Personnel costs consist of wages, benefits, bonuses and, with respect to sales and marketing expenses, sales commissions.
+
+Sales and marketing — Sales and marketing expense consists primarily of personnel costs, including sales commissions. Sales and marketing expense also includes costs for promotional activities and other marketing costs, travel expenses, costs associated with demonstration units, including depreciation, and allocated costs. Commissions are deferred and recognized as we recognize the associated revenue. We expect sales and marketing expense to continue, in the long term, to increase in absolute dollars as part of our long-term plans to invest in our growth. However, as part of our overall efforts to improve our operating cash flow performance, we have also proactively taken steps to increase our go-to-market productivity and over time, we intend to reduce our overall sales and marketing spend as a percentage of revenue. As we continue to invest in sales capacity and customer-facing resources, it will take time to train and ramp personnel to full productivity. As a result, our sales and marketing expense may fluctuate.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Research and development — Research and development ("R&D") expense consists primarily of personnel costs, as well as other direct and allocated costs. We have devoted our product development efforts primarily to enhancing the functionality and expanding the capabilities of our solutions. R&D costs are expensed as incurred, unless they meet the criteria for capitalization. We expect R&D expense, in the long term, to increase in absolute dollars as part of our long-term plans to invest in our future products and services, including our newer subscription-based products, although R&D expense may fluctuate as a percentage of total revenue and, on an absolute basis, from quarter to quarter.
+
+General and administrative — General and administrative ("G&A") expense consists primarily of personnel costs, which include our executive, finance, human resources, and legal organizations. G&A expense also includes outside professional services, which consists primarily of legal, accounting and other consulting costs, as well as insurance and other costs associated with being a public company and allocated costs. We expect G&A expense, in the long term, to increase in absolute dollars, particularly due to additional legal, accounting, insurance, and other costs associated with our growth, although G&A expense may fluctuate as a percentage of total revenue and, on an absolute basis, from quarter to quarter.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of the amortization of the debt discount and debt issuance costs associated with our previously outstanding 2.50% convertible senior notes due 2026 (the "2026 Notes"), our outstanding 0.25% convertible senior notes due 2027 (the "2027 Notes"), and our outstanding 0.50% convertible senior notes due 2029 (the "2029 Notes"), the amortization of the debt issuance costs associated with our revolving credit agreement (the "Revolver"), non-cash interest expense on the 2026 Notes, interest expense related to the conversion of the 2026 Notes in full, interest expense on the 2027 Notes, 2029 Notes, and the Revolver, inducement expense related to the partial repurchase of the 2027 Notes, changes in the fair value of convertible notes receivable, interest income related to our short-term investments, and foreign currency exchange gains or losses.
+
+Provision for Income Taxes
+
+Provision for income taxes consists of federal and state income taxes in the United States and income taxes for foreign jurisdictions in which we conduct business. We regularly assess the need for a valuation allowance against our deferred tax assets based on historical taxable income, projected future taxable income, and the expected timing of the reversals of existing taxable temporary differences by jurisdiction. Ultimately, the realization of deferred tax assets is dependent upon the generation of future taxable income during those periods in which temporary differences become deductible and/or tax credits and tax loss carry-forwards can be utilized. In making that assessment, we consider both positive and negative evidence related to the likelihood of realization of deferred tax assets to determine, based on the weight of all available evidence, whether it is more-likely-than-not that some or all of the deferred tax assets will be realized.
+
+As of July 31, 2026, we reported a cumulative three-year U.S. pre-tax profit and sustained profitability in recent operating periods. This information is both objective and verifiable; thereby representing strong positive evidence that carries significant weight. In addition, based on our available financial forecast, we expect continuing profitability in the U.S. We also considered forecasts of future taxable income and evaluated the utilization of net operating loss and tax credit carryforwards prior to their expiration. Based on all available positive and negative evidence, including the objective and verifiable positive evidence as described above and anticipated future earnings, we concluded it is more-likely-than-not that a majority of our U.S. federal and state deferred tax assets will be realizable. We continue to maintain a valuation allowance against the California R&D credits as of July 31, 2026, as we expect California R&D tax credit generation to exceed our ability to use these credits in future periods.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Results of Operations
+
+The following tables set forth our consolidated results of operations in dollars and as a percentage of total revenue for the fiscal years presented. The period-to-period comparison of results is not necessarily indicative of results for future periods.
+
+Fiscal Year Ended July 31,
+
+2024
+
+2025
+
+2026
+
+(in thousands)
+
+Revenue:
+
+Product
+
+$
+
+1,067,948
+
+$
+
+1,341,374
+
+$
+
+1,489,693
+
+Support, maintenance and other services
+
+1,080,868
+
+1,196,553
+
+1,363,852
+
+Total revenue
+
+2,148,816
+
+2,537,927
+
+2,853,545
+
+Cost of revenue:
+
+Product (1)(2)
+
+36,441
+
+28,341
+
+21,443
+
+Support, maintenance and other services (1)
+
+287,671
+
+306,441
+
+355,306
+
+Total cost of revenue
+
+324,112
+
+334,782
+
+376,749
+
+Gross profit
+
+1,824,704
+
+2,203,145
+
+2,476,796
+
+Operating expenses:
+
+Sales and marketing (1)(2)
+
+977,286
+
+1,056,465
+
+1,150,278
+
+Research and development (1)
+
+638,992
+
+736,823
+
+790,892
+
+General and administrative (1)
+
+200,863
+
+237,316
+
+261,656
+
+Total operating expenses
+
+1,817,141
+
+2,030,604
+
+2,202,826
+
+Income from operations
+
+7,563
+
+172,541
+
+273,970
+
+Other (expense) income, net
+
+(108,881
+
+)
+
+39,107
+
+53,138
+
+(Loss) income before provision for (benefit from) income taxes
+
+(101,318
+
+)
+
+211,648
+
+327,108
+
+Provision for (benefit from) income taxes
+
+23,457
+
+23,282
+
+(1,179,729
+
+)
+
+Net (loss) income
+
+$
+
+(124,775
+
+)
+
+$
+
+188,366
+
+$
+
+1,506,837
+
+(1) Includes stock-based compensation expense as
+
+follows:
+
+Product cost of revenue
+
+$
+
+6,822
+
+$
+
+2,824
+
+$
+
+1,550
+
+Support, maintenance and other services cost of revenue
+
+27,285
+
+27,582
+
+28,190
+
+Sales and marketing
+
+80,190
+
+80,930
+
+82,402
+
+Research and development
+
+156,784
+
+175,361
+
+180,844
+
+General and administrative
+
+62,752
+
+64,893
+
+64,681
+
+Total stock-based compensation expense
+
+$
+
+333,833
+
+$
+
+351,590
+
+$
+
+357,667
+
+(2) Includes amortization of intangible assets as follows:
+
+Product cost of revenue
+
+$
+
+3,392
+
+$
+
+2,185
+
+$
+
+Sales and marketing
+
+Total amortization of intangible assets
+
+$
+
+3,709
+
+$
+
+2,538
+
+$
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Fiscal Year Ended July 31,
+
+2024
+
+2025
+
+2026
+
+(as a percentage of total revenue)
+
+Revenue:
+
+Product
+
+49.7
+
+%
+
+52.9
+
+%
+
+52.2
+
+%
+
+Support, maintenance and other services
+
+50.3
+
+%
+
+47.1
+
+%
+
+47.8
+
+%
+
+Total revenue
+
+100.0
+
+%
+
+100.0
+
+%
+
+100.0
+
+%
+
+Cost of revenue:
+
+Product
+
+1.7
+
+%
+
+1.1
+
+%
+
+0.8
+
+%
+
+Support, maintenance and other services
+
+13.4
+
+%
+
+12.1
+
+%
+
+12.4
+
+%
+
+Total cost of revenue
+
+15.1
+
+%
+
+13.2
+
+%
+
+13.2
+
+%
+
+Gross profit
+
+84.9
+
+%
+
+86.8
+
+%
+
+86.8
+
+%
+
+Operating expenses:
+
+Sales and marketing
+
+45.5
+
+%
+
+41.6
+
+%
+
+40.3
+
+%
+
+Research and development
+
+29.7
+
+%
+
+29.0
+
+%
+
+27.7
+
+%
+
+General and administrative
+
+9.3
+
+%
+
+9.4
+
+%
+
+9.2
+
+%
+
+Total operating expenses
+
+84.5
+
+%
+
+80.0
+
+%
+
+77.2
+
+%
+
+Income from operations
+
+0.4
+
+%
+
+6.8
+
+%
+
+9.6
+
+%
+
+Other (expense) income, net
+
+(5.1
+
+)%
+
+1.5
+
+%
+
+1.9
+
+%
+
+(Loss) income before provision for (benefit from) income taxes
+
+(4.7
+
+)%
+
+8.3
+
+%
+
+11.5
+
+%
+
+Provision for (benefit from) income taxes
+
+1.1
+
+%
+
+0.9
+
+%
+
+(41.3
+
+)%
+
+Net (loss) income
+
+(5.8
+
+)%
+
+7.4
+
+%
+
+52.8
+
+%
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Comparison of the Fiscal Years Ended July 31, 2025 and 2026
+
+Revenue
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Product
+
+$
+
+1,341,374
+
+$
+
+1,489,693
+
+$
+
+148,319
+
+%
+
+Support, maintenance
+
+and other services
+
+1,196,553
+
+1,363,852
+
+167,299
+
+%
+
+Total revenue
+
+$
+
+2,537,927
+
+$
+
+2,853,545
+
+$
+
+315,618
+
+%
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+U.S.
+
+$
+
+1,409,367
+
+$
+
+1,530,445
+
+$
+
+121,078
+
+%
+
+Europe, the Middle
+
+East and Africa
+
+685,569
+
+831,422
+
+145,853
+
+%
+
+Asia Pacific
+
+392,744
+
+417,787
+
+25,043
+
+%
+
+Other Americas
+
+50,247
+
+73,891
+
+23,644
+
+%
+
+Total revenue
+
+$
+
+2,537,927
+
+$
+
+2,853,545
+
+$
+
+315,618
+
+%
+
+Product revenue increased year-over-year by approximately $148.3 million, or 11%, for fiscal 2026 due primarily to increases in software revenue as a result of increased adoption of our products, driven by growth in software renewals and the various programs we have put in place to attract new customers onto our platform and expand with existing customers.
+
+Support, maintenance and other services revenue increased year-over-year by approximately $167.3 million, or 14%, for fiscal 2026 in conjunction with the growth of our end customer base, which grew approximately 11% during fiscal 2026, and the related software maintenance and support subscription contracts and renewals.
+
+The total average contract duration was approximately 3.1 years and 3.2 years for fiscal 2025 and 2026, respectively. Total average contract duration represents the dollar-weighted term across all subscription contracts, as well as our limited number of life-of-device contracts, billed during the period, using an assumed term of five years for licenses without a specified term, such as life-of-device licenses.
+
+Cost of Revenue and Gross Margin
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Cost of product revenue
+
+$
+
+28,341
+
+$
+
+21,443
+
+$
+
+(6,898
+
+)
+
+(24
+
+)%
+
+Product gross margin
+
+97.9
+
+%
+
+98.6
+
+%
+
+Cost of support,
+
+maintenance and
+
+other services revenue
+
+$
+
+306,441
+
+$
+
+355,306
+
+$
+
+48,865
+
+%
+
+Support, maintenance
+
+and other services
+
+gross margin
+
+74.4
+
+%
+
+73.9
+
+%
+
+Total gross margin
+
+86.8
+
+%
+
+86.8
+
+%
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Cost of product revenue
+
+Cost of product revenue decreased year-over-year for fiscal 2026 due primarily to a decrease in overhead resulting from lower operating lease and finance lease costs.
+
+Product gross margin increased by approximately 0.7 percentage points in fiscal 2026 due to product revenue increasing while cost of product revenue decreased.
+
+Cost of support, maintenance and other services revenue
+
+Cost of support, maintenance and other services revenue increased year-over-year for fiscal 2026 due primarily to higher personnel-related costs, including costs for contractors, resulting from growth in our global customer support organization, as well as an increase in severance expense due to the headcount reduction announced in August 2026. For additional information on the headcount reduction, refer to Note 10 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Support, maintenance and other services gross margin decreased by 0.5 percentage points in fiscal 2026 due primarily to personnel-related costs growing at a slightly faster rate than support, maintenance and other services revenue.
+
+Operating Expenses
+
+Sales and marketing
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Sales and marketing
+
+$
+
+1,056,465
+
+$
+
+1,150,278
+
+$
+
+93,813
+
+%
+
+Percent of total revenue
+
+41.6
+
+%
+
+40.3
+
+%
+
+Sales and marketing expense increased year-over-year due primarily to higher personnel-related costs, resulting from the 3% growth in our sales and marketing headcount from July 31, 2025 to July 31, 2026, as well as an increase in severance expense due to the headcount reduction announced in August 2026. For additional information on the headcount reduction, refer to Note 10 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Research and development
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Research and development
+
+$
+
+736,823
+
+$
+
+790,892
+
+$
+
+54,069
+
+%
+
+Percent of total revenue
+
+29.0
+
+%
+
+27.7
+
+%
+
+Research and development expense increased year-over-year due primarily to higher personnel-related costs, resulting from the 5% growth in our R&D headcount from July 31, 2025 to July 31, 2026, as well as an increase in severance expense due to the headcount reduction announced in August 2026. Research and development expense also increased due to higher IT and facilities costs, partially offset by an increase in reimbursements for technical costs related to certain partner programs. For additional information on the headcount reduction, refer to Note 10 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+General and administrative
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+General and administrative
+
+$
+
+237,316
+
+$
+
+261,656
+
+$
+
+24,340
+
+%
+
+Percent of total revenue
+
+9.4
+
+%
+
+9.2
+
+%
+
+General and administrative expense increased year-over-year due primarily to higher personnel-related costs resulting from the 9% growth in our G&A headcount from July 31, 2025 to July 31, 2026.
+
+Other Income (Expense), Net
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Interest income, net
+
+$
+
+62,310
+
+$
+
+76,647
+
+$
+
+14,337
+
+%
+
+Amortization of debt
+
+discount and issuance
+
+costs and interest
+
+expense
+
+(8,378
+
+)
+
+(11,984
+
+)
+
+(3,606
+
+)
+
+(43
+
+)%
+
+Inducement expense
+
+(11,347
+
+)
+
+—
+
+11,347
+
+%
+
+Other
+
+(3,478
+
+)
+
+(11,525
+
+)
+
+(8,047
+
+)
+
+(231
+
+)%
+
+Other income (expense), net
+
+$
+
+39,107
+
+$
+
+53,138
+
+$
+
+14,031
+
+%
+
+The increase in other income (expense), net for fiscal 2026 was due primarily to an increase in interest income from our short-term investments which increased from approximately $1,223.2 million as of July 31, 2025 to $1,584.2 million as of July 31, 2026, as well as approximately $11.3 million of one-time inducement expense recognized during the second quarter of fiscal 2025 related to the partial repurchase of the 2027 Notes. The increase in other income (expense), net was partially offset by the decrease in the fair value of our convertible note receivable, an increase in foreign exchange expense, and an increase in interest expense related to our convertible notes, as the 2029 Notes were issued during the second quarter of fiscal 2025.
+
+Provision for Income Taxes
+
+Fiscal Year Ended
+
+July 31,
+
+Change
+
+2025
+
+2026
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Provision for (benefit from) income taxes
+
+$
+
+23,282
+
+$
+
+(1,179,729
+
+)
+
+$
+
+(1,203,011
+
+)
+
+(5167
+
+)%
+
+The year-over-year decrease in the provision for income taxes in fiscal 2026 was due primarily to the release of $1,208.2 million of our valuation allowance on the majority of our U.S. federal and state deferred tax assets and the lapse of the statute of limitations for certain foreign uncertain tax positions.
+
+Liquidity and Capital Resources
+
+Our principal sources of liquidity are cash, cash equivalents and marketable securities and net accounts receivable. As of July 31, 2026, we had approximately $777.3 million of cash and cash equivalents, and $1,584.2 million of short-term investments, which were held for general corporate purposes. Our restricted cash balance was not material. Our cash, cash equivalents and short-term investments primarily consist of bank deposits, money market accounts and highly rated debt instruments of the U.S. government and its agencies and debt instruments of highly rated corporations. As of July 31, 2026, we had accounts receivable of approximately $289.3 million, net of allowances of $3.3 million.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+In September 2021, we issued convertible senior notes with a 0.25% interest rate for an aggregate principal amount of $575.0 million due 2027, of which $477.3 million in principal amount was issued in exchange for approximately $416.5 million principal amount of the 2023 Notes and the remaining $97.7 million in principal amount was issued for cash. There are no required principal payments on the 2027 Notes prior to their maturity.
+
+In December 2024, we issued convertible senior notes with a 0.50% interest rate for an aggregate principal amount of $862.5 million due 2029. We used approximately $95.5 million of the net proceeds from the offering to repurchase $75.0 million aggregate principal amount of the outstanding 2027 Notes. There are no required principal payments on the 2029 Notes prior to their maturity.
+
+In February 2025, we entered into the Revolver, a revolving credit agreement that provides for a senior secured revolving credit facility in an aggregate principal amount of $500.0 million, including a $25.0 million sublimit for the issuance of letters of credit. The Revolver matures in February 2030, subject to earlier springing maturity under certain circumstances. As of July 31, 2026, we had no borrowings and an immaterial amount of letters of credit outstanding under the Revolver. The Revolver contains customary affirmative and negative covenants (including a financial covenant and restrictions on liens, investments, indebtedness, fundamental changes, restricted payments, transactions with affiliates, prepayments of subordinated debt and other matters, all subject to certain exceptions). The financial covenant requires us to maintain a total leverage ratio of less than or equal to 3.75:1.00, tested at the end of each fiscal quarter. As of July 31, 2026, we were in compliance with the financial covenant.
+
+For additional information regarding our debt offerings, see Note 5 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+In May 2026, we completed the issuance and sale of 4,136,789 shares of our Class A common stock to Advanced Micro Devices, Inc. at a purchase price of $36.26 per share, for aggregate cash proceeds of approximately $150.0 million.
+
+We believe that our cash, cash equivalents and short-term investments, available borrowing capacity under the Revolver, and our expected net cash provided by operating activities will be sufficient to meet our anticipated cash needs, including for working capital, capital expenditures, share repurchases (if any), the payment of taxes related to the net share settlement of equity awards, and interest and other obligations related to convertible notes, for at least the next 12 months. Our future cash needs will depend on many factors, including our growth strategy and plans, the timing and extent of spending to support research and development and engineering efforts; the expansion of sales and marketing activities; the introduction of new and enhanced product and service offerings; the continuing market acceptance of our products; our end customers and partners; any acquisitions of businesses, technologies or products; any share repurchases; the timing of customer billings and collections, including any increased flexibility we may offer in payment arrangements; and market, economic and financial conditions (including inflation and interest rates). Holders of the 2027 Notes or the 2029 Notes will be entitled to convert their 2027 Notes or 2029 Notes under certain circumstances as described in Note 5 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K. If one or more holders elect to convert their 2027 Notes or 2029 Notes, as applicable, we may elect to satisfy our conversion obligation by delivering shares of our Class A common stock or a combination of cash and shares of Class A common stock, rather than exclusively in cash. As of July 31, 2026, our Class A common stock price exceeded the conversion price of the 2027 Notes but not the conversion price of the 2029 Notes. Holders of the 2027 Notes and the 2029 Notes may become entitled to convert their notes upon satisfaction of the applicable conversion conditions described in Note 5 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Purchase Obligations, Lease Commitments and Other Obligations
+
+As of July 31, 2026, we had non-cancelable contractual purchase obligations of $248.3 million, of which $219.1 million was short-term. These purchase obligations primarily include guarantees with our contract manufacturer and purchase obligations and other commitments pertaining to our daily business operations.
+
+As of July 31, 2026, we had aggregate future minimum lease payments under non-cancelable operating leases and finance leases were $266.3 million, of which $60.2 million was short-term. Non-cancelable leases include leases that have been executed, but not yet commenced. We lease offices, research and development facilities, and data centers under operating leases expiring through April 2035 and lease certain data center equipment under finance leases.
+
+As of July 31, 2026, we had accrued liabilities related to uncertain tax positions, which are reflected on our consolidated balance sheet. These accrued liabilities are not reflected in the contractual obligations disclosed above, as it is uncertain if or when such amounts will ultimately be settled. Uncertain tax positions are further discussed in Note 12 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Capital Return
+
+In August 2023, our Board of Directors authorized the repurchase of up to $350.0 million of our Class A common stock. In August 2025 and April 2026, our Board of Directors approved increases of $350.0 million and $750.0 million, respectively, to the share repurchase authorization. Repurchases will be funded from available liquidity and may be made from time to time through open market purchases, through privately negotiated transactions, or by other means, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act in accordance with applicable securities laws and other restrictions. The timing and amount of share repurchases will depend upon prevailing stock prices, business and market conditions, corporate and regulatory requirements, alternative investment opportunities, and other factors. The authorization has no expiration date, may be modified, suspended or discontinued at any time, and does not obligate us to repurchase any minimum number of shares. For more information on the share repurchase, refer to Note 8 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Cash Flows
+
+The following table summarizes our cash flows for the periods presented:
+
+Fiscal Year Ended July 31,
+
+2024
+
+2025
+
+2026
+
+(in thousands)
+
+Net cash provided by operating activities
+
+$
+
+672,931
+
+$
+
+821,456
+
+$
+
+916,688
+
+Net cash provided by (used in) investing activities
+
+529,589
+
+(951,687
+
+)
+
+(435,854
+
+)
+
+Net cash (used in) provided by financing activities
+
+(1,062,629
+
+)
+
+244,086
+
+(473,029
+
+)
+
+Net increase in cash, cash equivalents and restricted cash
+
+$
+
+139,891
+
+$
+
+113,855
+
+$
+
+7,805
+
+Cash Flows from Operating Activities
+
+Net cash provided by operating activities was approximately $821.5 million and $916.7 million for fiscal 2025 and 2026, respectively, representing an improvement of approximately $95.2 million. The increase in cash generated from operating activities for fiscal 2026 was due primarily to the $1,318.5 million increase in our net income from operations, $357.7 million of stock-based compensation expense, and a $315.0 million increase in deferred revenue, partially offset by $1,198.9 million of deferred income taxes related to the release of our valuation allowance on the majority of our U.S. federal and state deferred tax assets.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities of approximately $951.7 million for fiscal 2025 included approximately $1,359.6 million of short-term investment purchases and $71.3 million of purchases of property and equipment, partially offset by $476.2 million of maturities of short-term investments and $3.0 million of sales of short-term investments.
+
+Net cash used in investing activities of approximately $435.9 million for fiscal 2026 included approximately $1,167.8 million of short-term investment purchases and $76.0 million of purchases of property and equipment, partially offset by $805.2 million of maturities of short-term investments and $2.8 million of sales of short-term investments.
+
+Cash Flows from Financing Activities
+
+Net cash provided by financing activities of approximately $244.1 million for fiscal 2025 included approximately $848.0 million of net proceeds from the issuance of the 2029 Notes and $68.9 million of proceeds from the sale of shares through employee equity incentive plans, partially offset by approximately $307.9 million of repurchases of our Class A common stock, $256.6 million of taxes paid related to the net share settlement of equity awards, $95.5 million related to the partial repurchase of the 2027 Notes, $6.6 million of other financing activities, $3.4 million of third-party debt issuance costs related to the issuance of the 2029 Notes, and $2.8 million of issuance costs related to the Revolver.
+
+Net cash used in financing activities of approximately $473.0 million for fiscal 2026 included approximately $483.5 million of repurchases of our Class A common stock, $195.5 million of taxes paid related to the net share settlement of equity awards, and $5.4 million of other financing activities, partially offset by $150.0 million of proceeds from the sale of shares through private placement and $61.4 million of proceeds from the sale of shares through employee equity incentive plans.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements are prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires management to make estimates, assumptions and judgments that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the applicable periods. We evaluate our estimates, assumptions and judgments on an ongoing basis. Our estimates, assumptions and judgments are based on historical experience and various other factors that we believe to be reasonable under the circumstances. Different assumptions and judgments would change the estimates used in the preparation of our consolidated financial statements, which, in turn, could change the results from those reported.
+
+The critical accounting estimates, assumptions and judgments that we believe have the most significant impact on our consolidated financial statements are described below.
+
+Revenue Recognition
+
+Some of our contracts with customers contain multiple performance obligations. Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment. For these contracts, we account for individual performance obligations separately if they are distinct. The transaction price is allocated to the separate performance obligations on a relative standalone selling price ("SSP") basis. For deliverables that we routinely sell separately, such as software maintenance subscriptions and support subscriptions on our core offerings, we determine SSP by evaluating the standalone sales over the trailing 12 months. For those that are not sold routinely, we determine SSP based on our overall pricing trends and objectives, taking into consideration market conditions and other factors, including the value of our contracts, the products sold, and geographic locations.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+If the contract contains a single performance obligation, the entire transaction price is allocated to the single performance obligation. Contracts that contain multiple performance obligations require an allocation of the transaction price to each performance obligation based on a relative SSP. We determine SSP based on the price at which the performance obligation is sold separately. If the SSP is not observable through past transactions, we estimate the SSP, taking into account available information such as market conditions and internally approved pricing guidelines related to the performance obligations. We apply judgment in determining the transaction price for contracts with alternative payment arrangements. Refer to Note 1 and Note 2 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for additional information on revenue recognition.
+
+Income Taxes
+
+The objectives of accounting for income taxes are to recognize the amount of taxes payable or refundable for the current year and deferred tax liabilities and assets for the future tax consequences of events that have been recognized in an entity’s financial statements or tax returns. We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. We recognize uncertain tax positions only if it is more likely than not to be sustained based solely on its technical merits as of the reporting date. We consider many factors when evaluating and estimating our tax positions and tax benefits, which may require periodic adjustments and which may not accurately anticipate actual outcomes. Judgment is required in assessing the future tax consequences of events that have been recognized in our consolidated financial statements or tax returns. Variations in the actual outcome of these future tax consequences could materially impact our consolidated financial statements.
+
+A valuation allowance is recorded to reduce deferred tax assets to the amount more likely than not to be realized. Significant judgment is required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made.
+
+Stock-Based Compensation
+
+We measure and recognize compensation expense for all stock-based awards, including stock options and purchase rights issued to employees under our 2016 Employee Stock Purchase Plan ("2016 ESPP"), based on the estimated fair value of the awards on the grant date. We use the Black-Scholes-Merton ("Black-Scholes") option pricing model to estimate the fair value of stock options and 2016 ESPP purchase rights. The fair value of restricted stock units ("RSUs") is measured using the fair value of our common stock on the date of the grant. The fair value of awards with a market-based condition is measured using a Monte Carlo simulation.
+
+The fair value of stock options and RSUs with a service condition is recognized as expense on a straight-line basis over the requisite service period, which is generally four years. For stock-based awards granted to employees with a performance condition, we recognize stock-based compensation expense using the graded vesting attribution method over the requisite service period when management determines it is probable that the performance condition will be satisfied. For stock-based awards with a market-based condition, we recognize stock-based compensation expense using the graded vesting attribution method over the requisite service period, regardless of achievement, provided the requisite service condition is met. The fair value of the 2016 ESPP purchase rights is recognized as expense on a straight-line basis over the offering period. We account for forfeitures of all share-based awards when they occur.
+
+NUTANIX, INC.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations (Continued)
+
+Our use of the Black-Scholes option pricing model requires the input of subjective assumptions, including the fair value of the underlying common stock, expected term of the option, expected volatility of the price of our common stock, risk-free interest rates and the expected dividend yield of our common stock. The assumptions used in our option pricing model represent management’s best estimates. These estimates involve inherent uncertainties and the application of management’s judgment. If factors change and different assumptions are used, our stock-based compensation expense could be materially different in the future.
+
+Legal and Other Contingencies
+
+The outcomes of legal proceedings and claims brought against us are subject to significant uncertainty. An estimated loss from a loss contingency such as a legal proceeding or claim is accrued by a charge to income if it is probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. In determining whether a loss should be accrued, we evaluate, among other factors, the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of loss. Changes in these factors could materially impact our consolidated financial statements.
+
+Recent Accounting Pronouncements
+
+Refer to "Recent Accounting Pronouncements" in Note 1 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K.

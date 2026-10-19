@@ -1,0 +1,135 @@
+{
+  "ticker": "DT",
+  "company_name": "Dynatrace",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001773383-26-000019",
+  "filing_date": "2026-05-20",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T00:59:15",
+  "prompt_chars": 52472,
+  "filing_chars": 32470,
+  "filing_words_sent": 4568,
+  "approx_prompt_tokens": 13118,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Leadership programs and a global mentoring program for employees",
+        "quote": "We utilize leadership programs, a global mentoring program, and other initiatives that foster connection across our distributed workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability > Human Capital Management > Investing in people and building the future",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Career frameworks and internal mobility programs for employees",
+        "quote": "Our approach includes career frameworks, opportunities for internal mobility, and programs that provide employees with opportunities to grow and contribute.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability > Human Capital Management > Attracting and retaining the right talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee resource groups supporting an inclusive workforce",
+        "quote": "Our employee resource groups play a strategic role in advancing an inclusive and supportive workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability > Human Capital Management > Supporting an inclusive environment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "In-house research and development of the company's own software platform",
+        "quote": "We utilize an agile development process with 100% test automation to deliver major software releases throughout the year and hundreds of minor releases, fixes and updates.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Research and Development",
+        "status": "current",
+        "indicators": "100%",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: company's own innovation only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers observability, security and AI operations software and shows no creative activity. Office layouts that 'support creativity' are general language, and 'design' refers to engineering."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: the only qualifying activities are employee development (leadership programs, global mentoring, career frameworks), so the Community cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 2: employee resource groups are described with no figures. Coverage is insufficient under condition 2 because the inclusion-related discussion is under about 150 words."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the filing shows only the company's own R&D and innovation, with sales aimed at the largest 15,000 companies and no service enabling founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Dynatrace University (online self-service education for customers and partners), Dynatrace Community and customer events were not scored for Community: the filing frames them in Sales and Marketing as nurturing the customer base, which falls under the 'educating customers as marketing' trap. The 'thousands of individuals trained or certified' figure describes GSI partners' own technical readiness investment, not a Dynatrace program, so it was not scored. 'Services the communities that we impact' and 'strengthening belonging' are general language. Operating in about 40 countries and serving customers in over 110 countries does not count for Cross-cultural. The filing refers to a December 2025 Sustainability Report at www.dynatrace.com/company/sustainability/ (main domain), so the Cross-cultural insufficient coverage triggers the second look.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DT\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Leadership programs and a global mentoring program for employees\",\"quote\":\"We utilize leadership programs, a global mentoring program, and other initiatives that foster connection across our distributed workforce.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sustainability > Human Capital Management > Investing in people and building the future\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Career frameworks and internal mobility programs for employees\",\"quote\":\"Our approach includes career frameworks, opportunities for internal mobility, and programs that provide employees with opportunities to grow and contribute.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sustainability > Human Capital Management > Attracting and retaining the right talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Employee resource groups supporting an inclusive workforce\",\"quote\":\"Our employee resource groups play a strategic role in advancing an inclusive and supportive workforce.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sustainability > Human Capital Management > Supporting an inclusive environment\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E4\",\"activity\":\"In-house research and development of the company's own software platform\",\"quote\":\"We utilize an agile development process with 100% test automation to deliver major software releases throughout the year and hundreds of minor releases, fixes and updates.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Research and Development\",\"status\":\"current\",\"indicators\":\"100%\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: company's own innovation only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers observability, security and AI operations software and shows no creative activity. Office layouts that 'support creativity' are general language, and 'design' refers to engineering.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: the only qualifying activities are employee development (leadership programs, global mentoring, career frameworks), so the Community cap of 2 applies.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 2: employee resource groups are described with no figures. Coverage is insufficient under condition 2 because the inclusion-related discussion is under about 150 words.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the filing shows only the company's own R&D and innovation, with sales aimed at the largest 15,000 companies and no service enabling founders or small businesses.\"}},\"notes\":\"The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Dynatrace University (online self-service education for customers and partners), Dynatrace Community and customer events were not scored for Community: the filing frames them in Sales and Marketing as nurturing the customer base, which falls under the 'educating customers as marketing' trap. The 'thousands of individuals trained or certified' figure describes GSI partners' own technical readiness investment, not a Dynatrace program, so it was not scored. 'Services the communities that we impact' and 'strengthening belonging' are general language. Operating in about 40 countries and serving customers in over 110 countries does not count for Cross-cultural. The filing refers to a December 2025 Sustainability Report at www.dynatrace.com/company/sustainability/ (main domain), so the Cross-cultural insufficient coverage triggers the second look.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 17722,
+      "output_tokens": 4366,
+      "duration_ms": 40630
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. The following discussion contains forward looking statements that are based on current plans, expectations and beliefs that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward looking statements as a result of various factors, including, but not limited to, those identified below and those discussed in the section titled “Risk Factors” and other sections, including the “Special Note Regarding Forward-Looking Statements,” of this Annual Report on Form 10-K. Our historical results are not necessarily indicative of the results that may be expected for any period in the future. Discussion regarding our financial condition and results of operations for the fiscal year ended January 31, 2025 compared to the fiscal year ended January 31, 2024 can be found in “Management's Discussion and Analysis of Financial Condition and Results of Operations” in our final prospectus for our initial public offering (“IPO”), dated October 29, 2025, filed with the Securities and Exchange Commission on October 31, 2025, which is incorporated herein by reference.
+
+Overview
+
+Navan is a global AI-powered business travel and expense platform that makes travel easy for frequent travelers. Since our inception, we have leveraged technology to reimagine business travel. We built a comprehensive platform that serves as the foundation for further disruption. We deliver personalized experiences for users, efficiency and control for customers, and direct market access for suppliers — all powered by our proprietary AI framework, Navan Cognition.
+
+We generate revenue on a usage or subscription basis from the following:
+
+•Customers: Our customers include companies and organizations that contract with us to provide their employees (our users) with access to our Travel offerings or Expense Management offering. We typically enter into annual or multi-year contracts whereby customers pay a per-trip or per-transaction fee for access to our Travel offering or on-demand Travel Management offerings (our VIP, Meetings and Events, and Bleisure offerings) and pay an annual subscription fee for access to our Expense Management offering.
+
+•Suppliers: Our suppliers include airlines, hotels, rental car companies, rail carriers, providers of global distribution systems (“GDS”), and travel inventory providers. We earn revenue from our suppliers in the form of commissions based on the dollar volume of bookings made by users on our platform and a commission rate for each supplier.
+
+•Payment partners: Our payment partners primarily include corporate card payment processors and card issuing partners. We earn revenue from our payment partners from fees based on the dollar volume of spend on our corporate cards.
+
+Initial Public Offering
+
+On October 31, 2025, we completed our initial public offering (the “IPO”) in which we issued and sold 30,000,000 shares of our Class A common stock at a public offering price of $25.00 per share, which resulted in net proceeds of $713.3 million after deducting underwriting discounts and before deducting offering costs. In addition, selling stockholders sold 6,924,406 shares of Class A common stock in the IPO at the public offering price of $25.00 per share. We did not receive any proceeds from the sale of Class A common stock by the selling stockholders.
+
+Key Business Metrics
+
+We monitor and review a number of metrics, including the following key business metrics, to evaluate our business, measure our performance, identify trends affecting our business, formulate financial projections, and make strategic decisions. We believe that these key business metrics provide meaningful supplemental information in assessing our operating performance.
+
+Year Ended January 31, | 2025 to 2026 | 2024 to 2025
+
+2026 | 2025 | 2024 | % Growth | % Growth
+
+(dollars in billions)
+
+Gross booking volume (GBV) | $ | 9.1 | $ | 6.6 | 5.0 | 38 | % | 32 | %
+
+Payment volume | $ | 4.1 | $ | 3.7 | 2.7 | 13 | % | 35 | %
+
+Gross Booking Volume (GBV)
+
+We define GBV as the total amount paid for valid bookings on our platform, measured on a booked basis and inclusive of total price, taxes, and fees, and adjusted for cancellations and refunds. We generate GBV through hotel, flight, car, and rail bookings, along with usage of our Meetings and Events, VIP, and Bleisure offerings by our customers. We expand GBV by growing our customer base, managing more business travel spend on our platform, and introducing new offerings to address different types of business travel.
+
+Payment Volume
+
+We define payment volume as the aggregate dollar amount of spend through Navan issued cards, settled for a given period and net of any chargebacks, cancellations, or refunds. Our payment volume grows as we increase adoption and usage of our Corporate Payments offering, where we support and issue our own cards.
+
+Key Factors Affecting Our Performance
+
+Acquiring New Customers
+
+We believe there is substantial opportunity to continue to grow our customer base across both the managed and unmanaged categories, as well as across both our direct sales-led growth (“SLG”) channel (in which qualified sales professionals actively identify, engage, and support prospective customers through the evaluation and purchasing process) and our product-led growth (“PLG”) channel (in which our platform and our suite of offerings serve as the primary drivers of customer acquisition, expansion, and retention). As such, we will continue to invest in sales and marketing to drive awareness of our platform in order to continue adding new customers.
+
+Expanding Within our Existing Customer Base
+
+We expect to continue investing in our Customer Success teams within our sales and marketing function to drive more revenue from our existing customers. We typically land our customers with our Travel platform. As we help our customers realize the benefits of our platform, we expect them to adopt and engage with additional offerings, including Corporate Payments, Expense Management, Meetings and Events, VIP, and Bleisure. This added value for customers also benefits our own financial performance.
+
+We intend to continue investing in enhancing awareness of our brand and developing more offerings, features and functionality, which we believe are important factors to achieve widespread adoption of all our offerings. Our ability to increase sales to existing customers will depend on a number of factors, including our customers’ satisfaction with our platform and technologies, competition, pricing, and overall changes in our customers’ T&E spending levels.
+
+Sustaining Innovation and Leadership
+
+Our success is dependent on our ability to sustain our leadership in innovation and technology. We have invested heavily in building out Navan Cloud, our global infrastructure, which is designed to enable the delivery of a wide range of travel content to our customers. We intend to continue investing in our infrastructure to ensure that our customers have a broad array of options and choices when using our platform.
+
+To further enhance customer choice and flexibility, we developed Navan Connect, which allows customers to integrate their existing systems and preferences and offers actionable real-time visibility and policy enforcement for business expense management. While Connect does not itself generate revenue for Navan, we believe the flexibility it offers our customers helps drive easier and faster adoption of our Expense Management offering.
+
+We have also invested significantly in AI to help make every step of the pre-booking, in-travel, and post-trip process as appealing and automated as possible. We view these investments as important tools to improve the efficiency of the booking process, how we operate our business, and how we serve our customers. We were one of the first travel companies to incorporate machine learning techniques into our offerings, leveraging proprietary algorithms to provide users with personalized intelligent recommendations, dynamic policy tools, and an overall seamless, end-to-end travel experience.
+
+In addition, we have continued to expand our investments in AI, including by building Navan Cognition, our proprietary AI framework. Navan Cognition is designed to leverage third-party large language models with our own proprietary, internally developed software to enable us to create, train, deploy, and supervise our specialized virtual agents that can handle many complex tasks previously requiring human intervention.
+
+Our purpose-designed AI-powered virtual agents can reliably handle a range of autonomous tasks, from communicating with users through chat or voice commands to real-time decision making, such as booking and cancelling flights and expense tracking. Because this workforce responds to the significant majority of travelers’ needs, we typically require only limited human agent intervention. This technology enables us to efficiently scale our platform, allowing us to provide a high level of service to customers for their basic needs and reserve agent time for more critical or complex customer service situations.
+
+We intend to continue investing in research and development, including for our infrastructure and AI capabilities to make our offerings even more scalable and personalized to our users. We are particularly focused on our AI investments, which have allowed us to build and continue to develop Navan Cognition. We expect to continue to invest in Navan Cognition in order to further enable us, and potentially to enable outside organizations, to create and oversee AI-powered virtual agents with enterprise-grade reliability. We also expect to continue to invest in future product interface enhancements such as Navan Edge, which is powered by Navan Cognition and designed to redefine how travelers book, modify, and manage trips on the go via their mobile devices.
+
+Expand Organically and Inorganically
+
+We have a highly successful track record of organic and inorganic investments and may consider additional strategic acquisition opportunities. We have previously executed and integrated multiple acquisitions, including Reed & Mackay (“R&M”), expanding our geographic footprint and strengthening our offering capabilities across core markets. Historically, inorganic growth efforts have focused on expanding international presence, deepening supply relationships, and extending our presence in key regions. These acquisitions have accelerated our growth, enhanced localization, and enabled the company to serve a broader spectrum of enterprise customers with differentiated offerings tailored to regional travel and compliance needs. We may continue to make strategic acquisitions and other investments that allow us to further strengthen our platform, accelerate growth, and improve our offerings to best serve our diverse customer base.
+
+Reed & Mackay Customer Transition
+
+In 2021, we acquired R&M, a UK-based travel management company to expand our international presence and global service offerings to meet the needs of customers requiring a white-glove travel management service model. In January 2026, we announced that we will begin unifying our services under the Navan brand, which involves transitioning existing customers of our R&M service model to the Navan technology platform and, effective immediately, retiring the R&M brand for the purposes of new sales opportunities and conducting all new travel sales under a single unified Navan brand. During and subsequent to the transition, customers will continue to receive the same premium level of service they value today.
+
+While overall customer retention has been and continues to be strong, uncertainty exists as it relates to the degree to which the transition to the Navan technology platform will impact our relationships with existing customers of the R&M service model. For more information, see the section titled “Risk Factors—Risks Related to Our Business and Industry—We may not be successful in our efforts to retain and increase revenue from our customers, including by promoting and expanding adoption and usage of our offerings, which could adversely impact our business, financial condition, and results of operations.”
+
+As a result of the retirement of the R&M brand, we have reassessed the remaining useful life of the R&M trade name intangible asset recognized upon acquisition and fully recognized the remaining $36.2 million of amortization expense related to this asset in January 2026. Please refer to Note 7 ― Goodwill and Other Intangible Assets in the notes to the consolidated financial statements included elsewhere in this report for further information.
+
+Seasonality and Travel Demand
+
+We generally experience seasonality in our revenue, primarily related to seasonal travel trends of business travelers. As revenue is driven by travel volume, our revenue has historically been strongest in the third fiscal quarter. Payments revenue is driven by the volume of corporate card spending, primarily through travel bookings. When frequent travelers are travelling less, this component of revenue may be less than at other times of the year.
+
+Although we expect introductions of new offerings and expansions of existing offerings to counterbalance some of the seasonality we have historically experienced, we anticipate that revenue from both our existing Travel Management offerings and Corporate Payments offering will continue to represent a significant proportion of our overall revenue mix, and that seasonality will continue to impact our results of operations.
+
+In addition, demand for travel fluctuates based on a number of factors, including periods of perceived or actual adverse economic conditions and times of political or economic uncertainty, which may impact our business and operating results.
+
+Components of Results of Operations
+
+Revenue
+
+Our primary sources of revenue are fees earned from customers for access to our travel and expense management platform (our Travel offering and Expense Management offering) or on-demand travel management services (our Meetings and Events, VIP, and Bleisure offerings), and from suppliers as well as from our payment partners (through our Corporate Payments offering) for connection to our network of travel bookings and corporate card transaction dollar volume. We categorize revenue earned as (i) usage-based revenue, which primarily represents fees from our platform customers earned on a per-booking transaction basis and fees from our travel supply and payment partners, which are generally earned on a per-transaction basis, and (ii) subscription revenue, which primarily represents revenue earned from subscriptions to our expense management platform. Under arrangements with certain suppliers, we earn additional fees when cumulative actual booking or transaction dollar volume exceeds
+
+specified contractual thresholds. Our suppliers include airlines, hotels, car rental companies, rail carriers, and providers of GDSs. Our payment partners primarily include our corporate card payment processors and card issuing partners.
+
+Cost of Revenue
+
+Cost of revenue consists of direct personnel-related costs associated with customer support and a portion of customer success personnel costs, including salaries, bonuses, stock-based compensation, benefits and other expenses. In addition to personnel-related costs, cost of revenue includes third-party cloud infrastructure costs incurred to deliver our cloud-based travel and expense management platform, amortization of internally developed software and acquired technology, credit card processing fees, third-party vendor fees, and the allocation of certain corporate costs.
+
+Excluding the impact from stock-based compensation expense incurred in connection with our IPO, we expect that our cost of revenue may fluctuate as a percentage of our revenue from period to period depending on revenue seasonality or other factors impacting revenue, and to decline as a percentage of revenue over the long term.
+
+Research and Development Expenses
+
+Research and development costs are expensed as incurred. Research and development costs primarily consist of personnel-related costs associated with research and development personnel, including salaries, bonuses, stock-based compensation, benefits and other expenses, third-party cloud infrastructure costs incurred in developing our platform, third-party consulting costs, and the allocation of certain corporate costs.
+
+Excluding the impact from stock-based compensation expense incurred in connection with our IPO, we expect that research and development expenses may fluctuate as a percentage of our revenue from period to period depending on the timing of these expenses or other factors impacting revenue, and to decline as a percentage of revenue over the long term.
+
+Sales and Marketing Expenses
+
+Sales and marketing expenses primarily consist of personnel-related expenses, including salaries, commissions, bonuses, stock-based compensation, benefits and other expenses, amortization of acquired intangible assets, other promotional and advertising expenses, and the allocation of certain corporate costs. We expense certain sales and marketing costs, including promotional expenses, as incurred. We plan to increase our investment in sales and marketing for the foreseeable future, primarily through increased headcount in our sales function and investment in brand and product-marketing efforts.
+
+In the near term, we expect that our sales and marketing expenses will increase in absolute dollars as we continue to invest in our sales and marketing organization to drive continued adoption of our platform. Excluding the impact from stock-based compensation expense incurred in connection with our IPO, we expect that sales and marketing expenses may fluctuate as a percentage of our revenue from period to period depending on the timing of these expenses or other factors impacting revenue, and to decline as a percentage of revenue over the long term.
+
+General and Administrative Expenses
+
+General and administrative expenses primarily consist of personnel-related expenses associated with finance, legal, information technology, payment and finance operations, executives, and human resources personnel, including salaries, bonuses, stock-based compensation, benefits and other expenses. In addition to personnel-related expenses, general and administrative expenses consist of external professional services for finance, legal, human resources and information technology, corporate insurance costs, and the allocation of certain corporate costs. General and administrative expenses also include bad debt expenses.
+
+General and administrative expenses are expensed as incurred. Excluding the impact from stock-based compensation expense incurred in connection with our IPO, we expect to increase the size of our general and administrative function to support the growth of our business. As a result, we expect that our general and administrative expenses will increase in absolute dollars for the foreseeable future. We expect our general and administrative expenses may vary from period to period as a percentage of revenue in the near term and to decline as a percentage of revenue in the long term.
+
+During the year ended January 31, 2026, we recognized a one-time cumulative charge of $81.8 million of stock-based compensation expense across our cost of revenue and operating expenses associated with the satisfaction of the performance-based vesting condition for outstanding RSUs for which the service-based vesting conditions were fully or partially satisfied upon the IPO.
+
+Interest Expense
+
+Interest expense primarily relates to interest expense on our borrowings, including amortization of debt discount and issuance costs related to our outstanding debt.
+
+Other Income (Expense), Net
+
+Other income (expense), net primarily consists of interest income earned on cash, cash equivalents and short-term investments, including the amortization of premiums and accretion of discounts related to our marketable debt securities, net realized gains and losses on sales of investments, foreign exchange gains and losses, and other non-operating gains and losses.
+
+Loss on Extinguishment of Debt
+
+Loss on extinguishment of debt consists of losses incurred on the extinguishment of debt instruments.
+
+Gain (Loss) on Fair Value Adjustments
+
+Gain (loss) on fair value adjustments primarily consists of gains and losses as a result of recording our SAFEs, embedded derivative and warrant liabilities at fair value at the end of each reporting period.
+
+Income Tax Expense
+
+Income tax expense primarily consists of income taxes in certain federal, state, and foreign jurisdictions in which we conduct business. We maintain a full valuation allowance against our U.S. federal, certain states, and certain foreign deferred tax assets, as we have concluded that it is not more likely than not that these deferred tax assets will be realized.
+
+Results of Operations
+
+The following table sets forth our consolidated statements of operations data for the periods indicated:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(In thousands)
+
+Revenue | $ | 702,265 | $ | 536,837 | $ | 402,256
+
+Cost of revenue | 201,794 | 169,815 | 162,622
+
+Gross profit | 500,471 | 367,022 | 239,634
+
+Operating expenses
+
+Research and development | 151,237 | 122,386 | 132,442
+
+Sales and marketing | 342,667 | 218,722 | 220,511
+
+General and administrative | 203,444 | 133,552 | 133,023
+
+Total operating expenses | 697,348 | 474,660 | 485,976
+
+Loss from operations | (196,877) | (107,638) | (246,342)
+
+Interest expense | (51,299) | (75,997) | (63,281)
+
+Other income (expense), net | 17,273 | (73) | 10,093
+
+Loss on extinguishment of debt | (117,978) | — | —
+
+Gain (loss) on fair value adjustments | (47,041) | 12,200 | (26,594)
+
+Loss before income tax expense | (395,922) | (171,508) | (326,124)
+
+Income tax expense | 2,108 | 9,570 | 5,428
+
+Net loss | $ | (398,030) | $ | (181,078) | $ | (331,552)
+
+Stock-based compensation is included in the following components of expenses within the consolidated statements of operations:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(In thousands)
+
+Cost of revenue | $ | 9,980 | $ | 4,577 | $ | 4,751
+
+Research and development | 49,142 | 30,408 | 27,039
+
+Sales and marketing | 46,080 | 17,077 | 15,872
+
+General and administrative | 76,887 | 24,919 | 28,189
+
+Total stock-based compensation expense | $ | 182,089 | $ | 76,981 | $ | 75,851
+
+The following table sets forth our consolidated statements of operations data expressed as a percentage of revenue for the periods indicated:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(as a percent of revenue)(1)
+
+Revenue | 100 | % | 100 | % | 100 | %
+
+Cost of revenue | 29 | 32 | 40
+
+Gross profit | 71 | 68 | 60
+
+Operating expenses
+
+Research and development | 22 | 23 | 33
+
+Sales and marketing | 49 | 41 | 55
+
+General and administrative | 29 | 25 | 33
+
+Total operating expense | 99 | 89 | 121
+
+Loss from operations | (28) | (21) | (61)
+
+Interest expense | (7) | (14) | (16)
+
+Other income (expense), net | 2 | — | 3
+
+Loss on extinguishment of debt | (17) | — | —
+
+Gain (loss) on fair value adjustments | (7) | 2 | (7)
+
+Loss before income tax expense | (56) | (33) | (81)
+
+Income tax expense | — | 2 | 1
+
+Net loss | (57) | % | (35) | % | (82) | %
+
+________________
+
+(1)Totals of percent of revenue may not foot due to rounding.
+
+Comparison of Fiscal 2026 and 2025
+
+Revenue
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Usage-based revenue | $ | 640,396 | $ | 490,356 | $ | 150,040 | 31 | %
+
+Subscription revenue | $ | 61,869 | $ | 46,481 | $ | 15,388 | 33 | %
+
+Total revenue | $ | 702,265 | $ | 536,837 | $ | 165,428 | 31 | %
+
+Total revenue for the year ended January 31, 2026 increased $165.4 million, or 31%, compared to the year ended January 31, 2025. This increase was primarily due to (i) an increase in usage-based revenue driven by a 38% increase in GBV and a 13% increase in payment volume as we increased our customer base and expanded engagement with our platform and offerings by existing customers, and (ii) an increase in subscription revenue primarily driven by increased adoption of our Expense Management offering by new and existing customers on our platform.
+
+The impact of foreign currency translation on the change in revenue for the year ended January 31, 2025 to the year ended January 31, 2026 was not material.
+
+Cost of Revenue and Gross Profit
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Cost of revenue | $201,794 | $169,815 | $ | 31,979 | 19 | %
+
+Gross profit | $500,471 | $367,022 | $ | 133,449 | 36 | %
+
+Gross margin | 71 | % | 68 | %
+
+Cost of revenue for the year ended January 31, 2026 increased by $32.0 million, or 19%, compared to the year ended January 31, 2025. This increase was primarily due to an increase in salaries and related benefits of $21.8 million, primarily driven by $5.3 million of stock-based compensation expense recognized in connection with our IPO and an increase in headcount. Additional drivers of the period over period increase include (i) an increase in cloud hosting, support, processing and ticketing fees of $4.8 million, and (ii) an increase in facilities and IT-related costs of $2.5 million. The increase in gross profit and gross margin is primarily due to an increase in revenue on a relatively fixed cost base supported by our delivery of AI-powered customer support.
+
+Operating Expenses
+
+Research and Development Expense
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Research and development | $ | 151,237 | $ | 122,386 | $ | 28,851 | 24 | %
+
+Research and development expense for the year ended January 31, 2026 increased by $28.9 million, or 24%, compared to the year ended January 31, 2025. The increase was primarily due to an increase of $24.8 million in salaries and related benefits, primarily driven by $18.2 million of stock-based compensation expense recognized in connection with our IPO and an increase in headcount. Additional drivers of the period over period increase include (i) an increase in facilities and IT-related costs of $2.0 million, and (ii) an increase in other corporate costs of $1.0 million.
+
+Sales and Marketing Expense
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Sales and marketing | $ | 342,667 | $ | 218,722 | $ | 123,945 | 57 | %
+
+Sales and marketing expense for the year ended January 31, 2026 increased by $123.9 million, or 57%, compared to the year ended January 31, 2025. This increase was primarily due to an increase of $52.1 million in salaries and related benefits, primarily driven by $23.9 million of stock-based compensation expense recognized in connection with our IPO and an increase in headcount as we continue to expand our sales and marketing organization to grow our customer base. Additional drivers of the period over period increase include (i) $36.2 million of accelerated amortization expense recognized during the year ended January 31, 2026 in connection with the announced retirement of the R&M brand, (ii) an increase in advertising and marketing expense of $15.2 million, (iii) an increase in sales commissions expense of $12.0 million, (iv) an increase in other corporate costs of $4.2 million, and (v) an increase in facilities and IT-related costs of $2.6 million.
+
+General and Administrative Expense
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+General and administrative | $ | 203,444 | $ | 133,552 | $ | 69,892 | 52 | %
+
+General and administrative expense for the year ended January 31, 2026 increased by $69.9 million, or 52%, compared to the year ended January 31, 2025. This increase was primarily due to an increase in salaries and related benefits of $59.8 million, primarily driven by $34.4 million of stock-based compensation expense recognized in connection with our IPO and an increase in headcount. Additional drivers of the period over period increase include (i) $6.7 million of severance and executive transition costs recognized during the year ended January 31, 2026 in connection with the departure of our CFO, and (ii) $1.2 million of restructuring costs related to workforce reductions recognized during the year ended January 31, 2026 in connection with the announced transition of R&M customers to the Navan platform.
+
+Interest Expense
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Interest expense | $ | (51,299) | $ | (75,997) | $ | 24,698 | (32) | %
+
+Interest expense for the year ended January 31, 2026 decreased $24.7 million, or 32%, compared to the year ended January 31, 2025, primarily due to the settlement of the 2022 Promissory Note in February 2025 (see Note 8 ―Debt in the notes to the consolidated financial statements included elsewhere in this report), the conversion of the convertible notes (as described below under “―Liquidity and Capital Resources―Debt Obligations Extinguished in Connection with the IPO―Convertible Notes”), and lower borrowing levels under the Warehouse Credit Facility (as defined below under ―Liquidity and Capital Resources―Debt Obligations―Warehouse Credit Facility”), partially offset by interest expense associated with the Vista Facility (as defined below under “―Liquidity and Capital Resources―Debt Obligations Extinguished in Connection with the IPO―Vista Facility”) and the ABL facility (as defined below under “―Liquidity and Capital Resources―Debt Obligations―ABL Facility”).
+
+Other Income (Expense)
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Other income (expense), net | $ | 17,273 | $ | (73) | $ | 17,346 | NM
+
+______________
+
+NM - Not meaningful
+
+Other income for the year ended January 31, 2026 increased by $17.3 million compared to the year ended January 31, 2025 primarily due to an increase in foreign currency transaction gains of $16.3 million and an increase in interest income of $3.6 million, partially offset by debt issuance costs of $2.9 million incurred in connection with the issuance of the SAFEs (as described below under “―Liquidity and Capital Resources― Debt Obligations Extinguished in Connection with the IPO―SAFEs”), which were expensed when incurred.
+
+Loss on Extinguishment of Debt
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Loss on extinguishment of debt | $ | (117,978) | $ | — | $ | (117,978) | NM
+
+______________
+
+NM - Not meaningful
+
+Loss on extinguishment of debt for the year ended January 31, 2026 includes an $84.1 million loss on the conversion of the convertible notes (as described below under “―Liquidity and Capital Resources―Debt Obligations Extinguished in Connection with the IPO―Convertible Notes”), a $20.5 million loss on the settlement of the 2022 Promissory Note, and a $13.3 million loss on the settlement of the Vista Facility.
+
+Gain (Loss) on Fair Value Adjustments
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Gain (loss) on fair value adjustments | $ | (47,041) | $ | 12,200 | $ | (59,241) | NM
+
+______________
+
+NM - Not meaningful
+
+Gain (loss) on fair value adjustments for the year ended January 31, 2026 includes a $71.7 million loss related to the SAFEs and common stock warrant liabilities, offset by a $25.2 million gain related to the change in the fair value of the embedded derivative liability related to the convertible notes (as described below under “―Liquidity and Capital Resources―Debt Obligations Extinguished in Connection with the IPO―Convertible Notes”).
+
+Income Tax Expense
+
+Year Ended January 31,
+
+2026 | 2025 | Change | % Change
+
+(dollars in thousands)
+
+Income tax expense | $ | 2,108 | $ | 9,570 | $ | (7,462) | (78 | %)
+
+Income tax expense for the year ended January 31, 2026 decreased by $7.5 million, or 78%, compared to the year ended January 31, 2025 primarily due to excess tax benefits related to accelerated amortization recognized in connection with the announced retirement of the R&M brand, partially offset by increases in foreign profits and nondeductible expenses.
+
+Non-GAAP Financial Measures
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we use certain non-GAAP financial measures, which include non-GAAP gross profit, non-GAAP gross margin, non-GAAP income (loss) from operations, non-GAAP net loss, and free cash flow, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may be different from similarly-titled measures used by other companies, are presented to enhance investors’ overall understanding of our operating performance and should not be considered substitutes for, or superior to, the financial information prepared and presented in accordance with GAAP.
+
+We include these non-GAAP financial measures in this Annual Report on Form 10-K because they are important measures upon which our management assesses our operating performance and the
+
+operating leverage in our business. We believe that these non-GAAP financial measures are useful to investors because they provide useful information about our financial performance, consistency and comparability with past financial performance and may assist in comparisons with other companies in our industry, some of which use similar non-GAAP financial information to supplement their GAAP results.
+
+Non-GAAP financial measures have limitations in their usefulness to investors and should not be considered in isolation or as substitutes for financial information presented under GAAP. Non-GAAP financial measures have no standardized meaning prescribed by GAAP and are not prepared under any comprehensive set of accounting rules or principles. In addition, other companies, including companies in our industry, may calculate similarly titled non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures as tools for comparison.
+
+For the reasons set forth below, we believe that excluding the following items provide information that is helpful in understanding our operating results, evaluating our future prospects, comparing our financial results across accounting periods, and comparing our financial results to our peers, many of which provide similar non-GAAP financial measures.
+
+•Stock-based compensation-related charges. We exclude stock-based compensation expense and related charges to allow investors to make more meaningful comparisons of our performance between periods and to facilitate a comparison of our performance to those of other peer companies. Stock-based compensation-related charges may vary between periods due to various factors unrelated to our core performance, including as a result of the assumptions used in the valuation methodologies, timing and amount of equity grants and other factors.
+
+•Amortization of intangible assets. We recognize amortization expense related to intangible assets acquired in connection with certain business combinations. Amortization of acquired intangible assets is a non-cash expense that is significantly affected by the timing and size of acquisitions, and the inherent subjective nature of purchase price allocations. The use of intangible assets has contributed to our revenue during the periods presented, and we expect such use will contribute to revenue in future periods.
+
+•Accelerated amortization of trade name intangible asset. During the year ended January 31, 2026, we announced the retirement of the R&M brand for the purposes of conducting new corporate travel sales. As a result, we fully accelerated the recognition of remaining amortization expense related to the R&M trade name intangible asset. We exclude this non-cash expense, consistent with amortization of other intangible assets.
+
+•Amortization of debt discount and debt issuance costs. In connection with the issuance of our outstanding debt instruments, we incur upfront issuance costs and, where required, account for embedded derivatives and warrants issued in connection with certain debt instruments as debt discounts. The related amortization of these costs and discounts is recognized as interest expense over the term of the related debt instruments. We believe the exclusion of this non-cash interest expense provides for a useful comparison of our operating results to prior periods and to our peer companies.
+
+•Loss (gain) on fair value adjustments. We exclude gains and losses on fair value adjustments related to the remeasurement of the SAFEs and our derivative and warrant liabilities as of the end of each reporting period. We exclude these non-cash gains and losses because they are unrelated to our core operating performance.
+
+•SAFE debt issuance costs expensed. We exclude the issuance costs incurred in connection with the SAFEs issued during the year ended January 31, 2026, as these costs are non-recurring and unrelated to our core operating performance. We believe the exclusion of this expense provides for a useful comparison of our operating results to prior periods and to our peer companies.
+
+•Loss on extinguishment of debt. We exclude losses on the extinguishment of debt, as these losses are non-recurring and unrelated to our core operating performance. We believe the exclusion provides for a useful comparison of our operating results to prior periods and to our peer companies.
+
+•Severance and executive transition costs. During the year ended January 31, 2026, we incurred costs associated with the departure of our CFO, which consisted of severance and retention payments, and other third party professional services. We exclude these costs because they are non-recurring in nature and are not representative of our core operations.
+
+•Restructuring costs. During the year ended January 31, 2026, we announced the transition of R&M customers to the Navan platform. As part of the integration and evolution of the unified offering, we implemented workforce reductions and incurred employee-related expenses, including severance and other termination benefits. We may incur incremental restructuring costs in the near and long-term related to the announced unification of services under the Navan brand; however, the timing and magnitude of these costs is uncertain. We exclude these costs because they are non-recurring in nature and are not representative of our core operations.
+
+•Non-GAAP provision for income taxes. We have adjusted the provision for income taxes to reflect the income tax effects of the non-GAAP adjustments to GAAP loss before income tax expense. Due to the full valuation allowance against U.S. federal and state deferred taxes, the primary non-GAAP adjustments relate to the income tax effects of stock-based compensation expense and amortization of intangible assets.
+
+Non-GAAP Gross Profit and Non-GAAP Gross Margin
+
+We define non-GAAP gross profit as GAAP gross profit, excluding stock-based compensation-related charges, amortization of intangible assets, and restructuring costs. We define non-GAAP gross margin as non-GAAP gross profit divided by revenue.
+
+The following table reflects the reconciliation of GAAP gross profit to non-GAAP gross profit and gross margin to non-GAAP gross margin for the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+(In thousands)
+
+GAAP gross profit
+
+$
+
+500,471
+$ | 367,022
+
+GAAP gross margin
+
+71%
+
+68%
+
+Stock-based compensation-related charges
+
+10,476
+
+4,577
+
+Amortization of intangible assets
+
+Restructuring costs
+
+—
+
+Non-GAAP gross profit
+$ | 511,057 | $ | 371,855
+
+Non-GAAP gross margin
+73% | 69%
+
+Non-GAAP Income (Loss) from Operations
+
+We define non-GAAP income (loss) from operations as GAAP loss from operations, excluding stock-based compensation-related charges, amortization of intangible assets, accelerated amortization of trade name intangible asset, severance and executive transition costs, and restructuring costs.
+
+The following table reflects the reconciliation of GAAP loss from operations to non-GAAP income (loss) from operations for the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+(In thousands)
+
+GAAP loss from operations
+
+$
+
+(196,877)
+
+$
+
+(107,638)
+
+Stock-based compensation-related charges
+
+184,653
+
+77,379
+
+Amortization of intangible assets
+
+5,213
+
+5,217
+
+Accelerated amortization of trade name intangible asset
+
+36,160
+
+—
+
+Severance and executive transition costs
+
+6,661
+
+—
+
+Restructuring costs
+
+1,471
+
+—
+
+Non-GAAP income (loss) from operations
+
+$
+
+37,281
+
+$ | (25,042)
+
+Non-GAAP Net Loss
+
+We define non-GAAP net loss as GAAP net loss, excluding stock-based compensation-related charges, amortization of intangible assets, accelerated amortization of trade name intangible asset, amortization of debt discount and debt issuance costs, loss (gain) on fair value adjustments, SAFE debt issuance costs expensed, loss on extinguishment of debt, severance and executive transition costs, and restructuring costs, and adjusted to reflect the income tax effects of the non-GAAP adjustments to GAAP loss before income tax expense.
+
+The following table reflects the reconciliation of GAAP net loss to non-GAAP net loss for the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+(In thousands)
+
+GAAP net loss
+
+(398,030)
+
+$
+
+(181,078)
+
+Stock-based compensation-related charges
+
+184,653
+
+77,379
+
+Amortization of intangible assets
+
+5,213
+
+5,217
+
+Accelerated amortization of trade name intangible asset
+
+36,160
+
+—
+
+Amortization of debt discount and debt issuance costs
+5,061 | 12,211
+
+Loss (gain) on fair value adjustments
+
+47,041
+
+(12,200)
+
+SAFE debt issuance costs expensed
+2,913 | —
+
+Loss on extinguishment of debt
+117,978 | —
+
+Severance and executive transition costs
+6,661 | —
+
+Restructuring costs
+
+1,471
+
+—
+
+Non-GAAP provision for income taxes
+(9,449) | 2,084
+
+Non-GAAP net loss
+$ | (328) | $ | (96,387)
+
+Free Cash Flow
+
+We define free cash flow, a non-GAAP financial measure, as GAAP net cash used in operating activities less cash used for investing activities for capitalized software development costs and purchases of property and equipment.
+
+The following table reflects the reconciliation of GAAP operating cash flow to non-GAAP free cash flow for the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+(In thousands)
+
+Net cash provided by (used in) operating activities
+$
+
+33,671
+
+$
+
+(50,406)
+
+Less: Capitalized software development costs | (17,990) | (15,309)
+
+Less: Purchases of property and equipment | (917) | (994)
+
+Free cash flow | $ | 14,764 | $ | (66,709)
+
+Liquidity and Capital Resources
+
+In October 2025, we completed our IPO and sold 30,000,000 shares of our Class A common stock at a public offering price of $25.00 per share, which resulted in net proceeds of $713.3 million after deducting underwriting discounts and before deducting offering costs. We recognized $81.8 million of stock-based compensation expense related to the satisfaction of the performance-based vesting condition for outstanding RSUs for which the service-based vesting conditions were fully or partially satisfied upon the IPO. To meet the related tax withholding requirements for the net settlement of the vested RSUs, we withheld 709,106 shares of Class A common stock. Based on an IPO price of $25.00 per share, our tax withholding obligation was $17.7 million which was paid during the year ended January 31, 2026.
+
+Since our inception, we have financed our operations primarily through sales of equity securities and debt, as well as cash generated from operations. Our principal uses of cash in recent periods have been funding our operations, investing in our business, technologies, and platform, capital expenditures, and various business acquisitions. As of January 31, 2026, our principal sources of liquidity were cash and cash equivalents of $583.5 million, which were held primarily for working capital purposes, and short-term investments of $157.0 million. Cash consisted of funds deposited with banks and a portion of the balance held with our corporate card payment processing partners that is not restricted to fund transactions charged by our corporate card users. Cash equivalents consisted of money market funds and commercial paper with an original maturity of three months or less at the date of purchase. Investments consisted of U.S. government and agency securities, commercial paper, and corporate bonds. Our investments are focused on preserving capital, maintaining sufficient liquidity for operations, and maximizing returns within our risk parameters. Our investment policy sets forth authorized investment categories, credit rating minimums, and maturity requirements. We believe these policies mitigate our exposure to any risk concentrations.
+
+We have generated significant operating losses from our operations as reflected in our accumulated deficit of $2.0 billion as of January 31, 2026. We expect to continue to incur operating losses, and our operating cash flows may fluctuate between positive and negative amounts at least through the fiscal year ending January 31, 2027 due to investments we intend to make to support growth in our business. As a result, we may require additional capital resources to execute strategic initiatives to grow our business.
+
+We believe our existing cash and cash equivalents and cash provided by our operations, together with amounts available for borrowing under the Warehouse Credit Facility and the ABL Facility, will be sufficient to meet our requirements and plans for cash, including supporting working capital and capital expenditure requirements for at least the next 12 months and beyond. As of January 31, 2026, we had borrowing capacity of $250.0 million under the Warehouse Credit Facility, and outstanding borrowings of $118.2 million. As of January 31, 2026, we had borrowing capacity of $100.0 million under the ABL Facility, and outstanding borrowings of $6.0 million. Our future capital requirements and the adequacy of available funds will depend on many factors, including our growth rate, payment volume, expansion of our platform customer base, expansion of sales and marketing activities, the timing and extent of spending to support development efforts, the introduction of new offerings, and continued market adoption of our platform. We may in the future enter into arrangements to acquire or invest in complementary businesses,
+
+services, and technologies, including intellectual property rights. We may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we cannot be sure that any additional financing will be available to us on acceptable terms, if at all. If we are unable to raise additional capital when desired, our business, results of operations, and financial condition would be materially and adversely affected. We fund corporate card transactions in advance of receiving payments from our customers. Our working capital may fluctuate from period to period as a result of the timing of when we fund our corporate card payment processors and when we receive payments from our customers. During peak travel periods, the impact of this may be more significant than in other periods and may require us to draw down on the Warehouse Credit Facility.
+
+During the year ended January 31, 2026, the convertible notes and SAFEs converted into shares of our Class A common stock in connection with the IPO, and we paid $133.7 million to settle the Vista Facility.
+
+As of January 31, 2026, our principal commitments consist of obligations under the Warehouse Credit Facility, the ABL Facility, operating leases for office space, and non-cancelable purchase commitments primarily related to cloud hosting arrangements and software subscriptions.
+
+Debt Obligations Extinguished in Connection with IPO
+
+Convertible Notes
+
+In June 2020, we issued convertible notes of $125.0 million in aggregate principal amount, net of $2.9 million in debt issuance costs, with an initial maturity of June 2025 (the “convertible notes”). During the year ended January 31, 2025, the holders exercised their option to extend the term of the convertible notes by two years from June 2025 to June 2027. Prior to conversion, interest accrued on the principal amount at an initial rate of 7.5% per annum and was added to the principal as payment in kind (“PIK”) interest and compounded semi-annually. Beginning in June 2022, the stated interest rate escalated 1.0% biannually to 12.5% per annum through maturity. The interest rate remained unchanged through the extended term. The convertible notes contained certain affirmative or negative covenants applicable to the Company, including, among other things, restrictions on repurchases of stock, dividends and other distributions.
+
+The convertible notes also contained embedded features, including conversion options that were exercisable upon the occurrence of various contingencies. The conversion options involved a discount to the conversion price ranging from 20% to 35% that increased with the passage of time. The share-settled redemption features of the convertible notes represented embedded derivatives requiring bifurcation. We recorded the initial fair value of the embedded derivative liability of $43.1 million as a discount on the convertible notes’ face amount. Refer to Note 3 — Investments and Fair Value Measurements in the notes to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional detail regarding the embedded derivative liability. The debt discount was amortized to interest expense at an effective interest rate of 13.5% through the extended maturity date. If no conversion or settlement event was triggered prior to the notes’ maturity, the convertible notes would have been redeemed at a 12.5% internal rate of return (“IRR”). The 12.5% IRR payout at maturity was incorporated into the effective interest rate calculation.
+
+As of January 31, 2025, the convertible notes were presented within convertible notes on the consolidated balance sheets at their original issuance value plus PIK interest, net of the unamortized debt discount and issuance costs, and were not marked to fair value at each reporting period.
+
+In connection with the IPO, the convertible notes automatically converted into 12,827,963 shares of Class A common stock at a 35% discount to the IPO price. The Company recognized a $84.1 million loss on the debt extinguishment. The loss on extinguishment of debt is recognized within the consolidated statements of operations during the year ended January 31, 2026.
+
+SAFEs
+
+During the year ended January 31, 2026, we entered into simple agreements for future equity (“SAFEs”) with multiple investors in exchange for cash proceeds of $155.0 million. The SAFEs had an interest rate of 12% per annum. We issued common stock warrants to investors together with the SAFEs. The number of shares issued upon exercise of the common stock warrants was determined based on a fixed percentage of the fully diluted capitalization prior to the earliest to occur of (i) a deemed liquidation event, (ii) a liquidity event, and (iii) the date of exercise.
+
+We incurred debt issuance costs of $2.9 million in connection with the issuance of the SAFEs and common stock warrants, which were expensed when incurred and are presented within other income (expense), net in the accompanying consolidated statements of operations.
+
+In connection with the IPO, the SAFEs automatically converted into 7,851,008 shares of our Class A common stock at a 15% discount to the IPO price. The SAFE warrants became exercisable for a fixed number of shares, were reclassified to equity, and were exercised for 1,216,187 shares of Class A common stock in connection with the IPO.
+
+Vista Facility
+
+In February 2025, we entered into a credit agreement with VCP Capital Markets, LLC, under which we issued term loans to lenders in exchange for proceeds of $130.0 million, with a maturity date of February 24, 2030 (the “Vista Facility”). In connection with the Vista Facility, we issued warrants covering 486,588 shares of common stock. The principal amount accrued cash interest at a floating rate based on SOFR plus 5%, and PIK interest of 1.5%. Interest was payable every three months in arrears, and PIK interest was added to the principal balance and compounded every three months.
+
+Upon closing of the Vista Facility, the common stock warrants had a fair value of $11.0 million which was recorded as a debt discount. We incurred $3.6 million of debt issuance costs, which were recorded as a reduction to the debt liability. The debt discount and debt issuance costs were amortized to interest expense at an effective interest rate of 12.8% over the term of the loan. The common stock warrants were recorded within the consolidated balance sheets as additional paid-in capital.
+
+In connection with the IPO, we paid $133.7 million to settle the Vista Facility and recognized a $13.3 million loss on the debt extinguishment. We did not incur a prepayment penalty because we prepaid the Vista Facility in connection with a qualified IPO. The common stock warrants issued in connection with the Vista Facility were net exercised for 486,005 shares of Class A common stock in connection with the IPO.
+
+Debt Obligations
+
+Warehouse Credit Facility
+
+In November 2022, Liquid Labs SPV, LLC (“Liquid Labs”), our wholly-owned subsidiary, entered into a loan agreement with a group of lenders for a revolving warehouse credit facility (the ”Warehouse Credit Facility”). Under the original terms of the agreement, the Warehouse Credit Facility had a maturity date of February 18, 2025, or earlier pursuant to the loan agreement, and had a total commitment amount of $200.0 million, consisting of a Class A facility and a Class B facility for $171.1 million and $28.9 million, respectively. The original terms also included a minimum utilization of 50.0% of the committed amount. Any unused portion of the Warehouse Credit Facility will bear interest of 0.50% per annum. The Warehouse Credit Facility was established to finance our corporate payments offering. Borrowings on the Warehouse Credit Facility bear interest at a floating rate based on SOFR plus an applicable margin, as defined by the loan agreement. Borrowings under the Warehouse Credit Facility are secured by the corporate card receivables.
+
+The Warehouse Credit Facility was amended multiple times during the years ended January 31, 2026 and 2025. As of January 31, 2026, the amended terms of the Warehouse Credit Facility include total available borrowings of $250.0 million, an extended maturity date of February 18, 2028, minimum utilization of 40% of the committed amount, an expanded borrowing base to include receivables generated in foreign currency, and amendments to certain financial covenants.
+
+The Warehouse Credit Facility contains mandatory and optional redemption features upon an event of default and other potential additional interest provisions that are bifurcated and treated as embedded derivative liabilities under the accounting guidance Financial Accounting Standards Board Accounting Standards Codification Topic 815, Derivatives and Hedging, or ASC 815. At inception of the Warehouse Credit Facility, and as of January 31, 2026 and 2025, the fair value of the embedded derivative liabilities was determined to be immaterial.
+
+We incurred upfront commitment fees of $2.0 million for the Warehouse Credit Facility when the agreement was executed, an incremental $1.4 million upon the execution of various amendments during the year ended January 31, 2025, and an incremental $2.8 million upon the execution of an amendment in April 2025. These upfront commitment fees were recorded as a deferred cost asset on the balance sheet and are amortized on a straight-line basis as incremental interest expense.
+
+During the years ended January 31, 2026 and 2025, we drew down an aggregate of $35.0 million and $37.8 million, respectively, and we repaid $131.1 million and $30.0 million, respectively, on the Warehouse Credit Facility.
+
+During the years ended January 31, 2026 and 2025, we recognized $15.6 million and $22.9 million, respectively, of interest expense, comprised of $14.3 million and $21.4 million, respectively, of interest paid and payable, and $1.3 million and $1.5 million, respectively, for the amortization of debt issuance costs.
+
+We may in the future enter into additional warehouse facilities or other financing arrangements to fund the expansion of our corporate payments business.
+
+ABL Facility
+
+In March 2025, the Company entered into an asset-based lending revolving line of credit with Citibank, N.A., as agent for the lenders (the “ABL Facility”), for a term through March 2028. The ABL Facility has a borrowing limit of $100.0 million and incurs interest at SOFR plus 2.5%. Any unused portion of the ABL Facility will bear interest at 0.25% per annum. The available borrowings are based on eligible U.S. and UK travel receivables. Repayment is required if borrowings exceed stated limits. We may voluntarily prepay outstanding borrowings at any time without premium or penalty, other than customary breakage costs. We incurred fees of $1.6 million associated with entering into the ABL Facility, which are capitalized and amortized over the term.
+
+As of January 31, 2026, we had drawn a total of $6.0 million on the ABL Facility. The ABL Facility contains certain affirmative or negative covenants including, among other things, restrictions on repurchases of stock, dividends, and other distributions.
+
+During the year ended January 31, 2026, we recognized $2.9 million of interest expense, comprised of $2.4 million of interest paid and payable, and $0.5 million for the amortization of debt issuance costs.
+
+Cash Flows
+
+The following table summarizes our cash flows for the periods presented:
+
+Year Ended January 31,
+
+2026 | 2025
+
+(In thousands)
+
+Net cash provided by (used in) operating activities | $ | 33,671 | $ | (50,406)
+
+Net cash provided by (used in) investing activities | $ | (203,032) | $ | 44,870
+
+Net cash provided by financing activities | $ | 519,919 | $ | 52,554
+
+Operating Activities
+
+Net cash provided by operating activities was $33.7 million for the year ended January 31, 2026 as compared to net cash used in operating activities of $50.4 million for the year ended January 31, 2025. The increase in net cash provided was primarily due to an increase of revenue which surpassed an increase in operating and non-operating losses and expenses adjusted for non-cash items, including (i) loss on extinguishment of debt, (ii) stock-based compensation expense, (iii) loss on fair value adjustments and (iv) accelerated amortization of trade name intangible asset, partially offset by a non-recurring cash charge of $5.1 million related to severance and executive transition costs.
+
+Investing Activities
+
+Net cash used in investing activities was $203.0 million for the year ended January 31, 2026 as compared to net cash provided by investing activities of $44.9 million for the year ended January 31, 2025. The change was primarily driven by the purchase of investments using proceeds from our IPO and our funding of customer spend activity on our corporate cards surpassing payments from customers during the year ended January 31, 2026 as compared to customer payments surpassing funding of customer spend activity during the year ended January 31, 2025. Net cash used in or provided by corporate card spend and customer payment activity will vary from period to period depending on timing and volume of activity relative to period-end.
+
+Financing Activities
+
+Net cash provided by financing activities was $519.9 million for the year ended January 31, 2026 as compared to $52.6 million for the year ended January 31, 2025. The increase was primarily driven by the receipt of proceeds from our IPO and proceeds from debt borrowings during the year ended January 31, 2026, partially offset by payments on debt borrowings, primarily due to repayments made on the Warehouse Credit Facility, and the settlement of the 2022 Promissory Note and the Vista Facility during the year ended January 31, 2026.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements and the related notes thereto included elsewhere in this Annual Report on Form 10-K are prepared in accordance with GAAP. The preparation of consolidated financial statements requires us to make certain estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses as well as related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from our estimates. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows could be affected.
+
+An accounting policy is considered to be critical if the nature of the estimates or assumptions is material due to the levels of subjectivity and judgment necessary to account for highly uncertain matters or the susceptibility of such matters to change, and the effect of the estimates and assumptions on
+
+financial condition or operating performance. The critical accounting estimates, assumptions, and judgments that we believe to have the most significant impact on our consolidated financial statements are described below. Refer to Note 1 ― Description of Business and Significant Accounting Policies of the notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further information on our other significant accounting policies.
+
+Revenue Recognition
+
+We recognize revenue in accordance with ASC 606, Revenue from Contracts with Customers, when a customer obtains control of promised services in an amount that reflects the consideration we expect to be entitled to in exchange for these services. Our primary sources of revenue are fees earned from platform customers for access to our travel and expense management platform or on-demand travel management services, and from travel supply and payment partners for connection to our network of travel bookings and corporate card transaction dollar volume. Fees from our platform customers are either earned on a per-booking transaction or subscription basis. Fees from our travel supply and payment partners are generally earned on a per-transaction basis. Under our arrangements with certain travel supply partners, we earn additional fees when cumulative actual booking or transaction dollar volume exceeds specified contractual thresholds. Our travel supply partners include airlines, hotels, car rental companies, rail carriers, and providers of Global Distribution Systems. Our payment partners primarily include our corporate card payment processors and card issuing partners.
+
+Platform Customers
+
+Our primary performance obligation is to provide platform customers with continuous access to our cloud-based travel and expense management platform or to our on-demand travel management services. Transaction-based fees are generally non-refundable, and represent variable consideration allocated to the period the booking occurs. Revenue from transaction-based fees is recognized at the time of booking. Subscription fees are recognized ratably over the non-cancellable contract term.
+
+We maintain a rewards program under which users of our platform receive credits for the purchase of future personal travel. These credits expire twelve months after they are earned. We record a rewards liability and a reduction to revenue related to the vested and unpaid rewards earned by users of our platform, net of expected breakage.
+
+Travel Supply and Payment Partner Fees
+
+Our primary performance obligation to our travel supply partners is to connect them to user bookings made on our cloud-based travel management platform or through our on-demand travel management services. For airline and rail carriers, we are generally entitled to fees at the time of booking. For hotel and car rental partners, we are generally entitled to fees at the completion of a traveler’s stay or at the end of the rental period, respectively. Revenue is recognized at the time we are entitled to these fees.
+
+Our primary obligation to our payment partners is to connect them with user transaction volume on our physical and virtual corporate cards. We earn fees and other incentives from our payment partners based on the transaction dollar volume of each physical or virtual corporate card payment transaction processed, and we recognize revenue in the period each transaction occurs. We provide rebates to certain platform customers based on the dollar volume of payment transactions processed on our platform. Rebates paid to customers are recognized as a reduction to revenue.
+
+Contract Acquisition Costs
+
+We capitalize incremental costs of obtaining a contract with a customer if the costs are recoverable. These costs, which consist of sales commissions earned at the time a platform customer enters into a contract under the terms of our sales compensation plans, are deferred and amortized on a straight-line basis over the period of benefit, which we have estimated to be five years. All other compensation earned subsequent to a customer entering into a contract, including those that may be earned at the time of
+
+customer launch, are expensed as incurred. We estimate the period of benefit by primarily taking into consideration the average customer life and life of our technology, among other factors.
+
+Valuation of Embedded Derivative Liability
+
+The embedded derivative liability is bifurcated from the convertible notes issued in June 2020. Refer to the section titled “―Liquidity and Capital Resources―Debt Obligations Extinguished in Connection with the IPO―Convertible Notes” and in Note 8 ― Debt to the consolidated financial statements for further information regarding the convertible notes. The embedded derivative liability was measured at fair value on the date of issuance, and was remeasured to fair value each reporting period until conversion, with changes in the fair value recognized as a component of gain (loss) on fair value adjustments in the accompanying consolidated statements of operations. The fair value of the embedded derivative liability was computed using a combination of the income approach, the Black-Scholes option pricing model, a probability-weighted estimate of the time to conversion, and other Level 3 inputs. Significant management assumptions and estimates were involved in this determination. Refer to Note 3 ― Investments and Fair Value Measurements to the consolidated financial statements for further information regarding the significant inputs used in measuring the fair value of the embedded derivative liability.
+
+Stock-Based Compensation
+
+We measure stock-based compensation expense for all stock-based awards, granted or modified, based on the estimated fair value of the award on the grant date. Stock-based compensation expense is recognized on a straight-line basis over the requisite service period for stock-based awards with only time-based service vesting conditions. Forfeitures are recognized as they occur. We estimate the grant-date fair value of stock options using the Black-Scholes option pricing model. The Black-Scholes option pricing model requires the input of highly subjective assumptions, including the fair value of the underlying common stock for options granted prior to the Company’s IPO, the expected term of the option and the expected volatility of the price of the Company’s common stock. The Black-Scholes assumptions as summarized as follows:
+
+Fair value of common stock — Prior to the IPO, as the Company’s common stock was not yet publicly traded, the Company was required to estimate the fair value of its common stock, as discussed in “Common Stock Valuations” below. After the Company’s IPO, the fair value is determined using the closing price of the Company’s common stock on the grant date.
+
+Dividend Yield — The Company has never declared or paid any cash dividends and does not presently plan to pay cash dividends in the foreseeable future and applied an expected dividend yield of zero.
+
+Risk-Free Interest Rate — The risk-free interest rate assumption is based on the yield available on U.S. Treasury zero-coupon issues with a term that approximates the expected term of the option.
+
+Expected Volatility — As a result of the lack of historical and implied volatility data of the Company’s common stock, the expected stock price volatility has been estimated based on the historical volatilities of peer group public companies for a period equivalent to the expected term of the option.
+
+Expected term — The expected term of stock options represents the weighted-average period the stock options are expected to remain outstanding. The Company estimates the expected term based on the simplified method for employee stock options considered to be “plain vanilla” options, as our historical share option exercise experience does not provide a reasonable basis upon which to estimate the expected term. The expected term for options issued to non-employees is the contractual term.
+
+Employee Stock Purchase Plan (“ESPP”)
+
+We recognize stock-based compensation expense related to shares issued pursuant to our ESPP on a straight-line basis over the offering period. The ESPP provides for offering periods of approximately
+
+twelve-months, and each offering period includes two purchase periods of approximately six months. The ESPP allows eligible employees to purchase shares of our common stock at a 15 percent discount on the lower of the stock price on either (i) the date the offering period begins or (ii) the purchase date. We estimate the fair value of shares to be issued under the ESPP based on a combination of options valued using the Black-Scholes option-pricing model. We determine volatility over an expected term of approximately six months and twelve months based on the historical volatilities of a peer group of public companies due to the lack of historical and implied volatility data of our common stock. We estimate the expected term based on the contractual term.
+
+Common Stock Valuations
+
+The fair value of the shares of common stock underlying stock options and RSUs has historically been determined by the board of directors as there was no public market for the Company’s common stock prior to the effectiveness of the Company’s IPO. The board of directors determined the fair value of the Company’s common stock by considering a number of objective and subjective factors including: contemporaneous valuations of common stock performed by an unrelated valuation specialist, developments in the business and stage of development, the Company’s operational and financial performance and condition, issuances of redeemable convertible preferred stock and the rights and preferences of redeemable convertible preferred stock relative to common stock, the current condition of capital markets and the likelihood of achieving a liquidity event, such as an initial public offering or sale of the Company, and the lack of marketability of the Company’s common stock, amongst other factors. For financial reporting purposes, the Company considered the amount of time between the valuation date and the grant date to determine whether to use the latest common stock valuation or a straight-line interpolation between the two valuation dates. The determination included an evaluation of whether the subsequent valuation indicated that any significant change in valuation had occurred between the previous valuation and the grant date.
+
+Business Combinations
+
+We allocate the fair value of purchase consideration to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. The determination of fair value requires management to make significant estimates and assumptions, especially with respect to intangible assets. Significant estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows from trade names from a market participant perspective, acquired customers, acquired technology, useful lives and discount rates. Management’s estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, which is one year from the acquisition date, management may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill.
+
+JOBS Act Accounting Election
+
+We are an "emerging growth company" under the Jumpstart Our Business Startups Act of 2012, as amended (the “JOBS Act”), which permits us to take advantage of an extended transition period to comply with new or revised accounting standards applicable to public companies. We have elected to use this extended transition period until we are no longer an emerging growth company or until we affirmatively and irrevocably opt out of the extended transition period. As a result, our consolidated financial statements may not be comparable to companies that comply with new or revised accounting pronouncements applicable to public companies.
+
+Recent Accounting Pronouncements
+
+See Note 1 ― Description of Business and Significant Accounting Policies in the notes to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for more information.
