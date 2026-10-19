@@ -1,0 +1,222 @@
+{
+  "ticker": "JXN",
+  "company_name": "Jackson Financial, Inc.",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "accession_number": "0001822993-26-000022",
+  "scored_at": "2026-10-19T13:36:10",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers annuities, institutional products and asset management and shows no creative activity. 'Create' as a corporate value and financial 'product design' are traps.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 2: specific current employee development plus volunteering, matching-gift and charitable-donation programs, with no participant or dollar figures to show substantial reach.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E6"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific current activity of limited disclosed reach, namely employee resource groups (BRAGs) with no membership figures.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing describes no small-business customers and no program enabling founders or small businesses; references to innovation are traps.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 20.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Internal Skills Marketplace launched in 2025 that lets employees track their skills and choose training for career development",
+      "quote": "In 2025, we launched our Skills Marketplace, an internal talent warehouse that provides insight into skills that exist internally for open roles and future needs, allowing us to source, develop, and deploy talent where we need it.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources > Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Redesigned new-hire onboarding program with classroom learning and a Welcome Ambassador assigned to every new hire",
+      "quote": "Key enhancements include a dedicated technology team, a balanced mix of classroom learning, team integration, and Jackson knowledge sessions, and the expansion of our Welcome Ambassador program to provide every new hire with a dedicated Ambassador beginning on day one.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources > Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Tuition reimbursement programs for employees and their dependents",
+      "quote": "Our comprehensive benefits package includes medical, dental, vision, and paid time off along with more innovative benefits including associate and dependent tuition reimbursement programs, paid parental leave, adoption assistance, paid time off to volunteer, and associate charitable gift matching.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources > Benefits and Rewards",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Employee community-engagement program: paid volunteer time, nonprofit board training and placement, and matching gifts for donations and volunteer hours",
+      "quote": "Jackson encourages community engagement by providing associates with paid time off for volunteering, nonprofit board training and placement, and matching gifts programs for associate charitable contributions and volunteer hours.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Corporate Responsibility > Valuing our Communities",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community investment activity, limited disclosed reach (no figures)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Corporate charitable donations to communities where the company operates",
+      "quote": "We demonstrate our commitment to corporate responsibility with charitable donations that (i) generate impact in the communities we serve, (ii) engage associates in a culture of philanthropy, and (iii) grow awareness for our commitment to being a good corporate neighbor.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Corporate Responsibility > Valuing our Communities",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community investment activity, limited disclosed reach (no dollar figures)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Voluntary, employee-led Business Resource Associate Groups (employee resource groups)",
+      "quote": "We recognize our associates’ backgrounds and unique experiences through our voluntary, associate-led Business Resource Associate Groups (“BRAGs”).",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources > Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The filing refers to an annual Corporate Responsibility Report but also describes specific community and inclusion activities itself, so coverage is sufficient and no second look is triggered. The Item 7 excerpt mentions 'community' only in the SECURE Act's name (trap), and the 'Item 7 (targeted)' text contains no qualifying activities. The RIA insurance support desk is a distribution channel for selling annuities, not an entrepreneurship-enabling program. The described onboarding is 'more inclusive' but gives no specific inclusion practice beyond the general wording, so it is not counted for cross-cultural. The on-site solar farm is environmental and outside these themes.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 981,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

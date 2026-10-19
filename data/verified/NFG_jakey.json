@@ -1,0 +1,223 @@
+{
+  "ticker": "NFG",
+  "company_name": "National Fuel Gas",
+  "sector": "Utilities",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "accession_number": "0000070145-25-000039",
+  "scored_at": "2026-10-19T13:25:14",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers natural gas production, gathering, pipeline, storage and utility distribution and shows no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: the only activity is employee development (tuition aid, licensing sponsorship, training and mentorship), and no external education or community investment is disclosed, so the score is capped at 2.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4"
+      ],
+      "valid_evidence_ids": [
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4"
+      ],
+      "kinds": [
+        "demographics_only",
+        "internal_practice"
+      ],
+      "reason": "Level 2: the sustainability report lists specific current internal practices, namely Employee Resource Groups (E1) and an LGBTQ+ benefits guide (E2). It gives no membership numbers, participant figures or other reach indicators, so the score cannot reach level 3. The workforce demographics (E3) and the 10-K's non-discrimination policy and inclusion training language (E4) are disclosure and boilerplate only, so they support level 1 at most and do not raise the score.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "score_from_10k": 1,
+      "rescored_from_report": true
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing mentions only small-volume residential and commercial utility customers and no enabling service for founders or small businesses; being torn between 0 and 1, the lower level is chosen.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 20.0,
+  "original_10k_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "original_10k_final": 16.0,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Professional development resources for employees, including tuition aid, professional licensing sponsorship, corporate and technical training, and voluntary mentorship",
+      "quote": "The Company provides its employees with professional development and training resources to enhance their careers within the Company, which, depending on employee type, may include the following: (i) tuition aid program; (ii) sponsorship for professional licensing; (iii) corporate and technical training programs;",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Employee Benefits, Compensation and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap applies)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Employee Resource Groups offered to employees as part of the benefits and community involvement offering",
+      "quote": "Employee Resource Groups",
+      "source_doc": "sustainability_report",
+      "section": "Social > Employee Attraction, Retention, and Development > Community Involvement Encouraged",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks/resource groups with no membership figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [
+        "report quote may be a sentence fragment"
+      ],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "LGBTQ+ benefits guide provided as part of employee healthcare benefits",
+      "quote": "LGBTQ+ benefits guide",
+      "source_doc": "sustainability_report",
+      "section": "Social > Employee Attraction, Retention, and Development > Healthcare Benefits",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: inclusive benefits practice, limited reach, no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [
+        "report quote may be a sentence fragment"
+      ],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Publishes workforce demographic data (gender, race/ethnicity, generation)",
+      "quote": "National Fuel tracks diversity indicators and shares that demographic data within this Report.",
+      "source_doc": "sustainability_report",
+      "section": "Social > Workforce Highlights",
+      "status": "current",
+      "indicators": "Female: 27%, Male: 73%, White: 91%, Asian: 1%",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "Non-discrimination policies and inclusion training for employees",
+      "quote": "The Company has also implemented policies and training that reinforce the Company’s commitment to inclusion in the workplace.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Company Culture",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 1: equal-opportunity / anti-harassment policy boilerplate"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 targeted excerpt was empty, so no MD&A paragraphs on the theme terms were provided. Required safety trainings and anti-harassment training are compliance training and were not counted as Community activities. The Human Capital section points to the Company's Corporate Responsibility Report on www.nationalfuel.com for more information. Because Cross-cultural coverage is insufficient, the company qualifies for the automated second look using that report. The 756,000 utility customers figure is a customer count for gas service and does not support any theme.",
+  "quote_check_status": "passed",
+  "flags": [
+    "SL-E1: report quote may be a sentence fragment",
+    "SL-E2: report quote may be a sentence fragment"
+  ],
+  "human_capital_words": 671,
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://www.nationalfuel.com/wp-content/uploads/documents/NFG-CRR24-Full-FINAL.pdf",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://www.nationalfuel.com/wp-content/uploads/documents/NFG-CRR24-Full-FINAL.pdf",
+    "found_on": "",
+    "report_year": 2024,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
+}

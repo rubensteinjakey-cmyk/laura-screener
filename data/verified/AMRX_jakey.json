@@ -1,0 +1,205 @@
+{
+  "ticker": "AMRX",
+  "company_name": "Amneal Pharmaceuticals",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "accession_number": "0001723128-26-000011",
+  "scored_at": "2026-10-19T13:08:43",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers generic, biosimilar and branded pharmaceuticals and distribution, with no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: only employee development is described (learning programs, leadership development, My Amneal Career), so Community is capped at 2.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E4"
+      ],
+      "kinds": [
+        "customer_access",
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific current activities of limited or unquantified reach (AmNeev onboarding of about 68 female employees and AvKARE distribution focused on providers serving low-income and uninsured patients).",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E5"
+      ],
+      "valid_evidence_ids": [
+        "E5"
+      ],
+      "kinds": [
+        "own_innovation"
+      ],
+      "reason": "Level 1: only the company's own R&D and innovation, with no service or program enabling founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 23.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "AmNeev program onboarding female employees into targeted technical capability areas and academies",
+      "quote": "During 2025, we continued our AmNeev program, successfully onboarding approximately 68 female employees across targeted capability areas, including injectables, sterile manufacturing, and digital academies.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Workforce Demographics",
+      "status": "current",
+      "indicators": "approximately 68 female employees",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current program aimed at an underrepresented group, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Global learning, leadership development and technical capability-building programs for employees",
+      "quote": "In 2025, we continued to invest in global learning initiatives, leadership development programming, external partnerships to extend learning opportunities, and targeted capability-building efforts focused on technical and manufacturing skill sets.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "My Amneal Career AI-enabled talent and skills platform for employees",
+      "quote": "We also enhanced our talent management capabilities via My Amneal Career, an AI-enabled platform focused on expanding organization-wide skills and talent visibility, supported by leadership engagement and broad employee participation with 70% of global employees completing their My Amneal Career Talent Profile.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Talent Development",
+      "status": "current",
+      "indicators": "70% of global employees",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "AvKARE wholesale distribution focused on entities that care for low-income and uninsured patients",
+      "quote": "AvKARE is also a wholesale distributor of pharmaceuticals, over the counter drugs and medical supplies to its retail and institutional customers that are located throughout the U.S. focused primarily on entities that provide care to low-income and uninsured patients.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Segments of the Business > AvKARE",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: specific current service for underserved customers, reach not quantified for this activity"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Company's own pharmaceutical research and development",
+      "quote": "R&D activities represent a significant part of our business.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Research and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "own_innovation",
+          "criterion": "level 1: company's own innovation only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. All 'Alliance and Collaboration' items (ApiJect, Metsera, Zambon, Knight, BIAL, Kashiv, Valorum) are licensing, supply or distribution deals and fall under the rubric trap, so none was scored. The 'external partnerships to extend learning opportunities' in E2 serve employees, not outside learners, so they were tagged employee_development and do not lift Community above the cap. The workforce counts in Workforce Demographics and the 'inclusive, performance-oriented environment' and 'inclusion and connection within the workplace' language are disclosures or general statements and were not scored as activities. The mission of affordable 'essential medicines more accessible for all' is general language. Operations in India and Ireland and the emerging-market licenses do not count for Cross-cultural. AvKARE's roughly 1,100 customers were not used as an indicator for E4, because that figure appears in a different paragraph and includes government customers, so the lower level was chosen. For context only: Pfizer shortened the Metsera agreement term after acquiring Metsera, and Amneal gave notice to terminate the ONGENTYS license effective February 26, 2028. Neither affects the theme scores.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 894,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

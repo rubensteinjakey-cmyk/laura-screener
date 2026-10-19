@@ -1,0 +1,158 @@
+{
+  "ticker": "ALSN",
+  "company_name": "Allison Transmission",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "accession_number": "0001193125-26-065627",
+  "scored_at": "2026-10-19T13:27:11",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers transmissions, propulsion and off-highway drivetrain products, and it shows no creative activity. Uses of 'design' and 'licensing' refer to engineering and patents, which the rubric lists as traps.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: the only specific activity is employee development (virtual mentoring programs), so the score is capped at 2. Educating customers and dealers is marketing, and health-and-safety training is compliance training.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: the filing describes specific current internal practices, namely employee resource groups and recruiting focused on veterans and people with disabilities, but gives no membership or reach figures.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing shows no enabling program for founders or small businesses. The independent distributor and dealer network of about 1,500 locations is a sales channel, and 'innovation' is a trap term.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 20.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Virtual mentoring programs that connect employees across locations, departments and backgrounds",
+      "quote": "organizing virtual mentoring programs to connect employees from different locations, departments and backgrounds",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Equality of Opportunity",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Multicultural, emerging professionals and military veterans employee resource groups open to all employees",
+      "quote": "creating multicultural, emerging professionals, and military veterans employee resource groups that are open to all",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Equality of Opportunity",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Recruiting through organizations focused on veterans and people with disabilities, diverse professional organizations and schools with diverse student bodies",
+      "quote": "utilizing non-traditional recruiting sources, such as organizations focused on veterans and people with disabilities, diverse professional organizations, and schools with diverse student bodies",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Equality of Opportunity",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current inclusive hiring practice, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. The 10-K mentions an annual Corporate Social Responsibility Report but also describes specific human capital activities itself, so coverage is sufficient and no second look is triggered. The Acquired Off-Highway Business (about 8,000 employees and 46 plants) became effective January 1, 2026; it falls outside FY2025 and was not scored. Workforce figures disclosed are headcount and union representation only, with no diversity demographics. The mentoring program also mentions connecting employees from different backgrounds, but it is counted only under Community to avoid stretching it. Indicative final score from theme weights: 0 + 12 + 8 + 0 = 20/100.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 1074,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

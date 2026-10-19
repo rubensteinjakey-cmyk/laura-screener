@@ -1,0 +1,85 @@
+{
+  "ticker": "NFG",
+  "company_name": "National Fuel Gas",
+  "sector": "Utilities",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000070145-25-000039",
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:25:14",
+  "prompt_chars": 48536,
+  "filing_chars": 28538,
+  "filing_words_sent": 4147,
+  "approx_prompt_tokens": 12134,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Professional development resources for employees, including tuition aid, professional licensing sponsorship, corporate and technical training, and voluntary mentorship",
+        "quote": "The Company provides its employees with professional development and training resources to enhance their careers within the Company, which, depending on employee type, may include the following: (i) tuition aid program; (ii) sponsorship for professional licensing; (iii) corporate and technical training programs;",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Employee Benefits, Compensation and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap applies)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers natural gas production, gathering, pipeline, storage and utility distribution and shows no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only activity is employee development (tuition aid, licensing sponsorship, training and mentorship), and no external education or community investment is disclosed, so the score is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, resting on general language only (non-discrimination and anti-harassment policy and training, a commitment to an inclusive workplace); coverage is insufficient under condition 2 because the inclusion-related discussion is under about 150 words, and the filing also points to the Corporate Responsibility Report for further human capital information."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing mentions only small-volume residential and commercial utility customers and no enabling service for founders or small businesses; being torn between 0 and 1, the lower level is chosen."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so no MD&A paragraphs on the theme terms were provided. Required safety trainings and anti-harassment training are compliance training and were not counted as Community activities. The Human Capital section points to the Company's Corporate Responsibility Report on www.nationalfuel.com for more information. Because Cross-cultural coverage is insufficient, the company qualifies for the automated second look using that report. The 756,000 utility customers figure is a customer count for gas service and does not support any theme.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"NFG\",\"sector\":\"Utilities\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Professional development resources for employees, including tuition aid, professional licensing sponsorship, corporate and technical training, and voluntary mentorship\",\"quote\":\"The Company provides its employees with professional development and training resources to enhance their careers within the Company, which, depending on employee type, may include the following: (i) tuition aid program; (ii) sponsorship for professional licensing; (iii) corporate and technical training programs;\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Employee Benefits, Compensation and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap applies)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers natural gas production, gathering, pipeline, storage and utility distribution and shows no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only activity is employee development (tuition aid, licensing sponsorship, training and mentorship), and no external education or community investment is disclosed, so the score is capped at 2.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, resting on general language only (non-discrimination and anti-harassment policy and training, a commitment to an inclusive workplace); coverage is insufficient under condition 2 because the inclusion-related discussion is under about 150 words, and the filing also points to the Corporate Responsibility Report for further human capital information.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing mentions only small-volume residential and commercial utility customers and no enabling service for founders or small businesses; being torn between 0 and 1, the lower level is chosen.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so no MD&A paragraphs on the theme terms were provided. Required safety trainings and anti-harassment training are compliance training and were not counted as Community activities. The Human Capital section points to the Company's Corporate Responsibility Report on www.nationalfuel.com for more information. Because Cross-cultural coverage is insufficient, the company qualifies for the automated second look using that report. The 756,000 utility customers figure is a customer count for gas service and does not support any theme.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 17049,
+      "output_tokens": 3330,
+      "duration_ms": 31934
+    }
+  ]
+}

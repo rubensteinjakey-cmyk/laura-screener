@@ -4,15 +4,33 @@
 
 Model: `claude-opus-5-5` · Sections read: Item 1 + Item 7 (targeted) · Final score = Creativity/5×35 + Community/5×30 + Cross-cultural/5×20 + Entrepreneurship/5×15 · `*` = coverage insufficient (the filing says too little to judge that theme) · Shortlist = top 40% of each sector (at least 2, ties included)
 
-## Communication Services (1 companies)
+## Communication Services (2 companies)
 
-**Shortlist (1):** Omnicom Group (OMC, 40.0)
+**Shortlist (2):** Roku, Inc. (ROKU, 54.0), Omnicom Group (OMC, 40.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Omnicom Group (OMC) | **40.0** | 3 | 2 | 1 | 1 | yes |  |
+| 1 | Roku, Inc. (ROKU) | **54.0** | 4 | 2 | 2 | 2 | yes |  |
+| 2 | Omnicom Group (OMC) | **40.0** | 3 | 2 | 1 | 1 | yes |  |
 
-### 1. Omnicom Group (OMC): 40.0/100 · shortlist
+### 1. Roku, Inc. (ROKU): 54.0/100 · shortlist
+10-K filed 2026-02-13 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 4 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 2 (sufficient) → **54.0**
+
+- **Creativity: 4/5** (sufficient): Level 4: licensing, distributing and enabling monetization of film/TV content is a major part of the reported Platform segment, with a disclosed library of 80,000+ titles; it is not scored 5 because revenue rests mainly on advertising and devices rather than the creative work itself, and when torn the lower level applies.
+  - Operates The Roku Channel, a free ad-supported service that licenses and distributes a large library of films and TV shows, including Roku Originals [80,000+ movies and TV shows]: "Viewers can stream a broad variety of 80,000+ movies and TV shows, including Roku Originals, for free." (Item 1 > Platform Segment > The Roku Channel)
+  - Runs a streaming platform where content partners publish apps to distribute and monetize their streaming content: "Our significant scale, ability to reach highly engaged viewers, tools that enable seamless signups, and marketing/discovery features make us an attractive platform to content partners." (Item 1 > Platform Segment > Platform Revenue)
+- **Community: 2/5** (sufficient): Level 2: a named external Social Impact education program and employee training are described, but no participant or dollar figures show substantial reach.
+  - Social Impact program in which employees work with educational and workforce development organizations to give young people industry insight and hands-on experience: "Purposeful investments in developing future talent across our industry are made through our Social Impact program." (Item 1 > Human Capital Management)
+  - Learning and Growth team provides onboarding, training, 1:1 leadership coaching and on-demand skill development for employees: "Our Learning and Growth team provides our employees with the training and development needed to support our strategic priorities and growth." (Item 1 > Human Capital Management)
+- **Cross-cultural: 2/5** (sufficient): Level 2: employee resource groups supported by an Inclusion Strategy team, with no membership figures; international expansion is excluded by the rubric.
+  - Inclusion Strategy team supports employee resource groups and inclusion programs: "Our Inclusion Strategy team partners across Roku to advance inclusion through strategic programs, support our employee resource groups, expand talent communities, and amplify our employer brand story." (Item 1 > Human Capital Management)
+- **Entrepreneurship: 2/5** (sufficient): Level 2: a specific Roku Ads Manager integration lowers TV-advertising production costs for small and medium-sized businesses, with no disclosed reach.
+  - Roku Ads Manager partner integration that lets small and medium-sized businesses repurpose social media content for TV ads, lowering production cost: "We also have a partner integration with Roku Ads Manager to enable SMBs to efficiently repurpose social media content for TV streaming, reducing production costs and complexity to make advertising on TV more accessible." (Item 1 > Business Growth > Advertising Innovation)
+- AI notes: The Item 7 (targeted) section was empty, so all evidence comes from Item 1. Several items were left out under the rubric's traps or limits. 'Entrepreneurial, execution-focused culture' is a culture claim and scores at most 1. Partnerships with Shopify and others on action ads are advertiser tools, not small-business enabling. Roku City 'original storytelling' is an ad product, which falls under the brand-marketing storytelling trap. 'Inclusive content' and storytelling that represents audiences from different backgrounds is general language with no specific program. The Platform segment's reach (more than 90 million Streaming Households, 145.6 billion Streaming Hours) is disclosed in other paragraphs, so it supports the Creativity level 4 judgment but is not cited as an indicator. Howdy (nearly 10,000 hours) and Frndly TV (more than 50 live channels) are further owned content-distribution services under the same Creativity activity and were not recorded separately.
+
+### 2. Omnicom Group (OMC): 40.0/100 · shortlist
 10-K filed 2026-02-20 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 3 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **40.0**
@@ -26,22 +44,25 @@ Scores: Creativity 3 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about acquiring companies with entrepreneurial management teams, with no service enabling founders or small businesses.
 - AI notes: Final score: 21 + 12 + 4 + 3 = 40/100. Creativity: advertising is client-commissioned brand marketing. It was counted as 'creates' because the agencies produce creative services, content and studio production. This is a judgment call against the 'storytelling as brand marketing' trap and may merit human review. Cross-cultural: 'multi-cultural marketing' appears only as an undescribed item in a list of services, so it was not scored as a specific activity. Coverage: the human capital section runs about 280 words, so Community and Cross-cultural were marked sufficient, but the inclusion content within it is a single sentence. 'Education | 1 | %' in the Item 7 excerpt appears to be client-industry revenue share, not an education activity, and was not counted. The MD&A text is targeted excerpts only. The merger with IPG closed on November 26, 2025, so IPG operations are included only from that date.
 
-## Consumer Discretionary (10 companies)
+## Consumer Discretionary (13 companies)
 
-**Shortlist (5):** Etsy (ETSY, 80.0), Duolingo (DUOL, 63.0), Airbnb (ABNB, 33.0), Best Buy (BBY, 30.0), Victoria's Secret (VSXY, 30.0)
+**Shortlist (7):** Etsy (ETSY, 80.0), Duolingo (DUOL, 63.0), Life Time Group Holdings, Inc. (LTH, 36.0), Airbnb (ABNB, 33.0), Williams-Sonoma, Inc. (WSM, 33.0), Best Buy (BBY, 30.0), Victoria's Secret (VSXY, 30.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Etsy (ETSY) | **80.0** | 5 | 3 | 3 | 5 | yes |  |
 | 2 | Duolingo (DUOL) | **63.0** | 2 | 5 | 4 | 1 | yes |  |
-| 3 | Airbnb (ABNB) | **33.0** | 1 | 1 | 2 | 4 | yes |  |
-| 4 | Best Buy (BBY) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
-| 4 | Victoria's Secret (VSXY) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
-| 6 | Abercrombie & Fitch (ANF) | **27.0** | 1 | 2 | 2 | 0 |  |  |
-| 7 | The Cheesecake Factory, Inc. (CAKE) | **26.0** | 1 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
-| 7 | H&R Block (HRB) | **26.0** | 0 | 2 | 2 | 2 |  |  |
-| 7 | CarMax, Inc. (KMX) | **26.0** | 1 | 2 | 1 | 1 |  |  |
-| 10 | SharkNinja (SN) | **20.0** | 1 | 1 | 1 | 1 |  |  |
+| 3 | Life Time Group Holdings, Inc. (LTH) | **36.0** | 1 | 3 | 2 | 1 | yes |  |
+| 4 | Airbnb (ABNB) | **33.0** | 1 | 1 | 2 | 4 | yes |  |
+| 4 | Williams-Sonoma, Inc. (WSM) | **33.0** | 2 | 2 | 1 | 1 | yes |  |
+| 6 | Best Buy (BBY) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
+| 6 | Victoria's Secret (VSXY) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
+| 8 | Abercrombie & Fitch (ANF) | **27.0** | 1 | 2 | 2 | 0 |  |  |
+| 8 | Macy's (M) | **27.0** | 1 | 2 | 2 | 0 |  |  |
+| 10 | The Cheesecake Factory, Inc. (CAKE) | **26.0** | 1 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
+| 10 | H&R Block (HRB) | **26.0** | 0 | 2 | 2 | 2 |  |  |
+| 10 | CarMax, Inc. (KMX) | **26.0** | 1 | 2 | 1 | 1 |  |  |
+| 13 | SharkNinja (SN) | **20.0** | 1 | 1 | 1 | 1 |  |  |
 
 ### 1. Etsy (ETSY): 80.0/100 · shortlist
 10-K filed 2026-02-19 (fiscal 2025) · source: 10-K
@@ -79,7 +100,23 @@ Scores: Creativity 2 (sufficient) · Community 5 (sufficient) · Cross-cultural 
   - Ongoing patent program protecting the company's own assessment innovations [two patent applications]: "Duolingo has filed two patent applications directed to proprietary techniques we developed for generating language proficiency test questions and evaluating language proficiency as part of an on-going program to identify and protect innovations developed by the Company." (Item 1 > Intellectual Property)
 - AI notes: Mission and values language (for example, 'make it universally available' and the company principles) was not scored above 1. Cross-cultural was weighed between 4 and 5: language learning removes language barriers, and the filing notes refugees among learners and more Irish and Hawaiian learners than native speakers. However, the core business is framed as education, so the lower level of 4 was chosen. The People and Culture section has only an inclusion statement, a legal-compliance hiring policy, and workforce background (E7, demographics only), with no employee networks or programs. No employee training programs are described. Free access and the freemium model are part of the same app (E1) and are not counted separately. The music course has no separate user figures. Math and Chess courses are covered under E1. The Item 7 excerpt on Duolingo English Test acceptance is truncated mid-sentence, so Item 1 was used for quotes. No small-business or founder-enabling activity is disclosed.
 
-### 3. Airbnb (ABNB): 33.0/100 · shortlist
+### 3. Life Time Group Holdings, Inc. (LTH): 36.0/100 · shortlist
+10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **36.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: creative work appears only as a routine business input (in-house architecture and design of the company's own centers); the core business is fitness clubs, not creating or enabling creative work.
+  - In-house architecture and design team designs the company's own fitness centers: "We also benefit from our in-house architecture and design expertise that allows us to create operationally efficient centers and a consistent feel across our centers." (Item 1 > Our Growth Strategies and Member Experience Initiatives > Flexible Asset-light Real Estate Model)
+- **Community: 3/5** (sufficient): Level 3: the named Life Time Foundation is a community investment program with dollar and reach figures (more than $12 million since 2010, millions of children), supported by employee development and an external certification academy.
+  - Life Time Foundation funds youth nutrition and youth movement programs in schools and communities [more than $12 million in support since 2010; millions of children]: "Since 2010, the Life Time Foundation has provided more than $12 million in support to communities nationwide and positively impacted millions of children." (Item 1 > Life Time Foundation)
+  - Life Time Education, an internal certification, learning and development division for all team members: "LTE delivers certification, learning, education and development opportunities for all team members." (Item 1 > Human Capital > Development and Training)
+- **Cross-cultural: 2/5** (sufficient): Level 2: specific current internal practices (Inclusion Council and five employee resource groups) with no membership or reach figures.
+  - Life Time Inclusion Council with ambassadors at each center works on inclusion and cultural competency: "Our Inclusion Council works through committees to identify and incubate areas for enhancing inclusion and cultural competency within our organization." (Item 1 > Human Capital > Inclusion at Life Time)
+  - Employee resource groups open to all team members [five employee resource groups]: "Further, team members are encouraged to find support and resources in one or more of our five employee resource groups, which are open to all team members." (Item 1 > Human Capital > Inclusion at Life Time)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests on general language only (an 'entrepreneurial spirit' and the company's own innovation), with no specific service enabling founders or small businesses.
+- AI notes: The Foundation's $12 million figure is cumulative since 2010, not annual. The Foundation's 2023 expansion into forestation and conservation is environmental and not scored. Life Time Academy is described inside team-member training, so whether outsiders enroll is not entirely clear, and no enrollment figures are given; it is tagged external_education at level 2 only, and Community level 3 rests on E2. Life Time Foundation and LTA are the only external activities; the rest of Community evidence is employee development. Kids Academy, swim lessons and kids camps are fee-based member services with no figures and were not scored separately. 'Charity Events' appears only as a table entry with no description. The 51,800 member events reflect member social activity, not external education. Traps excluded: 'state-of-the-art' equipment; 'studio performers' (fitness instructors, not artists); Experience Life and digital 'content' (health and fitness content in general, not described as creative work); 'entrepreneurial spirit'; 'accessibility laws' (regulatory compliance only); member demographics (income, education, age) are a disclosure, not inclusion activity; 'diversified portfolio' of centers. Life Time Work co-working is not described as serving founders or small businesses. Item 7 excerpts repeat Item 1 content and add no new qualifying activities.
+
+### 4. Airbnb (ABNB): 33.0/100 · shortlist
 10-K filed 2026-02-12 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 4 (sufficient) → **33.0**
@@ -95,7 +132,23 @@ Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 
   - Co-Host Network connecting new and existing hosts with experienced co-hosts who help set up and manage listings: "In addition, we provide the Co-Host Network, which connects potential and existing hosts with co-hosts who can help manage their listings." (Item 1 > Our Platform > Our Platform for Hosts)
 - AI notes: Entrepreneurship was torn between 4 and 5. The marketplace is the whole business, but the filing describes hosts as individuals earning income rather than as businesses, so the lower level was chosen. The 'enable guests to connect with communities in a more authentic way' language and operations in 220+ countries were treated as mission and international-operations statements, not cross-cultural activities. Experiences and services were not scored for Creativity because the filing names no creative categories; photography appears only in the competitor list. 'Community support' means customer service and was not counted for Community. The 10-K refers to corporate responsibility and sustainability reports on the website, but coverage is sufficient on all themes, so no second look is triggered. The Item 7 excerpts repeat the Overview and add nothing new.
 
-### 4. Best Buy (BBY): 30.0/100 · shortlist
+### 4. Williams-Sonoma, Inc. (WSM): 33.0/100 · shortlist
+10-K filed 2026-03-26 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 2 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **33.0**
+
+- **Creativity: 2/5** (sufficient): Level 2: specific current activities enabling makers and selling authored cookbooks, limited in disclosed scale. Core in-house design (E4) is a routine input, worth at most 1.
+  - West Elm sells a curated selection of goods handcrafted by makers around the world: "West Elm creates unique, modern and affordable home décor and curates a selection of goods that are crafted by makers from across the world." (Item 1 > Business > West Elm)
+  - GreenRow brand works with a network of artisan makers to produce its collection: "The brand works with a world-class network of makers to create a collection of vibrant, vintage-inspired pieces, responsibly sourced and designed to last." (Item 1 > Business > GreenRow)
+- **Community: 2/5** (sufficient): Level 2: employee development plus volunteering time and nonprofit-partner events, with no participant or dollar figures showing substantial reach.
+  - In-person and online learning and professional development courses for associates: "We offer in-person and online learning, as well as professional development courses, such as goal setting and leadership training." (Item 1 > Our Values > People First > Talent Development and Career Mobility)
+  - Advisor Program pairing associates with leaders for career guidance: "Our Advisor Program matches associates and leaders from across the Company to form advisor/advisee relationships, providing associates with career guidance and support in working through career aspirations and development goals." (Item 1 > Our Values > People First > Talent Development and Career Mobility)
+- **Cross-cultural: 1/5** (sufficient): Level 1: the human capital section is ample, but the only related practice is a multilingual compliance hotline, and international stores and franchises do not count.
+  - Anonymous employee reporting hotline available in multiple languages: "Our human resources department maintains an open-door policy for associates to report concerns, and we provide an anonymous reporting hotline, which is available in multiple languages and managed by an independent company." (Item 1 > Our Values > People First > Associate Engagement)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language (the founder's small-business origin story), with no specific program enabling founders or small businesses.
+- AI notes: The Item 7 targeted excerpt was empty, so no MD&A paragraphs mentioned theme terms. Franchise agreements with third parties in Mexico, South Korea, India and the Philippines (90 locations) were not counted for Entrepreneurship or Cross-cultural, because international operations alone don't count and they are not described as enabling small businesses. Matching donations to nonprofits and paid volunteer time also appear in the benefits list. They are not recorded separately, because the only quotable text is a list fragment and the volunteering time is already covered by E7. Creativity is close to the 1/2 boundary: the 'makers' (E1, E2) and cookbook sales (E3) are judged enabling, but scale is undisclosed. Cross-cultural is close to the 1/2 boundary, and the lower level was chosen.
+
+### 6. Best Buy (BBY): 30.0/100 · shortlist
 10-K filed 2026-03-18 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
@@ -111,7 +164,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Best Buy Marketplace earns commissions from third-party marketplace sales: "Services - advertising, delivery, health-related services, installation, marketplace commissions, memberships, repair, set-up, technical support, warranty-related services" (Item 1 > Merchandise and Services)
 - AI notes: The targeted Item 7 excerpt was empty, so all evidence comes from Item 1. The Social Impact section says the company is 'refreshing our community commitments' toward youth economic opportunity; only the currently operating programs (Teen Tech Center, Geek Squad Academy) were scored. The Teen Tech Center runs through the Best Buy Foundation, with Best Buy as fiscal sponsor. The HOPE Fund (up to $2,500 hardship aid, in partnership with the Richard M. Schulze Family Foundation) is an employee benefit, not community investment, so it was not scored. Inclusion and Belonging language is general apart from the Joshin benefit. The filing refers to the Fiscal 2026 CR&S Report (not yet published) for more human capital detail, but it gives specific activities itself, so coverage is sufficient and no second look is triggered. The E3 quote ends before the sentence's final purpose clause ('to ensure young people are prepared for the demands of today's economy') to stay near the length limit; the meaning is unchanged.
 
-### 4. Victoria's Secret (VSXY): 30.0/100 · shortlist
+### 6. Victoria's Secret (VSXY): 30.0/100 · shortlist
 10-K filed 2026-03-20 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
@@ -128,7 +181,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Franchise, license and wholesale partners who fund and operate their own stores selling company products: "Our partners are generally responsible for providing the capital necessary to lease retail space, build out stores and/or develop websites, fund the operations of their business, and over the longer term, reinvest in their business." (Item 1 > Real Estate > Franchise, License and Wholesale Arrangements)
 - AI notes: Excluded as traps or non-qualifying: 'innovative/innovation' throughout; 'brand storytelling' and 'influencer collaborations' (brand marketing); 'powerful foundation' and 'brand communities on social media' (marketing language); 'educate our customer' in Item 7 (marketing); 'joint venture' in China and UK; 'representations or warranties'; 'diversified portfolio'; operations in about 70 countries (international operations alone do not count); Code of Conduct, ethics and photo shoot compliance training (compliance training); in-store associate product training and field leadership development are folded into the employee development evidence and are not counted separately. The franchise partners in E7 are not described as small businesses. The store fleet declined from 882 to 858 in 2025, which does not affect theme scoring. Human capital discussion exceeds 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.
 
-### 6. Abercrombie & Fitch (ANF): 27.0/100
+### 8. Abercrombie & Fitch (ANF): 27.0/100
 10-K filed 2026-03-26 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **27.0**
@@ -144,7 +197,23 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the business is described in full, and there is no enabling program for founders or small businesses; franchise, wholesale and licensing arrangements are commercial distribution channels, not services that address barriers to starting a business.
 - AI notes: The Item 7 (targeted) section was empty, so no MD&A excerpts matched the theme terms. The E4 quote is about 52 words because the associate-resource-group clause sits at the end of one long sentence; only the final list item ('and driving fairness through our compensation and benefits offerings') was dropped, which does not change the meaning. The corporate purpose and 'welcoming and inclusive' culture language are claims only and were not scored. Trademark licensing and licensed collegiate/sports apparel are brand licensing arrangements, not payments to creators, so they were not counted for Creativity. Adoption and fertility benefits and paid parental leave were not counted as inclusive practices, because the filing does not frame them that way. Community partners 'with a focus on ... inclusion' are part of the giving program in E3 and were not counted separately for Cross-cultural. No dollar amounts, participant numbers or volunteer-hour figures are disclosed for community programs.
 
-### 7. The Cheesecake Factory, Inc. (CAKE): 26.0/100
+### 8. Macy's (M): 27.0/100
+10-K filed 2026-03-27 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **27.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the company is a merchandise retailer whose only creative involvement is routine product design for private label brands, with branded events used as marketing.
+  - Develops and sells a portfolio of company-owned private label apparel and home brands: "We maintain a portfolio of private label brands across all three nameplates that help differentiate assortment and support margin and value propositions." (Item 1 > Merchandise)
+- **Community: 2/5** (sufficient): Level 2: mostly employee development plus internships and a RISE supply-chain partnership whose reach in people or dollars is not disclosed, so no external activity reaches substantial measured reach.
+  - Company-wide LinkedIn Learning catalog made available to all employees: "In 2025, the LinkedIn Learning catalog was made available to all Macy’s, Inc. colleagues." (Item 1 > Human Capital Resources > Learning & Development)
+  - Executive and leadership development programs for newly hired recent college graduates: "Macy's Executive Development Program and Bloomingdale's Leadership Development Program offer immersive, hands-on learning experiences for recent college graduates from top universities across the U.S. to jump-start a career in retail, with specialization in technology, stores, merchandising and supply chain." (Item 1 > Human Capital Resources > Learning & Development)
+- **Cross-cultural: 2/5** (sufficient): Level 2: colleague resource groups and an inclusivity-focused early immersion program with no figures, while the demographic statistics count as disclosure only.
+  - Internships for college students and a Bloomingdale's early immersion program aimed at career exposure and inclusivity: "Macy's and Bloomingdale's offer internships for college students and Bloomingdale's offers an early immersion program focused on providing experiential learning and career exposure to foster inclusivity." (Item 1 > Human Capital Resources > Learning & Development)
+  - Colleague resource groups offered as an employee voice and engagement venue: "The Company gathers colleague feedback at key times throughout the colleague lifecycle from onboarding to offboarding and provides regular venues for colleagues to ask questions and share their opinions, such as Ask Me Anything sessions, town halls and colleague resource groups." (Item 1 > Human Capital Resources > Culture & Engagement)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the business description is complete and shows no service, program or tool enabling founders or small businesses, since the retail media network serves brand partners generally.
+- AI notes: The Mission Every One social purpose and the 'commitment to our customers, communities and employees' are general language only. Internships and the early immersion program have no participant figures, and the immersion program's audience is not stated, so it was scored conservatively. RISE factory counts (4, 8, 67) measure factories, not people reached, and the program's activities are not described, so it was held at level 2. The WWF water collaboration is environmental and was not scored. Bloomingdale's licensed partnerships in Dubai and Kuwait are international operations and do not count for Cross-cultural.
+
+### 10. The Cheesecake Factory, Inc. (CAKE): 26.0/100
 10-K filed 2026-02-23 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **26.0**
@@ -160,7 +229,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A evidence was available. Item 1 refers readers to the company's CSR report, which is not incorporated. A Foundation is mentioned only in executive biographies, and none of its activities are described, so it was not scored. The staff-to-staff HELP fund is an internal hardship fund and was not counted. The following were excluded as traps or non-qualifying: 'innovative' menu language, 'brand identity', 'diverse customer base', international licensing and selling in about 25 countries, 'joint venture or partnership arrangements', and independently-owned restaurants mentioned as competitors. Marketing-driven 'community partnerships' for North Italia, Flower Child and FRC are too vague to score. Cross-cultural coverage is insufficient, which triggers the second-look sustainability report rescoring.
 
-### 7. H&R Block (HRB): 26.0/100
+### 10. H&R Block (HRB): 26.0/100
 10-K filed 2026-08-14 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 2 (sufficient) → **26.0**
@@ -175,7 +244,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Block Advisors paid tax, bookkeeping and payroll services for small businesses through the office network: "Our Block Advisors® small business certified tax professionals provide small businesses with financial expertise in taxes, bookkeeping and payroll through our office network (including in-person, online and virtual)." (Item 1 > Other Offerings > Small Business Financial Solutions)
 - AI notes: Single reported segment, and no small-business revenue, user or customer counts are disclosed. The MD&A mentions only that 'small business payments transaction fees' grew, inside a combined $6.4 million figure that also includes credit card fees, so it was not used as an indicator. Franchising is described as a way for H&R Block to expand its own presence, not as a founder-enabling program, so it was not scored. Refund Transfers are 'frequently obtained' by clients without bank accounts, but they are described as a refund-disbursement and fee-payment feature, not a service built for underserved customers, so they were not counted for Cross-cultural. The Purpose and 'communities' language is general and did not raise Community. The 'equitable and comprehensive benefits' language is general, apart from seasonal-worker medical eligibility, which is required by the ACA.
 
-### 7. CarMax, Inc. (KMX): 26.0/100
+### 10. CarMax, Inc. (KMX): 26.0/100
 10-K filed 2026-04-15 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **26.0**
@@ -191,7 +260,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Wholesale auctions selling vehicles to licensed dealers [approximately 99%]: "This high sales rate, combined with dealer-friendly practices, makes our auctions an attractive source of vehicles for licensed dealers." (Item 1 > Business Overview > CarMax Business > Selling us a Vehicle)
 - AI notes: Item 7 excerpt mentions charitable contributions only as part of a G&A expense footnote, with no program or amount, so it was not scored. The filing references Responsibility Reports on the website but gives specific human capital content itself, so Community and Cross-cultural coverage is sufficient and no second look is triggered. WNBA/NWSL sponsorships, the Golden State Valkyries partnership and the Richmond ballpark naming rights are sports and brand marketing, not arts or community programs. Credit-spectrum financing access (Tier 3 providers) was considered but is not tied to cultural or underserved-community barriers. The Edmunds acquisition happened in 2021 (past); E1 is marked current because the Edmunds business and its staff (488 associates) operate in fiscal 2026. Uses of 'innovation' and 'foundation' (credit platform) are traps.
 
-### 10. SharkNinja (SN): 20.0/100
+### 13. SharkNinja (SN): 20.0/100
 10-K filed 2026-03-02 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **20.0**
@@ -203,19 +272,36 @@ Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: the filing describes only the company's own innovation and has no specific service or program enabling founders or small businesses.
 - AI notes: Final score per formula: 7 + 6 + 4 + 3 = 20/100. Several trap terms were excluded. 'Storytelling' (Item 1 and Item 7) is brand marketing. 'Educate consumers' is marketing, not education. 'Global community of passionate brand ambassadors' (Item 7) is a customer base, not community activity. 'Accessible price points' refers to pricing, not accessibility. 'Accessibility' in Government Regulations is a legal risk mention. 'Design' here means product and engineering design. The 'seller/listing termination program' is anti-counterfeit enforcement, not a seller-enabling marketplace. 'Owner-operated factories' are suppliers, not an enabling program. The Positive Impact Plan activities described (refurbishing/remanufacturing, carbon offsets) are environmental and fall outside the four themes. The 'Built In' best-workplace award and the employee headcount (approximately 4,143 employees) are recognitions and disclosures, not activities. The Item 7 excerpts contained no qualifying activity. No second look is triggered because all themes are marked sufficient. The 10-K's people section discusses culture values only, so the Community cap of 2 would apply even if training were later disclosed.
 
-## Consumer Staples (5 companies)
+## Consumer Staples (8 companies)
 
-**Shortlist (2):** Keurig Dr Pepper (KDP, 26.0), Maplebear Inc. (CART, 23.0)
+**Shortlist (4):** J.M. Smucker Company (The) (SJM, 33.0), Keurig Dr Pepper (KDP, 26.0), Maplebear Inc. (CART, 23.0), e.l.f. Beauty (ELF, 20.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Keurig Dr Pepper (KDP) | **26.0** | 1 | 2 | 1 | 1 | yes | rescored with report, 2 note(s) |
-| 2 | Maplebear Inc. (CART) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
-| 3 | e.l.f. Beauty (ELF) | **20.0** | 1 | 1* | 1* | 1 |  | insufficient coverage, 1 note(s) |
-| 4 | Altria (MO) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 5 | Philip Morris International (PM) | **13.0** | 0 | 1 | 1 | 1 |  |  |
+| 1 | J.M. Smucker Company (The) (SJM) | **33.0** | 1 | 3 | 2 | 0 | yes |  |
+| 2 | Keurig Dr Pepper (KDP) | **26.0** | 1 | 2 | 1 | 1 | yes | rescored with report, 2 note(s) |
+| 3 | Maplebear Inc. (CART) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 4 | e.l.f. Beauty (ELF) | **20.0** | 1 | 1* | 1* | 1 | yes | insufficient coverage, 1 note(s) |
+| 5 | Archer Daniels Midland (ADM) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 5 | Monster Beverage (MNST) | **19.0** | 1 | 2 | 0 | 0 |  |  |
+| 5 | Altria (MO) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 8 | Philip Morris International (PM) | **13.0** | 0 | 1 | 1 | 1 |  |  |
 
-### 1. Keurig Dr Pepper (KDP): 26.0/100 · shortlist
+### 1. J.M. Smucker Company (The) (SJM): 33.0/100 · shortlist
+10-K filed 2026-06-09 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **33.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: this rests on general description only; the company is a packaged food maker whose only creative involvement is routine use of brand slogans and package designs as trademarks.
+- **Community: 3/5** (sufficient): Level 3: community investment with substantial reach shown by indicators (more than $9 million donated to named partners), plus named external literacy and youth programs and employee development.
+  - Company donated more than $9 million to named charitable partners during the year [more than $9 million]: "This past year we donated more than $9 million to key partners, including American Red Cross®, Feeding America®, Greater Good Charities, Military Family Advisory Network, Canine Assistants, and the Akron Canton Regional Foodbank." (Item 1 > Human Capital Management > Community)
+  - Named childhood literacy program with Akron Children's Hospital that gives books to children at well visits: "We continue to partner with Akron Children’s Hospital in support of the Smucker’s Berry Good Reading Program, which provides books to children during annual well visits." (Item 1 > Human Capital Management > Career)
+- **Cross-cultural: 2/5** (sufficient): Level 2: employee resource groups are a specific current internal practice, but no membership or other reach figures are disclosed.
+  - Employee resource groups open to all employees as members or allies: "We have established employee resource groups, which are employee-led groups that represent a unique community and welcome all employees to join as either a member or ally." (Item 1 > Human Capital Management > Community)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the business description is sufficient and shows no program or service that enables founders or small businesses.
+- AI notes: Several items were excluded as rubric traps or non-qualifying. 'Discovering the Art of Leadership' is management training, not creative work. The Dunkin' Licenses are trademark licensing with royalties to a brand owner, not payments to creators. The 'innovation' language refers to the company's own product innovation and was treated as a trap; when torn between 0 and 1 for Entrepreneurship, the lower level was taken. In Item 7, 'food accessibility' appears only in a regulatory risk list and is not a program. Some activities were mentioned but not recorded separately. The donation of a roughly 19,000 sq ft building and over 30 acres to the Akron Canton Regional Foodbank has no stated date, and that partner is already within E1. Milk-Bone funding for Canine Assistants is also covered by E1. Inclusive benefits (domestic partner insurance coverage, a floating holiday for personal beliefs, an annual pay equity analysis) and tuition assistance would only reinforce levels already reached. The statement about a workforce that 'reflects the consumers we serve' is general language. The 10-K points to the 2025 Corporate Impact Report, but coverage is sufficient because the 10-K itself describes specific activities.
+
+### 2. Keurig Dr Pepper (KDP): 26.0/100 · shortlist
 10-K filed 2026-02-24 (fiscal 2025) · source: 10-K + sustainability report · report: https://www.keurigdrpepper.com/wp-content/uploads/2026/06/impact-report.pdf
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **26.0**
@@ -232,7 +318,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - Flags: report is not on the company's main domain (keurig.com); quick human check: https://www.keurigdrpepper.com/wp-content/uploads/2026/06/impact-report.pdf; SL-E1: report quote may be a sentence fragment
 - AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Community and Cross-cultural are marked insufficient, which triggers the automated second look using the KDP impact report referenced at www.keurigdrpepper.com. The partner-brand distribution model (C4, Bloom, Electrolit and others, with occasional investments) was a borderline case for Entrepreneurship level 2; it was scored 1 under the 'pick the lower level' rule because the partners include large established brands and no founder-focused program is described. The JDE Peet's acquisition (expected Q2 2026) and the planned separation into beverage and coffee companies are planned events and were not scored. 'Licensing' in the filing refers to trademark and brand licensing, a Creativity trap, and was not counted as licensing creators.
 
-### 2. Maplebear Inc. (CART): 23.0/100 · shortlist
+### 3. Maplebear Inc. (CART): 23.0/100 · shortlist
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -247,7 +333,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Fulfillment technology offered to retailers of all sizes, including local stores: "Retailers — from national and regional retailers to local mainstays — can leverage our fulfillment API to help fulfill orders that are placed through their owned and operated online storefronts." (Item 1 > Instacart Technology > Instacart Enterprise Platform)
 - AI notes: Final score is 0 + 12 + 8 + 3 = 23/100. The approximately 600,000 independent-contractor shoppers offered a 'flexible earnings opportunity' are gig work, not founders building ventures, so they were not counted for Entrepreneurship. The 'Instacart community' of shoppers in Item 1 and the Item 7 excerpt is not a Community activity. Instacart Ads, brand pages and Carrot Ads are advertising tools for consumer brands, not creative work. The 165 copyright registrations are IP protection, not a creative activity. ERG volunteer events are mentioned without figures, so they were not scored separately as community investment. The Human Capital section is well over 150 words, so coverage for Community and Cross-cultural is sufficient and no second look is triggered.
 
-### 3. e.l.f. Beauty (ELF): 20.0/100
+### 4. e.l.f. Beauty (ELF): 20.0/100 · shortlist
 10-K filed 2026-05-21 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 1 (insufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **20.0**
@@ -260,7 +346,36 @@ Scores: Creativity 1 (sufficient) · Community 1 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: The Keys Soulcare brand was transferred to Alicia Keys in May 2026 and is no longer in the portfolio (past). The rhode brand was founded by Hailey Rhode Bieber, but it is an acquired brand rather than a program enabling founders. 'Accessible' and 'inclusive' in the filing mainly refer to low prices (an average of about $7 versus $30 for prestige brands); broad affordability was not counted as targeted customer access for underserved or cross-cultural groups. The Item 7 excerpt only repeats the Item 1 overview. Community and Cross-cultural are marked insufficient, which triggers the automated second look using the Impact Report at elfbeauty.com/impact.
 
-### 4. Altria (MO): 19.0/100
+### 5. Archer Daniels Midland (ADM): 19.0/100
+10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers agricultural processing, ingredients and nutrition products, with no creative work created or enabled; flavor and color ingredients and recipes are not creative activity under the rubric.
+- **Community: 2/5** (sufficient): Level 2: the only specific activity is employee development (training, the Ability to Lead program and early career programs), so the score is capped at 2.
+  - Training and development programs for employees, including a named leadership program (Ability to Lead) and early career programs: "The Company invests in training and development programs designed to enhance technical, leadership, and professional skills and support internal talent mobility and succession planning." (Item 1 > Human Capital and Culture)
+- **Cross-cultural: 1/5** (sufficient): Level 1: this rests on general language only, since the Human Capital section mentions fostering a diverse and inclusive workforce and culture but describes no specific practice, network or access program.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: ADM Ventures start-up investments serve the company's own strategic objectives, and farmer financing is ordinary financing, so there is no specific program enabling founders or small businesses.
+  - Corporate venture investments in early-stage start-ups through ADM Ventures, aimed at the company's own strategic objectives: "Corporate includes the activities related to cost and equity method investments in early-stage start-up companies within ADM Ventures." (Item 1 > Segment Descriptions > Corporate)
+  - Seasonal crop-cycle financing advanced to farmers and repaid at harvest: "The Company has seasonal financing arrangements with farmers in certain countries around the world." (Item 1 > Seasonality, Working Capital Needs, and Significant Customers)
+- AI notes: The Human Capital section is well over 150 words and describes specific employee programs, so Community and Cross-cultural are sufficient and no second look is triggered. The Corporate Sustainability Report is referenced only for environmental program updates. The regenerative agriculture program engages supply-chain growers on farming practices; it is not described as education or community investment and has no figures, so it was not scored. The Item 7 Plainsman Company joint venture with PYCO, described as 'a leader in the local agricultural communities it serves', is a joint venture trap and was not counted. The employee headcount table by region and contract type is not a cultural demographic and was not scored. 'Innovative' and 'innovation' language throughout is a trap.
+
+### 5. Monster Beverage (MNST): 19.0/100
+10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 0 (sufficient) → **19.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: creative work appears only as a routine business input (band sponsorships listed among marketing tactics and label redesign), with no business that creates or enables creative work.
+  - Brand marketing that includes sponsorship of bands and esports among many promotional tactics: "We support our non-alcohol brands with prize promotions, price promotions, competitions, endorsements from selected public and sports figures, sports personality endorsements, influencer endorsements, collaborations, sampling and sponsorship of selected athletes, teams, series, bands, esports, causes and events." (Item 1 > Sales and Marketing)
+  - In-house redesign of product labels and graphics: "The labels and graphics for many of our products are redesigned and refreshed from time to time to maximize their visibility and identification, wherever they may be placed in stores, which designs we continue to reevaluate from time to time." (Item 1 > Sales and Marketing)
+- **Community: 2/5** (sufficient): Level 2: the filing describes only employee development programs (manager development, leadership platform, e-learning), so Community is capped at 2.
+  - Mid-level manager development program for employees: "We have a mid-level manager development program, in which participants learn leadership skills, network with peers and senior executives, and tackle critical initiatives." (Item 1 > Human Capital Resources)
+  - E-learning platform offering job, career and professional development courses to employees: "In addition, we provide employees with access to an e-learning platform that offers courses focused on job and career training, business acumen, professional development and technical capabilities." (Item 1 > Human Capital Resources)
+- **Cross-cultural: 0/5** (sufficient): Level 0: the Human Capital section is long enough to judge, and it shows no employee networks, inclusive practices, accessibility, multilingual or underserved-customer programs; international operations and regional headcounts do not count.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the business description shows no service or program enabling founders or small businesses; small companies are mentioned only as competitors.
+- AI notes: The Item 7 targeted excerpt was empty, so it contained no MD&A paragraphs mentioning the theme terms. Band and esports sponsorship is listed only as a generic brand-marketing tactic with no named program or reach, so it was scored as uses_as_input and not as an arts sponsorship (when torn between levels, the lower one was chosen). Trademark licensing for merchandise and craft-beer branding were not treated as creative enabling. The Human Capital section gives headcounts by geographic region, which are not demographic statistics about backgrounds and were not scored. Traps excluded: small competitors, the small-brewer excise tax, and 'identity theft assistance' in benefits.
+
+### 5. Altria (MO): 19.0/100
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -275,7 +390,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Contract growing program buying leaf tobacco directly from domestic growers: "In the United States, under a contract growing program, PM USA purchases the majority of its burley and flue-cured leaf tobaccos directly from domestic tobacco growers." (Item 1 > Description of Business > Distribution, Competition and Raw Materials)
 - AI notes: Item 7 excerpts contain no qualifying activity: 'educational campaigns' refers to state and local tobacco-control legislation, and 'scientific and public health communities' is a trap term. 'Horizon Innovations LLC' and 'Helix Innovations LLC' are entity names and the joint venture is a trap term; the Horizon HTS joint venture has no products on the market, so it is planned only. The human capital section points to Corporate Responsibility Reports on www.altria.com but also describes specific activities itself, so coverage is sufficient. Family-creation benefits (surrogacy, adoption, doula reimbursement) and up to 12 weeks of paid family leave were considered for Cross-cultural as inclusive benefits, but the filing presents them as general benefits, so they were not scored above 1. The pay-equity sentence with unadjusted figures (98.4%, 98.5%) exceeds the quote length limit, so only the adjusted figures are quoted. NJOY ACE is subject to an ITC exclusion order, which is not relevant to the themes.
 
-### 5. Philip Morris International (PM): 13.0/100
+### 8. Philip Morris International (PM): 13.0/100
 10-K filed 2026-02-06 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **13.0**
@@ -289,26 +404,44 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
   - Company's own R&D investment in developing and selling smoke-free products [$16 billion]: "Since 2008, we have invested over $16 billion to develop, scientifically substantiate and commercialize innovative smoke-free products for adults who would otherwise continue to smoke, with the goal of completely ending the sale of cigarettes." (Item 1 > General Development of Business > General)
 - AI notes: The Item 7 excerpt repeats the Item 1 wellness paragraph, and its 'strong foundation' is a trap that was not counted. Direct contracting with farmers (about 23% of leaf requirements) is a supplier relationship, not an enabling program, so it was not scored for Entrepreneurship. Water stewardship guidance for irrigation is environmental, not community education. The EQUAL-SALARY certification is a real third-party-reviewed practice, but the filing does not describe its focus or reach; a human reviewer may consider level 2 for Cross-cultural. Collective bargaining and the European Works Council are employee relations, not development. Segments were reorganized effective January 1, 2026, which does not affect scoring. Computed total: 0 + 6 + 4 + 3 = 13/100.
 
-## Energy (12 companies)
+## Energy (16 companies)
 
-**Shortlist (5):** Marathon Petroleum (MPC, 23.0), Kinetik Holdings, Inc. (KNTK, 22.0), CVR Energy, Inc. (CVI, 20.0), HF Sinclair (DINO, 20.0), International Seaways, Inc. (INSW, 20.0)
+**Shortlist (7):** Devon Energy (DVN, 29.0), Marathon Petroleum (MPC, 23.0), Ovintiv (OVV, 23.0), Kinetik Holdings, Inc. (KNTK, 22.0), CVR Energy, Inc. (CVI, 20.0), HF Sinclair (DINO, 20.0), International Seaways, Inc. (INSW, 20.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Marathon Petroleum (MPC) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
-| 2 | Kinetik Holdings, Inc. (KNTK) | **22.0** | 0 | 3 | 1 | 0 | yes |  |
-| 3 | CVR Energy, Inc. (CVI) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
-| 3 | HF Sinclair (DINO) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
-| 3 | International Seaways, Inc. (INSW) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
-| 6 | Phillips 66 (PSX) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
-| 6 | Valero Energy (VLO) | **19.0** | 0 | 2 | 1* | 1 |  | rescored with report, insufficient coverage |
-| 8 | APA Corporation (APA) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 8 | Chord Energy (CHRD) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 8 | EOG Resources (EOG) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 8 | SM Energy Company (SM) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 12 | PBF Energy (PBF) | **10.0** | 0 | 1 | 1* | 0 |  | insufficient coverage, 1 note(s) |
+| 1 | Devon Energy (DVN) | **29.0** | 1 | 3 | 1 | 0 | yes |  |
+| 2 | Marathon Petroleum (MPC) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 2 | Ovintiv (OVV) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 4 | Kinetik Holdings, Inc. (KNTK) | **22.0** | 0 | 3 | 1 | 0 | yes |  |
+| 5 | CVR Energy, Inc. (CVI) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 5 | HF Sinclair (DINO) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 5 | International Seaways, Inc. (INSW) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 8 | ConocoPhillips (COP) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 8 | Phillips 66 (PSX) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
+| 8 | Valero Energy (VLO) | **19.0** | 0 | 2 | 1* | 1 |  | rescored with report, insufficient coverage |
+| 11 | APA Corporation (APA) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 11 | Chord Energy (CHRD) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 11 | EOG Resources (EOG) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 11 | SM Energy Company (SM) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 15 | PBF Energy (PBF) | **10.0** | 0 | 1 | 1* | 0 |  | insufficient coverage, 1 note(s) |
+| 15 | Permian Resources (PR) | **10.0** | 0 | 1 | 1 | 0 |  |  |
 
-### 1. Marathon Petroleum (MPC): 23.0/100 · shortlist
+### 1. Devon Energy (DVN): 29.0/100 · shortlist
+10-K filed 2026-02-18 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **29.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the only creative reference is 'arts and culture' listed as a community partnership focus area, with no specific program or figures; the core business is oil and gas production.
+  - Community partnerships across social services, conservation, emergency response, arts and culture, and STEM education: "Along with our workforce efforts, we invest in community partnerships focusing on social services, environment and conservation, emergency response and preparedness, arts and culture and STEM education." (Item 1 > Human Capital > Employee Culture and Community)
+- **Community: 3/5** (sufficient): Level 3: external STEM education through 194 STEM centers in elementary and middle schools, with a disclosed figure, plus community partnerships and employee development.
+  - Community partnerships across social services, conservation, emergency response, arts and culture, and STEM education: "Along with our workforce efforts, we invest in community partnerships focusing on social services, environment and conservation, emergency response and preparedness, arts and culture and STEM education." (Item 1 > Human Capital > Employee Culture and Community)
+  - Opens STEM centers in elementary and middle schools where the company operates, working with school districts [194 STEM centers]: "Devon has helped open 194 STEM centers that orient children of all backgrounds to skills that will be essential for the future workforce." (Item 1 > Human Capital > Employee Culture and Community)
+- **Cross-cultural: 1/5** (sufficient): Level 1: rests only on general language ('sense of belonging and inclusion', 'range of thoughts, experiences and points of view') and equal-opportunity boilerplate, with no specific networks, accessibility or customer-access activities.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes the business fully and shows no service or program enabling founders or small businesses; 'culture of innovation', 'innovative thinking' and the Dow 'joint venture' are excluded traps.
+- AI notes: The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The 194 STEM centers figure is cumulative since 2019, not reporting-year only, and the program is described in the present tense as ongoing, so it is treated as current. 'State-of-the-art STEM tools' is a Creativity trap and was not counted. The $100 million spent in 2025 on emissions-reduction capital projects is environmental and does not map to any theme. Employee benefits such as parental leave, adoption assistance and flexible work are standard benefits, not clearly inclusion practices that remove barriers; when torn, the lower level was chosen. Annual Code of Conduct training is compliance training and was not counted. The STEM centers were not counted for Cross-cultural, because 'children of all backgrounds' is general language rather than a targeted inclusion practice.
+
+### 2. Marathon Petroleum (MPC): 23.0/100 · shortlist
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -324,7 +457,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Supplies refined products to independent entrepreneurs who operate Marathon-branded outlets [7,882 brand jobber outlets in 40 states]: "As of December 31, 2025, there were 7,882 brand jobber outlets in 40 states, the District of Columbia and Mexico where independent entrepreneurs primarily maintain Marathon-branded outlets." (Item 1 > Our Operations > Refining & Marketing > Refined Product Sales)
 - AI notes: The Item 7 (targeted) section provided was empty, so all evidence comes from Item 1. The CEO's seat on the Cynthia Woods Mitchell Pavilion board is a personal role, not a company activity, and was not counted for Creativity. 'Independent entrepreneurs' operating Marathon/ARCO outlets is a supply-customer relationship (serving), not an enabling program. The scholarship program is described only as 'a significant number' with no figures, so it was held at level 2. The Tribal Lands discussion is regulatory and was not counted for Cross-cultural.
 
-### 2. Kinetik Holdings, Inc. (KNTK): 22.0/100 · shortlist
+### 2. Ovintiv (OVV): 23.0/100 · shortlist
+10-K filed 2026-02-23 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers oil and natural gas exploration and production and shows no creative activity; 'design' references are engineering (casing and well design).
+- **Community: 2/5** (sufficient): Level 2: only employee development activities are described, so the score is capped at 2; community contributions appear only as general language.
+  - Employee skills development through job rotations, mentoring, formal learning programs and instructor-led workshops: "Opportunities are provided for Ovintiv’s employees to further develop leadership, technical and business skills through on-the-job work experiences and job rotations, development opportunities, networking and mentoring, as well as formal learning programs and instructor led workshops." (Item 1 > Human Capital > Employee Development and Retention)
+  - New graduate and intern hiring program in technical and professional disciplines [13 new graduates and 44 interns per year]: "The Company also offers new graduate and intern opportunities in both technical and professional disciplines to support the recruitment of top talent, hiring an average of 13 new graduates and 44 interns per year over the past three years." (Item 1 > Human Capital > Employee Development and Retention)
+- **Cross-cultural: 2/5** (sufficient): Level 2: a single named employee networking group with no membership or reach figures.
+  - Employee networking group (Leveraging Inclusion, Networking and Knowledge) open to all employees: "Ovintiv has an employee networking group called Leveraging Inclusion, Networking and Knowledge, which helps provide opportunities for all employees to engage, collaborate, learn and grow, in addition to fostering an environment where diverse perspectives are celebrated." (Item 1 > Human Capital > Inclusive Workforce)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation and AI-driven efficiency, with no service or program enabling founders or small businesses.
+- AI notes: Item 7 excerpt references a 'social commitment framework' and 'positive contributions to the communities where it operates' without specific programs, so it is treated as general language. The filing points to an annual Sustainability Report and sustainability.ovintiv.com, but Item 1 itself has a Human Capital section above 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Indigenous consultation (Blueberry River First Nation agreement) is a regulatory process, not a company program, and is not scored. Safety training is compliance training and reserves-evaluator training is narrow internal training; neither changes the Community score. The interns figure reflects recruitment into the company, so it is tagged employee_development rather than external_education.
+
+### 4. Kinetik Holdings, Inc. (KNTK): 22.0/100 · shortlist
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **22.0**
@@ -337,7 +484,7 @@ Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: there is no service, program or tool enabling founders or small businesses; 'New Energy Ventures' and 'innovative' technologies are the company's own internal initiatives and fall under the innovation trap.
 - AI notes: The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. Community: the 20,600 hours of EHS training cover safety and regulatory topics (environmental compliance, OSHA, driver safety, emergency response). They are treated as compliance training under the trap rule and not recorded. The KEEP hazard-reporting program and engagement surveys are engagement, not development. The Community score of 3 rests mainly on the $1.6 million in giving. This amount is modest in absolute terms but is a disclosed dollar indicator with named recipients. Landowner and local-government engagement is operational relations and was not scored. Cross-cultural: Workplace Harassment and Discrimination Free Workplace training are required compliance training. The 10-K mentions a FY2024 Sustainability Report, but the coverage is sufficient, so no second look is triggered. Entrepreneurship: 'New Energy Ventures' is the company's own internal team, not support for outside founders. The Sustainability-Linked Notes are financing terms, not a theme activity.
 
-### 3. CVR Energy, Inc. (CVI): 20.0/100 · shortlist
+### 5. CVR Energy, Inc. (CVI): 20.0/100 · shortlist
 10-K filed 2026-02-18 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
@@ -351,7 +498,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes wholesale fuel and fertilizer sales with no small-business or founder enabling activity.
 - AI notes: The Renewables Segment's renewable diesel unit was reverted to hydrocarbon processing in December 2025, so segment changes are expected in 2026 (not theme-relevant). The 'Corporate Citizenship' value in Item 7 mentions financial donations and employee contributions of time, but gives no specific program or figures; it is treated as a values statement only, and the specific volunteer policy is captured in E3. Safety training and the equal-opportunity statement are treated as compliance or boilerplate and do not score. Trap terms excluded: 'joint venture' (pipelines, CapturePoint 45Q), 'foundation' (Item 7 values and nitrogen outlook), 'communities' in safety language, 'small refinery' (RFS regulatory term), and 'licenses' (permits). Dependent scholarships benefit employees' children and are tagged conservatively as employee development.
 
-### 3. HF Sinclair (DINO): 20.0/100 · shortlist
+### 5. HF Sinclair (DINO): 20.0/100 · shortlist
 10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
@@ -366,7 +513,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes customers and markets in detail but shows no service or program enabling founders or small businesses; branded sites and independent marketers appear only as fuel customers, and when torn between 0 and 1 the lower level is chosen.
 - AI notes: The Item 7 (targeted) excerpt was empty, so all evidence comes from Item 1. Values language ('inclusion' as one of five core values, 'committed to attracting, retaining and developing a highly engaged... workforce') and equal-opportunity boilerplate were not scored above 1 on their own. Safety education and training (Goal Zero) and required spill-response exercises were treated as compliance or safety training and excluded. The ERG statement that ERGs develop talent 'through education, networking and leadership development' could also be read as employee development, but it was not cited for Community because Community is already at its employee-development level through E1. Charitable financial contributions are mentioned with no dollar amounts. Brand licensing fees from more than 350 locations and branded fuel sales to more than 1,700 sites are customer relationships, not creative or entrepreneurship-enabling programs.
 
-### 3. International Seaways, Inc. (INSW): 20.0/100 · shortlist
+### 5. International Seaways, Inc. (INSW): 20.0/100 · shortlist
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
@@ -380,7 +527,22 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing fully describes the customer base (oil majors, traders, refiners, governments) and shows no small-business or founder-enabling activity.
 - AI notes: The Item 7 targeted excerpt was empty. Industry memberships and declarations (ITOPF, Marine Anti-Corruption Network, Together in Safety, Neptune Declaration, Gulf of Guinea Declaration) are safety, compliance or industry initiatives and were not counted as community investment. The 'Performance and Sustainability team ... educating the organization' is internal and decarbonization-focused, so it was not counted. Uses of 'foundation' (Fleet Decarbonization Project, 'foundation of everything that we do'), 'innovation' and required OPA 90 training and drills are traps or compliance and were not scored. The diversity values statement and the board/executive diversity claims are general language. The female cadet figure appears only in a table footnote, and the cadets are excluded from the employee counts. The filing points to a Sustainability Disclosure Report on the company website but itself describes specific human capital activities, so coverage is sufficient. The employee table totals (2,734) differ from the headline headcount (2,763); this was noted but not used as an indicator.
 
-### 6. Phillips 66 (PSX): 19.0/100
+### 8. ConocoPhillips (COP): 19.0/100
+10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers oil and gas exploration, production and LNG in detail and shows no creative activity; technology licensing is an excluded trap.
+- **Community: 2/5** (sufficient): Level 2: only employee development and recruitment activities are described, so the score is capped at 2.
+  - Employee development through on-the-job learning, formal training, feedback, coaching and mentoring: "We engage and develop our workforce through on-the-job learning, formal training, ongoing feedback, coaching and mentoring." (Item 1 > Human Capital Management > Valuing our People > Employee Engagement and Development)
+  - Partnerships with universities and organizations to build an early-career recruiting pipeline: "We recruit experienced hires to help us sustain a broad range of expertise and partner with universities and organizations to create a pipeline of early-career talent." (Item 1 > Human Capital Management > Attracting a World-Class Workforce)
+- **Cross-cultural: 1/5** (sufficient): Level 1: the filing gives general inclusive-environment language, employees-by-country statistics and standard benefits, but no specific inclusion, access or community-connecting activity.
+  - Employee benefits covering disability support, elder care and childcare, including onsite childcare where local access is limited: "We also provide coverage for disability support, elder care and childcare, including onsite childcare, where access locally is a challenge." (Item 1 > Human Capital Management > Valuing our People > Compensation, Benefits and Well-Being)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: the filing shows only the company's own innovation (LNG technology licensing) and no service or program enabling founders or small businesses.
+  - Licensing of the company's proprietary LNG liquefaction technology [28 LNG trains]: "Our Optimized Cascade® LNG liquefaction technology has been licensed for use in 28 LNG trains around the world, with FEED studies ongoing for additional trains." (Item 1 > Other > Technology)
+- AI notes: Item 7 (targeted) contained only a reference to the Emergency Planning and Community Right-to-Know Act, which is a regulatory trap and was not counted. Oil spill response organization memberships and emergency response partnerships are industry operational-preparedness cooperatives, not community investment or education, so they were not counted. The employees-by-country table and operations in 14 countries are demographics and international operations only. The 'Innovation' SPIRIT value and the 'inclusive environment' statement are general language. Licensing of Optimized Cascade® technology is a technology license, not creative licensing.
+
+### 8. Phillips 66 (PSX): 19.0/100
 10-K filed 2026-02-20 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -393,7 +555,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: Rigorous employee safety training is mentioned, but it was not scored separately because it is largely compliance-type safety training and would not change the Community score. Brand-licensing agreements for fuel outlets were treated as a trap, not creative licensing. The Los Angeles Refinery stopped fuel production and began idling in Q4 2025; its decommissioning and redevelopment move to Corporate and Other in 2026. Cross-cultural coverage is insufficient, which triggers the automated second look; the 10-K says the 2025 Sustainability and People Report is on the company website (phillips66.com). Illustrative total before any second look: 0 + 12 + 4 + 3 = 19/100.
 
-### 6. Valero Energy (VLO): 19.0/100
+### 8. Valero Energy (VLO): 19.0/100
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K + sustainability report · report: https://www.valero.com/sites/default/files/valero-documents/2025-08/2025%20GPR%20FINAL%20DIGITAL%20Pages.pdf
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -408,7 +570,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Supplies independently owned branded fuel sites under multi-year contracts [7,000 outlets]: "These sites are independently owned and are supplied by us under multi-year contracts." (Item 1 > Our Operations > Refining > Marketing > Wholesale Rack Sales)
 - AI notes: The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. Tuition reimbursement and financial education appear in a single benefits sentence of about 75 words; they were not recorded separately because the sentence exceeds the quote length, and they would be employee development under the same Community cap anyway. Year-round safety training for employees and contractors is operational and compliance training and was not scored. The filing points to the 2025 Valero Report on Guiding Principles for community and employee disclosures but gives no specific community activities, so Cross-cultural (insufficient) triggers the automated second look; Community was marked sufficient because the filing describes employee training. Caregiver support networks and an on-site child care center are employee benefits, not cross-cultural practices. The planned idling of the Benicia Refinery by April 2026 does not affect any theme. 'Foundation of respect' and 'reward innovation' are traps and were not scored.
 
-### 8. APA Corporation (APA): 16.0/100
+### 11. APA Corporation (APA): 16.0/100
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -421,7 +583,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the business is fully described and shows no service or program enabling founders or small businesses ('New Ventures' and 'joint venture' refer to the company's own exploration interests).
 - AI notes: The Item 7 (targeted) section provided was empty, so scoring rests on Item 1 only. The Community Partnerships section gives no dollar amounts or participant counts for any program, and the 16,000-tree figure was judged not enough to show substantial reach. The Pecos Watershed Conservation Initiative support is environmental conservation, not community or education, so it was not recorded. Engagement with educational institutions is described as recruitment, so it was not counted. U.S. benefits include parental leave for birth and adoption and fertility/family-building benefits. These were not counted as cross-cultural inclusion because the filing does not describe them as aimed at any underrepresented group, and the lower level was chosen when torn. The Technical Excellence Initiative is only an initial framework with broader implementation planned for 2026, and the IDP framework has just begun, so both are folded into E1 employee development. Mandatory compliance, cybersecurity and HSE training were excluded.
 
-### 8. Chord Energy (CHRD): 16.0/100
+### 11. Chord Energy (CHRD): 16.0/100
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -434,7 +596,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no service, program or tool enabling founders or small businesses; 'culture of innovation' is a trap term and, when torn between 0 and 1, the lower level applies.
 - AI notes: Final score: Creativity 0 (0), Community 2 (12), Cross-cultural 1 (4), Entrepreneurship 0 (0) = 16/100. The 10-K points to its Sustainability Report and website for ESG detail but also describes specific activities itself (Community Involvement, Training, Workforce dynamics sections, each over 150 words), so coverage is sufficient and no second look is triggered. Volunteer time off, employee volunteerism and philanthropy are mentioned without figures and were not scored separately. Field offices in New Town and Mandaree are listed without any described community or cross-cultural program, so they were not counted. Mentions of 'communities' in the mission and safety statements are general language. Safety and Code of Conduct certification training are treated as compliance training. The targeted Item 7 excerpts repeat the mission statement and goodwill accounting text only, and add no qualifying activity.
 
-### 8. EOG Resources (EOG): 16.0/100
+### 11. EOG Resources (EOG): 16.0/100
 10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -447,7 +609,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no small business, founder or creator enabling activity, and the 'innovation' references concern the company's own drilling technology, which is a listed trap.
 - AI notes: The Item 7 (targeted) excerpt was empty, meaning no MD&A paragraphs matched the theme terms. Safety training for employees and contractors was excluded because it is compliance training. The Human Capital Management section runs well over 150 words, so Community and Cross-cultural are marked sufficient, even though the diversity paragraph alone is short. International operations in Trinidad, Bahrain and the UAE, the use of 'diversified' marketing, references to tribal lands as regulatory matters, and 'design' meaning platform engineering were treated as traps and not scored. Illustrative weighted total: 0 + 12 + 4 + 0 = 16/100.
 
-### 8. SM Energy Company (SM): 16.0/100
+### 11. SM Energy Company (SM): 16.0/100
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -461,7 +623,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: there are no small-business customers or enabling programs, and references to 'innovation' and 'innovative ideas' are trap terms.
 - AI notes: The Civitas Merger closed January 30, 2026, after fiscal year end. Most data excludes Civitas, but the 1,241 headcount includes former Civitas employees. The purpose statement and repeated 'committed to... investing in and connecting with the communities' language (Item 1 Strategy, EH&S Initiatives, Item 7) is mission language and was not scored above 1. Tribal employment and contractor preferences in the Uinta Basin are described as regulatory requirements, not company programs, so they were not counted. Item 7 refers to the proxy statement for compensation only, not for community or inclusion activities, so coverage is sufficient.
 
-### 12. PBF Energy (PBF): 10.0/100
+### 15. PBF Energy (PBF): 10.0/100
 10-K filed 2026-02-12 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 0 (sufficient) → **10.0**
@@ -476,13 +638,27 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: The targeted Item 7 excerpt was empty, so no MD&A paragraphs mention the theme terms. Safety training under OSHA is compliance training and was not counted. Cross-cultural coverage is insufficient, which triggers the automated second look using a sustainability report. Implied total: 0 + 6 + 4 + 0 = 10/100.
 
-## Financials (1 companies)
+### 15. Permian Resources (PR): 10.0/100
+10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
-**Shortlist (1):** Victory Capital Holdings, Inc. (VCTR, 26.0)
+Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **10.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers oil and gas acquisition, development and production in full and shows no creative activity.
+- **Community: 1/5** (sufficient): Level 1: the only specific training described is field safety training (compliance-type), and the reference to career-growth programs is general language with no specific program, so the lower level applies.
+  - Regular safety training sessions and monthly safety meetings for field employees: "Through frequent training sessions and monthly safety meetings, we equip our field employees with the knowledge and tools to mitigate risks and uphold our strong safety culture." (Item 1 > Human Capital Resources)
+- **Cross-cultural: 1/5** (sufficient): Level 1: this rests on general language only, a statement valuing employees with 'different skillsets, experiences and interests', with no specific practice, network or customer-access activity.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the business description shows no service or program enabling founders or small businesses; 'empower our employees to be innovators' is a trap term and does not count.
+- AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs mentioned the theme terms. The Human Capital Resources section runs about 330 words and covers employees, benefits, workforce composition and safety, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. 'Community' appears only in regulatory contexts (e.g., Emergency Planning and Community Right-to-Know Act) and in a general safety statement; neither qualifies. Disability plans are listed as standard benefits and were not treated as an inclusion practice. Indicative final score: 0 + 6 + 4 + 0 = 10/100.
+
+## Financials (3 companies)
+
+**Shortlist (2):** Victory Capital Holdings, Inc. (VCTR, 26.0), Jackson Financial, Inc. (JXN, 20.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Victory Capital Holdings, Inc. (VCTR) | **26.0** | 1 | 2 | 1 | 1 | yes |  |
+| 2 | Jackson Financial, Inc. (JXN) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 3 | Affiliated Managers Group (AMG) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
 
 ### 1. Victory Capital Holdings, Inc. (VCTR): 26.0/100 · shortlist
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
@@ -499,45 +675,101 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Private funds providing growth capital to small- and mid-sized clean energy projects and companies [less than $1 billion]: "NEC was one of the first investors to focus on clean energy and infrastructure investments of small-and mid-sized clean energy infrastructure projects and companies." (Item 1 > Our Investment Franchises > New Energy Capital (NEC))
 - AI notes: The Human Capital section refers readers to the Responsible Business Report on the company website, but it also describes specific activities itself, so coverage is sufficient and no second look is triggered. The 529 Education Savings Plan and the free 'college planning assistance' are savings products and customer service, not education programs, so they are not counted for Community. 'Design logos' refers to trademarks, and the Amundi distribution in 35 countries and clients in 60 countries is international sales, so neither counts (rubric traps). 'Democratizing access to alternative investments for retail investors' is an aspiration about product access, not a cross-cultural activity. The 'foundation of our global distribution reach' wording is a trap and was not counted. The employee equity ownership, wellness and assistance programs do not meet any theme's criteria. The franchise model gives smaller managers access to distribution, but the firms are acquired, so this is the company's own growth strategy, not entrepreneurship enabling.
 
-## Health Care (31 companies)
+### 2. Jackson Financial, Inc. (JXN): 20.0/100 · shortlist
+10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
 
-**Shortlist (13):** Centene Corporation (CNC, 31.0), Tenet Health (THC, 29.0), Illumina, Inc. (ILMN, 27.0), McKesson (MCK, 25.0), DaVita (DVA, 23.0), Exelixis (EXEL, 23.0), Halozyme (HALO, 23.0), Humana (HUM, 23.0), Oscar Health, Inc. (OSCR, 23.0), Waters Corporation (WAT, 23.0), Avantor (AVTR, 20.0), Natera, Inc. (NTRA, 20.0), Revvity (RVTY, 20.0)
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers annuities, institutional products and asset management and shows no creative activity. 'Create' as a corporate value and financial 'product design' are traps.
+- **Community: 2/5** (sufficient): Level 2: specific current employee development plus volunteering, matching-gift and charitable-donation programs, with no participant or dollar figures to show substantial reach.
+  - Internal Skills Marketplace launched in 2025 that lets employees track their skills and choose training for career development: "In 2025, we launched our Skills Marketplace, an internal talent warehouse that provides insight into skills that exist internally for open roles and future needs, allowing us to source, develop, and deploy talent where we need it." (Item 1 > Human Capital Resources > Talent Development)
+  - Redesigned new-hire onboarding program with classroom learning and a Welcome Ambassador assigned to every new hire: "Key enhancements include a dedicated technology team, a balanced mix of classroom learning, team integration, and Jackson knowledge sessions, and the expansion of our Welcome Ambassador program to provide every new hire with a dedicated Ambassador beginning on day one." (Item 1 > Human Capital Resources > Talent Development)
+- **Cross-cultural: 2/5** (sufficient): Level 2: specific current activity of limited disclosed reach, namely employee resource groups (BRAGs) with no membership figures.
+  - Voluntary, employee-led Business Resource Associate Groups (employee resource groups): "We recognize our associates’ backgrounds and unique experiences through our voluntary, associate-led Business Resource Associate Groups (“BRAGs”)." (Item 1 > Human Capital Resources > Talent Development)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no small-business customers and no program enabling founders or small businesses; references to innovation are traps.
+- AI notes: The filing refers to an annual Corporate Responsibility Report but also describes specific community and inclusion activities itself, so coverage is sufficient and no second look is triggered. The Item 7 excerpt mentions 'community' only in the SECURE Act's name (trap), and the 'Item 7 (targeted)' text contains no qualifying activities. The RIA insurance support desk is a distribution channel for selling annuities, not an entrepreneurship-enabling program. The described onboarding is 'more inclusive' but gives no specific inclusion practice beyond the general wording, so it is not counted for cross-cultural. The on-site solar farm is environmental and outside these themes.
+
+### 3. Affiliated Managers Group (AMG): 19.0/100
+10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **19.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers an investment management holding company with no creative activity; 'product strategy' and 'marketing' are routine financial-services terms.
+- **Community: 2/5** (sufficient): Level 2: specific current employee development plus a named foundation and matching program reaching more than 1,100 organizations cumulatively, but with no dollar or annual reach figures, so it falls to the lower level when torn between 2 and 3.
+  - Funding, time off and flexible work for AMG employees pursuing degrees and professional certifications, alongside leadership and skills training: "Further, we support employees’ educational pursuits relating to degree programs and certifications through company-supported time off and funding for professional development and flexible work arrangements tailored to individual employees’ educational goals." (Item 1 > Human Capital Management)
+  - Corporate philanthropy through employee gift-matching, a volunteer-matching program and direct grants by AMG and The AMG Charitable Foundation [more than 1,100 organizations (cumulative, to date)]: "Through our matching program as well as through direct grants, AMG and The AMG Charitable Foundation have made donations to more than 1,100 organizations around the world to date." (Item 1 > Human Capital Management)
+- **Cross-cultural: 1/5** (insufficient): Level 1: only equal-opportunity language and demographic statistics, with no internal practice, customer access or connecting program described; coverage is insufficient under condition 2 because the relevant diversity discussion is under about 150 words.
+  - Disclosure of workforce and board gender and ethnic diversity statistics [39%, 47%]: "Across management positions in our workforce, gender diversity is 39%, and nearly half (47%) of our employees are women." (Item 1 > Human Capital Management)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests on general language only, namely 'entrepreneurial cultures' and taking equity stakes in established, leading investment firms, with no named program aimed at barriers faced by founders or small businesses.
+- Flags: coverage insufficient (cross_cultural); second look: no report found
+- AI notes: Human capital discussion covers only AMG's roughly 250 corporate employees, not the approximately 5,600 total including Affiliates, whose practices are left to Affiliate management. The 1,100+ organizations figure is cumulative 'to date' with no dollar amounts, so Community was held at 2 rather than 3. The core business, partnering with and investing growth capital in independent partner-owned investment firms (approximately $813 billion AUM), was considered for Entrepreneurship but not counted as enabling: these are established, 'leading' firms rather than founders or small businesses, and 'entrepreneurial culture' is a listed trap. The Item 7 excerpt only repeats the 'entrepreneurial' culture language. Cross-cultural is marked insufficient, which triggers the sustainability-report second look.
+
+## Health Care (43 companies)
+
+**Shortlist (21):** Doximity (DOCS, 34.0), Centene Corporation (CNC, 31.0), Tenet Health (THC, 29.0), Elevance Health (ELV, 27.0), Illumina, Inc. (ILMN, 27.0), McKesson (MCK, 25.0), AbbVie (ABBV, 23.0), Amneal Pharmaceuticals (AMRX, 23.0), Agilent Technologies (A, 23.0), Biogen (BIIB, 23.0), DaVita (DVA, 23.0), Exelixis (EXEL, 23.0), Halozyme (HALO, 23.0), Humana (HUM, 23.0), Oscar Health, Inc. (OSCR, 23.0), Waters Corporation (WAT, 23.0), Alkermes plc (ALKS, 20.0), Avantor (AVTR, 20.0), Dexcom (DXCM, 20.0), Natera, Inc. (NTRA, 20.0), Revvity (RVTY, 20.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Centene Corporation (CNC) | **31.0** | 0 | 2 | 4 | 1 | yes |  |
-| 2 | Tenet Health (THC) | **29.0** | 0 | 3 | 2 | 1 | yes |  |
-| 3 | Illumina, Inc. (ILMN) | **27.0** | 0 | 2 | 3 | 1 | yes | rescored with report |
-| 4 | McKesson (MCK) | **25.0** | 0 | 2 | 1 | 3 | yes |  |
-| 5 | DaVita (DVA) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
-| 5 | Exelixis (EXEL) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
-| 5 | Halozyme (HALO) | **23.0** | 0 | 2 | 2* | 1 | yes | insufficient coverage, 1 note(s) |
-| 5 | Humana (HUM) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
-| 5 | Oscar Health, Inc. (OSCR) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
-| 5 | Waters Corporation (WAT) | **23.0** | 0 | 2 | 2* | 1 | yes | insufficient coverage, 1 note(s) |
-| 11 | Avantor (AVTR) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
-| 11 | Natera, Inc. (NTRA) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
-| 11 | Revvity (RVTY) | **20.0** | 0 | 2 | 2 | 0 | yes | rescored with report |
-| 14 | Chemed Corp. (CHE) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
-| 14 | Charles River Laboratories (CRL) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 14 | Medpace (MEDP) | **19.0** | 0 | 2 | 1 | 1 |  | rescored with report |
-| 14 | Moderna (MRNA) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 14 | West Pharmaceutical Services (WST) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 19 | TG Therapeutics, Inc. (TGTX) | **17.0** | 1 | 1 | 1 | 0 |  |  |
-| 20 | Haemonetics (HAE) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 20 | Incyte (INCY) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 20 | Protagonist Therapeutics, Inc. (PTGX) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 23 | Cardinal Health (CAH) | **15.0** | 0 | 2 | 0 | 1 |  |  |
-| 23 | Twist Bioscience Corporation (TWST) | **15.0** | 0 | 2 | 0 | 1 |  |  |
-| 25 | Veeva Systems (VEEV) | **13.0** | 0 | 1* | 1* | 1 |  | insufficient coverage, 1 note(s) |
-| 26 | Corcept Therapeutics (CORT) | **12.0** | 0 | 2* | 0* | 0 |  | insufficient coverage, 1 note(s) |
-| 27 | Guardant Health, Inc. (GH) | **10.0** | 0 | 1 | 1 | 0 |  |  |
-| 28 | 10x Genomics, Inc. (TXG) | **9.0** | 0 | 1 | 0 | 1 |  |  |
-| 29 | Hinge Health, Inc. (HNGE) | **8.0** | 0 | 0* | 2 | 0 |  | insufficient coverage, 1 note(s) |
-| 30 | Iovance Biotherapeutics, Inc. (IOVA) | **6.0** | 0 | 1 | 0 | 0 |  |  |
-| 31 | Kodiak Sciences Inc. (KOD) | **3.0** | 0 | 0* | 0* | 1 |  | insufficient coverage, 1 note(s) |
+| 1 | Doximity (DOCS) | **34.0** | 2 | 2 | 2 | 0 | yes |  |
+| 2 | Centene Corporation (CNC) | **31.0** | 0 | 2 | 4 | 1 | yes |  |
+| 3 | Tenet Health (THC) | **29.0** | 0 | 3 | 2 | 1 | yes |  |
+| 4 | Elevance Health (ELV) | **27.0** | 0 | 2 | 3 | 1 | yes |  |
+| 4 | Illumina, Inc. (ILMN) | **27.0** | 0 | 2 | 3 | 1 | yes | rescored with report |
+| 6 | McKesson (MCK) | **25.0** | 0 | 2 | 1 | 3 | yes |  |
+| 7 | AbbVie (ABBV) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 7 | Amneal Pharmaceuticals (AMRX) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 7 | Agilent Technologies (A) | **23.0** | 1 | 2 | 1* | 0 | yes | insufficient coverage, 1 note(s) |
+| 7 | Biogen (BIIB) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 7 | DaVita (DVA) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 7 | Exelixis (EXEL) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 7 | Halozyme (HALO) | **23.0** | 0 | 2 | 2* | 1 | yes | insufficient coverage, 1 note(s) |
+| 7 | Humana (HUM) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 7 | Oscar Health, Inc. (OSCR) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 7 | Waters Corporation (WAT) | **23.0** | 0 | 2 | 2* | 1 | yes | insufficient coverage, 1 note(s) |
+| 17 | Alkermes plc (ALKS) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 17 | Avantor (AVTR) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 17 | Dexcom (DXCM) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 17 | Natera, Inc. (NTRA) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 17 | Revvity (RVTY) | **20.0** | 0 | 2 | 2 | 0 | yes | rescored with report |
+| 22 | Chemed Corp. (CHE) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
+| 22 | Charles River Laboratories (CRL) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 22 | IQVIA (IQV) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 22 | Medpace (MEDP) | **19.0** | 0 | 2 | 1 | 1 |  | rescored with report |
+| 22 | Moderna (MRNA) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 22 | West Pharmaceutical Services (WST) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 28 | TG Therapeutics, Inc. (TGTX) | **17.0** | 1 | 1 | 1 | 0 |  |  |
+| 29 | Haemonetics (HAE) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 29 | Incyte (INCY) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 29 | Protagonist Therapeutics, Inc. (PTGX) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 29 | Viatris (VTRS) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 33 | Cardinal Health (CAH) | **15.0** | 0 | 2 | 0 | 1 |  |  |
+| 33 | Twist Bioscience Corporation (TWST) | **15.0** | 0 | 2 | 0 | 1 |  |  |
+| 35 | Caris Life Sciences, Inc. (CAI) | **13.0** | 0 | 1 | 1 | 1 |  |  |
+| 35 | Veeva Systems (VEEV) | **13.0** | 0 | 1* | 1* | 1 |  | insufficient coverage, 1 note(s) |
+| 37 | Corcept Therapeutics (CORT) | **12.0** | 0 | 2* | 0* | 0 |  | insufficient coverage, 1 note(s) |
+| 38 | Guardant Health, Inc. (GH) | **10.0** | 0 | 1 | 1 | 0 |  |  |
+| 38 | Lilly (Eli) (LLY) | **10.0** | 0 | 1 | 1 | 0 |  |  |
+| 40 | 10x Genomics, Inc. (TXG) | **9.0** | 0 | 1 | 0 | 1 |  |  |
+| 41 | Hinge Health, Inc. (HNGE) | **8.0** | 0 | 0* | 2 | 0 |  | insufficient coverage, 1 note(s) |
+| 42 | Iovance Biotherapeutics, Inc. (IOVA) | **6.0** | 0 | 1 | 0 | 0 |  |  |
+| 43 | Kodiak Sciences Inc. (KOD) | **3.0** | 0 | 0* | 0* | 1 |  | insufficient coverage, 1 note(s) |
 
-### 1. Centene Corporation (CNC): 31.0/100 · shortlist
+### 1. Doximity (DOCS): 34.0/100 · shortlist
+10-K filed 2026-05-19 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 2 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **34.0**
+
+- **Creativity: 2/5** (sufficient): Level 2: Op-Med is a specific current feature that publishes clinicians' own long-form writing, with no scale indicators; other newsfeed and sponsored content is general web or marketing content and does not count.
+  - Op-Med: members submit long-form articles that Doximity publishes on its platform: "Members can submit Op-Med articles for publication on Doximity. These articles are long-form content written by clinicians for clinicians, covering topics such as front-line experiences and practice-changing viewpoints." (Item 1 > Our Tools for Medical Professionals > Newsfeed)
+- **Community: 2/5** (sufficient): Level 2: specific current external-education features (peer-to-peer clinical discussion and the Residency Navigator tool for students) of limited or ambiguous educational depth, so the lower level is chosen over 3.
+  - Newsfeed clinical discussions where members discuss studies with peers and authors for peer-to-peer learning: "For example, members might discuss the results of a new clinical study, or even ask questions of the study’s author. Ultimately, this dialogue and interactivity drive engagement within the ecosystem and facilitate peer-to-peer education." (Item 1 > Our Tools for Medical Professionals > Newsfeed)
+  - Residency Navigator, a free tool for medical students to research and compare residency programs [Approximately 90% of graduating U.S. medical students]: "Members beginning their medical careers can discover and compare training programs across the country using Residency Navigator, a tool that provides a transparent look into U.S. medical residency programs." (Item 1 > Our Tools for Medical Professionals > Professional Network > Careers)
+- **Cross-cultural: 2/5** (sufficient): Level 2: a specific current customer-access feature (adding interpreters to telehealth calls) with no reach figures; the diversity-and-inclusion statement alone is general language.
+  - Dialer telehealth calls let clinicians add interpreters for patients: "Calls may be voice or video-based and include features such as customizable caller ID, the ability to add interpreters or additional participants, and seamless call handoffs across care teams." (Item 1 > Our Tools for Medical Professionals > Workflow Tools)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the business description is detailed and shows no small-business customers and no enabling program; references to the company's own innovation are a trap term and are not enabling activity.
+- AI notes: The human capital section is roughly 190 words, so coverage is sufficient. It contains only a general statement that the company 'prioritize[s] diversity and inclusion' and tracks unnamed metrics, which scores at most 1 and is superseded by E4. Excluded as traps: 'medical community' (network-effects language), Marketing Solutions that 'educate medical professionals about their brands' (marketing), 'physician training' (refers to competitor implementations), 'collaboration' with U.S. News & World Report (a commercial partnership), and 'innovate on our platform' (own innovation). E3 is borderline for Community because it is a career-information tool rather than education. It has a strong reach indicator (about 90% of graduating U.S. medical students), but it was kept at level 2 per the 'when torn, pick lower' rule. The platform reaches over 3 million registered members, but that figure is not in the same paragraph as the newsfeed education quote, so it is not used as an indicator. Op-Med for Creativity is also borderline (clinical opinion writing versus creative work) and was scored at the minimum qualifying level. The Item 7 excerpts repeat the Item 1 overview and add no new activities.
+
+### 2. Centene Corporation (CNC): 31.0/100 · shortlist
 10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 4 (sufficient) · Entrepreneurship 1 (sufficient) → **31.0**
@@ -553,7 +785,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Commercial health insurance sold to small employer groups: "We offer commercial health insurance products to individuals through the ACA Health Insurance Marketplace, and through large and small employer groups in limited areas." (Item 1 > Industry and Operations > Commercial)
 - AI notes: Cross-cultural scoring: the filing calls Centene 'the nation's largest managed care company focused on underserved populations' and says Medicaid is 57% of external revenues. That 57% figure sits in a separate segment paragraph, so it is not cited as an E1 indicator. Level 5 was considered but not chosen because the populations served are defined mainly by income and disability, with 'culturally sensitive healthcare services' mentioned only generally. A human reviewer may want to reconsider 4 versus 5. E2 professional networks are described as professional and talent groups, not identity or culture groups, so they support level 2 at most. Paid volunteer time and the NACHC partnership disclose no figures. 'Physician and patient educational programs' is mentioned only in passing and is not scored. Past or ending activities, recorded for context only: MMPs ended December 31, 2025; the New Mexico Medicaid contract ended June 2024; the Magellan Health divestiture was signed December 2025. The filing points to a Corporate Responsibility Report but also describes specific activities itself, so coverage is sufficient and no second look is triggered. Traps excluded: 'community engagement' work requirements under the OBBBA, 'Community Medical Group' and 'Community Care' subsidiary names, 'model training' for AI, compliance 'training and education', 'health equity' as general language, 'diversified offerings', and 'identity of our competitors'.
 
-### 2. Tenet Health (THC): 29.0/100 · shortlist
+### 3. Tenet Health (THC): 29.0/100 · shortlist
 10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **29.0**
@@ -568,7 +800,21 @@ Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 
   - Conifer revenue cycle services provided to clients that include physician practices: "Tenet and CommonSpirit Health facilities represented approximately 44% of these clients, and the remainder were unaffiliated health systems, hospitals, physician practices, self‑insured organizations, health plans and other entities." (Item 1 > Hospital Operations and Services Segment)
 - AI notes: Charity and uninsured admissions (20,701) and visits (385,815) appear in a separate MD&A table, not in the paragraph quoted for E4, so they were not attached as indicators. Under the cap-by-kind rule, Cross-cultural would fall to 1 if E4 were judged not to qualify. The Community score of 3 rests on named programs and the 29 teaching-affiliated hospitals; no participant or dollar figures are disclosed, so it sits at the lower edge of level 3. The paragraph cited for E3 is framed as Medicare reimbursement eligibility. The academic teaching services contracts supporting graduate medical education are the same activity as E3 and are not counted twice. Items excluded as general language or outside the theme criteria: the Community Healthcare Engagement Council (no specific activities or figures), volunteerism and community-service support (no figures), and health programs and educational materials for communities (general). Also excluded: the Tenet Care Fund, an employee hardship charity that is not an education or community program. Mandatory HIPAA and ethics compliance training is excluded as compliance training. Physician joint ventures are a 'joint venture' trap and are not counted for Entrepreneurship. Physician relocation income guarantees are recruitment arrangements, not an enabling program.
 
-### 3. Illumina, Inc. (ILMN): 27.0/100 · shortlist
+### 4. Elevance Health (ELV): 27.0/100 · shortlist
+10-K filed 2026-02-06 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 3 (sufficient) · Entrepreneurship 1 (sufficient) → **27.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description of a health insurer and pharmacy/health services company is sufficient to judge and shows no creative activity.
+- **Community: 2/5** (sufficient): Level 2: the only specific measured activity is employee training and development, so Community is capped at 2; community-organization language is general.
+  - Company-wide training and development programs for associates [approximately 26 hours of training and development per associate]: "In 2025, we invested a significant amount in human capital development, averaging approximately 26 hours of training and development per associate." (Item 1 > Human Capital > Talent Development and Retention)
+- **Cross-cultural: 3/5** (sufficient): Level 3: Business Resource Groups with a disclosed participation figure (over 20% of the U.S. workforce), supported by pay equity reviews and disability-focused SNP plans.
+  - Voluntary associate-led Business Resource Groups open to all associates [over 20% of our U.S. workforce]: "In addition, in 2025, over 20% of our U.S. workforce participated in our Business Resource Groups, or BRGs, which provide associates meaningful opportunities to connect, collaborate and grow." (Item 1 > Human Capital > Culture, Engagement and Inclusion)
+  - Annual gender and race pay equity review of U.S. associates: "In 2025, we completed a rigorous gender and race pay equity review of our U.S. associates using an industry-leading third-party platform." (Item 1 > Human Capital > Fair Pay)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: this rests on general language only; the filing mentions employer products for smaller employee bases and its own innovation, but no specific service that enables founders or small businesses.
+- AI notes: Medicaid and other state-sponsored programs serve low-income people and people with disabilities and are a large business. No Medicaid-specific membership or revenue figure appears in the provided text. The 32% figure covers all U.S. government agencies (Medicare, FEP and others), so level 4 customer access was not assigned; when torn, the lower level was chosen. Several items were not scored as Community investment: the social determinants of health program, the Food as Medicine strategy and work with community organizations. They are member health services or general statements with no grants, dollars or participant numbers. Patient education in care management falls under the 'educating customers' trap. Workforce demographics are referred to the annual Impact Report and were not scored. The values statement and the 'committed to ensuring that all people... can receive individualized care' language is a claim only. The executive title changed from 'Chief Talent & Diversity Officer' to 'Chief Talent Officer', but practices disclosed (BRGs, pay equity) are scored regardless of label. Traps ignored: 'joint venture' (Mosaic Health), 'foundation of our strategy', 'community engagement requirements' (OBBBA Medicaid rules), 'Student Health' (customer type, not education), 'diversified mix' and 'diversification'. Medicare Part D exit in 2026 is planned and does not affect scores.
+
+### 4. Illumina, Inc. (ILMN): 27.0/100 · shortlist
 10-K filed 2026-02-12 (fiscal 2025) · source: 10-K + sustainability report · report: https://emea.illumina.com/content/dam/illumina-marketing/documents/company/2025-cr-report/illumina-2025-cr-report-en.pdf
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 3 (sufficient) · Entrepreneurship 1 (sufficient) → **27.0**
@@ -584,7 +830,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - In-house research and development spending on the company's own products [$967 million]: "Research and development expense in 2025, 2024, and 2023 was $967 million, $1,169 million, and $1,354 million, respectively." (Item 1 > Research and Development)
 - AI notes: Cross-cultural coverage is insufficient (condition 3), so the company qualifies for the automated second look using the Corporate Responsibility Report at www.illumina.com/csr, which is on the company's main domain. The filing says the 2025 workforce details will be published there in April 2026. Excluded as traps or non-qualifying: 'Illumina user community' and 'bioinformatics community' (scientific community); regional employee headcounts (geographic distribution, not an inclusion activity); 48% of revenue from shipments outside the U.S. (international sales); and the environmental and 'committed to' statements. The Item 7 text is excerpts only, and the foundation's activities are not described in the filing.
 
-### 4. McKesson (MCK): 25.0/100 · shortlist
+### 6. McKesson (MCK): 25.0/100 · shortlist
 10-K filed 2026-05-08 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 3 (sufficient) → **25.0**
@@ -598,7 +844,68 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Free advisory resource for people buying, starting or selling an independent pharmacy: "McKesson RxOwnership Program – A confidential, no-fee resource for pharmacists and pharmacy owners interested in buying, starting, or selling an independent pharmacy, regardless of their pharmacy affiliation." (Item 1 > Business Segments > North American Pharmaceutical > U.S. Pharmaceutical > Community Pharmacy and Health)
 - AI notes: Prescription Technology Solutions reports large patient-affordability reach (approximately $10 billion saved, 12 million abandoned prescriptions prevented). This addresses economic rather than cultural or language barriers, so it was not scored under Cross-cultural (torn, lower level chosen). Customer clinical-staff training (Medical-Surgical) and Ontada 'education opportunities' are commercial services to customers, not external education programs, so they were not counted for Community. 'Community pharmacy', 'community-based oncology practices' and 'Community Oncology Revitalization Enterprise Ventures' are names or descriptors, not community programs. Past: the Norwegian business was sold in fiscal 2026. Planned: the Medical-Surgical Solutions segment is to be separated into an independent company (Apollo minority investment pending), which does not affect any theme. Health Mart was rated level 3 rather than 4 because no revenue share is disclosed for the independent-pharmacy channel.
 
-### 5. DaVita (DVA): 23.0/100 · shortlist
+### 7. AbbVie (ABBV): 23.0/100 · shortlist
+10-K filed 2026-02-20 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers biopharmaceuticals, aesthetics and eye care products and shows no creative activity.
+- **Community: 2/5** (sufficient): Level 2: the filing shows employee development programs and a scholarship limited to employees' children with no reach figures, which matches specific activity limited in reach.
+  - Year-long self-directed leadership education program for employees: "AbbVie's Learn, Develop, Perform program offers year-long, self-directed leadership education, supplemented with tools and resources, and leverages leaders as role models and teachers." (Item 1 > Human Capital Management > Attracting and Developing Talent)
+  - Formal multi-year development programs for graduate and post-doctoral hires: "In addition, a foundational success factor to AbbVie's leadership pipeline is the company's Professional Development Programs, which attract graduates, postgraduates and post-doctoral talent to participate in formal development programs lasting up to three years, with the objective of strengthening functional and leadership capabilities." (Item 1 > Human Capital Management > Attracting and Developing Talent)
+- **Cross-cultural: 2/5** (sufficient): Level 2: the filing shows Employee Resource Groups and annual pay equity analyses, but discloses no membership or reach figures.
+  - Employee Resource Groups that build community and connections: "AbbVie's Employee Resource Groups also help the company nurture an inclusive culture for all by building community and creating connections." (Item 1 > Human Capital Management > Diversity & Inclusion)
+  - Annual pay equity analyses: "Further, AbbVie is committed to pay equity and conducts pay equity analyses annually." (Item 1 > Human Capital Management > Diversity & Inclusion)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: this rests on general language only, namely the company's own innovation, with no small-business or founder enabling service.
+- AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Several items were excluded as traps or non-qualifying: Aesthetics products (Botox Cosmetic, Juvederm) are medical and cosmetic products, not creative work. Partnerships with academic institutions are R&D collaborations, not community education. The Employee Relief Program is employee financial assistance, not community investment. Patient support programs are described only in one general sentence. 'Innovation' and 'joint ventures' are traps. The scholarship (E4) is tagged external_education because recipients are outside the workforce, but it is restricted to employees' children and discloses no figures, so it stays at level 2. 'Embracing diversity and inclusion' and 'serving the community' in the culture section are value statements and were not scored above 1.
+
+### 7. Amneal Pharmaceuticals (AMRX): 23.0/100 · shortlist
+10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers generic, biosimilar and branded pharmaceuticals and distribution, with no creative activity.
+- **Community: 2/5** (sufficient): Level 2: only employee development is described (learning programs, leadership development, My Amneal Career), so Community is capped at 2.
+  - Global learning, leadership development and technical capability-building programs for employees: "In 2025, we continued to invest in global learning initiatives, leadership development programming, external partnerships to extend learning opportunities, and targeted capability-building efforts focused on technical and manufacturing skill sets." (Item 1 > Human Capital > Talent Development)
+  - My Amneal Career AI-enabled talent and skills platform for employees [70% of global employees]: "We also enhanced our talent management capabilities via My Amneal Career, an AI-enabled platform focused on expanding organization-wide skills and talent visibility, supported by leadership engagement and broad employee participation with 70% of global employees completing their My Amneal Career Talent Profile." (Item 1 > Human Capital > Talent Development)
+- **Cross-cultural: 2/5** (sufficient): Level 2: specific current activities of limited or unquantified reach (AmNeev onboarding of about 68 female employees and AvKARE distribution focused on providers serving low-income and uninsured patients).
+  - AmNeev program onboarding female employees into targeted technical capability areas and academies [approximately 68 female employees]: "During 2025, we continued our AmNeev program, successfully onboarding approximately 68 female employees across targeted capability areas, including injectables, sterile manufacturing, and digital academies." (Item 1 > Human Capital > Workforce Demographics)
+  - AvKARE wholesale distribution focused on entities that care for low-income and uninsured patients: "AvKARE is also a wholesale distributor of pharmaceuticals, over the counter drugs and medical supplies to its retail and institutional customers that are located throughout the U.S. focused primarily on entities that provide care to low-income and uninsured patients." (Item 1 > Segments of the Business > AvKARE)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: only the company's own R&D and innovation, with no service or program enabling founders or small businesses.
+  - Company's own pharmaceutical research and development: "R&D activities represent a significant part of our business." (Item 1 > Research and Development)
+- AI notes: The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. All 'Alliance and Collaboration' items (ApiJect, Metsera, Zambon, Knight, BIAL, Kashiv, Valorum) are licensing, supply or distribution deals and fall under the rubric trap, so none was scored. The 'external partnerships to extend learning opportunities' in E2 serve employees, not outside learners, so they were tagged employee_development and do not lift Community above the cap. The workforce counts in Workforce Demographics and the 'inclusive, performance-oriented environment' and 'inclusion and connection within the workplace' language are disclosures or general statements and were not scored as activities. The mission of affordable 'essential medicines more accessible for all' is general language. Operations in India and Ireland and the emerging-market licenses do not count for Cross-cultural. AvKARE's roughly 1,100 customers were not used as an indicator for E4, because that figure appears in a different paragraph and includes government customers, so the lower level was chosen. For context only: Pfizer shortened the Metsera agreement term after acquiring Metsera, and Amneal gave notice to terminate the ONGENTYS license effective February 26, 2028. Neither affects the theme scores.
+
+### 7. Agilent Technologies (A): 23.0/100 · shortlist
+10-K filed 2025-12-22 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 0 (sufficient) → **23.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the business is scientific instruments, diagnostics and lab services with no creative activity, and the only mention is general language listing arts and culture as one eligible area of the employee giving program.
+  - Employee giving program supporting eligible non-profits, including arts and culture and education and literacy: "We also support a giving program, which provides employees the opportunity to support a broad range of eligible non-profit organizations in their communities in the areas of health and human services, arts and culture, education and literacy, environment and conservation, and family and civic betterment." (Item 1 > Human Capital Management > Community)
+- **Community: 2/5** (sufficient): Level 2: specific current activities (employee training, paid volunteer time, a giving program and customer education services) with no named program, dollars or participant figures that would show substantial reach.
+  - Leadership development and multi-format training for the company's own employees: "Training at Agilent takes several forms: face-to-face classroom experiences, on-the-job learning, virtual classroom events and self-paced e-learning." (Item 1 > Human Capital Management > Development)
+  - Paid volunteer time off for employees to do community service with charities [thousands of volunteer hours; up to six days of paid time off each year]: "Our employees may take up to six days of paid time off each year for volunteer activities with charities and organizations." (Item 1 > Human Capital Management > Community)
+- **Cross-cultural: 1/5** (insufficient): Level 1 based only on general language (equal opportunity employer statement and valuing different perspectives); coverage is insufficient under condition 2 because the relevant People and Culture discussion is under about 150 words.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing fully describes the business and shows no service, program or customer group that enables founders or small businesses, and references to innovation and R&D are traps.
+- Flags: coverage insufficient (cross_cultural); second look: no report found
+- AI notes: Item 7 mention of 'education and compliance services' revenue describes the same customer training activity as E4 and is counted once. Item 7's 9 percent figure covers all services and other revenue, so it is not attributed to education. The Mission paragraph is a values statement and was not scored. 'Design', 'licensing' and 'innovative' appear only in engineering, IP or R&D senses (traps). The regional headcount split (Americas/Europe/Asia Pacific) and international manufacturing sites do not count for Cross-cultural. Remarketed instruments for budget-conscious customers do not qualify for any theme. 'Coverage of smaller accounts' by sales agents is not a small-business enabling service. Cross-cultural is marked insufficient, so the automated second look with a company sustainability report is triggered.
+
+### 7. Biogen (BIIB): 23.0/100 · shortlist
+10-K filed 2026-02-06 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers biopharmaceutical products only and shows no creative activity.
+- **Community: 2/5** (sufficient): Level 2: only employee development is described, so the score is capped at 2.
+  - Online learning resources for employees, including an internal Biogen University and Coursera: "We utilize online resources such as Biogen University, Coursera and Franklin Covey." (Item 1 > Human Capital > Global Competency)
+  - Named leadership development programs for employees: "Advance Your Leadership Potential: Preparing high-potential individual contributors for first-level leadership roles." (Item 1 > Human Capital > Global Competency)
+- **Cross-cultural: 2/5** (sufficient): Level 2: named employee resource groups and assistance programs for uninsured or underinsured patients, with no reach figures.
+  - Employee resource groups open to all staff, including groups for employees with disabilities, cultural backgrounds and LGBTQ+ employees: "Our ERGs provide opportunities for employees to build connections, foster leadership development and cultivate a sense of belonging." (Item 1 > Human Capital > Our Culture of Inclusion)
+  - U.S. co-pay assistance and free-product programs for uninsured or underinsured patients: "In the U.S., we have established programs that provide co-pay assistance for qualified commercially insured patients and free product for qualified uninsured or underinsured patients, based on specific eligibility criteria." (Item 1 > Patient Support and Access)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: this rests on general language only, an 'entrepreneurial business mindset' culture statement, with no program that enables founders or small businesses.
+- AI notes: The targeted Item 7 excerpt was empty, so scoring rests on Item 1 alone. The Biogen Foundation is mentioned only in general terms ('refocused our Biogen Foundation efforts in the communities where we operate'), with no specific programs, dollars or participants, so it was not scored as community investment. Several terms were excluded as traps: 'educate physicians' (marketing), 'analytics community' (internal HR), 'innovative' (own innovation), and biotech collaborations, licenses and the City Therapeutics convertible note (licensing or deal structures, not enabling founders). Patient-access programs (E4) are counted only under Cross-cultural as customer access, not under Community. Tuition reimbursement is part of employee benefits and is consistent with the employee-development cap.
+
+### 7. DaVita (DVA): 23.0/100 · shortlist
 10-K filed 2026-02-11 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -614,7 +921,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Corporate venture group that invests in and acquires kidney-care companies for strategic purposes: "DaVita Venture Group (DVG) focuses on innovative products, solutions and businesses that improve care for patients with kidney disease and related conditions." (Item 1 > Ancillary services, including our international operations > U.S. Other Ancillary services)
 - AI notes: Items considered and not counted: (1) Patient and caregiver training for home dialysis is part of the core clinical service, not external education. (2) Mandatory annual compliance and safety training is compliance training. (3) Physician joint ventures fall under the 'joint venture' trap. (4) Operations in 14 countries are international operations only. (5) Statements about caring for patients 'regardless of location, insurance status' and commitments to equal pay are mission or commitment language. (6) The 85% belonging survey result is an outcome measure, not a program-reach figure, so it was not used as an indicator. (7) The Item 1 mention of an Executive Order on DEI programs is regulatory risk context, not company activity. (8) The DaVita Medical Group business is a past (discontinued) operation and is not relevant to any theme. (9) The Item 7 excerpts mention immigration and charitable organizations only as risk factors and market participants, not as company activities. (10) Volunteering (over 70,000 hours) was close to Community level 3 but lacks a named program, partners or beneficiary counts, so the lower level was chosen. Family-planning benefits (fertility, adoption, surrogacy) were not counted as an inclusion practice because the filing presents them as general family benefits.
 
-### 5. Exelixis (EXEL): 23.0/100 · shortlist
+### 7. Exelixis (EXEL): 23.0/100 · shortlist
 10-K filed 2026-02-10 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -629,7 +936,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on the company's own drug-discovery innovation; there is no enabling service for founders or small businesses, and the IRA 'small biotech exception' is a regulatory designation, not an enabling program.
 - AI notes: The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. These items were excluded as traps: 'educate physicians' (marketing to customers), lab safety training (compliance training), CRADA, research collaborations and in-licensing (licensing or legal deals), and 'scientific community'. EASE was classed as customer access for underserved patients; it was not counted as Community investment because it is a commercial patient-support program with no figures. Discontinued programs (XL495, STELLAR-305 phase 3, XB064, XB033) are irrelevant to the themes. Workforce headcount fell 6.10% year over year.
 
-### 5. Halozyme (HALO): 23.0/100 · shortlist
+### 7. Halozyme (HALO): 23.0/100 · shortlist
 10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (insufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -644,7 +951,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Cross-cultural coverage is marked insufficient under condition 2 (the Inclusion subsection plus scattered 'inclusive' mentions total roughly 110 words), which triggers the automated second look using a company sustainability report; the filing references a 'Corporate Sustainability program'. The Elevate program appears as both a management development program (counted under Community via E1) and an inclusion-focused training (E4, Cross-cultural only); each independently meets its theme's criteria. E2 and E3 are both Corporate Citizenship activities; they may overlap (volunteering versus organizational support), but they don't change the level-2 Community score. ATRS-1902 development was discontinued in December 2025, which is unrelated to the themes. Excluded traps: 'collaboration' and 'license' agreements with pharma partners, 'medical and patient community', 'design' of auto-injectors, 'innovative' technology, compliance and harassment training, and 'Smaller or early stage emerging companies' mentioned as competitors. Indicative total: 0 + 12 + 8 + 3 = 23/100, pending code calculation and the second look on Cross-cultural.
 
-### 5. Humana (HUM): 23.0/100 · shortlist
+### 7. Humana (HUM): 23.0/100 · shortlist
 10-K filed 2026-02-19 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -659,7 +966,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation and services to providers, with no specific program enabling founders or small businesses.
 - AI notes: Medicaid (state-based contracts and other) appears in segment tables elsewhere with $14,477 million revenue (11.2%) and 1,615.6 thousand members. Those figures are not in the same paragraph or table as the descriptive quote, so they were not used as indicators. It is also debatable whether ordinary participation in government-funded Medicaid counts as cross-cultural customer access, since no language, accessibility or cultural barrier-removal features are described. Torn between levels 2 and 3, so the lower level was chosen; suggest human review. The pay equity analysis does not name specific groups. The company has no business line that creates or enables creative work. The human capital section refers to the proxy statement for more detail, but it lists specific activities itself, so coverage is sufficient. The Item 7 excerpts contain only mission language ("communities at large") and a trap use of "education" (municipal bond types), with no qualifying activity. The MSO services to physicians and medical groups were not counted as entrepreneurship enabling: they support value-based care transition, not barriers to starting or growing a business. The paid internship and the employee well-being benefits (including on-site lactation rooms and adoption assistance) were not scored.
 
-### 5. Oscar Health, Inc. (OSCR): 23.0/100 · shortlist
+### 7. Oscar Health, Inc. (OSCR): 23.0/100 · shortlist
 10-K filed 2026-02-13 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -674,7 +981,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Partnering with ICHRA platforms to move small, mid and large employers' staff onto individual Oscar plans: "We are partnering with a variety of ICHRA platforms to transition small-, mid- and large-sized employers to the individual market where their employees can choose an Oscar product that meets their individual needs." (Item 1 > Our Strategic Focus)
 - AI notes: Healthinsurance.org (an acquired 'consumer education website') and 'market education services' revenue were not counted for Community. They read as consumer insurance-shopping information, which falls under the 'educating customers as marketing' trap. No revenue or reach figures are disclosed for them. Lucie's broker/consumer enrollment marketplace was not counted for Entrepreneurship because it is an insurance-shopping platform, not a tool for founders. Past context: the Cigna+Oscar Small Group arrangement was not renewed after December 31, 2024, and Medicare Advantage plans were offered only until plan year 2024. The mission language 'accessible and affordable for all' and products 'built to meet the healthcare needs of consumers from various communities' are general statements and did not raise Cross-cultural above the level shown by E2 and E3. Final score per the rubric formula: 0 + 12 + 8 + 3 = 23/100.
 
-### 5. Waters Corporation (WAT): 23.0/100 · shortlist
+### 7. Waters Corporation (WAT): 23.0/100 · shortlist
 10-K filed 2026-02-23 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (insufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -691,7 +998,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: The Item 7 targeted excerpt provided was empty, so all evidence comes from Item 1. Cross-cultural coverage is insufficient, which triggers the automated second look; the 10-K says the company published its 2024 Sustainability Report in December 2025. Items excluded: customer training sold as part of service revenue (customer education tied to product sales); LC configurations for academic teaching (a product feature, not an education program); health and safety training (compliance); 'small specialized companies' (mentioned only as competitors). The BDS Business acquisition closed in February 2026, after fiscal year-end, and segments were reorganized afterward; scoring reflects activities operating in 2025.
 
-### 11. Avantor (AVTR): 20.0/100 · shortlist
+### 17. Alkermes plc (ALKS): 20.0/100 · shortlist
+10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers neuroscience drug development, manufacturing and patent/technology licensing, with no creative activity (licensing and design references are traps).
+- **Community: 2/5** (sufficient): Level 2: the filing shows only employee development (development plans, learning platform, tuition reimbursement, trainings), so Community is capped at 2.
+  - Individual Development Plans supporting employees' professional growth and career aspirations: "We encourage and support our employees in their adoption of Individual Development Plans designed to identify professional development and growth opportunities to help support their career aspirations." (Item 1 > Human Capital Resources)
+  - Company-wide access to LinkedIn Learning on-demand training platform for employees: "We also provide all employees access to our LinkedIn Learning platform, which provides on-demand learning opportunities." (Item 1 > Human Capital Resources)
+- **Cross-cultural: 2/5** (sufficient): Level 2: five employee resource groups are a specific current internal practice, but no membership or reach figures are disclosed.
+  - Five employee-led resource groups open to all staff, including networks for people impacted by disability or illness, multicultural, military/veterans, LGBTQ+ and allies, and women [five employee resource groups]: "These ERGs,which are employee-led, voluntary and open to all employees, share a common purpose of building community, providing opportunities for professional development and networking, and having a positive impact on our culture and our business." (Item 1 > Human Capital Resources)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no small-business customers or programs enabling founders or small businesses; its own R&D 'innovative medicines' language is a trap, and when torn between 0 and 1 the lower level is chosen.
+- AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Physician and caregiver education in Marketing, Sales and Distribution is product marketing, a trap, and was not counted. The global steering committee promoting 'understanding and inclusion' and the 'diversity education and awareness' trainings are internal practices in the same Human Capital section; they support but do not lift the Cross-cultural level 2. The equal-opportunity statement is boilerplate. 'Collaborative arrangements' and 'license and collaboration agreement' with Janssen and Biogen are licensing deals, traps for Community. Entrepreneurship could arguably be scored 1 for own innovation under the ladder; 0 was chosen under the pick-lower rule and should be applied the same way to sector peers. The Avadel acquisition and LUMRYZ were completed in February 2026, after the fiscal year, and do not affect any theme.
+
+### 17. Avantor (AVTR): 20.0/100 · shortlist
 10-K filed 2026-02-11 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
@@ -706,7 +1027,22 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes the business fully but shows no program enabling founders or small businesses; references to innovation are trap language.
 - AI notes: Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Recognition as a 'Best Place to Work for Disability Inclusion' by Disability:IN is an external accolade with no underlying practice described, so it was recorded only here and not scored. The VWR private label offering for 'more than 5,000 suppliers' and the channel access given to suppliers concern established life sciences suppliers that are not described as small businesses or founders, so they were not counted for Entrepreneurship. The 'education & government' end market and 'education ... kits' are product sales to education customers, not education delivered as a business, so they were not counted for Community. The Responsible Supplier Program covers sustainability collaboration with suppliers, not community or education, and was not scored. Values and mission language (ICARE, 'setting science in motion') is general language only.
 
-### 11. Natera, Inc. (NTRA): 20.0/100 · shortlist
+### 17. Dexcom (DXCM): 20.0/100 · shortlist
+10-K filed 2026-02-12 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers CGM medical devices and shows no creating or enabling of creative work. Design, brand ambassador and sponsorship mentions are engineering or marketing traps.
+- **Community: 2/5** (sufficient): Level 2: only employee development (development library, tuition reimbursement) is shown, so the score is capped at 2. Customer and provider education programs count as educating customers for product use, which is a trap.
+  - Library of learning and development offerings for employees at all levels: "To support the personal and professional growth of our workforce, we have built an extensive library of development offerings to empower employees at all levels to advance their skill sets and knowledge base." (Item 1 > Human Capital > Talent Growth and Development)
+  - Tuition reimbursement offered to employees as part of total rewards: "Our total rewards package includes market competitive pay, comprehensive and competitive global benefits and retirement offerings, paid time off and family leave, tuition reimbursement and on-site services." (Item 1 > Human Capital > Total Rewards and Pay Equity)
+- **Cross-cultural: 2/5** (sufficient): Level 2: specific current internal practices (ERGs and annual gender/ethnicity pay equity reviews) with no membership or reach figures.
+  - Employee Resource Groups with employee-led activities across global locations: "We are proud to support our ERGs; their employee-led activities and initiatives foster a sense of belonging throughout all our global locations." (Item 1 > Human Capital > Equity and Inclusion)
+  - Annual gender and ethnicity pay equity reviews for employees in similar roles: "Additionally, we continue to proactively review both gender and ethnicity pay equity for our global employees in the same or similar roles." (Item 1 > Human Capital > Total Rewards and Pay Equity)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no small-business customers or enabling programs. Innovation, collaboration agreements and the third-party developer API do not address barriers for founders or small businesses.
+- AI notes: The 10-K points to a Sustainability Report for additional human capital details, but it also describes specific activities itself, so coverage is not insufficient and no second look is triggered. 'Educational and training programs to healthcare providers and people with diabetes' was treated as customer product education (trap) and not as external education. Insulin delivery 'collaboration agreements' are commercial integration deals (trap). The Item 7 'foundation for long-term growth' is financial language (trap). Stelo's over-the-counter access and Medicaid coverage are commercial reach, not targeted inclusion programs. A US workforce ethnicity table is disclosed (E5, demographics_only, context only). An FDA warning letter (March 2025) is noted but not relevant to the themes.
+
+### 17. Natera, Inc. (NTRA): 20.0/100 · shortlist
 10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
@@ -720,7 +1056,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes the business fully and shows no service enabling founders or small businesses; 'innovation' mentions are a trap and do not count.
 - AI notes: Several items were deliberately not counted. Patient educational initiatives, genetic counselor sessions and provider clinical education were treated as customer or marketing education, which is a trap. Patient financial assistance programs for hardship patients, mobile phlebotomy and Horizon pan-ethnic carrier screening are access and product features. They are not specific programs for underserved, immigrant or cultural communities, so they were not scored as Cross-cultural customer_access, choosing the lower level where torn. Research collaborations with universities, NCI and nonprofits are clinical-evidence partnerships, not community investment. Leadership roundtables and expanded personal development training launched in 2025 are additional employee development and do not change the capped level. The 2024 engagement survey (92% participation) is not a development activity. Constellation lab licensing is not a small-business enabling program. A sustainability report is referenced at natera.com/sustainability, but no second look is needed because all themes are sufficient.
 
-### 11. Revvity (RVTY): 20.0/100 · shortlist
+### 17. Revvity (RVTY): 20.0/100 · shortlist
 10-K filed 2026-02-24 (fiscal 2025) · source: 10-K + sustainability report · report: https://resources.revvity.com/pdfs/2026-impact-report.pdf
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
@@ -736,7 +1072,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes customers who are pharma, biotech, academic, hospital and lab institutions and shows no service that enables founders or small businesses; collaborations and innovation language are the company's own and fall under the traps.
 - AI notes: The Item 7 excerpt contains only 'foundation' in a financial sense, which is a trap. Several items were not counted for Cross-cultural: Great Place to Work certifications in several countries, 11,000 employees with about 80% outside the US, operations in about 40 countries, and benefits tailored by country. These are workplace recognition, demographics and international operations, not inclusion activities. Cross-cultural is marked insufficient, so the company should get the automated second look using a sustainability report from the esg.revvity.com domain. That domain is a subdomain of the main company domain, but listing it for a quick human check is advisable. The Community section also points to the ESG site, but it is scored as sufficient because it names a specific activity (charitable matching).
 
-### 14. Chemed Corp. (CHE): 19.0/100
+### 22. Chemed Corp. (CHE): 19.0/100
 10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -751,7 +1087,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: Item 7 (targeted) excerpt was empty. VITAS 'Difference Maker Program' (stay bonuses, over $39.2 million paid) is described as a past retention program, not development, so it was not scored. Volunteer recruitment and training appears only as a description of Medicare Conditions of Participation requirements, not as a described VITAS program, so it was not counted as external education. Roto-Rooter is acquiring franchises: one in 2025 and three in 2024. That consolidation suggests the franchise system is shrinking rather than being expanded as an enabling program. The Human Rights Policy and SASB index are referenced on chemed.com. Cross-cultural is insufficient, so this company triggers the automated sustainability-report second look.
 
-### 14. Charles River Laboratories (CRL): 19.0/100
+### 22. Charles River Laboratories (CRL): 19.0/100
 10-K filed 2026-02-18 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -766,7 +1102,20 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Flexible outsourced research services for virtual and small biotechnology companies with limited infrastructure: "While the biopharmaceutical demand environment has been less robust in recent years, we believe that our portfolio provides flexible solutions and scientific expertise that meet the customized needs for virtual and small biotechnology companies, which have limited or no infrastructure." (Item 1 > Our Strategy > Strategic Outsourcing Drives Efficiency, Innovation, and Growth)
 - AI notes: The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The CRADL (Charles River Accelerator and Development Lab) offering is described only as providing vivarium space to clients, not as a founder or startup program, so it was not scored as enabling; this follows the rule to pick the lower level when torn. The venture capital partnerships are described as a way to promote CRL's services and gain scientific insight, which counts as serving rather than enabling. Publishing scientific papers and symposia are listed as promotional activities and were not counted for Creativity. Insourcing Solutions' training of client research staff is part of a managed-service offering, not external education, and was not counted. The filing refers to a 2024 Corporate Citizenship Report on the company website, with a 2026 update planned, but coverage was judged sufficient because Item 1 has substantive human capital and community discussion. The planned divestiture of non-core businesses (about 7% of 2025 revenue) and planned site closures do not affect the theme scores.
 
-### 14. Medpace (MEDP): 19.0/100
+### 22. IQVIA (IQV): 19.0/100
+10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers clinical research, data, analytics and contract sales services and shows no creative activity. Uses of 'design' and 'content' are trap usages.
+- **Community: 2/5** (sufficient): Level 2: large employee development programs are capped at 2, and the only external education activity (accredited medical educational content) is a minor, unquantified offering, so it does not reach level 3.
+  - Company-wide online learning hub with e-learning programs for employees [867,000 times; 2.2 million e-learning programs]: "In fact, in 2025, they visited the IQVIA Talent and Learning Hub 867,000 times and completed 2.2 million e-learning programs." (Item 1 > Human Capital > Talent & Learning)
+  - AI and Data Analytics Skills training series offered to all employees [over 230,000 views]: "To prepare employees for the skills of tomorrow, we launched the AI and Data Analytics Skills training series in 2025, available to all employees." (Item 1 > Human Capital > Talent & Learning)
+- **Cross-cultural: 1/5** (sufficient): Level 1: rests only on general language. The substantial Human Capital section mentions hiring people 'with a variety of backgrounds' but describes no employee networks, accessibility features or inclusion programs.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation and on small/midcap biotech capital access as a market trend. There is no specific service or program that enables founders or small businesses.
+- AI notes: The Item 7 targeted excerpt was empty. Item 1 points to a 2025 Sustainability Report (People, Public, Planet pillars) for further information, but Community and Cross-cultural are rated sufficient because the 10-K has a substantial Human Capital section. Not counted: conducting clinical trials in different ethnic populations and the presence in Asia and emerging markets (regulatory requirement and international operations); 'deploy educators to clinical trial sites' (patient recruitment service); Healthy You health and financial education sessions and blood donation drives (employee well-being, no figures); parental leave for birth or adoption (standard benefit). The General Management Acceleration Program is part of the enterprise leadership programs in E3 and is not listed separately. Reportable segments change to Commercial Solutions and R&D Solutions effective January 1, 2026.
+
+### 22. Medpace (MEDP): 19.0/100
 10-K filed 2026-02-10 (fiscal 2025) · source: 10-K + sustainability report · report: https://www.medpace.com/careers/wp-content/uploads/sites/2/2026/02/Medpace_Corporate_Responsibility_Report-2025-2026_020526.pdf
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -783,7 +1132,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Provides clinical development services to a customer base that includes small biopharmaceutical companies: "We have a well-diversified, attractively-positioned customer base that includes small biopharmaceutical companies, mid-sized biopharmaceutical companies and large pharmaceutical companies." (Item 1 > Customers)
 - AI notes: The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. The filing points to the 2025-2026 Corporate Responsibility Report at investor.medpace.com for people and communities, which triggers the automated second look for Cross-cultural (insufficient). The quality assurance 'regulatory training' service and 'Development of Drugs' are compliance or regulatory uses and were not counted. The filing says Medpace 'has in the past and may in the future' make strategic investments in customers or provide fee financing. Its current status is unclear, it is not a named program aimed at founder barriers, and it was not scored for Entrepreneurship.
 
-### 14. Moderna (MRNA): 19.0/100
+### 22. Moderna (MRNA): 19.0/100
 10-K filed 2026-02-20 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -798,7 +1147,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation and ownership mindset, with no program enabling founders or small businesses.
 - AI notes: Gates Foundation framework funding concluded during 2025 and BARDA contract concluded June 2025 (past, and research funding rather than qualifying activities). ILCM no-fee license, Merck/Vertex/Recordati/Immatics collaborations are licensing/legal partnerships (trap). Local manufacturing in UK, Canada and Australia is international operations, not cross-cultural access. Public health vaccine programs for regions with less well-established health systems are pipeline R&D, not current access activity. CSR section refers to the 2024 Impacting Human Health Report on the website, but Human Capital gives specific activities, so coverage is sufficient and no second look is triggered. Pay equity analysis (E6) is borderline internal practice; scored as disclosure under the pick-lower rule. 'Scientific community' is a trap.
 
-### 14. West Pharmaceutical Services (WST): 19.0/100
+### 22. West Pharmaceutical Services (WST): 19.0/100
 10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -812,7 +1161,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - In-house research labs and contract engineering services to develop the company's and its customers' new drug-delivery products: "We maintain our own research-scale production facilities and laboratories for developing new products and offer contract engineering design and development services to assist customers with new product development." (Item 1 > Research and Development Activities)
 - AI notes: Item 7 targeted excerpt was empty. The philanthropic programs (children's health, access to healthcare, STEM education) are described only in general terms, with no named programs, participants or dollars, so they do not lift Community above the employee-development cap. Training is offered 'in many different languages' and the Code of Conduct is available in multiple languages; these were treated as routine operations of a global workforce rather than an inclusion activity, consistent with picking the lower level when torn. Sales outside the U.S. (56.7%) do not count toward Cross-cultural. SEE-DO-SAY safety training was treated as compliance/safety training and not scored.
 
-### 19. TG Therapeutics, Inc. (TGTX): 17.0/100
+### 28. TG Therapeutics, Inc. (TGTX): 17.0/100
 10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **17.0**
@@ -825,7 +1174,7 @@ Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the business description is fully disclosed and shows no small-business, founder or creator enabling activity; 'innovative treatments' is a trap term.
 - AI notes: The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Super Bowl LX commercial and the Next In MS platform appear under fiscal 2025 business highlights, but their exact launch dates relative to fiscal year-end are not stated; they are treated as current, and neither affects a score above 1. 'Health Care and Education Reconciliation Act', 'industry-sponsored scientific and educational activities', 'collaborations', 'joint ventures', 'license agreements' and 'Asian countries subject to previously existing partnerships' were treated as traps. A patient support website (BRIUMVIPATIENTSUPPORT.com) is mentioned without any description of its services, so it was not scored. The Community and Cross-cultural Human Capital discussion is roughly 200 words with no pointer to a sustainability report, so coverage is sufficient and no second look is triggered.
 
-### 20. Haemonetics (HAE): 16.0/100
+### 29. Haemonetics (HAE): 16.0/100
 10-K filed 2026-05-20 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -838,7 +1187,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing shows no small-business customers and no enabling service or program, and its R&D 'innovation' language falls under the trap list (choosing the lower level when torn against the level-1 'own innovation' wording).
 - AI notes: The Item 7 (targeted) section provided was empty, so no MD&A paragraphs matched the theme terms. Several items were excluded. Customer training and support on plasma equipment is product support, which falls under the 'educating customers' trap. Code of Conduct and health and safety training are compliance training. Educational and research grants are mentioned only in an Anti-Kickback legal context, not as a company activity. Sales in about 90 countries and staff in 17 other countries are international operations, which do not count for Cross-cultural. Patent licensing and 'design' as engineering are traps for Creativity. The Human Capital section is well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.
 
-### 20. Incyte (INCY): 16.0/100
+### 29. Incyte (INCY): 16.0/100
 10-K filed 2026-02-10 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -853,7 +1202,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the business is fully described and shows no activity enabling founders, small businesses or independent creators. The 'Small Biotech Exception' is a drug-pricing regulatory status, not a small-business program.
 - AI notes: The Item 7 excerpt only contains boilerplate pointing to the prior-year 10-K and websites, with no thematic content. The many 'collaboration agreement' and 'licensing' references (Novartis, Lilly, Syndax, MacroGenics, Merus, Xencor, Enable) are drug licensing deals and are excluded under the Community and Creativity traps. 'Collaborative culture' and 'creative solutions' are general language. The volunteering paragraph says it furthers 'our diversity efforts beyond our own doors', but it describes no cross-cultural practice and is not double counted for Cross-cultural. Tuition reimbursement is mentioned in the benefits sentence and is folded into E2. Drug discovery is the company's own innovation and does not qualify for Entrepreneurship.
 
-### 20. Protagonist Therapeutics, Inc. (PTGX): 16.0/100
+### 29. Protagonist Therapeutics, Inc. (PTGX): 16.0/100
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -866,7 +1215,20 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no services, customers or programs for founders or small businesses; references to 'innovation' and 'collaboration agreements' are traps.
 - AI notes: The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. The 'license and collaboration agreements' with JNJ, Takeda and Zealand are licensing deals and were excluded under the Community trap. Patient access through clinical trials and long-term extensions is a healthcare-access statement and does not qualify under the cross-cultural criteria. The employee count split between the United States and Australia is geographic, not an inclusion activity. For Entrepreneurship, the choice was between 0 and 1 (own innovation); the lower level was chosen.
 
-### 23. Cardinal Health (CAH): 15.0/100
+### 29. Viatris (VTRS): 16.0/100
+10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers only pharmaceutical development, manufacturing and sales, with no creative activity.
+- **Community: 2/5** (sufficient): Level 2: specific current community investment (nonprofit relief partnerships, Building Healthier Communities volunteering) and employee development, but no reach indicators to support level 3.
+  - Humanitarian and disaster-relief support delivered with named nonprofit partners: "Together with long-term partners including but not limited to, Direct Relief, AmeriCares, Save the Children, SBP, World Central Kitchen, and the American Red Cross, the Company has supported medical relief shipments, access to food and long-term rebuilding efforts." (Item 1 > Sustainability > Community Engagement)
+  - Employee volunteering and fundraising under the Building Healthier Communities global initiative: "Furthermore, Viatris colleagues across the globe have supported local care facilities, community cleanups, fundraisers, and participated in volunteer opportunities to raise money and awareness for patients living with diseases as a part of a larger global initiative - Building Healthier Communities." (Item 1 > Sustainability > Community Engagement)
+- **Cross-cultural: 1/5** (sufficient): Level 1: rests only on general language about an inclusive culture, diverse perspectives and recognitions, with no specific inclusion practice or customer-access program described.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no small-business or founder customers or enabling programs; the partner platform is pharmaceutical licensing (a trap) and innovation language does not count.
+- AI notes: Item 7 targeted excerpt was empty. The 10-K points readers to the 2024 Sustainability Report for sustainability work, but Item 1 itself describes specific community activities and has a human capital discussion well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Global access to affordable medicines, including ARVs supplied in more than 100 countries, was treated as international sales and the core pharma business, not cross-cultural customer access. Patient 'educational seminars' and healthcare professional education were not counted: they are described only generally and resemble customer education, which is a trap. The Elevate wellbeing program and Champions network were not counted toward any theme. A planned restructuring with up to about 10% global workforce reduction was announced in February 2026. Values-screen only: this does not override the financial plan's priority of funding the 2033-2042 payments.
+
+### 33. Cardinal Health (CAH): 15.0/100
 10-K filed 2026-08-11 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **15.0**
@@ -880,7 +1242,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Distributes pharmaceuticals and consumer health products to retailers, including independent drug stores: "distributes branded and generic pharmaceutical and over-the-counter healthcare and consumer products to retailers (including chain and independent drug stores and pharmacy departments of supermarkets and mass merchandisers), hospitals, and other healthcare providers;" (Item 1 > Business > Pharmaceutical and Specialty Solutions Segment)
 - AI notes: The human capital section points to the Sustainable Business Report and 2026 Proxy Statement for more information. Coverage is still sufficient because the section is well over 150 words and describes specific activities itself (employee skill development, engagement surveys, safety training), so no second look is triggered. Traps excluded: 'copyright' in Intellectual Property (IP protection, not creative work); 'design' in regulatory requirements (device engineering); 'Sourcing Venture' with CVS Health (joint venture); 'community health centers' and 'independent community oncology network' (healthcare sites and acquisitions, not community investment). Pharmacies operated in community health centers were not credited for Cross-cultural customer access because the filing calls them a 'limited number' and does not say they serve underserved groups. MSO support services to physician practices go with the acquisitions of those practices and were not treated as an enabling program. The Item 7 excerpts repeat the Item 1 segment description and add no new qualifying activities. E2 is safety training, close to required compliance training; it supports E1 only and does not change the capped level.
 
-### 23. Twist Bioscience Corporation (TWST): 15.0/100
+### 33. Twist Bioscience Corporation (TWST): 15.0/100
 10-K filed 2025-11-17 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **15.0**
@@ -893,7 +1255,18 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about a 'culture that rewards entrepreneurial initiative' (own culture); there is no specific service or program enabling founders or small businesses.
 - AI notes: The Item 7 excerpt mentions only 'educational and promotional expense' within selling expenses, which is customer marketing (trap) and is not scored. Academic research customers ($65.9 million revenue) and occasional 'technology collaborations with universities and research institutions' are commercial or R&D relationships, not education as a business or community investment. The filing says the company is 'working to engage with the local community organizations to provide volunteer opportunities', which reads as partly planned and is not separately scored. E3's community college partnership is described mainly as recruiting and brand building, so it supports only a limited level-2 reading. The filing points to a 2025 Corporate Responsibility Report on twistbioscience.com, but it also gives its own specific human capital and community activities, so coverage is not insufficient and no second look is triggered. Implied total: 0 + 12 + 0 + 3 = 15/100.
 
-### 25. Veeva Systems (VEEV): 13.0/100
+### 35. Caris Life Sciences, Inc. (CAI): 13.0/100
+10-K filed 2026-03-03 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **13.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business is molecular profiling, AI diagnostics, drug-target discovery and clinico-genomic data licensing, so it shows no creative activity; 'create molecular signatures', 'state-of-the-art' and data 'licensing' are traps.
+- **Community: 1/5** (sufficient): Level 1, resting on general language only: the roughly 190-word 'Our Employees' section says only that success depends on the ability to 'attract, retain, develop, and motivate' personnel, and describes no specific training, external education or community investment.
+- **Cross-cultural: 1/5** (sufficient): Level 1, resting on general language only: the human capital section refers only to 'diverse highly skilled personnel' and describes no employee networks, accessibility features, multilingual services or community programs; offering products internationally and in Puerto Rico does not count.
+- **Entrepreneurship: 1/5** (sufficient): Level 1, resting on general language only: the only related content is that the management team is 'highly entrepreneurial' and led by a founder, which is the company's own culture and not a service enabling outside founders or small businesses.
+- AI notes: Final score = 0 + 6 + 4 + 3 = 13/100. Several activities were considered and not counted. (1) The Caris Precision Oncology Alliance (99 members, over 45 NCI-designated centers, data access through CODEai) is a research network tied to commercial use, since members profile patients with Caris solutions and it helps Caris become a 'preferred partner'. It is not external education or community investment, so under the lower-level rule it was not scored for Community. (2) Medical science liaison 'educational seminars' for physicians count as educating customers for marketing, a trap. (3) 'Education of customers' and 'medical community' are traps. (4) 'Collaboration agreement with Everlywell' is a commercial deal for a planned product. (5) Caris Detect is planned for a 2026 launch. Coverage was marked sufficient for Community and Cross-cultural because the human capital discussion is about 190 words (over the ~150 threshold), it does not refer to another document for these areas, and it simply describes no qualifying activities. No second look is triggered.
+
+### 35. Veeva Systems (VEEV): 13.0/100
 10-K filed 2026-03-20 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (insufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **13.0**
@@ -907,7 +1280,7 @@ Scores: Creativity 0 (sufficient) · Community 1 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: The targeted Item 7 excerpt was empty, so no MD&A paragraph mentioned the theme terms. Community and Cross-cultural are marked insufficient because the human capital section is under about 150 words, which triggers the automated second look for a sustainability report on a Veeva-owned domain. Veeva is a Delaware public benefit corporation; its stated purpose is mission language and is capped at 1. Several terms were excluded as traps: 'training on our solutions' and quality-training software (customer product training and compliance training), 'collaboration' between trial stakeholders (a software workflow), and international data centers and offices.
 
-### 26. Corcept Therapeutics (CORT): 12.0/100
+### 37. Corcept Therapeutics (CORT): 12.0/100
 10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (insufficient) · Cross-cultural 0 (insufficient) · Entrepreneurship 0 (sufficient) → **12.0**
@@ -920,7 +1293,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: The Item 7 excerpt repeats the Item 1 'Our Products' passages, so the charitable-donation activity is counted once. The physician and patient programs to educate about hypercortisolism screening and the role of the company's Products are excluded as 'educating customers' marketing (trap). Support for independent academic investigators is research, not external education, and is excluded. The University of Chicago and ARCAGY-GINECO collaborations are research and licensing arrangements (trap). E1 was not also credited to Cross-cultural: financial access to medication does not clearly meet that theme's criteria (barriers of culture, language or background), and the lower level was chosen. Context: the exclusive specialty pharmacy agreement with Optime was terminated effective January 8, 2026, with services moved to Curant in Q4 2025. The FDA issued a Complete Response Letter for relacorilant in hypercortisolism on December 30, 2025. A second look is triggered because Community and Cross-cultural coverage is insufficient: find the company's sustainability report on a company domain and rescore those themes.
 
-### 27. Guardant Health, Inc. (GH): 10.0/100
+### 38. Guardant Health, Inc. (GH): 10.0/100
 10-K filed 2026-02-19 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **10.0**
@@ -933,7 +1306,18 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the business sells diagnostic tests to clinicians, payers and biopharmaceutical companies, and the filing describes no service or program that enables founders or small businesses.
 - AI notes: Several items were considered and excluded. Educating clinicians, KOLs and biopharma through publications and screening-awareness initiatives was treated as customer education/marketing, which is a trap. The Royal Marsden partnership mentions 'teaching', but that describes the partner's mission; the partnership itself is a commercial testing arrangement. 'Community oncology practices' and 'community care' (VA) refer to care settings, not community investment. No-copay Shield coverage through VA and TRICARE is payer coverage, not a company-run access program. The annual pay-equity benchmarking 'with respect to gender, race' and benefits such as fertility subsidies and caregiving support were considered for Cross-cultural; they are described generally and without figures, so the lower level was chosen. International expansion into Europe and Asia does not count under Cross-cultural. Shield lung and multi-cancer expansion is planned and does not affect any theme.
 
-### 28. 10x Genomics, Inc. (TXG): 9.0/100
+### 38. Lilly (Eli) (LLY): 10.0/100
+10-K filed 2026-02-12 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **10.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business section fully describes a single human pharmaceutical segment, and its only 'design' language refers to drug discovery, which is a trap term, so there is no creative activity.
+- **Community: 1/5** (sufficient): Level 1 rests on general language only: the roughly 196-word Human Capital Management section gives only a commitment to 'robust training and development opportunities' and employee surveys, with no specific program; 'educate healthcare providers' is marketing and academic collaborations are research partnerships.
+- **Cross-cultural: 1/5** (sufficient): Level 1 rests on general language only: 'inclusive culture', 'focus on inclusion' and 'fairness and nondiscrimination' with no named networks, accessibility features or programs; sales in about 90 countries do not count.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no small-business customers or any enabling program for founders, and its 'innovative medicines' wording is a trap term; torn between 0 and 1 for own R&D, so the lower level is chosen.
+- AI notes: The Item 7 excerpt covers only credit facilities and commercial paper, with no theme-relevant content. Patient-access items were reviewed and excluded from Cross-cultural because none targets cultural, linguistic or underserved-group barriers as a company-initiated program. These items are: LillyDirect, a general direct-to-patient platform; Medicaid rebates and 340B pricing for low-income and uninsured patients, which are statutorily required; the penny-priced insulin exception within a mandated program; and the November 2025 preliminary agreements giving Medicare beneficiaries discounted obesity medicines by July 1, 2026, which are planned and not yet operating. External research investments (licensing, joint ventures, equity investments) are not small-business enabling programs. The Entrepreneurship score of 0 versus 1 (own innovation) was a close call; the lower level was chosen under rule 7. Indicative final score: 10/100.
+
+### 40. 10x Genomics, Inc. (TXG): 9.0/100
 10-K filed 2026-02-13 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **9.0**
@@ -944,7 +1328,7 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation and product development; there is no service or program that enables founders or small businesses.
 - AI notes: No evidence records were created because no current activity meets any theme's criteria. Excluded as traps: 'design' meaning engineering or gene-panel design; 'licensing' meaning patent in-licenses with Harvard and Stanford; 'user-generated content' in the customer online community, which is marketing; 'state of the art' in regulatory text; 'community' meaning the research community; 'collaboration' meaning internal cross-functional product development; 'democratize access to complex data analysis', which is product accessibility for researchers and not cross-cultural inclusion; and 'innovation/innovative'. The customer 'education and training resources, both online and in person' were treated as product-adoption marketing ('educating customers'), not external education. The Item 7 excerpt mentions 'the larger research community' and research grants, neither of which qualifies. Coverage is sufficient for all themes because a Human Capital section of more than 150 words is present, so no second look is triggered.
 
-### 29. Hinge Health, Inc. (HNGE): 8.0/100
+### 41. Hinge Health, Inc. (HNGE): 8.0/100
 10-K filed 2026-03-03 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **8.0**
@@ -957,7 +1341,7 @@ Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community); second look: no report found
 - AI notes: The Item 7 targeted excerpt was empty, so there were no MD&A matches. Community coverage is insufficient, which triggers the automated sustainability-report second look. Member health education (educational content, health coaching, fall-prevention and prevention-program education) is treated as part of the clinical service, not qualifying external education or an education business. That reading is lower when torn, and a reviewer may revisit it. 'Driving health equity' and 'consistent care regardless of income level or geography' are claims with no separate practice behind them, so they add nothing above E1. The global program reached 6 countries (Canada, France, Germany, Ireland, the Netherlands, UK) as of 2025. That figure is in the Growth Strategy paragraph, not next to the quote, so it was not used as an indicator. Expansion to non-U.S. employers and to Medicare and Medicaid is planned and was not scored. Trap terms excluded: 'foundation of our programs', 'collaboration' and 'partners' meaning commercial distribution and data-sharing arrangements, 'innovation', 'design' as product engineering, and 'state of the art' in regulatory text. Women's pelvic health and fall prevention for adults 65+ are clinical product lines and were not counted as cross-cultural inclusion. Computed total: 0 + 0 + 8 + 0 = 8/100.
 
-### 30. Iovance Biotherapeutics, Inc. (IOVA): 6.0/100
+### 42. Iovance Biotherapeutics, Inc. (IOVA): 6.0/100
 10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 0 (sufficient) → **6.0**
@@ -969,7 +1353,7 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing describes no small-business customers or enabling programs; references to the company's own innovation are a listed trap, and when torn between 0 and 1 the lower level applies.
 - AI notes: Educating and training HCPs at authorized treatment centers was excluded because it is commercial product training aimed at customers, which the rubric treats as marketing. Several items were excluded as licensing or legal arrangements rather than community collaboration: the NCI CRADA, the NIH, Cellectis and Novartis license agreements, and support for investigator-sponsored trials. The 'community' references to 'community ATCs' and 'community oncologists' describe treatment-center types, not community investment. The diversity action plan passage summarizes the FDORA requirement and its uncertain timing and is not a company program. The contract-manufacturing agreement with Minaris terminated in Q1 2026, which is not relevant to the themes. The Item 7 excerpts repeat Item 1 text and add no new activities. Community could reasonably be read as 2, since employee development of any size can reach level 2, if a reviewer treats the generic mentoring and development statement as a specific activity.
 
-### 31. Kodiak Sciences Inc. (KOD): 3.0/100
+### 43. Kodiak Sciences Inc. (KOD): 3.0/100
 10-K filed 2026-03-31 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultural 0 (insufficient) · Entrepreneurship 1 (sufficient) → **3.0**
@@ -982,17 +1366,22 @@ Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: The Item 7 (targeted) section provided was empty, so no MD&A paragraphs matched the theme terms. The human capital section is about 115 words. Community and Cross-cultural are marked insufficient, which triggers the automated second look for a company-hosted sustainability report. Several pivotal studies are past or discontinued (DAZZLE was discontinued; GLEAM and GLIMMER missed their endpoints), but none affects theme scoring. The VETi wearable headset's 'identity security' use is a trap term and was not counted. The company has no product revenue, and all candidates are investigational.
 
-## Industrials (5 companies)
+## Industrials (10 companies)
 
-**Shortlist (2):** Automatic Data Processing (ADP, 32.0), Paycom (PAYC, 30.0)
+**Shortlist (4):** Automatic Data Processing (ADP, 32.0), EXL Service (EXLS, 30.0), Paycom (PAYC, 30.0), Lyft, Inc. (LYFT, 26.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Automatic Data Processing (ADP) | **32.0** | 0 | 2 | 2 | 4 | yes |  |
+| 2 | EXL Service (EXLS) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
 | 2 | Paycom (PAYC) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
-| 3 | Paylocity (PCTY) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 4 | Expeditors International (EXPD) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 5 | Sterling Infrastructure (STRL) | **10.0** | 0 | 1 | 1 | 0 |  |  |
+| 4 | Lyft, Inc. (LYFT) | **26.0** | 1 | 2 | 1 | 1 | yes |  |
+| 5 | Paylocity (PCTY) | **23.0** | 0 | 2 | 2 | 1 |  |  |
+| 6 | Allison Transmission (ALSN) | **20.0** | 0 | 2 | 2 | 0 |  |  |
+| 7 | Expeditors International (EXPD) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 7 | Comfort Systems USA (FIX) | **16.0** | 0 | 2 | 1* | 0 |  | insufficient coverage, 1 note(s) |
+| 9 | Sterling Infrastructure (STRL) | **10.0** | 0 | 1 | 1 | 0 |  |  |
+| 10 | Mueller Industries (MLI) | **0.0** | 0 | 0 | 0 | 0 |  |  |
 
 ### 1. Automatic Data Processing (ADP): 32.0/100 · shortlist
 10-K filed 2026-08-05 (fiscal 2026) · source: 10-K
@@ -1011,6 +1400,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - ADP TotalSource PEO lets small and mid-sized businesses offer large-employer benefits and HR services without their own full HR department [more than 19,000 clients and more than 770,000 worksite employees]: "ADP TotalSource clients are able to offer their employees services and benefits on par with those of much larger enterprises, without the need to staff a full HR department." (Item 1 > Products and Solutions > HRO Solutions > Professional Employer Organization)
 - AI notes: Entrepreneurship 4 rests on the rubric's explicit inclusion of 'business software built for small businesses' as enabling. RUN's revenue share is not disclosed, and ADP's core business serves employers of all sizes, so the score is not 5. Small-business Insurance Services (280,000 small and mid-sized clients) and starter 401(k)s were treated as serving rather than enabling and were not recorded. The ADP Cares program, supported by the ADP Foundation, helps the company's own associates through hardship, so it was not counted as external community investment. The Talent Management product's learning tools and recruiter training are client HR features, not an education business, and were not counted. Tuition reimbursement and family-support benefits are part of employee development and benefits and do not change the scores. The targeted Item 7 excerpt (AI agents, ADP Marketplace for partners' AI agents) contains no qualifying activity for any theme. Business resource group quote is a continuous leading clause of a 51-word sentence; the omitted remainder lists further purposes and does not change its meaning.
 
+### 2. EXL Service (EXLS): 30.0/100 · shortlist
+10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: this rests on general language only, namely creativity as a cultural value and routine marketing content development; the data and AI services, including media-industry analytics, neither create nor enable creative work.
+- **Community: 2/5** (sufficient): Level 2: there are specific current community STEM and skills programs with no reach figures, plus employee development, so substantial external reach is not shown.
+  - Community STEM, skills development and workforce-readiness programs run in several countries, built with employee expertise and volunteering: "We have programs in India, the Philippines, South Africa, Europe and the United States aimed at STEM learning, skills development and workforce readiness." (Item 1 > Sustainability Strategy > Community Activities)
+  - Industry-focused employee academies offering certifications, immersions and specialization tracks: "Our industry-focused academies continue to build deep industry, domain and techno-functional expertise through certifications, immersions and specialization tracks." (Item 1 > Human Capital Management > Capability Development)
+- **Cross-cultural: 2/5** (sufficient): Level 2: employee resource groups are available to all staff, but no membership or reach figures are given.
+  - Employee resource groups open to all employees: "All employees have access to our employee resource groups, which help our people connect, share experiences, and feel a sense of belonging." (Item 1 > Human Capital Management > Talent Strategy)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: only the company's own innovation programs and mid-sized enterprise clients are shown, with no service enabling founders or small businesses.
+  - Internal innovation sandbox and hackathons for employees: "To accelerate innovation at scale, we have invested in the EXL Innovation Sandbox, enabling a rapid “fail fast” environment for prototyping, testing, and deploying new ideas that is available to all of our employees." (Item 1 > Human Capital Management > Capability Development)
+- AI notes: The Item 7 excerpt only uses 'foundation' in a business sense and adds no qualifying activity. The community programs (E1) describe employee volunteering and partners but give no participant, dollar or partner figures, so Community stays at 2. The website mentions sustainability efforts, but the 10-K itself describes specific activities, so coverage is sufficient and no second look is triggered. The IGM segment's localizing for 'cultural, linguistic' client needs is international business operations and was not counted. Workforce headcount by country is location data, not an activity. The pay-equity statement is a commitment with no practice detail and was not scored. 'Design', 'content development' and media/broadcasting analytics were treated as traps or routine inputs for Creativity.
+
 ### 2. Paycom (PAYC): 30.0/100 · shortlist
 10-K filed 2026-02-19 (fiscal 2025) · source: 10-K
 
@@ -1027,7 +1431,20 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Emerging markets sales representatives focus on very small business clients [fewer than 65 employees]: "Our sales force is comprised of field sales personnel, who are organized geographically, CRRs, who sell additional applications to existing clients, and our emerging markets representatives, who focus on businesses with fewer than 65 employees." (Item 1 > Sales and Marketing)
 - AI notes: Items not counted: training clients' employees to use the Paycom app is product onboarding and customer education (a trap); 'foundation' in Item 7 means payroll is the base product; the 'Learning' library topics are largely compliance (harassment, workplace violence), which supports keeping Community at 2. Employee Self-Service in 15 languages is treated as the same multilingual activity as E4 and not counted twice, and the Spanish courses in E3 are not separately counted for Cross-cultural. International availability in more than 190 countries does not count on its own; only the language support counts. The affirmative action plan is described as a government-contractor compliance requirement and is not counted. The inclusion learning paths in E1 are recorded for Community only, as a conservative choice. Paycom states it is moving toward larger clients, which weakens any small-business enabling reading.
 
-### 3. Paylocity (PCTY): 23.0/100
+### 4. Lyft, Inc. (LYFT): 26.0/100 · shortlist
+10-K filed 2026-02-11 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **26.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the only creative work is Lyft-produced marketing content and brand partnerships, which is a routine business input (brand storytelling trap).
+  - Lyft-produced marketing content and culture/entertainment partnerships used for brand marketing: "Our brand marketing includes but is not limited to Lyft-produced content, culture and entertainment partnerships, marketing partnerships, and outdoor advertisements." (Item 1 > Our Brand and Marketing)
+- **Community: 2/5** (sufficient): Level 2: the filing describes only employee development (training, mentorship, coaching), so Community is capped at 2.
+  - Training, mentorship, coaching and leadership development programs for employees: "We provide access to training programs, skill-building resources, mentorship, coaching and leadership development initiatives designed to help employees grow in their current roles and prepare for future opportunities." (Item 1 > Human Capital > Employee Development and Engagement > Professional Growth and Development)
+- **Cross-cultural: 1/5** (sufficient): Level 1: rests only on general language that riders 'represent all adult age groups and backgrounds', with no specific inclusion or access activity described in the human capital section or elsewhere.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests on general language only; drivers are described as flexible earners (some being 'business owners') and the company cites its own innovation, but there is no specific program aimed at helping founders or small businesses start or grow.
+- AI notes: Torn on Entrepreneurship between 1 and 2 because the ridesharing marketplace lets independent drivers earn income and Express Drive rents vehicles to drivers who lack one. The filing frames this as flexible income, not starting or growing a venture, so the lower level was chosen. Driver 'education resources' are mentioned in one vague clause with no specifics. Mandatory driver safety education is compliance-style training. Neither changes the Community score, which is capped at 2. 'Mobile application accessibility' appears only as a regulatory topic, not as a described activity. The international expansion through the Freenow and TBR acquisitions does not count for Cross-cultural. 'Design' in product teams and the 'data privacy and security foundation' are trap terms. The Item 7 excerpts use 'community' only as a metric label (Active Riders) and contain no qualifying activity.
+
+### 5. Paylocity (PCTY): 23.0/100
 10-K filed 2026-08-05 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1043,7 +1460,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Sells HCM software to businesses with 10 to 5,000 employees [10 to 5,000 employees; approximately 44,400 clients]: "Our clients typically have between 10 to 5,000 employees." (Item 1 > Our Strategy > Grow Our Client Base)
 - AI notes: Final score: 0 + 12 + 8 + 3 = 23 / 100. Creativity: the Video tools (leadership announcements, onboarding) and user-generated training content are routine internal business communication, not creative work. 'State-of-the-art time clocks' is a listed trap. 'Technological and creative skills of our personnel' refers to software development. Creativity was scored 0; 1 was considered, and the lower level was chosen when torn. Community: the national nonprofit partnerships (Girls Who Code, American Red Cross, NAMI) and Elevate Your Passions donations sit inside the PCTY Gives paragraph, so they are treated as part of E4 to avoid double counting. No dollars or participant counts are disclosed, so Community does not reach 3. Client training and the annual client conference are 'educating customers' and were not scored. The Community employee-engagement product is workplace communication, not community investment. Cross-cultural: the Global Payroll service in over 100 countries is international operations and does not count. The parental, adoption and fertility benefits were not scored as inclusive practice because they are ambiguous. Item 7 excerpt: 'financial community' is a trap and contains no qualifying activity. Entrepreneurship: the filing never frames clients as small businesses or founders, and 'innovation' language is a trap.
 
-### 4. Expeditors International (EXPD): 16.0/100
+### 6. Allison Transmission (ALSN): 20.0/100
+10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers transmissions, propulsion and off-highway drivetrain products, and it shows no creative activity. Uses of 'design' and 'licensing' refer to engineering and patents, which the rubric lists as traps.
+- **Community: 2/5** (sufficient): Level 2: the only specific activity is employee development (virtual mentoring programs), so the score is capped at 2. Educating customers and dealers is marketing, and health-and-safety training is compliance training.
+  - Virtual mentoring programs that connect employees across locations, departments and backgrounds: "organizing virtual mentoring programs to connect employees from different locations, departments and backgrounds" (Item 1 > Human Capital > Equality of Opportunity)
+- **Cross-cultural: 2/5** (sufficient): Level 2: the filing describes specific current internal practices, namely employee resource groups and recruiting focused on veterans and people with disabilities, but gives no membership or reach figures.
+  - Multicultural, emerging professionals and military veterans employee resource groups open to all employees: "creating multicultural, emerging professionals, and military veterans employee resource groups that are open to all" (Item 1 > Human Capital > Equality of Opportunity)
+  - Recruiting through organizations focused on veterans and people with disabilities, diverse professional organizations and schools with diverse student bodies: "utilizing non-traditional recruiting sources, such as organizations focused on veterans and people with disabilities, diverse professional organizations, and schools with diverse student bodies" (Item 1 > Human Capital > Equality of Opportunity)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing shows no enabling program for founders or small businesses. The independent distributor and dealer network of about 1,500 locations is a sales channel, and 'innovation' is a trap term.
+- AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. The 10-K mentions an annual Corporate Social Responsibility Report but also describes specific human capital activities itself, so coverage is sufficient and no second look is triggered. The Acquired Off-Highway Business (about 8,000 employees and 46 plants) became effective January 1, 2026; it falls outside FY2025 and was not scored. Workforce figures disclosed are headcount and union representation only, with no diversity demographics. The mentoring program also mentions connecting employees from different backgrounds, but it is counted only under Community to avoid stretching it. Indicative final score from theme weights: 0 + 12 + 8 + 0 = 20/100.
+
+### 7. Expeditors International (EXPD): 16.0/100
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -1056,7 +1487,20 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the business is fully described and shows no service enabling founders or small businesses; small competitors are mentioned only as competitors and 'innovation' is a trap term.
 - AI notes: The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. The Management Trainee program appears only in an executive biography referring to 2004; its current operation is not confirmed, so it was not recorded. Employee-led Green Teams are environmental sustainability activities, not community investment or education, and were not scored. 'Joint venture' (a local licensing structure), shipping 'high fashion' goods, and 'collaboration' in technology development are traps or non-qualifying uses. Human capital discussion is well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.
 
-### 5. Sterling Infrastructure (STRL): 10.0/100
+### 7. Comfort Systems USA (FIX): 16.0/100
+10-K filed 2026-02-19 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 0 (sufficient) → **16.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the filing fully describes an MEP contracting business, and its 'design' language refers to engineering design (a trap), so it shows no creative activity.
+- **Community: 2/5** (sufficient): Level 2: the only specific activity is training and apprenticeships for the company's own employees, and no external education or community investment is described, so the employee-development cap of 2 applies.
+  - Training programs for the company's own workforce, including management, sales, leadership, on-the-job and technical training and apprenticeship programs: "We provide numerous training programs for management, sales, and leadership, as well as on-the-job training, technical training, apprenticeship programs, attractive benefit packages and career advancement opportunities within the Company." (Item 1 > Human Capital Resources > Recruiting and Training)
+- **Cross-cultural: 1/5** (insufficient): Level 1 based on general language only (equal-opportunity boilerplate, board oversight of a diversity strategy, a named Supplier Diversity Policy with no practice described); coverage is insufficient under condition 2 because the relevant discussion is under about 150 words.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: small businesses appear only as competitors, and 'innovative' language is a trap, so there is no service enabling founders or small businesses.
+- Flags: coverage insufficient (cross_cultural); second look: no report found
+- AI notes: The apprenticeship programs appear to be part of internal workforce development ('within the Company'), so they are tagged employee_development rather than external_education. Compliance-related training (ethics, EEO, anti-corruption, Clean Air Act technician certification) does not count beyond level 1. The filing names a Supplier Diversity Policy but describes no activity under it. The filing says a 2024 sustainability report was published, so Cross-cultural's insufficient coverage triggers the automated second look. Item 7 excerpt contains only a business overview with no qualifying activity.
+
+### 9. Sterling Infrastructure (STRL): 10.0/100
 10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **10.0**
@@ -1068,52 +1512,76 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing fully describes the business and shows no enabling program for founders or small businesses; small local contractors appear only as competitors, which is a trap.
 - AI notes: Sustainability and 'The Sterling Way' language about caring for people and communities is a mission statement only. The strategy section mentions 'developing talent and trades people', but it is general and gives no named program, participants or external reach. The filing says public transportation contracts impose 'requirements regarding labor relations and subcontracting with designated classes of disadvantaged businesses'. This is presented as a government contract requirement, not a company program, so it was not scored for Entrepreneurship or Cross-cultural; when torn, the lower level was picked. Joint venture arrangements are a trap and were not scored. The Item 7 excerpt repeats the Item 1 overview word for word and adds no new activities. The planned downsizing of the Texas heavy highway business (expected complete 2026) does not affect the theme scores.
 
-## Information Technology (40 companies)
+### 10. Mueller Industries (MLI): 0.0/100
+10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
 
-**Shortlist (16):** Nvidia (NVDA, 47.0), Advanced Micro Devices (AMD, 37.0), Box, Inc. (BOX, 36.0), NetApp (NTAP, 32.0), Twilio (TWLO, 32.0), CrowdStrike (CRWD, 30.0), Dell Technologies (DELL, 30.0), HP Inc. (HPQ, 30.0), Sandisk (SNDK, 30.0), Fortinet (FTNT, 29.0), Micron Technology (MU, 27.0), Workday, Inc. (WDAY, 27.0), F5, Inc. (FFIV, 26.0), Docusign (DOCU, 25.0), Zebra Technologies (ZBRA, 24.0), Zeta Global Holdings Corp. (ZETA, 24.0)
+Scores: Creativity 0 (sufficient) · Community 0 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 0 (sufficient) → **0.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers copper, brass and aluminum products, valves, ducts and wire, and shows no creative activity; 'design' here means engineering or product design, which is a trap.
+- **Community: 0/5** (sufficient): Level 0: the Human Capital Resources section (roughly 160 words of prose plus a union-contract table) covers only headcount, unions, incentive pay, safety and the code of conduct, with no training, external education or community investment; the targeted MD&A mentions only a New Markets Tax Credit financing structure for the company's own plant, which is excluded as a financing and legal arrangement.
+- **Cross-cultural: 0/5** (sufficient): Level 0: the filing has a human capital section but describes no employee networks, inclusive benefits, accessibility or multilingual services, and international operations alone do not count.
+- **Entrepreneurship: 0/5** (sufficient): Level 0: customers are described as wholesalers, OEMs, distributors and building material retailers, with no small-business enabling service; the joint ventures (Jungwoo-Mueller, Mueller Middle East) are a trap.
+- AI notes: The Item 7 excerpt describes a 2016 New Markets Tax Credit financing with Wells Fargo Community Investment Holdings for equipment modernization at the company's own Fulton, MS facility. It is a tax-credit financing and legal structure, not a company community program, and the filing does not say whether it is still active, so no evidence record was created. Coverage for Community and Cross-cultural is borderline: the Human Capital Resources prose is about 160 words (more with the union table), so it does not meet the strict 'under about 150 words' condition and was marked sufficient. A human reviewer may want to confirm this, since the section contains almost no relevant substance. The 'Community' in 'Community Renewal Tax Relief Act' and 'community development entities' is legal or program terminology and was not counted. Final score: 0/100.
+
+## Information Technology (53 companies)
+
+**Shortlist (33):** Nvidia (NVDA, 47.0), Apple Inc. (AAPL, 40.0), Advanced Micro Devices (AMD, 37.0), Box, Inc. (BOX, 36.0), Seagate Technology (STX, 34.0), AppFolio (APPF, 33.0), NetApp (NTAP, 32.0), Twilio (TWLO, 32.0), CrowdStrike (CRWD, 30.0), Dell Technologies (DELL, 30.0), HP Inc. (HPQ, 30.0), SailPoint, Inc. (SAIL, 30.0), Sandisk (SNDK, 30.0), Salesforce (CRM, 29.0), Fortinet (FTNT, 29.0), Micron Technology (MU, 27.0), Workday, Inc. (WDAY, 27.0), F5, Inc. (FFIV, 26.0), Docusign (DOCU, 25.0), Zebra Technologies (ZBRA, 24.0), Zeta Global Holdings Corp. (ZETA, 24.0), Dynatrace (DT, 23.0), Hewlett Packard Enterprise (HPE, 23.0), Manhattan Associates (MANH, 23.0), Marvell Technology (MRVL, 23.0), Nutanix (NTNX, 23.0), Okta, Inc. (OKTA, 23.0), Palo Alto Networks (PANW, 23.0), Impinj, Inc. (PI, 23.0), Everpure (P, 23.0), Qualys (QLYS, 23.0), RingCentral, Inc. (RNG, 23.0), Varonis Systems, Inc. (VRNS, 23.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Nvidia (NVDA) | **47.0** | 3 | 2 | 2 | 2 | yes | rescored with report |
-| 2 | Advanced Micro Devices (AMD) | **37.0** | 2 | 2 | 2 | 1 | yes |  |
-| 3 | Box, Inc. (BOX) | **36.0** | 1 | 3 | 2 | 1 | yes |  |
-| 4 | NetApp (NTAP) | **32.0** | 1 | 3 | 1* | 1 | yes | insufficient coverage, 1 note(s) |
-| 4 | Twilio (TWLO) | **32.0** | 1 | 3 | 1 | 1 | yes |  |
-| 6 | CrowdStrike (CRWD) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
-| 6 | Dell Technologies (DELL) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
-| 6 | HP Inc. (HPQ) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
-| 6 | Sandisk (SNDK) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
-| 10 | Fortinet (FTNT) | **29.0** | 0 | 3 | 2 | 1 | yes |  |
-| 11 | Micron Technology (MU) | **27.0** | 0 | 2 | 3 | 1 | yes |  |
-| 11 | Workday, Inc. (WDAY) | **27.0** | 0 | 2 | 3 | 1 | yes |  |
-| 13 | F5, Inc. (FFIV) | **26.0** | 0 | 3 | 2 | 0 | yes |  |
-| 14 | Docusign (DOCU) | **25.0** | 0 | 3 | 1 | 1 | yes |  |
-| 15 | Zebra Technologies (ZBRA) | **24.0** | 0 | 2 | 3 | 0 | yes |  |
-| 15 | Zeta Global Holdings Corp. (ZETA) | **24.0** | 1 | 1 | 2 | 1 | yes |  |
-| 17 | Dynatrace (DT) | **23.0** | 0 | 2 | 2 | 1 |  | rescored with report |
-| 17 | Hewlett Packard Enterprise (HPE) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 17 | Manhattan Associates (MANH) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 17 | Marvell Technology (MRVL) | **23.0** | 0 | 2 | 2 | 1 |  | rescored with report |
-| 17 | Nutanix (NTNX) | **23.0** | 1 | 2 | 1 | 0 |  |  |
-| 17 | Okta, Inc. (OKTA) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 17 | Palo Alto Networks (PANW) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 17 | Everpure (P) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 17 | Qualys (QLYS) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 17 | RingCentral, Inc. (RNG) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 17 | Varonis Systems, Inc. (VRNS) | **23.0** | 0 | 2 | 2 | 1 |  |  |
-| 28 | Dropbox (DBX) | **22.0** | 1 | 2 | 0 | 1 |  |  |
-| 29 | CommVault Systems (CVLT) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
-| 29 | JFrog Ltd. (FROG) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 29 | GitLab Inc. (GTLB) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 29 | ServiceNow (NOW) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 29 | Rubrik Inc. Class A Common Stock (RBRK) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 29 | Zscaler, Inc. (ZS) | **19.0** | 0 | 2 | 1 | 1 |  |  |
-| 35 | MaxLinear, Inc. (MXL) | **17.0** | 0 | 1 | 2 | 1 |  |  |
-| 36 | Science Applications Intl Corp (SAIC) | **16.0** | 0 | 2 | 1 | 0 |  |  |
-| 36 | Snowflake Inc. (SNOW) | **16.0** | 0 | 1 | 1 | 2 |  |  |
-| 38 | Navan, Inc. (NAVN) | **9.0** | 0 | 1* | 0* | 1 |  | insufficient coverage, 1 note(s) |
-| 39 | Datadog (DDOG) | **3.0** | 0 | 0* | 0* | 1 |  | insufficient coverage, 1 note(s) |
-| 40 | Astera Labs, Inc. (ALAB) | **0.0** | 0 | 0* | 0* | 0 |  | insufficient coverage, 1 note(s) |
+| 2 | Apple Inc. (AAPL) | **40.0** | 3 | 2 | 1 | 1 | yes |  |
+| 3 | Advanced Micro Devices (AMD) | **37.0** | 2 | 2 | 2 | 1 | yes |  |
+| 4 | Box, Inc. (BOX) | **36.0** | 1 | 3 | 2 | 1 | yes |  |
+| 5 | Seagate Technology (STX) | **34.0** | 1 | 2 | 3 | 1 | yes | rescored with report |
+| 6 | AppFolio (APPF) | **33.0** | 1 | 2 | 2 | 2 | yes |  |
+| 7 | NetApp (NTAP) | **32.0** | 1 | 3 | 1* | 1 | yes | insufficient coverage, 1 note(s) |
+| 7 | Twilio (TWLO) | **32.0** | 1 | 3 | 1 | 1 | yes |  |
+| 9 | CrowdStrike (CRWD) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
+| 9 | Dell Technologies (DELL) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
+| 9 | HP Inc. (HPQ) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
+| 9 | SailPoint, Inc. (SAIL) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
+| 9 | Sandisk (SNDK) | **30.0** | 1 | 2 | 2 | 1 | yes |  |
+| 14 | Salesforce (CRM) | **29.0** | 1 | 2 | 1* | 2 | yes | insufficient coverage, 1 note(s) |
+| 14 | Fortinet (FTNT) | **29.0** | 0 | 3 | 2 | 1 | yes |  |
+| 16 | Micron Technology (MU) | **27.0** | 0 | 2 | 3 | 1 | yes |  |
+| 16 | Workday, Inc. (WDAY) | **27.0** | 0 | 2 | 3 | 1 | yes |  |
+| 18 | F5, Inc. (FFIV) | **26.0** | 0 | 3 | 2 | 0 | yes |  |
+| 19 | Docusign (DOCU) | **25.0** | 0 | 3 | 1 | 1 | yes |  |
+| 20 | Zebra Technologies (ZBRA) | **24.0** | 0 | 2 | 3 | 0 | yes |  |
+| 20 | Zeta Global Holdings Corp. (ZETA) | **24.0** | 1 | 1 | 2 | 1 | yes |  |
+| 22 | Dynatrace (DT) | **23.0** | 0 | 2 | 2 | 1 | yes | rescored with report |
+| 22 | Hewlett Packard Enterprise (HPE) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | Manhattan Associates (MANH) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | Marvell Technology (MRVL) | **23.0** | 0 | 2 | 2 | 1 | yes | rescored with report |
+| 22 | Nutanix (NTNX) | **23.0** | 1 | 2 | 1 | 0 | yes |  |
+| 22 | Okta, Inc. (OKTA) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | Palo Alto Networks (PANW) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | Impinj, Inc. (PI) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | Everpure (P) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | Qualys (QLYS) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | RingCentral, Inc. (RNG) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 22 | Varonis Systems, Inc. (VRNS) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 34 | Accenture (ACN) | **22.0** | 1 | 2 | 0 | 1 |  |  |
+| 34 | Dropbox (DBX) | **22.0** | 1 | 2 | 0 | 1 |  |  |
+| 36 | Netskope, Inc. (NTSK) | **20.0** | 1 | 1 | 1 | 1 |  |  |
+| 37 | CommVault Systems (CVLT) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
+| 37 | JFrog Ltd. (FROG) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 37 | GitLab Inc. (GTLB) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 37 | ServiceNow (NOW) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 37 | PTC Inc. (PTC) | **19.0** | 0 | 2 | 1* | 1 |  | insufficient coverage, 1 note(s) |
+| 37 | Rubrik Inc. Class A Common Stock (RBRK) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 37 | SentinelOne, Inc. (S) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 37 | Zscaler, Inc. (ZS) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 45 | MaxLinear, Inc. (MXL) | **17.0** | 0 | 1 | 2 | 1 |  |  |
+| 46 | Science Applications Intl Corp (SAIC) | **16.0** | 0 | 2 | 1 | 0 |  |  |
+| 46 | Snowflake Inc. (SNOW) | **16.0** | 0 | 1 | 1 | 2 |  |  |
+| 48 | Qualcomm (QCOM) | **15.0** | 0 | 2 | 0 | 1 |  |  |
+| 49 | Navan, Inc. (NAVN) | **9.0** | 0 | 1* | 0* | 1 |  | insufficient coverage, 1 note(s) |
+| 49 | Palantir Technologies (PLTR) | **9.0** | 0 | 1 | 0 | 1 |  |  |
+| 49 | Skyworks Solutions (SWKS) | **9.0** | 0 | 1 | 0 | 1 |  |  |
+| 52 | Datadog (DDOG) | **3.0** | 0 | 0* | 0* | 1 |  | insufficient coverage, 1 note(s) |
+| 53 | Astera Labs, Inc. (ALAB) | **0.0** | 0 | 0* | 0* | 0 |  | insufficient coverage, 1 note(s) |
 
 ### 1. Nvidia (NVDA): 47.0/100 · shortlist
 10-K filed 2026-02-25 (fiscal 2026) · source: 10-K + sustainability report · report: https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf
@@ -1134,7 +1602,22 @@ Scores: Creativity 3 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Inception program working with startups [tens of thousands of startups]: "We evangelize AI through partnerships with hundreds of universities and tens of thousands of startups through our Inception program." (Item 1 > Business Strategies > Extending our technology and platform leadership in AI)
 - AI notes: Cross-cultural coverage is insufficient, so a second look using the sustainability report is triggered. The Item 7 excerpt only discusses open-source foundation models and has no qualifying activity. Excluded as traps: 'foundation' models and 'foundational' CUDA; 'training' meaning AI model training; chip 'design' and co-design; IP 'license and development agreements'; supply chain and sales in Asia and the Middle East; 'innovation' language. The Deep Learning Institute and the university partnerships appear under Sales and Marketing and AI evangelism, which is close to the 'educating customers as marketing' trap, so DLI was given no more than level 2 and the 'hundreds of universities' partnerships were not scored separately. The Graphics segment (GeForce and RTX workstation GPUs) is a reported segment, but no revenue is given in the provided text and it is mostly gaming, which is consumption rather than creation, so Creativity is not scored at 4. The 7.5 million CUDA developers relate to NVIDIA's own platform ecosystem and were not counted for Entrepreneurship.
 
-### 2. Advanced Micro Devices (AMD): 37.0/100 · shortlist
+### 2. Apple Inc. (AAPL): 40.0/100 · shortlist
+10-K filed 2025-10-31 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 3 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **40.0**
+
+- **Creativity: 3/5** (sufficient): Level 3: named, ongoing services that create content (Apple TV original content) and distribute others' creative work (App Store, Apple Music, Apple Arcade) are a real but minor product line, and no revenue or user figures are disclosed for level 4.
+  - Operates the App Store and other platforms through which customers download apps and third-party digital content such as books, music, video, games and podcasts: "The Company operates various platforms, including the App Store®, that allow customers to discover and download applications and digital content, such as books, music, video, games and podcasts." (Item 1 > Services > Digital Content)
+  - Subscription content services, including Apple TV with exclusive original content, Apple Music, Apple Arcade and Apple News+: "The Company also offers digital content through subscription-based services, including Apple Arcade®, a game service; Apple Fitness+®, a personalized fitness service; Apple Music®, which offers users a curated listening experience with on-demand radio stations; Apple News+®, a news and magazine service; and Apple TV®, which offers exclusive original content and live sports." (Item 1 > Services > Digital Content)
+- **Community: 2/5** (sufficient): Level 2: the only specific activity is employee development (Apple University and online classes), so Community is capped at 2.
+  - Apple University and online classes for employee leadership, business, technical and personal development: "The Company offers programs through Apple University on leadership, management and influence, as well as Apple culture and values." (Item 1 > Human Capital)
+- **Cross-cultural: 1/5** (sufficient): Level 1: this rests only on general language (equal-opportunity and inclusion commitments, a culture welcoming a broad range of backgrounds, and inclusion questions in employee surveys), with no specific inclusion practice or accessibility or multilingual offering described.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: small and mid-sized businesses are a customer market, but no specific enabling service or program for founders or small businesses is described.
+  - Sells products and services to small and mid-sized business customers, among other markets: "The Company’s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets." (Item 1 > Markets and Distribution)
+- AI notes: The Item 7 targeted excerpt is empty, so no MD&A paragraph matched the theme terms. The App Store is described only from the customer side (discovery and download). The filing does not describe it as a marketplace that enables developers or creators to build businesses, so it was not counted as Entrepreneurship 'enabling'. Apple Pay and Apple Card are described as consumer payment services, not as merchant tools for small businesses. The trap terms 'design' (engineering and product design), 'licensing' (intellectual property and advertising licensing arrangements) and 'innovative' were excluded. Selling to the 'education' market was not treated as an education business. The Human Capital section is about 390 words, so Community and Cross-cultural coverage is sufficient. However, its inclusion content is general language only.
+
+### 3. Advanced Micro Devices (AMD): 37.0/100 · shortlist
 10-K filed 2026-02-04 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 2 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **37.0**
@@ -1151,7 +1634,7 @@ Scores: Creativity 2 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Sells to small and medium businesses through the reseller (VAR) channel: "Large multi-nationals and regional accounts are the core of our OEM partners’ business; however, we are increasingly focused on the VAR channel, which resells OEM systems to the mid-market and the small and medium business (SMB) segments." (Item 1 > Customers > Original Equipment Manufacturers)
 - AI notes: Chips for game consoles and gaming hardware were not counted as creative enablement, because they are for playing games, not making them. Chip, CAD and logic 'design', 'design tools', developer software stacks and patent cross-licensing were treated as traps. The Item 7 mention of Radeon AI PRO 9700 GPUs 'for gamers, creators and developers' is part of the same professional/creator GPU activity as E1 and was not counted again. The 2025 expansion of mentoring for engineers overlaps with E4 and was not counted separately. 'Inclusive benefits' is mentioned with no detail and was not counted as a separate activity. Co-marketing 'training' for customers is marketing, and open-source contributions are industry collaboration, not community education; neither was counted. 'Founded in 1969 as a Silicon Valley start-up' and 'culture of innovation' are traps for Entrepreneurship. Indicative total from the theme scores: 14 + 12 + 8 + 3 = 37/100.
 
-### 3. Box, Inc. (BOX): 36.0/100 · shortlist
+### 4. Box, Inc. (BOX): 36.0/100 · shortlist
 10-K filed 2026-03-09 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **36.0**
@@ -1167,7 +1650,42 @@ Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 
   - Serves organizations from small businesses to large global enterprises: "Our sales and customer success teams are organized to efficiently serve organizations ranging from small businesses to the world’s largest global organizations." (Item 7 (targeted excerpt))
 - AI notes: Cross-cultural was torn between 2 and 3: the 25-language product across over 100,000 paying organizations is broad, but it is standard product localization rather than a dedicated access program, so the lower level was chosen. The Box Sign support for more than 20 languages was not counted separately, to avoid double counting with E3. The ERC volunteering initiatives have no figures and overlap with the Box.org volunteer hours, so they were not counted separately for Community. The customer online community with self-service training materials was treated as customer education/marketing (a trap), not external education. The developer platform used by 'tens of thousands of third-party developers' was not counted as entrepreneurship enabling because it is not aimed at barriers to starting or growing a business. 'Analyst community' and 'investment community'-style language in Item 7 are traps. The Item 7 excerpts largely repeat Item 1 customer data. The 'We are committed to powering how the world does more good together' mission language was not scored by itself. The 'Belonging' label was not scored; only the underlying practices were.
 
-### 4. NetApp (NTAP): 32.0/100 · shortlist
+### 5. Seagate Technology (STX): 34.0/100 · shortlist
+10-K filed 2026-08-04 (fiscal 2026) · source: 10-K + sustainability report · report: https://www.seagate.com/content/dam/seagate/assets/sustainability/files/seagate-fy2025-sustainability-report.pdf
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 3 (sufficient) · Entrepreneurship 1 (sufficient) → **34.0**
+10-K-only scores before the report: {'creativity': 1, 'community': 2, 'cross_cultural': 2, 'entrepreneurship': 1} → 30.0
+
+- **Creativity: 1/5** (sufficient): Level 1: general-purpose storage is sold to creative professionals among several customer groups, with no creator-specific product line or figures, so the lower level was chosen when torn.
+  - Branded retail storage products sold to casual users, gamers and creative professionals: "Our retail channel primarily serves casual users, gamers and creative professionals through branded storage products sold directly to retailers or through our distribution partners." (Item 1 > Customers)
+- **Community: 2/5** (sufficient): Level 2: employee development plus specific current STEM education and community partnerships, with no participant or dollar figures to support level 3.
+  - Mentoring, coaching, technical and leadership training for employees: "We also provide mentoring, coaching, technical and leadership training, on-the-job learning and other professional development opportunities." (Item 1 > Human Capital > Talent Development)
+  - Employee volunteer STEM educational programming for students and local community partnerships: "During fiscal year 2026, these efforts included educational programming for students, environmental cleanup and tree-planting activities, and community partnerships across our global locations." (Item 1 > Human Capital > Community Engagement)
+- **Cross-cultural: 3/5** (sufficient) (rescored with the sustainability report): Level 3: the sustainability report gives membership figures for the ERG program (over 4,000 members across ten ERGs and 32 local chapters). The program is open to all employees and was expanded with new chapters in FY2025. The 10-K confirms the ERGs still operate in FY2026 (32 chapters across eight countries). Heritage-month recognition, the Pride/Veterans podcasts and the multilingual policy are smaller supporting internal practices. Level 4 is not met: there is no customer-access or connecting-communities activity that forms a major part of the business.
+  - Employee Resource Groups open to all employees, with disclosed membership and chapter counts, expanded with new chapters in FY2025 [over 4,000 global members; ten ERGs; 32 local chapters]: "With over 4,000 global members across ten ERGs and 32 local chapters, ERGs play a vital role in fostering a workplace where every employee feels safe, respected, and valued." (People > Our Culture of Inclusion > Supporting Employee Resource Groups, sustainability report)
+  - Company recognition of cultural and heritage events across global locations: "We also recognize cultural and heritage events across our global locations to reflect the diverse backgrounds and experiences of our employees and strengthen connections across our workforce." (Item 1 > Human Capital > Culture of Inclusion)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: only the company's own innovation and R&D, with no small-business or founder enabling service.
+  - Company's own research and development in storage technology: "Research and development (“R&D”) is central to our long-term growth strategy." (Item 1 > Research and Development)
+- AI notes: The Item 7 excerpt covers only liquidity and contains no theme-relevant activity. 'Creative workflows' in the Edge IoT product description refers to the same consumer storage activity as E1 and is not counted separately. The following are not counted: 'content delivery', 'create ... data', product and chip 'design', patent 'licensing', 'foundation' meaning technology base, and health and safety training (compliance). The filing points to a Sustainability Report for sustainability information only. The cross-cultural 'insufficient' coverage (word-count condition 2) triggers the second look. The 25,000 employees in Asia figure is location data and is not scored. Cross-cultural was held at 2 rather than 3 because chapter counts are not membership figures. Entrepreneurship was scored 1 for own innovation per the level-1 ladder text, even though 'innovation' is listed as a trap for enabling evidence.
+
+### 6. AppFolio (APPF): 33.0/100 · shortlist
+10-K filed 2026-02-05 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 2 (sufficient) → **33.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the only creative activity is marketing content created as a routine business input, and the core business is property management software.
+  - Creates industry-related marketing content and collateral as part of routine sales and marketing: "Marketing activities include advertising, online lead generation, lead nurturing, customer and industry events, and the creation of industry-related content and collateral." (Item 7 > Sales and Marketing)
+- **Community: 2/5** (sufficient): Level 2: specific current employee development plus a named philanthropy program and volunteer time off, but no participant or dollar figures show substantial reach.
+  - In-person and on-demand learning and development programs for employees: "We conduct in-person trainings and make available on-demand programming that covers a wide range of topics from professional development to real estate industry acumen." (Item 1 > Human Capital > Employee Development)
+  - Employee-led Give Back Committee and company-wide paid volunteer time off [eight hours of paid volunteer time off annually]: "We empower employee volunteerism through our employee-led Give Back Committee and company-wide benefit of eight hours of paid volunteer time off annually." (Item 1 > Human Capital > Societal Impact)
+- **Cross-cultural: 2/5** (sufficient): Level 2: employee resource groups with no figures and a multi-lingual resident communication feature, both limited or unmeasured in reach.
+  - Employee-led resource groups and listening forums: "We foster a culture of belonging through employee-led resource groups, open communication, and regular listening forums, where every voice is valued and contributes to shaping our workplace." (Item 1 > Human Capital > An Inclusive Workplace)
+  - AI maintenance tool (Realm Maintenance Performer) supports multi-lingual communication with residents: "The tool facilitates real-time, multi-lingual communication with residents and automatically generates prioritized work orders." (Item 1 > Subscription Plans and Services > Maintenance)
+- **Entrepreneurship: 2/5** (sufficient): Level 2: a specific software plan aimed at small property management companies, with no disclosed customer count or revenue for that tier.
+  - Core subscription plan: all-in-one property management software tier aimed at small property management companies: "AppFolio Property Manager Core is generally suited for small property management companies, serving as the basic, comprehensive, all-in-one system of record centered on accounting functionality, and includes access to a limited set of Stack™ integrations." (Item 1 > Our Platform > Subscription Plans and Services)
+- AI notes: These items were excluded as traps or general language: 'connect communities', 'community associations' as a property type, the 'educated community' of customers, the FUTURE conference and paid customer training/certification (customer education as marketing or service), Americans with Disabilities Act compliance (regulatory), 'diversified property portfolios', and the Stack marketplace (third-party technology integrations, not a small-business seller marketplace). Cross-cultural coverage is borderline: the Inclusive Workplace paragraph is about 100 words, but the filing has a full human capital section and also describes a multilingual product feature, so it was marked sufficient. Entrepreneurship is a lean 2: the Core plan targets small firms, but the growth strategy emphasizes attracting larger customers and no small-customer counts are given. The 22,096 total customers was not attributed to the Core plan.
+
+### 7. NetApp (NTAP): 32.0/100 · shortlist
 10-K filed 2026-06-05 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **32.0**
@@ -1182,7 +1700,7 @@ Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: Cross-cultural coverage is insufficient, so the automated second look (sustainability report on a company-owned domain) is triggered for that theme. Item 7 mentions 'customer education and training' within paid professional services; this was treated as product training bundled with support, not as an education business or external education program, and was not scored. Traps excluded: 'startups' appears only as competitors; 'collaborations' and 'partnerships' with NVIDIA, Cisco and Microsoft are commercial technology alliances; 'foundation' and 'design' are used in a technical or engineering sense; 'diversified customer base' and offices in over 20 countries do not count for cross-cultural. An employee survey covering 'inclusivity' and board oversight of 'workforce inclusion' are noted, but neither describes a specific barrier-removing practice. The environmental disclosure about 'positively affecting the communities' is commitment language only.
 
-### 4. Twilio (TWLO): 32.0/100 · shortlist
+### 7. Twilio (TWLO): 32.0/100 · shortlist
 10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **32.0**
@@ -1197,7 +1715,7 @@ Scores: Creativity 1 (sufficient) · Community 3 (sufficient) · Cross-cultural 
   - Serves small and medium-sized businesses among its customer accounts [over 402,000 Active Customer Accounts]: "We have experienced substantial growth in our business since inception, and as of December 31, 2025, we had over 402,000 Active Customer Accounts representing organizations from small and medium-sized businesses to large enterprises across a broad range of industries." (Item 1 > Overview)
 - AI notes: Item 7 excerpts show a 'Charitable contributions' line (18,940 / 19,907 / 17,346; units and years not shown in the excerpt) within G&A. It was not recorded as separate evidence because it may overlap with Twilio.org (E1), and counting it separately could double count. 'Multiple languages' in the Email description refers to programming client libraries, not human languages, and global messaging is international operations, so neither counts for Cross-cultural. 'Customer community' documentation and the SIGNAL conference are customer education and marketing (a trap) and were not counted for Community. ISV and partner relationships are a sales channel, not an enabling program for founders. 'Identity' refers to user authentication (a trap). The pay-equity analysis (E3) is borderline between levels 1 and 2 for Cross-cultural; the lower level was applied under the tie-break rule.
 
-### 6. CrowdStrike (CRWD): 30.0/100 · shortlist
+### 9. CrowdStrike (CRWD): 30.0/100 · shortlist
 10-K filed 2026-03-05 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
@@ -1213,7 +1731,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Selling security subscriptions to small and medium-sized businesses via trial-to-pay model [more than 88,000 organizations (all customers, not SMB-specific)]: "Historically, we and our channel partners have primarily sold to large organizations, but have increasingly focused on selling to small and medium-sized businesses, particularly through our trial-to-pay model." (Item 1 > Customers)
 - AI notes: The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. The CrowdStrike Foundation appears only in executive biographies; the filing gives no dollars, recipients or company funding amount, so it is held at level 2. CrowdStrike University is a customer and partner training subscription that partly serves product adoption; it is counted as an education offering, but with no reach figures. The CrowdStrike Store/Marketplace partner app ecosystem and Falcon Complete for organizations with limited security resources were not counted as entrepreneurship enabling: they serve security needs, not barriers to starting or growing a business, and Store investment is partly described as planned. Mentorship and community outreach are mentioned only in passing within engagement programs and were not counted separately. Excluded as traps or non-qualifying: international revenue and offices growth, 'foundational value', 'foundation for detection', AI model 'training', 'educating the public' as thought-leadership marketing, 'content' in marketing and data protection, 'identity' protection, 'design' meaning software architecture, and patent/license agreements. Quote E5 runs about 56 words because it is kept as a full sentence to avoid a misleading mid-sentence cut.
 
-### 6. Dell Technologies (DELL): 30.0/100 · shortlist
+### 9. Dell Technologies (DELL): 30.0/100 · shortlist
 10-K filed 2026-03-16 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
@@ -1227,7 +1745,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Dedicated direct sales account teams serving small and medium-sized business customers: "We have a direct sales force of dedicated account teams for small and medium-sized businesses focused on delivering outcomes tailored to customers’ specific needs." (Item 1 > Sales and Marketing > Small and medium-sized business and consumers)
 - AI notes: Interpretation calls on items that were not scored: (1) The Michael & Susan Dell Foundation and Mr. Dell's United Nations Foundation 'Global Advocate for Entrepreneurship' title are personal or family activities of the CEO, not company activities, so they were not credited. (2) Dell Technologies Capital invests in early-stage companies, but the filing frames it as strategic venture investment to complement Dell's own portfolio, not as a program addressing founders' barriers; it was treated as at most own innovation or serving, not enabling. (3) Supplier 'skills building in areas such as forced labor and health and safety' is compliance-oriented supply-chain assurance, so it was not credited as external education; it would not change the Community score of 2 in any case. (4) The facilitated third-party financing for channel partners' working capital and the DFS financing ($11.9 billion originations) are ordinary customer and partner financing, so they count as serving only. (5) Traps excluded: 'foundation' used as a metaphor (several times in Item 1 and Item 7), 'AI model training', 'design' in the engineering sense, patent and software 'licensing', and 'innovative/innovation'. (6) The filing describes headcount reductions and limited external hiring in Fiscal 2026, but it does not say any development or ERG program was discontinued. (7) The targeted Item 7 excerpts contained no qualifying activity; they matched only on 'foundation' used as a metaphor.
 
-### 6. HP Inc. (HPQ): 30.0/100 · shortlist
+### 9. HP Inc. (HPQ): 30.0/100 · shortlist
 10-K filed 2025-12-10 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
@@ -1244,7 +1762,23 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Internal business incubation projects: "Corporate Investments includes certain business incubation projects and investments in digital enablement." (Item 1 > Corporate Investments)
 - AI notes: The Item 7 (targeted) section was empty, so no MD&A paragraphs matched theme terms. 'Accessibility of our products' in the Competition section refers to distribution availability, not disability access, so it was not counted. 'Graphics Solutions' and 'publishing environments' describe commercial and industrial print equipment and were not framed as enabling creative work; they were scored at the lower level under the when-torn rule. The 10-K points to the Sustainable Impact Report for its sustainability strategy, but it also describes specific human capital activities in more than 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Illustrative total: 7 + 12 + 8 + 3 = 30/100.
 
-### 6. Sandisk (SNDK): 30.0/100 · shortlist
+### 9. SailPoint, Inc. (SAIL): 30.0/100 · shortlist
+10-K filed 2026-03-19 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: SailPoint sells identity security software and uses creative work only as a routine input (marketing content), and 'creative solutions' in its values is general language.
+  - Content marketing, blogs, bylines and an annual thought-leadership report produced to support sales: "Our awareness and educational efforts focus on brand campaigns, digital and content marketing, public and analyst relations, social media engagement and influencer relations, and thought leadership such as our annual Horizons of Identity Security Report, market research, blogs, and bylines." (Item 1 > Sales and Marketing > Marketing)
+- **Community: 2/5** (sufficient): Level 2: there are several specific current programs, including employee training, the named Sailanthropitch and SailPoint Cares giving programs, and Code2College, SkillBridge and Path Forward partnerships, but none reports participants or dollars to show substantial reach.
+  - Sail-U early-career program with structured training for new staff: "Our Sail-U program brings early career talent to our organization, where we provide them with the environment to learn and grow via structured training opportunities, engagement with leaders across the organization, and peer networking." (Item 1 > Employees, Culture, and Values)
+  - Values-based leadership training for managers: "Our leaders go through specific training to ensure they are leading their teams with our values at the forefront of the decisions they make." (Item 1 > Employees, Culture, and Values)
+- **Cross-cultural: 2/5** (sufficient): Level 2: the specific current activities, multilingual customer support and pay equity reviews, are limited in reach with no figures.
+  - Customer support delivered in multiple languages through support partners: "Our customer support organization has global capabilities, a deep expertise in our solutions, and, through select support partners, is able to deliver support in multiple languages." (Item 1 > Professional Services and Customer Support > Customer Support)
+  - Pay equity reviews conducted during merit planning: "Our annual performance review process allows team members to engage in meaningful discussions with their managers about their performance and development goals, and we also conduct pay equity reviews during our merit planning process." (Item 1 > Employees, Culture, and Values)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation; the customers are large enterprises and governments, and there is no service or program enabling founders or small businesses.
+- AI notes: The Item 7 (targeted) section was empty, so no MD&A paragraphs matched the theme terms. Excluded as traps or non-qualifying: 'Innovation' core value and 'innovative' language; 'state-of-the-art'-style technology claims; 'identity' meaning identity management; the 'foundation' and 'community' used for the product architecture and developer community; 'collaboration' among partners and system integrators; sales in more than 65 countries and 35% non-US revenue (international sales alone don't count); and customer 'education communications' (marketing). Employer awards and engagement-survey statistics (80% participation, 82% satisfaction) are recognition, not activities. Pay equity reviews (E8) are a borderline fit for Cross-cultural, but the score of 2 holds on E7 alone. Sailanthropitch donates to charities, not businesses, so it is not counted for Entrepreneurship. The E5 and E6 quotes run slightly over 40 words because they are kept as complete sentences.
+
+### 9. Sandisk (SNDK): 30.0/100 · shortlist
 10-K filed 2026-08-17 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **30.0**
@@ -1258,7 +1792,24 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: the filing shows only the company's own R&D and innovation, and no service or program that enables founders or small businesses.
 - AI notes: The Item 7 excerpt only repeats the Item 1 overview paragraph and has no community, education, small-business, artist or accessibility content. Several terms were excluded as traps: Flash Ventures and Unis Venture 'joint ventures' and 'collaboration' (legal structures and licensing), 'chip-level design' and 'memory design' (engineering), 'licensing' of patents and technology, 'diversified product portfolio', 82% international sales and 33-country presence, the regional headcount split (demographics only), annual ethics and compliance training, and health and safety training. BE@Sandisk communities reflect 'identities, interests, and aspirations', so they may be partly interest-based rather than identity-based; level 2 was kept as the conservative reading. On Entrepreneurship, the trap list excludes 'innovation' as qualifying evidence, while the level-1 ladder explicitly covers the company's own innovation; 1 was assigned because the ladder defines it, and no enabling activity exists.
 
-### 10. Fortinet (FTNT): 29.0/100 · shortlist
+### 14. Salesforce (CRM): 29.0/100 · shortlist
+10-K filed 2026-03-02 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 2 (sufficient) → **29.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the only creative work is original Salesforce+ programming used as a routine marketing input, while the core CRM, data and AI software does not create or enable creative work as the rubric defines it.
+  - Original programming on the Salesforce+ streaming service, used as a marketing activity: "live events and original programming on our Salesforce+ streaming service, which includes discussions about the future of technology in the AI-first, work anywhere world and educational content to learn new skills and pursue new career opportunities" (Item 1 > Sales and Marketing)
+- **Community: 2/5** (sufficient): Level 2: specific current activities (employee development, donation matching, paid volunteer time off and customer/partner certification courses) with no reach figures such as participants or total dollars, so substantial reach is not shown.
+  - Employee talent development through the Career Connect internal talent marketplace and the Trailhead learning platform: "Our internal talent marketplace, Career Connect, facilitates internal mobility and structured career development plans, while our global learning platform, Trailhead, provides personalized, role-specific content." (Item 1 > Human Capital Management > Talent and Career Development)
+  - Employee donation matching to eligible nonprofit organizations [up to $10,000 of donations, per employee]: "We also match up to $10,000 of donations, per employee, to eligible nonprofit organizations." (Item 1 > Human Capital Management > Total Rewards)
+- **Cross-cultural: 1/5** (insufficient): Level 1 based on general language only (equality values and equal-opportunity compliance boilerplate); coverage is insufficient under condition 3, because the filing refers readers to its Stakeholder Impact Report for workforce information and describes no specific inclusion activities itself.
+- **Entrepreneurship: 2/5** (sufficient): Level 2: specific current enabling offerings (Starter Suite small-business software and the AppExchange seller marketplace), but no figures on users, sellers or revenue.
+  - Starter Suite, an all-in-one business software product built for small and medium-size businesses: "We offer Starter Suite, an all-in-one, easy-to-use solution for small and medium-size businesses that brings sales, service, marketing and commerce together." (Item 1 > Other Salesforce Offerings > Salesforce Starter)
+  - AppExchange marketplace where independent software vendors and third-party developers market and sell their applications: "These applications can be marketed and sold on the AppExchange, our enterprise cloud marketplace, or sold directly by software vendors." (Item 1 > Our Business and Growth Strategy > Leverage our partner ecosystem)
+- Flags: coverage insufficient (cross_cultural); second look: no report found
+- AI notes: The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. Cross-cultural coverage is insufficient (condition 3: the filing refers to the Stakeholder Impact Report at salesforce.com, which is on the main domain), so this triggers the automated second look. Excluded as traps or non-qualifying: Trailhead described as free resources to help companies learn our systems and reduce attrition, and Salesforce+ educational content listed under marketing (both educating customers as marketing); AI generation of marketing 'content' and product descriptions ('content' trap); 'collaboration' as a product feature; strategic investments in technology startups (the company's own financial and strategic investing, not a program aimed at founder barriers); 'innovation' language; 'foundation' used as a metaphor. The 'community of tens of millions of Trailblazers' is a user and developer community figure, not tied to a specific education or community-investment program, so it was not used as an indicator. The E7 marketplace serves ISVs whose size is not disclosed. E5 certification courses are part of professional services with no revenue disclosed, so they were tagged external_education at level 2 rather than education_business.
+
+### 14. Fortinet (FTNT): 29.0/100 · shortlist
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **29.0**
@@ -1273,7 +1824,7 @@ Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 
   - Sells security products to small, medium and large enterprises [over 100 countries]: "Our end-customers are located in over 100 countries and include small, medium and large enterprises and government organizations across a wide range of industries, including financial services, government, manufacturing, retail, technology, education, healthcare and telecommunications." (Item 1 > Customers)
 - AI notes: The Training Institute's certifications are cumulative ('to date') and also serve customers, partners and employees, not only outsiders. E1, E2, E3 and E4 may overlap as parts of one education ecosystem. They are listed separately because the filing describes them as distinct programs, but the reviewer may want to check for double counting. E3 is quoted up to 'military veterans'; the full sentence goes on to list the United States, the United Kingdom, Canada, Australia and New Zealand. The Item 7 excerpt repeats the Secure Networking product description and adds no theme evidence. Equal-opportunity and 'inclusive culture' language is general only. Dow Jones Sustainability Indices membership is an index-inclusion trap and was not scored.
 
-### 11. Micron Technology (MU): 27.0/100 · shortlist
+### 16. Micron Technology (MU): 27.0/100 · shortlist
 10-K filed 2026-10-09 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 3 (sufficient) · Entrepreneurship 1 (sufficient) → **27.0**
@@ -1287,7 +1838,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests on general language only, because the filing describes the company's own R&D and innovation and shows no service or program enabling founders or small businesses.
 - AI notes: The Human Capital section refers readers to the 2026 Sustainability Report, but the 10-K itself describes specific activities in more than 150 words, so coverage is sufficient and no second look is triggered. Several items are not scored. Micron Research Labs (about $10 billion planned over a decade) is the company's own R&D and is a planned commitment. The Crucial consumer business exit announced in December 2025 is not relevant to any theme. Trap terms are excluded: the 'foundation' of the New York fab is construction, 'foundation models' is AI, 'collaborative relationships with customers' is a commercial relationship, patent licensing is not creative licensing, and 'diversified portfolio' is not inclusion. Required respectful-workplace training is compliance training. The CEO's past co-founding of SanDisk is not a company activity. The filing does not say which communities the ERGs serve, so their cross-cultural scope is inferred from their being employee networks. Community investments are cited only as a qualitative driver of SG&A growth, with no dollar amount.
 
-### 11. Workday, Inc. (WDAY): 27.0/100 · shortlist
+### 16. Workday, Inc. (WDAY): 27.0/100 · shortlist
 10-K filed 2026-03-06 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 3 (sufficient) · Entrepreneurship 1 (sufficient) → **27.0**
@@ -1304,7 +1855,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Workday GO, an HCM and finance product priced for medium-sized organizations: "Workday offers Workday GO, a simple and scalable HCM and finance solution designed and priced for the specific needs of medium-sized organizations." (Item 1 > Our Capabilities > Medium Enterprise)
 - AI notes: Workday Community (customer knowledge-sharing portal), customer training, and Workday Success Plans 'on-demand education' were treated as customer support and marketing, which the trap rule excludes, and were not scored for Community. Higher education is a customer industry, not an education business. Workday Build, Flowise Agent Builder and Workday Data Cloud were announced but are planned for fiscal 2027, and they enable software and agent building rather than creative work. Workday Marketplace lists partner integrations for enterprise customers and was not treated as a small-business seller marketplace. Workday Ventures was classed as own_innovation rather than enabling because the filing frames it as strategic investment for the company's ecosystem and initiatives; this was a borderline call resolved to the lower level. Annual Code of Conduct compliance training (100% completion) was excluded as compliance training. Fertility and adoption benefits were not scored as inclusion practices because the filing does not frame them that way. The Item 7 excerpts contain no additional qualifying activities.
 
-### 13. F5, Inc. (FFIV): 26.0/100 · shortlist
+### 18. F5, Inc. (FFIV): 26.0/100 · shortlist
 10-K filed 2025-11-25 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **26.0**
@@ -1318,7 +1869,7 @@ Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: customers are described as large enterprises, governments and service providers, with no small-business or founder-enabling service, and the references to the company's own innovation are trap language.
 - AI notes: Entrepreneurship: the ladder lets 'own innovation' score 1, but the traps list says 'innovation' does not count, so the lower level (0) was chosen. The CEO's co-founding of Cajou Espoir and other executives' startup histories are personal background, not company activity, and were not scored. The $3.9 million donation figure covers gifts from both 'F5 and our employees', so company dollars alone are not separated. The 'sense of belonging' survey result (80%, up from 73%) is a survey statistic, not an activity, and was not scored. The training services F5 sells are product technical support within its services line, not an education business, and were not scored. Compliance training was excluded under the Community trap. Cross-cultural coverage is marked sufficient because there is a dedicated Diversity and Inclusion section, and together with related human capital and ESG text the relevant discussion exceeds about 150 words and names specific activities. Item 7 excerpt mentions 'education' only as a customer industry and adds no evidence. Expected final score: 0 + 18 + 8 + 0 = 26/100 (code computes).
 
-### 14. Docusign (DOCU): 25.0/100 · shortlist
+### 19. Docusign (DOCU): 25.0/100 · shortlist
 10-K filed 2026-03-18 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **25.0**
@@ -1332,7 +1883,7 @@ Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 
   - Serves small and medium-sized businesses and individual entrepreneurs as customers of its general agreement software: "Docusign serves Fortune 500 enterprises, government institutions, small and medium-sized businesses, individual entrepreneurs, and consumers handling personal agreements." (Item 1 > Our Customers)
 - AI notes: Final score = 0 + 18 + 4 + 3 = 25/100. The volunteering figure '140,000 hours' sits in the same paragraph as E2 but is split by a page break ('To date, our / Docusign, Inc. | 2026 Form 10-K | 11 / employees have volunteered'), so it was not used as a quoted indicator. Environmental nonprofit partnerships (Forest Stewardship Council, Wildlife Conservation Society) are mentioned without specifics and were not recorded separately. The developer ecosystem, Docusign Discover conference and App Center are commercial partner programs, not community education or creator enablement. Customer Success 'training' is customer onboarding and was not counted. International revenue and EU eIDAS offerings are market expansion, not cross-cultural activity. Item 7 excerpts repeat Item 1 content and add no new activities.
 
-### 15. Zebra Technologies (ZBRA): 24.0/100 · shortlist
+### 20. Zebra Technologies (ZBRA): 24.0/100 · shortlist
 10-K filed 2026-02-12 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 3 (sufficient) · Entrepreneurship 0 (sufficient) → **24.0**
@@ -1346,7 +1897,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing fully describes the business and its sales channels but shows no service, program or tool that enables founders or small businesses; 'innovation' and 'innovative culture' are trap terms.
 - AI notes: The targeted Item 7 excerpt was empty, so all evidence comes from Item 1. Community: the external programs (Zebra Gives, partnerships in STEM and education) are named but have no participant or dollar figures, so the score stays at 2. Cross-cultural: the equal employment opportunity policy and 'culture of belonging' language are general and are not scored separately; the ERG membership figure is what supports level 3. Entrepreneurship: VARs, ISVs and channel partners are distribution relationships, not small-business enablement; Elo's point-of-sale and kiosk products are not described as aimed at small businesses. Values language such as 'Make a Positive Impact' is a claim and was not scored.
 
-### 15. Zeta Global Holdings Corp. (ZETA): 24.0/100 · shortlist
+### 20. Zeta Global Holdings Corp. (ZETA): 24.0/100 · shortlist
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **24.0**
@@ -1360,7 +1911,7 @@ Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 
   - In-house development of new data and AI products [over 500 data scientists and engineers]: "With over 500 data scientists and engineers, we continue to believe we are well positioned to quickly develop new products and take full advantage of the shift to digital marketing." (Item 1 > Our Growth Strategies > Continue to innovate and develop new products)
 - AI notes: Item 7 mentions 'training and educating new and existing users on our platform capabilities' as part of a hunter/farmer sales model. This is customer education for sales purposes, a listed Community trap, so it is not scored. The ZMP 'creative' and the 'content creation' experts are marketing content, scored as uses_as_input only. The DISQUS trademark is mentioned without any description of an operating creator or community product, so it is not scored. International offices and employees in India, the EU and the UK do not count for Cross-cultural.
 
-### 17. Dynatrace (DT): 23.0/100
+### 22. Dynatrace (DT): 23.0/100 · shortlist
 10-K filed 2026-05-20 (fiscal 2026) · source: 10-K + sustainability report · report: https://assets.dynatrace.com/global/company/esg/dynatrace-2025-sustainability-report.pdf
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1377,7 +1928,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - In-house research and development of the company's own software platform [100%]: "We utilize an agile development process with 100% test automation to deliver major software releases throughout the year and hundreds of minor releases, fixes and updates." (Item 1 > Research and Development)
 - AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Dynatrace University (online self-service education for customers and partners), Dynatrace Community and customer events were not scored for Community: the filing frames them in Sales and Marketing as nurturing the customer base, which falls under the 'educating customers as marketing' trap. The 'thousands of individuals trained or certified' figure describes GSI partners' own technical readiness investment, not a Dynatrace program, so it was not scored. 'Services the communities that we impact' and 'strengthening belonging' are general language. Operating in about 40 countries and serving customers in over 110 countries does not count for Cross-cultural. The filing refers to a December 2025 Sustainability Report at www.dynatrace.com/company/sustainability/ (main domain), so the Cross-cultural insufficient coverage triggers the second look.
 
-### 17. Hewlett Packard Enterprise (HPE): 23.0/100
+### 22. Hewlett Packard Enterprise (HPE): 23.0/100 · shortlist
 10-K filed 2025-12-18 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1392,7 +1943,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests on general language only, namely small-and-medium-sized business customers, customer financing and the company's own innovation, with no specific enabling service for founders or small businesses.
 - AI notes: The Networking segment sells 'education and training programs' to customers. This is a minor product-support service and was not scored as an education business. The 'Instant On' business appears only in the segment-realignment paragraph, with no description of what it does, so it was not scored for Entrepreneurship. 'Multi-language environments' and the 61% of revenue from outside the U.S. are international operations and do not count for Cross-cultural. The 'Unconditional Inclusion' label was scored only on the practices described. The STEM Discovery Program gives no participant or volunteer numbers, so Community stays at 2. The Item 7 excerpt ('foundation') is a trap usage and adds no evidence.
 
-### 17. Manhattan Associates (MANH): 23.0/100
+### 22. Manhattan Associates (MANH): 23.0/100 · shortlist
 10-K filed 2026-02-04 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1408,7 +1959,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - In-house product development and R&D on the company's own software: "We focus our development efforts on new product innovation and on adding new functionality to existing solutions; integrating our various solution offerings; and enhancing the operability of our solutions across our platforms." (Item 1 > Product Development)
 - AI notes: The filing points to an ESG website (manh.com/esg) for more on ESG programs, but the 10-K's own human capital section exceeds 150 words and names specific activities, so Community and Cross-cultural are sufficient and no second look is triggered. Paid customer training, change management and certification services were treated as product implementation support, not external education or an education business, so they are not scored. The Item 7 excerpt only repeats professional services training language. Trap terms were excluded: 'state-of-the-art' fulfillment, 'design' in an engineering sense, Agent Foundry (customers building AI agents is not creative work), 'foundation' meaning the technology platform, and 'Manhattan community' meaning the user-conference audience. SCALE's popularity in emerging economies and the international offices and resellers do not count as cross-cultural or entrepreneurship activity. Smaller independent companies appear only as competitors. A 'dedicated learning path' on equal employment opportunity was treated as compliance-type training and not scored. Final score = 0 + 12 + 8 + 3 = 23/100.
 
-### 17. Marvell Technology (MRVL): 23.0/100
+### 22. Marvell Technology (MRVL): 23.0/100 · shortlist
 10-K filed 2026-03-11 (fiscal 2026) · source: 10-K + sustainability report · report: https://www.marvell.com/content/dam/marvell/en/company/assets/marvell-sustainability-report-fy25.pdf
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1424,7 +1975,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1, resting on general language only: the filing shows the company's own innovation and product applications for 'small medium enterprise' networking equipment, but no service or program enabling founders or small businesses.
 - AI notes: The Item 7 targeted excerpt was empty, so only Item 1 was scored. Cross-cultural coverage is insufficient, which triggers the automated second look using the company's Sustainability Report. The sentence about attracting 'a diverse workforce through our university recruiting program' is a hiring channel carrying a diversity label, not a described inclusion practice, so it was not scored as a cross-cultural activity. 'Gaming consoles' and 'Printers' appear only as end-customer applications for the company's chips and do not count as enabling creative work. The automotive ethernet business was divested on August 14, 2025, and the Celestial AI and XConn acquisitions closed after fiscal year end; none of these affects the theme scores.
 
-### 17. Nutanix (NTNX): 23.0/100
+### 22. Nutanix (NTNX): 23.0/100 · shortlist
 10-K filed 2026-09-18 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **23.0**
@@ -1437,7 +1988,7 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the business description is enough to judge, and it shows no service, program or tool that enables founders or small businesses; references to innovation are trap language and do not count.
 - AI notes: Excluded as traps or non-qualifying: 'Building on this foundation' (Item 7) is not a foundation program; 'learning certifications, community programs' and the user community are customer-facing marketing ('educating customers' trap); the Elevate Partner Program learning paths and market development funds are reseller and partner sales enablement, not education or small-business enablement; 'design specifications' and disaster-recovery 'design' are engineering design; education and media appear only as customer industries (serving, not creating or enabling). Language learning programs (within E2) were considered for Cross-cultural, but the filing does not describe them as an inclusion or barrier-removal practice, so the lower level was chosen. Offices and operations across regions do not count as cross-cultural activity. Item 7 excerpts repeat Item 1 text and add no new qualifying activity.
 
-### 17. Okta, Inc. (OKTA): 23.0/100
+### 22. Okta, Inc. (OKTA): 23.0/100 · shortlist
 10-K filed 2026-03-05 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1453,7 +2004,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Sells identity software to customers that include small- and medium-sized businesses [more than 20,000 customers]: "These customers consist of leading global organizations ranging from the largest enterprises to small- and medium-sized businesses, universities, nonprofits and government agencies." (Item 1 > Overview)
 - AI notes: The Okta for Good mission statement ('build a safely connected world where everyone can belong and thrive') is aspirational language and was not scored on its own. The filing refers to the Okta for Good web page for more information, but it also describes specific activities itself, so Community coverage is sufficient and no second look is triggered. Item 7 lists charitable contributions only as a component of G&A expense, with no amount, so it adds no figure. The benefits in E5 'may vary by country or region', so they may not apply to all employees. Excluded items: the Okta Community online forum, the Oktane conference and customer product training (customer support and marketing, not external education); free and self-service Auth0 developer plans and the Auth0 Marketplace (not described as aimed at founders or small businesses); 'innovate' language (trap); Okta for AI Agents and Cross App Access (early access, not relevant to any theme). International revenue (20%) and offices outside the US do not count for Cross-cultural.
 
-### 17. Palo Alto Networks (PANW): 23.0/100
+### 22. Palo Alto Networks (PANW): 23.0/100 · shortlist
 10-K filed 2026-09-10 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1468,7 +2019,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Security products sized for small businesses among other customers: "Our hardware and software are designed for different performance requirements throughout an organization—with the ability to secure everything from small businesses and branch offices, to large-scale data centers and service providers." (Item 1 > Products and Services > Next-Generation Firewalls)
 - AI notes: The 'inclusion' company value and 'bias mitigation' in hiring are labels or general practice with no specific program, so they were not scored above the network groups. E2 is mainly recruitment-oriented. E5 is product-related technical training, a possible overlap with the 'educating customers' trap, but it includes free courses, so it was kept at level 2 only. No external activity discloses figures, which keeps Community at 2. Trap terms excluded: 'threat intelligence sharing community', 'huntr research community', 'investment community', 'foundation of the AI ecosystem', 'joint'/'startups' as competitors, 'identity' security products, 'diversified product lines', and end-customers in over 180 countries (international sales only). The filing references an annual Corporate Responsibility Report but also describes specific activities itself, so coverage is sufficient and no second look is triggered.
 
-### 17. Everpure (P): 23.0/100
+### 22. Impinj, Inc. (PI): 23.0/100 · shortlist
+10-K filed 2026-02-09 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers RFID chips, readers, tag production systems and software with no creative activity; 'design' refers to chip and tag engineering, which is a trap.
+- **Community: 2/5** (sufficient): Level 2: the only specific activity is employee development (leadership, technical training, tuition reimbursement), so the score is capped at 2; 'advance community initiatives' is general language with no specifics.
+  - Employee development offerings, including new-leader training, advanced skills programs for experienced leaders, technical training and tuition reimbursement: "We facilitate personal and professional development by offering a variety of tools and opportunities to support employee growth, ranging from training programs for new leaders, advanced skills programs for more experienced leaders, technical training and tuition reimbursement." (Item 1 > Employees and Culture > Training and Development)
+- **Cross-cultural: 2/5** (sufficient): Level 2: specific current internal practices (anti-bias and DEI training for all employees, annual pay equity review) with no reach figures, beyond equal-opportunity boilerplate.
+  - Required training for all employees on diversity, equity, inclusion and avoiding bias, as part of a DEI program: "All employees complete training on the importance of diversity, equity, inclusion and avoiding bias, and on recognizing and preventing harassment and discrimination." (Item 1 > Employees and Culture > Commitment to Diversity, Equity and Inclusion (DEI))
+  - Annual pay equity review of compensation for all roles: "We proactively review compensation for all roles at least annually." (Item 1 > Employees and Culture > Pay Equity)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: this rests on general language only, describing the company's own innovation and R&D plus partner OEMs, SIs and VARs, with no specific service enabling founders or small businesses.
+- AI notes: The Item 7 targeted excerpt was empty, so scoring relies on Item 1 alone. These terms were excluded as traps: 'Our community delivered backward-compatible updates' and the RAIN Alliance (both an industry standards community), 'foundation of technology leadership', chip and tag 'design', patent 'licensing', and 'Radio-Frequency Identity'. Readers certified in 40+ countries and operations in Asia and Europe are international operations only and do not count for Cross-cultural. Cross-cultural is scored on the described practices, not the DEI label. The DEI and anti-bias training is bundled with harassment-prevention training, which is close to compliance training. That keeps the score at 2, and it could arguably be 1. Detailed principles are referred to the company website, but the 10-K gives enough specific human capital content for sufficient coverage.
+
+### 22. Everpure (P): 23.0/100 · shortlist
 10-K filed 2026-03-25 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1483,7 +2048,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Sells storage technology to smaller organizations with limited IT budgets as well as large enterprises [over 14,500 customers]: "Both large enterprises and smaller organizations with limited IT expertise or budgets benefit from using our technology." (Item 1 > Our Customers)
 - AI notes: Creativity is listed among the core values. This is a value statement only and is not scored. The 'Sustainable Impact' section and the 'foundation' wording in the Item 7 excerpt are environmental or metaphorical and do not qualify for any theme. The Responsible Business Alliance training tools apply to supplier compliance and are not counted. Sales-engineer 'technical training' is pre-sales customer support, which falls under the marketing trap, and is not counted. FlashArray//RC20, sized for smaller deployments, is a product for serving customers and is not an enabling program. The filing refers to a fiscal 2025 Impact report for more detail, but the Human Capital section is well over 150 words and describes specific activities. Coverage is therefore sufficient for all themes and no second look is triggered.
 
-### 17. Qualys (QLYS): 23.0/100
+### 22. Qualys (QLYS): 23.0/100 · shortlist
 10-K filed 2026-02-20 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1499,7 +2064,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Selling to small and medium-sized businesses through an inside sales force: "We sell our solutions to enterprises and government entities primarily through our field sales force and to small and medium-sized businesses through our inside sales force." (Item 1 > Our Customers)
 - AI notes: E1 (disability training and job placements) is counted once each for Community and Cross-cultural, because it independently meets both themes' criteria. Training programs offered to customers as part of subscriptions were not counted: this is customer education tied to the product. Required harassment and EEO training was not counted because it is compliance training. Free services offered to 'organizations of all sizes' and third-party developer APIs are not aimed at small-business barriers, so they were not scored as enabling. The Item 7 excerpt only repeats the Item 1 customer description. Environmental clean-up activities were noted but not scored, as no figures were given and they do not change the level.
 
-### 17. RingCentral, Inc. (RNG): 23.0/100
+### 22. RingCentral, Inc. (RNG): 23.0/100 · shortlist
 10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1513,7 +2078,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Sells communications subscriptions to small and medium-sized businesses as well as enterprises: "We sell our solutions to enterprise customers, and small and medium-sized businesses." (Item 1 > Our Customers)
 - AI notes: The 'inclusion and diversity' learning courses (E1) are counted only for Community. They were not used for Cross-cultural because a training topic alone does not clearly remove participation barriers; when torn, the lower reading applies. 'We are committed to being inclusive' and 'diverse, inclusive, and safe work environment' are commitment language only. 'Approximately 74% of our personnel were located outside of the United States' and international availability are geographic facts, not inclusion activities. Contributions to the Telecommunications Relay Service Fund are listed as a regulatory obligation, not a voluntary program, so they were not scored. 'Sports sponsorships' are marketing, not arts. 'Foster community' in RingCentral Events describes a product feature, not community investment. Onboarding and customer training are support and marketing, not external education. Education customers are an industry served, not an education business. The 'Partnerships' tenet and the license agreements are commercial or legal arrangements. The targeted Item 7 excerpt adds no qualifying activity. Final score: 0 + 12 + 8 + 3 = 23/100.
 
-### 17. Varonis Systems, Inc. (VRNS): 23.0/100
+### 22. Varonis Systems, Inc. (VRNS): 23.0/100 · shortlist
 10-K filed 2026-02-04 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
@@ -1528,7 +2093,22 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Platform sold to organizations including small and mid-sized businesses: "Our platform is used by organizations ranging from small and mid-sized businesses to large multinational enterprises with hundreds of thousands of employees and petabytes of data." (Item 1 > Customers)
 - AI notes: Marketing 'customer education', webinars and training programs are treated as educating customers as marketing (trap), not external education. Code of conduct trainings are compliance training and are not counted. 'Foundation' refers to platform architecture. The Item 7 excerpts mention education only as a customer industry and as a sales and marketing expense line. Self-hosted and on-premises products have an announced end-of-life of December 31, 2026, which is not relevant to the themes. Community programs are described as employee-led volunteering with no reach figures, so they stay at level 2.
 
-### 28. Dropbox (DBX): 22.0/100
+### 34. Accenture (ACN): 22.0/100
+10-K filed 2026-10-16 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **22.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the only creative-adjacent activity is marketing and design bundled into commercial consulting (Song); the filing gives no revenue or description of original creative work, so I chose the lower level.
+  - Song unit sells marketing, design and digital-product services to clients as part of customer-growth consulting: "Song – helps clients reinvent how they grow by focusing on the end-to-end customer agenda—bringing together customer growth strategy, marketing, sales, service, commerce, design, digital products, AI and data to create customer-led growth." (Item 1 > Reinvention Services > Reinvention Partners)
+- **Community: 2/5** (sufficient): Level 2: large employee development ($1.0 billion, 46 million training hours) plus a named education business (LearnVantage) with no reach figures, so it does not reach level 3.
+  - Company-wide learning and professional development for employees through a digital learning platform [$1.0 billion; 46 million training hours]: "During fiscal 2026, we invested approximately $1.0 billion in learning and professional development." (Item 1 > People)
+  - Accenture LearnVantage, an education business within the network of businesses: "The network currently includes businesses focused on areas such as operational technology security (through our acquisition of Dragos), AI and decision intelligence (through our acquisition of Faculty), capital projects (through the launch of Accenture Construct), data centers (through our majority acquisition of DLB), education (through Accenture LearnVantage)" (Item 1 > Reinvention Services > Network of Businesses)
+- **Cross-cultural: 0/5** (sufficient): Level 0: the People section is well over 150 words and describes no employee networks, accessibility, multilingual access for underserved customers or community-connecting programs; global offices and foreign language fluency fall under the international-operations trap.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: Accenture Ventures is framed as the company's own innovation strategy, and mid-market solutions are not a small-business enabling program, so no specific enabling service is shown.
+  - Accenture Ventures invests in and partners with growth-stage enterprise technology companies: "Accenture Ventures partners with and invests in growth-stage companies that create innovative enterprise technologies." (Item 1 > Innovation and Intellectual Property)
+- AI notes: The Item 7 excerpt has no qualifying activity; 'technology and data foundations' is not a foundation in the philanthropic sense. Song is borderline for Creativity: it is a named unit offering marketing and design, but the filing gives no revenue and no description of creative output, so it was scored at the lower level. The Communications, Media & Technology group serves publishers, studios and gaming clients, but this is consulting for creative-industry clients rather than creating or enabling creative work, so it was not counted. LearnVantage's share of the network of businesses (about 6% of revenue combined) is not disclosed. The Talent unit's client 'learning' services are part of consulting and were not counted separately. Employee learning partnerships with educational institutions are covered under E2. The planned $1.0 billion AI safety investment is not relevant to any theme. The filing has no diversity, inclusion, accessibility or community-investment discussion.
+
+### 34. Dropbox (DBX): 22.0/100
 10-K filed 2026-02-20 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **22.0**
@@ -1543,7 +2123,19 @@ Scores: Creativity 1 (sufficient) · Community 2 (sufficient) · Cross-cultural 
   - Freelancers and small businesses among the customer base, with no specific enabling program: "Our customers include individuals, families, teams, and organizations of all sizes, from freelancers and small businesses to Fortune 100 companies." (Item 1 > Our Customers)
 - AI notes: The Item 7 (targeted) section was empty, so no MD&A paragraphs matched the theme terms. Several mentions were treated as non-qualifying. 'Community support' is a user help forum. 'Accessibility across several devices' means device compatibility, not disability access. AWS datacenters in several countries count as international operations only. 'Simple and intuitive design' is product design. 'Create content' refers to general productivity documents (Paper, doc scanner), so it falls under the 'content' trap. The DBX Developer Platform (just over 1,000,000 registered developers) is a third-party app ecosystem; it is not framed as helping founders start or grow businesses, so it was not scored for Entrepreneurship. Family formation, adoption and surrogacy assistance, and paid parental leave benefits are disclosed but not described as inclusion practices for any group, so they were not scored for Cross-cultural. A human reviewer may want to reconsider this borderline call. The AI Academy launched in 2025 is employee development, covered under the same theme as E3.
 
-### 29. CommVault Systems (CVLT): 19.0/100
+### 36. Netskope, Inc. (NTSK): 20.0/100
+10-K filed 2026-03-31 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 1 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **20.0**
+
+- **Creativity: 1/5** (sufficient): Level 1: the business is cybersecurity and networking software, and creative work appears only as marketing content (a podcast, videos and books), which is a routine business input.
+  - Produces marketing content (a podcast, demo videos and educational books) to support selling its security platform: "Our approach to content includes producing our own Security Visionaries Podcast, creating use case demo videos, and writing educational books such as The Cyber Savvy Board Room." (Item 1 > Sales and Marketing > Marketing)
+- **Community: 1/5** (sufficient): Level 1: rests on general language only; the human capital and culture sections give a value statement ('Strengthen our Communities') but describe no specific employee development, external education or community investment activity.
+- **Cross-cultural: 1/5** (sufficient): Level 1: rests on general language only; the culture section's 'Cultivate Belonging' value statement describes no specific inclusion practice, accessibility feature or community program.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests on general language only; the filing shows only the company's own innovation and enterprise/mid-market customers, with no service or program that enables founders or small businesses.
+- AI notes: Final score = 7 + 6 + 4 + 3 = 20/100. Coverage is marked sufficient for Community and Cross-cultural because the filing has an Employees and Human Capital Resources section plus a Culture section, together well over 150 words. That discussion is mostly values language (GRIT, seven cultural traits), and it does not point to a sustainability report. Excluded as traps or non-qualifying: (1) Netskope Threat Labs 'contributes to the global security community', and its researchers are 'presenters and volunteers at top security conferences', which is professional/industry community activity, not external education or community investment. (2) NewEdge Localization Zones serve 'local content, in the appropriate local language', which is a network/geo-routing feature for resilience and data sovereignty, not an inclusion or multilingual-access program. It was considered and judged below level 2 when torn. (3) International expansion (EMEA, APJ, Latin America) is international operations only. (4) Item 7 'educate potential customers' is marketing. (5) 'Mid-Market' customers (fewer than 2,000 employees) are not small-business enabling. (6) Threat Labs leaders' 'experience founding... companies' and 'Innovate Boldly' are own innovation or entrepreneurial culture. (7) 'Design' in R&D refers to engineering.
+
+### 37. CommVault Systems (CVLT): 19.0/100
 10-K filed 2026-05-11 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -1558,7 +2150,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - Flags: coverage insufficient (cross_cultural); second look: no report found
 - AI notes: The Item 7 excerpt mentions 'customer education' within other services revenue. It is the same activity as E2, so it is not counted again, and no education revenue figure is broken out. E1's training figure combines employees, partners and customers without a split, so it is tagged conservatively as employee development. Cross-cultural coverage is insufficient (condition 2), which triggers the automated sustainability-report second look. Global 24/7 support locations and international employee share (64%) count as international operations only and do not count. Indicative total before second look: 0 + 12 + 4 + 3 = 19/100.
 
-### 29. JFrog Ltd. (FROG): 19.0/100
+### 37. JFrog Ltd. (FROG): 19.0/100
 10-K filed 2026-02-13 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -1571,7 +2163,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: this rests on general language only, namely the company's own innovation and R&D plus customers 'of all sizes', with no specific service or program that enables founders or small businesses.
 - AI notes: The Item 7 excerpt repeats the Item 1 language about an 'unwavering commitment' to developer communities through free trials and open source. That free access is described as generating demand for paid offerings, so it was treated as go-to-market and marketing, not community investment. The 'community-focused' marketing approach, the community/free versions (Artifactory, Conan) and the 'hands-on training events' at the swampUP user conference were also treated as customer marketing and education, so they are excluded under the Community traps. The Hugging Face 'partnership' and channel or technology partnerships are commercial arrangements. Mandatory non-discrimination and anti-harassment training is compliance training and does not count. The workforce, R&D and channel expansion in Israel, India and emerging markets are international operations only, so they do not count for Cross-cultural.
 
-### 29. GitLab Inc. (GTLB): 19.0/100
+### 37. GitLab Inc. (GTLB): 19.0/100
 10-K filed 2026-03-17 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -1583,7 +2175,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: the filing shows only small and medium-sized teams as customers, a free tier for individual developers, and the company's own innovation, with no specific program aimed at helping founders or small businesses start or grow.
 - AI notes: The open-source contributor community (more than 5,200 contributors, more than 6,500 merge requests in calendar 2025) is described as a way to speed up GitLab's own R&D, not as external education or community investment, so it was not scored under Community. The encouragement of employee volunteering gives no figures and was treated as general language. Item 7 reports a $4.7 million decrease in charitable donation of common stock compared with fiscal 2025, which suggests a reduced level of giving, but the program is still current ('We currently donate shares on a quarterly basis'). The carbon removal credit purchase ($0.23 million) is an environmental activity outside these themes. Family-forming, caregiving and mental health benefits are described as standard benefits, not inclusion practices, so they were not credited under Cross-cultural.
 
-### 29. ServiceNow (NOW): 19.0/100
+### 37. ServiceNow (NOW): 19.0/100
 10-K filed 2026-01-29 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -1596,7 +2188,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: this rests only on the company's own innovation (R&D, Now Next AI co-building) and enterprise customers, with no enabling service for founders or small businesses.
 - AI notes: Creativity traps excluded: 'Creator and Other' and App Engine are low-code enterprise app development, not artistic creation. 'Design' in professional services means implementation and architecture. 'Tell meaningful talent stories' is HR data language. Marketing brand campaigns are not scored. Cross-cultural: Now Assist for FSM mentions 'multilingual knowledge creation', and a customer case cites a portal in 'more than 10 languages'. These are incidental product features or a customer's own deployment rather than an access program, so I left them unscored at the lower level. 'Accessible to users with varying technical expertise' and WSD 'accessible work environments' are not inclusion activities. RiseUp's focus on people 'without traditional technology backgrounds' does not explicitly target underrepresented cultural or demographic groups, so it is counted for Community only. Community exclusions: customer support online training, the Knowledge user conference and the World Forums are customer education and marketing. The EVS and total rewards are employee programs, but they add nothing above E1 and E2. ServiceNow University launched in 2025 and is current. Coverage: the human capital section is over 150 words, so Community and Cross-cultural are marked sufficient and no second look is triggered. The targeted Item 7 excerpt repeats the business overview and adds no qualifying activity.
 
-### 29. Rubrik Inc. Class A Common Stock (RBRK): 19.0/100
+### 37. PTC Inc. (PTC): 19.0/100
+10-K filed 2025-11-21 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 1 (sufficient) → **19.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description is fully discussed and shows only engineering CAD and PLM software for manufacturers, which falls under the 'design meaning engineering' trap, so no creative activity qualifies.
+- **Community: 2/5** (sufficient): Level 2: the only specific current activity is employee development and coaching programs, so the employee-development cap of 2 applies.
+  - Employee development and coaching programs plus self-led learning paths: "We have development programs and coaching programs, as well as numerous other self-led learning paths." (Item 1 > People and Culture > Talent Development & Employee Engagement)
+- **Cross-cultural: 1/5** (insufficient): Level 1 on general language only ('inclusive culture', 'inclusive and thoughtful practices'), and coverage is insufficient under condition 3 because the filing refers to its 2025 Impact Report for employee initiatives without describing any specific inclusion activity (the inclusion-specific discussion is also under about 150 words, condition 2).
+- **Entrepreneurship: 1/5** (sufficient): Level 1: small- and medium-size businesses are served as customers through resellers, with no specific enabling service or program described.
+  - Sells to small- and medium-size businesses through a third-party reseller channel: "In general, our sales force focuses on large accounts, while our reseller channel provides a cost-effective means of covering the small- and medium-size business markets." (Item 1 > Our Markets and How We Address Them)
+- Flags: coverage insufficient (cross_cultural); second look: no report found
+- AI notes: Creo and Onshape CAD tools for 'designers' are engineering and product design for manufacturers, so they were treated as the rubric's 'design meaning engineering' trap and not scored as Creativity. 'Collaboration' in the product descriptions refers to software features, not community partnerships, so it was not scored. The commute subsidy and the 'accessibility to public transportation' office criterion are environmental measures, not cross-cultural access. The targeted Item 7 excerpt was empty. The filing points to a 2025 Impact Report (expected December 2025) for employee initiatives, so Cross-cultural should get the automated second look.
+
+### 37. Rubrik Inc. Class A Common Stock (RBRK): 19.0/100
 10-K filed 2026-03-19 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -1609,7 +2215,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: this rests only on serving smaller customers through an inside-sales model and on the company's own innovation, with no specific service that enables founders or small businesses.
 - AI notes: Item 7 reports an $11.8 million increase in charitable donations in fiscal 2026. This supports treating the Pledge 1% commitment (E1) as current, but it is the same activity, so it is not counted again. Item 1 also states a plan to 'commit our time' to community initiatives; this is planned and not scored. Rubrik University is customer product training sold as part of support. It is scored as limited external education, not as marketing, but it should be checked against the 'educating customers' trap. The total score is 0 + 12 + 4 + 3 = 19/100.
 
-### 29. Zscaler, Inc. (ZS): 19.0/100
+### 37. SentinelOne, Inc. (S): 19.0/100
+10-K filed 2026-03-19 (fiscal 2026) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description is fully disclosed and shows only cybersecurity software, with no creative work created or enabled.
+- **Community: 2/5** (sufficient): Level 2: only employee development is shown, so Community is capped at 2.
+  - Employee training and development programs, including on-demand technical and soft-skills webinars [over 1,000 on-demand webinars]: "We have increased our investment in training and development and have rolled out several key programs as well as enabling our employees to access over 1,000 on-demand webinars in technical and soft skills areas." (Item 1 > Human Capital Resources > Retention and Talent Development)
+- **Cross-cultural: 1/5** (sufficient): Level 1: the filing gives general diversity and equal-opportunity language plus one borderline benefit, gender-neutral parental leave, and no employee networks, accessibility features or community programs.
+  - Gender-neutral parental leave benefit for employees [16 weeks]: "In addition to base salary, these programs, which vary by country and region, include bi-annual bonuses, equity awards, an employee stock purchase plan, a 401(k) plan, including a 401(k) match in the U.S., healthcare and insurance benefits, health savings and flexible spending accounts, unlimited vacation, wellness reimbursement, 16 weeks of gender-neutral parental leave and more." (Item 1 > Human Capital Resources > Retention and Talent Development)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: small and medium-sized businesses are customers, but there is no specific service or program that addresses barriers to starting or growing a business.
+  - Sells its cybersecurity platform to small and medium-sized businesses as well as large enterprises: "We have customers, ranging from large enterprises, such as Fortune 500 companies, to small and medium-sized businesses around the world." (Item 1 > Growth Strategy > Drive new customer acquisition)
+- AI notes: The Item 7 (targeted) section provided was empty, so no MD&A excerpts were available. The Human Capital section is well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Traps excluded: 'Storylines' and 'contextual narratives' are technical terms for behavioral data, not storytelling; 'design' refers to engineering; 'educating the public about cyber threats' is marketing content; 'Singularity Marketplace' is a third-party integration ecosystem, not a seller marketplace for small businesses; channel partners (MSPs, MSSPs) are distribution partnerships; 'state-of-the-art', 'innovative' and 'Ingenuity' are excluded; 'Community' and 'inclusive culture' appear only as core-value statements. International offices and the Amsterdam headquarters choice ('language versatility, diversity') and revenue outside the U.S. (39%) do not count for Cross-cultural. Gender-neutral parental leave (E2) is a borderline inclusive benefit; it was scored at level 1 under the 'when torn, pick the lower level' rule. E2's quote is a single full sentence of about 55 words, kept whole so it is a complete thought. Workplace awards are recognition, not activities.
+
+### 37. Zscaler, Inc. (ZS): 19.0/100
 10-K filed 2026-09-03 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -1623,7 +2243,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: this rests on general language only, namely the company's own innovation and R&D and an 'Innovation' value, and the filing has no specific service enabling founders or small businesses.
 - AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. The channel partner 'education, training and programs' supports resellers and integrators in selling Zscaler products. That is commercial sales enablement, not external education or small-business enablement, so it was not scored. The Zenith Live conference and Public Sector Summit are marketing events and were not scored. 'Foundation' (security architecture), 'content' (web content), 'training' (AI/ML model training) and 'identity' (identity-based access) are trap terms and were excluded. Customers are mostly large enterprises ('enterprises of all sizes'), with no small-business program. The Human Capital section describes no community investment, volunteering, employee networks or inclusion programs. Coverage is still marked sufficient because the section is well over 150 words and does not point to another document for these areas.
 
-### 35. MaxLinear, Inc. (MXL): 17.0/100
+### 45. MaxLinear, Inc. (MXL): 17.0/100
 10-K filed 2026-01-29 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **17.0**
@@ -1635,7 +2255,7 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation and technology leadership, with no service enabling founders or small businesses.
 - AI notes: The targeted Item 7 excerpt was empty, so scoring rests on Item 1 alone. The Human Capital section is well over 150 words, so Community and Cross-cultural are sufficient and no second look is triggered. The Cross-cultural score of 2 is borderline: the local-language hotline is an ethics/compliance mechanism, but it is a concrete multilingual access practice comparable to multilingual support. Statements about increasing female hires and interns and encouraging university engineering programs to emphasize opportunities for women are aspirational ('we aim', 'we remain committed') and were not scored. Mentions of 16 countries of operation, sales in Asia, and trademark registrations abroad are international operations only and do not count. The Corporate Social Responsibility section refers to the website for details and covers environmental and supply-chain matters, not the four themes.
 
-### 36. Science Applications Intl Corp (SAIC): 16.0/100
+### 46. Science Applications Intl Corp (SAIC): 16.0/100
 10-K filed 2026-03-16 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 0 (sufficient) → **16.0**
@@ -1650,7 +2270,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: small business appears only as a competitive and market risk (set-aside contracts), and the filing describes no service that enables founders or small businesses.
 - AI notes: The SAIC Charitable Foundation's grants (more than $600,000 since 2020) are emergency relief to the company's own employees, not community investment, so they were not counted toward Community. Under Entrepreneurship, the Innovation Factory and the SilverEdge acquisition are the company's own innovation; the 'innovation' trap and the tie-break rule kept the score at 0 rather than 1. The 'Border of the Future' immigration functions support government operations and do not serve immigrant customers, so they were excluded from Cross-cultural. The Item 7 excerpts mention small business only as a risk to the company's addressable market. The reorganization effective in fiscal 2027 does not affect any theme.
 
-### 36. Snowflake Inc. (SNOW): 16.0/100
+### 46. Snowflake Inc. (SNOW): 16.0/100
 10-K filed 2026-03-20 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 2 (sufficient) → **16.0**
@@ -1663,7 +2283,21 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
   - Named startup program (Powered by Snowflake Start Up program) and venture investments (Snowflake Ventures) in partner companies building on the platform: "Additionally, with Snowflake Ventures, we continue to invest in key partners that are innovating with the AI Data Cloud, and many partners in our Powered by Snowflake Start Up program are building next-generation data-intensive applications." (Item 1 > Partnerships)
 - AI notes: The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Human Capital Resources section runs well over 150 words and is not pointed elsewhere, so Community and Cross-cultural coverage is sufficient and no second look is triggered. The startup program and Snowflake Ventures are framed as ecosystem and consumption drivers ('invest in key partners'), so E2 is scored conservatively at 2. The Snowflake Marketplace and the Native Application program let companies in general monetize data and apps, but are not aimed at small businesses or founders, so they were not scored for Entrepreneurship. 'Snowflake Partner Network', 'partnerships' and 'collaboration' mean commercial alliances or product features, not community partnerships (trap). 'Data science model training' and 'train AI models' are AI training (trap). The 2020 ESPP is a compensation benefit, not development.
 
-### 38. Navan, Inc. (NAVN): 9.0/100
+### 48. Qualcomm (QCOM): 15.0/100
+10-K filed 2025-11-05 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **15.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers chips, connectivity and patent licensing in detail but shows no creating or enabling of creative work; 'design' here means engineering, 'licensing' means patents, and GPU and multimedia components are engineering inputs.
+- **Community: 2/5** (sufficient): Level 2: the filing describes specific current community investment (Foundation-funded Giving Committee grants and a charitable match) plus employee development, but gives no participants or dollar figures, so it does not reach level 3.
+  - Training, rotational assignments and talent development programs for employees: "We deliver numerous training opportunities, provide rotational assignment opportunities, focus on continuous learning and development and have implemented what we believe are industry-leading methodologies to manage performance, provide feedback and develop talent." (Item 1 > Human Capital > Talent Development)
+  - Employee-led Giving Committees award grants to local organizations, funded mainly by the Qualcomm Foundation: "In our offices around the world, our employee-led Giving Committees select local organizations to support, often in the form of grants that are primarily funded by the Qualcomm Foundation (which was established to support charitable giving and volunteerism)." (Item 1 > Human Capital > Building Connections - With Each Other and our Communities)
+- **Cross-cultural: 0/5** (sufficient): Level 0: the Human Capital section is substantial but describes no employee networks, accessibility, multilingual or underserved-customer programs, and operating in 38 countries or selling entry-level devices into emerging regions does not count.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: the only related activity is Qualcomm Ventures' strategic investing in early-stage companies to advance Qualcomm's own technologies, with no named program aimed at founders' or small businesses' barriers.
+  - Qualcomm Ventures makes strategic investments in early-stage companies to expand opportunities for Qualcomm's own technologies: "QSI makes strategic investments primarily through our Qualcomm Ventures arm that are focused on expanding or opening new opportunities for our technologies as well as supporting the design and introduction of new products and services (or enhancing existing products or services)." (Item 1 > Operating Segments > QSI Segment)
+- AI notes: Item 7 excerpt about 'educating participants in the wireless industry and governments' concerns advocacy for Qualcomm's licensing programs and is a trap, so it was not scored. Patent licensing (QTL), 'design' meaning chip and RF design, 'state-of-the-art'-type language, and AI model references are traps and were not scored. Community is held at 2 because the grant and match programs have no disclosed dollars or reach; the volunteer-collaboration sentence was not quoted because it is split by a page break. Tuition assistance, adoption and surrogacy assistance, and family care appear only in a general benefits list without any inclusion framing, so they were not scored for Cross-cultural. The filing points to a Corporate Responsibility Report on qualcomm.com for sustainability, sourcing, citizenship and responsible AI. It does not point there specifically for inclusion, and it has a full Human Capital section, so Cross-cultural coverage was marked sufficient under the strict definition. Qualcomm Ventures' early-stage investments were treated as own-innovation strategic investing rather than enabling founders, because the filing frames them as serving Qualcomm's technologies.
+
+### 49. Navan, Inc. (NAVN): 9.0/100
 10-K filed 2026-04-02 (fiscal 2026) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 1 (insufficient) · Cross-cultural 0 (insufficient) · Entrepreneurship 1 (sufficient) → **9.0**
@@ -1676,7 +2310,30 @@ Scores: Creativity 0 (sufficient) · Community 1 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: Both Community and Cross-cultural are marked insufficient, so this company should get the automated second look using a sustainability report from navan.com. The ~3,700-employee Human Capital section covers only headcount, union status and talent retention. The following terms were excluded as traps: 'foundation' in Item 7 means platform foundation; 'train' refers to AI virtual-agent training; customer-success 'education' and 'in-product customer education' are adoption marketing; 'design' refers to UI and product design; 'content' means supplier fare and seat content and content marketing; 'diverse' describes the customer base and revenue geography; acquisitions in Germany, India and Italy and multi-currency services are international operations only. Smaller unmanaged customers in the product-led growth strategy are the same activity as E1 and are counted once.
 
-### 39. Datadog (DDOG): 3.0/100
+### 49. Palantir Technologies (PLTR): 9.0/100
+10-K filed 2026-02-17 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **9.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers data-integration, AI and software-delivery platforms only, with no creating or enabling of creative work ('design' refers to engineering and platform design).
+- **Community: 1/5** (sufficient): Level 1: rests only on general language, since the roughly 180-word human capital section names 'training' as an objective and mentions employee feedback surveys but describes no specific training, education or community program.
+- **Cross-cultural: 0/5** (sufficient): Level 0: the human capital section discusses the workforce at enough length to judge, but it describes no inclusion practice, accessibility feature, multilingual service or community-connecting program, and having 28% of employees outside the U.S. is international operations, which does not count.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own innovation; there is no named service or program aimed at founders or small businesses.
+- AI notes: No evidence records qualified, so all scores rest on general language or the absence of activity. Traps excluded: 'intelligence community' and 'investment community' (Community); 'design' meaning engineering or platform design (Creativity); 'joint ventures' and 'innovation' (Entrepreneurship); 'smaller technology companies' mentioned only as competitors or channel partners (Entrepreneurship); users who 'collaborate' inside the platforms, which is a product feature rather than community collaboration. AIP bootcamps are a customer-acquisition tool that delivers workflows on customer data, so they fall under the 'educating customers as marketing' trap and were not counted for Community. The Developer Tier gives developers limited low-cost access to Foundry and AIP; it was considered for Entrepreneurship but is presented as a sales strategy to widen access and is not aimed at founders or small businesses, so the lower level was chosen. The Privacy and Civil Liberties Engineering team (publishing research, consulting with policymakers) and the AI governance 'bias mitigation' tooling are product and ethics features, not external education or inclusion programs. The human capital section is about 180 words, above the roughly 150-word threshold, and does not refer readers to a sustainability report, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. Computed total: 0 + 6 + 0 + 3 = 9/100.
+
+### 49. Skyworks Solutions (SWKS): 9.0/100
+10-K filed 2025-11-07 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 1 (sufficient) → **9.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers analog and mixed-signal semiconductors with no creative activity, since 'design' means chip design and 'entertainment and gaming' is only an end-market for components.
+- **Community: 1/5** (sufficient): Level 1: the Employees section (over 150 words) mentions training and mentorship only as a general belief statement, with no named program, figures or external education or community investment.
+  - Employee skill development through project assignments, formal training, mentorship and recognition, described only in general terms: "In addition, we believe that developing our employees’ skill sets and decision-making abilities—through challenging project assignments, formal training, mentorship, and recognition—is key not only to our employees’ job satisfaction and our retention efforts, but also to maintaining a strong leadership pipeline." (Item 1 > Employees)
+- **Cross-cultural: 0/5** (sufficient): Level 0: the workforce section is long enough to judge but describes no inclusion practices, accessibility or customer-access activity, and global operations and geographic workforce splits do not count.
+- **Entrepreneurship: 1/5** (sufficient): Level 1: the filing shows only the company's own innovation and R&D, resting on general language, with large OEM customers and no service enabling founders or small businesses.
+- AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Entrepreneurship was set at 1 rather than 0 because the level-1 ladder explicitly covers the company's own innovation ($785.5 million R&D in fiscal 2025), and no enabling activity exists. Workforce figures are geographic and functional only (for example, 54% in Mexico), not demographic or inclusion activity. Indicative final score: 0 + 6 + 0 + 3 = 9/100.
+
+### 52. Datadog (DDOG): 3.0/100
 10-K filed 2026-02-18 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultural 0 (insufficient) · Entrepreneurship 1 (sufficient) → **3.0**
@@ -1689,7 +2346,7 @@ Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: Community and Cross-cultural are marked insufficient because the Human Capital Management section is about 90 words and gives only headcount, geographic split and labor-law compliance. That triggers the automated second look, which should rescore these themes using the 10-K plus the company's sustainability report. The phrases 'foster community', 'development and operations community/communities' and 'community initiatives' appear only in sales and marketing context, so they were not counted. 'Collaboration' refers to product features for customer teams, not to Community-theme collaboration. 'Diversify their infrastructure' and international expansion are traps for Cross-cultural. The Marketplace was recorded for transparency only and does not meet the 'enabling' criterion as described.
 
-### 40. Astera Labs, Inc. (ALAB): 0.0/100
+### 53. Astera Labs, Inc. (ALAB): 0.0/100
 10-K filed 2026-02-20 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultural 0 (insufficient) · Entrepreneurship 0 (sufficient) → **0.0**
@@ -1701,17 +2358,39 @@ Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: The Item 7 excerpt contains only non-GAAP boilerplate; its 'analyst community' wording is a trap and does not count. Interop Lab collaboration with customers and suppliers is commercial interoperability testing, not community or education ('collaboration' in a business sense is a trap). Ecosystem 'collaboration' with design partners and EDA tool providers is likewise commercial. Community and Cross-cultural coverage is insufficient because the Human Capital section is about 140 words, so this company triggers the automated second look for a sustainability report on a company-owned domain. Entrepreneurship: the ladder lists own innovation at level 1 but the traps list says 'innovation' does not count; resolved to the lower level (0) under the tie-break rule. Final score on the 10-K alone: 0/100.
 
-## Materials (3 companies)
+## Materials (8 companies)
 
-**Shortlist (2):** CF Industries (CF, 24.0), Coeur Mining (CDE, 20.0)
+**Shortlist (4):** Southern Copper Corporation (SCCO, 53.0), CF Industries (CF, 24.0), Corteva (CTVA, 23.0), Coeur Mining (CDE, 20.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
-| 1 | CF Industries (CF) | **24.0** | 0 | 2 | 3 | 0 | yes | rescored with report |
-| 2 | Coeur Mining (CDE) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
-| 3 | NewMarket Corporation (NEU) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 1 | Southern Copper Corporation (SCCO) | **53.0** | 3 | 3 | 2 | 2 | yes |  |
+| 2 | CF Industries (CF) | **24.0** | 0 | 2 | 3 | 0 | yes | rescored with report |
+| 3 | Corteva (CTVA) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 4 | Coeur Mining (CDE) | **20.0** | 0 | 2 | 2 | 0 | yes |  |
+| 5 | NewMarket Corporation (NEU) | **19.0** | 0 | 2 | 1 | 1 |  |  |
+| 6 | Newmont (NEM) | **16.0** | 0 | 2 | 1* | 0 |  | insufficient coverage, 1 note(s) |
+| 7 | Nucor (NUE) | **13.0** | 0 | 1 | 1 | 1 |  |  |
+| 8 | Reliance, Inc. (RS) | **9.0** | 0 | 1 | 0* | 1 |  | insufficient coverage, 1 note(s) |
 
-### 1. CF Industries (CF): 24.0/100 · shortlist
+### 1. Southern Copper Corporation (SCCO): 53.0/100 · shortlist
+10-K filed 2026-02-27 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 3 (sufficient) · Community 3 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 2 (sufficient) → **53.0**
+
+- **Creativity: 3/5** (sufficient): Level 3: a named arts-education program (Youth Orchestras and Choirs) with participant and performance figures, plus a smaller arts collaboration, in a business that is otherwise copper mining.
+  - Company-promoted Youth Orchestras and Choirs program giving music education to students in local communities [2,042 students, 16 communities, 105 artistic performances]: "We consolidated the Youth Orchestras and Choirs program promoted by SCC, benefiting 2,042 students across 16 communities in Mexico and Peru and held 105 artistic performances in 2025." (Item 7 > Community Outreach)
+  - Photographic exhibitions, workshops and conferences run with local arts institutions as part of an international photography festival: "In collaboration with the San Luis Potosí Arts Center and the Potosino Institute of Arts, we presented photographic exhibitions, workshops and appreciation conferences as part of the “Fotovision” International Festival and the 433rd anniversary of the founding of the city of San Luis Potosí in Mexico." (Item 7 > Community Outreach)
+- **Community: 3/5** (sufficient): Level 3: measured external education and community investment (1,219 people trained, 2,042 music students, $25.2 million in social infrastructure, internet for 5,400 residents), but not shown to be a very large commitment central to strategy.
+  - Company-promoted Youth Orchestras and Choirs program giving music education to students in local communities [2,042 students, 16 communities, 105 artistic performances]: "We consolidated the Youth Orchestras and Choirs program promoted by SCC, benefiting 2,042 students across 16 communities in Mexico and Peru and held 105 artistic performances in 2025." (Item 7 > Community Outreach)
+  - Employment, vocational and productive-skills training for people in mining communities, including training local small and medium supplier businesses [1,219 people, 829 people in employment, 390 people in regional vocational and productive skills, 368 local businesses]: "In relation to economic development, we trained 1,219 people in mining communities in 2025, including 829 people in employment, 390 people in regional vocational and productive skills and 368 local businesses to support the development of small and medium mining suppliers." (Item 7 > Community Outreach)
+- **Cross-cultural: 2/5** (sufficient): Level 2: one specific current internal inclusion program (Women Who Inspire) with no reach figures; the accessibility and inclusion initiatives in the 2026 plan are planned only.
+  - Women Who Inspire program showcasing female employees and growth opportunities for women: "In 2025, as part of a company-wide effort across Grupo Mexico, we launched the “Women Who Inspire” program to showcase the success stories of our female talent and highlight opportunities for growth and development within the Company." (Item 1 > Human Capital Resources > 2026 Strategic Workplace Plan)
+- **Entrepreneurship: 2/5** (sufficient): Level 2: specific current training for 368 local small and medium supplier businesses, which is not a named program or a business line.
+  - Employment, vocational and productive-skills training for people in mining communities, including training local small and medium supplier businesses [1,219 people, 829 people in employment, 390 people in regional vocational and productive skills, 368 local businesses]: "In relation to economic development, we trained 1,219 people in mining communities in 2025, including 829 people in employment, 390 people in regional vocational and productive skills and 368 local businesses to support the development of small and medium mining suppliers." (Item 7 > Community Outreach)
+- AI notes: E3's breakdown is ambiguous: 829 + 390 = 1,219 people, and the 368 local businesses look like an extra count rather than part of the 1,219. The figures are recorded as written. E3 supports Community (training for community members) and Entrepreneurship (supplier business development) because it independently meets each theme's criteria. E5 (Works for Taxes projects) may overlap with the $25.2 million social infrastructure figure in E4; it is listed separately because it is a distinct mechanism, but it could be double counting. The digital inclusion program (E6) serves rural community residents and was scored only under Community, since the filing does not show it targeting cultural, linguistic or other underrepresented groups. Training of 1,400 leaders under the zero-tolerance harassment policy was treated as policy enforcement, not a cross-cultural activity. The Great Place to Work awards, including the Best Workplaces for Women ranking, are recognitions, not activities. The 2026 Strategic Workplace Plan (E11), including workplace accessibility modifications, is planned and does not count. The Tía María social strategy's 'productive development' initiatives and the Michiquillay 'business opportunities' are general or planned, so they were not scored for Entrepreneurship. Social programs at Los Chancas are described only vaguely and the project is stalled by illegal miners. Traps excluded: 'state of the art mining', 'foundation works' (construction), 'investment community'. Townsite schools are employee housing amenities and were not scored separately.
+
+### 2. CF Industries (CF): 24.0/100 · shortlist
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K + sustainability report · report: https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/sustainability-reports/2024_cf-industries_corporate-stewardship-report.pdf
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 3 (sufficient) · Entrepreneurship 0 (sufficient) → **24.0**
@@ -1727,7 +2406,21 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: customers are cooperatives, retailers, independent distributors, traders, wholesalers and industrial users, none described as small businesses, and there is no enabling service or program.
 - AI notes: The Item 7 (targeted) section was empty, meaning no MD&A paragraphs matched the theme terms. The Human Capital section is about 340 words, but most of it covers headcount by country, tenure, collective bargaining and safety metrics (RIR 0.26, DART 0.13). Only about 60 words address training, development or inclusion, and only in general terms, so Community and Cross-cultural are marked insufficient under condition 2. The Board's 'Environmental Sustainability and Community Committee' is only a committee name and does not count as an activity. Employee location percentages (80% US, 14% Canada, 6% UK) are geographic and are not demographics of underrepresented groups. 'Joint venture' references (Blue Point, PLNL, CHS strategic venture) are entrepreneurship traps and were excluded. A 'license to use certain intellectual property' contributed to Blue Point is not creative licensing and was excluded. Both Community and Cross-cultural have insufficient coverage, so this company qualifies for the automated second look using the company's sustainability report from www.cfindustries.com.
 
-### 2. Coeur Mining (CDE): 20.0/100 · shortlist
+### 3. Corteva (CTVA): 23.0/100 · shortlist
+10-K filed 2026-02-12 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers seed, traits and crop protection products in full and shows no creative activity; licensing of traits and germplasm is a patent/IP trap, not creative licensing.
+- **Community: 2/5** (sufficient): Level 2: BRG-supported professional development of employees plus training for contract seed growers, with no external program, participant numbers or dollars to reach level 3.
+  - Employee resource groups that support professional development of the company's own staff: "Critical to creating this environment are company-sponsored employee business resource groups (“BRGs”) that support and promote certain mutual objectives of both the employee and the company, including community engagement and the professional development of employees." (Item 1 > Human Capital Management > Inclusion)
+  - Training and planning tools provided to third-party contract seed growers in the supply chain: "The company’s third-party growers are an important part of its supply chain. Corteva provides them with rigorous training, planning tools and access to a system that tests and advances products matched to specific geographic needs." (Item 1 > Seed > Key Raw Materials)
+- **Cross-cultural: 2/5** (sufficient): Level 2: nine named employee resource groups covering disability, ethnic, Indigenous, Asian, Latin, LGBTQ+, veteran and women employees, but no membership or reach figures for level 3.
+  - Nine company-sponsored global employee business resource groups for disability, African heritage, Indigenous, Asian, Latin, LGBTQ+, veteran and women employees, each led by a senior leader and open to all employees [nine global BRGs]: "The company maintains nine global BRGs, each led by a member of the company’s senior leadership: Disability Awareness Network; Global African Heritage Alliance; Global Indigenous Peoples Alliance; Growing Asian Impact Network; Latin Network; Pride; Professional Learning Acceleration Network; Veteran’s Network; and Women’s Inclusion Network." (Item 1 > Human Capital Management > Inclusion)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: the company sells seed, crop protection and digital agronomy tools to farmers as customers, but describes no specific program aimed at barriers to starting or growing a business, so this rests on serving business customers only.
+- AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms; scoring rests on Item 1 only. E3 (training for contract seed growers) is a supply-chain quality practice; it is recorded as limited external training but would not support a score above 2 even if accepted, and Community stays at 2 from E2 alone. Required safety trainings are compliance training and are not counted. The geographic split of employees by region and sales in about 110 countries are international operations and are not counted for Cross-cultural. Recruitment monitoring and engagement surveys on inclusion are described generally, with no figures. The announced separation of Seed and Crop Protection (October 1, 2025) is planned and does not affect theme scores. Implied total under the rubric formula: 0 + 12 + 8 + 3 = 23/100 (the code calculates the final value).
+
+### 4. Coeur Mining (CDE): 20.0/100 · shortlist
 10-K filed 2026-02-18 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
@@ -1742,7 +2435,7 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing fully describes the business and shows no service or program enabling founders or small businesses.
 - AI notes: The Item 7 targeted excerpt was empty, so all evidence is from Item 1. The Recruitment section also mentions partnership programs providing internships, scholarships and apprenticeships. These are treated as the same activity as E2 to avoid double counting, and the scholarships have no disclosed figures. Coeur Heroes (veterans) is tagged cross-cultural because the filing presents it under Inclusion; whether veterans count as an underrepresented group is borderline. The Lovelock medical clinic serves employees and dependents only, so it is not counted as community investment. Indigenous consultation is a permitting requirement and is not scored. The New Gold acquisition is planned (expected to close in first half of 2026) and does not affect scores. The Biodiversity Management Standard bullet appears twice in the Responsibility list.
 
-### 3. NewMarket Corporation (NEU): 19.0/100
+### 5. NewMarket Corporation (NEU): 19.0/100
 10-K filed 2026-02-12 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **19.0**
@@ -1753,6 +2446,47 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Cross-cultural: 1/5** (sufficient): Level 1: rests only on general language and a disclosure, namely an 'inclusive and respectful culture' values statement and a regional headcount breakdown, with no specific inclusion or access activity.
 - **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about the company's own R&D and product innovation and on 'independent' compounders and blenders as customers, with no enabling service for founders or small businesses.
 - AI notes: The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. E1 is framed in the filing mainly as a recruiting channel, so it was scored conservatively at level 2. The 'Actively Caring' program and the new incident-investigation process are employee safety initiatives, not development or education, and were not counted. Community outreach metrics are reported only to the American Chemistry Council website, which is not part of the 10-K, and no specific community activities are given, so nothing was counted from that reference. Regional headcounts (about 2,050 employees across the US, EMEA/India, Asia Pacific and Latin America) and international operations do not count under the Cross-cultural theme. Afton's statement that it is 'committed to providing the most advanced products' is a commitment claim and adds no score.
+
+### 6. Newmont (NEM): 16.0/100
+10-K filed 2026-02-19 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 1 (insufficient) · Entrepreneurship 0 (sufficient) → **16.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers gold and base-metal mining and shows no creative activity; jewelry and decorative uses are only end markets for the metal, not company activities.
+- **Community: 2/5** (sufficient): Level 2: specific current community investment (a $1 million distribution from the named Global Community Support fund and community development costs at Ahafo South) plus employee training, with no substantial reach indicators to reach level 3.
+  - Distributions made from the company's named global community support fund [$1 in distributions from the Newmont Global Community Support fund (dollars in millions)]: "(6)Excludes Newcrest transaction and integration costs of $464, restructuring and severance costs of $24, settlement costs of $7, and distributions from the Newmont Global Community Support fund of $1, included in Other expense, net." (Item 7 > Results of Consolidated Operations > footnote (6))
+  - Community development spending at the Ahafo South mine in Ghana: "Costs applicable to sales per gold ounce increased 36% primarily due to higher government royalties, higher community development costs, and lower gold ounces sold, partially offset by a buildup of stockpile inventory compared to a draw down in the prior year." (Item 7 > Results of Consolidated Operations > Ahafo South, Ghana)
+- **Cross-cultural: 1/5** (insufficient): Level 1: only general inclusion statements, equal-opportunity boilerplate and board demographics; marked insufficient under condition 3 because the filing points to the sustainability report and website (EEO-1) for workforce demographics and inclusion data and describes no specific activities itself.
+  - Disclosure of the board's ethnic and gender diversity [12 directors, more than 55% of independent directors with ethnic or gender diversity, 36% female representation among independent directors]: "As of December 31, 2025, the Board of Directors was comprised of 12 directors (11 independent non-executive directors and one executive director) with more than 55% of the independent directors with a form of ethnic or gender diversity to the Board of Directors, with 36% female representation among independent directors." (Item 1 > Governance Practices > Board of Directors Oversight)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the business description shows no service, program or customer base that serves or enables founders or small businesses.
+- Flags: coverage insufficient (cross_cultural); second look: no report found
+- AI notes: Cross-cultural coverage is insufficient (condition 3), so this company triggers the automated second look using the sustainability report at www.newmont.com/sustainability. The Item 7 text is excerpts only. Conga project construction has been largely suspended since November 2011, and its 'continued engagement with the local communities' is engagement, not scored investment. A Yanacocha discharge event in Q2 2025 affected community canals and was contained by June 30, 2025; it was not scored. 'Collaborative approach' and community-commitment language in Item 1 is general and not scored above 1 on its own. Artisanal mining and joint ventures appear only as risks and were not scored for Entrepreneurship.
+
+### 7. Nucor (NUE): 13.0/100
+10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 1 (sufficient) · Entrepreneurship 1 (sufficient) → **13.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers steel, steel products and raw materials in detail and shows no creative activity. 'State-of-the-art', engineering 'design' and the AUW mention of 'creativity' are traps or workplace language, not creative work.
+- **Community: 1/5** (sufficient): Level 1: the substantial Human Capital section offers only general language and the aspirational AUW framework, with no specific training, external education or community investment described; 'educating decision makers' is customer marketing, a trap.
+  - Assemble, Unlock and Win (AUW) talent framework setting recruiting, retention, development and diversity goals for employees: "In 2024, we introduced “Assemble, Unlock and Win” ("AUW") in an effort to ensure continued success in recruiting, retaining, and developing our team, and to more explicitly connect these activities to our mission and culture." (Item 1 > Human Capital Resources > Recruiting, Retention and Development)
+- **Cross-cultural: 1/5** (sufficient): Level 1: the filing gives only general statements about inclusion, belonging and attracting a diverse talent pool, with no specific practice such as employee networks or accessibility programs; international operations and the Japanese joint venture do not count.
+  - Assemble, Unlock and Win (AUW) talent framework setting recruiting, retention, development and diversity goals for employees: "In 2024, we introduced “Assemble, Unlock and Win” ("AUW") in an effort to ensure continued success in recruiting, retaining, and developing our team, and to more explicitly connect these activities to our mission and culture." (Item 1 > Human Capital Resources > Recruiting, Retention and Development)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: rests only on general language about an 'entrepreneurial, performance driven culture' and empowering 'entrepreneurial teammates', which is the company's own culture; selling buildings through independent builder networks and investing in Electra are not specific enabling programs.
+- AI notes: The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. Community and Cross-cultural are marked sufficient because the Human Capital section is well over 150 words and describes the company's culture and the AUW framework itself; it points to www.nucor.com/esg only for policies. No automated second look is triggered. The AUW framework (E1) is recorded for context but held at level 1 because its elements are stated goals, not described practices. Safety programs (President's Safety Award, President's Safety Cup, OSHA VPP sites) and the triennial teammate survey (93% participation) are workplace safety and engagement measures, not education or inclusion activities, so they were not scored. Implied final score: 0 + 6 + 4 + 3 = 13/100.
+
+### 8. Reliance, Inc. (RS): 9.0/100
+10-K filed 2026-02-26 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 0 (insufficient) · Entrepreneurship 1 (sufficient) → **9.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers metals processing and distribution only, with no creative activity ('state-of-the-art' is a trap term).
+- **Community: 1/5** (sufficient): Level 1: rests on general language only ('invest in talent management initiatives', valuing 'the communities in which we operate') plus safety and defensive-driving training, which is treated as safety/compliance training rather than qualifying development or external programs.
+- **Cross-cultural: 0/5** (insufficient): Level 0 with insufficient coverage under condition 3: the human capital section has no inclusion, accessibility or demographic content, and the filing points to the website 'ESG' section for its programs without describing any specific activities itself (international sales and 'diversity of products' do not count).
+- **Entrepreneurship: 1/5** (sufficient): Level 1: the company serves small machine shops and fabricators as ordinary customers but describes no specific program or tool aimed at barriers to starting or growing a business.
+  - Sells metal in small quantities with quick delivery mainly to small machine shops and fabricators (ordinary customer relationship): "Although we have many large original equipment manufacturer customers, most of our sales are to small machine shops and fabricators, in small quantities with frequent and often just-in-time deliveries, ensuring as-needed logistics and helping them manage their working capital and credit needs more efficiently." (Item 1 > Customers)
+- Flags: coverage insufficient (cross_cultural); second look: no report found
+- AI notes: The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Training mentioned in the filing (safety assessments and training; mandatory defensive driving training for commercial drivers; video-based driver coaching) is safety/compliance-oriented and was not scored as employee development. When torn, the lower level was chosen. 'Collaboration' in Item 1 refers to internal coordination among the company's own businesses, not external partnerships. Cross-cultural is marked insufficient because the filing refers readers to the website ESG section, which should trigger the automated second look using a company-hosted sustainability report.
 
 ## Real Estate (1 companies)
 
@@ -1775,13 +2509,15 @@ Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the only related term is 'entrepreneurial spirit', which is an excluded trap, and business tenants are not described as small businesses. There is no enabling service or program.
 - AI notes: The Item 7 (targeted) excerpt contains only the 'entrepreneurial spirit' strategy bullet, which repeats Item 1 and is a trap term, so it adds no scorable evidence. Sunset Pier 94 Studios is a JV studio campus still under development (construction financing partly drawn, no stated opening), so it is recorded as planned and not scored. If it becomes operational in a later year, it could support Creativity as 'enables'. The benefits list includes adoption/surrogacy and parental leave. These are standard benefits not framed as an inclusion practice, so they were not scored for Cross-cultural (the lower level was chosen when torn). The 'community' and 'stakeholder collaboration' language in the environmental sustainability section relates to carbon goals, not education or community investment, so it was not counted. The filing refers to the Sustainability Report for more human-capital detail but still describes specific activities itself, so coverage is sufficient and no second look is triggered. Implied final score: 0 + 12 + 4 + 0 = 16/100.
 
-## Utilities (1 companies)
+## Utilities (3 companies)
 
-**Shortlist (1):** Constellation Energy (CEG, 25.0)
+**Shortlist (2):** Constellation Energy (CEG, 25.0), UGI Corp (UGI, 23.0)
 
 | Rank | Company | Final | Creativity | Community | Cross-cultural | Entrepreneurship | Shortlist | Flags |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Constellation Energy (CEG) | **25.0** | 0 | 3 | 1 | 1 | yes |  |
+| 2 | UGI Corp (UGI) | **23.0** | 0 | 2 | 2 | 1 | yes |  |
+| 3 | National Fuel Gas (NFG) | **20.0** | 0 | 2 | 2 | 0 |  | rescored with report, 2 note(s) |
 
 ### 1. Constellation Energy (CEG): 25.0/100 · shortlist
 10-K filed 2026-02-24 (fiscal 2025) · source: 10-K
@@ -1797,4 +2533,34 @@ Scores: Creativity 0 (sufficient) · Community 3 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 1/5** (sufficient): Level 1: the corporate venture arm serves the company's own innovation strategy, and no specific program enabling founders or small businesses is described.
   - Corporate venture investing in energy technology companies: "Constellation Technology Ventures (CTV) is our venture investing business, focused on championing innovation and scaling breakthrough technologies." (Item 1 > Customer-Facing Business > Energy Solutions)
 - AI notes: The $5.6 million figure is employee donations, not company dollars; the company's role is to sponsor volunteerism and matching gifts, and its own contribution is not disclosed. Volunteer hours support Community level 3. E3 is mainly recruiting, so it adds little. CTV invests in 'established and emerging companies' but is framed around innovation, so it was scored 1 under the 'pick the lower level' rule. Calpine was acquired in January 2026 and is excluded from the FY2025 figures. The Item 7 excerpt (OBBBA 'energy communities bonus adder') is a tax-credit term and does not count for Community.
+
+### 2. UGI Corp (UGI): 23.0/100 · shortlist
+10-K filed 2025-11-21 (fiscal 2025) · source: 10-K
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 1 (sufficient) → **23.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers energy distribution, midstream and propane in detail and shows no creative activity.
+- **Community: 2/5** (sufficient): Level 2: the only scored activities are employee development (tuition reimbursement, online learning, leadership training), so Community is capped at 2.
+  - Tuition reimbursement, online learning access and leadership development for employees: "We invest in our employees’ future through several ways, including tuition reimbursement programs, access to LinkedIn Learning’s online courses, and leadership development." (Item 1 > Human Capital Management > Talent Retention and Development > Building a Strong Talent Pipeline)
+  - Enterprise-wide leadership training sessions for employees during the fiscal year: "Throughout Fiscal 2025, the Company conducted enterprise-wide leadership training sessions focused on breakthrough thinking to strengthen the Company’s culture and drive superior performance across its domestic and international business units." (Item 1 > Human Capital Management > Talent Retention and Development > Building a Strong Talent Pipeline)
+- **Cross-cultural: 2/5** (sufficient): Level 2: named employee resource groups are a specific current internal practice, but no membership or reach figures are disclosed.
+  - Voluntary employee resource groups (BOLD, VET, WIN) open to all employees, with cultural awareness and veteran-perspective programming: "Our employee resource groups are voluntary employee-led, self-directed groups that play a vital role in helping UGI cultivate an inclusive environment and promote employee engagement." (Item 1 > Human Capital Management > UGI’s Employee Resource Groups)
+- **Entrepreneurship: 1/5** (sufficient): Level 1: the filing only mentions small-business customers, such as restaurants buying small-bulk LPG, and describes no specific enabling service or program.
+- AI notes: The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Human Capital section is well over 150 words, so Community and Cross-cultural coverage is sufficient. No second look is triggered, even though the filing points to Sustainability Reports that are not incorporated by reference. Trap terms excluded: 'safety is our foundation', 'standing in the community' (board criteria), 'joint venture' (Pine Run Midstream; RNG project offerings), and 'diversified businesses'/'diverse mix' of supply. Emergency training of first responders and communities is mentioned only generally ('where appropriate', varies by business unit) with no program detail. It was not scored, and it would not change the Community level. PA Gas Utility changed its weather normalization rider to address concerns about its impact on low-income customers as part of a regulatory rate settlement. This was treated as a regulatory outcome, not a customer-access program. Board and management diversity statements are general language only. ESG 'Social Responsibility' pillar language is a commitment statement and scores at most 1. Portfolio changes in the year: Italy LPG business divested, Austria divestiture agreement announced, Hawaii propane business sold.
+
+### 3. National Fuel Gas (NFG): 20.0/100
+10-K filed 2025-11-21 (fiscal 2025) · source: 10-K + sustainability report · report: https://www.nationalfuel.com/wp-content/uploads/documents/NFG-CRR24-Full-FINAL.pdf
+
+Scores: Creativity 0 (sufficient) · Community 2 (sufficient) · Cross-cultural 2 (sufficient) · Entrepreneurship 0 (sufficient) → **20.0**
+10-K-only scores before the report: {'creativity': 0, 'community': 2, 'cross_cultural': 1, 'entrepreneurship': 0} → 16.0
+
+- **Creativity: 0/5** (sufficient): Level 0: the business description covers natural gas production, gathering, pipeline, storage and utility distribution and shows no creative activity.
+- **Community: 2/5** (sufficient): Level 2: the only activity is employee development (tuition aid, licensing sponsorship, training and mentorship), and no external education or community investment is disclosed, so the score is capped at 2.
+  - Professional development resources for employees, including tuition aid, professional licensing sponsorship, corporate and technical training, and voluntary mentorship: "The Company provides its employees with professional development and training resources to enhance their careers within the Company, which, depending on employee type, may include the following: (i) tuition aid program; (ii) sponsorship for professional licensing; (iii) corporate and technical training programs;" (Item 1 > Human Capital > Employee Benefits, Compensation and Development)
+- **Cross-cultural: 2/5** (sufficient) (rescored with the sustainability report): Level 2: the sustainability report lists specific current internal practices, namely Employee Resource Groups (E1) and an LGBTQ+ benefits guide (E2). It gives no membership numbers, participant figures or other reach indicators, so the score cannot reach level 3. The workforce demographics (E3) and the 10-K's non-discrimination policy and inclusion training language (E4) are disclosure and boilerplate only, so they support level 1 at most and do not raise the score.
+  - Employee Resource Groups offered to employees as part of the benefits and community involvement offering: "Employee Resource Groups" (Social > Employee Attraction, Retention, and Development > Community Involvement Encouraged, sustainability report)
+  - LGBTQ+ benefits guide provided as part of employee healthcare benefits: "LGBTQ+ benefits guide" (Social > Employee Attraction, Retention, and Development > Healthcare Benefits, sustainability report)
+- **Entrepreneurship: 0/5** (sufficient): Level 0: the filing mentions only small-volume residential and commercial utility customers and no enabling service for founders or small businesses; being torn between 0 and 1, the lower level is chosen.
+- Flags: SL-E1: report quote may be a sentence fragment; SL-E2: report quote may be a sentence fragment
+- AI notes: The Item 7 targeted excerpt was empty, so no MD&A paragraphs on the theme terms were provided. Required safety trainings and anti-harassment training are compliance training and were not counted as Community activities. The Human Capital section points to the Company's Corporate Responsibility Report on www.nationalfuel.com for more information. Because Cross-cultural coverage is insufficient, the company qualifies for the automated second look using that report. The 756,000 utility customers figure is a customer count for gas service and does not support any theme.
 

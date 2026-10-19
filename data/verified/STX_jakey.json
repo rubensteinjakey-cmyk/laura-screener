@@ -1,0 +1,325 @@
+{
+  "ticker": "STX",
+  "company_name": "Seagate Technology",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-08-04",
+  "fiscal_year": 2026,
+  "accession_number": "0001137789-26-000159",
+  "scored_at": "2026-10-19T13:15:26",
+  "themes": {
+    "creativity": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "enables"
+      ],
+      "reason": "Level 1: general-purpose storage is sold to creative professionals among several customer groups, with no creator-specific product line or figures, so the lower level was chosen when torn.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 2: employee development plus specific current STEM education and community partnerships, with no participant or dollar figures to support level 3.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4"
+      ],
+      "valid_evidence_ids": [
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 3: the sustainability report gives membership figures for the ERG program (over 4,000 members across ten ERGs and 32 local chapters). The program is open to all employees and was expanded with new chapters in FY2025. The 10-K confirms the ERGs still operate in FY2026 (32 chapters across eight countries). Heritage-month recognition, the Pride/Veterans podcasts and the multilingual policy are smaller supporting internal practices. Level 4 is not met: there is no customer-access or connecting-communities activity that forms a major part of the business.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "score_from_10k": 2,
+      "rescored_from_report": true
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E6"
+      ],
+      "kinds": [
+        "own_innovation"
+      ],
+      "reason": "Level 1: only the company's own innovation and R&D, with no small-business or founder enabling service.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 1,
+    "community": 2,
+    "cross_cultural": 3,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 34.0,
+  "original_10k_scores": {
+    "creativity": 1,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "original_10k_final": 30.0,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Branded retail storage products sold to casual users, gamers and creative professionals",
+      "quote": "Our retail channel primarily serves casual users, gamers and creative professionals through branded storage products sold directly to retailers or through our distribution partners.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Customers",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 1: general-purpose storage marketed partly to creative professionals, with no creator-specific product or figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Mentoring, coaching, technical and leadership training for employees",
+      "quote": "We also provide mentoring, coaching, technical and leadership training, on-the-job learning and other professional development opportunities.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Employee volunteer STEM educational programming for students and local community partnerships",
+      "quote": "During fiscal year 2026, these efforts included educational programming for students, environmental cleanup and tree-planting activities, and community partnerships across our global locations.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Community Engagement",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific current external education and community activity, with no reach figures disclosed"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Voluntary employee-led Employee Resource Groups supported by company leaders",
+      "quote": "Our ERGs operate through 32 chapters across eight countries and are supported by Seagate leaders.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Culture of Inclusion",
+      "status": "current",
+      "indicators": "32 chapters across eight countries",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with chapter counts but no membership figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Company recognition of cultural and heritage events across global locations",
+      "quote": "We also recognize cultural and heritage events across our global locations to reflect the diverse backgrounds and experiences of our employees and strengthen connections across our workforce.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Culture of Inclusion",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current internal cultural practice, limited in disclosed reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Company's own research and development in storage technology",
+      "quote": "Research and development (“R&D”) is central to our long-term growth strategy.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Research and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "own_innovation",
+          "criterion": "level 1: the company's own innovation only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Employee Resource Groups open to all employees, with disclosed membership and chapter counts, expanded with new chapters in FY2025",
+      "quote": "With over 4,000 global members across ten ERGs and 32 local chapters, ERGs play a vital role in fostering a workplace where every employee feels safe, respected, and valued.",
+      "source_doc": "sustainability_report",
+      "section": "People > Our Culture of Inclusion > Supporting Employee Resource Groups",
+      "status": "current",
+      "indicators": "over 4,000 global members; ten ERGs; 32 local chapters",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 3: employee networks with membership figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "Company recognition of cultural and heritage events across global locations",
+      "quote": "We also recognize cultural and heritage events across our global locations to reflect the diverse backgrounds and experiences of our employees and strengthen connections across our workforce.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Culture of Inclusion",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current activity, limited in reach (no participation figures)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Original internal podcast episodes for Pride Month and Veterans Day featuring employee voices",
+      "quote": "A Pride Month episode explored themes of allyship and identity, while our Veterans Day episodes honored the service and perspectives of veteran employees.",
+      "source_doc": "sustainability_report",
+      "section": "People > Our Culture of Inclusion > Amplifying Inclusion Through Storytelling in Veteran's Day and Pride Month Podcasts",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current activity, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "Human Rights Policy made available to employees in four languages",
+      "quote": "Internally, our Human Rights policy is published in Chinese, English, Malay, and Thai.",
+      "source_doc": "sustainability_report",
+      "section": "People > Human Rights and Working Conditions",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific multilingual access practice, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 excerpt covers only liquidity and contains no theme-relevant activity. 'Creative workflows' in the Edge IoT product description refers to the same consumer storage activity as E1 and is not counted separately. The following are not counted: 'content delivery', 'create ... data', product and chip 'design', patent 'licensing', 'foundation' meaning technology base, and health and safety training (compliance). The filing points to a Sustainability Report for sustainability information only. The cross-cultural 'insufficient' coverage (word-count condition 2) triggers the second look. The 25,000 employees in Asia figure is location data and is not scored. Cross-cultural was held at 2 rather than 3 because chapter counts are not membership figures. Entrepreneurship was scored 1 for own innovation per the level-1 ladder text, even though 'innovation' is listed as a trap for enabling evidence.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 480,
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://www.seagate.com/content/dam/seagate/assets/sustainability/files/seagate-fy2025-sustainability-report.pdf",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://www.seagate.com/content/dam/seagate/assets/sustainability/files/seagate-fy2025-sustainability-report.pdf",
+    "found_on": "",
+    "report_year": 2025,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2025-10-31",
+  "fiscal_year": 2025,
+  "accession_number": "0000320193-25-000079",
+  "scored_at": "2026-10-19T13:01:15",
+  "themes": {
+    "creativity": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "creates",
+        "enables"
+      ],
+      "reason": "Level 3: named, ongoing services that create content (Apple TV original content) and distribute others' creative work (App Store, Apple Music, Apple Arcade) are a real but minor product line, and no revenue or user figures are disclosed for level 4.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E3"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: the only specific activity is employee development (Apple University and online classes), so Community is capped at 2.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests only on general language (equal-opportunity and inclusion commitments, a culture welcoming a broad range of backgrounds, and inclusion questions in employee surveys), with no specific inclusion practice or accessibility or multilingual offering described.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E4"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: small and mid-sized businesses are a customer market, but no specific enabling service or program for founders or small businesses is described.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 3,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 40.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Operates the App Store and other platforms through which customers download apps and third-party digital content such as books, music, video, games and podcasts",
+      "quote": "The Company operates various platforms, including the App Store®, that allow customers to discover and download applications and digital content, such as books, music, video, games and podcasts.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Services > Digital Content",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: named, ongoing platform line distributing others' creative work (books, music, video, games, podcasts), a real but minor part of the business without disclosed revenue"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Subscription content services, including Apple TV with exclusive original content, Apple Music, Apple Arcade and Apple News+",
+      "quote": "The Company also offers digital content through subscription-based services, including Apple Arcade®, a game service; Apple Fitness+®, a personalized fitness service; Apple Music®, which offers users a curated listening experience with on-demand radio stations; Apple News+®, a news and magazine service; and Apple TV®, which offers exclusive original content and live sports.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Services > Digital Content",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "creates",
+          "criterion": "level 3: named, ongoing services that include original creative content (Apple TV) alongside music, games and news, with no disclosed revenue or users"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Apple University and online classes for employee leadership, business, technical and personal development",
+      "quote": "The Company offers programs through Apple University on leadership, management and influence, as well as Apple culture and values.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Sells products and services to small and mid-sized business customers, among other markets",
+      "quote": "The Company’s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Markets and Distribution",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: small-business customers with no specific enabling service"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 targeted excerpt is empty, so no MD&A paragraph matched the theme terms. The App Store is described only from the customer side (discovery and download). The filing does not describe it as a marketplace that enables developers or creators to build businesses, so it was not counted as Entrepreneurship 'enabling'. Apple Pay and Apple Card are described as consumer payment services, not as merchant tools for small businesses. The trap terms 'design' (engineering and product design), 'licensing' (intellectual property and advertising licensing arrangements) and 'innovative' were excluded. Selling to the 'education' market was not treated as an education business. The Human Capital section is about 390 words, so Community and Cross-cultural coverage is sufficient. However, its inclusion content is general language only.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 324,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

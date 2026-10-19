@@ -1,0 +1,198 @@
+{
+  "ticker": "DXCM",
+  "company_name": "Dexcom",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "accession_number": "0001093557-26-000027",
+  "scored_at": "2026-10-19T13:03:50",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers CGM medical devices and shows no creating or enabling of creative work. Design, brand ambassador and sponsorship mentions are engineering or marketing traps.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: only employee development (development library, tuition reimbursement) is shown, so the score is capped at 2. Customer and provider education programs count as educating customers for product use, which is a trap.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E3",
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E3",
+        "E4"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific current internal practices (ERGs and annual gender/ethnicity pay equity reviews) with no membership or reach figures.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing describes no small-business customers or enabling programs. Innovation, collaboration agreements and the third-party developer API do not address barriers for founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 20.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Library of learning and development offerings for employees at all levels",
+      "quote": "To support the personal and professional growth of our workforce, we have built an extensive library of development offerings to empower employees at all levels to advance their skill sets and knowledge base.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Talent Growth and Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Tuition reimbursement offered to employees as part of total rewards",
+      "quote": "Our total rewards package includes market competitive pay, comprehensive and competitive global benefits and retirement offerings, paid time off and family leave, tuition reimbursement and on-site services.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Total Rewards and Pay Equity",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Employee Resource Groups with employee-led activities across global locations",
+      "quote": "We are proud to support our ERGs; their employee-led activities and initiatives foster a sense of belonging throughout all our global locations.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Equity and Inclusion",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Annual gender and ethnicity pay equity reviews for employees in similar roles",
+      "quote": "Additionally, we continue to proactively review both gender and ethnicity pay equity for our global employees in the same or similar roles.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Total Rewards and Pay Equity",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current internal inclusion practice, no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Disclosure of self-reported workforce gender and ethnic diversity data",
+      "quote": "All diversity data is self-reported.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only (context)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The 10-K points to a Sustainability Report for additional human capital details, but it also describes specific activities itself, so coverage is not insufficient and no second look is triggered. 'Educational and training programs to healthcare providers and people with diabetes' was treated as customer product education (trap) and not as external education. Insulin delivery 'collaboration agreements' are commercial integration deals (trap). The Item 7 'foundation for long-term growth' is financial language (trap). Stelo's over-the-counter access and Medicaid coverage are commercial reach, not targeted inclusion programs. A US workforce ethnicity table is disclosed (E5, demographics_only, context only). An FDA warning letter (March 2025) is noted but not relevant to the themes.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 944,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

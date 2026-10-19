@@ -1,0 +1,118 @@
+{
+  "ticker": "AMG",
+  "company_name": "Affiliated Managers Group",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-008665",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:26:40",
+  "prompt_chars": 52640,
+  "filing_chars": 32633,
+  "filing_words_sent": 4532,
+  "approx_prompt_tokens": 13160,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Funding, time off and flexible work for AMG employees pursuing degrees and professional certifications, alongside leadership and skills training",
+        "quote": "Further, we support employees’ educational pursuits relating to degree programs and certifications through company-supported time off and funding for professional development and flexible work arrangements tailored to individual employees’ educational goals.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Corporate philanthropy through employee gift-matching, a volunteer-matching program and direct grants by AMG and The AMG Charitable Foundation",
+        "quote": "Through our matching program as well as through direct grants, AMG and The AMG Charitable Foundation have made donations to more than 1,100 organizations around the world to date.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "more than 1,100 organizations (cumulative, to date)",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited in reach (cumulative organization count only, no dollars or annual figures)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Disclosure of workforce and board gender and ethnic diversity statistics",
+        "quote": "Across management positions in our workforce, gender diversity is 39%, and nearly half (47%) of our employees are women.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "39%, 47%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers an investment management holding company with no creative activity; 'product strategy' and 'marketing' are routine financial-services terms."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: specific current employee development plus a named foundation and matching program reaching more than 1,100 organizations cumulatively, but with no dollar or annual reach figures, so it falls to the lower level when torn between 2 and 3."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: only equal-opportunity language and demographic statistics, with no internal practice, customer access or connecting program described; coverage is insufficient under condition 2 because the relevant diversity discussion is under about 150 words."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only, namely 'entrepreneurial cultures' and taking equity stakes in established, leading investment firms, with no named program aimed at barriers faced by founders or small businesses."
+      }
+    },
+    "notes": "Human capital discussion covers only AMG's roughly 250 corporate employees, not the approximately 5,600 total including Affiliates, whose practices are left to Affiliate management. The 1,100+ organizations figure is cumulative 'to date' with no dollar amounts, so Community was held at 2 rather than 3. The core business, partnering with and investing growth capital in independent partner-owned investment firms (approximately $813 billion AUM), was considered for Entrepreneurship but not counted as enabling: these are established, 'leading' firms rather than founders or small businesses, and 'entrepreneurial culture' is a listed trap. The Item 7 excerpt only repeats the 'entrepreneurial' culture language. Cross-cultural is marked insufficient, which triggers the sustainability-report second look.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"AMG\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Funding, time off and flexible work for AMG employees pursuing degrees and professional certifications, alongside leadership and skills training\",\"quote\":\"Further, we support employees’ educational pursuits relating to degree programs and certifications through company-supported time off and funding for professional development and flexible work arrangements tailored to individual employees’ educational goals.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Corporate philanthropy through employee gift-matching, a volunteer-matching program and direct grants by AMG and The AMG Charitable Foundation\",\"quote\":\"Through our matching program as well as through direct grants, AMG and The AMG Charitable Foundation have made donations to more than 1,100 organizations around the world to date.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"more than 1,100 organizations (cumulative, to date)\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited in reach (cumulative organization count only, no dollars or annual figures)\"}}},{\"id\":\"E3\",\"activity\":\"Disclosure of workforce and board gender and ethnic diversity statistics\",\"quote\":\"Across management positions in our workforce, gender diversity is 39%, and nearly half (47%) of our employees are women.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"39%, 47%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers an investment management holding company with no creative activity; 'product strategy' and 'marketing' are routine financial-services terms.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: specific current employee development plus a named foundation and matching program reaching more than 1,100 organizations cumulatively, but with no dollar or annual reach figures, so it falls to the lower level when torn between 2 and 3.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: only equal-opportunity language and demographic statistics, with no internal practice, customer access or connecting program described; coverage is insufficient under condition 2 because the relevant diversity discussion is under about 150 words.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only, namely 'entrepreneurial cultures' and taking equity stakes in established, leading investment firms, with no named program aimed at barriers faced by founders or small businesses.\"}},\"notes\":\"Human capital discussion covers only AMG's roughly 250 corporate employees, not the approximately 5,600 total including Affiliates, whose practices are left to Affiliate management. The 1,100+ organizations figure is cumulative 'to date' with no dollar amounts, so Community was held at 2 rather than 3. The core business, partnering with and investing growth capital in independent partner-owned investment firms (approximately $813 billion AUM), was considered for Entrepreneurship but not counted as enabling: these are established, 'leading' firms rather than founders or small businesses, and 'entrepreneurial culture' is a listed trap. The Item 7 excerpt only repeats the 'entrepreneurial' culture language. Cross-cultural is marked insufficient, which triggers the sustainability-report second look.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 17728,
+      "output_tokens": 3889,
+      "duration_ms": 38517
+    }
+  ]
+}

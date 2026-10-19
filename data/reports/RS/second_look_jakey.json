@@ -1,0 +1,14 @@
+{
+  "ticker": "RS",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T13:32:42",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['reliance.com']",
+    "search suggested 0 candidate(s)"
+  ]
+}

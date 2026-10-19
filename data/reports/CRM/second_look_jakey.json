@@ -1,0 +1,15 @@
+{
+  "ticker": "CRM",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T13:28:46",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['backpage.com', 'salesforce.com']",
+    "search suggested 1 candidate(s)",
+    "rejected (year None < 2024): https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/white-papers/salesforce-fy26-stakeholder-impact-report.pdf"
+  ]
+}

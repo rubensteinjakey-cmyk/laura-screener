@@ -1,0 +1,191 @@
+{
+  "ticker": "NEM",
+  "company_name": "Newmont",
+  "sector": "Materials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "accession_number": "0001164727-26-000010",
+  "scored_at": "2026-10-19T13:22:51",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers gold and base-metal mining and shows no creative activity; jewelry and decorative uses are only end markets for the metal, not company activities.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 2: specific current community investment (a $1 million distribution from the named Global Community Support fund and community development costs at Ahafo South) plus employee training, with no substantial reach indicators to reach level 3.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E4"
+      ],
+      "kinds": [
+        "demographics_only"
+      ],
+      "reason": "Level 1: only general inclusion statements, equal-opportunity boilerplate and board demographics; marked insufficient under condition 3 because the filing points to the sustainability report and website (EEO-1) for workforce demographics and inclusion data and describes no specific activities itself.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1: only general inclusion statements, equal-opportunity boilerplate and board demographics; marked insufficient under condition 3 because the filing points to the sustainability report and website (EEO-1) for workforce demographics and inclusion data and describes no specific activities itself."
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description shows no service, program or customer base that serves or enables founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 16.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Distributions made from the company's named global community support fund",
+      "quote": "(6)Excludes Newcrest transaction and integration costs of $464, restructuring and severance costs of $24, settlement costs of $7, and distributions from the Newmont Global Community Support fund of $1, included in Other expense, net.",
+      "source_doc": "10-K",
+      "section": "Item 7 > Results of Consolidated Operations > footnote (6)",
+      "status": "current",
+      "indicators": "$1 in distributions from the Newmont Global Community Support fund (dollars in millions)",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community investment through a named fund, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Community development spending at the Ahafo South mine in Ghana",
+      "quote": "Costs applicable to sales per gold ounce increased 36% primarily due to higher government royalties, higher community development costs, and lower gold ounces sold, partially offset by a buildup of stockpile inventory compared to a draw down in the prior year.",
+      "source_doc": "10-K",
+      "section": "Item 7 > Results of Consolidated Operations > Ahafo South, Ghana",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community development spending with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Employee training and development programs that cover ESG performance",
+      "quote": "The importance of ESG performance is emphasized with our workforce through our training and development programs and our compensation design.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Social Practices > ESG Performance-based Compensation",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Disclosure of the board's ethnic and gender diversity",
+      "quote": "As of December 31, 2025, the Board of Directors was comprised of 12 directors (11 independent non-executive directors and one executive director) with more than 55% of the independent directors with a form of ethnic or gender diversity to the Board of Directors, with 36% female representation among independent directors.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Governance Practices > Board of Directors Oversight",
+      "status": "current",
+      "indicators": "12 directors, more than 55% of independent directors with ethnic or gender diversity, 36% female representation among independent directors",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Cross-cultural coverage is insufficient (condition 3), so this company triggers the automated second look using the sustainability report at www.newmont.com/sustainability. The Item 7 text is excerpts only. Conga project construction has been largely suspended since November 2011, and its 'continued engagement with the local communities' is engagement, not scored investment. A Yanacocha discharge event in Q2 2025 affected community canals and was contained by June 30, 2025; it was not scored. 'Collaborative approach' and community-commitment language in Item 1 is general and not scored above 1 on its own. Artisanal mining and joint ventures appear only as risks and were not scored for Entrepreneurship.",
+  "quote_check_status": "passed",
+  "flags": [
+    "coverage insufficient (cross_cultural); second look: no report found"
+  ],
+  "human_capital_words": 0,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
+}

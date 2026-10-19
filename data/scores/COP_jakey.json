@@ -1,0 +1,135 @@
+{
+  "ticker": "COP",
+  "company_name": "ConocoPhillips",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001163165-26-000009",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:24:41",
+  "prompt_chars": 60504,
+  "filing_chars": 40512,
+  "filing_words_sent": 6101,
+  "approx_prompt_tokens": 15126,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee development through on-the-job learning, formal training, feedback, coaching and mentoring",
+        "quote": "We engage and develop our workforce through on-the-job learning, formal training, ongoing feedback, coaching and mentoring.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Valuing our People > Employee Engagement and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Partnerships with universities and organizations to build an early-career recruiting pipeline",
+        "quote": "We recruit experienced hires to help us sustain a broad range of expertise and partner with universities and organizations to create a pipeline of early-career talent.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Attracting a World-Class Workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: recruitment pipeline for future staff, with no described education program, so treated as workforce development"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee benefits covering disability support, elder care and childcare, including onsite childcare where local access is limited",
+        "quote": "We also provide coverage for disability support, elder care and childcare, including onsite childcare, where access locally is a challenge.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Valuing our People > Compensation, Benefits and Well-Being",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: standard benefits, not a targeted inclusion practice for underrepresented groups"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Licensing of the company's proprietary LNG liquefaction technology",
+        "quote": "Our Optimized Cascade® LNG liquefaction technology has been licensed for use in 28 LNG trains around the world, with FEED studies ongoing for additional trains.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Other > Technology",
+        "status": "current",
+        "indicators": "28 LNG trains",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: company's own innovation, not enabling founders or small businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers oil and gas exploration, production and LNG in detail and shows no creative activity; technology licensing is an excluded trap."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: only employee development and recruitment activities are described, so the score is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: the filing gives general inclusive-environment language, employees-by-country statistics and standard benefits, but no specific inclusion, access or community-connecting activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the filing shows only the company's own innovation (LNG technology licensing) and no service or program enabling founders or small businesses."
+      }
+    },
+    "notes": "Item 7 (targeted) contained only a reference to the Emergency Planning and Community Right-to-Know Act, which is a regulatory trap and was not counted. Oil spill response organization memberships and emergency response partnerships are industry operational-preparedness cooperatives, not community investment or education, so they were not counted. The employees-by-country table and operations in 14 countries are demographics and international operations only. The 'Innovation' SPIRIT value and the 'inclusive environment' statement are general language. Licensing of Optimized Cascade® technology is a technology license, not creative licensing.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"COP\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee development through on-the-job learning, formal training, feedback, coaching and mentoring\",\"quote\":\"We engage and develop our workforce through on-the-job learning, formal training, ongoing feedback, coaching and mentoring.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Valuing our People > Employee Engagement and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Partnerships with universities and organizations to build an early-career recruiting pipeline\",\"quote\":\"We recruit experienced hires to help us sustain a broad range of expertise and partner with universities and organizations to create a pipeline of early-career talent.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Attracting a World-Class Workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: recruitment pipeline for future staff, with no described education program, so treated as workforce development\"}}},{\"id\":\"E3\",\"activity\":\"Employee benefits covering disability support, elder care and childcare, including onsite childcare where local access is limited\",\"quote\":\"We also provide coverage for disability support, elder care and childcare, including onsite childcare, where access locally is a challenge.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Valuing our People > Compensation, Benefits and Well-Being\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: standard benefits, not a targeted inclusion practice for underrepresented groups\"}}},{\"id\":\"E4\",\"activity\":\"Licensing of the company's proprietary LNG liquefaction technology\",\"quote\":\"Our Optimized Cascade® LNG liquefaction technology has been licensed for use in 28 LNG trains around the world, with FEED studies ongoing for additional trains.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Other > Technology\",\"status\":\"current\",\"indicators\":\"28 LNG trains\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: company's own innovation, not enabling founders or small businesses\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers oil and gas exploration, production and LNG in detail and shows no creative activity; technology licensing is an excluded trap.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: only employee development and recruitment activities are described, so the score is capped at 2.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: the filing gives general inclusive-environment language, employees-by-country statistics and standard benefits, but no specific inclusion, access or community-connecting activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the filing shows only the company's own innovation (LNG technology licensing) and no service or program enabling founders or small businesses.\"}},\"notes\":\"Item 7 (targeted) contained only a reference to the Emergency Planning and Community Right-to-Know Act, which is a regulatory trap and was not counted. Oil spill response organization memberships and emergency response partnerships are industry operational-preparedness cooperatives, not community investment or education, so they were not counted. The employees-by-country table and operations in 14 countries are demographics and international operations only. The 'Innovation' SPIRIT value and the 'inclusive environment' statement are general language. Licensing of Optimized Cascade® technology is a technology license, not creative licensing.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 22487,
+      "output_tokens": 3139,
+      "duration_ms": 31136
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "ticker": "NFG",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T13:30:06",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "report_url": "https://www.nationalfuel.com/wp-content/uploads/documents/NFG-CRR24-Full-FINAL.pdf",
+  "report_year": 2024,
+  "report_pdf": "report_2024.pdf",
+  "domain_note": "",
+  "report_link_found_on": "",
+  "status": "scored",
+  "report_text_file": "report_2024_chapters.txt",
+  "chapters": [
+    "Stakeholder Engagement",
+    "Our Community and Stakeholder Engagement",
+    "Engagement",
+    "Biodiversity Protection",
+    "Safety Culture and Highlights",
+    "Social",
+    "Our People",
+    "Workforce Highlights",
+    "Culture",
+    "Our Communities",
+    "Workforce Demographic Data",
+    "Workforce Safety Data"
+  ],
+  "chapter_method": "printed table of contents",
+  "prompt_chars": 112444,
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee Resource Groups offered to employees as part of the benefits and community involvement offering",
+        "quote": "Employee Resource Groups",
+        "source_doc": "sustainability_report",
+        "section": "Social > Employee Attraction, Retention, and Development > Community Involvement Encouraged",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks/resource groups with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "LGBTQ+ benefits guide provided as part of employee healthcare benefits",
+        "quote": "LGBTQ+ benefits guide",
+        "source_doc": "sustainability_report",
+        "section": "Social > Employee Attraction, Retention, and Development > Healthcare Benefits",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: inclusive benefits practice, limited reach, no figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Publishes workforce demographic data (gender, race/ethnicity, generation)",
+        "quote": "National Fuel tracks diversity indicators and shares that demographic data within this Report.",
+        "source_doc": "sustainability_report",
+        "section": "Social > Workforce Highlights",
+        "status": "current",
+        "indicators": "Female: 27%, Male: 73%, White: 91%, Asian: 1%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Non-discrimination policies and inclusion training for employees",
+        "quote": "The Company has also implemented policies and training that reinforce the Company’s commitment to inclusion in the workplace.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Company Culture",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: equal-opportunity / anti-harassment policy boilerplate"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: the sustainability report lists specific current internal practices, namely Employee Resource Groups (E1) and an LGBTQ+ benefits guide (E2). It gives no membership numbers, participant figures or other reach indicators, so the score cannot reach level 3. The workforce demographics (E3) and the 10-K's non-discrimination policy and inclusion training language (E4) are disclosure and boilerplate only, so they support level 1 at most and do not raise the score."
+      }
+    },
+    "notes": "Score source: 10-K + sustainability report. The 10-K human capital section refers to the Corporate Responsibility Report for more detail and gives only policy-level inclusion language. The report adds ERGs and an LGBTQ+ benefits guide without figures. The Foundation's 'Community Enrichment & Safety' giving pillar mentions fostering inclusion and promoting diversity, but no specific program or amount is tied to it, so it was not scored. A low-and-moderate-income (LMI) energy-efficiency program appears in the NY CIP savings table. It serves low-income customers rather than removing cultural, language or background barriers, so it was conservatively excluded from this theme. The report says the 'Other' demographic category includes Native American or Alaska Native, Native Hawaiian or Pacific Islander, and Two or More Races. The demographic figures are disclosure only."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"evidence\": [{\"id\": \"E1\", \"activity\": \"Employee Resource Groups offered to employees as part of the benefits and community involvement offering\", \"quote\": \"Employee Resource Groups\", \"source_doc\": \"sustainability_report\", \"section\": \"Social > Employee Attraction, Retention, and Development > Community Involvement Encouraged\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: employee networks/resource groups with no membership figures\"}}}, {\"id\": \"E2\", \"activity\": \"LGBTQ+ benefits guide provided as part of employee healthcare benefits\", \"quote\": \"LGBTQ+ benefits guide\", \"source_doc\": \"sustainability_report\", \"section\": \"Social > Employee Attraction, Retention, and Development > Healthcare Benefits\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: inclusive benefits practice, limited reach, no figures\"}}}, {\"id\": \"E3\", \"activity\": \"Publishes workforce demographic data (gender, race/ethnicity, generation)\", \"quote\": \"National Fuel tracks diversity indicators and shares that demographic data within this Report.\", \"source_doc\": \"sustainability_report\", \"section\": \"Social > Workforce Highlights\", \"status\": \"current\", \"indicators\": \"Female: 27%, Male: 73%, White: 91%, Asian: 1%\", \"themes\": {\"cross_cultural\": {\"kind\": \"demographics_only\", \"criterion\": \"level 1: demographic statistics only\"}}}, {\"id\": \"E4\", \"activity\": \"Non-discrimination policies and inclusion training for employees\", \"quote\": \"The Company has also implemented policies and training that reinforce the Company’s commitment to inclusion in the workplace.\", \"source_doc\": \"10-K\", \"section\": \"Item 1 > Human Capital > Company Culture\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 1: equal-opportunity / anti-harassment policy boilerplate\"}}}],\n \"themes\": {\"cross_cultural\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E2\", \"E3\", \"E4\"], \"reason\": \"Level 2: the sustainability report lists specific current internal practices, namely Employee Resource Groups (E1) and an LGBTQ+ benefits guide (E2). It gives no membership numbers, participant figures or other reach indicators, so the score cannot reach level 3. The workforce demographics (E3) and the 10-K's non-discrimination policy and inclusion training language (E4) are disclosure and boilerplate only, so they support level 1 at most and do not raise the score.\"}},\n \"notes\": \"Score source: 10-K + sustainability report. The 10-K human capital section refers to the Corporate Responsibility Report for more detail and gives only policy-level inclusion language. The report adds ERGs and an LGBTQ+ benefits guide without figures. The Foundation's 'Community Enrichment & Safety' giving pillar mentions fostering inclusion and promoting diversity, but no specific program or amount is tied to it, so it was not scored. A low-and-moderate-income (LMI) energy-efficiency program appears in the NY CIP savings table. It serves low-income customers rather than removing cultural, language or background barriers, so it was conservatively excluded from this theme. The report says the 'Other' demographic category includes Native American or Alaska Native, Native Hawaiian or Pacific Islander, and Two or More Races. The demographic figures are disclosure only.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 39999,
+      "output_tokens": 2349,
+      "duration_ms": 24067
+    }
+  ],
+  "log": [
+    "company domains found in 10-K: ['nationalfuel.com']",
+    "search suggested 3 candidate(s)",
+    "rejected (no usable table of contents / chapters): https://www.nationalfuel.com/wp-content/uploads/documents/NFG_CRR_TRUNCATED_HIGHRES_V2.pdf",
+    "rejected (no usable table of contents / chapters): https://www.nationalfuel.com/wp-content/uploads/documents/NFG_CRR_FULL_HIGHRES_V2.pdf",
+    "accepted https://www.nationalfuel.com/wp-content/uploads/documents/NFG-CRR24-Full-FINAL.pdf (year 2024, 95 pages)",
+    "chapters via printed table of contents: ['Stakeholder Engagement', 'Our Community and Stakeholder Engagement', 'Engagement', 'Biodiversity Protection', 'Safety Culture and Highlights', 'Social', 'Our People', 'Workforce Highlights', 'Culture', 'Our Communities', 'Workforce Demographic Data', 'Workforce Safety Data']"
+  ]
+}
