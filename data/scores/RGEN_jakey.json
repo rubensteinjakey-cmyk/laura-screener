@@ -1,0 +1,102 @@
+{
+  "ticker": "RGEN",
+  "company_name": "Repligen",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-076528",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:07:26",
+  "prompt_chars": 65898,
+  "filing_chars": 45906,
+  "filing_words_sent": 6413,
+  "approx_prompt_tokens": 16474,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Development programs for managers and company leadership",
+        "quote": "We also offer a range of programs to develop our managers and enhance our leadership across the Company.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Employee Engagement and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Hiring practice of considering inclusive slates of applicants for all roles",
+        "quote": "In our hiring practices, we strive to hire the most qualified person for the job by ensuring that qualified, inclusive slates of applicants are identified and considered for all roles within our workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Inclusive Workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: hiring practice stated in general terms, with no named program, figures or reach"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers only bioprocessing equipment, consumables and reagents for biologic drug manufacturing, with no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only specific activity is manager and leadership development for the company's own employees, so the employee-development cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: the filing gives only general inclusion statements and an inclusive-slate hiring practice, with no employee networks, programs or figures, so when torn the lower level applies."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests on general language about the company's own R&D and innovation only, with no service or program that enables founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so no MD&A evidence was available. Cross-cultural coverage is borderline: the dedicated 'Inclusive Workforce' section is about 140 words, but further inclusion mentions in the Human Capital and Engagement paragraphs bring the relevant discussion to roughly 170 words, so it is marked sufficient. A human may want to reconsider triggering the second look. The filing references a 2024 Sustainability Report on www.repligen.com but does not use it to replace disclosure. Excluded as traps or non-qualifying: 'state-of-the-art' (KRM systems); design in the engineering sense; licensing and collaboration agreements with Daylight, Navigo and Purolite (IP and supply deals); 'belonging'; 'innovation' language; Asia Pacific commercial expansion; the employee assistance program (well-being, not development or inclusion); and the Repligen Performance System (operational continuous-improvement framework, not training).",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"RGEN\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Development programs for managers and company leadership\",\"quote\":\"We also offer a range of programs to develop our managers and enhance our leadership across the Company.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Employee Engagement and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Hiring practice of considering inclusive slates of applicants for all roles\",\"quote\":\"In our hiring practices, we strive to hire the most qualified person for the job by ensuring that qualified, inclusive slates of applicants are identified and considered for all roles within our workforce.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Inclusive Workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: hiring practice stated in general terms, with no named program, figures or reach\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers only bioprocessing equipment, consumables and reagents for biologic drug manufacturing, with no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only specific activity is manager and leadership development for the company's own employees, so the employee-development cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: the filing gives only general inclusion statements and an inclusive-slate hiring practice, with no employee networks, programs or figures, so when torn the lower level applies.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests on general language about the company's own R&D and innovation only, with no service or program that enables founders or small businesses.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so no MD&A evidence was available. Cross-cultural coverage is borderline: the dedicated 'Inclusive Workforce' section is about 140 words, but further inclusion mentions in the Human Capital and Engagement paragraphs bring the relevant discussion to roughly 170 words, so it is marked sufficient. A human may want to reconsider triggering the second look. The filing references a 2024 Sustainability Report on www.repligen.com but does not use it to replace disclosure. Excluded as traps or non-qualifying: 'state-of-the-art' (KRM systems); design in the engineering sense; licensing and collaboration agreements with Daylight, Navigo and Purolite (IP and supply deals); 'belonging'; 'innovation' language; Asia Pacific commercial expansion; the employee assistance program (well-being, not development or inclusion); and the Repligen Performance System (operational continuous-improvement framework, not training).\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 22619,
+      "output_tokens": 4658,
+      "duration_ms": 44600
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "ticker": "BMNR",
+  "company_name": "Bitmine Immersion Technologies, Inc.",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "accession_number": "0001493152-25-024679",
+  "scored_at": "2026-10-19T18:09:48",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers ETH and BTC treasury management, legacy BTC mining, hosting and advisory services, and shows no creative activity. 'Gaming' appears only as one of Ethereum's network use cases, not as something the company does.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0 with insufficient coverage under condition 2: the only people-related discussion is the Human Capital Resources paragraph of about 80 words, and it describes no training, external education or community activity.",
+      "flags": [],
+      "coverage_trigger": "ai+code",
+      "coverage_reason_ai": "Level 0 with insufficient coverage under condition 2: the only people-related discussion is the Human Capital Resources paragraph of about 80 words, and it describes no training, external education or community activity.",
+      "coverage_reason_code": "people discussion is 28 words (under 150)"
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1, resting only on general language: the filing states it supports 'equal-opportunity employment' and keeps 'a safe and inclusive workplace', which is boilerplate. Coverage is insufficient under condition 2 because the relevant discussion is under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai+code",
+      "coverage_reason_ai": "Level 1, resting only on general language: the filing states it supports 'equal-opportunity employment' and keeps 'a safe and inclusive workplace', which is boilerplate. Coverage is insufficient under condition 2 because the relevant discussion is under about 150 words.",
+      "coverage_reason_code": "people discussion is 28 words (under 150)"
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing describes services for institutional clients and investors only, with no small-business customers and no program enabling founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 0,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 4.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [],
+  "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. The company had three employees and four contractors as of August 31, 2025, which explains the very thin human capital disclosure. Community and Cross-cultural are marked insufficient, so this company should get the automated sustainability-report second look. The legacy mining-as-a-service business is described as past, ended in 2025, and did not qualify for any theme. Traps not counted: 'gaming' and 'identity and credentialing systems', which are Ethereum use cases rather than company activities; 'diversifying set of use cases'; and 'innovations' in tokenization.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 0,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

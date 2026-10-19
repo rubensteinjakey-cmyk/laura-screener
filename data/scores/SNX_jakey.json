@@ -1,0 +1,135 @@
+{
+  "ticker": "SNX",
+  "company_name": "TD Synnex",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-003598",
+  "filing_date": "2026-01-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:10:20",
+  "prompt_chars": 61964,
+  "filing_chars": 41961,
+  "filing_words_sent": 6097,
+  "approx_prompt_tokens": 15491,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company-wide employee learning program (TD SYNNEX Learning Labs) focused on high-growth skills and AI enablement",
+        "quote": "In fiscal year 2025, we launched TD SYNNEX Learning Labs, prioritized high-growth skills and began our AI enablement transformation.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Training and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Professional human coaching offered to every people leader",
+        "quote": "Most notably, every people leader was invited to leverage a professional human coach as part of a new experiential learning journey aligned with our evolved servant leadership values.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Training and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Annual pay equity analysis comparing pay of co-workers doing substantially similar work",
+        "quote": "Our practice includes reviewing the compensation of co-workers to ensure consistent pay practices by conducting a pay equity analysis annually comparing co-workers performing substantially similar work within a country or location.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Pay Equity or Total Rewards",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: compensation-fairness review; borderline as an inclusion activity, so the lower level was chosen"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Cloud solutions sold through resellers to small and medium businesses",
+        "quote": "We provide cloud-based solutions and services to our reseller customers to enable sales of and migration to technologies in a hosted environment to small and medium businesses.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Services and Solutions > Cloud Services",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers served with no specific enabling program"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers IT distribution, logistics and engineering design with no creative activity ('design' and 'print on demand' marketing are traps or routine inputs)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: the only specific activities are employee development (Learning Labs, leader coaching), so Community is capped at 2; 'invests in co-workers and communities' is general language and reseller/customer IT training is marketing."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: diversity and inclusion commitments are general statements, and the annual pay equity analysis is a borderline inclusion practice, so the lower level was chosen."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the company serves SMB end-users and resellers with cloud and ordinary financing services but describes no specific program aimed at barriers to starting or growing a business."
+      }
+    },
+    "notes": "Item 7 targeted excerpt was empty. The filing refers to a fiscal year 2024 Corporate Citizenship Report for additional human capital information, but the 10-K itself gives specific activities and over 150 words of discussion, so coverage is sufficient and no second look is triggered. A Chief Learning and Belonging Officer role was created in FY2025; it is a title with no described inclusion program, so it was not scored separately. Pay equity analysis (E3) was judged borderline between levels 1 and 2 for Cross-cultural; the lower level was applied per rule 7. Reseller product training and customer IT training were treated as marketing and OEM services, not external education. Floor plan financing and other reseller credit are ordinary serving activities.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"SNX\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Company-wide employee learning program (TD SYNNEX Learning Labs) focused on high-growth skills and AI enablement\",\"quote\":\"In fiscal year 2025, we launched TD SYNNEX Learning Labs, prioritized high-growth skills and began our AI enablement transformation.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Training and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Professional human coaching offered to every people leader\",\"quote\":\"Most notably, every people leader was invited to leverage a professional human coach as part of a new experiential learning journey aligned with our evolved servant leadership values.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Training and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Annual pay equity analysis comparing pay of co-workers doing substantially similar work\",\"quote\":\"Our practice includes reviewing the compensation of co-workers to ensure consistent pay practices by conducting a pay equity analysis annually comparing co-workers performing substantially similar work within a country or location.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Pay Equity or Total Rewards\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: compensation-fairness review; borderline as an inclusion activity, so the lower level was chosen\"}}},{\"id\":\"E4\",\"activity\":\"Cloud solutions sold through resellers to small and medium businesses\",\"quote\":\"We provide cloud-based solutions and services to our reseller customers to enable sales of and migration to technologies in a hosted environment to small and medium businesses.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Services and Solutions > Cloud Services\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers served with no specific enabling program\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers IT distribution, logistics and engineering design with no creative activity ('design' and 'print on demand' marketing are traps or routine inputs).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: the only specific activities are employee development (Learning Labs, leader coaching), so Community is capped at 2; 'invests in co-workers and communities' is general language and reseller/customer IT training is marketing.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: diversity and inclusion commitments are general statements, and the annual pay equity analysis is a borderline inclusion practice, so the lower level was chosen.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the company serves SMB end-users and resellers with cloud and ordinary financing services but describes no specific program aimed at barriers to starting or growing a business.\"}},\"notes\":\"Item 7 targeted excerpt was empty. The filing refers to a fiscal year 2024 Corporate Citizenship Report for additional human capital information, but the 10-K itself gives specific activities and over 150 words of discussion, so coverage is sufficient and no second look is triggered. A Chief Learning and Belonging Officer role was created in FY2025; it is a title with no described inclusion program, so it was not scored separately. Pay equity analysis (E3) was judged borderline between levels 1 and 2 for Cross-cultural; the lower level was applied per rule 7. Reseller product training and customer IT training were treated as marketing and OEM services, not external education. Floor plan financing and other reseller credit are ordinary serving activities.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20927,
+      "output_tokens": 3237,
+      "duration_ms": 30989
+    }
+  ]
+}

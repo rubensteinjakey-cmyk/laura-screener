@@ -1,0 +1,102 @@
+{
+  "ticker": "HST",
+  "company_name": "Host Hotels & Resorts",
+  "sector": "Real Estate",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001070750-26-000054",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:07:57",
+  "prompt_chars": 82518,
+  "filing_chars": 62514,
+  "filing_words_sent": 9435,
+  "approx_prompt_tokens": 20629,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Training and education opportunities for the company's own corporate employees (external training, certifications, coaching, continuing education)",
+        "quote": "Our employees are given the opportunity to participate in training and education programs such as external training, professional certifications, executive and leadership coaching, continuing education and professional memberships.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources",
+        "status": "current",
+        "indicators": "162 employees",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Disclosure of workforce minority representation statistics (no associated program or practice)",
+        "quote": "Our workforce also consists of 37% minorities, with 21% of management positions held by minorities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources",
+        "status": "current",
+        "indicators": "37% minorities, 21% of management positions",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description of a hotel-owning REIT is complete enough to judge and shows no creating or enabling of creative work (phrases like 'create value' and soft-branded hotels' 'unique identity' are not creative activity)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only specific activity is employee development for the company's own staff, with no external education or community investment, so the employee-development cap of 2 applies; the Corporate Responsibility 'community' language is general commitment only."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: only workforce demographic statistics are disclosed; coverage is insufficient under condition 2 (the inclusion-relevant discussion is a two-sentence demographics paragraph well under about 150 words) and condition 3 (the filing points to the Corporate Responsibility Report, including its EEO-1 report and social performance, while giving no specific inclusion activities itself)."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is fully described and shows no service or program enabling founders or small businesses; the Noble and other joint ventures are capital investments, which is an explicit trap."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt is empty, so no MD&A terms matched. Hotel staff are employed by third-party managers (only 162 corporate employees), so most workforce activity sits outside the filer. The ADA paragraph describes regulatory compliance and possible past or future accessibility capex, with no current named program, so it is not scored as customer access. The Corporate Responsibility section ('committed to advancing health, well-being and opportunity', EPIC value of 'Community') is claim language only. The August 2025 Corporate Responsibility Report is referenced but not incorporated by reference, and Cross-cultural insufficient coverage should trigger the automated second look using that report (hosthotels.com domain). The Asia/Pacific JV exit in 2025 and international hotels are not cross-cultural activity.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"HST\",\"sector\":\"Real Estate\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Training and education opportunities for the company's own corporate employees (external training, certifications, coaching, continuing education)\",\"quote\":\"Our employees are given the opportunity to participate in training and education programs such as external training, professional certifications, executive and leadership coaching, continuing education and professional memberships.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources\",\"status\":\"current\",\"indicators\":\"162 employees\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Disclosure of workforce minority representation statistics (no associated program or practice)\",\"quote\":\"Our workforce also consists of 37% minorities, with 21% of management positions held by minorities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources\",\"status\":\"current\",\"indicators\":\"37% minorities, 21% of management positions\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description of a hotel-owning REIT is complete enough to judge and shows no creating or enabling of creative work (phrases like 'create value' and soft-branded hotels' 'unique identity' are not creative activity).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only specific activity is employee development for the company's own staff, with no external education or community investment, so the employee-development cap of 2 applies; the Corporate Responsibility 'community' language is general commitment only.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: only workforce demographic statistics are disclosed; coverage is insufficient under condition 2 (the inclusion-relevant discussion is a two-sentence demographics paragraph well under about 150 words) and condition 3 (the filing points to the Corporate Responsibility Report, including its EEO-1 report and social performance, while giving no specific inclusion activities itself).\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is fully described and shows no service or program enabling founders or small businesses; the Noble and other joint ventures are capital investments, which is an explicit trap.\"}},\"notes\":\"The Item 7 targeted excerpt is empty, so no MD&A terms matched. Hotel staff are employed by third-party managers (only 162 corporate employees), so most workforce activity sits outside the filer. The ADA paragraph describes regulatory compliance and possible past or future accessibility capex, with no current named program, so it is not scored as customer access. The Corporate Responsibility section ('committed to advancing health, well-being and opportunity', EPIC value of 'Community') is claim language only. The August 2025 Corporate Responsibility Report is referenced but not incorporated by reference, and Cross-cultural insufficient coverage should trigger the automated second look using that report (hosthotels.com domain). The Asia/Pacific JV exit in 2025 and international hotels are not cross-cultural activity.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 28193,
+      "output_tokens": 2834,
+      "duration_ms": 29249
+    }
+  ]
+}

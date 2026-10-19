@@ -1,0 +1,184 @@
+{
+  "ticker": "PNFP",
+  "company_name": "Pinnacle Financial Partners",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0002082866-26-000018",
+  "filing_date": "2026-03-02",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:05:59",
+  "prompt_chars": 142536,
+  "filing_chars": 122526,
+  "filing_words_sent": 18424,
+  "approx_prompt_tokens": 35634,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Advertising partnership with a Nashville music venue, alongside two sports teams, used as a deposit-marketing channel",
+        "quote": "However, its use of advertising has increased in recent years, primarily due to its partnerships with the Tennessee Titans NFL football team, The Pinnacle at Nashville Yards music venue and the Memphis Grizzlies NBA basketball team.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Products and Services > Deposit Services",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: venue partnership framed as advertising for deposit gathering, i.e. creative work used as a routine marketing input rather than direct support of artists"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Three-day culture-focused orientation for all new team members, including those joining through acquisitions",
+        "quote": "Historically, all team members joining Pinnacle, including those joining as a result of an acquisition, have participated in a three-day orientation that focuses on culture.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Corporate community giving focused on four categories: education, health and human services, economic development and the arts",
+        "quote": "For years, we have focused our community investment efforts on giving within four categories that we believe improve the quality of life of the citizens in our communities: education, health and human services, economic development and the arts.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: ongoing community giving described by category only, with no programs, dollars or recipients disclosed (limited, borderline general language)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Workforce recruiting initiatives building networks with agencies and community organizations to broaden workforce makeup",
+        "quote": "This workforce enhancement process includes a number of initiatives that are underway to build broader networks with additional agencies and community organizations as we look to recruit and develop future team members and leaders.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: inclusion-oriented recruiting effort described only in general terms, with no named program, partner organizations or figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Disclosure of workforce gender and racial/ethnic composition",
+        "quote": "At December 31, 2025, 65% of our team members were women and approximately 19% identify themselves as part of a racial or ethnic minority group.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital",
+        "status": "current",
+        "indicators": "65% women; approximately 19% racial or ethnic minority",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Treasury management and remote deposit services offered to small business and commercial clients",
+        "quote": "Additionally, Pinnacle Bank offers its targeted small business and commercial clients a comprehensive array of treasury management and remote deposit services, which allow electronic deposits to be made from the client's place of business.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Products and Services > Deposit Services",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: ordinary small-business deposit and payment services, with no specific barrier-reducing program"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Origination and sale of SBA loans",
+        "quote": "SBA loan sales are also included in other noninterest income and fluctuate based on the current market conditions which is reflected in the decrease in such sales in 2025 as compared to 2024.",
+        "source_doc": "10-K",
+        "section": "Item 7 (targeted) > Noninterest income > Other noninterest income",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business lending mentioned only as an income line item, with no described enabling program or reach"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only creative link is a music-venue partnership the filing frames as advertising (a routine marketing input), plus general mention of 'the arts' as a giving category with no specific activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: specific current employee development (new-hire orientation) and community giving described by category only, with no programs, participants or dollars to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 1: workforce demographic statistics plus a generally described recruiting-network initiative with no named program or figures; torn between 1 and 2, so the lower level applies."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 1: small-business customers served through ordinary treasury, lending and SBA loan activity, with no specific enabling program described."
+      }
+    },
+    "notes": "Merger with Synovus closed January 1, 2026, after fiscal year-end; legacy Pinnacle shares were delisted and deregistered, so future filings will cover the combined company. The orientation in E2 is described as 'historically' provided, so it is treated as current, but the wording may signal change after the merger. Workplace awards (FORTUNE, Great Place to Work, PEOPLE 'Companies That Care') are recognitions, not activities, and were not scored. The satisfactory CRA rating and fair-lending program are regulatory compliance and were not scored. The MD&A mentions participation in Tennessee's Community Investment Tax Credit program only as a tax-rate driver, with no description; it was not recorded because no complete-thought quote under about 40 words exists. Franchise lending, BHG loans to healthcare practitioners and the Freddie Mac Small Business Loan platform are ordinary lending and count as serving only. The Cross-cultural score sits on the 1/2 boundary: the filing names a Team Member Engagement team and recruiting initiatives with community organizations but gives no specifics. 'Community bank' references and the 'community bank network' of BHG loan buyers are traps and were excluded.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"PNFP\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Advertising partnership with a Nashville music venue, alongside two sports teams, used as a deposit-marketing channel\",\"quote\":\"However, its use of advertising has increased in recent years, primarily due to its partnerships with the Tennessee Titans NFL football team, The Pinnacle at Nashville Yards music venue and the Memphis Grizzlies NBA basketball team.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Products and Services > Deposit Services\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: venue partnership framed as advertising for deposit gathering, i.e. creative work used as a routine marketing input rather than direct support of artists\"}}},{\"id\":\"E2\",\"activity\":\"Three-day culture-focused orientation for all new team members, including those joining through acquisitions\",\"quote\":\"Historically, all team members joining Pinnacle, including those joining as a result of an acquisition, have participated in a three-day orientation that focuses on culture.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Corporate community giving focused on four categories: education, health and human services, economic development and the arts\",\"quote\":\"For years, we have focused our community investment efforts on giving within four categories that we believe improve the quality of life of the citizens in our communities: education, health and human services, economic development and the arts.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: ongoing community giving described by category only, with no programs, dollars or recipients disclosed (limited, borderline general language)\"}}},{\"id\":\"E4\",\"activity\":\"Workforce recruiting initiatives building networks with agencies and community organizations to broaden workforce makeup\",\"quote\":\"This workforce enhancement process includes a number of initiatives that are underway to build broader networks with additional agencies and community organizations as we look to recruit and develop future team members and leaders.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: inclusion-oriented recruiting effort described only in general terms, with no named program, partner organizations or figures\"}}},{\"id\":\"E5\",\"activity\":\"Disclosure of workforce gender and racial/ethnic composition\",\"quote\":\"At December 31, 2025, 65% of our team members were women and approximately 19% identify themselves as part of a racial or ethnic minority group.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital\",\"status\":\"current\",\"indicators\":\"65% women; approximately 19% racial or ethnic minority\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E6\",\"activity\":\"Treasury management and remote deposit services offered to small business and commercial clients\",\"quote\":\"Additionally, Pinnacle Bank offers its targeted small business and commercial clients a comprehensive array of treasury management and remote deposit services, which allow electronic deposits to be made from the client's place of business.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Products and Services > Deposit Services\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: ordinary small-business deposit and payment services, with no specific barrier-reducing program\"}}},{\"id\":\"E7\",\"activity\":\"Origination and sale of SBA loans\",\"quote\":\"SBA loan sales are also included in other noninterest income and fluctuate based on the current market conditions which is reflected in the decrease in such sales in 2025 as compared to 2024.\",\"source_doc\":\"10-K\",\"section\":\"Item 7 (targeted) > Noninterest income > Other noninterest income\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business lending mentioned only as an income line item, with no described enabling program or reach\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the only creative link is a music-venue partnership the filing frames as advertising (a routine marketing input), plus general mention of 'the arts' as a giving category with no specific activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\"],\"reason\":\"Level 2: specific current employee development (new-hire orientation) and community giving described by category only, with no programs, participants or dollars to show substantial reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\",\"E5\"],\"reason\":\"Level 1: workforce demographic statistics plus a generally described recruiting-network initiative with no named program or figures; torn between 1 and 2, so the lower level applies.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\",\"E7\"],\"reason\":\"Level 1: small-business customers served through ordinary treasury, lending and SBA loan activity, with no specific enabling program described.\"}},\"notes\":\"Merger with Synovus closed January 1, 2026, after fiscal year-end; legacy Pinnacle shares were delisted and deregistered, so future filings will cover the combined company. The orientation in E2 is described as 'historically' provided, so it is treated as current, but the wording may signal change after the merger. Workplace awards (FORTUNE, Great Place to Work, PEOPLE 'Companies That Care') are recognitions, not activities, and were not scored. The satisfactory CRA rating and fair-lending program are regulatory compliance and were not scored. The MD&A mentions participation in Tennessee's Community Investment Tax Credit program only as a tax-rate driver, with no description; it was not recorded because no complete-thought quote under about 40 words exists. Franchise lending, BHG loans to healthcare practitioners and the Freddie Mac Small Business Loan platform are ordinary lending and count as serving only. The Cross-cultural score sits on the 1/2 boundary: the filing names a Team Member Engagement team and recruiting initiatives with community organizations but gives no specifics. 'Community bank' references and the 'community bank network' of BHG loan buyers are traps and were excluded.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 46387,
+      "output_tokens": 6509,
+      "duration_ms": 60723
+    }
+  ]
+}

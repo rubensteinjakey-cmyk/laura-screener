@@ -1,0 +1,184 @@
+{
+  "ticker": "CBC",
+  "company_name": "Central Bancompany, Inc.",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-03-25",
+  "fiscal_year": 2025,
+  "accession_number": "0001628280-26-021067",
+  "scored_at": "2026-10-19T17:59:19",
+  "themes": {
+    "creativity": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "uses_as_input"
+      ],
+      "reason": "Level 1: the only creative activity is in-house designers used as a routine input to the bank's technology, and no creative product or arts activity is described.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 3: measured community volunteering of over 29,000 hours in 2025 (about 10 hours per employee), including financial education, is community investment with substantial reach shown by indicators, alongside employee development.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: based only on general language ('cultivating an inclusive, safe and healthy workplace', 'serve a diverse customer base'), with no specific inclusion, accessibility or multilingual activity described.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E4"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: the bank serves small-business customers through ordinary lending, deposits and treasury/merchant services, but describes no specific program aimed at barriers to starting or growing a business.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 1,
+    "community": 3,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 32.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "In-house technology and innovation teams of programmers and designers who build the bank's digital customer experience",
+      "quote": "Our in-house technology division and innovation teams, together employing approximately 65 programmers and designers, support these business lines and their customer experience objectives.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Business",
+      "status": "current",
+      "indicators": "approximately 65 programmers and designers",
+      "themes": {
+        "creativity": {
+          "kind": "uses_as_input",
+          "criterion": "level 1: in-house designers used only as a routine business input"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Employee volunteering in the communities the bank serves, tracked company-wide by hours",
+      "quote": "We track our community services hours, which totaled over 29,000 in 2025, or approximately 10 hours per employee.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Business > Community Aligned",
+      "status": "current",
+      "indicators": "over 29,000 community services hours in 2025; approximately 10 hours per employee",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 3: measured, company-wide volunteering covering financial education and economic development, with hour totals as indicators"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Employee learning and development, including in-house learning and support for conferences, degrees, licenses and certifications",
+      "quote": "In particular, we not only provide a number of in-house learning opportunities but also facilitate the educational and professional development of our employees through support to attend conferences and obtain degrees, licenses and certifications.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Employees",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Ordinary lending and treasury services to small and other business customers",
+      "quote": "Our long-tenured commercial lending teams originate loans to finance a wide range of our customers’ needs, including commercial, small business and government segments, while striving to maintain conservative underwriting standards.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Business Lines > Commercial Banking",
+      "status": "current",
+      "indicators": "approximately 69,000 small, middle-market and commercial business entities",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: small-business customers with no specific enabling service"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Volunteering appears twice in Item 1 (culture 'Community Aligned' bullet and Employees section, which lists financial education, economic development, human and health services and community reinvestment, plus a new program to track and reward hours); it is counted once as E2. Community 3 rests on volunteer-hour figures only, with no dollars or named program, so it is near the 2/3 boundary. Not counted: 'community bank' wording; sponsorships of community events, which are part of the deposit-marketing strategy; the CRA 'satisfactory' rating, which is regulatory; Wealth Management help with foundations' grant applications and endowments, which is a fee-based commercial service; unquantified 'community outreach' expenses in Item 7 Corporate/Other; SBA securities held as investments; 'state-of-the-art' and 'innovative' trap language. The Bank is a plaintiff in the lawsuit challenging the CFPB rule requiring small-business lending data collection, including data on women- and minority-owned businesses. This is recorded for context only and is not scored. Planned branch expansion and a planned private banking expansion are not relevant to any theme.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 289,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

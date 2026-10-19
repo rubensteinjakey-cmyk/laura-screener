@@ -1,0 +1,119 @@
+{
+  "ticker": "XOM",
+  "company_name": "ExxonMobil",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000034088-26-000045",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T17:57:08",
+  "prompt_chars": 29528,
+  "filing_chars": 9540,
+  "filing_words_sent": 1342,
+  "approx_prompt_tokens": 7382,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Career-long talent development through individually planned work experiences and training for employees",
+        "quote": "Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business > Talent development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap at 2 without external education or community investment)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Disclosure of workforce nationality mix alongside a general statement on diversity of thought",
+        "quote": "With over 59 percent of our global employees from outside the U.S. and more than 160 nationalities represented across the Company, we encourage and respect diversity of thought, ideas, and perspective from our workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business > Talent development",
+        "status": "current",
+        "indicators": "over 59 percent of our global employees from outside the U.S.; more than 160 nationalities",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics and general statements only"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Company's own proprietary research and patent portfolio",
+        "quote": "ExxonMobil held over 8 thousand active patents worldwide at the end of 2025.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business > Technology and research",
+        "status": "current",
+        "indicators": "over 8 thousand active patents",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: the company's own innovation, not enabling other ventures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description of oil, gas, chemicals and lower-emission products is sufficient to judge and shows no activity that creates or enables creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: employee development through planned experiences and training is the only qualifying activity, so the employee-development cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: the workforce discussion gives only nationality and demographic statistics plus a general diversity statement, with no specific inclusion or access activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: only the company's own innovation (research programs and patents) is described, with no service or program that enables founders or small businesses."
+      }
+    },
+    "notes": "The Item 1 human capital discussion runs to roughly 250 words, so coverage is sufficient for Community and Cross-cultural. No second look is triggered. In the Item 7 excerpts, 'foundation' refers to the Global Outlook as the basis for Corporate Plan assumptions, which is a trap term and not a community foundation. The Item 7 excerpts contain no community, education, small-business or arts activity. 'Proxxima resin systems' and the 'carbon materials' products are industrial materials, not creative work. The 'average length of service of about 30 years' figure is a retention metric, not a training-reach indicator, so it is not used to raise Community. The computed total is 0 + 12 + 4 + 3 = 19/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"XOM\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Career-long talent development through individually planned work experiences and training for employees\",\"quote\":\"Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business > Talent development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap at 2 without external education or community investment)\"}}},{\"id\":\"E2\",\"activity\":\"Disclosure of workforce nationality mix alongside a general statement on diversity of thought\",\"quote\":\"With over 59 percent of our global employees from outside the U.S. and more than 160 nationalities represented across the Company, we encourage and respect diversity of thought, ideas, and perspective from our workforce.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business > Talent development\",\"status\":\"current\",\"indicators\":\"over 59 percent of our global employees from outside the U.S.; more than 160 nationalities\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics and general statements only\"}}},{\"id\":\"E3\",\"activity\":\"Company's own proprietary research and patent portfolio\",\"quote\":\"ExxonMobil held over 8 thousand active patents worldwide at the end of 2025.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business > Technology and research\",\"status\":\"current\",\"indicators\":\"over 8 thousand active patents\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: the company's own innovation, not enabling other ventures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description of oil, gas, chemicals and lower-emission products is sufficient to judge and shows no activity that creates or enables creative work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: employee development through planned experiences and training is the only qualifying activity, so the employee-development cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: the workforce discussion gives only nationality and demographic statistics plus a general diversity statement, with no specific inclusion or access activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: only the company's own innovation (research programs and patents) is described, with no service or program that enables founders or small businesses.\"}},\"notes\":\"The Item 1 human capital discussion runs to roughly 250 words, so coverage is sufficient for Community and Cross-cultural. No second look is triggered. In the Item 7 excerpts, 'foundation' refers to the Global Outlook as the basis for Corporate Plan assumptions, which is a trap term and not a community foundation. The Item 7 excerpts contain no community, education, small-business or arts activity. 'Proxxima resin systems' and the 'carbon materials' products are industrial materials, not creative work. The 'average length of service of about 30 years' figure is a retention metric, not a training-reach indicator, so it is not used to raise Community. The computed total is 0 + 12 + 4 + 3 = 19/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 10931,
+      "output_tokens": 2500,
+      "duration_ms": 23188
+    }
+  ]
+}

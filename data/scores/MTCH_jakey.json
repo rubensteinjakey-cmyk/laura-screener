@@ -1,0 +1,150 @@
+{
+  "ticker": "MTCH",
+  "company_name": "Match Group",
+  "sector": "Communication Services",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000891103-26-000025",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:04:57",
+  "prompt_chars": 62868,
+  "filing_chars": 42862,
+  "filing_words_sent": 6303,
+  "approx_prompt_tokens": 15717,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Creates marketing content and partners with influencers to promote its dating apps",
+        "quote": "Our online marketing activities generally consist of purchasing social media advertising, advertising on streaming services, banner, and other display advertising, search engine marketing, email campaigns, video advertising, business development or partnership arrangements, creating content, and partnering with influencers, among other means to promote our services.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sales and marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used only as a routine business input (marketing content)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Operates a set of named affinity-based dating brands serving communities defined by shared culture, values or experiences",
+        "quote": "BLK®, Chispa®, Upward®, Salams®, HER®, Archer®, Yuzu®, The League®, and other affinity-based brands, serve communities defined by shared culture, values, or experiences.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our portfolio > Evergreen & Emerging (\"E&E\")",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: named, ongoing services built for specific cultural and identity communities, which management describes as one of three strategic portfolio dimensions (Familiarity)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Azar video chat service lets users meet people across the globe in their native language",
+        "quote": "Azar is a one-to-one video chat service that allows users to meet and interact with a variety of people across the globe in their native language.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our portfolio > Match Group Asia (\"MG Asia\")",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific current service connecting people across countries and languages, with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Employee talent, learning and development programs",
+        "quote": "Our talent, learning and development programs provide employees with resources to help achieve their career goals, build strong foundational technical and leadership skills, and contribute to and, where applicable, lead their organizations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 1: generic description of unnamed employee programs with no specifics"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Workforce distribution by region and statement of workforce diversity",
+        "quote": "As of December 31, 2025, approximately 64%, 21%, 13%, and 2% of our employees reside in the North America, Asia-Pacific, EMEA, and Latin America regions, respectively, spanning 17 countries and reflecting various cultures, backgrounds, ages, sexes, sexual orientations, and ethnicities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human capital",
+        "status": "current",
+        "indicators": "64%, 21%, 13%, and 2% of employees by region; 17 countries",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only creative activity is marketing content and influencer partnerships, which are a routine business input, and the core dating and social connection apps neither create nor enable creative work."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the human capital section is over 150 words but describes only generic, unnamed employee learning programs; with no external education or community investment disclosed, the score falls between levels 1 and 2 and the lower level is chosen."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 3: multiple named, ongoing affinity brands serve communities defined by shared culture or experiences and are positioned by management as one of three strategic portfolio dimensions (Familiarity), plus Azar connects users across the globe in their native language; no measured reach is disclosed, so level 4 is not met."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description is a consumer dating and social connection service with no small-business customers or enabling programs; mentions of innovation and empowering internal brand leaders are traps."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so no MD&A evidence was available. The Familiarity strategic dimension ('serving communities defined by shared values, culture, or experiences') describes the same affinity brands as E2, so it supports E2's significance and is not counted separately. Azar was removed from the Apple App Store on February 22, 2026, after the fiscal year. It remains available on the web and Google Play, so it is still treated as current. Pairs is 'designed to address social barriers' around dating-app stigma in Japan; this is not treated as cross-cultural inclusion because operating in a foreign market does not count. Tinder serving 18–30 year-olds who were 'historically underserved' is about age and is not counted. 'Communities of users' and 'sense of community' describe a dating user base, not the education or collaboration that the Community theme asks for, so they are not scored there. Hinge Video and Voice Prompts are user self-presentation features, not creative work. Headcount fell about 12% in 2025 due to a cost-reduction initiative. No coverage is insufficient, so no second look is triggered.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\n  \"ticker\": \"MTCH\",\n  \"sector\": \"Communication Services\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Item 1\", \"Item 7 (targeted)\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Creates marketing content and partners with influencers to promote its dating apps\",\n      \"quote\": \"Our online marketing activities generally consist of purchasing social media advertising, advertising on streaming services, banner, and other display advertising, search engine marketing, email campaigns, video advertising, business development or partnership arrangements, creating content, and partnering with influencers, among other means to promote our services.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Sales and marketing\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"creativity\": {\"kind\": \"uses_as_input\", \"criterion\": \"level 1: creative work used only as a routine business input (marketing content)\"}\n      }\n    },\n    {\n      \"id\": \"E2\",\n      \"activity\": \"Operates a set of named affinity-based dating brands serving communities defined by shared culture, values or experiences\",\n      \"quote\": \"BLK®, Chispa®, Upward®, Salams®, HER®, Archer®, Yuzu®, The League®, and other affinity-based brands, serve communities defined by shared culture, values, or experiences.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Our portfolio > Evergreen & Emerging (\\\"E&E\\\")\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"customer_access\", \"criterion\": \"level 3: named, ongoing services built for specific cultural and identity communities, which management describes as one of three strategic portfolio dimensions (Familiarity)\"}\n      }\n    },\n    {\n      \"id\": \"E3\",\n      \"activity\": \"Azar video chat service lets users meet people across the globe in their native language\",\n      \"quote\": \"Azar is a one-to-one video chat service that allows users to meet and interact with a variety of people across the globe in their native language.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Our portfolio > Match Group Asia (\\\"MG Asia\\\")\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"connecting_communities\", \"criterion\": \"level 2: specific current service connecting people across countries and languages, with no reach figures\"}\n      }\n    },\n    {\n      \"id\": \"E4\",\n      \"activity\": \"Employee talent, learning and development programs\",\n      \"quote\": \"Our talent, learning and development programs provide employees with resources to help achieve their career goals, build strong foundational technical and leadership skills, and contribute to and, where applicable, lead their organizations.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Human capital\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 1: generic description of unnamed employee programs with no specifics\"}\n      }\n    },\n    {\n      \"id\": \"E5\",\n      \"activity\": \"Workforce distribution by region and statement of workforce diversity\",\n      \"quote\": \"As of December 31, 2025, approximately 64%, 21%, 13%, and 2% of our employees reside in the North America, Asia-Pacific, EMEA, and Latin America regions, respectively, spanning 17 countries and reflecting various cultures, backgrounds, ages, sexes, sexual orientations, and ethnicities.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Human capital\",\n      \"status\": \"current\",\n      \"indicators\": \"64%, 21%, 13%, and 2% of employees by region; 17 countries\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"demographics_only\", \"criterion\": \"level 1: demographic statistics only\"}\n      }\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\"score\": 1, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\"], \"reason\": \"Level 1: the only creative activity is marketing content and influencer partnerships, which are a routine business input, and the core dating and social connection apps neither create nor enable creative work.\"},\n    \"community\": {\"score\": 1, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E4\"], \"reason\": \"Level 1: the human capital section is over 150 words but describes only generic, unnamed employee learning programs; with no external education or community investment disclosed, the score falls between levels 1 and 2 and the lower level is chosen.\"},\n    \"cross_cultural\": {\"score\": 3, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E2\", \"E3\"], \"reason\": \"Level 3: multiple named, ongoing affinity brands serve communities defined by shared culture or experiences and are positioned by management as one of three strategic portfolio dimensions (Familiarity), plus Azar connects users across the globe in their native language; no measured reach is disclosed, so level 4 is not met.\"},\n    \"entrepreneurship\": {\"score\": 0, \"coverage\": \"sufficient\", \"evidence_ids\": [], \"reason\": \"Level 0: the business description is a consumer dating and social connection service with no small-business customers or enabling programs; mentions of innovation and empowering internal brand leaders are traps.\"}\n  },\n  \"notes\": \"The Item 7 targeted excerpt was empty, so no MD&A evidence was available. The Familiarity strategic dimension ('serving communities defined by shared values, culture, or experiences') describes the same affinity brands as E2, so it supports E2's significance and is not counted separately. Azar was removed from the Apple App Store on February 22, 2026, after the fiscal year. It remains available on the web and Google Play, so it is still treated as current. Pairs is 'designed to address social barriers' around dating-app stigma in Japan; this is not treated as cross-cultural inclusion because operating in a foreign market does not count. Tinder serving 18–30 year-olds who were 'historically underserved' is about age and is not counted. 'Communities of users' and 'sense of community' describe a dating user base, not the education or collaboration that the Community theme asks for, so they are not scored there. Hinge Video and Voice Prompts are user self-presentation features, not creative work. Headcount fell about 12% in 2025 due to a cost-reduction initiative. No coverage is insufficient, so no second look is triggered.\"\n}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20939,
+      "output_tokens": 6171,
+      "duration_ms": 56687
+    }
+  ]
+}

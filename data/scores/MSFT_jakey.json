@@ -1,0 +1,151 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-323660",
+  "filing_date": "2026-07-29",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T18:00:40",
+  "prompt_chars": 63720,
+  "filing_chars": 43716,
+  "filing_words_sent": 6142,
+  "approx_prompt_tokens": 15930,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "First-party game studios create original video games for the XBOX business",
+        "quote": "Our game content is developed through a collection of first-party studios creating iconic and differentiated gaming experiences.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Operating Segments > More Personal Computing > XBOX",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "creates",
+            "criterion": "level 3: named product line (XBOX first- and third-party content) of a reported segment creating original games, but no revenue, user or customer figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Generative AI training and digital skilling programs, grants and LinkedIn learning pathways for people outside the company",
+        "quote": "Providing training on generative AI and greater access to digital learning and resources through skilling programs and initiatives, grants, and LinkedIn learning pathways.",
+        "source_doc": "10-K",
+        "section": "Item 1 > General > Our Future Opportunity",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, no named program or reach figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Paid training and certification for developers and IT professionals on Microsoft products",
+        "quote": "Enterprise and partner services assist customers in developing, deploying, and managing Microsoft server solutions, Microsoft desktop solutions, and conversational AI and ambient intelligent solutions, along with providing training and certification to developers and IT professionals on various Microsoft products.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Operating Segments > Intelligent Cloud > Enterprise and Partner Services",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "education_business",
+            "criterion": "level 2: specific current training and certification service, minor and unquantified"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Continuous learning access for employees through internal and external content",
+        "quote": "We also provide access to continuous learning through a wide range of internal and external content, supporting professional growth across roles and disciplines.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Dynamics business applications sold to small and medium businesses among other customers",
+        "quote": "Dynamics provides cloud-based and on-premises business solutions for financial management, enterprise resource planning (“ERP”), customer relationship management (“CRM”), and supply chain management, as well as agentic AI and other low code application development platforms, for small and medium businesses, large organizations, and divisions of global enterprises.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Operating Segments > Productivity and Business Processes > Dynamics Products and Cloud Services",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small and medium businesses are one customer group among large enterprises, with no specific enabling program"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 3: XBOX first-party studios create original games as a named product line of a reported segment, but the filing gives no XBOX revenue, user or customer figures, so level 4 is not met."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: the filing shows specific external skilling programs, grants and product training and certification, plus employee learning, but gives no named program, participant counts or dollar figures to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the Human Capital section exceeds 150 words but offers only general language (monitoring pay equity across multiple dimensions, opportunity for every country and community), with no specific inclusion, accessibility or multilingual activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 1: small and medium businesses appear only as customers of Dynamics, Microsoft 365, Windows and the licensing programs, with no specific enabling program aimed at founders or small-business barriers."
+      }
+    },
+    "notes": "Creativity was held at 3 rather than 4 because the provided text gives no XBOX revenue, user or customer figures, although XBOX is a named product line within the More Personal Computing segment. 'Billions of people' describes the market, not company reach, so it was not used as an indicator. XBOX also enables third-party developers and 'new content creators' through Game Pass and digital stores; this was not recorded separately to avoid double counting within Creativity, and it was judged too nonspecific for Entrepreneurship. 'Accessible on XBOX consoles' refers to device availability, not disability accessibility, so it was not counted. The Item 7 excerpt (OpenAI partnership) contains no qualifying activity; 'partnership' and 'accessible' there are trap usages. Trap terms ignored: 'collaboration' meaning software products, 'licensing' of patents, 'design' of devices, 'content' meaning advertising or web content, 'community' meaning external development community, and small niche businesses mentioned as competitors. The Sustainability Report reference covers environmental goals only, so it does not trigger insufficient coverage.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"MSFT\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"First-party game studios create original video games for the XBOX business\",\"quote\":\"Our game content is developed through a collection of first-party studios creating iconic and differentiated gaming experiences.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Operating Segments > More Personal Computing > XBOX\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"creates\",\"criterion\":\"level 3: named product line (XBOX first- and third-party content) of a reported segment creating original games, but no revenue, user or customer figures disclosed\"}}},{\"id\":\"E2\",\"activity\":\"Generative AI training and digital skilling programs, grants and LinkedIn learning pathways for people outside the company\",\"quote\":\"Providing training on generative AI and greater access to digital learning and resources through skilling programs and initiatives, grants, and LinkedIn learning pathways.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > General > Our Future Opportunity\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, no named program or reach figures\"}}},{\"id\":\"E3\",\"activity\":\"Paid training and certification for developers and IT professionals on Microsoft products\",\"quote\":\"Enterprise and partner services assist customers in developing, deploying, and managing Microsoft server solutions, Microsoft desktop solutions, and conversational AI and ambient intelligent solutions, along with providing training and certification to developers and IT professionals on various Microsoft products.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Operating Segments > Intelligent Cloud > Enterprise and Partner Services\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"education_business\",\"criterion\":\"level 2: specific current training and certification service, minor and unquantified\"}}},{\"id\":\"E4\",\"activity\":\"Continuous learning access for employees through internal and external content\",\"quote\":\"We also provide access to continuous learning through a wide range of internal and external content, supporting professional growth across roles and disciplines.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E5\",\"activity\":\"Dynamics business applications sold to small and medium businesses among other customers\",\"quote\":\"Dynamics provides cloud-based and on-premises business solutions for financial management, enterprise resource planning (“ERP”), customer relationship management (“CRM”), and supply chain management, as well as agentic AI and other low code application development platforms, for small and medium businesses, large organizations, and divisions of global enterprises.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Operating Segments > Productivity and Business Processes > Dynamics Products and Cloud Services\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small and medium businesses are one customer group among large enterprises, with no specific enabling program\"}}}],\"themes\":{\"creativity\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 3: XBOX first-party studios create original games as a named product line of a reported segment, but the filing gives no XBOX revenue, user or customer figures, so level 4 is not met.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: the filing shows specific external skilling programs, grants and product training and certification, plus employee learning, but gives no named program, participant counts or dollar figures to show substantial reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: the Human Capital section exceeds 150 words but offers only general language (monitoring pay equity across multiple dimensions, opportunity for every country and community), with no specific inclusion, accessibility or multilingual activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 1: small and medium businesses appear only as customers of Dynamics, Microsoft 365, Windows and the licensing programs, with no specific enabling program aimed at founders or small-business barriers.\"}},\"notes\":\"Creativity was held at 3 rather than 4 because the provided text gives no XBOX revenue, user or customer figures, although XBOX is a named product line within the More Personal Computing segment. 'Billions of people' describes the market, not company reach, so it was not used as an indicator. XBOX also enables third-party developers and 'new content creators' through Game Pass and digital stores; this was not recorded separately to avoid double counting within Creativity, and it was judged too nonspecific for Entrepreneurship. 'Accessible on XBOX consoles' refers to device availability, not disability accessibility, so it was not counted. The Item 7 excerpt (OpenAI partnership) contains no qualifying activity; 'partnership' and 'accessible' there are trap usages. Trap terms ignored: 'collaboration' meaning software products, 'licensing' of patents, 'design' of devices, 'content' meaning advertising or web content, 'community' meaning external development community, and small niche businesses mentioned as competitors. The Sustainability Report reference covers environmental goals only, so it does not trigger insufficient coverage.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 21209,
+      "output_tokens": 4873,
+      "duration_ms": 45085
+    }
+  ]
+}

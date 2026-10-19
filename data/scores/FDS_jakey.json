@@ -1,0 +1,134 @@
+{
+  "ticker": "FDS",
+  "company_name": "FactSet",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-25-045769",
+  "filing_date": "2025-10-22",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:15:17",
+  "prompt_chars": 57658,
+  "filing_chars": 37669,
+  "filing_words_sent": 5385,
+  "approx_prompt_tokens": 14414,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company-wide learning programs for employees, including mentorship, leadership development and the EXCEL program",
+        "quote": "In fiscal 2025, 94% of employees participated in learning programs, completing 339,000 hours globally.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Workforce Strategy and Talent Development",
+        "status": "current",
+        "indicators": "94% of employees participated; 339,000 hours",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee volunteering and philanthropic initiatives focused on education, hunger alleviation, environmental protection and disaster response",
+        "quote": "In fiscal 2025, FactSet employees contributed 17,200 volunteer hours across 391 events, with more than 85% of employees participating in philanthropic initiatives focused on education, hunger alleviation, environmental protection, and disaster response.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Employee Engagement and Culture > Corporate Responsibility and Purpose",
+        "status": "current",
+        "indicators": "17,200 volunteer hours; 391 events; more than 85% of employees participating",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment (volunteering) with substantial reach shown by indicators"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Named annual Hunger Awareness program donating meals",
+        "quote": "Programs such as Hunger Awareness, one of FactSet’s largest annual initiatives, have resulted in over 9 million meals donated since 2019, reinforcing a culture of purpose while enhancing employee engagement and collective impact.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Employee Engagement and Culture > Flagship Initiatives",
+        "status": "current",
+        "indicators": "over 9 million meals donated since 2019",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing community program with measured reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Business resource groups open to all employees that drive inclusion initiatives",
+        "quote": "FactSet supports a network of site-level culture committees, business resource groups open to all employees, and wellness champions, empowering employees to drive inclusion, well-being, and local engagement initiatives.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Employee Engagement and Culture > Employee-Led Engagement Programs",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee resource groups with no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers financial data, analytics and workflow software in detail and shows no creating or enabling of creative work. Mentions of 'content', 'pitch creation' and 'product design' are trap or routine-input uses."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 3: alongside employee development, the filing shows community investment with substantial measured reach, namely 17,200 volunteer hours across 391 events and the named Hunger Awareness program with over 9 million meals donated, but nothing indicates it is central to strategy."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 2: business resource groups open to all employees that drive inclusion are a specific current internal practice with no membership figures. International offices and the geographic workforce split do not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own innovation. Private equity and venture capital professionals appear as clients, but the filing describes no specific service enabling founders or small businesses."
+      }
+    },
+    "notes": "Item 7 (targeted) section was empty, so no MD&A paragraphs matched the theme terms. E2 (employee volunteering) and E3 (Hunger Awareness meal donations) are listed as separate activities, but Hunger Awareness may partly overlap with the volunteer events; Community stays at 3 on either record alone. 'Building community within our Dealmakers & Wealth space' in an executive bio is a client-relationship use and was not counted. Entrepreneurship sat between 0 and 1: 'innovation' is a listed trap, but the ladder places the company's own innovation at level 1. It was scored 1 with no evidence record. Creativity scored 0 since no creative involvement of any kind was found.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"FDS\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Company-wide learning programs for employees, including mentorship, leadership development and the EXCEL program\",\"quote\":\"In fiscal 2025, 94% of employees participated in learning programs, completing 339,000 hours globally.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Workforce Strategy and Talent Development\",\"status\":\"current\",\"indicators\":\"94% of employees participated; 339,000 hours\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E2\",\"activity\":\"Employee volunteering and philanthropic initiatives focused on education, hunger alleviation, environmental protection and disaster response\",\"quote\":\"In fiscal 2025, FactSet employees contributed 17,200 volunteer hours across 391 events, with more than 85% of employees participating in philanthropic initiatives focused on education, hunger alleviation, environmental protection, and disaster response.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Employee Engagement and Culture > Corporate Responsibility and Purpose\",\"status\":\"current\",\"indicators\":\"17,200 volunteer hours; 391 events; more than 85% of employees participating\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment (volunteering) with substantial reach shown by indicators\"}}},{\"id\":\"E3\",\"activity\":\"Named annual Hunger Awareness program donating meals\",\"quote\":\"Programs such as Hunger Awareness, one of FactSet’s largest annual initiatives, have resulted in over 9 million meals donated since 2019, reinforcing a culture of purpose while enhancing employee engagement and collective impact.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Employee Engagement and Culture > Flagship Initiatives\",\"status\":\"current\",\"indicators\":\"over 9 million meals donated since 2019\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing community program with measured reach\"}}},{\"id\":\"E4\",\"activity\":\"Business resource groups open to all employees that drive inclusion initiatives\",\"quote\":\"FactSet supports a network of site-level culture committees, business resource groups open to all employees, and wellness champions, empowering employees to drive inclusion, well-being, and local engagement initiatives.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Employee Engagement and Culture > Employee-Led Engagement Programs\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee resource groups with no figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers financial data, analytics and workflow software in detail and shows no creating or enabling of creative work. Mentions of 'content', 'pitch creation' and 'product design' are trap or routine-input uses.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 3: alongside employee development, the filing shows community investment with substantial measured reach, namely 17,200 volunteer hours across 391 events and the named Hunger Awareness program with over 9 million meals donated, but nothing indicates it is central to strategy.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 2: business resource groups open to all employees that drive inclusion are a specific current internal practice with no membership figures. International offices and the geographic workforce split do not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own innovation. Private equity and venture capital professionals appear as clients, but the filing describes no specific service enabling founders or small businesses.\"}},\"notes\":\"Item 7 (targeted) section was empty, so no MD&A paragraphs matched the theme terms. E2 (employee volunteering) and E3 (Hunger Awareness meal donations) are listed as separate activities, but Hunger Awareness may partly overlap with the volunteer events; Community stays at 3 on either record alone. 'Building community within our Dealmakers & Wealth space' in an executive bio is a client-relationship use and was not counted. Entrepreneurship sat between 0 and 1: 'innovation' is a listed trap, but the ladder places the company's own innovation at level 1. It was scored 1 with no evidence record. Creativity scored 0 since no creative involvement of any kind was found.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20227,
+      "output_tokens": 3387,
+      "duration_ms": 31932
+    }
+  ]
+}

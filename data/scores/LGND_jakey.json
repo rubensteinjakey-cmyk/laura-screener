@@ -1,0 +1,135 @@
+{
+  "ticker": "LGND",
+  "company_name": "Ligand Pharmaceuticals, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000886163-26-000006",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:06:40",
+  "prompt_chars": 102430,
+  "filing_chars": 82418,
+  "filing_words_sent": 11841,
+  "approx_prompt_tokens": 25607,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Invests in employee education and career development, including a tuition assistance program listed among employee benefits",
+        "quote": "We are proud to provide our employees the opportunity to grow and advance as we invest in their education and career development.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap); tuition assistance program listed in the same section"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Made charitable donations during the reporting year through ESG-focused outreach",
+        "quote": "In early 2025, we completed our $2.6 million solar investment at Kansas University Innovation Park; made Environmental, Social and Governance (“ESG”) related charitable donations; and evolved numerous programs from our ESG-focused outreach committees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Environmental, Health and Safety (“EHS”)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community giving, limited and unquantified reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Discloses workforce ethnic and gender composition",
+        "quote": "As of December 31, 2025, approximately 21% and 11% of our workforce are Asian and Hispanic, respectively.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "21%, 11%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Provides development-stage capital to biopharma companies' late-stage clinical programs in exchange for royalties",
+        "quote": "Project finance and other development-stage financing arrangements involves the provision of development capital to fund late-stage clinical programs in return for royalty contracts that we negotiate, creating synthetic royalties on the future sales of those products.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Strategy and Execution > Investment Strategy",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: ordinary commercial financing of companies, not a specific program aimed at barriers for founders or small businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is biopharmaceutical royalty aggregation and drug/patent licensing (a trap), with no creative activity described."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: employee education investment including tuition assistance, plus unquantified ESG charitable donations, which are specific but limited in disclosed reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: only workforce demographic statistics and general diversity, inclusion and anti-discrimination language, with no described inclusion practice."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: royalty and development-stage financing for biopharma companies serves companies commercially but is not a named program aimed at barriers for founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 (targeted) section contained no text, so all scoring rests on Item 1. 'Licensing', 'collaboration' and 'partner' language throughout refers to drug and patent deals (traps) and was not counted. The 10-K points to www.ligand.com for ESG policies but also describes specific activities itself, so coverage is not insufficient. 'Diversity and inclusion initiatives' is named without any described practice, so it is treated as a label (max 1). The $2.6 million solar investment in the quoted EHS sentence is environmental, not a community or education figure, so it is not used as an indicator for the donations. Past spin-offs (OmniAb, Pelican, Pelthos carve-out) are not relevant to any theme. Workforce is small (47 full-time employees).",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"LGND\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Invests in employee education and career development, including a tuition assistance program listed among employee benefits\",\"quote\":\"We are proud to provide our employees the opportunity to grow and advance as we invest in their education and career development.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap); tuition assistance program listed in the same section\"}}},{\"id\":\"E2\",\"activity\":\"Made charitable donations during the reporting year through ESG-focused outreach\",\"quote\":\"In early 2025, we completed our $2.6 million solar investment at Kansas University Innovation Park; made Environmental, Social and Governance (“ESG”) related charitable donations; and evolved numerous programs from our ESG-focused outreach committees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Environmental, Health and Safety (“EHS”)\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community giving, limited and unquantified reach\"}}},{\"id\":\"E3\",\"activity\":\"Discloses workforce ethnic and gender composition\",\"quote\":\"As of December 31, 2025, approximately 21% and 11% of our workforce are Asian and Hispanic, respectively.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"21%, 11%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce demographic statistics only\"}}},{\"id\":\"E4\",\"activity\":\"Provides development-stage capital to biopharma companies' late-stage clinical programs in exchange for royalties\",\"quote\":\"Project finance and other development-stage financing arrangements involves the provision of development capital to fund late-stage clinical programs in return for royalty contracts that we negotiate, creating synthetic royalties on the future sales of those products.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Strategy and Execution > Investment Strategy\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: ordinary commercial financing of companies, not a specific program aimed at barriers for founders or small businesses\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is biopharmaceutical royalty aggregation and drug/patent licensing (a trap), with no creative activity described.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: employee education investment including tuition assistance, plus unquantified ESG charitable donations, which are specific but limited in disclosed reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: only workforce demographic statistics and general diversity, inclusion and anti-discrimination language, with no described inclusion practice.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: royalty and development-stage financing for biopharma companies serves companies commercially but is not a named program aimed at barriers for founders or small businesses.\"}},\"notes\":\"The Item 7 (targeted) section contained no text, so all scoring rests on Item 1. 'Licensing', 'collaboration' and 'partner' language throughout refers to drug and patent deals (traps) and was not counted. The 10-K points to www.ligand.com for ESG policies but also describes specific activities itself, so coverage is not insufficient. 'Diversity and inclusion initiatives' is named without any described practice, so it is treated as a label (max 1). The $2.6 million solar investment in the quoted EHS sentence is environmental, not a community or education figure, so it is not used as an indicator for the donations. Past spin-offs (OmniAb, Pelican, Pelthos carve-out) are not relevant to any theme. Workforce is small (47 full-time employees).\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 36792,
+      "output_tokens": 4034,
+      "duration_ms": 39702
+    }
+  ]
+}

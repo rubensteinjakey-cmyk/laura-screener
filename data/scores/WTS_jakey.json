@@ -1,0 +1,198 @@
+{
+  "ticker": "WTS",
+  "company_name": "Watts Water Technologies",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001104659-26-018541",
+  "filing_date": "2026-02-23",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:12:51",
+  "prompt_chars": 83004,
+  "filing_chars": 62997,
+  "filing_words_sent": 9185,
+  "approx_prompt_tokens": 20751,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Ongoing charitable partnership with the Planet Water Foundation, funding clean-water systems and disaster response projects, alongside donations and employee volunteering",
+        "quote": "One example was our ongoing partnership with the Planet Water Foundation.",
+        "source_doc": "10-K",
+        "section": "Item 1 > ESG and Sustainability > Social Responsibility",
+        "status": "current",
+        "indicators": "six AquaTowers and AquaSan systems; four emergency disaster response projects",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach (project counts only, no people reached or dollars disclosed)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Formal apprenticeship program to develop hard-to-fill skilled trades",
+        "quote": "We utilize a formal apprenticeship program to develop hard-to-fill skills trades.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Acquisition",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current apprenticeship program, no reach figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "College internship program for early-career talent",
+        "quote": "We provide a robust college internship program to identify and cultivate an early-in-career pipeline of talent.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Acquisition",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current internship program, no reach figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Training and development catalog for employees delivered with external vendors",
+        "quote": "We partner with external vendors to offer leadership and professional development opportunities such as coaching for improved performance, time management, project management, Generative AI in the workplace, data analytics, critical thinking and problem solving.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Professional Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "On-demand LinkedIn Learning courses for employees",
+        "quote": "We provide a comprehensive suite of online LinkedIn Learning courses to supplement live, instructor-led training.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Professional Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Employee resource groups, expanded into Europe with executive sponsors",
+        "quote": "In 2025, we expanded our employee resource group footprint into Europe and appointed executive sponsors to each group to ensure leadership alignment and support.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Culture & Employee Experience",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Pay transparency framework and regular pay equity analyses",
+        "quote": "We have implemented a comprehensive pay transparency framework, and we conduct regular pay equity analyses.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Culture & Employee Experience",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusive workplace practice, limited reach disclosed"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Recruiting outreach to candidate pools from different backgrounds",
+        "quote": "We employ varying sourcing strategies and technology platforms to increase our outreach to candidate pools of all different backgrounds.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Acquisition",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusive recruiting practice, no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers water, flow-control and HVAC products in detail and shows no creative activity; 'design' refers only to engineering and product design."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: specific current community investment (Planet Water partnership), apprenticeship and internship programs, and employee development, all with limited disclosed reach (project counts only, no people or dollars), so level 3 is not met."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6",
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 2: specific current internal practices, including employee resource groups without membership figures, pay equity analyses and broad recruiting outreach."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: customers are wholesalers, OEMs, specialty distributors and DIY chains, and the filing shows no service or program that enables founders or small businesses; references to innovation are a trap and do not count."
+      }
+    },
+    "notes": "Final score = 0 + 12 + 8 + 0 = 20/100. Product education for channel partners, installers and designers (Online Courses, Lunch and Learns, CEUs) sits under Marketing and Sales and was treated as the 'educating customers as marketing' trap, so it is excluded. The Item 7 word 'foundation' refers to the smart and connected products foundation, which is a trap. CEO service on The Water Council board is an individual role, not a company activity. The Watts China 'Great Place to Work for Women' certification and the Top Places to Work recognitions are awards, not activities. Apprenticeship and internship programs sit under Talent Acquisition and act partly as hiring pipelines; they were tagged external_education but do not change the level 2 result. The filing points to the Sustainability Report for more, but discloses specific activities itself, so coverage is sufficient.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"WTS\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Ongoing charitable partnership with the Planet Water Foundation, funding clean-water systems and disaster response projects, alongside donations and employee volunteering\",\"quote\":\"One example was our ongoing partnership with the Planet Water Foundation.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > ESG and Sustainability > Social Responsibility\",\"status\":\"current\",\"indicators\":\"six AquaTowers and AquaSan systems; four emergency disaster response projects\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach (project counts only, no people reached or dollars disclosed)\"}}},{\"id\":\"E2\",\"activity\":\"Formal apprenticeship program to develop hard-to-fill skilled trades\",\"quote\":\"We utilize a formal apprenticeship program to develop hard-to-fill skills trades.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Acquisition\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current apprenticeship program, no reach figures disclosed\"}}},{\"id\":\"E3\",\"activity\":\"College internship program for early-career talent\",\"quote\":\"We provide a robust college internship program to identify and cultivate an early-in-career pipeline of talent.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Acquisition\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current internship program, no reach figures disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Training and development catalog for employees delivered with external vendors\",\"quote\":\"We partner with external vendors to offer leadership and professional development opportunities such as coaching for improved performance, time management, project management, Generative AI in the workplace, data analytics, critical thinking and problem solving.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Professional Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E5\",\"activity\":\"On-demand LinkedIn Learning courses for employees\",\"quote\":\"We provide a comprehensive suite of online LinkedIn Learning courses to supplement live, instructor-led training.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Professional Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E6\",\"activity\":\"Employee resource groups, expanded into Europe with executive sponsors\",\"quote\":\"In 2025, we expanded our employee resource group footprint into Europe and appointed executive sponsors to each group to ensure leadership alignment and support.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Culture & Employee Experience\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}},{\"id\":\"E7\",\"activity\":\"Pay transparency framework and regular pay equity analyses\",\"quote\":\"We have implemented a comprehensive pay transparency framework, and we conduct regular pay equity analyses.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Culture & Employee Experience\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusive workplace practice, limited reach disclosed\"}}},{\"id\":\"E8\",\"activity\":\"Recruiting outreach to candidate pools from different backgrounds\",\"quote\":\"We employ varying sourcing strategies and technology platforms to increase our outreach to candidate pools of all different backgrounds.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Acquisition\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusive recruiting practice, no figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers water, flow-control and HVAC products in detail and shows no creative activity; 'design' refers only to engineering and product design.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 2: specific current community investment (Planet Water partnership), apprenticeship and internship programs, and employee development, all with limited disclosed reach (project counts only, no people or dollars), so level 3 is not met.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\",\"E7\",\"E8\"],\"reason\":\"Level 2: specific current internal practices, including employee resource groups without membership figures, pay equity analyses and broad recruiting outreach.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: customers are wholesalers, OEMs, specialty distributors and DIY chains, and the filing shows no service or program that enables founders or small businesses; references to innovation are a trap and do not count.\"}},\"notes\":\"Final score = 0 + 12 + 8 + 0 = 20/100. Product education for channel partners, installers and designers (Online Courses, Lunch and Learns, CEUs) sits under Marketing and Sales and was treated as the 'educating customers as marketing' trap, so it is excluded. The Item 7 word 'foundation' refers to the smart and connected products foundation, which is a trap. CEO service on The Water Council board is an individual role, not a company activity. The Watts China 'Great Place to Work for Women' certification and the Top Places to Work recognitions are awards, not activities. Apprenticeship and internship programs sit under Talent Acquisition and act partly as hiring pipelines; they were tagged external_education but do not change the level 2 result. The filing points to the Sustainability Report for more, but discloses specific activities itself, so coverage is sufficient.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 27564,
+      "output_tokens": 5356,
+      "duration_ms": 47336
+    }
+  ]
+}

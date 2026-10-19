@@ -1,0 +1,101 @@
+{
+  "ticker": "IESC",
+  "company_name": "IES Holdings",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001048268-25-000174",
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T18:15:44",
+  "prompt_chars": 64416,
+  "filing_chars": 44420,
+  "filing_words_sent": 6441,
+  "approx_prompt_tokens": 16104,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Two dedicated residential education centers that train employees from across the country in electrical, plumbing and HVAC trade skills",
+        "quote": "For example, our Residential segment has established two residential education centers, which are dedicated facilities that train employees from around the country in the technical skills necessary for successful careers in residential electrical, plumbing and HVAC contracting.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Recruiting and Training",
+        "status": "current",
+        "indicators": "two residential education centers",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Online training offerings for the mobile workforce across all segments",
+        "quote": "At all of our segments, we also include online training offerings to help meet the needs of our often mobile workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Recruiting and Training",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description (electrical, communications and infrastructure contracting and manufacturing) shows no creative activity; 'design' refers to engineering and installation design, which is a listed trap."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: the only qualifying activities are employee development (two residential education centers and online training), so Community is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language, namely a 'committed to diversity and inclusion' statement and equal-opportunity non-discrimination boilerplate, with no specific inclusion practice or customer-access activity described."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: there is no enabling service or program for founders or small businesses; small, privately owned contractors appear only as competitors, which is a listed trap, and the mention of 'independent businesses' as data center customers does not clearly identify small-business customers."
+      }
+    },
+    "notes": "The Communications segment has a partnership with the U.S. Army that guarantees job interviews to people who completed Army Reserve training or a first term of active duty. This is a recruiting pipeline, not external education, community investment or a cross-cultural access program, so it was not scored (choosing the lower level when torn). Safety training and cyber security training were treated as compliance-type training and not scored. In Item 7, 'education and healthcare end markets' refers to construction customers, not an education activity. Audio/visual system installation is technical installation, not creative work. The Community and Cross-cultural human capital discussion is well over 150 words and gives no cross-reference, so coverage is sufficient and no second look is triggered. Indicative total: 0 + 12 + 4 + 0 = 16/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"IESC\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Two dedicated residential education centers that train employees from across the country in electrical, plumbing and HVAC trade skills\",\"quote\":\"For example, our Residential segment has established two residential education centers, which are dedicated facilities that train employees from around the country in the technical skills necessary for successful careers in residential electrical, plumbing and HVAC contracting.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Recruiting and Training\",\"status\":\"current\",\"indicators\":\"two residential education centers\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Online training offerings for the mobile workforce across all segments\",\"quote\":\"At all of our segments, we also include online training offerings to help meet the needs of our often mobile workforce.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Recruiting and Training\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description (electrical, communications and infrastructure contracting and manufacturing) shows no creative activity; 'design' refers to engineering and installation design, which is a listed trap.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: the only qualifying activities are employee development (two residential education centers and online training), so Community is capped at 2.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language, namely a 'committed to diversity and inclusion' statement and equal-opportunity non-discrimination boilerplate, with no specific inclusion practice or customer-access activity described.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: there is no enabling service or program for founders or small businesses; small, privately owned contractors appear only as competitors, which is a listed trap, and the mention of 'independent businesses' as data center customers does not clearly identify small-business customers.\"}},\"notes\":\"The Communications segment has a partnership with the U.S. Army that guarantees job interviews to people who completed Army Reserve training or a first term of active duty. This is a recruiting pipeline, not external education, community investment or a cross-cultural access program, so it was not scored (choosing the lower level when torn). Safety training and cyber security training were treated as compliance-type training and not scored. In Item 7, 'education and healthcare end markets' refers to construction customers, not an education activity. Audio/visual system installation is technical installation, not creative work. The Community and Cross-cultural human capital discussion is well over 150 words and gives no cross-reference, so coverage is sufficient and no second look is triggered. Indicative total: 0 + 12 + 4 + 0 = 16/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 21466,
+      "output_tokens": 2474,
+      "duration_ms": 26267
+    }
+  ]
+}
