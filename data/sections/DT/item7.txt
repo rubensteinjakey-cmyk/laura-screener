@@ -1,0 +1,509 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. The following discussion and analysis contains forward-looking statements that involve risks and uncertainties. When reviewing the discussion below, you should keep in mind the substantial risks and uncertainties that could impact our business. In particular, we encourage you to review the risks and uncertainties described in the section titled “Risk Factors” under Part I, Item 1A in this Annual Report on Form 10-K. These risks and uncertainties could cause actual results to differ materially from those projected in forward-looking statements contained in this report or implied by past results and trends. Our fiscal year ends on March 31. Our historical results are not necessarily indicative of the results that may be expected for any period in the future.
+
+Overview
+
+Dynatrace combines broad and deep observability, continuous runtime application security, and advanced agentic AI operations to deliver answers and intelligence automation across IT operations, development, security, business, and executive teams. This unified approach enables organizations to optimize their rapidly evolving AI, cloud, and IT operations, accelerate secure software delivery, and improve digital performance. Our vision is a world where software works perfectly.
+
+Our customers include many of the world’s largest enterprises which deploy the Dynatrace platform to support increasingly complex IT environments. As workloads scale and cybersecurity threats evolve, cloud modernization and rapid AI adoption have significantly increased data volume and complexity, rendering traditional monitoring or observability approaches insufficient for many organizations. We believe this positions Dynatrace to address a significant market opportunity through our differentiated platform, deep cloud ecosystem integrations, and trusted customer and partner relationships.
+
+We take Dynatrace to market through a combination of our global direct sales team and a network of partners, including GSIs, cloud providers, resellers and technology alliance partners. Dynatrace addresses customer needs at various scales and sizes, but our global direct sales team targets the largest 15,000 companies globally.
+
+We generate revenue primarily by selling subscriptions, which we define as SaaS agreements, term-based licenses, and maintenance and support agreements. The majority of our customers deploy Dynatrace as a SaaS solution to get the latest Dynatrace features and updates with greatly reduced administrative effort. We also provide options to deploy our platform in customer-provisioned infrastructure.
+
+Our DPS licensing model provides customers with a flexible, scalable, and transparent subscription for the modern cloud. Under the DPS licensing model, a customer makes a minimum annual spend commitment at the platform level and then consumes that commitment based on actual usage and a straightforward rate card. Any platform capability can be used in any quantity at any time based on the customer’s evolving needs.
+
+The Dynatrace platform has been commercially available since 2016 and is the primary offering we sell.
+
+Fiscal 2026 Financial Highlights
+
+Our financial highlights for the year ended March 31, 2026 were:
+
+•Our annual recurring revenue (“ARR”) was $2,054 million as of March 31, 2026, which reflected 18% growth year-over-year;
+
+•Our total revenue was $2,018 million, which reflected 19% growth year-over-year;
+
+•Our subscription revenue was $1,930 million, which reflected 19% growth year-over-year;
+
+•We delivered GAAP income from operations of $245 million and non-GAAP income from operations(1) of $592 million; and
+
+•Our net cash provided by operating activities and free cash flow(1) was $562 million and $529 million, respectively.
+
+(1) Non-GAAP financial measure. For additional information, please see the “Key Metrics” section below for applicable definitions and the “Non-GAAP Financial Results” section below for a reconciliation to the most directly comparable GAAP financial measure.
+
+We believe in a disciplined and balanced approach to operating our business. We plan to continue driving innovation to meet customers’ needs and grow our customer relationships. We also plan to invest in future growth opportunities that we expect will drive long-term value, while leveraging our global partner ecosystem, optimizing costs, and improving efficiency and profitability.
+
+We believe this approach is even more important at this time as we navigate the current macroeconomic environment, which can include geopolitical considerations, tariffs and trade policies, fluctuations in credit, equity, and foreign currency markets, changes in inflation, interest rates, consumer confidence and spending, and other factors that may affect the buying patterns of our customers and prospective customers, including the size of transactions and length of sales cycles. In the ongoing dynamic macroeconomic landscape, we have seen resiliency in our industry and we remain confident in our ability to execute in this environment. Please see the section titled “Risk Factors” included under Part I, Item 1A for further discussion of the possible impact of macroeconomic conditions on our business and regarding fluctuations in our annual and quarterly operating results.
+
+Key Factors Affecting Our Performance
+
+Our historical financial performance has been, and we expect our financial performance in the future to be, driven by our ability to:
+
+•Extend our technology and market leadership position. We intend to maintain our position as a leading AI-powered observability platform through increased investment in research and development, and innovation. We plan to expand the functionality of our end-to-end Dynatrace platform and invest in capabilities that address new market opportunities. We plan to continue evolving our AI capabilities to drive differentiation, with a continued focus on agentic AI capabilities and functionalities that can act autonomously to make decisions and take actions without human intervention. We also believe we are well positioned to continue growing our next generation log management offering, which integrates logs, traces, metrics, and other core observability and security data types into a a fully integrated platform with a single datastore, providing customers with greater value than log management solutions that are viewed as too expensive, providing too little value, or largely operating independently from existing monitoring tools. We believe this strategy will enable new growth opportunities and allow us to deliver differentiated high-value outcomes to our customers.
+
+•Expand and strengthen our relationships with existing customers. We plan to establish new and deeper relationships within our existing customers’ organizations and expand the breadth of our platform capabilities to provide for expansion opportunities. In addition, we believe the ease of implementation of Dynatrace provides us with the opportunity to expand adoption within our existing enterprise customers, across new customer applications, with AI-native, cloud-native and development teams, and into additional business units or divisions. We also believe that our DPS licensing model will drive broader consumption of the Dynatrace platform and further expansion opportunities for customers that prefer the flexibility and predictability of pricing under that model. With access to the full Dynatrace platform, DPS customers are able to adopt Dynatrace more broadly across their IT environments, which can lead to increased consumption.
+
+•Grow our customer base. We intend to drive new customer growth through ongoing investments in our go-to-market strategy focused on customer segmentation, partner enablement, and continued expansion of our sales motion beyond application performance to include end-to-end observability, tool consolidation, and cloud modernization. We plan to continue addressing customer needs at various scales and sizes, with our global direct sales team targeting the largest 15,000 companies globally. In addition, we plan to expand our reach internationally to what we believe are large, mostly untapped, markets for our company, while leveraging our sector specialization globally. We also are focused on intuitive ways for customer teams to onboard and receive additional value from Dynatrace, including through our free trial program.
+
+•Leverage our strategic partner ecosystem. We intend to invest in our strategic partner ecosystem, with a particular emphasis on building and deepening AI- and cloud-focused, loyal and comprehensive partnerships with GSIs and hyperscaler cloud providers. Cloud migration and modernization are foundational growth drivers for our strategic partners and our company. Our strategic partners work with their customers to help them digitally transform their businesses and reduce cloud complexity. By working more closely with strategic partners, our objective is to participate in digital transformation projects earlier in the purchasing cycle and enable customers to establish more resilient cloud deployments from the start.
+
+Key Metrics
+
+We monitor the following key metrics to help us measure and evaluate the effectiveness of our operations:
+
+As of March 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands, except percentages)
+
+Total ARR | $ | 2,053,555 | $ | 1,734,164 | $ | 1,503,819
+
+Year-over-year increase | 18 | % | 15 | % | 21 | %
+
+Dollar-based net retention rate
+110 | % | 110 | % | 111 | %
+
+Fiscal Years Ended March 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands)
+
+Non-GAAP income from operations(1)
+$ | 591,929 | $ | 493,540 | $ | 398,239
+
+Free cash flow(1)
+529,483 | 430,617 | 346,382
+
+(1) Non-GAAP financial measure. For additional information, please see the applicable definitions below and the “Non-GAAP Financial Results” section below for a reconciliation to the most directly comparable GAAP financial measure
+
+ARR: We define ARR as the daily revenue of all subscription agreements that are actively generating revenue as of the last day of the reporting period multiplied by 365. We exclude from our calculation of ARR any revenues derived from month-to-month agreements and/or product usage overage billings.
+
+Dollar-based net retention rate: We define the dollar-based net retention rate as the ARR at the end of a reporting period for the cohort of Dynatrace accounts as of one year prior to the date of calculation, divided by the ARR one year prior to the date of calculation for that same cohort. Our dollar-based net retention rate reflects customer renewals, expansion, contraction and churn. Dollar-based net retention rate is presented on a constant currency basis.
+
+Non-GAAP income from operations: We define non-GAAP income from operations as GAAP income from operations adjusted for the following items: share-based compensation; employer payroll taxes on employee stock transactions; amortization of intangibles; transaction, restructuring and other non-recurring or unusual items that may arise from time to time.
+
+Free cash flow: We define free cash flow as the net cash provided by or used in operating activities less capital expenditures, reflected as purchase of property and equipment and capitalized software additions in our financial statements.
+
+Non-GAAP Financial Results
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we provide investors with certain non-GAAP financial measures, including non-GAAP income from operations and free cash flow. We use these non-GAAP financial measures for financial and operational decision-making purposes and as a means to evaluate period-to-period comparisons and liquidity. We believe that these non-GAAP financial measures provide useful information about our operating results, enhance the overall understanding of past financial performance, and allow for greater transparency with respect to metrics used by our management in its financial and operational decision-making.
+
+The presentation of the non-GAAP financial measures is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. Our non-GAAP financial measures may not provide information that is directly comparable to similarly titled metrics provided by other companies.
+
+The tables below provide a reconciliation of our non-GAAP income from operations and free cash flow to their most directly comparable GAAP measure.
+
+Fiscal Years Ended March 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+GAAP income from operations | $ | 245,387 | $ | 179,433 | $ | 128,400
+
+Share-based compensation | 299,626 | 271,703 | 208,896
+
+Employer payroll taxes on employee stock transactions | 15,292 | 15,444 | 13,988
+
+Amortization of intangibles | 3,544 | 26,802 | 38,558
+
+Transaction, restructuring, and other | 28,080 | 158 | 8,397
+
+Non-GAAP income from operations | $ | 591,929 | $ | 493,540 | $ | 398,239
+
+Fiscal Years Ended March 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Net cash provided by operating activities | $ | 561,850 | $ | 459,419 | $ | 378,109
+
+Purchase of property and equipment | (32,173) | (26,106) | (26,459)
+
+Capitalized software additions | (194) | (2,696) | (5,268)
+
+Free cash flow | $ | 529,483 | $ | 430,617 | 346,382
+
+Key Components of Results of Operations
+
+Revenue
+
+Revenue includes subscriptions and services.
+
+Subscription. Our subscription revenue consists of (i) SaaS agreements, (ii) term-based licenses which are recognized ratably over the contract term, and (iii) maintenance and support agreements. We typically invoice SaaS subscription fees and term licenses annually in advance and recognize subscription revenue ratably over the term of the applicable agreement, provided that all other revenue recognition criteria have been satisfied. See the section titled “Critical Accounting Policies and Estimates-Revenue Recognition” for more information.
+
+Service. Service revenue consists of revenue from helping our customers deploy our software in operational environments and training their personnel. We recognize the revenues associated with these professional services in the period the services are performed, provided that collection of the related receivable is reasonably assured.
+
+Cost of Revenue
+
+Cost of subscription. Cost of subscription revenue includes all direct costs to deliver and support our subscription products, including salaries, benefits, bonuses, share-based compensation and related expenses such as employer taxes, third-party hosting fees related to our cloud services, allocated overhead for depreciation, facilities, and IT, and amortization of internally developed capitalized software technology. We recognize these expenses as they are incurred.
+
+Cost of service. Cost of service revenue includes salaries, benefits, bonuses, share-based compensation and related expenses such as employer taxes, and allocated overhead for depreciation, facilities, and IT. We recognize these expenses as they are incurred.
+
+Amortization of acquired technology. Amortization of acquired technology includes amortization expense for technology acquired when our former controlling stockholder (the Thoma Bravo Funds) acquired our company in 2014 and from business combinations and asset acquisitions. As the acquired technology from the Thoma Bravo Funds’ acquisition of our company became fully amortized during our fiscal 2025, we expect amortization expense to decrease as compared to historical periods.
+
+Gross Profit and Gross Margin
+
+Gross profit is revenue less cost of revenue, and gross margin is gross profit as a percentage of revenue. Gross profit has been and will continue to be affected by various factors, including the mix of our subscription and service revenue, the costs associated with third-party cloud-based hosting services for our cloud-based subscriptions, and the extent to which we expand our customer support and services organizations. We expect that our gross margin will fluctuate from period to period depending on the interplay of these various factors.
+
+Operating Expenses
+
+Personnel costs, which consist of salaries, benefits, bonuses, share-based compensation and, with regard to sales and marketing expenses, sales commissions, are the most significant component of our operating expenses. We also incur other non-personnel costs, such as an allocation of our general overhead expenses, including depreciation, facilities, IT, and other costs.
+
+Research and development. Research and development expenses primarily consist of the cost of programming personnel. We focus our research and development efforts on developing new solutions, core technologies, and to further enhance the functionality, reliability, performance and flexibility of existing solutions. We believe that our software development teams and our core technologies represent a significant competitive advantage for us and we expect that our research and development expenses will continue to increase in absolute dollars as we invest in research and development headcount to further strengthen and enhance our solutions.
+
+Sales and marketing. Sales and marketing expenses primarily consist of personnel and facility-related costs for our sales, marketing, and business development personnel, commissions earned by our sales personnel, and the cost of marketing and business development programs. We expect that sales and marketing expenses will continue to increase in absolute dollars as we continue to hire additional sales and marketing personnel and invest in marketing programs.
+
+General and administrative. General and administrative expenses primarily consist of the personnel and facility-related costs for our executive, finance, legal, people and culture and administrative personnel, and other corporate expenses, including those associated with our ongoing public reporting obligations. We anticipate continuing to incur additional expenses as we continue to invest in the growth of our operations.
+
+Amortization of other intangibles. Amortization of other intangibles primarily consists of amortization of customer relationships and tradenames acquired when our former controlling stockholder (the Thoma Bravo Funds) acquired our company in 2014 and from business combinations. As the customer relationships and tradenames acquired from the Thoma Bravo Funds’ acquisition of our company became fully amortized during our fiscal 2025, we expect amortization expense to decrease as compared to historical periods.
+
+Impairment of long-lived assets. We review long-lived assets for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. Impairment of long-lived assets consists of impairment losses on certain right-of-use assets and the associated property and equipment when the carrying amounts exceed their respective fair values.
+
+Interest Income, Net
+
+Interest income, net, consists primarily of interest income from money market funds, bank deposits, and debt securities held as marketable securities, partially offset by interest expense associated with fees on our Credit Facility (as defined later in this section) and amortization of debt issuance costs.
+
+Other Income (Expense), Net
+
+Other income (expense), net, consists primarily of foreign currency realized and unrealized gains and losses related to the impact of transactions denominated in a foreign currency, including balances between subsidiaries.
+
+Income Tax (Expense) Benefit
+
+We are subject to income taxes in both the United States and numerous foreign jurisdictions. Significant judgments and estimates are required in determining the consolidated income tax expense.
+
+Our income tax rate varies from the U.S. federal statutory rate mainly due to (1) the net global intangible low-taxed income (“GILTI”) inclusion, (2) foreign withholding taxes, (3) nondeductible executive compensation, and (4) the recognition of royalty income in the U.S. as a result of the IP Transfer (as defined below) in fiscal 2025, partially offset by the generation of U.S. foreign tax credits. We expect these items to continue to affect our income tax rate and income tax expense.
+
+During our fiscal 2025, we completed an intra-entity asset transfer of the global economic rights of our IP from a wholly-owned U.S. subsidiary to a wholly-owned Swiss subsidiary, more closely aligning our IP rights with our business operations (the “IP Transfer”). The transaction is taxable in the U.S. through 2044. In Switzerland, the transaction resulted in a step-up of tax-deductible basis in the transferred assets, and accordingly, created a temporary difference where the tax basis exceeded the financial statement basis of such intangible assets, which resulted in the recognition of a tax benefit and related deferred tax asset of $320.9 million. We determined the estimated value of the transferred IP based principally on the present value of projected income related to the IP, requiring management to make significant assumptions related to the discount rate and the forecast of future revenues and expenses. The tax-deductible amortization related to the transferred IP rights will be recognized through 2035. The deferred tax asset and tax benefit were measured based on the enacted tax rates expected to apply in the years the asset is expected to be realized. We expect to realize the deferred tax asset resulting from the IP Transfer.
+
+U.S. Tax Legislation
+
+On July 4, 2025, the OBBBA was enacted into law. The OBBBA contains a broad range of tax reform provisions including immediate expensing of domestic research and development expenditures, the reinstatement of 100% bonus depreciation, and modifications to the international tax framework. The OBBBA has multiple effective dates, with certain provisions effective in fiscal 2026 and other provisions effective in subsequent years. The OBBBA did not have a material impact on fiscal 2026. We do not anticipate the provisions effective in future years will have a material impact. We will continue to monitor ongoing developments and guidance and evaluate any potential impact on future periods.
+
+Results of Operations
+
+The following tables set forth our results of operations for the periods presented. The period-to-period comparison of financial results is not necessarily indicative of financial results to be achieved in future periods.
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+Amount | Percent | Amount | Percent | Amount | Percent
+
+(in thousands, except percentages)
+
+Revenue:
+
+Subscription | $ | 1,929,722 | 96 | % | $ | 1,622,163 | 95 | % | $ | 1,359,354 | 95 | %
+
+Service | 88,665 | 4 | % | 76,520 | 5 | % | 71,176 | 5 | %
+
+Total revenue
+2,018,387 | 100 | % | 1,698,683 | 100 | % | 1,430,530 | 100 | %
+
+Cost of revenue:
+
+Cost of subscription | 284,611 | 14 | % | 233,299 | 14 | % | 184,765 | 13 | %
+
+Cost of service | 84,105 | 4 | % | 73,631 | 4 | % | 65,423 | 5 | %
+
+Amortization of acquired technology
+3,488 | — | % | 13,262 | 1 | % | 16,265 | 1 | %
+
+Total cost of revenue (1)
+372,204 | 18 | % | 320,192 | 19 | % | 266,453 | 19 | %
+
+Gross profit
+1,646,183 | 82 | % | 1,378,491 | 81 | % | 1,164,077 | 81 | %
+
+Operating expenses:
+
+Research and development (1)
+474,312 | 23 | % | 384,572 | 23 | % | 304,739 | 21 | %
+
+Sales and marketing (1)
+690,489 | 34 | % | 605,599 | 36 | % | 534,233 | 37 | %
+
+General and administrative (1)
+217,414 | 11 | % | 195,347 | 11 | % | 174,412 | 12 | %
+
+Amortization of other intangibles
+56 | — | % | 13,540 | 1 | % | 22,293 | 2 | %
+
+Impairment of long-lived assets | 18,525 | 1 | % | — | — | % | — | — | %
+
+Total operating expenses | 1,400,796 | 1,199,058 | 1,035,677
+
+Income from operations | 245,387 | 12 | % | 179,433 | 11 | % | 128,400 | 9 | %
+
+Interest income, net | 47,731 | 48,281 | 37,284
+
+Other income (expense), net | 6,643 | (4,285) | (10,769)
+
+Income before income taxes | 299,761 | 223,429 | 154,915
+
+Income tax (expense) benefit | (137,092) | 260,255 | (283)
+
+Net income | $ | 162,669 | $ | 483,684 | $ | 154,632
+
+_________________
+
+(1)Includes share-based compensation expense as follows:
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Cost of revenue | $ | 40,276 | $ | 36,924 | $ | 26,622
+
+Research and development | 114,110 | 100,866 | 69,543
+
+Sales and marketing | 84,480 | 77,336 | 65,762
+
+General and administrative | 60,760 | 56,577 | 46,969
+
+Total share-based compensation expense | $ | 299,626 | $ | 271,703 | $ | 208,896
+
+Fiscal Years Ended March 31, 2026 and 2025
+
+Revenue
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | Amount | Percent
+
+(in thousands, except percentages)
+
+Subscription | $ | 1,929,722 | $ | 1,622,163 | $ | 307,559 | 19 | %
+
+Service | 88,665 | 76,520 | 12,145 | 16 | %
+
+Total revenue | $ | 2,018,387 | $ | 1,698,683 | $ | 319,704 | 19 | %
+
+Subscription
+
+Subscription revenue increased by $307.6 million, or 19%, in fiscal 2026 compared to fiscal 2025, primarily due to existing customers expanding their use of the Dynatrace platform combined with the adoption of our solutions by new customers.
+
+Service
+
+Service revenue increased by $12.1 million, or 16%, in fiscal 2026 compared to fiscal 2025. The increase was primarily due to growth in customer demand for product enablement and adoption services.
+
+Cost of Revenue
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | Amount | Percent
+
+(in thousands, except percentages)
+
+Cost of subscription | $ | 284,611 | $ | 233,299 | $ | 51,312 | 22 | %
+
+Cost of service | 84,105 | 73,631 | 10,474 | 14 | %
+
+Amortization of acquired technology | 3,488 | 13,262 | (9,774) | (74 | %)
+
+Total cost of revenue | $ | 372,204 | $ | 320,192 | $ | 52,012 | 16 | %
+
+Cost of subscription
+
+Cost of subscription increased by $51.3 million, or 22%, in fiscal 2026 compared to fiscal 2025. The increase was primarily due to increased cloud-based hosting costs of $35.1 million to support the growing usage of the Dynatrace SaaS platform and increased personnel costs of $11.1 million, inclusive of a $1.7 million increase in share-based compensation, largely due to headcount growth to support our growing business.
+
+Cost of service
+
+Cost of service increased by $10.5 million, or 14%, in fiscal 2026 compared to fiscal 2025. The increase was primarily the result of increased personnel costs, inclusive of a $1.7 million increase in share-based compensation, as our service delivery organization has scaled to support our product enablement and adoption within our growing business.
+
+Amortization of acquired technologies
+
+Amortization of acquired technology decreased by $9.8 million, or 74%, in fiscal 2026 compared to fiscal 2025. The decrease was primarily the result of certain acquired technology becoming fully amortized during fiscal 2025.
+
+Gross Profit and Gross Margin
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | Amount | Percent
+
+(in thousands, except percentages)
+
+Gross profit:
+
+Subscription | $ | 1,645,111 | $ | 1,388,864 | $ | 256,247 | 18 | %
+
+Service | 4,560 | 2,889 | 1,671 | 58 | %
+
+Amortization of acquired technology | (3,488) | (13,262) | 9,774 | (74 | %)
+
+Total gross profit | $ | 1,646,183 | $ | 1,378,491 | $ | 267,692 | 19 | %
+
+Gross margin:
+
+Subscription | 85 | % | 86 | %
+
+Service | 5 | % | 4 | %
+
+Total gross margin | 82 | % | 81 | %
+
+Subscription
+
+Subscription gross profit increased by $256.2 million, or 18%, in fiscal 2026 compared to fiscal 2025. Subscription gross margin decreased to 85% in fiscal 2026 compared to 86% in fiscal 2025. The decrease in gross margin was primarily due to higher cloud-based hosting costs, which were driven by increased customer utilization of the Dynatrace SaaS platform and expanding adoption of platform features.
+
+Service
+
+Service gross profit increased by $1.7 million, or 58%, in fiscal 2026 compared to fiscal 2025. Service gross margin increased to 5% in fiscal 2026 compared to 4% in fiscal 2025. The increase in gross margin was primarily due to growth in customer demand for product enablement and adoption services.
+
+Operating Expenses
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | Amount | Percent
+
+(in thousands, except percentages)
+
+Operating expenses:
+
+Research and development | $ | 474,312 | $ | 384,572 | $ | 89,740 | 23 | %
+
+Sales and marketing | 690,489 | 605,599 | 84,890 | 14 | %
+
+General and administrative | 217,414 | 195,347 | 22,067 | 11 | %
+
+Amortization of other intangibles | 56 | 13,540 | (13,484) | (100 | %)
+
+Impairment of long-lived assets | 18,525 | — | 18,525 | 100 | %
+
+Total operating expenses | $ | 1,400,796 | $ | 1,199,058 | $ | 201,738 | 17 | %
+
+Research and development
+
+Research and development expenses increased $89.7 million, or 23%, in fiscal 2026 compared to fiscal 2025. The increase was primarily the result of increased personnel costs of $74.8 million, inclusive of a $13.2 million increase in share-based compensation, largely due to headcount growth to support the continued expansion of functionality and capabilities of the Dynatrace platform. Cloud-based hosting costs incurred in developing our platform also increased by $7.0 million.
+
+Sales and marketing
+
+Sales and marketing expenses increased by $84.9 million, or 14%, in fiscal 2026 compared to fiscal 2025. The increase was primarily due to increased personnel costs of $71.7 million, inclusive of a $7.1 million increase in share-based compensation, due to headcount growth as we continue to invest in our go-to market strategy.
+
+General and administrative
+
+General and administrative expenses increased by $22.1 million, or 11%, in fiscal 2026 compared to fiscal 2025. The increase was primarily the result of increased personnel costs of $16.2 million, inclusive of a $4.2 million increase in share-based compensation, as we continue to scale our functions to support our continued growth.
+
+Amortization of other intangibles
+
+Amortization of other intangibles decreased by $13.5 million, or 100%, in fiscal 2026 compared to fiscal 2025. The decrease was primarily the result of certain intangible assets becoming fully amortized during fiscal 2025.
+
+Impairment of long-lived assets
+
+The impairment loss in fiscal 2026 reflects the write down of certain leased office spaces with impairment indicators due to changes in the utilization of these facilities, including the decision to cease use of certain locations and pursue sublease arrangements, to their estimated fair value. No impairment loss was recorded in prior periods.
+
+Interest Income, Net
+
+Interest income, net, remained consistent in fiscal 2026 compared to fiscal 2025.
+
+Other Income (Expense), Net
+
+Other income, net, was $6.6 million in fiscal 2026, which increased by $10.9 million from other expense, net, of $4.3 million in fiscal 2025. The change was primarily the result of foreign currency realized and unrealized gains and losses related to the impact of transactions denominated in a foreign currency, including balances between subsidiaries.
+
+Income Tax (Expense) Benefit
+
+Income tax expense was $137.1 million in fiscal 2026, which increased by $397.4 million from an income tax benefit of $260.3 million in fiscal 2025. This increase was primarily due to a $320.9 million tax benefit recognized in fiscal 2025 on the IP Transfer of the global economic rights of our IP to Switzerland. The increase in fiscal 2026 income tax was also due to an increase in pre-tax income, a decrease in share-based compensation windfall benefits and an increase in the foreign income inclusions in the U.S. as a result of the IP Transfer.
+
+Liquidity and Capital Resources
+
+We have historically maintained a disciplined and balanced approach to optimizing costs and improving the efficiency and profitability of our business, while continuing to invest in future growth opportunities that we expect will drive long-term value. Our principal sources of liquidity are cash and cash equivalents, marketable securities and cash provided by operating activities. From time to time, we may borrow under our Credit Facility (as defined below). As of March 31, 2026, we had $1,097.2 million of cash and cash equivalents, $126.8 million of marketable securities (primarily consisting of U.S. Treasury securities, corporate debt securities, U.S. agency securities, and commercial paper that have maturities between one and 30 months) and $399.0 million available under our Credit Facility.
+
+We have historically financed our operations primarily through payments by our customers for use of our product offerings and related services.
+
+Over the past three years, cash flows from customer collections have increased. Operating expenses have also increased to a lesser extent, growing our cash flows from operations. Our operating cash requirements may increase in the future as we continue to invest in the strategic growth of our company.
+
+Our billings may vary over time due to a number of factors, including the mix of subscription and service revenue, the contract length of our customer agreements, and the timing of customer contracts, including renewals. Such variability in the timing and amounts of our billings could impact the timing of our cash collections from period to period.
+
+Our material cash requirements from known contractual and other obligations consist of our rent payments required under operating lease agreements and non-cancelable purchase obligations entered into in the ordinary course of business, primarily for cloud hosting support. As of March 31, 2026, total contractual commitments were $721.2 million, with $180.8 million committed within the next 12 months. For further information regarding our contractual commitments, see Note 12, Leases, and Note 13, Commitments and Contingencies, of our consolidated financial statements included in this Annual Report.
+
+Cash from operations could be affected by various risks and uncertainties, including, but not limited to, the risks detailed in the section titled “Risk Factors” included under Part I, Item 1A of this Annual Report. However, we believe that our existing cash, cash equivalents, marketable securities, funds available under our revolving credit facility, and cash generated from operations, will be sufficient to meet our cash requirements for at least the next 12 months. Our future capital requirements will depend on many factors, including our growth rate, the timing and extent of spending to support research and development efforts, the continued expansion of sales and marketing activities, the introduction of new and enhanced products, seasonality of our billing activities, timing and extent of spending to support our growth strategy, and the continued market acceptance of our products. In the event that additional financing is required from outside sources, we may not be able to raise such financing on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, operating results, and financial condition would be adversely affected.
+
+Share Repurchase Program
+
+In May 2024, we announced a share repurchase program for up to $500 million of common stock. In February 2026, we completed repurchases under this program and announced a new share repurchase program for up to $1 billion of common stock.
+
+For the years ended March 31, 2026 and 2025, we repurchased and retired 11.4 million and 3.4 million shares of our common stock for a repurchased cost, including commissions, of $478.7 million and $172.6 million, respectively. As of March 31, 2026, $848.6 million remained available for future repurchases. For additional information, please see Part II, Item 5 of this Annual Report, and Note 14, Shareholders’ Equity, of the consolidated financial statements included in this Annual Report.
+
+Our Credit Facility
+
+In December 2022, we entered into a senior secured revolving credit facility in an aggregate amount of $400.0 million (as amended to date, the “Credit Facility”). As of March 31, 2026, we had $399.0 million available under the Credit Facility with $1.0 million of letters of credit outstanding. As of March 31, 2026, we were in compliance with all applicable covenants pertaining to the Credit Facility. The Credit Facility is discussed further in Note 11, Long-term Debt, of our consolidated financial statements included in this Annual Report.
+
+Summary of Cash Flows
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Net cash provided by operating activities | $ | 561,850 | $ | 459,419 | $ | 378,109
+
+Net cash used in investing activities | (15,694) | (69,315) | (193,048)
+
+Net cash (used in) provided by financing activities | (474,094) | (151,630) | 50,663
+
+Effect of exchange rate changes on cash and cash equivalents
+8,119 | (418) | (12,089)
+
+Net increase in cash and cash equivalents | $ | 80,181 | $ | 238,056 | $ | 223,635
+
+Operating Activities
+
+Net cash provided by operating activities was $561.9 million in fiscal 2026 compared to $459.4 million in fiscal 2025. The $102.4 million increase in net cash provided by operating activities was driven by increased net income, adjusted for non-cash charges, of $110.5 million, partially offset by a decrease in the net changes of operating assets and liabilities of $8.1 million. The net increase in operating cash flow was primarily due to higher collections driven by revenue growth.
+
+Investing Activities
+
+Net cash used in investing activities was $15.7 million in fiscal 2026 compared to $69.3 million in fiscal 2025. The $53.6 million decrease in net cash used in investing activities was primarily driven by a $63.8 million increase in proceeds from the sales and maturities of marketable securities, net of purchases, partially offset by a $6.1 million increase in the purchases of property and equipment and a $5.9 million increase in cash paid for business combination acquisitions.
+
+Financing Activities
+
+Net cash used in financing activities was $474.1 million in fiscal 2026 compared to $151.6 million in fiscal 2025. The $322.5 million increase in net cash used in financing activities was primarily driven by a $306.1 million increase of repurchases of common stock and a $14.5 million decrease in proceeds from the exercise of our stock options which we ceased granting in fiscal 2022.
+
+Critical Accounting Policies and Estimates
+
+We prepare our consolidated financial statements in accordance with GAAP. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from our estimates. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected.
+
+The significant accounting policies used to prepare the consolidated financial statements are described in Note 2, Significant Accounting Policies, included in this Annual Report. We believe that the assumptions and estimates associated with revenue recognition, income taxes, and business combinations have the greatest potential impact on our consolidated financial statements. Therefore, we consider these to be our critical accounting policies and estimates. Accordingly, we believe these are the most critical to fully understand and evaluate our financial condition and results of operations.
+
+Revenue Recognition
+
+We recognize revenue from contracts with customers using the five-step method. At contract inception, we evaluate whether two or more contracts should be combined and accounted for as a single contract and whether the combined or single contract includes more than one performance obligation. We combine contracts entered into at or near the same time with the same customer if (i) we determine that the contracts are negotiated as a package with a single commercial objective, (ii) the amount of consideration to be paid in one contract depends on the price or performance of the other contract, or (iii) the services promised in the contracts are a single performance obligation.
+
+The identification of our performance obligations involves review and consideration for the contractual terms, the implied rights of our customers, if any, product demonstrations and published website and marketing materials. Our performance obligations consist of (i) subscription and support services and (ii) professional and other services. Contracts that contain multiple performance obligations require an allocation of the transaction price to each performance obligation based on their relative standalone selling price (“SSP”). We determine SSP for all our performance obligations using observable inputs, such as standalone sales and historical contract pricing. SSP is consistent with our overall pricing objectives, taking into consideration the type of subscription services and professional and other services. SSP also reflects the amount we would charge for that performance obligation if it were sold separately in a standalone sale, and the price we would sell to similar customers in similar circumstances. We have determined that our pricing for software licenses and subscription services is highly variable and we therefore allocate the transaction price to those performance obligations using the residual approach.
+
+Our subscriptions include a minimum commitment with variable on-demand consumption fees for excess usage, representing a form of variable consideration. Variable consideration is included in the transaction price if, in our judgment, it is probable that a significant future reversal of cumulative revenue under the contract will not occur.
+
+In general, we satisfy the majority of our performance obligations over time as we transfer the promised services to our customers. We review the contract terms and conditions to evaluate (i) the timing and amount of revenue recognition, (ii) the related contract balances, and (iii) our remaining performance obligations. These evaluations require significant judgment that could affect the timing and amount of revenue recognized.
+
+Income Taxes
+
+We account for income taxes under the asset and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the consolidated financial statements. Under this method, deferred tax assets and liabilities are determined based on the differences between the consolidated financial statements and income tax bases of assets and liabilities and net operating loss and tax credit carryforwards using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in the period that includes the enactment date. We assert that the earnings of certain foreign subsidiaries are indefinitely reinvested and therefore we do not recognize any deferred tax liabilities that arise from outside basis differences in those subsidiaries.
+
+Deferred tax assets are reduced by a valuation allowance if it is more likely than not that some or all of the deferred taxes will not be realized. In making such determination, we consider all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies and recent financial operations.
+
+We record uncertain tax positions on a two-step process in which (i) we determine whether it is more likely than not that the tax positions will be sustained on the basis of the technical merits of the position and (ii) for those tax positions that meet the more-likely-than-not recognition threshold, we recognize the largest amount of tax benefit that is more than 50% likely to be realized upon ultimate settlement with the related tax authority. We recognize interest and penalties related to unrecognized tax benefits on the
+
+income tax expense line the accompanying consolidated statement of operations. Accrued interest and penalties are included on the related tax liability line in the consolidated balance sheet.
+
+During fiscal 2025, we completed the IP Transfer. For additional information, please see the “Key Components of Results of Operations” section. The assessment of the estimated value of the IP transferred is based on the U.S. transfer pricing regulations as described in section 482 of the IRC and the Treasury Department regulations promulgated thereunder, and the Organization for Economic Cooperation and Development Transfer Pricing guidelines. We determined the estimated value of the transferred IP based principally on the present value of projected income related to the IP, requiring management to make significant assumptions related to the discount rates and the forecast of future revenue and expenses. While we employ experts to assist in the determination of the estimated value of the IP, its value is based on significant management assumptions and estimates, which are inherently uncertain and highly subjective, and actual results may differ from estimates. If different assumptions were to be used, it could materially impact the IP valuation.
+
+Business Combinations
+
+We use our best estimates and assumptions to allocate the fair value of purchase consideration to the assets acquired and liabilities assumed. The excess of the fair value of purchase consideration over the fair values of the identifiable assets and liabilities is recorded as goodwill. We apply judgment in determining the fair value of the intangible assets acquired, which involves the use of estimates and assumptions with respect to future expected cash flows, expected asset lives, estimated obsolescence rates, discount rates, and royalty rates. Management bases these estimates on historical experience and various other assumptions that we believe are reasonable. While we use our best estimates and judgments, our estimates are inherently uncertain and subject to refinement. During the measurement period, which may be up to one year from the acquisition date, we may record adjustments to the fair value of these tangible and intangible assets acquired and liabilities assumed, with the corresponding offset to goodwill.
+
+Recent Accounting Pronouncements
+
+For a description of recent accounting pronouncements, and the impact of these pronouncements on our consolidated financial statements, see Note 2, Significant Accounting Policies, of our consolidated financial statements included in this Annual Report.

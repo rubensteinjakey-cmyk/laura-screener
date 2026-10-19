@@ -1,0 +1,45 @@
+{
+  "ticker": "TWLO",
+  "accession_number": "0001447669-26-000021",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 60462,
+  "sections": {
+    "item1": {
+      "words": 3901,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3901,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7168,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7168,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 73,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 3,
+      "paragraphs_total": 332
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 893
+}

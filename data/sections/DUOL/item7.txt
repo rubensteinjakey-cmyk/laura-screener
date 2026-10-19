@@ -1,0 +1,613 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our Consolidated Financial Statements and related notes included elsewhere in this Annual Report on Form 10-K. The following discussion contains forward-looking statements, such as those relating to our plans, objectives, expectations, intentions, and beliefs, that involve risks, uncertainties and assumptions. Our actual results could differ materially from these forward-looking statements as a result of many factors, including those discussed in Part I, Item 1A. “Risk Factors,” “Special Note Regarding Forward-Looking Statements,” and included elsewhere in this Annual Report on Form 10-K. Our historical results are not necessarily indicative of the results that may be expected for any periods in the future.
+
+Amounts reported in millions are rounded based on the amounts in thousands. As a result, the sum of the components reported in millions may not equal the total amount reported in millions due to rounding. In addition, percentages presented are calculated from the underlying numbers in thousands and may not add to their respective totals due to rounding.
+
+Overview
+
+Our flagship app has organically become the world’s most popular way to learn languages and the top-grossing Education app in the App Stores, offering over 250 total language courses to over 130 million monthly active users for the three months ended December 31, 2025. We believe that we have become the preeminent online destination for language learning due to our beautifully designed products, exceptional user engagement, and demonstrated learning efficacy.
+
+Our Business Model
+
+How We Generate Revenue
+
+We use a freemium business model that relies on premium subscription offerings, advertising, and in-app-purchases (IAPs) to produce revenue. We believe the following key attributes of our freemium subscription business model are core to our success.
+
+•Large Market: There is an enormous pool of potential language learners globally that HolonIQ estimates at approximately 2 billion people.
+
+•Free Users: Since the majority of our learning content is not behind a paywall, anyone can download the Duolingo App, use it for as long as they like, and complete any of our courses free of charge. Our users are composed of both new and reengaged users, which we draw from a large market of learners. We also work to keep existing users engaged in the product. This has allowed us to scale to more than 130 million MAUs for the three months ended December 31, 2025. We have seen these millions of learners provide two benefits to our business model:
+
+◦They become advocates for Duolingo and support our growth through positive word-of-mouth for our product, which enables us to make very selective, efficient, and targeted marketing investments.
+
+◦Our users complete nearly 2 billion exercises every day, generating large amounts of data that powers our high-volume A/B testing and novel AI techniques. We use this data and the insights that come from it to continually improve both engagement and efficacy.
+
+•Paid Subscriber Conversion: We convert free users to paid subscribers over time. We see stronger conversion from users that recently joined or reengage with the platform, but also see learners who use our product for months or even years before they decide to subscribe. This allows us to enjoy economic benefits from users well into their tenure on the platform. As of December 31, 2025, subscribers made up 9.2% of our average MAUs over the last twelve months as compared to 8.8% of our average MAUs during the year ended December 31, 2024.
+
+Subscription
+
+Our subscription offerings as of the date of this filing are called Super Duolingo and Duolingo Max. Super Duolingo offers learners additional features to enhance their learning experience. Duolingo Max gives learners access to the existing features of Super Duolingo in addition to incremental features and exercises, such as Video Call.
+
+Other Revenue
+
+For users who are unable or unwilling to pay a subscription fee, we provide free access to our product and generate advertising revenue from the sale of display and video advertising delivered through advertising impressions. We generally enter into arrangements with the major programmatic advertising networks to monetize our advertising inventory. Our advertising revenue is primarily a function of the number of our free users, lessons completed by our free users, and our ability to provide innovative advertising placements that are relevant to our users and enhance returns for our advertising partners.
+
+We also offer in-app purchases, (“IAPs”) which consist of learners purchasing one-time benefits within the app, such as “Streak Freezes” and “Timer Boosts.”
+
+In addition to monetizing the Duolingo App, we generate revenue from the Duolingo English Test by charging test takers a one-time fee. University program acceptance is a driver of Duolingo English Test revenue. As of December 31, 2025, over 6,100 education programs around the world accept the Duolingo English Test results as proof of English proficiency for international student admissions, with over 5,300 of those being higher education programs. These include 24 of the top 25 undergraduate programs in the
+
+U.S. ranked by international enrollment, as well as top schools such as Yale, Stanford, MIT, Duke and Columbia.
+
+Basis of Presentation
+
+Items within Management's Discussion and Analysis of Financial Condition and Results of Operations include a discussion of changes between the years ended December 31, 2025 and 2024. For a discussion of changes from the year ended December 31, 2024 to the year ended December 31, 2023, refer to Management’s Discussion and Analysis of Financial Condition and Results of Operation in Part II, Item 7. of our Annual Report on Form 10-K for the year ended December 31, 2024 (filed with the SEC on February 28, 2025).
+
+Key Operating Metrics and Non-GAAP Financial Measures
+
+We regularly review a number of key operating metrics and non-GAAP financial measures to evaluate our business, measure our performance, identify trends, prepare financial projections and make business decisions. The measures set forth below should be considered in addition to, not as a substitute for or in isolation from, our financial results prepared in accordance with generally accepted accounting principles in the U.S. (“GAAP”). Monthly active users (MAUs) and daily active users (DAUs), along with paid subscribers, subscription bookings and total bookings, are operating metrics that help inform management about the underlying growth in users of our platform, and are a measure of our monetization efforts. To calculate the year-over-year change in MAUs and DAUs for a given period, we subtract the average for the same period in the previous year from the average for the same period in the current year and divide the result by the average for the same period in the previous year. Other companies, including companies in our industry, may calculate these measures differently or not at all, which reduces their usefulness as comparative measures.
+
+Three Months Ended December 31,
+
+(In millions)
+2025 | 2024
+
+Operating Metrics
+
+Monthly active users (MAUs) | 133.1 | 116.7
+
+Daily active users (DAUs) | 52.7 | 40.5
+
+Paid subscribers (at period end) | 12.2 | 9.5
+
+Year Ended December 31,
+
+(In thousands) | 2025 | 2024
+
+Operating Metrics
+
+Subscription bookings | $ | 996,268 | $ | 730,737
+
+Total bookings | $ | 1,158,425 | $ | 870,601
+
+Non-GAAP Financial Measures
+
+Net income (GAAP) (1) | $ | 414,065 | $ | 88,574
+
+Adjusted EBITDA | $ | 305,878 | $ | 191,942
+
+Net cash provided by operating activities (GAAP)
+$ | 387,823 | $ | 285,513
+
+Free cash flow (2)
+$ | 360,424 | $ | 264,373
+
+________________
+
+(1)During the year ended December 31, 2025, the Company released the valuation allowance previously recorded against its federal and state deferred tax assets, resulting in a one-time income-tax benefit of $256.7 million.
+
+(2)The prior period has been recast to conform to current period presentation of free cash flow. See the definition of Free Cash Flow below for additional information.
+
+Operating Metrics
+
+Monthly active users (MAUs). MAUs are defined as unique users who engage with our Duolingo App or the learning section of our website each month. MAUs are reported for a measurement period by taking the average of the MAUs for each calendar month in that measurement period. The measurement period for MAUs is the three months ended December 31, 2025 and the same period in the prior year where applicable, and the analysis of results is based on those periods. MAUs are a measure of the size of our global active user community on Duolingo.
+
+We had approximately 133.1 million and 116.7 million MAUs for the three months ended December 31, 2025 and 2024, respectively, representing an increase of 14% from the prior year period. We grew MAUs through a combination of product initiatives and marketing. Product improvements, such as making the app more social and engaging, helped attract new users, retain existing users, and reengage former users, while marketing expanded our reach.
+
+Daily active users (DAUs). DAUs are defined as unique users who engage with our Duolingo App or the learning section of our website each calendar day. DAUs are reported for a measurement period by taking the average of the DAUs for each day in that measurement period. The measurement period for DAUs is the three months ended December 31, 2025 and the same period in the prior year where applicable, and the analysis of results is based on those periods. DAUs are a measure of the consistent engagement of our global user community on Duolingo.
+
+We had approximately 52.7 million and 40.5 million DAUs for the three months ended December 31, 2025 and 2024, respectively, representing an increase of 30% from the prior year period, driven largely by an increase in retention of current users supported by modest growth of new and reengaged users. The DAU / MAU ratio, which we believe is an indicator of user engagement, increased to 39.6% from 34.7% a year ago. We grew DAUs through many of the same product and marketing initiatives as MAUs, with a focus on increasing engagement and encouraging more frequent use.
+
+Paid Subscribers. Paid subscribers are defined as users who pay for access to any Duolingo subscription offering and had an active subscription as of the end of the measurement period. Each unique user account is treated as a single paid subscriber regardless of whether such user purchases multiple subscriptions, and the count of paid subscribers does not include users who are currently on a free trial or who are non-paying members of a family plan.
+
+As of December 31, 2025 and 2024, we had approximately 12.2 million and 9.5 million paid subscribers, respectively, representing an increase of 28% from the prior year period. We grew paid subscribers through product initiatives designed to make our subscription offerings more appealing, which helped attract new subscribers and retain existing subscribers.
+
+Subscription Bookings and Total Bookings. Subscription bookings represent the amounts we receive from a purchase of any Duolingo subscription offering. Total bookings include subscription bookings, income from advertising networks for advertisements served to our users, purchases of the Duolingo English Test, and in-app purchases of virtual goods ("IAPs"). We believe bookings provide an indication of trends in our operating results, including cash flows, that are not necessarily reflected in our revenues because we recognize subscription revenues ratably over the lifetime of a subscription, the majority of which are twelve months in duration.
+
+For the years ended December 31, 2025 and 2024, we generated $996.3 million and $730.7 million of subscription bookings, respectively, representing an increase of $265.5 million or 36%. Subscription bookings increased, driven by growth in both first-time and renewal subscriptions.
+
+For the years ended December 31, 2025 and 2024, we generated $1,158.4 million and $870.6 million total bookings, respectively, representing an increase of $287.8 or 33% from the prior year period. We grew total bookings primarily through growth in subscription bookings as noted above.
+
+Non-GAAP Financial Measures
+
+We use certain non-GAAP financial measures to supplement our Consolidated Financial Statements, which are presented in accordance with GAAP. These non-GAAP financial measures include Adjusted EBITDA, free cash flow and constant currency measures. We use these non-GAAP financial measures for financial and operational decision-making and as a means to evaluate period-to-period comparisons. By excluding certain items that may not be indicative of our recurring core operating results, we believe that Adjusted EBITDA, free cash flow and constant currency provide meaningful supplemental information regarding our performance. The effect of currency exchange rates on our business is an important factor in understanding period to period comparisons. We use non-GAAP constant currency measures and non-GAAP percentage change in constant currency measures for financial and operational decision-making and as a means to evaluate period-to-period comparisons. Accordingly, we believe these non-GAAP financial measures are useful to investors and others because they allow for additional information with respect to financial measures used by management in its financial and operational decision-making and they may be used by our institutional investors and the analyst community to help them analyze the health of our business. However, there are a number of limitations related to the use of non-GAAP financial measures, and these non-GAAP financial measures should be considered in addition to, not as a substitute for or in isolation from, our financial results prepared in accordance with GAAP. Other companies, including companies in our industry, may calculate these non-GAAP financial measures differently or not at all, which reduces their usefulness as comparative measures.
+
+Adjusted EBITDA. Adjusted EBITDA is defined as net income excluding interest income, income taxes, depreciation and amortization, stock-based compensation expenses related to equity awards, transaction costs related to acquisitions, acquisition earn-out costs and impairment of capitalized software. Beginning in the third quarter of 2025, we updated our definition of Adjusted EBITDA to include integration costs related to acquisitions. We did not incur integration costs in periods prior to 2025. Adjusted EBITDA is used by management to evaluate the financial performance of our business and we present Adjusted EBITDA because we believe it is helpful in highlighting trends in our operating results and that it is frequently used by analysts, investors and other interested parties to evaluate companies in our industry.
+
+The following table presents a reconciliation of our net income, the most directly comparable financial measure presented in accordance with GAAP, to Adjusted EBITDA.
+
+Year Ended December 31,
+
+(In thousands)
+2025 | 2024
+
+Net income (1)
+$ | 414,065 | $ | 88,574
+
+Add (deduct):
+
+Interest income | (45,231) | (42,697)
+
+(Benefit from) provision for income taxes (1)
+(231,655) | 13,732
+
+Depreciation and amortization | 14,391 | 10,854
+
+Stock-based compensation expenses related to equity awards (2)
+148,643 | 120,267
+
+Acquisition transaction and integration costs (3)
+4,847 | 774
+
+Acquisition earn-out costs (4)
+818 | 200
+
+Impairment of capitalized software (5)
+— | 238
+
+Adjusted EBITDA | $ | 305,878 | $ | 191,942
+
+________________
+
+(1)During the year ended December 31, 2025, the Company released the valuation allowance previously recorded against its federal and state deferred tax assets, resulting in a one-time income-tax benefit of $256.7 million.
+
+(2)In addition to stock-based compensation expense of $137.4 million and $110.5 million for the years ended December 31, 2025 and 2024, respectively, this includes costs incurred related to taxes paid on equity transactions as follows:
+
+Year Ended December 31,
+
+(In thousands) | 2025 | 2024
+
+Research and development
+$ | 4,258 | $ | 2,318
+
+Sales and marketing
+237 | 130
+
+General and administrative
+6,711 | 7,342
+
+Total
+$ | 11,206 | $ | 9,790
+
+(3)Represents acquisition transaction costs, including legal and accounting fees, and integration costs, both of which are included within our Consolidated Statements of Operations and Comprehensive Income as shown below. Integration costs began in the third quarter of 2025 in connection with the July 2025 acquisition.
+
+Year Ended December 31,
+
+(In thousands) | 2025 | 2024
+
+Transaction costs
+
+General and administrative | 1,338 | 774
+
+Integration costs
+
+Research and development | $ | 2,798 | $ | —
+
+Sales and marketing | 133 | —
+
+General and administrative | 578 | —
+
+Total Integration | 3,509 | 0
+
+Total transaction and integration costs | $ | 4,847 | $ | 774
+
+(4)Represents costs incurred related to the earn-out payments on acquisitions, which is included within General and administrative expense within our Consolidated Statements of Operations and Comprehensive Income.
+
+(5)Represents impairment of capitalized software, which is included within Research and development expense within our Consolidated Statements of Operations and Comprehensive Income.
+
+For the years ended December 31, 2025 and 2024, we generated net income of $414.1 million and $88.6 million, respectively, representing an increase of $325.5 million. Net income for 2025 included a one-time income-tax benefit, net of a return-to-provision adjustment reflecting refinements to our tax calculation methodology, of $256.7 million. The increase in net income, excluding the impact from the valuation
+
+allowance, as compared to the comparative period was primarily due to revenue growth, partially offset by higher operating expenses, driven primarily by headcount growth, increased marketing spending, and software and technology costs, including AI costs.
+
+For the years ended December 31, 2025 and 2024, we generated Adjusted EBITDA of $305.9 million and $191.9 million, respectively, representing an increase of $113.9 million. Adjusted EBITDA increased as compared to the comparative periods for the reasons noted above in net income, adjusted for increases in stock-based compensation expenses, acquisition costs and depreciation and amortization.
+
+Free Cash Flow. Free cash flow is defined as net cash provided by operating activities, less capitalized software development costs and purchases of property and equipment. Prior to the first quarter of 2025, free cash flow added back taxes paid related to stock-based compensation equity awards, acquisition transaction costs, and acquisition earn-out payments. Beginning in the first quarter of 2025, we have aligned our calculation of free cash flow to this definition, and prior period in this Annual Report on Form 10-K have been recast to conform to this presentation. We believe that free cash flow is a measure of liquidity that provides useful information to our management, investors and others in understanding and evaluating the strength of our liquidity and future ability to generate cash that can be used for strategic opportunities or investing in our business. Free cash flow has certain limitations in that it does not represent our residual cash flow for discretionary expenditures and our non-discretionary commitments. The following table presents a reconciliation of net cash provided by operating activities, the most directly comparable financial measure calculated in accordance with GAAP, to free cash flow:
+
+Year Ended December 31,
+
+(In thousands)
+2025 | 2024
+
+Net cash provided by operating activities | $ | 387,823 | $ | 285,513
+
+Less: Capitalized software development costs and purchases of intangible assets | (9,303) | (9,024)
+
+Less: Purchases of property and equipment | (18,096) | (12,116)
+
+Free cash flow (1) | $ | 360,424 | $ | 264,373
+
+________________
+
+(1)The prior period has been recast to conform to current period presentation of free cash flow. See the definition of Free Cash Flow below for additional information.
+
+For the years ended December 31, 2025 and 2024, we generated $387.8 million and $285.5 million of net cash provided by operating activities, respectively, representing an increase of $102.3 million. The increase as compared to the comparative prior period was primarily due to higher operating income, adjusted for non-cash items such as stock-based compensation.
+
+For the years ended December 31, 2025 and 2024, we generated $360.4 million and $264.4 million of free cash flow, respectively, representing an increase of $96.1 million. Free cash flow increased in line with operating cash flow, reflecting the same underlying drivers of cash provided by operating activities, partially offset by higher capital investments.
+
+Constant Currency. The effect of currency exchange rates on our business is an important factor in understanding period to period comparisons. We use non-GAAP percentage change in constant currency revenues and bookings, which exclude the impact of fluctuations in foreign currency exchange rates, for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe this information is useful to investors to facilitate comparisons and better identify trends in our business. The impact of changes in foreign currency may vary significantly from period to period, and such changes generally are outside of the control of our management. We calculate constant currency revenues by translating current period foreign currency revenues using prior-year exchange rates applied
+
+consistently over the full revenue recognition period. We calculate constant currency bookings by using current period foreign currency bookings and translating them to constant currency using prior year comparable period exchange rates. The constant currency percentage change for revenues and bookings is calculated by dividing the difference between the constant currency amount and the prior year comparable period amount by the prior year comparable period amount.
+
+The following table provides the changes in bookings and revenues on a reported basis and constant currency basis:
+
+Year Ended December 31,
+
+(in thousands) | 2025 | 2024 | % Change | Constant Currency Change %
+
+Revenue
+
+Subscription | $ | 873,442 | $ | 607,531 | 44% | 44%
+
+Total revenues | $ | 1,037,589 | $ | 748,024 | 39% | 39%
+
+Bookings
+
+Subscription | $ | 996,268 | $ | 730,737 | 36% | 35%
+
+Total Bookings | $ | 1,158,425 | $ | 870,601 | 33% | 32%
+
+Seasonality
+
+We experience some seasonality in both user growth and monetization on our platform. Historically, the number of users on our platform and the number of subscribers we have increase in the beginning of the year and then moderate throughout the first quarter and second quarter. In the third quarter, historically, we’ve seen the number of users on our platform increase in part because our product is used by students that return to school in certain geographies. Finally, in the latter part of December, as the new year approaches, we see an increase in usage as people make New Years resolutions, including resolutions to learn new things like languages. Monetization, through an increase in subscribers, also increases at the end of December and into January when we run a promotion tied to the New Year holiday.
+
+Components of Our Results of Operations
+
+Revenue
+
+We generate revenues primarily from the sale of subscriptions. The term-length of our subscription agreements are primarily monthly or annual, with the family plan offered as an annual subscription. We also generate revenue from advertising, the in-app sale of virtual goods, and the Duolingo English Test. We may run experiments that result in a different mix of revenue from these levers in the future.
+
+Cost of Revenues
+
+Cost of revenues predominantly consists of third-party payment processing fees charged by various distribution channels in addition to hosting fees and Artificial Intelligence (“AI”) costs. To a much lesser extent, cost of revenues includes customer support costs, such as contractor fees, wages and stock-based compensation for certain employees working in customer support. It also includes the amortization of revenue generating capitalized software, and depreciation of certain property and equipment.
+
+We intend to continue to invest additional resources in our infrastructure to expand the capabilities of our platform and allow our users to realize the full benefit of our products. The level, timing, and relative investment in these areas could affect our cost of revenues in the future.
+
+Gross Profit and Gross Margin
+
+Gross profit represents revenues less cost of revenues. Gross margin is gross profit expressed as a percentage of revenues. Our gross profit may fluctuate from period to period as our revenues fluctuate, and also as a result of the timing and amount of investments we make in items related to cost of revenues.
+
+Operating Expenses
+
+Our operating expenses consist of research and development, sales and marketing, and general and administrative expenses. Personnel costs are the most significant component of operating expenses and consist of salaries, benefits, and stock-based compensation expense. Operating expenses also include overhead costs for facilities, including depreciation expense.
+
+Research and Development. We invest heavily in research and development to create new products and product features that are intended to help us grow our user base, engage our users, monetize our users, and teach our users. This, in turn, can impact the growth in, and lifetime value of, our paid subscribers, as well as increased advertising revenue from impressions from our free users. Expenses are primarily made up of costs incurred for the development of new and improved products and features in our applications during the preliminary product development stage. Such expenses include employee-related compensation, including stock-based compensation, of engineers, designers, and product managers, in addition to materials, travel and direct costs associated with the design, required testing of our platform and depreciation of certain property and equipment. We expect engineers, designers, and product managers to represent a significant portion of our employees for the foreseeable future. We typically capitalize a portion of research and development costs once the product has reached application development phase, mostly consisting of wages, each period into capitalized software when the work is specific to launching a new product, or making major upgrades to our existing products or platforms. We regularly test product improvements with our users. Many of these tests start by making small changes in the product that affect small numbers of users. As the tests evolve, they can require increasing investment and can impact more users. This process of constant testing is how we implement many of our new products and improvements to our platform and, in total, require large investments and involve substantial time and risks to develop and launch. Some of these products and product improvements may not be well received or may take a long time for users to adopt. As a result, the impact resulting from our research and development investments may be difficult to forecast.
+
+Sales and Marketing. Sales and marketing expenses are expensed as incurred and consists primarily of new user acquisition, brand marketing, digital and social media content, and employee-related compensation, including stock-based compensation, for personnel engaged in sales and marketing functions, amortization of non-revenue generating capitalized software used to promote Duolingo and depreciation of certain property and equipment.
+
+General and Administrative. General and administrative expenses primarily consist of employee-related compensation, including stock-based compensation, for management and administrative functions, including our finance and accounting, legal, and people teams. General and administrative expenses also include certain professional services fees, general corporate and director and officer insurance, our facilities costs, public company costs to comply with the rules and regulations of the Securities and Exchange Commission (“SEC”) and the Listing Rules of the Nasdaq Global Select Market, and other general overhead costs that support our operations.
+
+Interest Income
+
+Interest income consists of income earned on our cash and money market funds included in cash and cash equivalents and income earned and net accretion on our marketable securities.
+
+Other income (expense), net
+
+Other income (expense), net consists primarily of foreign currency exchange gains and losses.
+
+Income taxes
+
+Income taxes represent the tax impact associated with our operations under the tax laws of the jurisdictions in which we operate. In addition to the U.S., we also operate in foreign jurisdictions that have different statutory rates. Our effective tax rates will vary depending on the relative proportion of foreign to domestic income, changes in the valuation of our deferred tax assets and liabilities, and changes in tax laws.
+
+Results of Operations
+
+Comparison of the years ended December 31, 2025 and 2024
+
+The following table sets forth our Consolidated Statements of Operations and Comprehensive Income data, including year-over-year change, for the periods indicated:
+
+Year Ended December 31,
+
+(In thousands) | 2025 | 2024 | % Change
+
+Revenues | $ | 1,037,589 | $ | 748,024 | 39%
+
+Cost of revenues (1) (2) | 288,132 | 203,645 | 41
+
+Gross profit | 749,457 | 544,379 | 38
+
+Operating expenses:
+
+Research and development (1) (2) | 306,323 | 235,298 | 30
+
+Sales and marketing (1) (2) | 125,677 | 90,494 | 39
+
+General and administrative (1) (2) | 181,887 | 155,992 | 17
+
+Total operating expenses | 613,887 | 481,784 | 27
+
+Income from operations | 135,570 | 62,595 | >100
+
+Other income (expense), net | 1,609 | (2,986) | nm
+
+Income before interest income and income taxes | 137,179 | 59,609 | >100
+
+Interest income | 45,231 | 42,697 | 6
+
+Income before income taxes | 182,410 | 102,306 | 78
+
+(Benefit from) provision for income taxes | (231,655) | 13,732 | nm
+
+Net income and comprehensive income | $ | 414,065 | $ | 88,574 | >100
+
+________________
+
+(1)Includes stock-based compensation expenses as follows:
+
+Year Ended December 31,
+
+(In thousands) | 2025 | 2024
+
+Cost of revenues
+$ | 96 | $ | 68
+
+Research and development
+84,874 | 60,076
+
+Sales and marketing
+6,358 | 4,912
+
+General and administrative
+46,109 | 45,421
+
+Total
+$ | 137,437 | $ | 110,477
+
+(2)Includes amortization of capitalized software and depreciation of property and equipment as follows:
+
+Year Ended December 31,
+
+(In thousands) | 2025 | 2024
+
+Cost of revenues (a)
+$ | 8,658 | $ | 5,310
+
+Research and development | 3,328 | 2,358
+
+Sales and marketing (a)
+937 | 860
+
+General and administrative
+1,468 | 2,326
+
+Total
+$ | 14,391 | $ | 10,854
+
+________________
+
+(a) Amortization of capitalized software is recorded to Cost of revenue and Sales and marketing for revenue and non-revenue generating capitalized software, respectively.
+
+The following table sets forth the components of our Consolidated Statements of Operations and Comprehensive Income for each of the periods presented as a percentage of revenue:
+
+Year Ended December 31,
+
+2025 | 2024
+
+Revenues | 100 | % | 100 | %
+
+Cost of revenues | 28 | 27
+
+Gross profit | 72 | 73
+
+Operating expenses:
+
+Research and development | 30 | 31
+
+Sales and marketing | 12 | 12
+
+General and administrative | 18 | 21
+
+Total operating expenses | 59 | 64
+
+Income from operations | 13 | 8
+
+Other income (expense), net | — | —
+
+Income before interest income and income taxes | 13 | 8
+
+Interest income | 4 | 6
+
+Income before income taxes | 18 | 14
+
+(Benefit from) provision for income taxes | (22) | 2
+
+Net income and comprehensive income | 40 | % | 12 | %
+
+Revenues
+
+Revenues increased by $289.6 million, or 39%, to $1,037.6 million during the year ended December 31, 2025, from revenues of $748.0 million during the year ended December 31, 2024. The main drivers of the increases were:
+
+•Subscription revenue increased $265.9 million, or 44%, to $873.4 million during the year ended December 31, 2025, primarily due to an increase in the average number of paid subscribers during the period;
+
+•Other revenue increased $23.7 million, or 17%, to $164.1 million during the year ended December 31, 2025, primarily due to increased advertising revenue, resulting from an increase in DAUs, which resulted in increased advertisements served.
+
+The following table provides the changes in revenues by product type:
+
+Year Ended December 31,
+
+(in thousands) | 2025 | 2024 | Change | % Change
+
+Subscription | $ | 873,442 | $ | 607,531 | $ | 265,911 | 44
+
+Other (1) | 164,147 | 140,493 | 23,654 | 17
+
+Total revenues | $ | 1,037,589 | $ | 748,024 | $ | 289,565 | 39
+
+________________
+
+(1) Other revenue is comprised mainly of Advertising, Duolingo English Test, and IAPs.
+
+Cost of Revenues and Gross Margin. Total gross margin decreased to 72.2% from 72.8% during the years ended December 31, 2025 and 2024. The decrease was primarily attributable to both a decline in subscription gross margin, reflecting increased AI costs used in features like Video Call, and a shift in revenue mix toward advertising, which carries lower margins than subscriptions.
+
+The following table provides the change in cost of revenues, along with related gross margins:
+
+Year Ended December 31,
+
+2025 | 2024 | Change
+
+(In thousands, except gross margin) | Costs | Gross Margin | Costs | Gross Margin | Costs | Gross Margin
+
+Total cost of revenues | $ | 288,132 | 72.2 | % | $ | 203,645 | 72.8 | % | $ | 84,487 | (0.6)%
+
+Operating Expenses
+
+Research and Development. Research and development expense increased by $71.0 million, or 30%, to $306.3 million during the year ended December 31, 2025 from $235.3 million during the year ended December 31, 2024. The increase was mainly due to:
+
+•Increased net personnel costs of $59.6 million, driven primarily by the growth in headcount, including increased stock-based compensation expenses related to equity awards of $29.4 million and acquisition related costs of $2.6 million;
+
+•Increased web services and technology costs of $8.8 million, which includes an increase of GenAI costs of $3.6 million; and
+
+•Increased travel and other costs of $2.6 million.
+
+Research and development continues to be our largest operating expense as we test and experiment with new products and product features and look to improve existing ones to drive engagement and efficacy. Increased engagement and efficacy, we believe, help drive organic growth in MAUs and DAUs, growth in, and better retention of, paid subscribers, as well as increased advertising opportunities with free users.
+
+Sales and Marketing. Sales and marketing expense increased by $35.2 million, or 39%, to $125.7 million during the year ended December 31, 2025 from $90.5 million during the year ended December 31, 2024.
+
+This increase was mainly due to:
+
+•Increased direct marketing and other expenses of $25.8 million;
+
+•Increased personnel costs of $6.8 million driven primarily by the growth in headcount, including increased stock-based compensation expense of $1.6 million; and
+
+•Increased web services and technology costs of $2.5 million.
+
+General and Administrative. General and administrative expense increased by $25.9 million, or 17%, to $181.9 million during the year ended December 31, 2025 from $156.0 million during the year ended December 31, 2024. This increase was mainly due to:
+
+•Increased personnel costs of $8.8 million;
+
+•Increased web services and technology costs of $6.3 million;
+
+•Increased travel and meals expenses of $4.4 million;
+
+•Increased facilities and office expenses of $3.0 million; and
+
+•Increased professional and acquisition related costs of $4.2 million.
+
+The above increases were partially offset by decreases in taxes and other costs of $0.8 million.
+
+Interest Income
+
+Interest income increased by $2.5 million, or 6%, to $45.2 million during the year ended December 31, 2025, from $42.7 million during the year ended December 31, 2024 due to higher average interest-bearing balances partially offset by slightly lower interest rates.
+
+Other income (expense), net
+
+Other income (expense), net was $1.6 million during the year ended December 31, 2025, mainly from the impact from changes in foreign currency rates compared to $3.0 million of expense during the year ended December 31, 2024.
+
+Income taxes
+
+The income tax benefit was $231.7 million during the year ended December 31, 2025, compared to a provision of $13.7 million during the year ended December 31, 2024. The income tax benefit for the year ended December 31, 2025, was primarily related to the release of our U.S. valuation allowance on certain deferred tax assets and other discrete tax items. See Note 9, “Income Taxes”, in the notes to our financial statements included in Part II, Item 8 of this Annual Report on Form 10-K for further details.
+
+The year-to-date tax benefit also reflects the impact of the “One Big Beautiful Bill Act” tax legislation, which modified the treatment of domestic research and development expenditures, and now allows for the immediate expensing of domestic research and development expenses. While these changes did not have a material impact on our 2025 results, future legislative changes or interpretive guidance could impact our tax expense and cash flows in future periods.
+
+Effective tax rates may fluctuate significantly between periods and may not be indicative of future results. The Company’s effective tax rate is influenced by a number of factors, including the relative mix of domestic and foreign earnings, the amount of tax-deductible stock-based compensation, the generation and utilization of research and development tax credits, changes in tax laws, and discrete items such as changes in valuation allowances. The effective tax rate for the year ended December 31, 2025 reflects a significant discrete income tax benefit related to the release of the Company’s valuation allowance on its deferred tax assets and other discrete tax items and is not necessarily indicative of the Company’s effective tax rate in future periods.
+
+Liquidity and Capital Resources
+
+We finance our operations primarily through revenues and the net proceeds we have received from the issuance of equity.
+
+As of December 31, 2025, we had $1,036.4 million in cash and cash equivalents and $104.1 million of short-term investments. Our cash and cash equivalents primarily consist of bank deposits and money market funds. Our short-term investments consist mainly of corporate debt securities, U.S. Treasury securities and commercial paper.
+
+We believe that our existing cash and cash equivalents, short-term investments and cash flow from operations will be sufficient to support working capital and capital expenditure requirements, and any future share repurchases, for at least the next 12 months. Our future capital requirements will depend on many factors, including our subscription growth rate and renewal activity, the timing of cash received from our payment processing platforms, the expansion and efficacy of our sales and marketing investments, the research and development investment related to the introduction of new products and the enhancements to existing products, and the current uncertainty in the global markets impacting, for example, consumer spending, inflation and foreign currency exchange rates. If we cannot meet our future capital requirements, we may be required to seek additional liquidity. If we are unable to raise additional capital or generate cash flows necessary to expand our operations and invest in continued innovation, we may not be able to compete successfully, which would harm our business and financial condition and results of operations.
+
+During the year ended December 31, 2025, we executed an amendment to our Pittsburgh headquarters lease, increasing our leased space and extending the term through 2036. As a result, we recognized an additional operating lease right-of-use asset and lease liability totaling approximately $39.0 million. The amendment also provides a tenant improvement allowance of $6.8 million, which will reduce future cash lease payments.
+
+A substantial source of our cash from operations comes from deferred revenue, which is included in the liabilities section of our Consolidated Balance Sheet. Deferred revenues consists of the unearned portion of customer billings, which is recognized as revenue in accordance with our revenue recognition policy. As of December 31, 2025, we had deferred revenues of $496.2 million, which is recorded as a current liability and expected to be recognized as revenue in the next 12 months, provided all other revenue recognition criteria have been met.
+
+The following table summarizes our cash flows for the periods presented:
+
+Year Ended December 31,
+
+(In thousands) | 2025 | 2024
+
+Net cash provided by operating activities | $ | 387,823 | $ | 285,513
+
+Net cash used for investing activities | (107,678) | (217,330)
+
+Net cash used for financing activities | (29,547) | (30,002)
+
+Net increase in cash, cash equivalents and restricted cash | $ | 250,598 | $ | 38,181
+
+Operating Activities
+
+Cash flows from operating activities can fluctuate significantly from period to period due to timing of payments and cash collections. Our largest source of operating cash is cash collection from sales of subscriptions to our users. Our primary uses of cash from operating activities are for personnel expenses, marketing expenses, hosting expenses, and overhead expenses.
+
+Cash provided by operating activities increased by $102.3 million, or 36%, to $387.8 million for the year ended December 31, 2025 from $285.5 million for the year ended December 31, 2024. This increase was primarily driven by higher operating income, adjusted for non-cash items such as stock-based compensation.
+
+Investing Activities
+
+Cash used for investing activities decreased by $109.7 million to $107.7 million for the year ended December 31, 2025, from $217.3 million for the year ended December 31, 2024. This decrease was primarily driven by lower net purchases of investments in 2025. During 2025, we had net purchase of $47.2 million, compared to net purchases of $189.6 million in 2024. This decrease was partially offset by an increase of $26.5 million related to cash paid for acquisitions and $6.3 million of higher capitalized software and property and equipment purchases.
+
+Financing Activities
+
+Cash used for financing decreased by $0.5 million to $29.5 million for the year ended December 31, 2025, from $30.0 million for the year ended December 31, 2024. Cash used for financing activities in both periods is due to taxes paid on the net-share settlements of share-based compensation awards of $41.6 million and $49.4 million, for the years ended December 31, 2025 and 2024, respectively. These amounts are partially offset by proceeds from exercises of stock options of $12.6 million and $19.4 million for the years ended December 31, 2025 and 2024, respectively.
+
+Contractual Obligations
+
+The following table summarizes our contractual obligations and commitments as of December 31, 2025:
+
+Payments Due by Period
+
+Total | Less than 1 Year | 1-3 Years | 3-5 Years | More than 5 years
+
+Operating lease commitments (1)
+$ | 137,818 | $ | 13,931 | $ | 30,575 | $ | 29,270 | $ | 64,042
+
+Other commitments (2)
+44,377 | 44,377 | — | — | —
+
+Total contractual obligations | $ | 182,195 | $ | 58,308 | $ | 30,575 | $ | 29,270 | $ | 64,042
+
+________________
+
+(1)Consists of future non-cancelable minimum rental payments under operating lease obligations, excluding short-term leases.
+
+(2)Other business purchase commitments consist of hosting costs, web services and AI costs.
+
+Off-Balance Sheet Obligations
+
+We did not have during the periods presented, and we do not currently have, any off-balance sheet financing arrangements or any relationships with unconsolidated entities or financial partnerships, including entities sometimes referred to as structured finance or special purpose entities, that were established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+
+Critical Accounting Estimates
+
+The preparation of our Consolidated Financial Statements in accordance with GAAP requires management to make estimates and assumptions about future events that affect amounts reported in our Consolidated Financial Statements and related notes, as well as the related disclosure of contingent assets and liabilities at the date of the financial statements. Management evaluates its accounting policies, estimates and judgments on an ongoing basis. Management bases its estimates and judgments on historical experience, current trends and various other factors that are believed to be relevant at the time the Consolidated Financial Statements are prepared. Actual results may differ from these estimates under different assumptions and conditions. To the extent that there are differences between our
+
+estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+
+Management evaluated the development and selection of its critical accounting estimates and believes that the following involve a higher degree of judgment, complexity or uncertainty and are most significant to reporting our results of operations and financial position, and are therefore discussed as critical. The following critical accounting policies reflect the significant estimates and judgments used in the preparation of our Consolidated Financial Statements.
+
+Equity Based Compensation
+
+We follow ASC 718, Compensation-Stock Compensation, to account for our equity based compensation.
+
+Stock-based Compensation
+
+ASC 718 requires all stock-based payments to employees, including grants of employee stock options and restricted stock units, to be recognized in the income statement based on their fair values. Historically, we have granted option awards, and we would measure the fair value of our options on the date of grant using the Black-Scholes pricing model which requires the use of several estimates, including the volatility of our share price, the expected life of the option, risk free interest rates and expected dividend yield. The use of different assumptions in the Black-Scholes pricing model would result in different amounts of equity based compensation expense. While we do not currently grant options, if we were to grant options in the future and use different assumptions for calculating Black-Scholes values in future periods, our equity based compensation expense could be materially impacted in the future.
+
+Prior to the completion of our IPO, we were not a publicly traded company and had only limited historical information on the price of our common stock as well as employees’ option exercise behavior. As a result, we could not rely on historical experience alone to develop assumptions for our share price volatility. As such, our share price volatility was estimated with reference to a peer group of companies. Subsequent to the completion of our IPO, we transitioned to utilize the closing price of our publicly-traded stock to determine our volatility. We determined the expected life of our options using the simplified method described in the SEC Staff Accounting Bulletin Topic 14, Share-Based Payment, which defines the expected life as the average of the contractual term and the vesting period. The risk-free interest rate is based on the yield curve of a zero-coupon U.S. Treasury bond on the date the option award was granted with a maturity equal to the expected term of the option award. We have not and do not expect to pay dividends on our common shares. See Note 10, “Stock-Based Compensation,” in the notes to our Consolidated Financial Statements in the notes to our Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for a discussion of equity based compensation.
+
+Restricted Stock Units (RSUs)
+
+We began to grant RSUs in November 2020. The fair value of RSUs is estimated based on the fair value of our common stock on the date of grant. Each RSU vests based upon the satisfaction of length of service. We measure and recognize stock-based compensation expense for all stock-based awards based on the estimated fair value of the award.
+
+Performance-based RSUs
+
+In June 2021, we granted an aggregate of 1.8 million performance-based RSUs (“Founder Awards”) to our founders. The Founder Awards vest upon the satisfaction of both a service-based condition and a performance-based condition and generally are settled one year after vesting. The service-based condition is satisfied as to 25% of the Founder Awards on each anniversary of the initial public offering, July 30, 2021, subject to the continuous service of the founders through the applicable date. The performance-based condition will be satisfied with respect to each of ten equal tranches only upon the
+
+achievement of the specified stock-price hurdles for each such tranche over a period of ten years from the date of grant. The fair value of the Founder Awards is determined using a model based on multiple stock-price paths developed through the use of a Monte Carlo simulation that incorporates into the valuation the possibility that the stock-price hurdles may not be satisfied. The associated stock-based compensation is recorded over the derived service period, using the accelerated attribution method. If the stock-price hurdles are met sooner than the requisite service period, the stock-based compensation expense will be adjusted to prospectively recognize the remaining expense over the remaining derived service period. Provided that the founders continue to provide services to us, stock-based compensation expense is recognized over the derived service period, regardless of whether the stock-price hurdles are achieved.
+
+Income Taxes
+
+Deferred tax assets (“DTAs”) and liabilities are recognized principally for the expected tax consequences of temporary differences between the tax basis of assets and liabilities and their reported amounts, using currently enacted tax rates. The measurement of a deferred tax asset is reduced, if necessary, by a valuation allowance if it is more likely than not that some portion or all of the deferred tax asset will not be realized. Significant judgment is required in evaluating the need for and magnitude of appropriate valuation allowances. The realization of our deferred tax assets is dependent on generating future taxable income and the reversal of existing temporary differences. Changes in tax laws and assumptions with respect to future taxable income could result in adjustment to these allowances.
+
+During the three months ended September 30, 2025, the Company released the valuation allowance previously recorded against its federal and state DTAs, resulting in a one-time income-tax benefit, net of a return-to-provision adjustment, in the period of $256.7 million. In reaching this conclusion, management considered, among other factors, consecutive quarterly pre-tax profitability, a three-year cumulative income position, and sustained operational profitability. Management will continue to monitor quarterly operating results, projected taxable income, and other relevant evidence, and may record a valuation allowance in future periods if actual results or other information differ from current expectations.
+
+In addition, we recognize a tax benefit for uncertain tax positions only if we believe it is more likely than not that the position will be upheld on audit based solely on the technical merits of the tax position. We evaluate uncertain tax positions after the consideration of all available information.
+
+Internal Use Capitalized Software
+
+We capitalize certain costs related to the development of our platform and other software applications for internal use. In accordance with authoritative guidance, we begin to capitalize our costs to develop software when preliminary development efforts are successfully completed, management has authorized and committed project funding, and it is probable that the project will be completed and the software will be used as intended. We stop capitalizing these costs when the software is substantially complete and ready for its intended use, including the completion of all significant testing. These costs are amortized on a straight-line basis over the estimated useful life of the related asset, generally estimated to be three years. We also capitalize costs related to specific upgrades and enhancements when it is probable the expenditure will result in additional functionality and expense costs incurred for maintenance and minor upgrades and enhancements. Costs incurred prior to meeting these criteria together with costs incurred for training and maintenance are expensed as incurred and recorded within research and development expenses in our consolidated statements of operations.
+
+We exercise judgment in determining the point at which various projects may be capitalized, in assessing the ongoing value of the capitalized costs and in determining the estimated useful lives over which the costs are amortized. To the extent that we change the manner in which we develop and test new features and functionalities related to our platform, assess the ongoing value of capitalized assets or determine the
+
+estimated useful lives over which the costs are amortized, the amount of internal-use software development costs we capitalize and amortize could change in future periods.
+
+Recent Accounting Pronouncements
+
+See Note 1, “Description of the Business and Basis of Presentation,” and Note 2, “Summary of Significant Accounting Policies,” in the notes to our Consolidated Financial Statements included in Part II, Item 8 of this Annual Report on Form 10-K for a discussion of recent accounting pronouncements.

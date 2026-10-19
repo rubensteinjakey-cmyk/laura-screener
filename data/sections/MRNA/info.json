@@ -1,0 +1,43 @@
+{
+  "ticker": "MRNA",
+  "accession_number": "0001682852-26-000033",
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "full_text_words": 90361,
+  "sections": {
+    "item1": {
+      "words": 24215,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          24215,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7726,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7726,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 126,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 261
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1206,
+  "human_capital_found": true,
+  "people_paragraph_words": 1874
+}

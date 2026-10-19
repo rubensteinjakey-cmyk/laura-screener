@@ -1,0 +1,203 @@
+ITEM 1. BUSINESS
+
+Overview
+
+Dynatrace combines broad and deep observability, continuous runtime application security, and advanced agentic AI operations to deliver answers and intelligent automation across IT operations, development, security, business, and executive teams. This unified approach enables organizations to optimize their rapidly evolving AI, cloud, and IT operations, accelerate secure software delivery, and improve digital performance. Our vision is a world where software works perfectly.
+
+The Dynatrace platform is built to scale, partnering and integrating seamlessly into hybrid, multicloud ecosystems, including major hyperscalers such as Amazon Web Services (“AWS”), Microsoft Azure (“Azure”), and Google Cloud Platform (“GCP”), as well as traditional on-premises and mainframe solutions.
+
+Our customers include many of the world’s largest enterprises which deploy the Dynatrace platform to support increasingly complex IT environments. As workloads scale and cybersecurity threats evolve, cloud modernization and rapid AI adoption have significantly increased data volume and complexity, rendering traditional monitoring and observability approaches insufficient for many organizations. We believe this positions Dynatrace to address a significant market opportunity through our differentiated platform, deep cloud ecosystem integrations, and trusted customer and partner relationships.
+
+Key Differentiators
+
+Dynatrace offers a fully integrated platform that brings together differentiated data, context, and intelligence layers. The Dynatrace platform’s architecture is built for the scale and complexity of modern cloud and AI-driven observability and operations. We believe the Dynatrace platform is different from other offerings through three connected capabilities:
+
+•Dynatrace has a unified data foundation. We store and consolidate all observability, security, and business data types, including logs, traces, metrics, real user data, events, sessions, and other telemetry, in an integrated, highly performant and massively scalable data lakehouse called GrailTM, without the need for upfront indexing, schema design, or data movement. Through Grail’s single authoritative data layer, we enable AI to work from a comprehensive set of continuously updated information, which we believe makes insights and actions faster, more reliable, and more scalable than fragmented toolchains and multiple data stores.
+
+•The Dynatrace platform provides near real-time causal context. Dynatrace stores unified data in context, and our proprietary Smartscape® technology is able to analyze billions of interdependencies across applications, infrastructure, networks, services, users, and other signals throughout an enterprise. Smartscape continuously maps these relationships, creating a living, near real time dependency graph. This allows an organization using Dynatrace to understand not just what is happening, but why it is happening and the resulting business and operational impact, providing a trusted foundation needed for AI-driven decisions, reliable automation, and autonomous operations.
+
+•The Dynatrace platform utilizes AI-driven reasoning and automation. Earlier this year, we announced the general availability of Dynatrace Intelligence, a new agentic operations system built for modern software ecosystems that combines deterministic AI with agentic AI. Dynatrace Intelligence empowers organizations to build more resilient applications, elevate customer experiences, and drive autonomous action across modern digital ecosystems. With Dynatrace Intelligence at its core, we believe our platform is purpose-built for the agentic era, enabling a future where AI-powered observability can help customers automatically prevent, remediate, and optimize their IT environments. We believe our experience in AI gives our customers a competitive advantage in developing their own AI initiatives. We are continuing to invest in AI best practices in services, data, and observability to support our customers on their AI journeys and to enable AI practices of our partners.
+
+The Dynatrace Platform
+
+The Dynatrace platform comprises several solutions, including the following:
+
+•AI Observability (LLM and Agentic AI Observability) provides observability to improve the performance, resilience, explainability, and compliance of generative AI applications, large language models (“LLMs”), and agentic systems - including agent-to-agent interactions and actions taken by agents to better monitor and manage these workloads.
+
+•Log Management and Analytics provides a unified approach to unlock the value of log data in the Dynatrace platform and can be developed for different use cases with enterprise-grade extensibility and customization.
+
+•Modern Cloud Observability natively integrates with cloud and container environments to transform our customers’ cloud operations with complete visibility and proactive monitoring across their entire cloud infrastructure in one platform.
+
+•Infrastructure Observability provides complete visibility into a customer’s IT infrastructure layer across public and private clouds and hybrid, multicloud environments, including AWS, Azure, Google Cloud, VMware Tanzu, Red Hat OpenShift, and Kubernetes.
+
+•Application Observability monitors the full stack (i.e., front-end and back-end technologies) through application performance monitoring (“APM”), distributed tracing, and profiling across public and private clouds and hybrid, multicloud environments.
+
+•Digital Experience allows customers to monitor user experiences across channels with real-user and synthetic monitoring and session replays and encompasses mobile and web applications.
+
+•Application Security automatically and continuously detects runtime vulnerabilities in applications, libraries, and code. It also provides near real-time detection and blocking to help protect against third-party cyber-attacks that can exploit critical vulnerabilities.
+
+•Software Delivery leverages observability and security data to drive workflow automations created with a visual workflow creator or automation-as-code.
+
+•Developer Experience is built upon rich data and context from the Dynatrace platform and puts it in the hands of developers to improve software resiliency and security.
+
+•Business Analytics unify data flowing through the Dynatrace platform to provide precise, near real-time answers that enable teams to understand how the performance of their digital services affects critical key performance indicators and provides insights to help improve user experiences and drive better business outcomes.
+
+The Dynatrace platform also includes the following:
+
+•Bindplane offers telemetry pipelines that capture, optimize, and deliver data in an actionable form. This technology, which has become foundational to modern software ecosystems, optimizes and governs telemetry at the edge to improve data quality, reduce ingest costs, and enhance compliance through the removal, masking, and encryption of sensitive data.
+
+•OpenPipeline uses high performance, stream processing technology to ingest, enrich, and contextualize data from a variety of sources (such as OpenTelemetry) for in-depth, AI-powered analytics. This helps organizations manage the cost and scale of large amounts of data, understand the context, and address security requirements.
+
+•OneAgent deploys once on a host and instantly and continuously collects all relevant data and metrics along the full chain of applications that are being delivered. OneAgent helps organizations discover which processes are running on the host and automatically activates instrumentation.
+
+•PurePath® captures and analyzes timing and code-level context for all distributed traces, end-to-end, across the full stack.
+
+Key Customer Benefits
+
+We believe the Dynatrace platform’s integrated approach reduces or eliminates the need for organizations to maintain a variety of disparate and siloed tools and helps them:
+
+•improve the reliability and performance of their infrastructure and applications, which can help optimize the experience of their own users;
+
+•improve organizational productivity, decision making and innovation, while also increasing transparency and collaboration between IT, site reliability engineers, development teams, and other business functions;
+
+•tackle the complexity of emerging AI workloads, which are fundamentally more dynamic and less predictable than traditional software solutions;
+
+•reduce operating costs; and
+
+•mitigate risk.
+
+Dynatrace Deployment and Operations
+
+Dynatrace provides out-of-the-box configuration for the leading cloud platforms, such as AWS, Azure, GCP, Red Hat OpenShift, and SAP, the leading AI and agentic AI frameworks and platforms, as well as Kubernetes and coverage for traditional on-premises systems, including mainframe and monolithic applications in a single, easy-to-use, intelligent platform.
+
+The majority of our customers deploy Dynatrace as a Software-as-a-Service (“SaaS”) solution to get the latest Dynatrace features and updates with greatly reduced administrative effort. Our SaaS solution provides customers with the ability to scale up and down rapidly, without having to purchase, provision, and manage their hardware. We also provide options to deploy our platform in customer-provisioned infrastructure, which we call Dynatrace Managed. This offering allows customers the flexibility to maintain control of the environment where their data resides, whether in the cloud or on-premises, combining the simplicity of SaaS with the ability to adhere to their own data security and sovereignty requirements. We automatically upgrade all Dynatrace instances and offer on-premises cluster customers auto-deployment options that suit their specific enterprise management processes.
+
+The Dynatrace Platform Subscription (“DPS”) licensing model provides customers with a flexible, scalable, and transparent subscription for the modern cloud. Under the DPS licensing model, a customer makes a minimum annual spend commitment at the platform level and then consumes that commitment based on actual usage and a straightforward rate card. Any platform capability can be used in any quantity at any time based on the customer’s evolving needs. If a customer consumes more than their minimum annual spend commitment, they are not charged a penalty-style overage and they can continue to use the platform on an on-demand basis, billed monthly at the same rates as pre-paid consumption. Customers can alternatively increase their commitment spend to attain a higher discount. Existing Dynatrace customers can also license individual capabilities in a subscription model. Through a suite of tools in the Dynatrace Account Management portal, we provide customers with a near real-time view of licensed product consumption, with historical analysis at the daily or hourly level. In addition to raw data, these tools also provide customers with forecasting, alerting, and drilldowns that provide insights into their usage patterns.
+
+Customers
+
+As of March 31, 2026, we had approximately 4,100 customers in over 110 countries. Our customers reflect diverse industries including, but not limited to, banking and financial services, government, insurance, retail and wholesale, transportation, and software. There were no end-customers that represented more than 10% of revenue for the years ended March 31, 2026, 2025, and 2024. For the years ended March 31, 2026 and 2025, one channel partner accounted for 10% of revenue. No channel partners accounted for more than 10% of revenue for the year ended March 31, 2024.
+
+Research and Development
+
+We have a strong research and development organization that is responsible for designing, developing, testing, and operating all aspects of our offerings, including addressing new use cases, adding new innovative capabilities, extending the scale and scope of our technology, and embracing modern cloud and AI technologies while maintaining high quality.
+
+We utilize an agile development process with 100% test automation to deliver major software releases throughout the year and hundreds of minor releases, fixes and updates. We believe the full stack monitoring required by dynamic multicloud environments requires a highly efficient and agile process to enable high-performing software across the diverse, dynamic cloud ecosystems of our customers.
+
+Sales and Marketing
+
+We take Dynatrace to market through a combination of our global direct sales team and a network of partners, including GSIs, cloud providers, resellers, and technology alliance partners. Dynatrace addresses customer needs at various scales and sizes, but our global direct sales team targets the largest 15,000 companies globally.
+
+Our sales and marketing organizations seek to promote the Dynatrace brand, our platform capabilities, and develop partnerships to drive revenue growth. We utilize a variety of go-to-market strategies, including LLM and search-engine optimization, online advertising, free software trials, events, online webinars, and broad content marketing strategies. We nurture our existing customer base through ongoing education, and training, including expansion opportunities. We do this primarily through our digital online channels, such as the Dynatrace blog, Dynatrace Community, and Dynatrace University, as well as our customer event series ‘Perform’ and ‘Innovate.’
+
+Partners
+
+We develop and maintain partnerships that help us market and deliver our offerings to our customers around the world. Our goal is to bring together industry experts and hands-on practitioners to create a world-class partner network. Through this intersection of industry and technology, our partner network extends the sales reach of the Dynatrace go-to-market team, while bringing enhanced value to our customers. This ecosystem contributes in all phases of our go-to-market approach: new sales opportunities, adoption, expansion through the identification of new use cases, integration into other market leading independent software vendors, and connecting us into other companies’ business transformation initiatives.
+
+Our partner network includes:
+
+•Global system integrators. We work closely with a number of strategic GSIs, including Accenture, Atos, Deloitte, DXC, and Kyndryl, to help customers digitally transform their businesses and reduce cloud complexity. We continue to see a robust technical readiness investment from our key strategic GSIs resulting in thousands of individuals trained or certified on the Dynatrace platform. In addition, we continue to foster relationships with a network of regional systems integrators, including AHEAD, Computacenter, Trace3, and World Wide Technology, that help joint customers integrate our offerings into their multicloud ecosystems. These partners extend our scale and reach and collaborate with our direct sales teams, bringing domain expertise in technologies and industries along with additional offerings powered by Dynatrace.
+
+•Cloud providers. We work with the major cloud providers to drive joint innovation for customers, increase awareness of Dynatrace offerings, and make it easy for customers to access our software. Our software is developed to run in and integrate with leading cloud providers, such as AWS, Azure, and GCP. During our fiscal 2026, we announced deeper technical engagements with each of the major hyperscalers. Our customers are also able to procure our software through leading marketplaces, such as AWS, Azure, SAP, and Google.
+
+•Resellers. Our resellers market, sell and deliver our offerings throughout the world. Our resellers often have a dedicated practice around observability. In addition, our resellers provide a go-to-market channel in countries and regions where we do not have a direct presence.
+
+•Technology alliance partners. We partner with leading innovative technology organizations such as Atlassian, Red Hat, ServiceNow, and VMware to develop integrations, best practices, and extended capabilities that help our customers and solution partners achieve faster time to market and enhanced value in dynamic multicloud environments.
+
+Professional Services
+
+Our Dynatrace Services Organization empowers our customers to innovate, automate, and transform the way they work with the Dynatrace platform through AI-driven insights and capabilities. Our expertise and cloud modernization practices cover cloud ecosystem integration, automated incident management and problem resolution, DevOps integration, user experience, business intelligence insights, digital business analytics, and more.
+
+Dynatrace University is our global online, self-service education program that provides several learning options for customers and partners to develop their skills around monitoring, managing, integrating, and analyzing multicloud environments and application workloads with Dynatrace.
+
+Customer Support
+
+We have an innovative onboarding and support service that is focused on simplifying and streamlining customer experience. We use in-product chat as the primary vehicle for customer interaction to drive adoption and growth, as well as to handle issues and user questions. We maintain a SaaS-like connection to tenants and clusters in the cloud, managed on customer provisioned infrastructure, and disconnected on customer provisioned infrastructure. Our customer support also includes product updates and upgrades, online access to documentation, a knowledge base, and discussion forums as well as access to Dynatrace University. We also offer an extra level of success and support services for customers that want to accelerate their adoption of our platform, increase their access to support globally 24/7, and extend their hours of expert coverage.
+
+Our Growth Strategy
+
+Key elements of our growth strategy include:
+
+Extend our technology and market leadership position. We intend to maintain our position as a leading AI-powered observability platform through increased investment in research and development, and innovation. We plan to expand the functionality of our end-to-end Dynatrace platform and invest in capabilities that address new market opportunities. We plan to continue evolving our AI capabilities to drive differentiation, with a continued focus on agentic AI capabilities and functionalities that can act autonomously to make decisions and take actions without human intervention. We also believe we are well positioned to continue growing our next generation log management offering, which integrates logs, traces, metrics, and other core observability and security data types into a a fully integrated platform with a single datastore, providing customers with greater value than log management solutions that are viewed as too expensive, providing too little value, or largely operating independently from existing monitoring tools. We believe this strategy will enable new growth opportunities and allow us to deliver differentiated high-value outcomes to our customers.
+
+Expand and strengthen our relationships with existing customers. We plan to establish new and deeper relationships within our existing customers’ organizations and expand the breadth of our platform capabilities to provide for expansion opportunities. In addition, we believe the ease of implementation of Dynatrace provides us with the opportunity to expand adoption within our existing enterprise customers, across new customer applications, with AI-native, cloud-native and development teams, and into additional business units or divisions. We also believe that our DPS licensing model will drive broader consumption of the Dynatrace platform and further expansion opportunities for customers that prefer the flexibility and predictability of pricing under that model. With access to the full Dynatrace platform, DPS customers are able to adopt Dynatrace more broadly across their IT environments, which can lead to increased consumption.
+
+Grow our customer base. We intend to drive new customer growth through ongoing investments in our go-to-market strategy focused on customer segmentation, partner enablement, and continued expansion of our sales motion beyond application performance to include end-to-end observability, tool consolidation, and cloud modernization. We plan to continue addressing customer needs at various scales and sizes, with our global direct sales team targeting the largest 15,000 companies globally. In addition, we plan to expand our reach internationally to what we believe are large, mostly untapped, markets for our company, while leveraging our sector specialization globally. We also are focused on intuitive ways for customer teams to onboard and receive additional value from Dynatrace, including through our free trial program.
+
+Leverage our strategic partner ecosystem. We intend to invest in our strategic partner ecosystem, with a particular emphasis on building and deepening AI- and cloud-focused, loyal and comprehensive partnerships with GSIs and hyperscaler cloud providers. Cloud migration and modernization are foundational growth drivers for our strategic partners and our company. Our strategic partners work with their customers to help them digitally transform their businesses and reduce cloud complexity. By working more closely with strategic partners, our objective is to participate in digital transformation projects earlier in the purchasing cycle and enable customers to establish more resilient cloud deployments from the start.
+
+IP
+
+We rely on a combination of patent, copyright, trademark, trade dress, and trade secret laws, as well as confidentiality procedures and contractual restrictions, to establish and protect our proprietary rights. As of March 31, 2026, we had 176 issued patents, 104 of which are U.S. patents, and 108 pending applications, of which 66 are U.S. applications. Our issued patents expire at various dates through November 2044.
+
+We have registered “Dynatrace” and the “Dynatrace” logo as trademarks in the United States and other jurisdictions for our name and our product as well as certain other words and phrases that we use in our business, including “OneAgent,” “PurePath,” and “Smartscape.” We have registered numerous Internet domain names related to our business. We also license software from third parties for integration into our applications and utilize open-source software.
+
+We enter into agreements with our employees, contractors, customers, partners, and other parties with which we do business to limit access to and disclosure of our confidential and proprietary information. See the “Risk Factors” section of this Annual Report for a discussion of risks related to our IP.
+
+Competition
+
+The markets for AI observability, log management and analytics, modern cloud observability, infrastructure observability, application observability, digital experience, application security, software delivery, developer experience, and business analytics are evolving, complex, and defined by rapidly changing technology and customer needs. As we have expanded our platform capabilities, we increasingly compete with a wider range of vendors. We expect competition to continually evolve as enterprises shift to dynamic multicloud environments and as more mature vendors look to provide a holistic approach in areas of the market that we serve.
+
+The principal competitive factors in our markets are:
+
+•product features, functionality, and reliability;
+
+•AI capabilities;
+
+•automation;
+
+•ease and cost of deployment, use, and maintenance;
+
+•deployment options and flexibility;
+
+•customer, technology, and platform support;
+
+•ability to easily integrate with customers’ software application and IT infrastructure environments;
+
+•the quality of data collection and correlation;
+
+•interoperability and ease of integration;
+
+•pricing (including ease of pricing) and perceived value of offerings; and
+
+•brand recognition.
+
+We compete either directly or indirectly with infrastructure monitoring vendors, APM vendors, log management vendors, digital experience monitoring (“DEM”) vendors, security vendors, open source and commercial open source vendors, point solutions from public cloud providers, and IT operations management and business intelligence providers with offerings that cover some portion of the capabilities that we provide. Our principal competitors include Cisco (which includes AppDynamics and Splunk), Datadog, Elastic, Grafana, and New Relic.
+
+We also face potential competition from vendors in adjacent markets that may offer capabilities that overlap with ours. Companies entering our markets, including large technology companies that could expand their platforms or acquire one of our competitors, may compete with us. We may also face greater competition from non-specialist solutions relying on generic LLMs, generative AI, and general-purpose agents to address a broad range of business needs. See the “Risk Factors” section of this Annual Report for a discussion of risks related to competition.
+
+Sustainability
+
+Overview
+
+At Dynatrace, we believe technology has the power to shape the world in many ways, including as a force for good to drive innovation and foster a more sustainable future. We believe that focusing on sustainability is part of our responsibility as a global company. We group our material sustainability topics into three key pillars: sustaining our environment; people, culture, and community; and governance and ethics. With these topics at the forefront, we have embedded our sustainability strategy in our business priorities, mission, purpose, vision, and values. Our people, culture, and community pillar includes human capital management, which we discuss in more detail below.
+
+During our fiscal 2026, we continued to develop and implement programs that drive progress on our sustainability initiatives, which we shared in our annual Sustainability Report in December 2025. A copy of our most recent Sustainability Report is posted on our website at www.dynatrace.com/company/sustainability/. The contents of our Sustainability Reports are not incorporated into this Annual Report and inclusion of the website address above is an inactive textual reference only.
+
+Human Capital Management
+
+Our company’s vitality is fueled by our employees who represent the approximately 40 countries in which we operate. At Dynatrace, people power our progress. Our culture, values, and global community shape how we work, how we innovate, and how we support our customers. In fiscal 2026, our teams played a central role in strengthening belonging, developing leaders, and building a workforce where people can grow and contribute to meaningful outcomes. Our most senior leaders, including our Chief Executive Officer and Chief People Officer, are visible and engaged advocates of our human capital management strategy and continued to discuss various human capital-related topics with our Board of Directors throughout the fiscal year.
+
+For several years, third party organizations have recognized Dynatrace as an employer of choice around the globe. As of March 31, 2026, we had approximately 5,600 employees, approximately 30% of whom were located in the United States, and approximately 28% of whom were located in Austria. Some of our employees in Europe are represented by works councils or are members of a trade union. We have not experienced any work stoppages due to labor disputes. We believe that our relations with our employees and works councils are good.
+
+We have prioritized a number of initiatives as part of our human capital management strategy. These initiatives include: (1) inspiring employee engagement; (2) attracting and retaining the right talent; (3) investing in people and building the future; and (4) supporting an inclusive environment.
+
+Inspiring employee engagement – We seek to inspire employee engagement through leadership effectiveness, structured feedback surveys and conversations, and programs that support career growth. We also support employee engagement through the Dynatrace Work Model, which has flex and remote options to support productivity and collaboration. For our Dynatrace-operated offices, our goal is to create dynamic environments that foster inclusion and connection, with designs and layouts that support creativity and wellbeing and embed sustainability.
+
+Attracting and retaining the right talent – We focus on attracting and retaining talent by offering a differentiated employee value proposition that supports career longevity through meaningful engagement and development. Our approach includes career frameworks, opportunities for internal mobility, and programs that provide employees with opportunities to grow and contribute. We also value the health and wellbeing of our employees and we provide resources to employees that are focused on this area. Our compensation program is designed to attract, reward, and retain talented individuals who possess the skills necessary to support our business, contribute to our strategic goals, and create long-term value for our stockholders.
+
+Investing in people and building the future – We invest in our employees through talent development strategies that support growth at every level. We utilize leadership programs, a global mentoring program, and other initiatives that foster connection across our distributed workforce. We also embrace a culture of continuous learning and offer various programs in this area.
+
+Supporting an inclusive environment - We pride ourselves on providing a culture that empowers our employees, fosters inclusion across the entire career experience, and services the communities that we impact. Our presence and talent across approximately 40 countries provides us with valuable insights into the experiences and perspectives of different communities around the globe. Our employee resource groups play a strategic role in advancing an inclusive and supportive workforce.
+
+Corporate Information
+
+Our principal executive offices are located at 280 Congress Street, 11th Floor, Boston, Massachusetts 02210, and our telephone number is (781) 530-1000. Our website is www.dynatrace.com and our Investor Relations website is https://ir.dynatrace.com. Information contained on, or that can be accessed through, our websites is not incorporated by reference into this Annual Report and should not be considered to be part of this Annual Report, and inclusions of our website addresses in this Annual Report are inactive textual references only.
+
+The Dynatrace design logo and our other registered or common law trademarks, service marks or trade names appearing in this Annual Report are the property of Dynatrace LLC. This Annual Report includes our trademarks and trade names, including, without limitation, Dynatrace, OneAgent®, Smartscape®, PurePath® and GrailTM which are our property and are protected under applicable IP laws. Other trademarks and trade names referred to in this Annual Report are the property of their respective owners.
+
+Available Information
+
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, including amendments and exhibits to these reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are available free of charge on the Investor Relations section of our website at https://ir.dynatrace.com as soon as reasonably practicable after we file or furnish such material with the SEC. The SEC maintains a website at www.sec.gov that contains our SEC filings and other information regarding us and other companies that file materials with the SEC electronically.
+
+Investors and others should note that we announce material financial information to our investors using our Investor Relations website, press releases, SEC filings and public conference calls and webcasts. We also use these channels to disclose information about the company, our planned financial and other announcements, attendance at upcoming investor and industry conferences, and for complying with our disclosure obligations under Regulation FD. The information we post through these channels may be deemed material. Accordingly, we encourage investors to review the information we make available through these channels.

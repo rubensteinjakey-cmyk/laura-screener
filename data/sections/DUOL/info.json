@@ -1,0 +1,43 @@
+{
+  "ticker": "DUOL",
+  "accession_number": "0001628280-26-012494",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "full_text_words": 61044,
+  "sections": {
+    "item1": {
+      "words": 5663,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5663,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8314,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8314,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 731,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 6,
+      "paragraphs_total": 320
+    }
+  },
+  "notes": [],
+  "human_capital_words": 764,
+  "human_capital_found": true,
+  "people_paragraph_words": 637
+}

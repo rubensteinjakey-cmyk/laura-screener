@@ -1,0 +1,43 @@
+{
+  "ticker": "ADP",
+  "accession_number": "0000008670-26-000030",
+  "filing_date": "2026-08-05",
+  "fiscal_year": 2026,
+  "full_text_words": 49569,
+  "sections": {
+    "item1": {
+      "words": 6979,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          6979,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8433,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8433,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 185,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 308
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1054,
+  "human_capital_found": true,
+  "people_paragraph_words": 4704
+}
