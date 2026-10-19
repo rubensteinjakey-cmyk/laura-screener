@@ -1,0 +1,329 @@
+{
+  "ticker": "CRBG",
+  "company_name": "Corebridge Financial",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-11",
+  "fiscal_year": 2025,
+  "accession_number": "0001889539-26-000022",
+  "scored_at": "2026-10-19T15:44:34",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description of annuities, life insurance and institutional products shows no creative activity; 'product design' and 'state-of-the-art' are trap terms.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 2: several specific current external education and community programs (Junior Achievement, scholarships, Kids In Need, pro bono, volunteering) plus employee development, but the only reach figure is more than 12,000 volunteer hours, with no participant or dollar figures; torn between 2 and 3, so the lower level applies.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E11"
+      ],
+      "valid_evidence_ids": [
+        "E11"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: company-sponsored ERGs with no membership figures; coverage is insufficient under condition 2 because the relevant inclusion discussion is under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 2: company-sponsored ERGs with no membership figures; coverage is insufficient under condition 2 because the relevant inclusion discussion is under about 150 words."
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing describes no small-business or founder enabling service, and 'innovation' and middle-market loan investments are not qualifying activities.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 20.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Employees teach financial literacy and career readiness to K-12 students through a Junior Achievement USA sponsorship",
+      "quote": "Through our sponsorship with Junior Achievement USA, our employees deliver financial literacy and career readiness lessons to K-12 students.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Supporting Communities: Taking Action Through Philanthropy and Volunteerism",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific current external education program, reach not quantified"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Financial education, career readiness training, mentoring and scholarships for high school and college students through nonprofit and university partnerships",
+      "quote": "In addition, we help high school and college students prepare for careers by providing financial education, career readiness training, mentoring and scholarships through partnerships with America Needs You, HBCU First, Rock the Street, Wall Street and local universities.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Supporting Communities: Taking Action Through Philanthropy and Volunteerism",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific current external education and scholarship partnerships, reach not quantified"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Free school supplies for students and teachers in low-income schools through a Kids In Need Foundation partnership",
+      "quote": "Together, we provide free, high-quality school supplies to students and teachers in schools where greater than 70% of students are low-income.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Supporting Communities: Taking Action Through Philanthropy and Volunteerism",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community partnership, reach not quantified"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Paid volunteer time off and employee volunteering",
+      "quote": "In 2025 employees volunteered more than 12,000 hours.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Supporting Communities: Taking Action Through Philanthropy and Volunteerism",
+      "status": "current",
+      "indicators": "16 hours of paid Volunteer Time Off; more than 12,000 hours",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: volunteering with figures, modest reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Matching Grants Program for employee charitable donations",
+      "quote": "Through our Matching Grants Program, we match charitable donations to causes important to our employees.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Supporting Communities: Taking Action Through Philanthropy and Volunteerism",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: named ongoing giving program, no dollars disclosed"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Partnership with the Foundation for Financial Planning to expand pro bono financial planning",
+      "quote": "As part of our commitment to promoting financial wellness and community resilience more broadly, we partner with the Foundation for Financial Planning to increase pro bono financial planning for Americans.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Supporting Communities: Taking Action Through Philanthropy and Volunteerism",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current nonprofit partnership, reach not quantified"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Legal Pro Bono program offering legal advice to people without other avenues of help",
+      "quote": "Our Legal Pro Bono program provides a range of pro bono services, including legal advice and counsel to those who might not have other avenues of assistance available to them.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Supporting Communities: Taking Action Through Philanthropy and Volunteerism",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: named pro bono program, reach not quantified"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E8",
+      "activity": "Enterprise learning ecosystem of courses and resources for employees",
+      "quote": "Our enterprise learning ecosystem offers a comprehensive range of courses and resources, including self-paced modules, immersive live programs, on-demand content, and digital libraries.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E9",
+      "activity": "Leadership Accelerator Series for current people leaders",
+      "quote": "Our Leadership Accelerator Series supports current people leaders in building core capabilities such as coaching, performance management, and leading through change.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E10",
+      "activity": "Early career programs: summer internships, a 24-month analyst development program, and an inaugural apprenticeship program",
+      "quote": "We also invest in building a sustainable pipeline of future-ready professionals through three Early Career Programs aligned to critical capability needs:",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Talent Development",
+      "status": "current",
+      "indicators": "three Early Career Programs; 24-month",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: talent pipeline programs for the company's own hires"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E11",
+      "activity": "Company-sponsored Employee Resource Groups open to all employees",
+      "quote": "As part of our employee engagement experiences, the company sponsors Employee Resource Groups (“ERGs”), which bring employees together based on a shared interest and reinforce a culture of inclusion and belonging in our organization.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management > Culture of Inclusion and Belonging",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The targeted Item 7 excerpt was empty, so all evidence comes from Item 1. Cross-cultural coverage is insufficient (condition 2), which triggers the automated sustainability-report second look. Excluded: (1) the founding membership in the Alliance for Lifetime Income, because its education promotes the company's own product category (annuities) and resembles 'educating customers as marketing'; (2) retirement education for Group Retirement plan participants, which is part of the core financial-services offering rather than an education business; (3) the Compassionate Colleague Fund, which is an employee hardship benefit. The HBCU First and Rock the Street, Wall Street partnerships (E2) may serve underrepresented students, but the filing does not describe who they serve, so they are not tagged for cross-cultural. Community was torn between levels 2 and 3 (named programs, but the only reach figure is volunteer hours), so the lower level was chosen.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 3,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

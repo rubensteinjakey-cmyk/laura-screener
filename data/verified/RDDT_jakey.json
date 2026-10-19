@@ -1,0 +1,251 @@
+{
+  "ticker": "RDDT",
+  "company_name": "Reddit",
+  "sector": "Communication Services",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-06",
+  "fiscal_year": 2025,
+  "accession_number": "0001713445-26-000022",
+  "scored_at": "2026-10-19T18:03:59",
+  "themes": {
+    "creativity": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "kinds": [
+        "enables"
+      ],
+      "reason": "Level 3: the platform enables user-created content and gives creative tools across every subreddit, but the filing frames the business as conversation, knowledge and advertising rather than creative work, so it is a real but not core creative line (torn with 4, picked lower).",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 4,
+      "score": 4,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "education_business"
+      ],
+      "reason": "Level 4: a community platform for peer learning and knowledge-sharing with 121.4 million DAUq is a major business line, but revenue comes from advertising and content licensing (torn with 5, picked lower).",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E5",
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E5",
+        "E6"
+      ],
+      "kinds": [
+        "customer_access",
+        "internal_practice"
+      ],
+      "reason": "Level 3: machine translation live in 35 languages with about one billion posts translated is customer access with substantial measured reach, plus ERGs without figures; not yet shown as a major business line (torn with 4, picked lower).",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E7"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: small- and mid-size businesses appear only as advertisers, and Reddit Pro is a general business-presence tool with no specific program aimed at founders' barriers.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 3,
+    "community": 4,
+    "cross_cultural": 3,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 60.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Runs a large online platform where users join and create communities to learn from one another and exchange knowledge",
+      "quote": "Reddit is a global, digital city where anyone in the world can join a community to learn from one another, engage in authentic conversations, explore passions, research new hobbies, exchange goods and services, create new communities and experiences, share a few laughs, and find belonging.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Overview: The Power of Reddit’s Communities",
+      "status": "current",
+      "indicators": "121.4 million daily active uniques (DAUq) in the three months ended December 31, 2025",
+      "themes": {
+        "community": {
+          "kind": "education_business",
+          "criterion": "level 4: community-building and peer learning is a major business line, with disclosed users"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Hosts user-made content in subreddits, including posts, links, images and videos",
+      "quote": "Within subreddits, Redditors engage in active and in-depth conversations by sharing experiences, submitting links, uploading images and videos, and replying to one another in comment threads on any topic.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Overview: The Power of Reddit’s Communities",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: platform enabling users to create and share content, a real but not core creative part of the business"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Gives moderators creative design tools and gives developers an open API to build bots and features for their communities",
+      "quote": "We give moderators the creative tools to design the look and feel of communities, and we give developers an open application programming interface (“API”) to build bots and create features that shape their communities, meaning what a community envisions for itself drives its unique development.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Flexible Canvas for Self- and Community-expression",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: creative tools offered across every subreddit"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Ask Me Anything features that creators and publishers use to connect with their audiences",
+      "quote": "In communities like r/ sonos and r/ fidelityinvestments, companies are providing troubleshooting tips, investment advice, and customer service, and creators and publishers are using our new Ask Me Anything (“AMA”) features to connect with their audience and fans on the platform.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Publishers, Brands, and Companies are Meeting their Audiences on Reddit",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 2: specific feature supporting creators, limited disclosed reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Machine translation of posts into many languages so non-English speakers can take part",
+      "quote": "As of December 31, 2025, machine translation is live in 35 languages and approximately one billion posts have been translated in various languages, including Spanish, French, Italian, German, Portuguese, Swedish, Dutch, and Filipino.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Strategy for Growing Users and Engagement > Grow Our International User Base",
+      "status": "current",
+      "indicators": "35 languages; approximately one billion posts translated",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 3: multilingual access feature with substantial measured reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Employee Resource Groups for veterans, BIPOC, LGBTQ+, employees of various abilities, women and allies",
+      "quote": "Just as our users seek community to address needs around belonging, we cultivate that within our company via our Employee Resource Groups (ERGs).",
+      "source_doc": "10-K",
+      "section": "Item 1 > Building the Future of the Internet at Reddit",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Reddit Pro tools that help businesses build an organic presence on Reddit",
+      "quote": "Reddit Pro offers tools for businesses to discover, join, and contribute to Reddit’s communities and conversations, building relationships with our platform that can evolve into advertising partnerships.",
+      "source_doc": "10-K",
+      "section": "Item 1 > The Future of Our Platform and Monetization Strategies > Advertising > Acquire More Advertisers",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: business tools that feed advertising, not aimed at barriers for founders or small businesses"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. Mission language ('empower communities', 'human creativity') was not scored on its own. Greater accessibility for small- and medium-sized businesses through future automation is planned, not current. The verified-profiles feature is a limited test, and Max campaigns (beta, January 2026) fall after the fiscal year; neither was scored. Reddit Answers rolling out to non-English languages supports the translation evidence but was not listed separately. Subreddits like r/ lgbt are user-run communities, not company programs, so they were not scored. The international user share (57%, 68.9 million international DAUq) was not scored because international reach alone does not count.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 0,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

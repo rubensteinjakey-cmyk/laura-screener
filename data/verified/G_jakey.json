@@ -1,0 +1,186 @@
+{
+  "ticker": "G",
+  "company_name": "Genpact",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "accession_number": "0001398659-26-000004",
+  "scored_at": "2026-10-19T18:14:00",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers AI, process, technology and operations services in detail and shows no creative activity; 'process design', 'human-centric design' and 'training design' are design-as-engineering traps.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E3",
+        "E4",
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E3",
+        "E4",
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 3: community investment through employee volunteering with substantial participant figures (more than 65,000 employees), supported by payroll giving and large-scale employee development.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific named internal programs to increase gender diversity in leadership (Pay it Forward, Women's Leadership) with no reach figures, plus equal-opportunity language.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1 (general language only): the filing mentions smaller, emerging companies as clients and collaboration with start-ups to enhance Genpact's own technology (own innovation), but no specific enabling service or program.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 3,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 29.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Company-wide Genome learning framework and AI skilling of employees, including partner certification programs",
+      "quote": "In 2025, our employees completed over 12.5 million learning hours, including an increase on time spent in technology and AI skilling by 1.5 times year-over-year.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our workforce > Employee development and engagement",
+      "status": "current",
+      "indicators": "over 12.5 million learning hours; 1.5 times; more than 7,000 AI builders; nearly 20,000 AI practitioners; more than 9,000 external certifications",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap applies to employee development)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Named leadership development and mentoring programs, including programs to increase gender diversity in leadership (Pay it Forward, Women's Leadership)",
+      "quote": "We have also developed a number of leadership development and mentoring programs, including our Global Operations Leadership Development and our Leadership Direct programs for high potential talent and our programs designed to increase gender diversity in our leadership ranks, such as our Pay it Forward and Women’s Leadership initiatives.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our workforce > Employee development and engagement",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        },
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific named internal programs for an underrepresented group, no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Employee volunteering for community causes, including mentoring children and young adults and providing meals to food-insecure communities",
+      "quote": "More than 65,000 of our employees have volunteered their time to support a range of causes, such as mentoring children and young adults, providing meals to food-insecure communities, planting saplings, and engaging in e-waste collection drives.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Corporate social responsibility",
+      "status": "current",
+      "indicators": "More than 65,000 employees",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 3: community investment (volunteering) with substantial participant figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Payroll-based charitable donation programs and virtual volunteering creating learning aids for students and materials for non-profits",
+      "quote": "Additionally, in 2025 more than 3,000 of our employees participated in our payroll-based charitable donation programs, and many of our employee volunteers participated in virtual volunteering initiatives such as creating learning aids for students, awareness posters for non-profits, and completing at-home sustainability challenges to build a better planet.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Corporate social responsibility",
+      "status": "current",
+      "indicators": "more than 3,000 employees",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific community giving program with participant figures, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 (targeted) excerpt was empty, so the scores rest on Item 1 only. The 65,000-volunteer figure (E3) has no stated time frame and may be cumulative. The surrounding paragraph describes ongoing activity ('We foster a culture of giving and volunteering'), so it is marked current, but a human may want to verify this. The Community 3 rests mainly on that figure. If it is judged non-current or cumulative, the score would fall to 2. 'Multilingual capabilities' of the global delivery model and training teams 'in our clients' cultures' were not counted for Cross-cultural, because they describe international delivery operations rather than inclusion or access activities. 'Health equity analytics' is listed only as a healthcare client service with no detail. 'Innovation Accelerator Partners' collaboration with start-ups is Genpact's own innovation, not enabling, so it is a trap for Entrepreneurship. Content moderation and trust and safety services are not creative activity.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 999,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

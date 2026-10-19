@@ -1,0 +1,114 @@
+{
+  "ticker": "PAG",
+  "company_name": "Penske Automotive Group",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "accession_number": "0001628280-26-012830",
+  "scored_at": "2026-10-19T17:57:32",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers vehicle and truck retail, distribution and leasing in detail and shows no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests only on general language ('enrich our communities', 'developing their talent') with no specific training or community program, and coverage is insufficient under condition 3 because the filing points to its Sustainability and Performance Report for community participation and human capital management and gives no specific activities itself.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1: this rests only on general language ('enrich our communities', 'developing their talent') with no specific training or community program, and coverage is insufficient under condition 3 because the filing points to its Sustainability and Performance Report for community participation and human capital management and gives no specific activities itself."
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests only on general statements ('diverse and inclusive workplace', 'inclusive culture') and anti-discrimination boilerplate with no specific practice, and coverage is insufficient under condition 3 because the filing points to its Sustainability and Performance Report for human capital management and gives no specific activities itself.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1: this rests only on general statements ('diverse and inclusive workplace', 'inclusive culture') and anti-discrimination boilerplate with no specific practice, and coverage is insufficient under condition 3 because the filing points to its Sustainability and Performance Report for human capital management and gives no specific activities itself."
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: small-business customers of the PTS rental business are served, but no specific enabling service or program is described.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 13.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Consumer truck rentals offered by equity affiliate PTS, whose customers include local small businesses",
+      "quote": "Customers typically include local small businesses and individuals seeking a do-it-yourself solution to their moving needs.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Penske Transportation Solutions > Full-service truck leasing, truck rental, and contract maintenance",
+      "status": "current",
+      "indicators": "3% of its revenue for 2025",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: small-business customers with no specific enabling service"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Community and Cross-cultural are marked insufficient (condition 3), so this company qualifies for the automated second look using the Sustainability and Performance Report, which the filing says is on its website under 'Corporate Responsibility'. E1 relates to Penske Transportation Solutions, a 28.9% equity-method affiliate, not a consolidated operation. Excluded traps: 'designs' in the manufacturer trademark license; 'diversified' revenue and geography; 'create a strong sense of community' in social media marketing; 'identity theft prevention'; 'joint venture'; 'innovative' and 'technological innovations'. The independent rental agents and the non-company-owned dealer franchise network in Australia/New Zealand are distribution channels, not enabling programs. Safety consulting partnerships are compliance-related. The targeted Item 7 excerpt contains only a social media disclaimer with no relevant content.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 289,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

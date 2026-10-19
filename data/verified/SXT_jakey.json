@@ -1,0 +1,143 @@
+{
+  "ticker": "SXT",
+  "company_name": "Sensient Technologies",
+  "sector": "Materials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "accession_number": "0001140361-26-005311",
+  "scored_at": "2026-10-19T17:58:10",
+  "themes": {
+    "creativity": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "uses_as_input"
+      ],
+      "reason": "Level 1: the company makes colors, flavors and specialty ingredients, and its flavor and color formulation work is a routine product-development input, not the creation or enabling of creative work.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: the Human Capital section describes only employee development (role-based training and named trainee programs), so Community is capped at 2.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests on general language only, namely non-discrimination principles and skills-based hiring language, with no specific inclusion, accessibility or community-connecting activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests on general language only, a statement that customers include small entrepreneurial businesses, with no specific enabling service or program.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 1,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 26.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Role-based training and project work to develop and retain key employees",
+      "quote": "In order to continue to develop and retain our key talent, we offer training and project work based upon the employee’s role in the Company.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Talent Acquisition and Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Named in-house Sales Representative Trainee and Flavorist Trainee development programs",
+      "quote": "We invest in our development programs for high-impact roles, such as our Sales Representative Trainee and Flavorist Trainee programs.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Talent Acquisition and Talent Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        },
+        "creativity": {
+          "kind": "uses_as_input",
+          "criterion": "level 1: flavor creation used as a routine business input"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. Annual company-wide Code of Conduct and leadership training on the 'Four Rules' is compliance training and was not counted. Hiring 'from non-traditional backgrounds and from outside our industry' in favor of skills refers to career pedigree, not cultural or underrepresented groups, so it was kept at level 1 under the pick-the-lower rule. Asia Pacific products tailored 'to appeal to local preferences' are international operations and do not count. 'State-of-the-art laboratory facilities' is a trap term. 'Partnership' with business partners for seed lines and local sourcing partnerships with farmers are commercial arrangements, not community investment. Sensient Specialty Markets industrial and paper colors are not presented as art supplies. The quotes in E1 and E2 sit on single lines in the source.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 1268,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

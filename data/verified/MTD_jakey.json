@@ -1,0 +1,162 @@
+{
+  "ticker": "MTD",
+  "company_name": "Mettler Toledo",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-06",
+  "fiscal_year": 2025,
+  "accession_number": "0001037646-26-000011",
+  "scored_at": "2026-10-19T18:02:13",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers precision weighing, analytical and inspection instruments and related software and services, with no activity that creates or enables creative work (the 'design' references mean engineering or product design).",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: the only specific activity is employee training (about 91% of employees trained in 2025), so the employee-development cap of 2 applies.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "demographics_only"
+      ],
+      "reason": "Level 1: the filing gives only equal-opportunity and inclusiveness statements plus demographic statistics (gender share, almost 100 nationalities), with no specific inclusion practice or customer-access program.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E3"
+      ],
+      "kinds": [
+        "own_innovation"
+      ],
+      "reason": "Level 1: the filing shows only the company's own R&D and innovation, with no service or program that enables founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 19.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Company-wide training courses for employees, including part-time and temporary staff",
+      "quote": "During 2025, approximately 91% of employees completed one or more training courses, including part-time and temporary personnel.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Employees",
+      "status": "current",
+      "indicators": "approximately 91% of employees",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Disclosure of workforce gender statistics",
+      "quote": "As of December 31, 2025, approximately 36% of our global employee headcount was female, with approximately 30% holding management positions.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Employees",
+      "status": "current",
+      "indicators": "approximately 36% female; approximately 30% holding management positions",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Company's own research and development investment in product innovation",
+      "quote": "Over the last three years, we have invested $574 million in research and development ($199 million in 2025, $189 million in 2024, and $185 million in 2023), which is approximately 5% of net sales for each year.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Research and Development and Manufacturing > Research and Development",
+      "status": "current",
+      "indicators": "$574 million over three years; $199 million in 2025; approximately 5% of net sales",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "own_innovation",
+          "criterion": "level 1: company's own innovation"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 targeted excerpt was empty, meaning no MD&A paragraphs matched the theme terms. The Employees section runs to roughly 250 words and describes training, so Community and Cross-cultural are marked sufficient, and no second look is triggered. The Corporate Responsibility Report (www.mt.com/sustainability) is referenced but was not used. The following were considered and excluded: (1) Ohaus-branded lower-cost products sold to the 'educational market' are instrument sales, not an education business; (2) 'application expertise and training' in the Service business is customer service and support, not external education; (3) 'the academic community' is a customer-segment label (trap); (4) market organizations adapting to 'different cultural and economic conditions' and sales in 140+ countries are international operations, which do not count; (5) 'communities in which we operate' in the GreenMT sustainability text is general language with no specific activity.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 721,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

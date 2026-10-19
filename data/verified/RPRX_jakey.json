@@ -1,0 +1,139 @@
+{
+  "ticker": "RPRX",
+  "company_name": "Royalty Pharma plc",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-11",
+  "fiscal_year": 2025,
+  "accession_number": "0001802768-26-000003",
+  "scored_at": "2026-10-19T15:46:14",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description (acquiring biopharmaceutical royalties) shows no creative activity, and 'licensing' here refers to drugs and intellectual property, which is a listed trap.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1 on general language only ('support our employees across many facets of wellness and personal development' and 'engaging in philanthropic activities' with no specific program or figures); coverage is insufficient under condition 2 because the relevant human capital and community discussion is under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1 on general language only ('support our employees across many facets of wellness and personal development' and 'engaging in philanthropic activities' with no specific program or figures); coverage is insufficient under condition 2 because the relevant human capital and community discussion is under about 150 words."
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "demographics_only"
+      ],
+      "reason": "Level 1: only workforce demographic statistics are disclosed, with no inclusion or access activity; coverage is insufficient under condition 2 because the relevant workforce discussion is under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1: only workforce demographic statistics are disclosed, with no inclusion or access activity; coverage is insufficient under condition 2 because the relevant workforce discussion is under about 150 words."
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: the company finances biotechnology companies, including small and mid-cap ones, as ordinary capital provision with no specific enabling program for founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 13.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Provides royalty-based funding to innovators ranging from academic institutions and not-for-profits to small and mid-cap biotechnology companies and large pharmaceutical companies",
+      "quote": "Since our founding in 1996, we have been pioneers in the royalty market, collaborating with innovators from academic institutions, research hospitals and not-for-profits through small and mid-cap biotechnology companies to leading global pharmaceutical companies.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Overview",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: ordinary financing of companies, including small and mid-cap biotechs, with no specific program aimed at founder or small-business barriers"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Discloses workforce gender and ethnic diversity statistics",
+      "quote": "As of December 31, 2025, 48% of the workforce are women and approximately 36% of the workforce of are ethnically diverse.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital",
+      "status": "current",
+      "indicators": "48% women, approximately 36% ethnically diverse",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. 'Partner' and 'collaborating' refer to royalty, licensing and funding transactions, and 'innovation' is used in its trap sense; neither was scored as Community or Entrepreneurship. The mission statement ('accelerate innovation in life sciences and thereby positively impact patient lives globally') and the patient-access funding language are general claims. The company has 100 employees following the May 2025 Internalization. Community and Cross-cultural are marked insufficient, which triggers the automated second look using the company sustainability report. The E2 quote reproduces the filing's typo 'of are' exactly.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 1246,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

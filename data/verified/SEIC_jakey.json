@@ -1,0 +1,135 @@
+{
+  "ticker": "SEIC",
+  "company_name": "SEI Investments Company",
+  "sector": "Financials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-23",
+  "fiscal_year": 2025,
+  "accession_number": "0000350894-26-000013",
+  "scored_at": "2026-10-19T17:58:42",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers financial technology, operations and asset management and shows no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1 based only on general language ('make an impact on our communities'); coverage is insufficient under condition 2 because the human capital and corporate sustainability discussion is under about 150 words and describes no specific activity.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1 based only on general language ('make an impact on our communities'); coverage is insufficient under condition 2 because the human capital and corporate sustainability discussion is under about 150 words and describes no specific activity."
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1 based only on general values language ('welcome diverse perspectives to foster an inclusive environment'); coverage is insufficient under condition 2 because the relevant workforce discussion is under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1 based only on general values language ('welcome diverse perspectives to foster an inclusive environment'); coverage is insufficient under condition 2 because the relevant workforce discussion is under about 150 words."
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: advisors and start-up managers are served as customers, but there is no specific enabling service aimed at founder or small-business barriers (torn between 1 and 2, so the lower level was chosen).",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 13.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Practice management, business transition and marketing/growth services for independent financial advisors, bundled into the company's fees",
+      "quote": "We help advisors manage and grow their businesses by offering consultative practice management services, including access to our business transition services, case management expertise, third-party applications, thought leadership, and marketing and growth programs.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Business segments overview > Investment Advisors",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: a growth service for advisor-clients' businesses, but it is an ordinary fee-bundled B2B offering, not aimed at small-business or founder barriers, and the segment is moving toward larger enterprise RIAs"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Outsourced fund operations for investment managers of all sizes, including emerging and start-up managers",
+      "quote": "Our outsourcing solutions across the front-to-back office with best-in-breed technology accommodate investment managers of all sizes and complexities and enables them to focus on core business activities—from the unique needs of emerging and start-up managers to the complex needs of global, multi-asset hybrid managers.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Business segments overview > Investment Managers",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: start-up managers are served as ordinary customers, with no specific enabling program for them"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Community and Cross-cultural are marked insufficient, which triggers the automated second look using the company's sustainability report. Items treated as traps or excluded: 'customer education' (a client function, not company education); 'higher education' and 'not-for-profit organizations' (institutional clients only); 'foundation' in MD&A (used metaphorically); 'diversified portfolios'; 'product innovation'; the Global Capability Center in India (international operations alone do not count); and investments in new businesses (the company's own R&D). Stratos 'advisor-enablement' and succession-planning capabilities serve advisor businesses but give no specific founder or small-business enabling program and no reach figures, so they are not scored above 1. The FCA remediation matter involving SIEL is not relevant to the themes.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 109,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}
