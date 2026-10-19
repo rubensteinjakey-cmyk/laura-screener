@@ -1,0 +1,183 @@
+{
+  "ticker": "NVDA",
+  "company_name": "Nvidia",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001045810-26-000021",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T01:18:30",
+  "prompt_chars": 68590,
+  "filing_chars": 48589,
+  "filing_words_sent": 7116,
+  "approx_prompt_tokens": 17147,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sells workstation GPUs and software (Professional Visualization market) that artists use for creative work such as film visual effects",
+        "quote": "Professional artists, architects and designers use NVIDIA partner products accelerated with our GPUs and software platform for a range of creative, engineering, and design use cases, such as creating visual effects in movies or designing buildings and products.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Company",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 3: creator-facing product line (Professional Visualization, one of four named target markets) that is a real but minor part of the business"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Omniverse 3D design collaboration software for artists, designers and creators",
+        "quote": "Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers, and creators to connect and collaborate in leading design applications.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business Strategies > Extending our technology and platform leadership in computer graphics",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 3: named creative software product enabling artists and creators"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "GeForce PC GPUs sold to live streamers, broadcasters, artists and creators",
+        "quote": "In addition to serving the growing number of gamers, the market for PC GPUs is expanding because of the growing population of live streamers, broadcasters, artists, and creators.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Company",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: creator customer group for consumer GPUs, no figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Developer program supporting development of game titles optimized for NVIDIA platforms",
+        "quote": "Our developer program supports the development of AI frameworks, SDKs, and APIs for software applications and game titles that are optimized for our platforms.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sales and Marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific support for game creation, limited disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Deep Learning Institute provides in-person and online AI training to external developers worldwide",
+        "quote": "Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our platforms.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sales and Marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: named external skills program, but no participant or dollar figures and framed as platform promotion"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Employee development through on-the-job training and tuition reimbursement",
+        "quote": "We invest in employee development through on-the-job trainings and tuition reimbursement programs.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Inception program working with startups",
+        "quote": "We evangelize AI through partnerships with hundreds of universities and tens of thousands of startups through our Inception program.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business Strategies > Extending our technology and platform leadership in AI",
+        "status": "current",
+        "indicators": "tens of thousands of startups",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: named startup program, but the filing does not describe what support it gives and frames it as AI evangelism"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 3: enabling creative work through named creator-facing product lines (Professional Visualization GPUs, Omniverse, GeForce for creators) is a real but minor part of the business; no creative-specific revenue, users or customers are disclosed, so level 4 is not met."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: employee development plus a named external training program (Deep Learning Institute) with no participant or dollar figures, so substantial external reach for level 3 is not shown."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1 based on general language only (an 'inclusive culture' statement); coverage is insufficient under condition 2 because the only relevant discussion is one sentence of about 22 words within a human capital section of roughly 167 words."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7"
+        ],
+        "reason": "Level 2: a named startup program (Inception) reaching tens of thousands of startups, but the filing does not say what enabling support it provides, so between levels 2 and 3 the lower level is chosen."
+      }
+    },
+    "notes": "Cross-cultural coverage is insufficient, so a second look using the sustainability report is triggered. The Item 7 excerpt only discusses open-source foundation models and has no qualifying activity. Excluded as traps: 'foundation' models and 'foundational' CUDA; 'training' meaning AI model training; chip 'design' and co-design; IP 'license and development agreements'; supply chain and sales in Asia and the Middle East; 'innovation' language. The Deep Learning Institute and the university partnerships appear under Sales and Marketing and AI evangelism, which is close to the 'educating customers as marketing' trap, so DLI was given no more than level 2 and the 'hundreds of universities' partnerships were not scored separately. The Graphics segment (GeForce and RTX workstation GPUs) is a reported segment, but no revenue is given in the provided text and it is mostly gaming, which is consumption rather than creation, so Creativity is not scored at 4. The 7.5 million CUDA developers relate to NVIDIA's own platform ecosystem and were not counted for Entrepreneurship.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"NVDA\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sells workstation GPUs and software (Professional Visualization market) that artists use for creative work such as film visual effects\",\"quote\":\"Professional artists, architects and designers use NVIDIA partner products accelerated with our GPUs and software platform for a range of creative, engineering, and design use cases, such as creating visual effects in movies or designing buildings and products.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Company\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 3: creator-facing product line (Professional Visualization, one of four named target markets) that is a real but minor part of the business\"}}},{\"id\":\"E2\",\"activity\":\"Omniverse 3D design collaboration software for artists, designers and creators\",\"quote\":\"Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers, and creators to connect and collaborate in leading design applications.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business Strategies > Extending our technology and platform leadership in computer graphics\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 3: named creative software product enabling artists and creators\"}}},{\"id\":\"E3\",\"activity\":\"GeForce PC GPUs sold to live streamers, broadcasters, artists and creators\",\"quote\":\"In addition to serving the growing number of gamers, the market for PC GPUs is expanding because of the growing population of live streamers, broadcasters, artists, and creators.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Company\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: creator customer group for consumer GPUs, no figures disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Developer program supporting development of game titles optimized for NVIDIA platforms\",\"quote\":\"Our developer program supports the development of AI frameworks, SDKs, and APIs for software applications and game titles that are optimized for our platforms.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sales and Marketing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific support for game creation, limited disclosed reach\"}}},{\"id\":\"E5\",\"activity\":\"Deep Learning Institute provides in-person and online AI training to external developers worldwide\",\"quote\":\"Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our platforms.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sales and Marketing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: named external skills program, but no participant or dollar figures and framed as platform promotion\"}}},{\"id\":\"E6\",\"activity\":\"Employee development through on-the-job training and tuition reimbursement\",\"quote\":\"We invest in employee development through on-the-job trainings and tuition reimbursement programs.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E7\",\"activity\":\"Inception program working with startups\",\"quote\":\"We evangelize AI through partnerships with hundreds of universities and tens of thousands of startups through our Inception program.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business Strategies > Extending our technology and platform leadership in AI\",\"status\":\"current\",\"indicators\":\"tens of thousands of startups\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: named startup program, but the filing does not describe what support it gives and frames it as AI evangelism\"}}}],\"themes\":{\"creativity\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 3: enabling creative work through named creator-facing product lines (Professional Visualization GPUs, Omniverse, GeForce for creators) is a real but minor part of the business; no creative-specific revenue, users or customers are disclosed, so level 4 is not met.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\"],\"reason\":\"Level 2: employee development plus a named external training program (Deep Learning Institute) with no participant or dollar figures, so substantial external reach for level 3 is not shown.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1 based on general language only (an 'inclusive culture' statement); coverage is insufficient under condition 2 because the only relevant discussion is one sentence of about 22 words within a human capital section of roughly 167 words.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\"],\"reason\":\"Level 2: a named startup program (Inception) reaching tens of thousands of startups, but the filing does not say what enabling support it provides, so between levels 2 and 3 the lower level is chosen.\"}},\"notes\":\"Cross-cultural coverage is insufficient, so a second look using the sustainability report is triggered. The Item 7 excerpt only discusses open-source foundation models and has no qualifying activity. Excluded as traps: 'foundation' models and 'foundational' CUDA; 'training' meaning AI model training; chip 'design' and co-design; IP 'license and development agreements'; supply chain and sales in Asia and the Middle East; 'innovation' language. The Deep Learning Institute and the university partnerships appear under Sales and Marketing and AI evangelism, which is close to the 'educating customers as marketing' trap, so DLI was given no more than level 2 and the 'hundreds of universities' partnerships were not scored separately. The Graphics segment (GeForce and RTX workstation GPUs) is a reported segment, but no revenue is given in the provided text and it is mostly gaming, which is consumption rather than creation, so Creativity is not scored at 4. The 7.5 million CUDA developers relate to NVIDIA's own platform ecosystem and were not counted for Entrepreneurship.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 23205,
+      "output_tokens": 8729,
+      "duration_ms": 77003
+    }
+  ]
+}

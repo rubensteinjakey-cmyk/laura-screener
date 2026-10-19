@@ -1,0 +1,152 @@
+{
+  "ticker": "KMX",
+  "company_name": "CarMax, Inc.",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001170010-26-000021",
+  "filing_date": "2026-04-15",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T01:17:12",
+  "prompt_chars": 56735,
+  "filing_chars": 36729,
+  "filing_words_sent": 5495,
+  "approx_prompt_tokens": 14183,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Edmunds subsidiary adds in-house technology and creative talent that supports CarMax's digital capabilities",
+        "quote": "With this acquisition, CarMax enhanced its digital capabilities and further strengthened its role and reach across the used auto ecosystem while adding exceptional technology and creative talent.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business Overview > CarMax Background",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative talent used as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Rotational program for college technology hires and a technology and data science reskilling program for staff",
+        "quote": "Additionally, we have created a rotational program for college technology hires and implemented a technology and data science reskilling program.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Associate Experience Team and cross-functional Advisory Group focused on an inclusive workplace",
+        "quote": "We have an Associate Experience Team and a cross-functional Associate Experience Advisory Group dedicated to ensuring an inclusive and engaging workplace.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: inclusion-oriented internal structure with no specific barrier-removing practice or group described"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Pay equity reviews with adjustments for unexplained discrepancies",
+        "quote": "If we find discrepancies that cannot be explained by these objective factors, we make appropriate adjustments.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: equal-pay practice close to equal-opportunity language, not tied to any underrepresented group"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Wholesale auctions selling vehicles to licensed dealers",
+        "quote": "This high sales rate, combined with dealer-friendly practices, makes our auctions an attractive source of vehicles for licensed dealers.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business Overview > CarMax Business > Selling us a Vehicle",
+        "status": "current",
+        "indicators": "approximately 99%",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: business (dealer) customers served with no specific program aimed at barriers to starting or growing a business"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: creative work appears only as a routine input; the brand campaign and sports sponsorships are marketing and fall under the trap, and Edmunds is described as automotive information rather than creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 2: the only specific activities are employee development (rotational program and reskilling), so the cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 1: the human capital section offers inclusion statements, an advisory group and pay-equity reviews but no specific practice removing barriers for particular cultures or groups, and when torn between 1 and 2 the lower level applies."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 1: dealers are served as auction and MaxOffer counterparties, with no specific program enabling founders or small businesses."
+      }
+    },
+    "notes": "Item 7 excerpt mentions charitable contributions only as part of a G&A expense footnote, with no program or amount, so it was not scored. The filing references Responsibility Reports on the website but gives specific human capital content itself, so Community and Cross-cultural coverage is sufficient and no second look is triggered. WNBA/NWSL sponsorships, the Golden State Valkyries partnership and the Richmond ballpark naming rights are sports and brand marketing, not arts or community programs. Credit-spectrum financing access (Tier 3 providers) was considered but is not tied to cultural or underserved-community barriers. The Edmunds acquisition happened in 2021 (past); E1 is marked current because the Edmunds business and its staff (488 associates) operate in fiscal 2026. Uses of 'innovation' and 'foundation' (credit platform) are traps.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"KMX\",\"sector\":\"Consumer Discretionary\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Edmunds subsidiary adds in-house technology and creative talent that supports CarMax's digital capabilities\",\"quote\":\"With this acquisition, CarMax enhanced its digital capabilities and further strengthened its role and reach across the used auto ecosystem while adding exceptional technology and creative talent.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business Overview > CarMax Background\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative talent used as a routine business input\"}}},{\"id\":\"E2\",\"activity\":\"Rotational program for college technology hires and a technology and data science reskilling program for staff\",\"quote\":\"Additionally, we have created a rotational program for college technology hires and implemented a technology and data science reskilling program.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Associate Experience Team and cross-functional Advisory Group focused on an inclusive workplace\",\"quote\":\"We have an Associate Experience Team and a cross-functional Associate Experience Advisory Group dedicated to ensuring an inclusive and engaging workplace.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: inclusion-oriented internal structure with no specific barrier-removing practice or group described\"}}},{\"id\":\"E4\",\"activity\":\"Pay equity reviews with adjustments for unexplained discrepancies\",\"quote\":\"If we find discrepancies that cannot be explained by these objective factors, we make appropriate adjustments.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: equal-pay practice close to equal-opportunity language, not tied to any underrepresented group\"}}},{\"id\":\"E5\",\"activity\":\"Wholesale auctions selling vehicles to licensed dealers\",\"quote\":\"This high sales rate, combined with dealer-friendly practices, makes our auctions an attractive source of vehicles for licensed dealers.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business Overview > CarMax Business > Selling us a Vehicle\",\"status\":\"current\",\"indicators\":\"approximately 99%\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: business (dealer) customers served with no specific program aimed at barriers to starting or growing a business\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: creative work appears only as a routine input; the brand campaign and sports sponsorships are marketing and fall under the trap, and Edmunds is described as automotive information rather than creative work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 2: the only specific activities are employee development (rotational program and reskilling), so the cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\"],\"reason\":\"Level 1: the human capital section offers inclusion statements, an advisory group and pay-equity reviews but no specific practice removing barriers for particular cultures or groups, and when torn between 1 and 2 the lower level applies.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 1: dealers are served as auction and MaxOffer counterparties, with no specific program enabling founders or small businesses.\"}},\"notes\":\"Item 7 excerpt mentions charitable contributions only as part of a G&A expense footnote, with no program or amount, so it was not scored. The filing references Responsibility Reports on the website but gives specific human capital content itself, so Community and Cross-cultural coverage is sufficient and no second look is triggered. WNBA/NWSL sponsorships, the Golden State Valkyries partnership and the Richmond ballpark naming rights are sports and brand marketing, not arts or community programs. Credit-spectrum financing access (Tier 3 providers) was considered but is not tied to cultural or underserved-community barriers. The Edmunds acquisition happened in 2021 (past); E1 is marked current because the Edmunds business and its staff (488 associates) operate in fiscal 2026. Uses of 'innovation' and 'foundation' (credit platform) are traps.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 19337,
+      "output_tokens": 4106,
+      "duration_ms": 40270
+    }
+  ]
+}

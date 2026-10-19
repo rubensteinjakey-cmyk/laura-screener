@@ -1,0 +1,102 @@
+{
+  "ticker": "KDP",
+  "company_name": "Keurig Dr Pepper",
+  "sector": "Consumer Staples",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001418135-26-000016",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:13:18",
+  "prompt_chars": 50791,
+  "filing_chars": 30787,
+  "filing_words_sent": 4620,
+  "approx_prompt_tokens": 12697,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "In-house product design of Keurig brewers, including aesthetic changes, as part of routine product innovation",
+        "quote": "We regularly launch new brewers with new features and benefits, technological advances, sustainable attributes, and changes in aesthetics to provide a variety of options to suit individual consumer preferences.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Products and Operating Structure > Product Innovation and New Partnerships",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: product design used as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Licenses and distributes third-party partner beverage brands in emerging categories, sometimes with equity investments, using KDP's route-to-market network",
+        "quote": "These partners view us as a distributor with strong route-to-market resources to grow their brands.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Material Resources > Intellectual Property > Licensing Arrangements",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: commercial distribution partnerships with other brands, not a specific program aimed at founder or small-business barriers"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only creative element is routine brewer product design and brand marketing, which are used as business inputs."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, based on general language only (aims to make a positive impact for people and communities); coverage is insufficient under condition 3 because the filing points to its annual impact report on the website and describes no specific community, education or employee-development activities itself."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, based on general language only (a culture of inclusiveness and a workforce that should represent consumers); coverage is insufficient under condition 2 because the relevant inclusion discussion is under about 150 words."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: route-to-market partnerships with other brands, some of them large, are commercial distribution deals rather than a specific enabling program for founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Community and Cross-cultural are marked insufficient, which triggers the automated second look using the KDP impact report referenced at www.keurigdrpepper.com. The partner-brand distribution model (C4, Bloom, Electrolit and others, with occasional investments) was a borderline case for Entrepreneurship level 2; it was scored 1 under the 'pick the lower level' rule because the partners include large established brands and no founder-focused program is described. The JDE Peet's acquisition (expected Q2 2026) and the planned separation into beverage and coffee companies are planned events and were not scored. 'Licensing' in the filing refers to trademark and brand licensing, a Creativity trap, and was not counted as licensing creators.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"KDP\",\"sector\":\"Consumer Staples\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"In-house product design of Keurig brewers, including aesthetic changes, as part of routine product innovation\",\"quote\":\"We regularly launch new brewers with new features and benefits, technological advances, sustainable attributes, and changes in aesthetics to provide a variety of options to suit individual consumer preferences.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Products and Operating Structure > Product Innovation and New Partnerships\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: product design used as a routine business input\"}}},{\"id\":\"E2\",\"activity\":\"Licenses and distributes third-party partner beverage brands in emerging categories, sometimes with equity investments, using KDP's route-to-market network\",\"quote\":\"These partners view us as a distributor with strong route-to-market resources to grow their brands.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Material Resources > Intellectual Property > Licensing Arrangements\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: commercial distribution partnerships with other brands, not a specific program aimed at founder or small-business barriers\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the only creative element is routine brewer product design and brand marketing, which are used as business inputs.\"},\"community\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, based on general language only (aims to make a positive impact for people and communities); coverage is insufficient under condition 3 because the filing points to its annual impact report on the website and describes no specific community, education or employee-development activities itself.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, based on general language only (a culture of inclusiveness and a workforce that should represent consumers); coverage is insufficient under condition 2 because the relevant inclusion discussion is under about 150 words.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: route-to-market partnerships with other brands, some of them large, are commercial distribution deals rather than a specific enabling program for founders or small businesses.\"}},\"notes\":\"The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Community and Cross-cultural are marked insufficient, which triggers the automated second look using the KDP impact report referenced at www.keurigdrpepper.com. The partner-brand distribution model (C4, Bloom, Electrolit and others, with occasional investments) was a borderline case for Entrepreneurship level 2; it was scored 1 under the 'pick the lower level' rule because the partners include large established brands and no founder-focused program is described. The JDE Peet's acquisition (expected Q2 2026) and the planned separation into beverage and coffee companies are planned events and were not scored. 'Licensing' in the filing refers to trademark and brand licensing, a Creativity trap, and was not counted as licensing creators.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 17927,
+      "output_tokens": 3273,
+      "duration_ms": 32013
+    }
+  ]
+}

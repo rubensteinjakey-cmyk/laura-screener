@@ -1,0 +1,184 @@
+{
+  "ticker": "VSXY",
+  "company_name": "Victoria's Secret",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001856437-26-000004",
+  "filing_date": "2026-03-20",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T01:21:13",
+  "prompt_chars": 53385,
+  "filing_chars": 33373,
+  "filing_words_sent": 4875,
+  "approx_prompt_tokens": 13346,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "In-house product design of apparel, intimates and beauty products as part of routine merchandising",
+        "quote": "Our product design and innovation are critical to our strategy and how we create value for customers.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Additional Information > Product Design, Development and Sourcing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used only as a routine business input (in-house product design)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Career development, mentorship and leadership training programs for associates",
+        "quote": "Through robust career development programs, mentorship and leadership training, we equip associates and leaders with the tools they need to grow, innovate and make an impact.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Attracting and Developing Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Tuition assistance benefit for associates",
+        "quote": "From paid parental leave and tuition assistance to wellness programs and generous merchandise discounts, we provide benefits that help our associates thrive.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Offering Competitive Compensation and Benefits",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Associate giving program with donation matching, volunteer opportunities and grants",
+        "quote": "We support associates in giving back through donation matching, volunteer opportunities and grants for causes they care about.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Fostering a Sense of Community and Shared Respect",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach (no figures disclosed)"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Associate-led inclusion resource groups and belonging-focused programming",
+        "quote": "In addition, associate-led inclusion resource groups and belonging-focused programming ensure that associates and leadership across all levels embody a culture of respect, collaboration and accountability that drives individual and team success.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Fostering a Sense of Community and Shared Respect",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Periodic third-party pay equity reviews across gender, race and background",
+        "quote": "We are committed to pay equity across gender, race and background and conduct periodic third-party reviews to ensure fairness in our pay programs.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Ensuring Equal Pay for Equal Work",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal practice, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Franchise, license and wholesale partners who fund and operate their own stores selling company products",
+        "quote": "Our partners are generally responsible for providing the capital necessary to lease retail space, build out stores and/or develop websites, fund the operations of their business, and over the longer term, reinvest in their business.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Real Estate > Franchise, License and Wholesale Arrangements",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: business partners served through ordinary commercial arrangements, with no specific enabling program for founders or small businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: creative work appears only as a routine business input (in-house product design), and 'brand storytelling' and influencer collaborations are brand marketing traps."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: employee development plus an associate giving and volunteering program with no disclosed reach figures, so it does not reach level 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: associate-led inclusion resource groups and pay equity reviews are specific current internal practices but have no membership or reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7"
+        ],
+        "reason": "Level 1: the filing shows only the company's own innovation and ordinary franchise and wholesale partners, with no specific service or program that enables founders or small businesses."
+      }
+    },
+    "notes": "Excluded as traps or non-qualifying: 'innovative/innovation' throughout; 'brand storytelling' and 'influencer collaborations' (brand marketing); 'powerful foundation' and 'brand communities on social media' (marketing language); 'educate our customer' in Item 7 (marketing); 'joint venture' in China and UK; 'representations or warranties'; 'diversified portfolio'; operations in about 70 countries (international operations alone do not count); Code of Conduct, ethics and photo shoot compliance training (compliance training); in-store associate product training and field leadership development are folded into the employee development evidence and are not counted separately. The franchise partners in E7 are not described as small businesses. The store fleet declined from 882 to 858 in 2025, which does not affect theme scoring. Human capital discussion exceeds 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"VSXY\",\"sector\":\"Consumer Discretionary\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"In-house product design of apparel, intimates and beauty products as part of routine merchandising\",\"quote\":\"Our product design and innovation are critical to our strategy and how we create value for customers.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Additional Information > Product Design, Development and Sourcing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used only as a routine business input (in-house product design)\"}}},{\"id\":\"E2\",\"activity\":\"Career development, mentorship and leadership training programs for associates\",\"quote\":\"Through robust career development programs, mentorship and leadership training, we equip associates and leaders with the tools they need to grow, innovate and make an impact.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Attracting and Developing Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Tuition assistance benefit for associates\",\"quote\":\"From paid parental leave and tuition assistance to wellness programs and generous merchandise discounts, we provide benefits that help our associates thrive.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Offering Competitive Compensation and Benefits\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E4\",\"activity\":\"Associate giving program with donation matching, volunteer opportunities and grants\",\"quote\":\"We support associates in giving back through donation matching, volunteer opportunities and grants for causes they care about.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Fostering a Sense of Community and Shared Respect\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach (no figures disclosed)\"}}},{\"id\":\"E5\",\"activity\":\"Associate-led inclusion resource groups and belonging-focused programming\",\"quote\":\"In addition, associate-led inclusion resource groups and belonging-focused programming ensure that associates and leadership across all levels embody a culture of respect, collaboration and accountability that drives individual and team success.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Fostering a Sense of Community and Shared Respect\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E6\",\"activity\":\"Periodic third-party pay equity reviews across gender, race and background\",\"quote\":\"We are committed to pay equity across gender, race and background and conduct periodic third-party reviews to ensure fairness in our pay programs.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Ensuring Equal Pay for Equal Work\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal practice, limited reach\"}}},{\"id\":\"E7\",\"activity\":\"Franchise, license and wholesale partners who fund and operate their own stores selling company products\",\"quote\":\"Our partners are generally responsible for providing the capital necessary to lease retail space, build out stores and/or develop websites, fund the operations of their business, and over the longer term, reinvest in their business.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Real Estate > Franchise, License and Wholesale Arrangements\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: business partners served through ordinary commercial arrangements, with no specific enabling program for founders or small businesses\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: creative work appears only as a routine business input (in-house product design), and 'brand storytelling' and influencer collaborations are brand marketing traps.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: employee development plus an associate giving and volunteering program with no disclosed reach figures, so it does not reach level 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\"],\"reason\":\"Level 2: associate-led inclusion resource groups and pay equity reviews are specific current internal practices but have no membership or reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\"],\"reason\":\"Level 1: the filing shows only the company's own innovation and ordinary franchise and wholesale partners, with no specific service or program that enables founders or small businesses.\"}},\"notes\":\"Excluded as traps or non-qualifying: 'innovative/innovation' throughout; 'brand storytelling' and 'influencer collaborations' (brand marketing); 'powerful foundation' and 'brand communities on social media' (marketing language); 'educate our customer' in Item 7 (marketing); 'joint venture' in China and UK; 'representations or warranties'; 'diversified portfolio'; operations in about 70 countries (international operations alone do not count); Code of Conduct, ethics and photo shoot compliance training (compliance training); in-store associate product training and field leadership development are folded into the employee development evidence and are not counted separately. The franchise partners in E7 are not described as small businesses. The store fleet declined from 882 to 858 in 2025, which does not affect theme scoring. Human capital discussion exceeds 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 18411,
+      "output_tokens": 4355,
+      "duration_ms": 38042
+    }
+  ]
+}

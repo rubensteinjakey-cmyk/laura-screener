@@ -1,0 +1,152 @@
+{
+  "ticker": "ABNB",
+  "company_name": "Airbnb",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001559720-26-000004",
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:16:31",
+  "prompt_chars": 43743,
+  "filing_chars": 23742,
+  "filing_words_sent": 3435,
+  "approx_prompt_tokens": 10935,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Operates a global two-sided marketplace where independent hosts list and earn income from stays, experiences and services",
+        "quote": "Airbnb was founded in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown into a global community of over 5 million hosts who have welcomed over 2.5 billion guest arrivals in almost every country and region across the globe.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Overview",
+        "status": "current",
+        "indicators": "over 5 million hosts; over 2.5 billion guest arrivals; over 220 countries and regions",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 4: a seller marketplace for independent hosts is a major business line with disclosed user counts"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Co-Host Network connecting new and existing hosts with experienced co-hosts who help set up and manage listings",
+        "quote": "In addition, we provide the Co-Host Network, which connects potential and existing hosts with co-hosts who can help manage their listings.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Platform > Our Platform for Hosts",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific named support service aimed at barriers to starting and running hosting, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Multilingual, real-time customer support for hosts and guests",
+        "quote": "It provides multilingual, real-time community support, including responsive city-specific regulatory support.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Technology",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: customer support in several languages, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Brand sponsorships and co-marketing collaborations with cultural institutions and media platforms",
+        "quote": "We also leverage select sponsorships and co‑marketing collaborations with cultural institutions, sports and entertainment organizations, destinations, and media platforms to amplify our brand, align with key cultural moments, and engage our community globally.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: cultural collaborations used as brand marketing input, not a described arts sponsorship"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Unspecified employee growth and learning programs",
+        "quote": "We continue to invest in programs that support all employee growth and learning throughout the employee lifecycle.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 1: general language about employee learning with no specific program described"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the business description shows no creating or enabling of creative work, and the cultural-institution collaborations are described only as brand marketing."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 1: the roughly 230-word human capital section offers only general language about employee learning programs, with no specific employee, external education or community investment activity."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 2: multilingual real-time customer support is a specific current activity with no reach figures, while the nondiscrimination policy and inclusion-in-hiring language are general statements."
+      },
+      "entrepreneurship": {
+        "score": 4,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 4: a marketplace and host tools that let over 5 million independent hosts earn income is a major business line with disclosed users, rated below 5 because the filing does not frame hosts as small businesses or founders."
+      }
+    },
+    "notes": "Entrepreneurship was torn between 4 and 5. The marketplace is the whole business, but the filing describes hosts as individuals earning income rather than as businesses, so the lower level was chosen. The 'enable guests to connect with communities in a more authentic way' language and operations in 220+ countries were treated as mission and international-operations statements, not cross-cultural activities. Experiences and services were not scored for Creativity because the filing names no creative categories; photography appears only in the competitor list. 'Community support' means customer service and was not counted for Community. The 10-K refers to corporate responsibility and sustainability reports on the website, but coverage is sufficient on all themes, so no second look is triggered. The Item 7 excerpts repeat the Overview and add nothing new.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ABNB\",\"sector\":\"Consumer Discretionary\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Operates a global two-sided marketplace where independent hosts list and earn income from stays, experiences and services\",\"quote\":\"Airbnb was founded in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown into a global community of over 5 million hosts who have welcomed over 2.5 billion guest arrivals in almost every country and region across the globe.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Overview\",\"status\":\"current\",\"indicators\":\"over 5 million hosts; over 2.5 billion guest arrivals; over 220 countries and regions\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 4: a seller marketplace for independent hosts is a major business line with disclosed user counts\"}}},{\"id\":\"E2\",\"activity\":\"Co-Host Network connecting new and existing hosts with experienced co-hosts who help set up and manage listings\",\"quote\":\"In addition, we provide the Co-Host Network, which connects potential and existing hosts with co-hosts who can help manage their listings.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Platform > Our Platform for Hosts\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific named support service aimed at barriers to starting and running hosting, no reach figures\"}}},{\"id\":\"E3\",\"activity\":\"Multilingual, real-time customer support for hosts and guests\",\"quote\":\"It provides multilingual, real-time community support, including responsive city-specific regulatory support.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Technology\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: customer support in several languages, no reach figures\"}}},{\"id\":\"E4\",\"activity\":\"Brand sponsorships and co-marketing collaborations with cultural institutions and media platforms\",\"quote\":\"We also leverage select sponsorships and co‑marketing collaborations with cultural institutions, sports and entertainment organizations, destinations, and media platforms to amplify our brand, align with key cultural moments, and engage our community globally.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Marketing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: cultural collaborations used as brand marketing input, not a described arts sponsorship\"}}},{\"id\":\"E5\",\"activity\":\"Unspecified employee growth and learning programs\",\"quote\":\"We continue to invest in programs that support all employee growth and learning throughout the employee lifecycle.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 1: general language about employee learning with no specific program described\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the business description shows no creating or enabling of creative work, and the cultural-institution collaborations are described only as brand marketing.\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 1: the roughly 230-word human capital section offers only general language about employee learning programs, with no specific employee, external education or community investment activity.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 2: multilingual real-time customer support is a specific current activity with no reach figures, while the nondiscrimination policy and inclusion-in-hiring language are general statements.\"},\"entrepreneurship\":{\"score\":4,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 4: a marketplace and host tools that let over 5 million independent hosts earn income is a major business line with disclosed users, rated below 5 because the filing does not frame hosts as small businesses or founders.\"}},\"notes\":\"Entrepreneurship was torn between 4 and 5. The marketplace is the whole business, but the filing describes hosts as individuals earning income rather than as businesses, so the lower level was chosen. The 'enable guests to connect with communities in a more authentic way' language and operations in 220+ countries were treated as mission and international-operations statements, not cross-cultural activities. Experiences and services were not scored for Creativity because the filing names no creative categories; photography appears only in the competitor list. 'Community support' means customer service and was not counted for Community. The 10-K refers to corporate responsibility and sustainability reports on the website, but coverage is sufficient on all themes, so no second look is triggered. The Item 7 excerpts repeat the Overview and add nothing new.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 15162,
+      "output_tokens": 4607,
+      "duration_ms": 43060
+    }
+  ]
+}

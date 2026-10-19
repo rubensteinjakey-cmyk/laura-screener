@@ -1,0 +1,134 @@
+{
+  "ticker": "INCY",
+  "company_name": "Incyte",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000879169-26-000010",
+  "filing_date": "2026-02-10",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:19:27",
+  "prompt_chars": 114401,
+  "filing_chars": 94411,
+  "filing_words_sent": 13971,
+  "approx_prompt_tokens": 28600,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee volunteer time, donation matching and Giving Tuesday onsite volunteering for local non-profits",
+        "quote": "In addition, we are active in the communities in which we operate, offering 8 hours of volunteer time to our employees globally, a matching donation of up to $2,000 USD per year, and an annual recognition of Giving Tuesday with onsite volunteering for local non-profits around the world.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "8 hours of volunteer time; matching donation of up to $2,000 USD per year",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment (volunteering and donation matching) with per-employee policy figures but no disclosed reach, participants or total dollars"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Professional development, training opportunities and tuition reimbursement for employees",
+        "quote": "We support our colleagues in their professional development, offering opportunities for growth through challenging job assignments, development plans, and training opportunities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Inclusion Committee co-chaired by the CEO and CHRO",
+        "quote": "We have an Inclusion Committee, which is co-chaired by our Chief Executive Officer and Chief Human Resources Officer, to bring forth actionable plans across multiple focus areas.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: governance body whose plans and practices are not described, so it is closer to a general statement than a specific activity"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Disclosure of workforce gender figures",
+        "quote": "In terms of gender diversity, 1,456 are female and 1,364 are male.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "1,456 female; 1,364 male",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers drug discovery, development and commercialization in full and shows no activity that creates or enables creative work. 'Creative solutions' in Human Capital is general language about collaboration, not a creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: a specific current volunteering and donation-matching program plus employee development, but no figures on participants, total dollars or reach that would support level 3."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 1: equal-opportunity language, an Inclusion Committee with no described practices, and gender statistics only; no specific internal practice, customer access or community-connecting activity is described."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is fully described and shows no activity enabling founders, small businesses or independent creators. The 'Small Biotech Exception' is a drug-pricing regulatory status, not a small-business program."
+      }
+    },
+    "notes": "The Item 7 excerpt only contains boilerplate pointing to the prior-year 10-K and websites, with no thematic content. The many 'collaboration agreement' and 'licensing' references (Novartis, Lilly, Syndax, MacroGenics, Merus, Xencor, Enable) are drug licensing deals and are excluded under the Community and Creativity traps. 'Collaborative culture' and 'creative solutions' are general language. The volunteering paragraph says it furthers 'our diversity efforts beyond our own doors', but it describes no cross-cultural practice and is not double counted for Cross-cultural. Tuition reimbursement is mentioned in the benefits sentence and is folded into E2. Drug discovery is the company's own innovation and does not qualify for Entrepreneurship.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"INCY\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee volunteer time, donation matching and Giving Tuesday onsite volunteering for local non-profits\",\"quote\":\"In addition, we are active in the communities in which we operate, offering 8 hours of volunteer time to our employees globally, a matching donation of up to $2,000 USD per year, and an annual recognition of Giving Tuesday with onsite volunteering for local non-profits around the world.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"8 hours of volunteer time; matching donation of up to $2,000 USD per year\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment (volunteering and donation matching) with per-employee policy figures but no disclosed reach, participants or total dollars\"}}},{\"id\":\"E2\",\"activity\":\"Professional development, training opportunities and tuition reimbursement for employees\",\"quote\":\"We support our colleagues in their professional development, offering opportunities for growth through challenging job assignments, development plans, and training opportunities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Inclusion Committee co-chaired by the CEO and CHRO\",\"quote\":\"We have an Inclusion Committee, which is co-chaired by our Chief Executive Officer and Chief Human Resources Officer, to bring forth actionable plans across multiple focus areas.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: governance body whose plans and practices are not described, so it is closer to a general statement than a specific activity\"}}},{\"id\":\"E4\",\"activity\":\"Disclosure of workforce gender figures\",\"quote\":\"In terms of gender diversity, 1,456 are female and 1,364 are male.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"1,456 female; 1,364 male\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers drug discovery, development and commercialization in full and shows no activity that creates or enables creative work. 'Creative solutions' in Human Capital is general language about collaboration, not a creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: a specific current volunteering and donation-matching program plus employee development, but no figures on participants, total dollars or reach that would support level 3.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\"],\"reason\":\"Level 1: equal-opportunity language, an Inclusion Committee with no described practices, and gender statistics only; no specific internal practice, customer access or community-connecting activity is described.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is fully described and shows no activity enabling founders, small businesses or independent creators. The 'Small Biotech Exception' is a drug-pricing regulatory status, not a small-business program.\"}},\"notes\":\"The Item 7 excerpt only contains boilerplate pointing to the prior-year 10-K and websites, with no thematic content. The many 'collaboration agreement' and 'licensing' references (Novartis, Lilly, Syndax, MacroGenics, Merus, Xencor, Enable) are drug licensing deals and are excluded under the Community and Creativity traps. 'Collaborative culture' and 'creative solutions' are general language. The volunteering paragraph says it furthers 'our diversity efforts beyond our own doors', but it describes no cross-cultural practice and is not double counted for Cross-cultural. Tuition reimbursement is mentioned in the benefits sentence and is folded into E2. Drug discovery is the company's own innovation and does not qualify for Entrepreneurship.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 39016,
+      "output_tokens": 3242,
+      "duration_ms": 31007
+    }
+  ]
+}

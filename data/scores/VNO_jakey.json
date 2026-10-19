@@ -1,0 +1,116 @@
+{
+  "ticker": "VNO",
+  "company_name": "Vornado Realty Trust",
+  "sector": "Real Estate",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000899689-26-000009",
+  "filing_date": "2026-02-09",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:15:15",
+  "prompt_chars": 37899,
+  "filing_chars": 17896,
+  "filing_words_sent": 2709,
+  "approx_prompt_tokens": 9474,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Tuition reimbursement, training and networking opportunities for employees",
+        "quote": "To achieve our talent development goals, we provide tuition reimbursement for our employees’ continuing education and professional development, and the opportunity to participate in a variety of training and networking engagements.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap applies to this record alone)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Named employee volunteer program giving staff paid time off to volunteer",
+        "quote": "Through our volunteer program, Vornado Volunteers, employees are granted one day of paid time off per calendar year to volunteer for a cause of their choice.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Culture and Engagement",
+        "status": "current",
+        "indicators": "one day of paid time off per calendar year",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community activity, limited in reach (no participation, hours or dollar figures)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Joint venture developing a purpose-built film and TV studio campus at Pier 94 (under development, not yet operating)",
+        "quote": "On August 28, 2023, we, together with Hudson Pacific Properties and Blackstone Inc., formed a joint venture to develop Pier 94 into a 266,000 square foot purpose-built studio campus in Manhattan.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Development / Redevelopment Projects and Opportunities > Sunset Pier 94 Studios",
+        "status": "planned",
+        "indicators": "266,000 square foot, 49.9% equity interest, $350,000,000 estimated development cost",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "context only: planned studio facility that would enable creative production; planned activities do not raise the score"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers office, retail and residential real estate, with no current creative activity. The Pier 94 studio campus (E3) is still under development, so it is recorded as planned and gives context only."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: there is employee development (tuition reimbursement, training) and a named volunteer program (Vornado Volunteers), but no participant, hour or dollar figures show substantial external reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests only on general language (a belief in a 'positive and inclusive culture'). The filing describes no specific employee networks, accessibility programs or customer-access activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the only related term is 'entrepreneurial spirit', which is an excluded trap, and business tenants are not described as small businesses. There is no enabling service or program."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt contains only the 'entrepreneurial spirit' strategy bullet, which repeats Item 1 and is a trap term, so it adds no scorable evidence. Sunset Pier 94 Studios is a JV studio campus still under development (construction financing partly drawn, no stated opening), so it is recorded as planned and not scored. If it becomes operational in a later year, it could support Creativity as 'enables'. The benefits list includes adoption/surrogacy and parental leave. These are standard benefits not framed as an inclusion practice, so they were not scored for Cross-cultural (the lower level was chosen when torn). The 'community' and 'stakeholder collaboration' language in the environmental sustainability section relates to carbon goals, not education or community investment, so it was not counted. The filing refers to the Sustainability Report for more human-capital detail but still describes specific activities itself, so coverage is sufficient and no second look is triggered. Implied final score: 0 + 12 + 4 + 0 = 16/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"VNO\",\"sector\":\"Real Estate\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Tuition reimbursement, training and networking opportunities for employees\",\"quote\":\"To achieve our talent development goals, we provide tuition reimbursement for our employees’ continuing education and professional development, and the opportunity to participate in a variety of training and networking engagements.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap applies to this record alone)\"}}},{\"id\":\"E2\",\"activity\":\"Named employee volunteer program giving staff paid time off to volunteer\",\"quote\":\"Through our volunteer program, Vornado Volunteers, employees are granted one day of paid time off per calendar year to volunteer for a cause of their choice.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Culture and Engagement\",\"status\":\"current\",\"indicators\":\"one day of paid time off per calendar year\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community activity, limited in reach (no participation, hours or dollar figures)\"}}},{\"id\":\"E3\",\"activity\":\"Joint venture developing a purpose-built film and TV studio campus at Pier 94 (under development, not yet operating)\",\"quote\":\"On August 28, 2023, we, together with Hudson Pacific Properties and Blackstone Inc., formed a joint venture to develop Pier 94 into a 266,000 square foot purpose-built studio campus in Manhattan.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Development / Redevelopment Projects and Opportunities > Sunset Pier 94 Studios\",\"status\":\"planned\",\"indicators\":\"266,000 square foot, 49.9% equity interest, $350,000,000 estimated development cost\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"context only: planned studio facility that would enable creative production; planned activities do not raise the score\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers office, retail and residential real estate, with no current creative activity. The Pier 94 studio campus (E3) is still under development, so it is recorded as planned and gives context only.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: there is employee development (tuition reimbursement, training) and a named volunteer program (Vornado Volunteers), but no participant, hour or dollar figures show substantial external reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests only on general language (a belief in a 'positive and inclusive culture'). The filing describes no specific employee networks, accessibility programs or customer-access activity.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the only related term is 'entrepreneurial spirit', which is an excluded trap, and business tenants are not described as small businesses. There is no enabling service or program.\"}},\"notes\":\"The Item 7 (targeted) excerpt contains only the 'entrepreneurial spirit' strategy bullet, which repeats Item 1 and is a trap term, so it adds no scorable evidence. Sunset Pier 94 Studios is a JV studio campus still under development (construction financing partly drawn, no stated opening), so it is recorded as planned and not scored. If it becomes operational in a later year, it could support Creativity as 'enables'. The benefits list includes adoption/surrogacy and parental leave. These are standard benefits not framed as an inclusion practice, so they were not scored for Cross-cultural (the lower level was chosen when torn). The 'community' and 'stakeholder collaboration' language in the environmental sustainability section relates to carbon goals, not education or community investment, so it was not counted. The filing refers to the Sustainability Report for more human-capital detail but still describes specific activities itself, so coverage is sufficient and no second look is triggered. Implied final score: 0 + 12 + 4 + 0 = 16/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 13991,
+      "output_tokens": 2894,
+      "duration_ms": 30081
+    }
+  ]
+}

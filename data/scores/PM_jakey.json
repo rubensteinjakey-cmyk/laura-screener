@@ -1,0 +1,118 @@
+{
+  "ticker": "PM",
+  "company_name": "Philip Morris International",
+  "sector": "Consumer Staples",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-005939",
+  "filing_date": "2026-02-06",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:20:34",
+  "prompt_chars": 49786,
+  "filing_chars": 29772,
+  "filing_words_sent": 4419,
+  "approx_prompt_tokens": 12446,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Workforce made up of employees from many nationalities (demographic disclosure)",
+        "quote": "We are proud of the global reach of our company, with approximately 170 markets where we have sold our products, and with employees representing more than 130 nationalities as of December 31, 2025.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Collaborative Culture",
+        "status": "current",
+        "indicators": "more than 130 nationalities",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce demographic statistics only; international sales do not count"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Holds a global EQUAL-SALARY pay certification, kept through yearly market-level reviews",
+        "quote": "As the first multinational company to receive a global EQUAL-SALARY certification from the EQUAL-SALARY Foundation in 2019, we completed another year of market level reviews with success and maintained our global certification.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Collaborative Culture",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: pay-equity certification; the filing does not say which groups or barriers it addresses, so held at the lower level"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Company's own R&D investment in developing and selling smoke-free products",
+        "quote": "Since 2008, we have invested over $16 billion to develop, scientifically substantiate and commercialize innovative smoke-free products for adults who would otherwise continue to smoke, with the goal of completely ending the sale of cigarettes.",
+        "source_doc": "10-K",
+        "section": "Item 1 > General Development of Business > General",
+        "status": "current",
+        "indicators": "$16 billion",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: company's own innovation, not enabling outside founders or small businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers tobacco and nicotine products in detail and shows no creative work created, enabled or used as an input; 'designed', 'industrial designs' and packaging refer to engineering and IP, not creative work."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only, because the Human Capital section (well over 150 words) only commits to employees' 'careers and professional development' and names no training, external education or community program."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 1: the evidence is a nationality headcount (demographics only) and a pay-equity certification with no stated target group or reach, so when torn the lower level applies."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: the filing shows only the company's own product innovation and no specific service or program enabling founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 excerpt repeats the Item 1 wellness paragraph, and its 'strong foundation' is a trap that was not counted. Direct contracting with farmers (about 23% of leaf requirements) is a supplier relationship, not an enabling program, so it was not scored for Entrepreneurship. Water stewardship guidance for irrigation is environmental, not community education. The EQUAL-SALARY certification is a real third-party-reviewed practice, but the filing does not describe its focus or reach; a human reviewer may consider level 2 for Cross-cultural. Collective bargaining and the European Works Council are employee relations, not development. Segments were reorganized effective January 1, 2026, which does not affect scoring. Computed total: 0 + 6 + 4 + 3 = 13/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"PM\",\"sector\":\"Consumer Staples\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Workforce made up of employees from many nationalities (demographic disclosure)\",\"quote\":\"We are proud of the global reach of our company, with approximately 170 markets where we have sold our products, and with employees representing more than 130 nationalities as of December 31, 2025.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Collaborative Culture\",\"status\":\"current\",\"indicators\":\"more than 130 nationalities\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce demographic statistics only; international sales do not count\"}}},{\"id\":\"E2\",\"activity\":\"Holds a global EQUAL-SALARY pay certification, kept through yearly market-level reviews\",\"quote\":\"As the first multinational company to receive a global EQUAL-SALARY certification from the EQUAL-SALARY Foundation in 2019, we completed another year of market level reviews with success and maintained our global certification.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Collaborative Culture\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: pay-equity certification; the filing does not say which groups or barriers it addresses, so held at the lower level\"}}},{\"id\":\"E3\",\"activity\":\"Company's own R&D investment in developing and selling smoke-free products\",\"quote\":\"Since 2008, we have invested over $16 billion to develop, scientifically substantiate and commercialize innovative smoke-free products for adults who would otherwise continue to smoke, with the goal of completely ending the sale of cigarettes.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > General Development of Business > General\",\"status\":\"current\",\"indicators\":\"$16 billion\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: company's own innovation, not enabling outside founders or small businesses\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers tobacco and nicotine products in detail and shows no creative work created, enabled or used as an input; 'designed', 'industrial designs' and packaging refer to engineering and IP, not creative work.\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only, because the Human Capital section (well over 150 words) only commits to employees' 'careers and professional development' and names no training, external education or community program.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 1: the evidence is a nationality headcount (demographics only) and a pay-equity certification with no stated target group or reach, so when torn the lower level applies.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: the filing shows only the company's own product innovation and no specific service or program enabling founders or small businesses.\"}},\"notes\":\"The Item 7 excerpt repeats the Item 1 wellness paragraph, and its 'strong foundation' is a trap that was not counted. Direct contracting with farmers (about 23% of leaf requirements) is a supplier relationship, not an enabling program, so it was not scored for Entrepreneurship. Water stewardship guidance for irrigation is environmental, not community education. The EQUAL-SALARY certification is a real third-party-reviewed practice, but the filing does not describe its focus or reach; a human reviewer may consider level 2 for Cross-cultural. Collective bargaining and the European Works Council are employee relations, not development. Segments were reorganized effective January 1, 2026, which does not affect scoring. Computed total: 0 + 6 + 4 + 3 = 13/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 17611,
+      "output_tokens": 3331,
+      "duration_ms": 33956
+    }
+  ]
+}
