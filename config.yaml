@@ -49,3 +49,8 @@ claude_timeout_seconds: 900
 # sector keeps at least shortlist_min_per_sector companies.
 shortlist_pct: 0.40
 shortlist_min_per_sector: 2
+
+# How much a sustainability-report rescore counts (verify.py). For each theme
+# rescored in a second look: final = 10-K score + report_weight x
+# (report score - 10-K score). Team decision, Oct 19: 0.5 (see DECISIONS.md).
+report_weight: 0.5

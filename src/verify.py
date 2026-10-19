@@ -76,6 +76,13 @@ def final_score(scores):
     return round(sum(scores[t] / 5 * WEIGHTS[t] for t in THEMES), 1)
 
 
+def blend(tenk, report, weight):
+    """Theme score after a second look: the 10-K score moved `weight` of the
+    way toward the report-based score (0.5 = half weight). Decimals allowed."""
+    s = round(tenk + weight * (report - tenk), 2)
+    return int(s) if s == int(s) else s
+
+
 FIGURE_WINDOW = 1200  # characters either side of the quote ("same paragraph or table")
 NUMBER = re.compile(r"\d[\d,]*(?:\.\d+)?")
 NUMBER_WORDS = {w: str(i) for i, w in enumerate(
@@ -256,7 +263,7 @@ def tenk_source(ticker, sections):
                        for d in docs)
 
 
-def verify_record(rec, run_id):
+def verify_record(rec, run_id, report_weight=0.5):
     t = rec["ticker"]
     step = f"verify:{run_id}"
     clear_human_flags(t, step)
@@ -287,6 +294,7 @@ def verify_record(rec, run_id):
                 f"people discussion is {people_words} words (under {HUMAN_CAPITAL_MIN_WORDS})")
 
     original = {th: themes[th]["score"] for th in THEMES}
+    full_report = None  # theme scores if the report counted in full
     score_source, report_url, second = "10-K", "", None
     all_ev = list(ev.values())
 
@@ -310,10 +318,17 @@ def verify_record(rec, run_id):
                 new = check_theme(th, th_in, sl_ev)
                 new["coverage_trigger"] = themes[th]["coverage_trigger"]
                 new["score_from_10k"] = original[th]
+                new["score_from_report"] = new["score"]
+                new["score"] = blend(original[th], new["score"], report_weight)
+                new["report_weight"] = report_weight
                 new["rescored_from_report"] = True
                 themes[th] = new
+            full_report = {th: themes[th].get("score_from_report", themes[th]["score"])
+                           for th in THEMES}
             all_ev += list(sl_ev.values())
-            score_source = "10-K + sustainability report"
+            score_source = ("10-K + sustainability report" if report_weight == 1 else
+                            "10-K + sustainability report (half weight)" if report_weight == 0.5 else
+                            f"10-K + sustainability report ({report_weight:g} weight)")
             report_url = sl.get("report_url", "")
             if sl.get("domain_note"):
                 flags.append(sl["domain_note"])
@@ -365,6 +380,8 @@ def verify_record(rec, run_id):
         "final_score": final_score(scores),
         "original_10k_scores": original if second and second["status"] == "scored" else None,
         "original_10k_final": final_score(original) if second and second["status"] == "scored" else None,
+        "full_report_scores": full_report,
+        "full_report_final": final_score(full_report) if full_report else None,
         "evidence": all_ev,
         "notes": rec["ai"].get("notes", ""),
         "quote_check_status": "failed" if failed_ev else "passed",
@@ -383,7 +400,7 @@ def verify_record(rec, run_id):
     return out
 
 
-def verify_run(run_id):
+def verify_run(run_id, report_weight=0.5):
     files = sorted(SCORES.glob(f"*_{run_id}.json"))
     done = 0
     for path in files:
@@ -394,7 +411,7 @@ def verify_run(run_id):
             log("verify", f"{path.name}: made with an older rubric "
                           f"(v{rec.get('rubric_version', 1)}), skipping")
             continue
-        verify_record(rec, run_id)
+        verify_record(rec, run_id, report_weight)
         done += 1
     if not done:
         log("verify", f"No Rubric v{RUBRIC_VERSION} score files found for run '{run_id}'.")
@@ -405,7 +422,7 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--run-id", default=cfg["run_id"])
     args = p.parse_args()
-    verify_run(args.run_id)
+    verify_run(args.run_id, float(cfg.get("report_weight", 0.5)))
 
 
 if __name__ == "__main__":

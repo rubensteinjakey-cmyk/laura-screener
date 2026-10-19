@@ -78,6 +78,8 @@
   "final_score": 4.0,
   "original_10k_scores": null,
   "original_10k_final": null,
+  "full_report_scores": null,
+  "full_report_final": null,
   "evidence": [],
   "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. The company had three employees and four contractors as of August 31, 2025, which explains the very thin human capital disclosure. Community and Cross-cultural are marked insufficient, so this company should get the automated sustainability-report second look. The legacy mining-as-a-service business is described as past, ended in 2025, and did not qualify for any theme. Traps not counted: 'gaming' and 'identity and credentialing systems', which are Ethereum use cases rather than company activities; 'diversifying set of use cases'; and 'innovations' in tokenization.",
   "quote_check_status": "passed",

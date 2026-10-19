@@ -53,7 +53,7 @@
     },
     "cross_cultural": {
       "ai_score": 3,
-      "score": 3,
+      "score": 2.5,
       "coverage": "sufficient",
       "evidence_ids": [
         "SL-E1",
@@ -74,6 +74,8 @@
       "flags": [],
       "coverage_trigger": "ai",
       "score_from_10k": 2,
+      "score_from_report": 3,
+      "report_weight": 0.5,
       "rescored_from_report": true
     },
     "entrepreneurship": {
@@ -97,7 +99,7 @@
   "scores": {
     "creativity": 1,
     "community": 2,
-    "cross_cultural": 3,
+    "cross_cultural": 2.5,
     "entrepreneurship": 1
   },
   "coverage": {
@@ -106,7 +108,7 @@
     "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 34.0,
+  "final_score": 32.0,
   "original_10k_scores": {
     "creativity": 1,
     "community": 2,
@@ -114,6 +116,13 @@
     "entrepreneurship": 1
   },
   "original_10k_final": 30.0,
+  "full_report_scores": {
+    "creativity": 1,
+    "community": 2,
+    "cross_cultural": 3,
+    "entrepreneurship": 1
+  },
+  "full_report_final": 34.0,
   "evidence": [
     {
       "id": "E1",
@@ -310,7 +319,7 @@
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 480,
-  "score_source": "10-K + sustainability report",
+  "score_source": "10-K + sustainability report (half weight)",
   "report_url": "https://www.seagate.com/content/dam/seagate/assets/sustainability/files/seagate-fy2025-sustainability-report.pdf",
   "report_link_found_on": "",
   "second_look": {

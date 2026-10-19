@@ -74,6 +74,8 @@
   "final_score": 0.0,
   "original_10k_scores": null,
   "original_10k_final": null,
+  "full_report_scores": null,
+  "full_report_final": null,
   "evidence": [],
   "notes": "The Item 7 excerpt describes a 2016 New Markets Tax Credit financing with Wells Fargo Community Investment Holdings for equipment modernization at the company's own Fulton, MS facility. It is a tax-credit financing and legal structure, not a company community program, and the filing does not say whether it is still active, so no evidence record was created. Coverage for Community and Cross-cultural is borderline: the Human Capital Resources prose is about 160 words (more with the union table), so it does not meet the strict 'under about 150 words' condition and was marked sufficient. A human reviewer may want to confirm this, since the section contains almost no relevant substance. The 'Community' in 'Community Renewal Tax Relief Act' and 'community development entities' is legal or program terminology and was not counted. Final score: 0/100.",
   "quote_check_status": "passed",

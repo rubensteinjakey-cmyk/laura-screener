@@ -35,7 +35,8 @@ FIELDS = ["ticker", "company_name", "sector", "filing_date", "fiscal_year",
           "creativity_coverage", "community_coverage", "cross_cultural_coverage",
           "entrepreneurship_coverage",
           "final_score", "sector_rank", "sector_percentile", "in_shortlist",
-          "score_source", "original_10k_scores", "quote_check_status", "flags",
+          "score_source", "original_10k_scores", "final_score_10k_only",
+          "full_report_scores", "final_score_full_report", "quote_check_status", "flags",
           "report_url"]
 EVIDENCE_FIELDS = ["ticker", "id", "activity", "quote", "section", "status",
                    "indicators", "themes", "source_doc", "verified", "figures_removed"]
@@ -108,6 +109,12 @@ def main():
                     "score_source": r["score_source"],
                     "original_10k_scores": json.dumps(r["original_10k_scores"])
                     if r.get("original_10k_scores") else "",
+                    "final_score_10k_only": "" if r.get("original_10k_final") is None
+                    else r["original_10k_final"],
+                    "full_report_scores": json.dumps(r["full_report_scores"])
+                    if r.get("full_report_scores") else "",
+                    "final_score_full_report": "" if r.get("full_report_final") is None
+                    else r["full_report_final"],
                     "quote_check_status": r["quote_check_status"],
                     "flags": " | ".join(r["flags"]),
                     "report_url": r["report_url"],
@@ -137,7 +144,8 @@ def main():
           f"Final score = Creativity/5×35 + Community/5×30 + Cross-cultural/5×20 "
           f"+ Entrepreneurship/5×15 · `*` = coverage insufficient (the filing says too "
           f"little to judge that theme) · Shortlist = top {pct:.0%} of each sector "
-          f"(at least {min_n}, ties included)", ""]
+          f"(at least {min_n}, ties included) · A theme rescored from a sustainability "
+          f"report = 10-K score + {cfg.get('report_weight', 0.5):g} × (report score − 10-K score)", ""]
     for sector in sorted(by_sector):
         rows = by_sector[sector]
         short = [r for r in rows if r["in_shortlist"]]
@@ -176,10 +184,15 @@ def main():
             if r.get("original_10k_scores"):
                 md.append(f"10-K-only scores before the report: {r['original_10k_scores']} "
                           f"→ {r['original_10k_final']}")
+            if r.get("full_report_scores"):
+                md.append(f"If the report counted in full: {r['full_report_scores']} "
+                          f"→ {r['full_report_final']}")
             md.append("")
             for t in THEMES:
                 th = r["themes"][t]
-                extra = " (rescored with the sustainability report)" if th.get("rescored_from_report") else ""
+                extra = (f" (10-K {th['score_from_10k']}, report {th['score_from_report']}; "
+                         f"report counted at {th.get('report_weight', 1):g} weight)"
+                         if th.get("rescored_from_report") else "")
                 md.append(f"- **{THEME_LABELS[t]}: {th['score']}/5** "
                           f"({th['coverage']}){extra}: {th['reason']}")
                 for e in strongest_evidence(r, t):

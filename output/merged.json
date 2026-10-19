@@ -105,6 +105,8 @@
       "final_score": 40.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -289,6 +291,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -516,6 +520,8 @@
       "final_score": 33.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -719,6 +725,8 @@
       "final_score": 22.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -912,6 +920,8 @@
       "final_score": 58.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -1147,6 +1157,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -1316,6 +1328,8 @@
       "final_score": 32.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -1519,6 +1533,8 @@
       "final_score": 0.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [],
       "notes": "The Item 7 excerpt contains only non-GAAP boilerplate; its 'analyst community' wording is a trap and does not count. Interop Lab collaboration with customers and suppliers is commercial interoperability testing, not community or education ('collaboration' in a business sense is a trap). Ecosystem 'collaboration' with design partners and EDA tool providers is likewise commercial. Community and Cross-cultural coverage is insufficient because the Human Capital section is about 140 words, so this company triggers the automated second look for a sustainability report on a company-owned domain. Entrepreneurship: the ladder lists own innovation at level 1 but the traps list says 'innovation' does not count; resolved to the lower level (0) under the tie-break rule. Final score on the 10-K alone: 0/100.",
       "quote_check_status": "passed",
@@ -1630,6 +1646,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -1788,6 +1806,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -1960,6 +1980,8 @@
       "final_score": 37.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -2177,6 +2199,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -2354,6 +2378,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -2560,6 +2586,8 @@
       "final_score": 27.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -2758,6 +2786,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -2972,6 +3002,8 @@
       "final_score": 33.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -3209,6 +3241,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -3393,6 +3427,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -3603,6 +3639,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -3859,6 +3897,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -4045,6 +4085,8 @@
       "final_score": 4.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [],
       "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. The company had three employees and four contractors as of August 31, 2025, which explains the very thin human capital disclosure. Community and Cross-cultural are marked insufficient, so this company should get the automated sustainability-report second look. The legacy mining-as-a-service business is described as past, ended in 2025, and did not qualify for any theme. Traps not counted: 'gaming' and 'identity and credentialing systems', which are Ethereum use cases rather than company activities; 'diversifying set of use cases'; and 'innovations' in tokenization.",
       "quote_check_status": "passed",
@@ -4176,6 +4218,8 @@
       "final_score": 36.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -4467,6 +4511,8 @@
       "final_score": 15.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -4611,6 +4657,8 @@
       "final_score": 13.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [],
       "notes": "Final score = 0 + 6 + 4 + 3 = 13/100. Several activities were considered and not counted. (1) The Caris Precision Oncology Alliance (99 members, over 45 NCI-designated centers, data access through CODEai) is a research network tied to commercial use, since members profile patients with Caris solutions and it helps Caris become a 'preferred partner'. It is not external education or community investment, so under the lower-level rule it was not scored for Community. (2) Medical science liaison 'educational seminars' for physicians count as educating customers for marketing, a trap. (3) 'Education of customers' and 'medical community' are traps. (4) 'Collaboration agreement with Everlywell' is a commercial deal for a planned product. (5) Caris Detect is planned for a 2026 launch. Coverage was marked sufficient for Community and Cross-cultural because the human capital discussion is about 190 words (over the ~150 threshold), it does not refer to another document for these areas, and it simply describes no qualifying activities. No second look is triggered.",
       "quote_check_status": "passed",
@@ -4723,6 +4771,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -4956,6 +5006,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -5159,6 +5211,8 @@
       "final_score": 32.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -5341,6 +5395,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -5547,6 +5603,8 @@
       "final_score": 25.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -5682,7 +5740,7 @@
         },
         "community": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -5704,11 +5762,13 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "cross_cultural": {
           "ai_score": 3,
-          "score": 3,
+          "score": 2,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E5",
@@ -5725,6 +5785,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 3,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -5741,8 +5803,8 @@
       },
       "scores": {
         "creativity": 0,
-        "community": 2,
-        "cross_cultural": 3,
+        "community": 1.5,
+        "cross_cultural": 2,
         "entrepreneurship": 0
       },
       "coverage": {
@@ -5751,7 +5813,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 24.0,
+      "final_score": 17.0,
       "original_10k_scores": {
         "creativity": 0,
         "community": 1,
@@ -5759,6 +5821,13 @@
         "entrepreneurship": 0
       },
       "original_10k_final": 10.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 3,
+        "entrepreneurship": 0
+      },
+      "full_report_final": 24.0,
       "evidence": [
         {
           "id": "SL-E1",
@@ -5879,7 +5948,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 345,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/sustainability-reports/2024_cf-industries_corporate-stewardship-report.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -5984,6 +6053,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -6147,6 +6218,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -6298,6 +6371,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -6525,6 +6600,8 @@
       "final_score": 31.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -6743,6 +6820,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -6926,6 +7005,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -7097,6 +7178,8 @@
       "final_score": 12.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -7247,6 +7330,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -7574,6 +7659,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -7766,6 +7853,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -8026,6 +8115,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -8242,6 +8333,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -8406,6 +8499,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -8604,6 +8699,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -8770,6 +8867,8 @@
       "final_score": 13.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -8916,6 +9015,8 @@
       "final_score": 22.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -9087,6 +9188,8 @@
       "final_score": 3.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -9224,6 +9327,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -9434,6 +9539,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -9595,6 +9702,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -9778,6 +9887,8 @@
       "final_score": 34.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -9962,6 +10073,8 @@
       "final_score": 25.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -10157,6 +10270,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 2,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -10197,6 +10312,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 23.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 23.0,
       "evidence": [
         {
           "id": "E1",
@@ -10374,7 +10496,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 545,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://assets.dynatrace.com/global/company/esg/dynatrace-2025-sustainability-report.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -10498,6 +10620,8 @@
       "final_score": 63.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -10771,6 +10895,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -11009,6 +11135,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -11173,6 +11301,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -11378,6 +11508,8 @@
       "final_score": 22.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -11568,6 +11700,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -11702,6 +11836,8 @@
       "final_score": 27.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -11878,6 +12014,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -12090,6 +12228,8 @@
       "final_score": 80.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -12451,6 +12591,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -12675,6 +12817,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -12865,6 +13009,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -13007,6 +13153,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -13185,6 +13333,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -13336,6 +13486,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -13464,6 +13616,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -13616,6 +13770,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -13852,6 +14008,8 @@
       "final_score": 10.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -13984,6 +14142,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -14125,6 +14285,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -14250,6 +14412,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -14427,6 +14591,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -14589,6 +14755,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -14769,6 +14937,8 @@
       "final_score": 8.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -14904,6 +15074,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -15111,6 +15283,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -15333,6 +15507,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -15466,7 +15642,7 @@
         },
         "cross_cultural": {
           "ai_score": 3,
-          "score": 3,
+          "score": 2,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -15500,6 +15676,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 3,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -15517,7 +15695,7 @@
       "scores": {
         "creativity": 0,
         "community": 2,
-        "cross_cultural": 3,
+        "cross_cultural": 2,
         "entrepreneurship": 0
       },
       "coverage": {
@@ -15526,7 +15704,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 24.0,
+      "final_score": 20.0,
       "original_10k_scores": {
         "creativity": 0,
         "community": 2,
@@ -15534,6 +15712,13 @@
         "entrepreneurship": 0
       },
       "original_10k_final": 16.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 3,
+        "entrepreneurship": 0
+      },
+      "full_report_final": 24.0,
       "evidence": [
         {
           "id": "E1",
@@ -15787,7 +15972,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 715,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.hosthotels.com/-/media/HostHotels/Files/DownloadLinksAssets/CR-Highlights/Host_Hotels_Resorts_Inc_2026_Corporate_Responsibility_Report.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -15898,6 +16083,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -16107,6 +16294,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -16202,7 +16391,7 @@
         },
         "cross_cultural": {
           "ai_score": 3,
-          "score": 3,
+          "score": 2,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E2",
@@ -16224,6 +16413,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 3,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -16247,7 +16438,7 @@
       "scores": {
         "creativity": 0,
         "community": 2,
-        "cross_cultural": 3,
+        "cross_cultural": 2,
         "entrepreneurship": 1
       },
       "coverage": {
@@ -16256,7 +16447,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 27.0,
+      "final_score": 23.0,
       "original_10k_scores": {
         "creativity": 0,
         "community": 2,
@@ -16264,6 +16455,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 19.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 3,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 27.0,
       "evidence": [
         {
           "id": "E1",
@@ -16384,7 +16582,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 264,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://emea.illumina.com/content/dam/illumina-marketing/documents/company/2025-cr-report/illumina-2025-cr-report-en.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -16491,6 +16689,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -16668,6 +16868,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -16837,6 +17039,8 @@
       "final_score": 6.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -16956,6 +17160,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -17140,6 +17346,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -17300,7 +17508,7 @@
         },
         "community": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1"
@@ -17315,6 +17523,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "cross_cultural": {
@@ -17334,6 +17544,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 1,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -17356,7 +17568,7 @@
       },
       "scores": {
         "creativity": 1,
-        "community": 2,
+        "community": 1.5,
         "cross_cultural": 1,
         "entrepreneurship": 1
       },
@@ -17366,7 +17578,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 26.0,
+      "final_score": 23.0,
       "original_10k_scores": {
         "creativity": 1,
         "community": 1,
@@ -17374,6 +17586,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 20.0,
+      "full_report_scores": {
+        "creativity": 1,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 26.0,
       "evidence": [
         {
           "id": "E1",
@@ -17461,7 +17680,7 @@
         "SL-E1: report quote may be a sentence fragment"
       ],
       "human_capital_words": 1170,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.keurigdrpepper.com/wp-content/uploads/2026/06/impact-report.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -17577,6 +17796,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -17767,6 +17988,8 @@
       "final_score": 22.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -17900,6 +18123,8 @@
       "final_score": 3.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -18023,6 +18248,8 @@
       "final_score": 15.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -18150,6 +18377,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -18313,6 +18542,8 @@
       "final_score": 10.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [],
       "notes": "The Item 7 excerpt covers only credit facilities and commercial paper, with no theme-relevant content. Patient-access items were reviewed and excluded from Cross-cultural because none targets cultural, linguistic or underserved-group barriers as a company-initiated program. These items are: LillyDirect, a general direct-to-patient platform; Medicaid rebates and 340B pricing for low-income and uninsured patients, which are statutorily required; the penny-priced insulin exception within a mandated program; and the November 2025 preliminary agreements giving Medicare beneficiaries discounted obesity medicines by July 1, 2026, which are planned and not yet operating. External research investments (licensing, joint ventures, equity investments) are not small-business enabling programs. The Entrepreneurship score of 0 versus 1 (own innovation) was a close call; the lower level was chosen under rule 7. Indicative final score: 10/100.",
       "quote_check_status": "passed",
@@ -18407,6 +18638,8 @@
       "final_score": 14.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -18577,6 +18810,8 @@
       "final_score": 36.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -18790,6 +19025,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -18945,6 +19182,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -19190,6 +19429,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -19314,6 +19555,8 @@
       "final_score": 25.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -19509,6 +19752,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 1,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -19549,6 +19794,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 19.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 19.0,
       "evidence": [
         {
           "id": "E1",
@@ -19707,7 +19959,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 1139,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.medpace.com/careers/wp-content/uploads/sites/2/2026/02/Medpace_Corporate_Responsibility_Report-2025-2026_020526.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -19813,6 +20065,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -19976,6 +20230,8 @@
       "final_score": 0.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [],
       "notes": "The Item 7 excerpt describes a 2016 New Markets Tax Credit financing with Wells Fargo Community Investment Holdings for equipment modernization at the company's own Fulton, MS facility. It is a tax-credit financing and legal structure, not a company community program, and the filing does not say whether it is still active, so no evidence record was created. Coverage for Community and Cross-cultural is borderline: the Human Capital Resources prose is about 160 words (more with the union table), so it does not meet the strict 'under about 150 words' condition and was marked sufficient. A human reviewer may want to confirm this, since the section contains almost no relevant substance. The 'Community' in 'Community Renewal Tax Relief Act' and 'community development entities' is legal or program terminology and was not counted. Final score: 0/100.",
       "quote_check_status": "passed",
@@ -20078,6 +20334,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -20264,6 +20522,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -20469,6 +20729,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -20672,6 +20934,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -20913,6 +21177,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -21087,7 +21353,7 @@
         },
         "cross_cultural": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -21117,6 +21383,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -21134,7 +21402,7 @@
       "scores": {
         "creativity": 0,
         "community": 2,
-        "cross_cultural": 2,
+        "cross_cultural": 1.5,
         "entrepreneurship": 1
       },
       "coverage": {
@@ -21143,7 +21411,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 23.0,
+      "final_score": 21.0,
       "original_10k_scores": {
         "creativity": 0,
         "community": 2,
@@ -21151,6 +21419,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 19.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 23.0,
       "evidence": [
         {
           "id": "E1",
@@ -21347,7 +21622,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 1017,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.marvell.com/content/dam/marvell/en/company/assets/marvell-sustainability-report-fy25.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -21460,6 +21735,8 @@
       "final_score": 40.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -21656,6 +21933,8 @@
       "final_score": 15.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -21821,6 +22100,8 @@
       "final_score": 25.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -22021,6 +22302,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -22185,6 +22468,8 @@
       "final_score": 27.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -22373,6 +22658,8 @@
       "final_score": 17.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -22530,6 +22817,8 @@
       "final_score": 27.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -22800,6 +23089,8 @@
       "final_score": 9.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -22935,6 +23226,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -23114,6 +23407,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -23190,7 +23485,7 @@
         },
         "cross_cultural": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -23212,6 +23507,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -23229,7 +23526,7 @@
       "scores": {
         "creativity": 0,
         "community": 2,
-        "cross_cultural": 2,
+        "cross_cultural": 1.5,
         "entrepreneurship": 0
       },
       "coverage": {
@@ -23238,7 +23535,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 20.0,
+      "final_score": 18.0,
       "original_10k_scores": {
         "creativity": 0,
         "community": 2,
@@ -23246,6 +23543,13 @@
         "entrepreneurship": 0
       },
       "original_10k_final": 16.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 0
+      },
+      "full_report_final": 20.0,
       "evidence": [
         {
           "id": "E1",
@@ -23354,7 +23658,7 @@
         "SL-E2: report quote may be a sentence fragment"
       ],
       "human_capital_words": 671,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.nationalfuel.com/wp-content/uploads/documents/NFG-CRR24-Full-FINAL.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -23451,6 +23755,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -23594,6 +23900,8 @@
       "final_score": 32.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -23779,6 +24087,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -23919,6 +24229,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -24069,6 +24381,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -24187,6 +24501,8 @@
       "final_score": 13.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -24282,7 +24598,7 @@
         },
         "cross_cultural": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -24305,6 +24621,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -24328,7 +24646,7 @@
       "scores": {
         "creativity": 3,
         "community": 2,
-        "cross_cultural": 2,
+        "cross_cultural": 1.5,
         "entrepreneurship": 2
       },
       "coverage": {
@@ -24337,7 +24655,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 47.0,
+      "final_score": 45.0,
       "original_10k_scores": {
         "creativity": 3,
         "community": 2,
@@ -24345,6 +24663,13 @@
         "entrepreneurship": 2
       },
       "original_10k_final": 43.0,
+      "full_report_scores": {
+        "creativity": 3,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 2
+      },
+      "full_report_final": 47.0,
       "evidence": [
         {
           "id": "E1",
@@ -24579,7 +24904,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 174,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -24695,6 +25020,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -24930,6 +25257,8 @@
       "final_score": 40.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -25095,6 +25424,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -25272,6 +25603,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -25424,6 +25757,8 @@
       "final_score": 13.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -25569,6 +25904,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -25815,6 +26152,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -26037,6 +26376,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -26235,6 +26576,8 @@
       "final_score": 10.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -26404,6 +26747,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -26638,6 +26983,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -26782,6 +27129,8 @@
       "final_score": 9.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [],
       "notes": "No evidence records qualified, so all scores rest on general language or the absence of activity. Traps excluded: 'intelligence community' and 'investment community' (Community); 'design' meaning engineering or platform design (Creativity); 'joint ventures' and 'innovation' (Entrepreneurship); 'smaller technology companies' mentioned only as competitors or channel partners (Entrepreneurship); users who 'collaborate' inside the platforms, which is a product feature rather than community collaboration. AIP bootcamps are a customer-acquisition tool that delivers workflows on customer data, so they fall under the 'educating customers as marketing' trap and were not counted for Community. The Developer Tier gives developers limited low-cost access to Foundry and AIP; it was considered for Entrepreneurship but is presented as a sales strategy to widen access and is not aimed at founders or small businesses, so the lower level was chosen. The Privacy and Civil Liberties Engineering team (publishing research, consulting with policymakers) and the AI governance 'bias mitigation' tooling are product and ethics features, not external education or inclusion programs. The human capital section is about 180 words, above the roughly 150-word threshold, and does not refer readers to a sustainability report, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. Computed total: 0 + 6 + 0 + 3 = 9/100.",
       "quote_check_status": "passed",
@@ -26883,6 +27232,8 @@
       "final_score": 13.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -27059,6 +27410,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -27285,6 +27638,8 @@
       "final_score": 10.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -27398,6 +27753,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -27527,6 +27884,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -27671,6 +28030,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -27818,6 +28179,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -28017,6 +28380,8 @@
       "final_score": 15.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -28216,6 +28581,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -28490,6 +28857,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -28624,6 +28993,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -28780,6 +29151,8 @@
       "final_score": 60.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -29012,6 +29385,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -29155,6 +29530,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -29331,6 +29708,8 @@
       "final_score": 54.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -29504,7 +29883,7 @@
         },
         "community": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -29531,11 +29910,13 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "cross_cultural": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E2",
@@ -29553,6 +29934,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -29575,8 +29958,8 @@
       },
       "scores": {
         "creativity": 0,
-        "community": 2,
-        "cross_cultural": 2,
+        "community": 1.5,
+        "cross_cultural": 1.5,
         "entrepreneurship": 1
       },
       "coverage": {
@@ -29585,7 +29968,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 23.0,
+      "final_score": 18.0,
       "original_10k_scores": {
         "creativity": 0,
         "community": 1,
@@ -29593,6 +29976,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 13.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 23.0,
       "evidence": [
         {
           "id": "E1",
@@ -29789,7 +30179,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 1246,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.royaltypharma.com/wp-content/uploads/2026/04/RP_CRR-2025.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -29886,6 +30276,8 @@
       "final_score": 9.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -29977,7 +30369,7 @@
         },
         "cross_cultural": {
           "ai_score": 2,
-          "score": 2,
+          "score": 1.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -29994,6 +30386,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 2,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -30011,7 +30405,7 @@
       "scores": {
         "creativity": 0,
         "community": 2,
-        "cross_cultural": 2,
+        "cross_cultural": 1.5,
         "entrepreneurship": 0
       },
       "coverage": {
@@ -30020,7 +30414,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 20.0,
+      "final_score": 18.0,
       "original_10k_scores": {
         "creativity": 0,
         "community": 2,
@@ -30028,6 +30422,13 @@
         "entrepreneurship": 0
       },
       "original_10k_final": 16.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 2,
+        "entrepreneurship": 0
+      },
+      "full_report_final": 20.0,
       "evidence": [
         {
           "id": "E1",
@@ -30129,7 +30530,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 968,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://resources.revvity.com/pdfs/2026-impact-report.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -30241,6 +30642,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -30473,6 +30876,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -30754,6 +31159,8 @@
       "final_score": 53.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -31068,6 +31475,8 @@
       "final_score": 13.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -31228,6 +31637,8 @@
       "final_score": 33.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -31463,6 +31874,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -31621,6 +32034,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -31777,6 +32192,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -31922,6 +32339,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -32091,6 +32510,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -32203,6 +32624,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -32315,6 +32738,8 @@
       "final_score": 10.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -32400,7 +32825,7 @@
         },
         "cross_cultural": {
           "ai_score": 3,
-          "score": 3,
+          "score": 2.5,
           "coverage": "sufficient",
           "evidence_ids": [
             "SL-E1",
@@ -32421,6 +32846,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 2,
+          "score_from_report": 3,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -32444,7 +32871,7 @@
       "scores": {
         "creativity": 1,
         "community": 2,
-        "cross_cultural": 3,
+        "cross_cultural": 2.5,
         "entrepreneurship": 1
       },
       "coverage": {
@@ -32453,7 +32880,7 @@
         "cross_cultural": "sufficient",
         "entrepreneurship": "sufficient"
       },
-      "final_score": 34.0,
+      "final_score": 32.0,
       "original_10k_scores": {
         "creativity": 1,
         "community": 2,
@@ -32461,6 +32888,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 30.0,
+      "full_report_scores": {
+        "creativity": 1,
+        "community": 2,
+        "cross_cultural": 3,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 34.0,
       "evidence": [
         {
           "id": "E1",
@@ -32657,7 +33091,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 480,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.seagate.com/content/dam/seagate/assets/sustainability/files/seagate-fy2025-sustainability-report.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -32752,6 +33186,8 @@
       "final_score": 9.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -32872,6 +33308,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -33019,6 +33457,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -33175,6 +33615,8 @@
       "final_score": 17.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -33323,6 +33765,8 @@
       "final_score": 29.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -33527,6 +33971,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -33733,6 +34179,8 @@
       "final_score": 32.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -33914,6 +34362,8 @@
       "final_score": 15.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -34115,6 +34565,8 @@
       "final_score": 9.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [],
       "notes": "No evidence records were created because no current activity meets any theme's criteria. Excluded as traps: 'design' meaning engineering or gene-panel design; 'licensing' meaning patent in-licenses with Harvard and Stanford; 'user-generated content' in the customer online community, which is marketing; 'state of the art' in regulatory text; 'community' meaning the research community; 'collaboration' meaning internal cross-functional product development; 'democratize access to complex data analysis', which is product accessibility for researchers and not cross-cultural inclusion; and 'innovation/innovative'. The customer 'education and training resources, both online and in person' were treated as product-adoption marketing ('educating customers'), not external education. The Item 7 excerpt mentions 'the larger research community' and research grants, neither of which qualifies. Coverage is sufficient for all themes because a Human Capital section of more than 150 words is present, so no second look is triggered.",
       "quote_check_status": "passed",
@@ -34215,6 +34667,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -34380,6 +34834,8 @@
       "final_score": 26.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -34557,6 +35013,8 @@
       "final_score": 13.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -34678,6 +35136,8 @@
           "flags": [],
           "coverage_trigger": "ai",
           "score_from_10k": 1,
+          "score_from_report": 1,
+          "report_weight": 0.5,
           "rescored_from_report": true
         },
         "entrepreneurship": {
@@ -34718,6 +35178,13 @@
         "entrepreneurship": 1
       },
       "original_10k_final": 19.0,
+      "full_report_scores": {
+        "creativity": 0,
+        "community": 2,
+        "cross_cultural": 1,
+        "entrepreneurship": 1
+      },
+      "full_report_final": 19.0,
       "evidence": [
         {
           "id": "E1",
@@ -34800,7 +35267,7 @@
       "quote_check_status": "passed",
       "flags": [],
       "human_capital_words": 1003,
-      "score_source": "10-K + sustainability report",
+      "score_source": "10-K + sustainability report (half weight)",
       "report_url": "https://www.valero.com/sites/default/files/valero-documents/2025-08/2025%20GPR%20FINAL%20DIGITAL%20Pages.pdf",
       "report_link_found_on": "",
       "second_look": {
@@ -34898,6 +35365,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -35068,6 +35537,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -35300,6 +35771,8 @@
       "final_score": 30.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -35531,6 +36004,8 @@
       "final_score": 16.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -35699,6 +36174,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -35921,6 +36398,8 @@
       "final_score": 27.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -36186,6 +36665,8 @@
       "final_score": 23.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -36454,6 +36935,8 @@
       "final_score": 33.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -36730,6 +37213,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -36900,6 +37385,8 @@
       "final_score": 20.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -37157,6 +37644,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -37324,6 +37813,8 @@
       "final_score": 24.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -37562,6 +38053,8 @@
       "final_score": 24.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",
@@ -37720,6 +38213,8 @@
       "final_score": 19.0,
       "original_10k_scores": null,
       "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
       "evidence": [
         {
           "id": "E1",

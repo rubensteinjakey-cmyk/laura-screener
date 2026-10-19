@@ -74,6 +74,8 @@
   "final_score": 9.0,
   "original_10k_scores": null,
   "original_10k_final": null,
+  "full_report_scores": null,
+  "full_report_final": null,
   "evidence": [],
   "notes": "No evidence records qualified, so all scores rest on general language or the absence of activity. Traps excluded: 'intelligence community' and 'investment community' (Community); 'design' meaning engineering or platform design (Creativity); 'joint ventures' and 'innovation' (Entrepreneurship); 'smaller technology companies' mentioned only as competitors or channel partners (Entrepreneurship); users who 'collaborate' inside the platforms, which is a product feature rather than community collaboration. AIP bootcamps are a customer-acquisition tool that delivers workflows on customer data, so they fall under the 'educating customers as marketing' trap and were not counted for Community. The Developer Tier gives developers limited low-cost access to Foundry and AIP; it was considered for Entrepreneurship but is presented as a sales strategy to widen access and is not aimed at founders or small businesses, so the lower level was chosen. The Privacy and Civil Liberties Engineering team (publishing research, consulting with policymakers) and the AI governance 'bias mitigation' tooling are product and ethics features, not external education or inclusion programs. The human capital section is about 180 words, above the roughly 150-word threshold, and does not refer readers to a sustainability report, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. Computed total: 0 + 6 + 0 + 3 = 9/100.",
   "quote_check_status": "passed",

@@ -137,7 +137,8 @@ python src/overlap_check.py --a maya --b maya_repeat
 
 - `output/results.csv`: one row per company: the 4 theme scores and their
   coverage, final score, sector rank and percentile, `in_shortlist`, score
-  source, original 10-K scores (if a second look ran), quote check status,
+  source, the 10-K-only and full-report scores and finals (if a second look
+  ran), quote check status,
   flags, report URL.
 - `output/evidence.csv`: one row per evidence record (activity, quote,
   section, status, indicators, themes, source document, verified or not).
@@ -189,7 +190,10 @@ python src/overlap_check.py --a maya --b maya_repeat
   `second_look.py` finds the company's sustainability report (2024 or later,
   on a website containing the company's brand name from its 10-K) and
   rescores those themes from scratch with the 10-K + report. Scores can go up
-  or down; the original 10-K scores are kept. Reports not on the company's
+  or down. The report counts at **half weight** (team decision, Oct 19; see
+  `DECISIONS.md`): final theme score = 10-K score + `report_weight` ×
+  (report score − 10-K score), with `report_weight: 0.5` in `config.yaml`.
+  The 10-K-only and full-report scores are both kept in `results.csv`. Reports not on the company's
   main domain are listed in `needs_human.csv` for a quick check. A human can
   supply a report link in `data/reports/manual_urls.csv` (`ticker,url`).
 - **Shortlist**: the top 40% of each sector (`shortlist_pct`), at least 2 per
@@ -202,6 +206,8 @@ python src/overlap_check.py --a maya --b maya_repeat
   company's CIK to `cik_overrides.csv` (`ticker,cik,reason`).
 
 ## Open decisions (TODO)
+
+Decisions already made, with dates, are in `DECISIONS.md`.
 
 These are **not decided yet**. The code is built so each can change without
 rewriting anything:

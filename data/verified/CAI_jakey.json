@@ -74,6 +74,8 @@
   "final_score": 13.0,
   "original_10k_scores": null,
   "original_10k_final": null,
+  "full_report_scores": null,
+  "full_report_final": null,
   "evidence": [],
   "notes": "Final score = 0 + 6 + 4 + 3 = 13/100. Several activities were considered and not counted. (1) The Caris Precision Oncology Alliance (99 members, over 45 NCI-designated centers, data access through CODEai) is a research network tied to commercial use, since members profile patients with Caris solutions and it helps Caris become a 'preferred partner'. It is not external education or community investment, so under the lower-level rule it was not scored for Community. (2) Medical science liaison 'educational seminars' for physicians count as educating customers for marketing, a trap. (3) 'Education of customers' and 'medical community' are traps. (4) 'Collaboration agreement with Everlywell' is a commercial deal for a planned product. (5) Caris Detect is planned for a 2026 launch. Coverage was marked sufficient for Community and Cross-cultural because the human capital discussion is about 190 words (over the ~150 threshold), it does not refer to another document for these areas, and it simply describes no qualifying activities. No second look is triggered.",
   "quote_check_status": "passed",

@@ -59,6 +59,8 @@
       "flags": [],
       "coverage_trigger": "ai",
       "score_from_10k": 1,
+      "score_from_report": 1,
+      "report_weight": 0.5,
       "rescored_from_report": true
     },
     "entrepreneurship": {
@@ -99,6 +101,13 @@
     "entrepreneurship": 1
   },
   "original_10k_final": 19.0,
+  "full_report_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "full_report_final": 19.0,
   "evidence": [
     {
       "id": "E1",
@@ -181,7 +190,7 @@
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 1003,
-  "score_source": "10-K + sustainability report",
+  "score_source": "10-K + sustainability report (half weight)",
   "report_url": "https://www.valero.com/sites/default/files/valero-documents/2025-08/2025%20GPR%20FINAL%20DIGITAL%20Pages.pdf",
   "report_link_found_on": "",
   "second_look": {

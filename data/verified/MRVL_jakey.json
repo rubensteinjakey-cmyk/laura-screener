@@ -47,7 +47,7 @@
     },
     "cross_cultural": {
       "ai_score": 2,
-      "score": 2,
+      "score": 1.5,
       "coverage": "sufficient",
       "evidence_ids": [
         "SL-E1",
@@ -77,6 +77,8 @@
       "flags": [],
       "coverage_trigger": "ai",
       "score_from_10k": 1,
+      "score_from_report": 2,
+      "report_weight": 0.5,
       "rescored_from_report": true
     },
     "entrepreneurship": {
@@ -94,7 +96,7 @@
   "scores": {
     "creativity": 0,
     "community": 2,
-    "cross_cultural": 2,
+    "cross_cultural": 1.5,
     "entrepreneurship": 1
   },
   "coverage": {
@@ -103,7 +105,7 @@
     "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 23.0,
+  "final_score": 21.0,
   "original_10k_scores": {
     "creativity": 0,
     "community": 2,
@@ -111,6 +113,13 @@
     "entrepreneurship": 1
   },
   "original_10k_final": 19.0,
+  "full_report_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "full_report_final": 23.0,
   "evidence": [
     {
       "id": "E1",
@@ -307,7 +316,7 @@
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 1017,
-  "score_source": "10-K + sustainability report",
+  "score_source": "10-K + sustainability report (half weight)",
   "report_url": "https://www.marvell.com/content/dam/marvell/en/company/assets/marvell-sustainability-report-fy25.pdf",
   "report_link_found_on": "",
   "second_look": {

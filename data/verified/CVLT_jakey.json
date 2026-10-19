@@ -90,6 +90,8 @@
   "final_score": 19.0,
   "original_10k_scores": null,
   "original_10k_final": null,
+  "full_report_scores": null,
+  "full_report_final": null,
   "evidence": [
     {
       "id": "E1",

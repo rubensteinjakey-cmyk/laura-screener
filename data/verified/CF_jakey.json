@@ -27,7 +27,7 @@
     },
     "community": {
       "ai_score": 2,
-      "score": 2,
+      "score": 1.5,
       "coverage": "sufficient",
       "evidence_ids": [
         "SL-E1",
@@ -49,11 +49,13 @@
       "flags": [],
       "coverage_trigger": "ai",
       "score_from_10k": 1,
+      "score_from_report": 2,
+      "report_weight": 0.5,
       "rescored_from_report": true
     },
     "cross_cultural": {
       "ai_score": 3,
-      "score": 3,
+      "score": 2,
       "coverage": "sufficient",
       "evidence_ids": [
         "SL-E5",
@@ -70,6 +72,8 @@
       "flags": [],
       "coverage_trigger": "ai",
       "score_from_10k": 1,
+      "score_from_report": 3,
+      "report_weight": 0.5,
       "rescored_from_report": true
     },
     "entrepreneurship": {
@@ -86,8 +90,8 @@
   },
   "scores": {
     "creativity": 0,
-    "community": 2,
-    "cross_cultural": 3,
+    "community": 1.5,
+    "cross_cultural": 2,
     "entrepreneurship": 0
   },
   "coverage": {
@@ -96,7 +100,7 @@
     "cross_cultural": "sufficient",
     "entrepreneurship": "sufficient"
   },
-  "final_score": 24.0,
+  "final_score": 17.0,
   "original_10k_scores": {
     "creativity": 0,
     "community": 1,
@@ -104,6 +108,13 @@
     "entrepreneurship": 0
   },
   "original_10k_final": 10.0,
+  "full_report_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 3,
+    "entrepreneurship": 0
+  },
+  "full_report_final": 24.0,
   "evidence": [
     {
       "id": "SL-E1",
@@ -224,7 +235,7 @@
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 345,
-  "score_source": "10-K + sustainability report",
+  "score_source": "10-K + sustainability report (half weight)",
   "report_url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/sustainability-reports/2024_cf-industries_corporate-stewardship-report.pdf",
   "report_link_found_on": "",
   "second_look": {

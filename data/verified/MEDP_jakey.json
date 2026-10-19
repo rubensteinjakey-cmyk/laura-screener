@@ -68,6 +68,8 @@
       "flags": [],
       "coverage_trigger": "ai",
       "score_from_10k": 1,
+      "score_from_report": 1,
+      "report_weight": 0.5,
       "rescored_from_report": true
     },
     "entrepreneurship": {
@@ -108,6 +110,13 @@
     "entrepreneurship": 1
   },
   "original_10k_final": 19.0,
+  "full_report_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "full_report_final": 19.0,
   "evidence": [
     {
       "id": "E1",
@@ -266,7 +275,7 @@
   "quote_check_status": "passed",
   "flags": [],
   "human_capital_words": 1139,
-  "score_source": "10-K + sustainability report",
+  "score_source": "10-K + sustainability report (half weight)",
   "report_url": "https://www.medpace.com/careers/wp-content/uploads/sites/2/2026/02/Medpace_Corporate_Responsibility_Report-2025-2026_020526.pdf",
   "report_link_found_on": "",
   "second_look": {
