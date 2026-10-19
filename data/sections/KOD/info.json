@@ -1,0 +1,43 @@
+{
+  "ticker": "KOD",
+  "accession_number": "0001193125-26-134887",
+  "filing_date": "2026-03-31",
+  "fiscal_year": 2025,
+  "full_text_words": 75244,
+  "sections": {
+    "item1": {
+      "words": 14694,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          14694,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6336,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6336,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 247
+    }
+  },
+  "notes": [],
+  "human_capital_words": 368,
+  "human_capital_found": true,
+  "people_paragraph_words": 1297
+}

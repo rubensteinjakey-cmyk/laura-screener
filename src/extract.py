@@ -187,6 +187,7 @@ def find_referenced_mda(source_text, xref_text):
     titles = quoted_titles(xref_text) + [MDA_DEFAULT_TITLE]
     pats = [re.compile(r"^" + re.escape(t).replace("['’]", "['’]").replace("'", "['’]")
                        + r"\b", re.I) for t in titles]
+    pats.append(re.compile(r"^management['’]s discussion (?:and|&) analysis\b", re.I))
     lines = line_offsets(source_text)
     starts = [o for o, l in lines if len(l) < 120 and any(p.match(l) for p in pats)]
     ends = [o for o, l in lines if len(l) < 160 and MDA_END.match(l)]
@@ -249,6 +250,35 @@ def targeted_mda(item7):
                 p = "\n".join(before) + "\n" + p
         kept.append(p)
     return "\n\n".join(kept), len(kept), len(paras)
+
+# ------------------------------------------- annual-report layout (Item 1)
+# Some 10-Ks (Illumina, Cardinal Health, McKesson) are laid out like an
+# annual report: "Item 1" appears only in a cross-reference index at the
+# back, and the business text sits under a plain heading ("Business",
+# "Business Overview", "Item 1 Index" page headers...). Fallback: take the
+# first stretch (1,000+ words) from such a heading to the next Risk Factors /
+# Item 1A heading. It always stops at Risk Factors, so they are never read.
+BUSINESS_START = re.compile(r"^(?:business|business overview|our business|"
+                            r"item\s*1\s*index)\s*$", re.I)
+BUSINESS_END = re.compile(r"^(?:risk factors|item\s*1a\b.*)\s*$", re.I)
+MIN_BUSINESS_WORDS = 1_000
+MAX_BUSINESS_WORDS = 40_000
+
+
+def find_business_section(text):
+    lines = line_offsets(text)
+    starts = [o for o, l in lines if BUSINESS_START.match(l)]
+    ends = [o for o, l in lines if BUSINESS_END.match(l)]
+    # The table of contents comes first (tiny pieces), then the real
+    # business section, then MD&A etc. (which may reuse a "Business
+    # Overview" heading). So take the FIRST piece of real length.
+    for st in starts:
+        nxt = [e for e in ends if e > st]
+        if nxt:
+            piece = text[st:nxt[0]].strip()
+            if MIN_BUSINESS_WORDS <= word_count(piece) <= MAX_BUSINESS_WORDS:
+                return piece
+    return ""
 
 # ------------------------------------------------------ Human Capital part
 
@@ -319,6 +349,8 @@ def extract_company(sec, company, force=False):
             note = (f"{which}: 10-K section is {'missing' if not section else f'only {wc} words'}"
                     f" with {hits} cross-reference phrase(s)")
             found = ""
+            if which == "item1":
+                found, where = find_business_section(text), "elsewhere in the 10-K (annual-report layout)"
             if which == "item7":
                 if exhibit13_docs(meta):
                     if ex13_text is None:

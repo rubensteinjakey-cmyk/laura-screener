@@ -1,0 +1,41 @@
+{
+  "ticker": "KNTK",
+  "accession_number": "0001692787-26-000048",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "full_text_words": 59747,
+  "sections": {
+    "item1": {
+      "words": 7069,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          7069
+        ]
+      }
+    },
+    "item7": {
+      "words": 7885,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          7885
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 246
+    }
+  },
+  "notes": [],
+  "human_capital_words": 531,
+  "human_capital_found": true,
+  "people_paragraph_words": 1195
+}

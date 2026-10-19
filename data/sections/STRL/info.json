@@ -1,0 +1,43 @@
+{
+  "ticker": "STRL",
+  "accession_number": "0000874238-26-000024",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "full_text_words": 43479,
+  "sections": {
+    "item1": {
+      "words": 3737,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3737,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 5338,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          5338,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 145,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 157
+    }
+  },
+  "notes": [],
+  "human_capital_words": 616,
+  "human_capital_found": true,
+  "people_paragraph_words": 1145
+}

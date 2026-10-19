@@ -1,0 +1,483 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. This discussion and analysis and other parts of this Annual Report on Form 10-K contain forward-looking statements based upon current beliefs, plans and expectations related to future events and our future financial performance that involve risks, uncertainties and assumptions, such as statements regarding our intentions, plans, objectives, expectations, forecasts and projections. Our actual results and the timing of selected events could differ materially from those anticipated in these forward-looking statements as a result of several factors, including those set forth under the section titled “Part I, Item 1A — Risk Factors” and elsewhere in this Annual Report on Form 10-K.
+
+Overview
+
+We are a precommercial retina focused biotechnology company committed to researching, developing and commercializing transformative therapeutics. We are focused on bringing new science to the design and manufacture of next generation retinal medicines to prevent and treat the leading causes of blindness globally. Our Antibody Biopolymer Conjugate ("ABC") Platform uses molecular engineering to merge the fields of protein-based and chemistry-based therapies and has been at the core of Kodiak's discovery engine. We are developing a portfolio of three late-stage clinical programs, two of which are derived from our ABC platform and one which is platform-independent.
+
+Kodiak's lead investigational medicine, Zenkuda (tarcocimab), is an anti-VEGF antibody biopolymer conjugate under development for the treatment of high prevalence retinal vascular diseases. Zenkuda is being developed as a mainstay intravitreal biologic monotherapy that provides high immediacy, driven by the enhanced formulation, and high durability, driven by the ABC platform and our science of durability, with the ultimate objective of providing, once approved, a flexible 1-month through 6-month label for all patients with retinal vascular disease (treatment-naïve, treatment-experienced, mild patients and severe patients). Zenkuda has completed four successful Phase 3 pivotal studies: the Phase 3 GLOW1 and GLOW2 studies in diabetic retinopathy (DR), the Phase 3 BEACON study in retinal vein occlusion (RVO) and the Phase 3 DAYLIGHT study in wet AMD. Zenkuda is currently being studied in one Phase 3 clinical trial, DAYBREAK in patients with wet AMD. DAYBREAK has completed enrollment. We intend to file a Biologics License Application (“BLA”) in DR, retinal vein occlusion (“RVO”) and wet AMD in 2026.
+
+KSI-501, our second investigational medicine, is a first-in-class anti-IL-6, VEGF-trap bispecific therapy built on our ABC platform and is being developed for high prevalence retinal vascular diseases to address the leading unmet needs of extended durability and targeting disease biology beyond VEGF for differentiated efficacy. KSI-501 is designed to provide high immediacy/efficacy and high durability. KSI-501 is currently being studied in the Phase 3 DAYBREAK study in patients with wet AMD. DAYBREAK has completed enrollment.
+
+KSI-101, our third investigational medicine, is a high strength (100 mg/mL) antibody-based therapy with a bispecific mechanism of action targeting both interleukin-6 (IL-6) and VEGF. We are developing KSI-101 for patients with macular edema (retinal fluid) secondary to inflammation (“MESI”). Data from our dose-finding Phase 1b APEX study demonstrated robust anatomical and visual responses across MESI patients. More than half of patients achieved ≥15-letter gains in best corrected visual acuity ("BCVA"), with additional benefit at higher dose levels. Rapid vision improvements and anatomical response was observed with 10-letter gains by Week 4 in top dose groups and OCT CST <325 microns achieved as early as Week 1 in top dose groups. Continued anatomical improvement was observed over time with >90% resolution of intraretinal ("IRF") and subretinal fluid ("SRF") by Week 8 and 20/25 Snellen visual acuity by Week 20. In top dose groups, ≥90% achieved complete absence of IRF and SRF, indicating retinal dryness and normalization of retinal architecture. KSI-101 also continued to be well tolerated with a favorable safety profile. The top two dose levels in APEX have been advanced into the Phase 3 pivotal studies, PEAK and PINNACLE. The PEAK and PINNACLE studies are actively enrolling.
+
+With regards to our pipeline programs, dual cytokine-targeting bispecific antibody programs KSI-102 (anti-TNFa/IL-6) and KSI-103 (anti-IL-1/IL-6) continue to progress through pre-IND activities, targeting diseases of ocular inflammation. Retina duet programs in glaucoma and geographic atrophy built with ABC platform continue to progress.
+
+Our VETi (Visual Engagement Technology and imager) program has achieved significant advancements in hardware, software and algorithms development. VETi is our AI- and machine-learning-enabled wearable headset with applications in retina care alongside broader opportunities in identity security and cognitive sciences.
+
+We have a dedicated commercial-scale drug substance manufacturing facility that was custom-designed and built in collaboration with Lonza. We believe these manufacturing capabilities could position us for potential market share capture if tarcocimab and KSI-501 are approved.
+
+Recent Updates
+
+Zenkuda (tarcocimab) Clinical Program Update
+
+Zenkuda is an investigational anti-VEGF therapy built on Kodiak's proprietary ABC platform. Zenkuda has a mean ocular half-life in humans of 20 days, approximately three times longer than approved anti-VEGF therapies, and is designed to maintain effective drug levels in ocular tissues for longer. Zenkuda is being developed as a mainstay intravitreal biologic monotherapy that provides high immediacy, driven by the enhanced formulation, and high durability, driven by the ABC platform and our science of durability, with the ultimate objective of providing, once approved, a flexible 1-month through 6-month label for all patients with retinal vascular disease (treatment-naïve, treatment-experienced, mild patients, and severe patients).
+
+Zenkuda has completed four successful Phase 3 pivotal studies: the Phase 3 GLOW1 and GLOW2 studies in diabetic retinopathy ("DR"), the Phase 3 BEACON study in retinal vein occlusion ("RVO") and the Phase 3 DAYLIGHT study in wet AMD. In the GLOW1 and GLOW2 studies, Zenkuda successfully treated DR patients and prevented disease progression with 100% of patients on extended 6-month dosing at Year 1. In the BEACON study, during the first 6 months, Zenkuda-treated patients were dosed at 8-week intervals (as opposed to 4-week intervals for aflibercept). In the second 6 months, identical retreatment criteria were used for the Zenkuda and aflibercept arms, and nearly half of Zenkuda patients did not require any treatment while achieving similar vision and anatomical outcomes as the aflibercept group at one year. In the DAYLIGHT study, Zenkuda demonstrated non-inferior efficacy results and compelling safety and tolerability at a once-monthly dosing interval. Zenkuda is currently being studied in the Phase 3 DAYBREAK study in wet AMD, the final anticipated Phase 3 study in the program. In DAYBREAK, patients are treated on an every 1-month through every 6-month treatment interval, depending on an AI-driven assessment of disease activity. Topline results for the DAYBREAK one-year primary endpoint are expected in 3Q 2026.
+
+About GLOW1 and GLOW2
+
+GLOW1 and GLOW2 were prospective, randomized, double-masked, sham-controlled, multicenter Phase 3 studies evaluating Zenkuda 5mg in participants with diabetic retinopathy. Both studies employed extended-interval dosing regimens with an ultimate treatment interval of every six months. The primary endpoint was the proportion of eyes improving by ≥2 steps on the Diabetic Retinopathy Severity Scale ("DRSS") from baseline to Week 48. Additional outcome measures include the proportion of eyes developing a sight-threatening complication of diabetic retinopathy and the proportion of eyes improving ≥3 steps on DRSS from baseline to Week 48.
+
+In the GLOW1 study, patients were randomized 1:1 to receive either sham injections or Zenkuda via intravitreal injection at baseline, Week 8, Week 20 and Week 44, for a planned four injections in year one. The Phase 3 GLOW1 study demonstrated that, with extended 6-month dosing in every patient, Zenkuda can achieve strong efficacy both in treating existing disease (primary endpoint) and preventing vision threatening complications and disease progression (key secondary endpoint). In GLOW1, Zenkuda met its primary endpoint of the proportion of patients with at least a 2-step improvement on the DRSS score with 41.1% of Zenkuda-treated patients demonstrating at least a 2-step improvement versus 1.4% of patients in the sham group, a 29-fold increased response rate ratio (p-value < 0.0001). Zenkuda also met all key secondary endpoints, including greater reductions in the proportion of patients developing sight-threatening complications (such as diabetic macular edema and proliferative diabetic retinopathy) versus sham, demonstrating an 89% decreased risk (2.3% with Zenkuda versus 21.0% with sham, p-value < 0.0001).
+
+The Phase 3 GLOW2 study was designed as a confirmatory study to the Phase 3 GLOW1 study. Patients were randomized 1:1 to receive either sham injections or Zenkuda via intravitreal injection at baseline, Week 4, Week 8, Week 20 and Week 44, for a planned five injections in year one. The Phase 3 GLOW2 study confirmed findings from GLOW1 that, with extended 6-month dosing in all Zenkuda-treated patients, Zenkuda can achieve strong efficacy both in treating existing disease (primary endpoint) and preventing vision threatening complications and disease progression (key secondary endpoint). In GLOW2, Zenkuda met its primary endpoint of the proportion of patients with at least a 2-step improvement on the DRSS, with 62.5% of Zenkuda-treated patients demonstrating at least a 2-step improvement versus 3.3% of patients in the sham group, a 19-fold increased response rate ratio (p-value < 0.0001). Zenkuda also met all key secondary endpoints, including greater reductions in the proportion of patients developing sight-threatening complications (such as diabetic macular edema and proliferative diabetic retinopathy), versus sham, demonstrating an 85% decreased risk (2.4% with Zenkuda versus 15.8% with sham, p-value ≤ 0.0001). Zenkuda also demonstrated strong efficacy independent of concomitant GLP-1 receptor agonist use. In Zenkuda-treated patients, the proportion achieving a ≥2-step improvement in DRSS was 60.0% among those using GLP-1 medications versus 64.3% among those not using GLP-1 medications, supporting Zenkuda’s efficacy profile in a real-world diabetic population. Zenkuda was well-tolerated with low rates of common ocular adverse events. No cases of intraocular inflammation were reported in the study, and no cases of retinal vasculitis or occlusive retinal vasculitis were
+
+observed. The incidence of cataract in the study eye was low (2.3% with Zenkuda versus 1.6% with sham) and in line with expected background rates in patients with DR.
+
+About DAYBREAK (and Zenkuda)
+
+The Phase 3 DAYBREAK study is a non-inferiority study evaluating parallel investigational arms of Zenkuda and KSI-501 against active comparator aflibercept. The DAYBREAK study incorporates learnings from prior pivotal trials of Zenkuda and was designed to maximize the probability of meeting the primary endpoint of non-inferiority in visual acuity gains. Patients randomized to Zenkuda will receive individualized dosing every 4 to 24 weeks on an as needed basis following four monthly loading doses. Patients randomized to aflibercept will be dosed per label. The individualized dosing of Zenkuda is determined by a treat-to-dryness proactive approach using the presence of retinal fluid as a disease activity marker, which resembles retina specialists' practice and optimizes each patient's treatment, instead of using a combination of central subfield thickness ("CST") and vision loss. The objectives for Zenkuda in DAYBREAK are to assess its durability potential, strengthen its competitive position in wet AMD and bolster the possible regulatory application package for the program. DAYBREAK was designed to showcase the potential for Zenkuda to be a mainstay biologic for VEGF-driven retinal vascular diseases with both a strong efficacy/immediacy (driven by its enhanced formulation) and a strong durability (driven by its ABC design and science of durability). Topline data for the one-year primary endpoint in DAYBREAK are expected in 3Q 2026.
+
+About Zenkuda and BLA Planning
+
+Kodiak plans to submit a BLA for Zenkuda supported by the confirmatory GLOW1 and GLOW2 studies in diabetic retinopathy, the BEACON Study in retinal vein occlusion, and the DAYLIGHT Study in wet AMD and intends to work with the FDA on timing of the submission in order to include the ongoing Phase 3 DAYBREAK wet AMD study, if successful, in the BLA.
+
+KSI-501 Clinical Program Update
+
+KSI-501 is an investigational anti-IL-6, VEGF-trap bispecific therapy built on the ABC platform and is being developed for high prevalence retinal vascular diseases to address the leading unmet needs of extended durability and targeting disease biology beyond VEGF for differentiated efficacy. KSI-501 is designed to provide high immediacy/efficacy, driven by the enhanced formulation, and high durability, driven by the ABC platform and our science of durability.
+
+In preclinical models, KSI-501 was shown to be a potent inhibitor of VEGF and IL-6 and, further, was shown to normalize the blood retinal barrier, opening up the possibility that KSI-501 may be a disease-modifying therapy for retinal vascular diseases. Furthermore, higher intraocular levels of IL-6 correlated with poorer BCVA outcomes over time in wet AMD patients treated with anti-VEGF monotherapy, which suggests that IL-6 inhibition in combination with anti-VEGF therapy could lead to improved outcomes.
+
+Kodiak has advanced KSI-501 into the Phase 3 study DAYBREAK to evaluate its efficacy and safety in wet AMD. DAYBREAK has completed enrollment. DAYBREAK uses KSI-501's enhanced 50 mg/mL formulation containing both conjugated and unconjugated antibody that is intended to balance immediacy and durability.
+
+About DAYBREAK (and KSI-501)
+
+The DAYBREAK study is a non-inferiority study evaluating parallel investigational arms of KSI-501 and Zenkuda against active comparator aflibercept. Patients randomized to KSI-501 will receive fixed every 8-week dosing with additional individualized dosing (up to monthly dosing) on an as needed basis after four monthly loading doses. Patients randomized to aflibercept will be dosed per label. Using the same treat-to-dryness approach as Zenkuda, coupled with fixed intensive proactive dosing, our goal is to maximize both the probability of meeting the primary endpoint as well as the probability of demonstrating additional efficacy benefits. The primary endpoint is non-inferiority in change in visual acuity from baseline to the average of Week 40, 44 and 48. The objective for KSI-501 in DAYBREAK is to explore the efficacy potential of bispecific IL-6 and VEGF inhibition in a broad treatment-naïve wet AMD population. DAYBREAK has completed enrollment. Topline data for the one-year primary endpoint in DAYBREAK are expected in 3Q 2026.
+
+KSI-101 Clinical Program Update
+
+KSI-101 is a high strength (100 mg/mL) bispecific protein targeting IL-6 and VEGF. We are developing KSI-101 for patients with MESI. MESI is a heterogenous group of diseases that clinically present with macular edema and visual impairment which are caused by a common pathophysiology–inflammation and blood retinal barrier disruption. The clinical presentation of retinal fluid and visual impairment is a mainstay in these patients, irrespective of the location of the inflammation inside of the eye (anterior, intermediate, posterior or all intraocular compartments) or the specific etiology (defined autoimmune associated, idiopathic, post-procedural, or inflammatory choroidal neovascularization).
+
+Currently there are no available intravitreal biologic therapies addressing the spectrum of MESI diseases. We believe that MESI represents a new market segment separate from the established anti-VEGF market.
+
+Our completed dose-finding Phase 1b study APEX evaluated KSI-101 in two cohorts, Cohort 1 in patients with DME and Cohort 2 in patients with MESI. APEX demonstrated that KSI-101 provides meaningful visual and anatomical gains in both DME and MESI and that KSI-101 is well tolerated. Meaningful treatment responses were seen in the MESI population, irrespective of the location of inflammation and specific MESI etiology, opening up the potential for KSI-101 to become a unifying treatment for this patient population.
+
+Based on APEX, the top two dose levels tested were selected to advance into the Phase 3 program. The PEAK and PINNACLE Phase 3 studies are actively enrolling MESI subjects at the 5 mg and 10 mg dose levels versus sham.
+
+About PEAK and PINNACLE
+
+The PEAK and PINNACLE studies are superiority studies evaluating two dose levels of KSI-101 (5 mg and 10 mg) compared to sham treatment in patients with MESI. PEAK and PINNACLE are identical in study design with key differences in patient population. PEAK includes patients with more severe disease (moderate to severe macular edema and vision impairment) and PINNACLE includes patients with milder disease (mild macular edema and any vision impairment), as well as patients with moderate to severe macular edema with good vision. Together, PEAK and PINNACLE are designed to enroll complementary patient populations and to cover a wide spectrum of MESI patients.
+
+Patients randomized to the KSI-101 treatment arms will receive fixed monthly dosing for 6 doses (from Day 1 to Week 20), with subsequent individualized dosing (up to monthly dosing) for 6 additional visits (Week 24 to Week 44). Patients in the sham arm will receive monthly sham dosing for 6 doses followed by sham PRN. The primary and key secondary endpoints will be evaluated at Week 24. PEAK and PINNACLE are now actively enrolling patients. Topline data readouts for PEAK and PINNACLE are expected in 4Q 2026 and 2Q 2027, respectively.
+
+Pipeline Programs
+
+Our pipeline programs, dual cytokine-targeting bispecific antibody programs KSI-102 (anti-TNFa/IL-6) and KSI-103 (anti-IL-1/IL-6) continue to progress through pre-IND activities, targeting diseases of ocular inflammation and following on our development activities with KSI-101 for the treatment of macular edema secondary to inflammation.
+
+We are advancing our platform technology to embed small molecules and other active pharmaceutical ingredients (“API”) into our proprietary biopolymer backbone to enable high drug-antibody-ratio (“DAR”) medicines. The diverse APIs are designed to be released over time to achieve targeted, multi-specific and tailored modulation of biological pathways. The unique combination of high DAR and tailored therapeutic benefit offers potential for broad application to multifactorial systemic and ocular diseases and builds directly from our Antibody Biopolymer Conjugate technology and its 15 years of design, development and manufacturing experience. We call this platform extension our Antibody Biopolymer Conjugate Drug, or ABCD Platform, because we are extending our platform capabilities to include the conjugation of small molecule drugs whereas historically we primarily conjugated biologics such as antibodies.
+
+One program is for the treatment of glaucoma, embedding in the biopolymer backbone (i) an NLRP3 small molecule inhibitor, and (ii) a second small molecule that lowers intraocular pressure (“IOP”). The NLRP3 inflammasome is an intracellular complex that drives inflammation and cell death and is known to play a key role in glaucoma progression. The goal of this duet program is to create an intravitreally injected therapy that delivers two mechanisms of action (“MOA”) in a sustained release fashion, to fulfill the unmet needs in the glaucoma field for a long-durability therapy that delivers MOAs beyond IOP lowering and has the potential for quarterly dosing.
+
+The second program is for the treatment of geographic atrophy (“GA”). There are two approved therapies, both complement inhibitors, and they require monthly or every other month intravitreal injections and neither sufficiently halts disease progression. This program at Kodiak explores the potential to embed in the biopolymer backbone (i) a macrocyclic peptide inhibitor of the complement pathway, and (ii) an NLRP3 small molecule inhibitor. The NLRP3 inflammasome is known to play a key role in AMD disease biology. The objective of this duet program is to create an intravitreally injected ABCD platform-enabled therapy with a dual mechanism of action to achieve better efficacy and extended durability, for quarterly dosing, as compared to currently approved therapies for GA, which are based on a single mechanism of action and are dosed monthly or every other month.
+
+Our retina duet programs in glaucoma and GA built with our ABC platform continue to progress towards IND.
+
+Digital Health Platform Development
+
+We have made tremendous progress with our digital health and artificial intelligence capabilities through the VETi (Visual Engagement Technology and Imager) platform. Progress across hardware, software and machine learning is enabling the development of an AI-powered wearable headset with applications in retina care, alongside broader opportunities in identity security and cognitive science. This progress is reflective of Kodiak’s long term planning and execution towards an enhanced identity as a vision sciences company, integrating proprietary therapeutics and next-generation vision technologies.
+
+Financial Operations Overview
+
+Since inception in June 2009, we have devoted substantially all of our resources to discovering and developing product candidates and manufacturing processes, building our ABC Platform and assembling our core capabilities in drug development for a broad spectrum of retinal diseases. We do not have any products approved for sale and have not generated any product revenue since inception. We have funded our operations primarily through the issuance of common stock and the sale of future royalties.
+
+Components of Operating Results
+
+Research and Development Expenses
+
+Substantially all of our research and development expenses consist of expenses incurred in connection with the development of our product candidates and ABC Platform. These expenses include certain payroll and personnel expenses, including stock-based compensation, for our research and product development employees; laboratory supplies and facility costs; consulting costs; fees paid to third-party vendors to conduct certain research and development activities on our behalf; and allocated overhead, including rent, depreciation and utilities. We expense both internal and external research and development expenses as they are incurred. Costs of certain activities, such as manufacturing and preclinical and clinical studies, are generally recognized based on an evaluation of the progress to completion of specific tasks. Payments made prior to the receipt of goods or services that will be used or rendered for future research and development activities are deferred and capitalized. The capitalized amounts are recognized as expense as the goods are delivered or the related services are performed.
+
+We are focusing substantially all of our resources and development efforts on the development of our product candidates. Predicting the timing or the final cost to complete our clinical program or validation of our commercial manufacturing and supply processes is difficult and delays may occur because of many factors, including factors outside of our control. For example, if the FDA or other regulatory authorities were to require us to conduct clinical trials beyond those that we currently anticipate, or if we experience significant delays in enrollment in any of our clinical trials, we could be required to expend significant additional financial resources and time on the completion of clinical development. Furthermore, we are unable to predict when or if our drug candidates will receive regulatory approval with any certainty.
+
+General and Administrative Expenses
+
+General and administrative expenses consist principally of payroll and personnel expenses, including stock-based compensation; professional fees for legal, consulting, accounting and tax services; compliance costs associated with being a public company; allocated overhead, including rent, depreciation and utilities; and other general operating expenses not otherwise classified as research and development expenses.
+
+Interest Income
+
+Interest income consists primarily of interest income earned on our cash and cash equivalents.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of tax expense and, in prior year periods, the change in fair value and settlement of derivative contracts.
+
+Results of Operations
+
+The following table summarizes the results of our operations for the periods indicated (in thousands, except percentages):
+
+Year Ended December 31,
+
+Change
+
+2025
+
+2024
+
+Dollar
+
+Percent
+
+Operating expenses
+
+Research and development
+
+$
+
+182,373
+
+$
+
+126,095
+
+$
+
+56,278
+
+%
+
+General and administrative
+
+52,015
+
+60,754
+
+(8,739
+
+)
+
+(14
+
+%)
+
+Loss from operations
+
+(234,388
+
+)
+
+(186,849
+
+)
+
+(47,539
+
+)
+
+%
+
+Interest income
+
+4,517
+
+11,148
+
+(6,631
+
+)
+
+(59
+
+%)
+
+Other income (expense), net
+
+(96
+
+)
+
+(506
+
+)
+
+(81
+
+%)
+
+Net loss
+
+$
+
+(229,967
+
+)
+
+$
+
+(176,207
+
+)
+
+$
+
+(53,760
+
+)
+
+%
+
+Research and Development Expenses
+
+Research and development expenses increased $56.3 million, or 45%, during the year ended December 31, 2025 as compared to 2024. The following table summarizes our research and development expenses for each year (in thousands):
+
+Year Ended December 31,
+
+2025
+
+2024
+
+Change
+
+Tarcocimab program expenses
+
+$
+
+54,049
+
+$
+
+39,496
+
+$
+
+14,553
+
+KSI-501 and KSI-101 program expenses
+
+28,980
+
+8,495
+
+20,485
+
+ABC Platform and other program expenses
+
+23,776
+
+12,915
+
+10,861
+
+Payroll and personnel expenses
+
+56,082
+
+45,522
+
+10,560
+
+Facilities and other research and development expenses
+
+19,486
+
+19,667
+
+(181
+
+)
+
+Total research and development expenses
+
+$
+
+182,373
+
+$
+
+126,095
+
+$
+
+56,278
+
+Tarcocimab program expenses increased $14.6 million during the year ended December 31, 2025 as compared to 2024, primarily driven by increased costs related to the ongoing DAYBREAK pivotal phase 3 clinical trial, which was activated in mid-2024.
+
+KSI-501 and KSI-101 program expenses increased $20.5 million during the year ended December 31, 2025 as compared to 2024, due to increased costs related to DAYBREAK (a study for both tarcocimab and KSI-501) and the PEAK/PINNACLE and APEX clinical trials (studies for KSI-101), partially offset by reduced manufacturing expenses due to timing of production runs.
+
+ABC Platform and other program expenses increased $10.9 million during the year ended December 31, 2025 as compared to 2024, primarily due to increased biopolymer manufacturing activities in 2025.
+
+Payroll and personnel expenses increased $10.6 million during the year ended December 31, 2025 as compared to 2024, due to $5.4 million higher stock-based compensation reflecting forfeitures of equity awards in 2024 and $5.2 million higher payroll-related expenses from increased headcount in 2025.
+
+Facilities and other research and development expenses, which consists primarily of rent-related costs and depreciation of facilities and lab equipment, remained relatively flat.
+
+General and Administrative Expenses
+
+General and administrative expenses decreased $8.7 million, or 14%, during the year ended December 31, 2025 compared to 2024 due to $6.8 million lower stock compensation expense as we are no longer recognizing expense associated with older, higher-value stock awards that fully vested, and a $2 million reduction in facilities costs driven by lower net rent expense after subleasing one of our Palo Alto buildings (partially offset by a non-cash $1.9 million lease impairment expense recorded in the first quarter of 2025 also related to the sublease).
+
+Interest Income
+
+Interest income decreased $6.6 million during the year ended December 31, 2025 as compared to 2024, which was attributable to the overall decrease in cash available to earn interest during 2025 combined with lower rates of return.
+
+Other Income (Expense), Net
+
+Other income (expense), net increased $0.4 million during the year ended December 31, 2025 as compared to 2024, which was mainly attributable to the settlement of foreign currency forward contracts in 2024 with no such activity in 2025.
+
+Comparison of the Fiscal Years Ended December 31, 2024 and 2023
+
+For a comparison of our results of operations for the fiscal years ended December 31, 2024 and 2023, refer to “Part II, Item 7 — Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, filed with the SEC on March 27, 2025.
+
+Liquidity and Capital Resources; Plan of Operations
+
+Sources of Liquidity
+
+We have funded our operations primarily through the issuance of common stock and the sale of future royalties. As of December 31, 2025, we had cash and cash equivalents of $209.9 million. We believe that our current cash and cash equivalents will be sufficient to support our current and planned operations into 2027.
+
+Public Offering
+
+In December 2025, we completed an equity offering in which we issued and sold 8 million shares of common stock at a public offering price of $23.00 per share. Net proceeds were $173.0 million after the underwriting discount.
+
+Future Funding Requirements
+
+We have incurred net losses and negative cash flows from operations since inception. As of December 31, 2025, we had an accumulated deficit of $1,559 million. We expect to continue to incur operating losses and negative operating cash flows for the foreseeable future and, as a result, there is substantial doubt regarding our ability to continue as a going concern.
+
+We plan to raise additional capital to maintain current operations and to continue research and development activities. If we raise additional funds by issuing equity securities, our stockholders will experience dilution. Any future debt financing into which we enter may impose upon us covenants that restrict our operations, including limitations on our ability to incur liens or debt, pay dividends, repurchase our common stock, make certain investments and engage in certain merger, consolidation or asset sale transactions. Any debt financing or additional equity that we raise may contain terms that are not favorable to us or our stockholders. If we are unable to raise additional funds when needed, we may be required to pause, scale back or discontinue one or more of our development programs. We may also be required to sell or license rights to our product candidates or indications in certain territories to others that we would prefer to develop and commercialize ourselves. Adequate additional funding may not be available to us on acceptable terms or at all.
+
+Our failure to raise capital as and when needed could have a negative impact on our financial condition and our ability to pursue our business strategies. Refer to the section of this report titled “Part I, Item 1A — Risk Factors” for additional risks associated with our substantial capital requirements.
+
+To date, we have not generated any product revenue. We do not expect to generate any product revenue unless and until we obtain regulatory approval of and commercialize any of our product candidates or enter into collaborative agreements with third parties, and we do not know when, or if, either will occur. We expect to continue to incur significant losses for the foreseeable future, and we expect our losses to increase as we continue the development of, and seek regulatory approvals for, our product candidates, and begin to commercialize any approved products. We are subject to all of the risks typically related to the development of new product candidates, and we may encounter unforeseen expenses, difficulties, complications, delays and other unknown factors that may adversely affect our business.
+
+The timing and amount of our operating expenditures and capital requirements will depend on many factors, including:
+
+•
+the scope, timing, rate of progress and costs of our drug discovery, preclinical development activities, laboratory testing and clinical trials for our product candidates;
+
+•
+the number and scope of clinical programs we decide to pursue;
+
+•
+the scope and costs of manufacturing development and commercial manufacturing activities;
+
+•
+the cost, timing and outcome of regulatory review of our product candidates;
+
+•
+the cost and timing associated with commercializing our product candidates, if they receive marketing approval;
+
+•
+the costs of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property rights and defending intellectual property-related claims;
+
+•
+the extent to which we acquire or in-license other product candidates and technologies;
+
+•
+our ability to establish and maintain collaborations on favorable terms, if at all;
+
+•
+our efforts to enhance operational systems and our ability to attract, hire and retain qualified personnel, including personnel to support the development of our product candidates; and
+
+•
+the costs associated with being a public company.
+
+A change in the outcome of any of these or other variables with respect to the development of any of our product candidates could significantly change the costs and timing associated with the development of that product candidate. Furthermore, our operating plans may change in the future, and we will continue to require additional capital to meet operational needs and capital requirements associated with such operating plans.
+
+Also, the significant uncertainties caused by any public health crises, on-going geopolitical conflicts, inflation, tariffs, rising interest rates, bank failures, on-going supply chain disruptions and volatile equity capital markets may also negatively impact our operations and capital resources. While we and our key clinical and manufacturing partners have been able to continue to advance our operations, we continue to monitor the impact of the aforementioned events on our ability to continue the development of, and seek regulatory approvals for, our product candidates and begin to commercialize any approved products. One or more of these events may ultimately have a material adverse effect on our liquidity and operating plans.
+
+We have based our estimates on assumptions that may prove to be wrong, and we could deplete our available capital resources sooner than we expect. Because of the risks and uncertainties associated with research, development and commercialization of product candidates, we are unable to estimate the exact amount of our working capital requirements. Our future funding requirements will depend on and could increase significantly as a result of many factors.
+
+Summary Statement of Cash Flows
+
+The following table sets forth the primary sources and uses of cash for each of the periods presented below (in thousands):
+
+Year Ended December 31,
+
+2025
+
+2024
+
+Net cash used in operating activities
+
+$
+
+(136,008
+
+)
+
+$
+
+(117,319
+
+)
+
+Net cash used in investing activities
+
+(506
+
+)
+
+(755
+
+)
+
+Net cash provided by financing activities
+
+178,302
+
+Net increase (decrease) in cash and cash equivalents
+
+$
+
+41,788
+
+$
+
+(117,573
+
+)
+
+Cash Flows from Operating Activities
+
+Net cash used in operating activities increased to $136.0 million for the year ended December 31, 2025, based on operational spend of $142.8 million and changes in operating assets and liabilities of $6.8 million.
+
+Cash Flows from Financing Activities
+
+During the year ended December 31, 2025, we completed an equity offering in which we issued and sold 8 million shares of common stock at a public offering price of $23.00 per share. Net proceeds were $173.0 million after the underwriting discount. We also received $5.3 million in proceeds from the issuance of common stock under our equity incentive plans.
+
+Material Cash Requirements and Material Known Contractual Obligations and Commitments
+
+Operating Leases
+
+Operating lease payments represent our commitment for future minimum rent made under non-cancelable leases for our corporate offices in Palo Alto, California, office and laboratory space in Visp, Switzerland, and related to our Ursus Facility. Total future undiscounted payments for our operating lease obligations as of December 31, 2025 were $73.3 million, of which $15.6 million is due in the next 12 months.
+
+Manufacturing Agreements
+
+The Company has entered into service and equipment purchase agreements in the normal course of business with various providers of manufacturing services, which can contain minimum commitments or other noncancelable obligations.
+
+As of December 31, 2025, future contractual obligations related to these manufacturing agreements that may be subject to cancellation fees were $23.9 million, of which $19.2 million is expected to be due in the next 12 months.
+
+In addition, future manufacturing contractual obligations totaling approximately 86.5 million Swiss Francs may be incurred for the potential clinical and commercial supply of tarcocimab and other antibody biopolymer conjugates medicines based on the agreements with Lonza for production at the Ursus Facility.
+
+For further information on our leases and manufacturing agreements, refer to Note 8 to our consolidated financial statements included in “Part II, Item 8 — Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.
+
+Clinical Agreements
+
+The Company may incur potential contingent payments upon our achievement of clinical, regulatory and commercial milestones, as applicable. Due to the uncertainty of the achievement and timing of the events requiring payment under these agreements, the amounts to be paid by us are not fixed or determinable at this time.
+
+Critical Accounting Policies, Significant Judgments and Use of Estimates
+
+Our consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles, or GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the consolidated financial statements, as well as the reported expenses incurred during the reporting periods. Our estimates are based on our historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates.
+
+Accrued Research and Development
+
+Our accrued research and development costs are estimated based on the level of services performed, including the phase or completion of events, and contracted costs. Accrued clinical trial and related costs are estimated using data such as patient enrollment, clinical site activations or information provided by outside service providers regarding their actual costs incurred. Management determined accrual estimates through reports from and discussions with clinical personnel and outside service providers as to the progress of trials, or the services completed. The estimated costs of research and development provided, but not yet invoiced, are included in accrued liabilities and other current liabilities on the consolidated balance sheet. If the actual timing of the performance of services or the level of effort varies from the original estimates, we will adjust the accrual accordingly. Payments made to third parties under these arrangements in advance of the performance of the related services are recorded as prepaid expenses and other assets until the services are rendered.
+
+Stock-Based Compensation
+
+We measure and recognize compensation expense for all stock‑based awards made to employees, directors and non‑employees, based on estimated fair values of the awards on the grant date and recognized using the straight‑line method over the requisite service period.
+
+The fair value of options is estimated on the grant date using the Black‑Scholes option valuation model. The calculation of stock‑based compensation expense requires that we make certain assumptions and judgments about a number of complex and subjective variables used in the valuation model, including the expected term, expected volatility of the underlying common stock and risk‑free interest rate. Our stock-based awards are subject to either service, performance-based or market-based vesting conditions. We evaluate whether achievement of the performance conditions is probable and record expense over the appropriate service period based on this assessment.
+
+Changes in these assumptions can materially affect the fair value and ultimately how much stock-based compensation expense is recognized. These inputs are subjective and generally require significant analysis and judgment to develop.
+
+Recent Accounting Pronouncements
+
+A description of recently issued accounting pronouncements that may impact our financial position and results of operations is discussed under Note 2 to our consolidated financial statements included in “Part II, Item 8 — Financial Statements and Supplementary Data” of this Annual Report on Form 10-K.

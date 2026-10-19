@@ -6,8 +6,8 @@
   "full_text_words": 57457,
   "sections": {
     "item1": {
-      "words": 0,
-      "source": "10-K",
+      "words": 4776,
+      "source": "10-K (referenced section)",
       "candidates": {
         "starts": 0,
         "ends": 0
@@ -29,11 +29,10 @@
     }
   },
   "notes": [
-    "item1: 10-K section is missing with 0 cross-reference phrase(s); could not locate the referenced content",
-    "item7: 10-K section is missing with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (11,476 words)",
-    "Human Capital subsection not found in Item 1"
+    "item1: 10-K section is missing with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (annual-report layout) (4,767 words)",
+    "item7: 10-K section is missing with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (11,476 words)"
   ],
-  "human_capital_words": 0,
-  "human_capital_found": false,
-  "people_paragraph_words": 0
+  "human_capital_words": 655,
+  "human_capital_found": true,
+  "people_paragraph_words": 613
 }

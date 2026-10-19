@@ -1,0 +1,102 @@
+{
+  "ticker": "ILMN",
+  "company_name": "Illumina, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001110803-26-000024",
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:43:15",
+  "prompt_chars": 62130,
+  "filing_chars": 42132,
+  "filing_words_sent": 6029,
+  "approx_prompt_tokens": 15532,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Non-cash charitable donation to the company's foundation during 2025",
+        "quote": "These decreases were partially offset by a $19 million non-cash donation to the Illumina Foundation.",
+        "source_doc": "10-K",
+        "section": "Item 7 > Results of Operations > Core Illumina SG&A expense",
+        "status": "current",
+        "indicators": "$19 million",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment with a dollar figure, but the filing does not say what the foundation funds or how many people it reaches"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "In-house research and development spending on the company's own products",
+        "quote": "Research and development expense in 2025, 2024, and 2023 was $967 million, $1,169 million, and $1,354 million, respectively.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Research and Development",
+        "status": "current",
+        "indicators": "$967 million",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: the company's own innovation, not enabling outside founders or small businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers sequencing and array tools, consumables and genomics services, with no creative, artistic or storytelling activity; 'create their own custom arrays' and the copyright mentions are not creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: a specific current $19 million donation to the Illumina Foundation is disclosed, but with no description of programs, participants or reach, so it is limited and the lower level is chosen; the human capital text is general language only."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1 on general language only ('making Illumina a place where everyone can belong'); coverage is insufficient under condition 3 because the human capital section points to the Corporate Responsibility Report for further information and gives no specific inclusion or access activities itself."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: only the company's own innovation and R&D are described; customers are research, clinical and biopharma institutions, and there is no enabling program for founders or small businesses."
+      }
+    },
+    "notes": "Cross-cultural coverage is insufficient (condition 3), so the company qualifies for the automated second look using the Corporate Responsibility Report at www.illumina.com/csr, which is on the company's main domain. The filing says the 2025 workforce details will be published there in April 2026. Excluded as traps or non-qualifying: 'Illumina user community' and 'bioinformatics community' (scientific community); regional employee headcounts (geographic distribution, not an inclusion activity); 48% of revenue from shipments outside the U.S. (international sales); and the environmental and 'committed to' statements. The Item 7 text is excerpts only, and the foundation's activities are not described in the filing.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ILMN\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Non-cash charitable donation to the company's foundation during 2025\",\"quote\":\"These decreases were partially offset by a $19 million non-cash donation to the Illumina Foundation.\",\"source_doc\":\"10-K\",\"section\":\"Item 7 > Results of Operations > Core Illumina SG&A expense\",\"status\":\"current\",\"indicators\":\"$19 million\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment with a dollar figure, but the filing does not say what the foundation funds or how many people it reaches\"}}},{\"id\":\"E2\",\"activity\":\"In-house research and development spending on the company's own products\",\"quote\":\"Research and development expense in 2025, 2024, and 2023 was $967 million, $1,169 million, and $1,354 million, respectively.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Research and Development\",\"status\":\"current\",\"indicators\":\"$967 million\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: the company's own innovation, not enabling outside founders or small businesses\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers sequencing and array tools, consumables and genomics services, with no creative, artistic or storytelling activity; 'create their own custom arrays' and the copyright mentions are not creative work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: a specific current $19 million donation to the Illumina Foundation is disclosed, but with no description of programs, participants or reach, so it is limited and the lower level is chosen; the human capital text is general language only.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1 on general language only ('making Illumina a place where everyone can belong'); coverage is insufficient under condition 3 because the human capital section points to the Corporate Responsibility Report for further information and gives no specific inclusion or access activities itself.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: only the company's own innovation and R&D are described; customers are research, clinical and biopharma institutions, and there is no enabling program for founders or small businesses.\"}},\"notes\":\"Cross-cultural coverage is insufficient (condition 3), so the company qualifies for the automated second look using the Corporate Responsibility Report at www.illumina.com/csr, which is on the company's main domain. The filing says the 2025 workforce details will be published there in April 2026. Excluded as traps or non-qualifying: 'Illumina user community' and 'bioinformatics community' (scientific community); regional employee headcounts (geographic distribution, not an inclusion activity); 48% of revenue from shipments outside the U.S. (international sales); and the environmental and 'committed to' statements. The Item 7 text is excerpts only, and the foundation's activities are not described in the filing.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20901,
+      "output_tokens": 3133,
+      "duration_ms": 32287
+    }
+  ]
+}

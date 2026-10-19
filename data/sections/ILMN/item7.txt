@@ -1,3 +1,435 @@
 Item 7
 
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+[Referenced section, from elsewhere in the 10-K]
+
+MANAGEMENT’S DISCUSSION & ANALYSIS
+
+Our Management’s Discussion and Analysis (MD&A) will help readers understand our results of operations, financial condition, and cash flow. It is provided in addition to the accompanying consolidated financial statements and notes. This MD&A is organized as follows:
+
+•Management’s Overview and Outlook. High level discussion of our operating results and significant known trends that affect our business.
+
+•Results of Operations. Discussion of our revenues and expenses.
+
+•Liquidity and Capital Resources. Discussion of key aspects of our consolidated statements of cash flows, changes in our financial position, and our financial commitments.
+
+•Critical Accounting Policies and Estimates. Discussion of critical accounting policies and the significant assumptions, estimates, and judgments we make in applying such policies.
+
+•Quantitative and Qualitative Disclosure about Market Risk. Discussion of our financial instruments’ exposure to market risk.
+
+•Recent Accounting Pronouncements. Summary of recent accounting pronouncements applicable to our consolidated financial statements.
+
+This MD&A generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and 2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 that are not included in this Form 10-K can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the fiscal year ended 2024.
+
+This MD&A discussion contains forward-looking statements that involve risks and uncertainties. See Consideration Regarding Forward-Looking Statements preceding the Business & Market Overview section of this report for additional factors relating to such statements. See Risk Factors within the Business & Market Information section of this report for a discussion of certain risk factors applicable to our business, financial condition, and results of operations. Operating results are not necessarily indicative of results that may occur in future periods.
+
+MANAGEMENT’S OVERVIEW AND OUTLOOK
+
+This overview and outlook provide a high-level discussion of our operating results and significant known trends that affect our business. We believe an understanding of these trends is important to understanding our financial results for the periods being reported herein as well as our future financial performance. This summary is not intended to be exhaustive, nor is it intended to be a substitute for the detailed discussion and analysis provided elsewhere.
+
+About Illumina
+
+Our focus on innovation has established us as a global leader in DNA sequencing and array-based technologies, serving customers in the research, clinical and applied markets. Our products are used for applications in the life sciences, oncology, reproductive health, agriculture and other emerging segments. Our customers include leading genomic research centers, academic institutions, government laboratories, and hospitals, as well as pharmaceutical, biotechnology, commercial molecular diagnostic laboratories, and consumer genomics companies. Our comprehensive line of products addresses the scale of experimentation and breadth of functional analysis to advance disease research, drug development, and the development of molecular tests. This portfolio of leading-edge sequencing and array-based solutions addresses a range of genomic complexity and throughput, enabling researchers and clinical practitioners to select the best solution for their scientific challenge.
+
+On June 24, 2024, we completed the Spin-Off of GRAIL into a new public company through the distribution of approximately 85.5% of the outstanding shares of common stock of GRAIL to Illumina stockholders on a pro rata basis. We retained approximately 14.5% of the shares of GRAIL common stock immediately following the Spin-Off. The disposition of GRAIL did not meet the criteria to be reported as a discontinued operation and accordingly, GRAIL’s assets, liabilities, results of operations and cash flows have not been reclassified. In connection with the Spin-Off, Illumina’s stockholders received one share of GRAIL common stock for every six shares of Illumina common stock held on the Record Date. Refer to note 8. GRAIL Spin-Off for further details.
+
+We have one reportable segment, Core Illumina, as of December 28, 2025. Prior to the Spin-Off of GRAIL on June 24, 2024, our reportable segments included both Core Illumina and GRAIL. See note 12. Segment and Geographic Information within the Consolidated Financial Statements section of this report for details on our reportable segments.
+
+On June 22, 2025, we entered into a Stock Purchase Agreement (the Purchase Agreement) with Standard BioTools to acquire SomaLogic and other specified assets for $350 million in cash, subject to customary adjustments. The Purchase Agreement further provides for, in connection with the revenues generated from certain products and services, (i) royalty streams and (ii) up to $75 million in potential milestone payments to Standard BioTools. We believe the acquisition will enhance our presence in the expanding proteomics market and advance our multiomics strategy. The transaction was completed on January 30, 2026. See note 13. Subsequent Events for further details.
+
+Our financial results have been, and will continue to be, impacted by several significant trends, which are described below. While these trends are important to understanding and evaluating our financial results, this discussion should be read in conjunction with our consolidated financial statements and the notes thereto within the Consolidated Financial Statements section of this report, and the other transactions, events, and trends discussed in Risk Factors within the Business & Market Information section of this report.
+
+Financial Overview
+
+In 2024, we outlined key strategic goals focused on a return to revenue growth and improved margin performance by the end of 2027. Throughout 2025, we experienced several headwinds including macroeconomic factors such as tariffs, inflation, exchange rate fluctuations and concerns about an economic downturn, competitive challenges in our China region, the sanctions imposed on Russia as a result of the armed conflict between Russia and Ukraine, and reductions in the U.S. government’s funding of the NIH, all of which have impacted both Illumina directly and our customers’ behavior. For example, some customers, specifically research customers, continue to manage inventory and capital more conservatively and some labs are delaying projects due to funding concerns. Additionally, in early 2025, we were added to the unreliable entities list by regulatory authorities in China. See the risk factor “Regulatory authorities in China have added Illumina to the List of Unreliable Entities” in Risk Factors within the Business & Market Information section of this report for additional information. We expect these factors to continue to impact our sales and results of operations in 2026 and beyond, the size and duration of which is significantly uncertain.
+
+Beginning in April 2025, the U.S. government and several other countries enacted tariffs. Under the current tariff environment, the largest cost impact to us relates to importation from our manufacturing facility in Singapore. The remainder is a mix of importation of parts and sub-assemblies to our manufacturing operations in the United States and importation into China. We have and will continue to take several actions to fully mitigate the impact of these tariffs, and we partially mitigated the impact in 2025, through supply chain optimization, cost measures, and pricing actions. Based on the current tariff environment, our aim is to more fully mitigate the impact in 2026.
+
+Despite these challenges, we made significant progress towards our strategic goals in achieving revenue growth and improving operating margins in 2025. During 2025, we focused on our operational excellence initiatives to improve productivity and achieve cost savings and on our capital allocation strategy, including significant share repurchases. In early 2025, we also implemented an incremental $100 million cost reduction program for 2025, including optimizing stock-based compensation and non-labor spending and accelerating certain productivity measures, as well as workforce reductions, to help mitigate the expected impact of a reduction in revenue and related operating income from our Greater China business, as a result of being added to the List of Unreliable Entities, and the uncertainty in the U.S. government’s funding of the NIH. We expect to make further progress towards our strategic goals in 2026.
+
+Financial highlights for 2025 included the following:
+
+•Core Illumina revenue was $4.34 billion in 2025 and relatively flat compared to revenue of $4.33 billion in 2024. Consumables revenue increased primarily due to demand for high-throughput consumables, partially offset by decreased service and other revenue, primarily due to decreased revenue from our strategic partnerships, and a decrease in instruments revenue, primarily due to fewer shipments of our high- and mid-throughput sequencing instruments. Total revenue in 2025 was impacted, across all products and services, by a decrease in revenue in our Greater China region of $65 million, primarily due to our inclusion on the List of Unreliable Entities. Consolidated revenue decreased 1% in 2025 to $4.34 billion compared to $4.37 billion in 2024 primarily due to a decrease in service and other revenue, driven by a decrease in GRAIL service and other revenue of $55 million as a result of the Spin-Off in 2024.
+
+•Core Illumina gross margin was 66.1% in 2025 compared to 67.1% in 2024. Gross margin decreased primarily due to higher costs related to tariffs and a $23 million intangible asset impairment, partially offset by lower strategic partnership revenue, that is lower margin, and a more favorable product mix towards consumables. Consolidated gross margin was 66.1% in 2025 compared to 65.4% in 2024, and the increase was driven by the Spin-Off of GRAIL in 2024. Our gross margin depends on many factors, including: market conditions that may impact our pricing; sales mix changes among consumables, instruments, services, and development and licensing revenue; product mix changes between established products and new products; excess and obsolete inventories; royalties; our cost structure for manufacturing operations relative to volume; freight costs; tariffs; and product support obligations.
+
+•Core Illumina income from operations was $807 million in 2025 compared to $1,473 million in 2024. Total operating expense increased $628 million and gross profit decreased $39 million. The increase in Core Illumina operating expense was primarily due to a gain of $456 million recognized in 2024 for legal contingency and settlement, primarily related to the withdrawn European Commission fine, and a gain recognized on our contingent consideration liabilities, primarily related to the GRAIL CVRs, of $315 million, partially offset by a decrease in acquisition-related costs, which included $53 million in 2024 directly related to the GRAIL Spin-Off. Excluding these impacts, Core Illumina operating expense decreased in 2025, primarily due to our continued focus on our operational excellence and cost reduction initiatives to accelerate growth and expand operating margins. Consolidated income from operations was $807 million in 2025 compared to a loss of $833 million in 2024. Total operating expense decreased $1,631 million and gross profit increased $9 million. The decrease in operating expense was primarily driven by a decrease in GRAIL operating expense of $2,267 million due to the Spin-Off in 2024, primarily related to the $1,886 million goodwill and intangible asset impairments recognized in 2024.
+
+•Our effective tax rate was 21.7% and (3.8)% in 2025 and 2024, respectively. The variance from the U.S. federal statutory tax rate of 21% was primarily due to the net change to valuation allowances against certain deferred tax assets in the U.S. and Singapore. The income tax rate in 2025 was favorably impacted by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as Singapore.
+
+•We ended 2025 with cash, cash equivalents, and short-term investments totaling $1,633 million, of which approximately $444 million was held by our foreign subsidiaries.
+
+RESULTS OF OPERATIONS
+
+To enhance comparability, the following table sets forth audited consolidated statement of operations data for 2025, 2024, and 2023, stated as a percentage of total revenue. (1)
+
+2025 | 2024 | 2023
+
+Revenue:
+
+Product revenue | 85.4 | % | 83.6 | % | 84.1 | %
+
+Service and other revenue | 14.6 | 16.4 | 15.9
+
+Total revenue | 100.0 | 100.0 | 100.0
+
+Cost of revenue:
+
+Cost of product revenue | 25.5 | 23.3 | 26.1
+
+Cost of service and other revenue | 6.9 | 8.4 | 8.7
+
+Amortization of acquired intangible assets | 1.5 | 2.9 | 4.3
+
+Total cost of revenue | 33.9 | 34.6 | 39.1
+
+Gross profit | 66.1 | 65.4 | 60.9
+
+Operating expense:
+
+Research and development | 22.3 | 26.7 | 30.1
+
+Selling, general and administrative | 25.0 | 25.0 | 35.8
+
+Goodwill and intangible impairment | — | 43.2 | 18.3
+
+Legal contingency and settlement | 0.2 | (10.4) | 0.4
+
+Total operating expense | 47.5 | 84.5 | 84.6
+
+Income (loss) from operations | 18.6 | (19.1) | (23.7)
+
+Other income (expense):
+
+Interest income | 0.9 | 1.1 | 1.3
+
+Interest expense | (2.3) | (2.3) | (1.7)
+
+Other income (expense), net
+7.8 | (6.7) | (0.7)
+
+Total other income (expense), net
+6.4 | (7.9) | (1.1)
+
+Income (loss) before income taxes | 25.0 | (27.0) | (24.8)
+
+Provision for income taxes | 5.4 | 1.0 | 1.0
+
+Net income (loss) | 19.6 | % | (28.0) | % | (25.8) | %
+
+_____________
+
+(1)Percentages may not recalculate due to rounding.
+
+Revenue
+
+2025-2024
+
+Dollars in millions | 2025 | 2024 | Change | % Change
+
+Core Illumina:
+
+Consumables | $ | 3,227 | $ | 3,169 | $ | 58 | 2 | %
+
+Instruments | 482 | 501 | (19) | (4)
+
+Total product revenue | 3,709 | 3,670 | 39 | 1
+
+Service and other revenue | 634 | 662 | (28) | (4)
+
+Total Core Illumina revenue | 4,343 | 4,332 | 11 | —
+
+GRAIL:
+
+Service and other revenue | — | 55 | (55) | (100)
+
+Eliminations | — | (15) | 15 | (100)
+
+Total consolidated revenue | $ | 4,343 | $ | 4,372 | $ | (29) | (1) | %
+
+Core Illumina consumables revenue increased in 2025 primarily due to demand for high-throughput consumables as customers continue to transition to NovaSeq X. Core Illumina instruments revenue decreased in 2025 primarily due to fewer shipments of our high- and mid-throughput instruments, as capital and cash flow constraints continue to impact our customer’s purchasing behavior, partially offset by an increase in MiSeq i100 Series shipments. Core Illumina service and other revenue decreased in 2025 primarily due to decreased revenue from our strategic partnerships. Total revenue in 2025 was impacted, across all products and services, by a decrease in revenue in our Greater China region of $65 million, primarily due to our inclusion on the List of Unreliable Entities in the beginning of the year.
+
+The decrease in GRAIL revenue in 2025 was due to the Spin-Off in Q2 2024.
+
+Gross Margin
+
+2025-2024
+
+Dollars in millions | 2025 | 2024 | Change | % Change
+
+Gross profit (loss):
+
+Core Illumina | $ | 2,870 | $ | 2,909 | $ | (39) | (1) | %
+
+GRAIL | — | (38) | 38 | (100)
+
+Eliminations | — | (10) | 10 | (100)
+
+Consolidated gross profit | $ | 2,870 | $ | 2,861 | $ | 9 | — | %
+
+Gross margin:
+
+Core Illumina | 66.1 | % | 67.1 | %
+
+GRAIL | * | *
+
+Consolidated gross margin | 66.1 | % | 65.4 | %
+
+_____________
+
+*Not meaningful.
+
+The decrease in Core Illumina gross margin in 2025 was primarily due to higher costs related to tariffs and a $23 million intangible asset impairment, partially offset by lower strategic partnership revenue, that is lower margin, and a more favorable product mix towards consumables.
+
+The decrease in GRAIL gross loss in 2025 was due to the Spin-Off in Q2 2024.
+
+Operating Expense
+
+2025-2024
+
+Dollars in millions | 2025 | 2024 | Change | % Change
+
+Research and development:
+
+Core Illumina | $ | 967 | $ | 988 | $ | (21) | (2) | %
+
+GRAIL | — | 189 | (189) | (100)
+
+Eliminations | — | (8) | 8 | (100)
+
+Consolidated research and development | 967 | 1,169 | (202) | (17)
+
+Selling, general and administrative:
+
+Core Illumina | 1,086 | 900 | 186 | 21
+
+GRAIL | — | 192 | (192) | (100)
+
+Consolidated selling, general and administrative | 1,086 | 1,092 | (6) | (1)
+
+Goodwill and intangible impairment:
+
+Core Illumina | — | 3 | (3) | (100)
+
+GRAIL | — | 1,886 | (1,886) | (100)
+
+Consolidated goodwill and intangible impairment | — | 1,889 | (1,889) | (100)
+
+Legal contingency and settlement:
+
+Core Illumina | 10 | (456) | 466 | (102)
+
+Total consolidated operating expense | $ | 2,063 | $ | 3,694 | $ | (1,631) | (44) | %
+
+Core Illumina R&D expense decreased by $21 million, or 2%, in 2025 primarily due to decreases in employee-related compensation costs, including share-based compensation expense related to our optimization efforts, and a decrease in outside professional services, partially offset by an increase in restructuring charges of $14 million.
+
+Core Illumina SG&A expense increased by $186 million, or 21%, in 2025. In 2024, we recognized a net gain on our contingent consideration liabilities, primarily related to the GRAIL CVRs, of $315 million. Excluding this impact, SG&A expense decreased in 2025 primarily due to a decrease in acquisition-related costs, which included $53 million of expenses incurred related to the Spin-Off of GRAIL, a decrease in restructuring charges of $32 million, primarily due to lease and other asset impairments recognized in 2024, decreases in employee-related compensation costs, including share-based compensation expense related to optimization efforts, and a decrease in outside professional services. These decreases were partially offset by a $19 million non-cash donation to the Illumina Foundation.
+
+The decrease in GRAIL R&D and SG&A expense in 2025 was due to the Spin-Off in Q2 2024.
+
+GRAIL goodwill and intangible impairment in 2024 consisted of goodwill impairment of $1,466 million and an IPR&D intangible asset impairment of $420 million. Core Illumina goodwill and intangible impairment in 2024 consisted of an IPR&D intangible asset impairment. See note 4. Intangible Assets, Goodwill and Acquisitions for additional details.
+
+Core Illumina legal contingency and settlement in 2024 primarily consisted of a gain of $489 million resulting from the reversal of the EC fine accrual, and related accrued interest, following the European Commission’s decision to withdraw its previously imposed fine. See note 8. GRAIL Spin-Off for additional details.
+
+Other Income (Expense)
+
+2025-2024
+
+Dollars in millions | 2025 | 2024 | Change | % Change
+
+Interest income | $ | 40 | $ | 46 | $ | (6) | (13) | %
+
+Interest expense | (101) | (100) | (1) | 1
+
+Other income (expense), net
+340 | (292) | 632 | (216)
+
+Total other income (expense), net (1)
+$ | 279 | $ | (346) | $ | 625 | (181) | %
+
+_____________
+
+(1)Total other income (expense), net in 2024 primarily relates to Core Illumina segment.
+
+Interest income consisted primarily of interest earned on our money market funds. Interest expense consisted primarily of interest on our outstanding term debt. The increase in other income (expense), net in 2025 was primarily due to net gains (realized and unrealized) recognized on our strategic investments of $328 million in 2025 compared to net losses of $312 million recognized in 2024, which primarily related to our retained investment in GRAIL for both periods. This increase was partially offset by a $15 million gain on our Helix contingent value right in 2024.
+
+Provision for Income Taxes
+
+2025-2024
+
+Dollars in millions | 2025 | 2024 | Change | % Change
+
+Income (loss) before income taxes | $ | 1,086 | $ | (1,179) | $ | 2,265 | (192) | %
+
+Provision for income taxes | 236 | 44 | 192 | 436
+
+Net income (loss) | $ | 850 | $ | (1,223) | $ | 2,073 | (170) | %
+
+Effective tax rate | 21.7% | (3.8)%
+
+In 2025, the variance from the U.S. federal statutory tax rate of 21% was primarily due to the release of a valuation allowance of $74 million against certain deferred tax assets in Singapore. This was partially offset by the implications of the U.S. tax legislation that was signed on July 4, 2025, which included changes to no longer require capitalization of U.S. based research and development expenses. While the changes from the recent U.S. tax legislation were favorable, based on available evidence, the increased U.S. tax deductions resulted in a determination that it is more likely than not the future realization of deferred tax assets associated with certain U.S. foreign tax credits may not be achieved. Therefore, a valuation allowance of $62 million was recorded against the deferred tax assets associated with certain U.S. foreign tax credits. The income tax rate in 2025 was favorably impacted by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as Singapore.
+
+In 2024, the variance from the U.S. federal statutory tax rate of 21% was primarily due to the $308 million income tax expense impact from the impairment of goodwill, which is nondeductible for tax purposes, $90 million income tax expense impact of GRAIL pre-acquisition net operating losses on GILTI, the utilization of U.S. foreign tax credits, and the Pillar Two global minimum top-up tax, and the $52 million income tax expense impact of capitalizing research and development expenses for tax purposes. The income tax rate in 2024 was favorably impacted by the $99 million income tax expense impact of the reversal of the European Commission fine related to the GRAIL acquisition, which is excluded from taxable income, and by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore.
+
+Our future effective tax rate may vary from the U.S. federal statutory tax rate due to the mix of earnings in tax jurisdictions with different statutory tax rates and the other factors discussed in the risk factor “We are subject to risks related to taxation in multiple jurisdictions” in Risk Factors within the Business & Market Information section of this report, including future tax legislation that changes existing tax policies, laws, regulations, or rates.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+As of December 28, 2025, we had $1,418 million in cash and cash equivalents, of which $444 million was held by foreign subsidiaries. Cash and cash equivalents increased by $291 million from the prior year due to factors described in the “Cash Flow Summary” below. Our primary source of liquidity, other than holdings of cash, cash equivalents, and investments, has been cash flows from operations and, from time to time, issuances of debt. In 2025, we received net proceeds from the issuance of our 2030 Term Notes of $495 million, and repaid $500 million for our 2025 Term Notes. Our ability to generate cash from operations, supplemented with the issuance of debt and/or liquidation of our short-term investments, provides us with the financial flexibility we need to meet operating, investing, and financing needs. In 2025, we received proceeds from net sales of our strategic investments of $103 million. As of December 28, 2025, we had $215 million remaining in short-term investments, comprised of marketable equity securities. Subsequent to December 28, 2025 and through February 11, 2026, we received additional proceeds of approximately $104 million from subsequent sales of our short-term strategic investments.
+
+In November 2025, we issued $500 million aggregate principal amount of 2030 Term Notes. We received net proceeds of $495 million. The 2030 Term Notes, which mature on December 12, 2030, accrue interest at a rate of 4.750% per annum, payable semi-annually on June 12 and December 12 of each year, beginning on June 12, 2026. We may redeem for cash all or any portion of the 2030 Term Notes, at our option, at any time prior to maturity.
+
+In September 2024, we issued $500 million aggregate principal amount of 2026 Term Notes, which mature on September 9, 2026 and accrue interest at a rate of 4.650% per annum, payable semi-annually in March and September of each year. In December 2022, we issued $500 million aggregate principal amount of 2025 Term Notes and $500 million aggregate principal amount of 2027 Term Notes. The 2025 Term Notes matured and were repaid in cash on December 12, 2025. The 2027 Term Notes mature on December 13, 2027 and accrue interest at a rate of 5.750% per annum, payable semi-annually in June and December of each year. In March 2021, we issued $500 million aggregate principal amount of 2031 Term Notes, which mature on March 23, 2031, and accrue interest at a rate of 2.550% per annum, payable semi-annually in March and September of each year. We may redeem for cash all or any portion of the 2026, 2027, or 2031 Term Notes, at our option, at any time prior to maturity.
+
+In January 2023, we entered into the Revolving Credit Agreement, which provides us with a $750 million senior unsecured five-year revolving credit facility, including a $40 million sublimit for swingline borrowings and a $50 million sublimit for letters of credit. The credit facility matures, and all amounts outstanding become due and payable in full, on January 4, 2028, subject to two one-year extensions at our option, the consent of the extending lenders, and certain other conditions. As of December 28, 2025, there were no outstanding borrowings.
+
+On June 22, 2025, we entered into a Stock Purchase Agreement (the Purchase Agreement) with Standard BioTools to acquire SomaLogic and other specified assets for $350 million in cash, subject to customary adjustments. The Purchase Agreement further provides for, in connection with the revenues generated from certain products and services, (i) royalty streams and (ii) up to $75 million in potential milestone payments to Standard BioTools. The transaction was completed on January 30, 2026. See note 13. Subsequent Events for further details.
+
+As of December 28, 2025, the fair value of our contingent consideration liability related to GRAIL was $54 million, of which $52 million was included in other long-term liabilities. The contingent value rights entitle the holders to receive future cash payments on a quarterly basis (Covered Revenue Payments) representing a pro rata portion of certain GRAIL-related revenues (Covered Revenues) each year through August 2033. This reflects a 2.5% payment right to the first $1 billion of revenue each year for 12 years. Revenue above $1 billion each year is subject to a 9% contingent payment right during this same period. In 2025, we paid $1.3 million in aggregate Covered Revenue Payments related to aggregate Covered Revenues for the period Q4 2024 through Q3 2025 of $142 million.
+
+In August 2024, our Board of Directors authorized a share repurchase program, which canceled and superseded all prior and available repurchase authorizations, to repurchase up to $1.5 billion of our outstanding common stock. The repurchases may be completed through open market purchases, pursuant to Rule 10b5-1 or Rule 10b-18, or through an accelerated share repurchase program. Authorizations to repurchase up to $643 million of our outstanding common stock remained available as of December 28, 2025. Subsequent to December 28, 2025 and through February 11, 2026, we repurchased an additional approximate 264,000 shares of our common stock for approximately $32 million. We intend to continue to repurchase incremental shares over the course of 2026.
+
+We had $3 million, $33 million, and $25 million, respectively, remaining in capital commitments to three investment funds as of December 28, 2025 that are callable through April 2026, July 2029, and December 2034, respectively.
+
+Our other short-term and long-term material cash requirements, from known contractual obligations as of December 28, 2025, include operating lease liabilities, uncertain tax positions, and amounts due under our executive deferred compensation plan, as discussed in the Consolidated Financial Statements section of this report.
+
+We anticipate our current cash, cash equivalents, and short-term investments, together with cash provided by operations and available borrowing capacity under the Revolving Credit Facility, are sufficient to fund our near-term capital and operating needs for at least the next 12 months, including the SomaLogic acquisition that was completed on January 30, 2026 and funded from cash on hand. See note 13. Subsequent Events for further details. Operating needs include the planned costs to operate our business, including amounts required to fund working capital and capital expenditures. Our primary short-term needs for capital, which are subject to change, may include:
+
+•support of commercialization efforts related to our current and future products;
+
+•acquisitions of equipment and other fixed assets for use in our current and future manufacturing and research and development facilities;
+
+•the continued advancement of research and development efforts;
+
+•potential strategic acquisitions and investments;
+
+•repayment of debt obligations;
+
+•repurchases of our outstanding common stock; and
+
+•the evolving needs of our facilities, including costs of leasing and building out facilities.
+
+We expect that our revenue and results of operations, as well as the status of each of our new product development programs, will significantly impact our cash management decisions. Our future capital requirements and the adequacy of our available funds will depend on many factors, including:
+
+•our ability to successfully commercialize and further develop our technologies and create innovative products in our markets;
+
+•scientific progress in our research and development programs and the magnitude of those programs;
+
+•competing technological and market developments; and
+
+•the need to enter into collaborations with other companies or acquire other companies or technologies to enhance or complement our product and service offerings.
+
+Cash Flow Summary
+
+In millions | 2025 | 2024 | 2023
+
+Net cash provided by operating activities | $ | 1,079 | $ | 837 | $ | 478
+
+Net cash used in investing activities | (55) | (178) | (231)
+
+Net cash used in financing activities | (744) | (570) | (1,210)
+
+Effect of exchange rate changes on cash and cash equivalents | 11 | (10) | —
+
+Net increase (decrease) in cash and cash equivalents | $ | 291 | $ | 79 | $ | (963)
+
+Operating Activities
+
+Net cash provided by operating activities in 2025 consisted of net income of $850 million, plus net adjustments of $382 million, less net changes in operating assets and liabilities of $153 million. The primary adjustments to net income included share-based compensation of $275 million, depreciation and amortization of $270 million, deferred income taxes of $119 million, intangible impairment of $23 million, and non-cash charitable contribution of $19 million, offset by net gains on investments of $328 million and change in fair value of contingent consideration of $18 million. Cash flow impact from changes in operating assets and liabilities were primarily driven by increases in accounts receivable, operating lease assets and liabilities, net, other long-term liabilities, other assets, and inventory.
+
+Net cash provided by operating activities in 2024 consisted of a net loss of $1,223 million, plus net adjustments of $2,543 million, less net changes in operating assets and liabilities of $483 million. The primary adjustments to net loss included goodwill and intangible impairment of $1,889 million, share-based compensation expense of $370 million, depreciation and amortization expense of $354 million, net loss on strategic investments of $312 million, and property and equipment and right-of-use asset impairment of $46 million, offset by change in fair value of contingent consideration liabilities of $315 million and deferred income taxes of $112 million. Cash flow impact from changes in net operating assets and liabilities were primarily driven by decreases in accrued liabilities and inventory, offset by increases in accounts receivable, operating lease right-of-use assets and liabilities, net, and other long-term liabilities.
+
+Investing Activities
+
+Net cash used in investing activities totaled $55 million in 2025. We primarily invested $148 million in capital expenditures, primarily for investments in facilities, offset by net sales of strategic investments of $103 million.
+
+Net cash used in investing activities totaled $178 million in 2024. We invested $128 million in capital expenditures, net of proceeds received from sales, primarily associated with investments in facilities, paid $81 million for an acquisition, net of cash acquired, and other intangible assets, and purchased strategic investments, net of distributions, of $52 million. This was offset by the receipt of $83 million related to the settlement of our Helix contingent value right.
+
+Financing Activities
+
+Net cash used in financing activities totaled $744 million in 2025. We used $742 million to repurchase our common stock, $500 million to repay our 2025 Term Notes that matured, and $40 million to pay taxes related to net share settlement of equity awards. This was offset by net proceeds received from the issuance of our 2030 Term Notes of $495 million and proceeds from the sale of shares under our employee stock purchase plan of $44 million.
+
+Net cash used in financing activities totaled $570 million in 2024. We deconsolidated cash of $968 million for the GRAIL Spin-Off, repaid our delayed draw term loan of $750 million, used $116 million to repurchase our common stock, and used $32 million to pay taxes related to net share settlement of equity awards, offset by net borrowings on the Delayed Draw Credit Facility of $744 million, net proceeds received from issuance of our 2026 Term Notes of $497 million, and proceeds received from the sale of shares under our employee stock purchase plan of $56 million.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The preparation of financial statements in accordance with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported in our consolidated financial statements and accompanying notes. Management bases its estimates on historical experience, market and other conditions, and various other assumptions it believes to be reasonable. Although these estimates are based on management’s best knowledge of current events and actions that may impact us in the future, the estimation process is, by its nature, uncertain given that estimates depend on events over which we may not have control.
+
+Although imposed tariffs, reductions in the U.S. government’s funding of the National Institutes of Health, our inclusion on the unreliable entities list by regulatory authorities in China, as well as macroeconomic factors such as inflation, exchange rate fluctuations, and concerns about an economic downturn present additional uncertainty, we continue to use the best information available to inform our critical accounting estimates. If market and other conditions change from those that we anticipate, our financial statements may be materially affected. In addition, if our assumptions change, we may need to revise our estimates, or take other corrective actions, either of which may also have a material effect on our consolidated financial statements.
+
+We believe the following critical accounting policies and estimates have a higher degree of inherent uncertainty and require our most significant judgments. In addition, had we used estimates different from any of these, our consolidated financial statements could have been materially different from those presented. Members of our senior management have discussed the development and selection of our critical accounting policies and estimates, and our disclosure regarding them, with the audit committee of our board of directors. Our accounting policies are more fully described in note 1. Organization and Significant Accounting Policies in the Consolidated Financial Statements.
+
+Revenue Recognition
+
+Our revenue is generated from the sale of products and services. Product revenue consists of sales of instruments and consumables used in genetic analysis. Service and other revenue consists of revenue generated from genotyping and sequencing services, instrument service contracts, development and licensing agreements, and, prior to the Spin-Off of GRAIL in 2024, cancer detection testing services related to the GRAIL business.
+
+We recognize revenue when control of our products and services is transferred to our customers in an amount that reflects the consideration we expect to receive from our customers in exchange for those products and services. This process involves identifying the contract with a customer, determining the performance obligations in the contract, determining the contract price, allocating the contract price to the distinct performance obligations in the contract, and recognizing revenue when the performance obligations have been satisfied. Revenue recognition for contracts with multiple deliverables is based on the separate satisfaction of each distinct performance obligation within the contract. A performance obligation is considered distinct from other obligations in a contract when it provides a benefit to the customer either on its own or together with other resources that are readily available to the customer and is separately identified in the contract. We consider a performance obligation satisfied once we have transferred control of a good or service to the customer, meaning the customer has the ability to use and obtain the benefit of the good or service. The contract price is allocated to each performance obligation in proportion to its standalone selling price. We determine our best estimate of standalone selling price using average selling prices over a rolling 12-month period coupled with an assessment of current market conditions. If the product or service has no history of sales or if the sales volume is not sufficient, we rely upon prices set by management, adjusted for applicable discounts.
+
+Revenue from product sales is recognized generally upon delivery to the end customer, which is when control of the product is deemed to be transferred. Invoicing typically occurs upon shipment and payment is typically due within 30 days from invoice. In instances where right of payment or transfer of title is contingent upon customer acceptance of the product, revenue is deferred until all acceptance criteria have been met. Revenue from genotyping and sequencing services, including cancer detection testing services related to the GRAIL business prior to the Spin-Off, is recognized when earned, which is generally at the time the genotyping or sequencing analysis data is made available to the customer. Revenue from instrument service contracts is recognized as the services are rendered, typically evenly over the contract term. Revenue from development and licensing agreements generally includes upfront and periodic licensing fees, contract research and development services, or payments for development and regulatory milestones. Revenue for these agreements is recognized when each distinct performance obligation is satisfied.
+
+Revenue is recorded net of discounts, distributor commissions, and sales taxes collected on behalf of governmental authorities. Employee sales commissions are recorded as selling, general and administrative expense when incurred as the amortization period for such costs, if capitalized, would have been one year or less.
+
+In certain markets, products and services are sold to customers through distributors. In most sales through distributors, the product is delivered directly to customers by us. The terms of sales transactions through distributors are generally consistent with the terms of direct sales to customers.
+
+Inventory Valuation
+
+Inventory is stated at the lower of cost or net realizable value. We regularly review inventory for excess and obsolete products and components, taking into account product life cycles, quality issues, historical experience, and usage forecasts. We record write-downs of inventory for potentially excess, obsolete, or impaired goods in order to state inventory at net realizable value. We make assumptions about future demand, market conditions, and the release of new products that may supersede old ones. However, if actual market conditions are less favorable than anticipated, additional inventory write-downs could be required.
+
+Contingencies
+
+We are involved in various lawsuits and claims arising in the ordinary course of business, including actions with respect to intellectual property, employment, and contractual matters. In connection with these matters, we assess, on a regular basis, the probability and range of possible loss based on the developments in these matters. A liability is recorded in the consolidated financial statements if it is believed to be probable that a loss has been incurred and the amount of the loss can be reasonably estimated. Because litigation is inherently unpredictable and unfavorable resolutions could occur, assessing contingencies is highly subjective and requires judgments about future events. We regularly review outstanding legal matters to determine the adequacy of the liabilities accrued and related disclosures in consideration of many factors, which include, but are not limited to, past history, scientific and other evidence, and the specifics and status of each matter. We may change our estimates if our assessment of the various factors changes and the amount of ultimate loss may differ from our estimates, resulting in a material effect on our business, financial condition, results of operations, and/or cash flows.
+
+Business Combinations
+
+Under the acquisition method of accounting, we allocate the fair value of the total consideration transferred to the tangible and identifiable intangible assets acquired and liabilities assumed based on their estimated fair values on the date of acquisition. The fair values assigned, defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between willing market participants, are based on estimates and assumptions determined by management. These valuations require us to make estimates and assumptions, especially with respect to intangible assets. We record the excess consideration over the aggregate fair value of tangible and intangible assets, net of liabilities assumed, as goodwill. Costs that we incur to complete the business combination, such as legal and other professional fees, are expensed as they are incurred.
+
+In connection with certain acquisitions, contingent consideration can be earned by the sellers upon completion of certain future performance milestones. In these cases, a liability is recorded on the acquisition date, as a component of accrued liabilities and/or other long-term liabilities, for an estimate of the acquisition-date fair value of the contingent consideration. We generally use a Monte Carlo simulation or an income approach to estimate the fair value of contingent consideration. Estimates and assumptions used in a Monte Carlo simulation include forecasted revenues, a revenue risk premium, a revenue volatility estimate, an operational leverage ratio and a counterparty credit spread. An income approach utilizes inputs such as anticipated future cash flows, risk-free adjusted discount rates, and nonperformance risk, as well as management judgment regarding the probability of achieving certain future milestones. Future changes in our estimates could result in expenses or gains. Changes in the fair value of contingent consideration subsequent to the acquisition date are recognized in selling, general and administrative expense.
+
+We typically use a discounted cash flow method to value acquired intangible assets. This method requires management judgment to forecast future operating results and establish residual growth rates and discount factors. The estimates we use to value and amortize intangible assets are consistent with the plans and estimates that we use to manage our business and are based on available historical information and industry estimates and averages. If the subsequent actual results and updated projections of the underlying business activity change compared with the assumptions and projections used to develop these values, we could experience impairment charges. In addition, we have estimated the economic lives of the acquired assets, which are used to calculate depreciation and amortization expense. If our estimates of the economic lives change, depreciation or amortization expense could be accelerated or extended. We capitalize in-process research and development (IPR&D) with an indefinite life until completion or abandonment of the associated research and development efforts. Upon reaching the end of the research and development project (i.e., upon commercialization), the IPR&D asset is amortized over its estimated useful life. If the research and development project is abandoned, the IPR&D asset is expensed in the period of abandonment.
+
+If the initial accounting for a business combination is incomplete by the end of a reporting period that falls within the measurement period (not to exceed one year from the date of acquisition), we report provisional amounts in our consolidated financial statements. During the measurement period, we adjust the provisional amounts recognized at the acquisition date to reflect new information obtained about facts and circumstances that existed as of the acquisition date that, if known, would have affected the measurement of the amounts recognized as of that date. We record these adjustments to the provisional amounts with a corresponding offset to goodwill. Any adjustments identified after the measurement period are recorded in the consolidated statements of operations.
+
+Goodwill and Intangible Assets with Indefinite Lives — Impairment Assessment
+
+Goodwill and other intangible assets with indefinite useful lives (i.e., IPR&D) are not amortized, however they are tested annually for impairment, in the second quarter of our fiscal year, and whenever events or changes in circumstances indicate that it is more likely than not that the fair value is less than the carrying value. Events that would indicate impairment and trigger an interim impairment test include, but are not limited to, current economic and market conditions, including a decline in market capitalization, a significant adverse change in legal factors, business climate or operational performance of the business, and an adverse action or assessment by a regulator.
+
+We perform our goodwill impairment analysis at the reporting unit level, which aligns with our reporting structure and availability of discrete financial information. During the goodwill impairment review, we assess qualitative factors to determine whether it is more likely than not that the fair values of our reporting units are less than the carrying amounts, including goodwill. The qualitative factors include, but are not limited to, macroeconomic conditions, industry and market considerations, and our overall financial performance. If, after assessing the totality of these qualitative factors, we determine that it is not more likely than not that the fair values of our reporting units are less than the carrying amounts, then no additional assessment is deemed necessary. Otherwise, we proceed to compare the estimated fair values of the reporting units with the carrying values, including goodwill. If the carrying amounts of the reporting units exceed the fair values, we record an impairment loss based on the difference. If a quantitative assessment is performed, the evaluation includes management estimates of cash flow projections based on internal future projections and/or use of a market approach by looking at market values of comparable companies. Key assumptions include, but are not limited to, future revenue growth, operating margins, capital expenditures, terminal growth rates and discount rates. We also consider our market capitalization as a part of our analysis. We may elect to bypass the qualitative assessment in a period and proceed to perform the quantitative goodwill impairment test.
+
+The IPR&D impairment test is performed by comparing the fair value of the asset to its carrying amount. When testing indefinite-lived intangibles for impairment, we may assess qualitative factors to determine whether it is more likely than not that the asset is impaired. Alternatively, we may bypass this qualitative assessment and perform a quantitative impairment test. We estimate the fair value of IPR&D using a discounted cash flow model, which requires the use of significant estimates and assumptions, including, but not limited to, estimating the timing of future cash flows, growth rates, and discount rates. If the IPR&D is impaired, the carrying value of the IPR&D is written down to the revised fair value with the related impairment charge recognized in the period in which the impairment occurs.
+
+Intangible Assets and Other Long-Lived Assets — Impairment Assessment
+
+We perform regular reviews to determine if an event has occurred that may indicate the carrying values of our intangible assets with finite lives and other long-lived assets are impaired. If indicators of impairment exist, we assess the recoverability of the asset or asset group by determining whether the carrying amount exceeds the undiscounted expected future cash flows. If the asset or asset group is not recoverable, we estimate the fair value of the assets and record an impairment loss if the carrying value exceeds the fair value. Factors that may indicate potential impairment include a significant decline in our stock price and market capitalization compared to net book value, significant changes in the ability of an asset to generate positive cash flows and the pattern of utilization of a particular asset.
+
+In order to estimate the fair values of identifiable intangible assets with finite lives and other long-lived assets, we estimate the present value of future cash flows from those assets. The key assumptions that we use in our cash flow model are the amount and timing of estimated future cash flows to be generated by the asset over an extended period of time and a rate of return that considers the relative risk of achieving the cash flows, the time value of money, and other factors that a willing market participant would consider. Management judgment is required to estimate the amount and timing of future cash flows and the relative risk of achieving those cash flows.
+
+We review our operating lease right-of-use (ROU) assets for impairment whenever events or changes in circumstances indicate the carrying value of the ROU asset may not be recoverable. The evaluation is performed at the lowest level for which identifiable cash flows are largely independent of the cash flows of other groups of assets and liabilities. We consider a triggering event to reassess an ROU asset’s asset group to have occurred if we exit a portion of or the full facility or enter into a sublease. Factors that may indicate potential impairment include a significant decrease in the market price of an underlying leased asset group. If we conclude the carrying value of the assets or asset group will not be recovered, we estimate the fair value of the asset or asset group and record an impairment in an amount equal to the excess of the carrying value over fair value. We estimate the present value of future cash flows from the asset or asset group in order to determine fair value. There is uncertainty in the projected future cash flows used in our impairment review analysis, which requires the use of estimates and assumptions.
+
+Assumptions and estimates about future values and remaining useful lives are complex and often subjective. They can be affected by a variety of factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy and our internal forecasts. For example, if our future operating results do not meet current forecasts or if we experience a sustained decline in our market capitalization that is determined to be indicative of a reduction in fair value of our reporting units, we may be required to record future impairment charges for purchased intangible assets with finite lives. Impairment charges could materially decrease our future results of operations and result in lower asset values on our balance sheet.
+
+Income Taxes
+
+Our provision for income taxes, deferred tax assets and liabilities, and reserves for unrecognized tax benefits reflect our best assessment of estimated future taxes to be paid. Judgments and estimates based on interpretations of existing tax laws or regulations in the United States and the numerous foreign jurisdictions where we are subject to income tax are required in determining our provision for income taxes. Changes in tax laws, regulations, or statutory tax rates (including the implementation of global minimum tax rates in certain jurisdictions), and estimates of our future taxable income could impact the deferred tax assets and liabilities provided for in the consolidated financial statements and would require an adjustment to the provision for income taxes.
+
+Deferred tax assets are regularly assessed to determine the likelihood they will be recovered from future taxable income. A valuation allowance is established when we believe it is more likely than not the future realization of all or some of a deferred tax asset will not be achieved. In evaluating our ability to recover deferred tax assets within the jurisdiction which they arise, we consider all available positive and negative evidence. Factors reviewed include the cumulative pre-tax book income for the past three years, scheduled reversals of deferred tax liabilities, our history of earnings and reliability of our forecasts, projections of pre-tax book income over the foreseeable future, and the impact of any feasible and prudent tax planning strategies.
+
+We recognize the impact of a tax position in our consolidated financial statements only if that position is more likely than not of being sustained upon examination by taxing authorities, based on the technical merits of the position. Tax authorities regularly examine our returns in the jurisdictions in which we do business and we regularly assess the tax risk of our return filing positions. Due to the complexity of some of the uncertainties, the ultimate resolution may result in payments that are materially different from our current estimate of the tax liability. These differences, as well as any interest and penalties, will be reflected in the provision for income taxes in the period in which they are determined.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+Interest Rate Risk
+
+Our current investment policy with respect to our cash, cash equivalents and short-term investments focuses on maintaining acceptable levels of interest rate risk and liquidity. To achieve these objectives, our policy allows us to maintain a portfolio of cash equivalents and short-term investments in a variety of securities, including money market funds, U.S. Treasury debt and corporate debt securities. Our policy also limits the amount of credit exposure to any one issuer and type of instrument. Under our current policies, we do not use interest rate derivative instruments to manage exposure to interest rate changes. As of December 28, 2025, our cash equivalents consisted primarily of U.S. government money market funds that invest in very liquid investments, namely, cash, government securities and purchase agreements that are collateralized fully with government securities. U.S. government money market funds provide same day liquidity and have a net asset value of $1.00. We have historically maintained a relatively short average maturity for our investment portfolio, and we believe a hypothetical 100 basis point adverse move in interest rates along the entire interest rate yield curve would not materially affect the fair value of our interest-sensitive financial instruments. Other than convertible notes and SAFEs, we held no debt securities as of December 28, 2025.
+
+In November 2025, we issued $500 million of 4.750% notes due 2030. In September 2024, we issued $500 million of 4.650% notes due 2026. In December 2022, we issued $500 million of 5.800% notes due 2025, which matured and were repaid in December 2025, and $500 million of 5.750% notes due 2027. In March 2021, we issued $500 million of 2.550% notes due 2031. We carry the notes at the principal amount, less unamortized discount and debt issuance costs, on our consolidated balance sheets. As the notes have fixed annual interest rates, we do not have economic interest rate exposure or financial statement risk associated with changes in interest rates. The fair value of the notes, however, may fluctuate when interest rates change. See note 5. Debt and Other Commitments for more information.
+
+Foreign Currency Exchange Risk
+
+We conduct a portion of our business in currencies other than our U.S. dollar functional currency. These transactions give rise to cash flows and monetary assets and liabilities that are denominated in currencies other than the U.S. dollar; the value of these amounts are exposed to changes in currency exchange rates from the time the transactions are forecasted or originated until the time the cash settlement is converted into U.S. dollars. Our foreign currency exposures are primarily concentrated in the euro, Japanese yen, Australian dollar, Canadian dollar, Singapore dollar, Chinese Yuan Renminbi, and British pound. We use forward exchange contracts to manage these foreign currency risks and to hedge portions of our foreign currency exposure associated with forecasted revenue transactions. We only use derivative financial instruments to reduce foreign currency exchange rate risks; we do not hold any derivative financial instruments for trading or speculative purposes. The counterparties to these forward exchange contracts expose us to credit-related risks in the event of their non-performance. We mitigate this risk by actively monitoring credit ratings and only selecting major financial institutions as counterparties. Additionally, our risk of credit-related loss is limited to the fair value of these financial contracts, which were not material to our financial position.
+
+Our forward exchange contracts used to manage foreign currency risks related to monetary assets and liabilities have terms of one month or less. Realized and unrealized gains or losses on the fair value of these financial contracts are included in the determination of net income (loss), as they have not been designated for hedge accounting. These contracts, which settle monthly, effectively fix the exchange rate at which these specific monetary assets and liabilities will be settled, so that gains or losses on the forward contracts offset the gains or losses from changes in the value of the underlying monetary assets and liabilities. As of December 28, 2025, the total notional amounts of outstanding forward contracts in place for these foreign currency purchases was $510 million. Our forward exchange contracts used to hedge portions of our foreign currency exposure associated with forecasted revenue transactions have terms of up to 24 months. These derivative financial instruments are designated as cash flow hedges. Gains and losses on these financial contracts, which settle monthly, are generally recorded to revenue in the same period the underlying hedged transactions are recorded. As of December 28, 2025, the total notional amounts of outstanding forward contracts in place for these foreign currency purchases was $707 million.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+For a summary of recent accounting pronouncements applicable to our consolidated financial statements refer to note 1. Organization and Significant Accounting Policies within the Consolidated Financial Statements section of this report, which is incorporated herein by reference.

@@ -1,0 +1,417 @@
+Item 1. Business
+
+Overview
+
+ServiceNow delivers solutions that help public and private organizations govern, secure and manage artificial intelligence and digitalize and streamline workflows to drive collaboration, productivity and better experiences across the enterprise. We offer an innovative suite of products, including AI-powered applications, and services designed to automate workflows, integrate systems and empower employees, regardless of existing systems, cloud environments or collaboration tools. At the core of these solutions is the ServiceNow AI Platform, a robust, cloud-based platform that facilitates comprehensive delivery of seamless workflows and drives digital transformation across all departments and personas within an organization.
+
+With the emergence of artificial intelligence, organizations are under pressure from their stakeholders to accelerate growth and achieve unprecedented productivity improvements. To meet these demands, they are prioritizing the digitalization and modernization of their workflows through AI-powered automation. At the same time, they are seeking secure and reliable tools to manage the heightened risks associated with AI innovation and ensure measurable returns on investment. ServiceNow addresses these evolving organizational needs by providing solutions that help organizations govern, secure, and manage artificial intelligence, while optimizing their workflows.
+
+We operate in a dynamic and rapidly evolving technology landscape characterized by the accelerating adoption of artificial intelligence and machine learning capabilities across enterprise software. While this period of technological transformation presents both opportunities and uncertainties reminiscent of prior inflection points—such as the shift from on-premises to cloud computing in the early 2010s and the advent of mobile computing before that—we believe our established market position, deep customer relationships, and platform capabilities position us favorably to capitalize on these emerging needs. We have invested in understanding evolving customer requirements through ongoing dialogue with our customer base, which spans diverse industries and use cases, and we have developed our platform to address the practical challenges enterprises encounter when
+
+2025 Annual Report
+
+Part I
+
+implementing AI-enabled automation within mission-critical business processes while maintaining security, governance and operational continuity.
+
+A critical insight emerging from this technological shift is that AI excels at analyzing data and generating information, but transforming that information into business outcomes requires infrastructure that can orchestrate action across systems, enforce governance policies, and manage complex workflows. AI models can identify patterns, make recommendations, and surface insights, but they cannot independently execute transactions, route approvals, update systems of record, or support compliance with business rules and regulatory requirements. Our platform addresses this fundamental gap by providing the underlying infrastructure that connects AI-generated insights to the operational systems and processes where work actually gets done. This capability—to direct, control, and manage what happens after information is generated—represents a substantial portion of the value enterprises seek when adopting AI technologies.
+
+Several factors contribute to our competitive positioning in this environment. Our two decades partnering with enterprise customers provide us with a deep understanding of how work actually flows across organizations—across departments, systems and organizational silos. We have developed expertise in the operational processes specific to different industries, functional areas and user roles, knowledge that cannot be readily replicated and that proves essential when designing solutions that must integrate with existing workflows rather than replace them. This institutional knowledge enables us to build cross-functional workflows that reflect the practical realities of how enterprises operate, rather than idealized process models. Building on this foundation, our platform’s architecture, developed over years of iteration with customer feedback, allows organizations to deploy AI-enhanced workflows without replacing their existing technology infrastructure or disrupting established processes. We bridge the gap between AI's analytical capabilities and the execution layer where business processes operate, providing the connective tissue that turns insights into outcomes. Equally important, our experience operating a software-as-a-service platform at scale gives us operational expertise in maintaining reliability, security, and performance standards that enterprise customers require, particularly as they entrust increasingly critical functions to AI-enabled systems.
+
+While competitors are actively developing AI capabilities and several entrants have emerged with point solutions focused on data analysis and information generation, we believe many face challenges in delivering the comprehensive integration, workflow orchestration, governance frameworks, and enterprise-grade reliability that our customers require to operationalize AI insights. The AI era has not eliminated—and has arguably intensified—the fundamental need for platforms that can unify disparate systems, maintain data integrity, ensure regulatory compliance, enforce business logic, and provide consistent execution across complex organizational processes.
+
+We recognize that technological transitions create both opportunity and risk. Competitive dynamics may shift as new approaches emerge and customer preferences evolve. However, we believe our established customer relationships, platform investments, and operational experience in workflow orchestration and systems integration provide meaningful advantages as enterprises navigate this transformation. Our strategy focuses on continuing to understand and meet customer needs as they adopt AI technologies, applying our ability to deliver integrated solutions that address the practical complexities of converting AI-generated insights into controlled, governed business outcomes.
+
+Part I
+
+Our Platform
+
+The ServiceNow AI Platform (our “Platform”) connects people, processes and data to break down silos and simplify complex business processes, increasing flexibility, scalability and extensibility. Our one platform architecture provides the foundation for organizations to seamlessly integrate AI, data, and workflows and create intelligent processes across their enterprise.
+
+AI. Our Platform’s integrated AI offering, Now Assist, empowers organizations to boost productivity by providing a range of AI tools. These tools operate autonomously with human oversight and adhere to predefined guardrails. Organizations can select the tools that best align with their unique AI transformation needs. To illustrate, organizations can choose to leverage ServiceNow’s language models or integrate third-party or proprietary models. Depending on the selected model, they can process different types of data, such as text, images, audio and video. They can also trust that the selected models are tested to confirm they will perform as intended on our Platform, as all integrated models are regularly evaluated on Platform-representative data. Additionally, organizations can choose to rapidly deploy thousands of out-of-the-box ServiceNow AI agents, integrate AI agents built into third-party applications, or create custom AI agents on our Platform using natural language. These options allow for flexible AI agent workflow orchestration in a wide range of use cases, making AI agents accessible to users with varying technical expertise. AI agents developed using our solutions follow a human-in-the-loop governance model. This allows developers to retain control of application changes while benefiting from AI assistance. We also offer governance tools designed to help manage these AI agents and other AI-powered products. Our AI governance tools include integrated monitoring and guardrails, as well as dataset creation management, benchmarking and performance analytics capabilities. They offer organizations greater visibility into their AI adoption, usage and performance. These tools provide organizations confidence that they are building, testing and deploying AI use cases and applications responsibly as they operationalize their AI strategy.
+
+Data. Our Platform’s single data fabric and integrated data layer, enabled by our Workflow Data Fabric and RaptorDB products, supports organizations’ operationalization of their AI strategy with speed, scale and security. Our data fabric’s architecture also provides our Platform flexibility to create intuitive, efficient and seamless workflows aligned with business needs. For example, our Platform’s data fabric can connect to external data sources in real-time without moving or copying data from its source and map those connections to its single data model, which creates a seamless user experience. AI-enabled tools for the data layer can also help deliver precise, context-aware insights by linking people, processes and systems. By connecting a wide variety of data and systems, our Platform enables a single process flow across people and functions. These capabilities allow the front, middle and back offices to coordinate and address end user requests quickly and effectively.
+
+Workflows. Through its orchestration capabilities, our Platform manages complex, cross-functional workflows end-to-end. For example, an organization’s entire employee onboarding workflow, which spans across both internal and external functions, can be managed by our Platform. AI agents can autonomously trigger information technology (“IT”) provisioning, payroll setup, compliance checks and facilities access – coordinating tasks, monitoring progress and resolving exceptions without human intervention, if desired. Because our AI agents can access required information and understand the context of requests in a single environment, employees can complete their onboarding without contacting multiple departments. Additionally, with our acquisition of Moveworks, Inc. we have strengthened our enterprise workflow automation on our Platform by integrating advanced enterprise search and front-end virtual agent technology. The advanced machine learning, conversational interface, natural language comprehension and broad integration capabilities of this technology help organizations and their employees handle service requests automatically, retrieve information quickly using AI, and complete tasks across diverse business applications, enhancing overall workflow experience.
+
+Together, these AI, data and workflow capabilities support our broad portfolio of products on our Platform.
+
+2025 Annual Report
+
+Part I
+
+Our Products
+
+Our products are grouped into four areas: Technology, Customer Relationship Management (“CRM”) and Industry, Core Business, and Creator and Other. We release two major Platform upgrades each year, adding new products and functionality that simplify work and enhance productivity.
+
+Technology
+
+Core Business
+
+Our Technology products help companies unite technology, risk management and security operations on a single platform to deliver modern and resilient digital services aligned to an organization’s priorities.
+
+Our Core Business products support processes across HR, legal, finance, supply chain and facilities, helping organizations improve productivity, increase employee satisfaction and fuel business growth.
+
+CRM and Industry
+
+Creator and Other
+
+Our CRM and Industry products help organizations integrate front-end customer service functions with operations, field service resources, sales processes and order management, and provide workflows tailored for specific industries.
+
+Our Creator and Other products help organizations rapidly develop and manage cross-enterprise workflows using AI-powered, low-code development tools, as well as manage data privacy and security.
+
+Part I
+
+Our Technology products help IT departments serve customers, manage IT infrastructure, identify and remediate security vulnerabilities and threats, increase visibility across IT resources and asset lifecycles, optimize IT costs and reduce time spent on administrative tasks. These products also drive enterprise-wide outcomes, as well as support our CRM and Industry and Core Business products. For example, a global energy company implemented a suite of our Technology products, including IT Operations Management (“ITOM”), IT Service Management (“ITSM”), and Risk Management (“RM”), along with Now Assist, to consolidate multiple employee portals into a single AI-powered portal serving over 50,000 employees in more than 10 languages. The solution saved the customer thousands of working hours, resulting in a substantial and immediate reduction in service desk requests.
+
+Asset Management
+
+Asset Management products include IT Asset Management and Enterprise Asset Management. IT Asset Management helps manage the lifecycle of software, hardware and cloud-based IT assets. It is commonly used for software audits, cloud financial operations and hardware inventory processes. Similarly, Enterprise Asset Management helps manage the lifecycle of physical business assets. It helps organizations manage asset planning, deployment, maintenance and retirement. Both products offer comprehensive analytics regarding the financial, contractual and inventory aspects of an organization’s assets.
+
+Now Assist and AI agents for Asset Management help summarize software compliance requirements and recommend actions to avoid potential costs based on software utilization information. For physical business assets, these tools can identify and locate items to fulfill requests, automate approval decisions where desired and execute asset transfers or orders.
+
+2025 Annual Report
+
+Part I
+
+IT Operations Management
+
+IT Operations Management, or ITOM, identifies, monitors and manages a customer’s physical and cloud-based IT infrastructure. It can simultaneously identify issues from a customer’s IT infrastructure (e.g., physical servers) and digital components (e.g., email), which helps organizations better manage potential disruptions to business services. ITOM also maintains a single record of all IT configurable items, providing organizations better control over on-premises or cloud-based infrastructures while orchestrating key processes and tasks.
+
+Now Assist and AI agents for ITOM simplify complex technical language into easy-to-understand descriptions and provide quick resolution recommendations to IT operations issues. When integrated with our other products such as IT Service Management, ITOM AI agents can help support an organization’s goals to achieve autonomous IT management to help reduce the risk of outages, improve productivity and enhance service reliability.
+
+IT Service Management
+
+IT Service Management, or ITSM, provides predictive intelligence, incident management and response, routine task and request automation, performance analytics and process optimization. ITSM’s real-time tracking and validation enable quick, controlled IT service deployment for change management, development and operations, which helps organizations manage their IT risk and regulatory requirements. ITSM also includes integrated knowledge management and collaboration tools to streamline issue resolution. By adopting ITSM, organizations can optimize their IT operations, reduce downtime, mitigate risks and drive down costs, with an aim to improve employee and customer experiences.
+
+Now Assist and AI agents for ITSM can help automate incident triage, generate summaries and provide intelligent resolution recommendations. These tools reduce routine work for IT staff, allowing them to focus on higher-value activities.
+
+Operational Technology Management
+
+Operational Technology (“OT”) Management products provide visibility and context into technology assets used for operational purposes and devices connected to those assets. They help organizations with OT vulnerability management, issue resolution and lifecycle management. For example, when an OT issue is identified, it provides operators with the business context to assess its criticality and then triggers incident management, so the appropriate team can resolve it at the right time.
+
+Now Assist for OT Management can summarize incident history to support faster resolution. After incident closure, these tools can also generate solution notes or knowledge-based articles to help reduce administrative work and capture resolution steps for future use.
+
+Risk Management
+
+Risk Management, or RM, products, formerly known as Integrated Risk Management, provide capabilities to manage enterprise-wide risks, including those related to compliance, operational resilience, cyber, technology, business continuity, corporate sustainability, privacy and reliance on third parties. RM products also include the AI Control Tower, a dashboard designed to offer organizations a comprehensive view of their AI governance status. This tool delivers insight into an organization’s compliance metrics, risk scores, and performance data, enabling effective monitoring and optimization of AI workflows. These solutions integrate risk management and compliance into daily operations, helping provide real-time visibility, quick issue resolution and resilient risk administration.
+
+Part I
+
+Now Assist and AI agents for RM can be configured by a customer to summarize issue and risk assessments, rationalize control objectives, identify control gaps and map regulations to an organization’s controls. These tools can also analyze historical data to identify similar issues, recommend actions and assign owners. They help improve an organization’s ability to respond and address potential threats before they escalate, making risk and compliance operations more efficient and effective.
+
+Security Operations
+
+Security Operations products help organizations address security incidents and vulnerabilities. By identifying and prioritizing threats based on their potential impact and integrating both internal and third-party security and vulnerability data, these products can provide an organization’s security function greater visibility and control of potential threats. These capabilities help simplify and automate threat and vulnerability management, making responses more efficient and helping organizations reduce risks.
+
+Now Assist and AI agents for Security Operations allows security analysts to use natural language to interact with AI agents. These tools provide context-aware insights and targeted recommendations to support security incident resolution, vulnerability assessments, and security operations metric analysis. They help improve productivity, accelerate issue resolution and offer security leaders enhanced visibility into their organization’s security posture and performance.
+
+Strategic Portfolio Management
+
+Strategic Portfolio Management (“SPM”) helps organizations plan, visualize and track value realization across their portfolio of projects, initiatives and digital assets. It helps organizations align their strategy with their investments and operations to drive desired outcomes.
+
+Now Assist and AI agents for SPM help replace cumbersome intake forms with a conversational interface that intelligently summarizes business demands, documents and feedback from stakeholders and turn them into actionable insights. These tools allow organizations to uncover and prioritize tasks that can accelerate strategy and realization of value on their investments.
+
+2025 Annual Report
+
+Part I
+
+Our CRM and Industry products go beyond traditional CRM by orchestrating end-to-end workflows across front, middle and back-office functions. These products help manage customer interactions from initial quote to deal closure, while also supporting order fulfillment, case management and resolution. Customer representatives and technicians can resolve issues efficiently, while sales teams can manage quoting and deal closure on the same platform. By removing barriers between teams and supporting end-to-end customer service workflows, ServiceNow’s CRM and Industry products help organizations improve customer retention, strengthen loyalty, shorten sales cycles and reduce service delivery costs. These products help organizations provide service through multiple customer channels, deliver proactive support and streamline sales and service processes. As an example, a major digital sports entertainment platform implemented Customer Service Management (“CSM”) with Now Assist to efficiently manage large volumes of customer requests and tailor experiences for customers by categorizing and routing requests based on customer-specific factors. Streamlining these processes reduced response and resolution times, saving their employees tens of thousands of hours annually.
+
+Customer Service Management
+
+Customer Service Management, or CSM, provides customer self-service support across channels, centralizes customer interactions, and directs requests to the appropriate customer representative, all within a unified workspace. It automates complex processes across functions to improve resolution times. CSM enhances customer experience with automated routing, tailored self-service options, and by equipping customer representatives relevant information to resolve issues effectively. It also helps identify and address bottlenecks that may delay service. These capabilities enable organizations to reduce resolution times, increase customer satisfaction and lower operating costs.
+
+Now Assist and AI agents for CSM provide additional efficiency by summarizing cases, chats and calls, suggesting resolution steps, drafting customer communications and generating case closure notes. These tools help shorten time to resolution, reduce case and call volumes and personalize service delivery.
+
+Part I
+
+Field Service Management
+
+Field Service Management (“FSM”) manages planning, scheduling and execution of field service work, allowing technicians to be dispatched through the same platform that manages customer cases. It provides automated workflows to help optimize resource allocation, increase technician productivity and improve first-time resolution rates. It also provides data-driven insights to help organizations monitor field operations, identify service bottlenecks and improve efficiency of field operations.
+
+Now Assist and AI agents for FSM supports intuitive mobile workflows, automated note generation, multilingual knowledge creation and intelligent task generation, extending FSM capabilities. These tools help field teams complete jobs more efficiently, document work more accurately and improve overall service delivery.
+
+Sales and Order Management
+
+Sales and Order Management ("SOM") products help organizations manage sales leads and opportunities, configure quotes for complex deals and automate order delivery and fulfillment on our single, unified platform. SOM products include a configure, price, quote solution that supports complex product offerings, enabling sales teams to estimate deal sizes and quickly generate quotes. Once deals close, SOM captures order details from multiple channels, manages fulfillment across systems and provides tools to help assess the risk of order delays and incomplete order fulfillment. Purchased products and services are visible on each customer's account record, allowing sales and service teams to coordinate customer support, identify additional sales opportunities and support customer retention.
+
+Now Assist and AI agents for SOM help automate lead qualification, provide guidance on complex quote configuration and support issue diagnosis and resolution. These tools streamline routine tasks, increase sales and order fulfillment productivity and reduce time required to complete sales processes.
+
+2025 Annual Report
+
+Part I
+
+Industry
+
+We provide solutions designed to address the requirements of specific industries, including financial services, healthcare and life sciences, manufacturing, public sector, retail, technology and telecommunications. These solutions can be enhanced by Now Assist and AI agents. We expect the number of industry-specific offerings to continue to expand to accommodate our customers’ needs.
+
+Financial Services
+
+Financial Services Operations helps banks and insurance institutions orchestrate work across departments, systems and third parties. These capabilities help reduce contact center volumes, accelerate employee productivity, support personalized service and manage regulatory compliance.
+
+Healthcare and Life Sciences
+
+Healthcare and Life Sciences Service Management enables pharmaceutical companies, healthcare providers, and health plan payers. These capabilities help streamline operations, reduce inefficiencies, manage costs and support patient care while maintaining regulatory compliance.
+
+Manufacturing
+
+Manufacturing Commercial Operations helps manufacturers automate sales, support and service processes, integrate order to cash and service operations. These capabilities improve issue resolution, claims processing and revenue generation workstreams.
+
+Public Sector
+
+Public Sector Digital Services provides government organizations with tools to deliver services at scale. These tools help organizations improve employee productivity and support timely and consistent issue resolutions.
+
+Retail
+
+Retail Service Management automates workflows to support retail customer care while Retail Operations simplifies store operations and provides headquarters visibility into store performance. Together, these solutions help improve operational efficiency and reduce costs.
+
+Technology
+
+Technology Provider Service Management, combined with Sales and Order Management, helps technology providers manage sales, delivery, support and customer success across the customer lifecycle, from quote to deal closure. By automating workflows and connecting functions, these solutions help reduce costs and improve service delivery.
+
+Telecom
+
+Telecom Service Management, Network Inventory Management and Telecom Service Operations Management, combined with Sales and Order Management, enables telecom service providers to manage customer service and infrastructure operations across front, middle and back-office functions. These tools help organizations accelerate revenue, reduce costs and improve service efficiency.
+
+Part I
+
+Our Core Business products support processes across human resources (“HR”), legal, finance, facilities, among others, connecting each of these functions with a single suite of products. These products help support employees to quickly access information they need to complete their tasks, provide business experts the relevant information and background they need to take action, and allow team leads to track performance and make process improvements. These products help improve efficiency and user experience by automating repetitive processes and providing transparency across functions. For example, a tax compliance software provider deployed a suite of Core Business products, which included HR Service Delivery (“HRSD”) and Workplace Service Delivery (“WSD”), together with Now Assist, to establish an integrated HR portal and automate routine HR requests. The solution significantly reduced the customer’s total HR case volume and helped resolve over half of their new HR cases within the same day, each day.
+
+HR Service Delivery
+
+HR Service Delivery, or HRSD, products help provide employees and HR teams with quick answers, targeted guidance and streamlined actions on our unified Platform, which also integrates seamlessly with other enterprise systems. HRSD automates routine HR tasks and supports processes such as onboarding, leave management, transfers, offboarding, service requests and career development. These capabilities allow employees to access information efficiently and help enable HR teams to shift focus from administrative tasks to strategic priorities. HRSD is designed to help provide clear guidance for employees and automate HR-related services, reducing costs for organizations.
+
+Now Assist and AI agents for HRSD provide HR service representatives AI-generated case summaries and virtual agent support to resolve issues more efficiently. These tools provide employees conversational AI interactions online or over the phone, personalized answers to questions, and proactive reminders or prompts that help employees complete HR tasks.
+
+2025 Annual Report
+
+Part I
+
+Legal and Contract Operations
+
+Legal and Contract Operations (“LCO”) products include Contract Management Pro and Legal Service Delivery, which supports contract management and legal request handling, respectively. Contract Management Pro is designed to work across contract types and departments, integrating with other ServiceNow products to connect legal, procurement, sales and related functions. These integrations help standardize processes, enhance visibility, improve collaboration and reduce contract review time. Legal Service Delivery is designed to centralize intake and tracking of legal matters through automated workflows, replacing fragmented email-based processes. LCO products can also automate responses to frequently asked questions and provide dashboards and reporting to help anticipate demand and allocate resources.
+
+Now Assist and AI agents for LCO can detect non-standard contract language, recommend pre-approved clauses from a library of acceptable terms, glean contract termination and renewal data to support timely management of contract deadlines, and generate summaries of requests and matters. These tools are intended to improve accuracy, reduce risk and simplify tracking of legal work.
+
+Source-to-Pay Operations
+
+Source-to-Pay Operations (“SPO”) connects organizations’ existing enterprise resource planning and procurement systems to support purchasing, supplier management, performance monitoring and accounts payable processes. These capabilities allow organizations to manage costs, negotiate terms, and onboard suppliers quickly.
+
+Now Assist and AI agents for SPO allow employees to initiate sourcing and procurement requests through conversational AI interactions, and AI agents can pre-fill request details and confirm whether requests comply with organizational spending policies and other protocols.
+
+Workplace Service Delivery
+
+Workplace Service Delivery, or WSD, provides tools for managing workplace services, facilities and real estate. WSD supports functions such as space planning and maintenance, visitor management and wayfinding. Integration with intelligent building systems enables improved space utilization and cost efficiency while maintaining safe and accessible work environments.
+
+Now Assist and AI agents for WSD provides employees with a conversational AI interface to help them handle everyday tasks such as booking reservations, requesting workplace services or managing guest access, without having to navigate multiple systems.
+
+Part I
+
+Our Creator products allow organizations to build and customize workflows at scale. These products provide developers with pre-built templates, low-code resources and modular components that support adaptation to changing processes and business models. Other products, such as Workflow Data Fabric, include capabilities for integrating internal and external data in a single, governed model with metadata management, data cataloging and contextual insights to support AI agents, automation and data-driven decision-making.
+
+App Engine
+
+App Engine enables organizations to create enterprise-class workflows using low-code and no-code development tools, supported by AI. App Engine does not require formal coding experience and is designed for scale, security and rapid deployment. Applications developed using App Engine include those that help:
+
+•streamline product development, including milestone tracking and real-time customer feedback collection;
+
+•automate loyalty programs, personalized marketing campaigns, and customer feedback collection, tailored to the retailer's brand and customer base;
+
+•manage supply chain logistics operations, including inventory control and logistics coordination tailored to supply chain networks; and
+
+•automate licensing, contracting and compliance examinations and financial reviews to reduce process times.
+
+App Engine can also be used with Now Assist and AI agents for Creator to quickly create and scale apps on our Platform. Now Assist for Creator includes various natural language AI capabilities, including text-to-code, text-to-flow, text-to-service catalog and text-to-app. Organizations can select among LLMs to train these tools and align with their requirements, with models vetted for reliability and performance.
+
+2025 Annual Report
+
+Part I
+
+Platform Privacy and Security
+
+Platform Privacy and Security products provide security, privacy and encryption controls to support protection of sensitive data in the cloud and compliance with applicable regulations. These products enable enforcement of data protection policies and rapid incident response.
+
+Now Assist and AI agents for Platform Privacy and Security enhance these capabilities by auto-classifying data, providing real-time insights into user activity and risk and recommending or initiating protective actions through automated workflows.
+
+RaptorDB
+
+RaptorDB is our high-performance database built to manage workloads at scale. RaptorDB processes high volumes of workflow transactions with low latency and consistent throughput, reducing the need for separate data infrastructure supporting more efficient and scalable workflows. Together with Workflow Data Fabric, these products enable AI-ready data at scale, contextual intelligence and scalable automation across the enterprise.
+
+Workflow Data Fabric
+
+Workflow Data Fabric (“WDF”) provides organizations the ability to use and access a variety of data types—structured or unstructured, streaming or static—both within and outside our Platform. Built on the foundation laid by our legacy Automation Engine product, WDF supports data integrations with a large network of certified partners and a broad set of data integration capabilities, including connecting to real-time external data without copying or moving the data from its source. Additionally, WDF provides users of our Platform with an interface, known as a semantic layer, that helps users interpret and use data to complete tasks without requiring technical knowledge of underlying database structures. With these capabilities, WDF enables organizations to connect, understand and act on any data source, establishing a unified data foundation that supports AI agents, automation and analytics, all of which enhance workflow performance.
+
+Part I
+
+We provide expertise to help organizations achieve operational and strategic objectives. Our customer success offerings support customers throughout their lifecycle, from initial adoption through long-term use of our Platform. These offerings include Customer Support, Professional Services and ServiceNow Impact. Together, they are intended to help customers improve efficiency, increase adoption and derive value from their investment in our Platform.
+
+Customer Support
+
+We provide customers with standard and enhanced support through subscription-based services delivered by technical resources located worldwide. Customers also have access to self-service resources through our support portal, which includes documentation, knowledge-based articles, online training, support forums and case creation tools.
+
+Professional Services
+
+Our professional services delivered directly and through our partners, include design, implementation, architecture and optimization services. These services are intended to help our customers implement and configure our products effectively and maximize the value from their use.
+
+ServiceNow Impact
+
+ServiceNow Impact is offered on a subscription basis and provides customers with software tools, guided plans, and AI-driven recommendations to support adoption of our products. The offering includes monitoring of Platform health, reporting on Platform metrics and access to designated experts and technical support.
+
+2025 Annual Report
+
+Part I
+
+Customers
+
+We primarily sell our services to enterprise customers and support enterprise-wide deployments. As of December 31, 2025, we had approximately 8,700 customers across a wide variety of industries. A growing portion of our revenue is generated from sales to government customers. For additional information, see “Risk Factors—Doing business with the public sector and heavily-regulated entities subjects us to risks related to government procurement processes, regulations and contracting requirements.”
+
+Sales and Marketing
+
+We sell our products and services to enterprises across a wide variety of industries through subscription agreements facilitated by our global direct sales organization. In addition to subscription offerings, certain AI and data solutions include a consumption-based pricing component that governs when customer usage exceeds the fixed number of service credits available under the customer’s subscription agreement. We also sell through managed service providers and resale partners.
+
+Our marketing activities consist primarily of customer referrals, digital advertising (including via our website), trade shows, industry events, brand campaigns and press releases. We also host our annual Knowledge user conference, webinars and other user forums, including regional forums, which we call World Forums, where customers and partners participate in sessions on product usage and industry practices.
+
+We continue to invest in sales and marketing to increase market penetration and expand into new geographies. These efforts include growth in both direct and indirect sales channels, investments in professional services and customer support, and development of strategic partnerships.
+
+Partner Ecosystem
+
+We maintain a global network of partners that provide implementation services, industry expertise and complementary technology offerings. Our partner ecosystem includes organizations in our partner program, public cloud service providers, and strategic alliances, among others. Partners help us extend market reach, drive co-innovation, accelerate adoption of our solutions and support solutions tailored to specific industries and customer needs.
+
+We have expanded relationships with technology providers to strengthen our AI capabilities and improve cloud interoperability, including relationships with AWS, Google, Microsoft, and NVIDIA, among others. Additionally, our relationships with global system integrators such as Accenture, Cognizant, Deloitte, EY, Infosys and KPMG, among others, continue to help us expand our business by offering ServiceNow solutions to their customers.
+
+Part I
+
+Our Technology and Operations
+
+We operate a multi-instance architecture that provides each customer with a dedicated application layer and database. This architecture is designed to support availability, scalability, performance, security and customer control. Our cloud infrastructure consists primarily of industry-standard servers, networks and storage components. We deliver our software-as-a-service offering through our own private cloud as well as public cloud service providers, who provide infrastructure-as-a-service, including servers, storage, databases and networking.
+
+Our data centers, along with our environments hosted by public cloud service providers, have been configured in pairs to provide replication, redundancy and high availability. We currently operate data centers in North America, South America, Europe, Asia and Australia, and we regularly evaluate our data center operations and capacity needs in existing and new geographies. We also offer customers the option to deploy our services on dedicated hardware within our data centers.
+
+In addition, our architecture supports deployment in customer-managed data centers or third-party data centers, which may be required to meet certain regulatory or security requirements. While these alternatives may have some limitations relative to our managed cloud and public cloud offerings, a minority of customers use them. We provide standard and enhanced support for these deployments consistent with the support provided to customers using our managed data centers.
+
+Intellectual Property
+
+We rely on a combination of U.S. and international copyright, trade secret, patent and trademark laws, as well as contractual agreements, confidentiality protections and internal procedures, to protect and expand our intellectual property (“IP”) rights. We enter into confidentiality and proprietary rights agreements with employees, partners, vendors, consultants and other third parties, and we limit access to our IP and other proprietary information. We also purchase or license IP and technology for incorporation into our products or services.
+
+We continue to expand our global patent portfolio and other IP rights relevant to our business. Our ability to protect our core technology and IP is an important factor to our success. As of December 31, 2025, we had over 2,000 issued U.S. and foreign patents, including patents acquired from third parties, and had over 580 pending patent applications. We do not consider our business to be materially dependent on any single patent or group of related patents. For additional information, see “Risk Factors—We may not be able to protect or enforce our IP rights.”
+
+Research and Development
+
+Our research and development organization is responsible for the design, development, testing and validation of our solutions. We focus on creating new services and core technologies and enhancing the functionality, reliability and performance of existing solutions.
+
+We also use our own products to collect real-time feedback on new and existing features – as part of what we call our “Now on Now” program – which informs product refinement and helps improve the customer experience. By incorporating insights from the Now on Now program and evaluating emerging technologies, we aim to anticipate customer needs and introduce new solutions-oriented features and services to the market quickly.
+
+Additionally, we deploy our engineers to work directly with strategic customers through our Now Next AI program, where we co-build agentic AI solutions to solve their critical challenges, while simultaneously expanding our AI product capabilities and use cases.
+
+We have made, and expect to continue to make, significant investments in research and development to expand our Platform capabilities, strengthen existing applications, increase the number of applications on our platform, and advance mobile, automation, AI and machine intelligence technologies.
+
+2025 Annual Report
+
+Part I
+
+Acquisitions and Investments
+
+We have acquired and invested in companies and technologies as part of our business strategy and expect to continue to evaluate and enter into potential strategic transactions. These may include acquisitions of, or investments in, businesses, technologies, services, products and other assets. These transactions are intended to expand or improve our service offerings, enhance go-to-market and sales efforts, strengthen operations, increase access to expertise and support delivery of products and services to international markets.
+
+Competition
+
+We operate in a highly competitive and rapidly evolving market characterized by fragmentation, low barriers to entry, shifting customer needs and frequent introductions of new products and services. As our business expands and the industries in which we operate continue to evolve, we compete with a broad range of solutions and alternative approaches, including:
+
+•enterprise application software vendors, both cloud-based and on-premises, such as Microsoft, Oracle, SAP, Salesforce and Workday;
+
+•new technologies and entrants, including point-solutions and platform solutions, particularly those related to AI;
+
+•custom-developed and in-house solutions;
+
+•technology consulting firms;
+
+•systems integrators; and
+
+•software resellers.
+
+For additional information about competition, see “Risk Factors—A failure to innovate and adapt how we offer our products in response to rapidly evolving technological changes and in the midst of an intensely competitive market may harm our competitive position and business prospects.”
+
+Regulations
+
+We conduct business globally and are subject to a wide range of U.S. federal, state and foreign laws and regulations across a variety of subject matters. The Risk Factors section of this Annual Report on Form 10-K includes additional information regarding government regulations relevant to our business.
+
+Part I
+
+Our Ambition, Values and Corporate Purpose
+
+Our ambition to become the defining AI enterprise software company of the 21st century is the driving force behind our overall business strategy and is guided by our values:
+
+Customers are the center of our world. We strive to deliver the best customer experiences and innovations.
+
+We share the same goals and have clear roles in achieving them. We deliver results as a team and enjoy the journey.
+
+We do not take success for granted. We are always ready to learn and evolve. We grow together, bringing fresh ideas and new perspectives.
+
+We lead with empathy, which means listening and making everyone feel they belong with ServiceNow.
+
+Our values have remained consistent as our business and workforce have expanded. By prioritizing these values, we seek to build trust with employees and customers and align with our corporate purpose to “make the world work better for everyone.”
+
+2025 Annual Report
+
+Part I
+
+Human Capital Management
+
+Our People Pact
+
+Our People Pact is central to our ability to fulfill our corporate purpose and reflects our commitment to supporting one another in doing our best work and achieving our shared objectives. To deliver on this commitment, we follow a global people strategy that serves as the foundation for how we plan and deliver on employee programming and experiences, built on three principles:
+
+People Led
+
+Data Driven
+
+AI Powered
+
+We apply a product mindset that puts the user at the center of program, process and service design.
+
+We use data to promote accountability, tell meaningful talent stories and support evidence-based decision-making.
+
+We use AI in talent management to enhance efficiency, while supporting, not replacing, human contributions.
+
+Our culture is grounded in our values. We gather feedback regularly and use this input to shape programs and address workforce needs globally. Our Employee Voice Survey (“EVS”) measures engagement across areas including belonging, learning and development, recognition, compensation and wellbeing. Insights from our EVS are used to create action plans throughout the organization and to assess the alignment of our human capital management practices with our purpose and business strategy.
+
+Learning and Development
+
+In 2025, we launched ServiceNow University, our AI-powered learning hub that provides professional development tools and resources to strengthen learners’ technical AI skills, industry knowledge and leadership capabilities, among others. It is free and available to organizations and individuals throughout the entire ServiceNow ecosystem—employees, customers and partners. ServiceNow University also supports our upskilling initiative, RiseUp with ServiceNow, which provides training and opportunities for individuals without traditional technology backgrounds to pursue technology careers and helps address talent needs across our ecosystem.
+
+Total Rewards
+
+We provide a total rewards program intended to attract, retain and motivate employees. All our employees are eligible to participate in our annual cash bonus plan or, for those in quota-carrying roles, our sales commission plan, in addition to base salary. We also have a broad-based discretionary equity incentive program and an employee stock purchase plan, which enable employees to share in our success.
+
+Our benefits and wellbeing programs address physical, emotional, social and financial wellbeing. We also provide additional time away through “Wellbeing Days” to support employee health and wellbeing.
+
+Part I
+
+Workforce Metrics
+
+As of December 31, 2025, we employed:
+
+29,187 EMPLOYEES
+
+on a full-time basis
+
+14,601
+
+of whom are in the United States
+
+14,586
+
+of whom are international
+
+None of our U.S. employees are represented by a labor union. In certain countries, employees are represented by workers’ councils or employee representatives or have the benefits of collective bargaining arrangements at the national and/or sector level. We have not experienced interruptions of operations or work stoppages due to labor disagreements.
+
+Available Information
+
+You can obtain copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings with the SEC, and all amendments to these filings, free of charge through our website at www.servicenow.com/company/investor-relations/sec-filings.html as soon as reasonably practicable after we file or furnish them with the SEC. The SEC maintains a website at www.sec.gov that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC. The contents of, or information accessible through, these websites are not incorporated into this filing. Our references to the URLs for these websites are intended to be inactive textual references only.
+
+Investors and others should note that we announce material financial information through our investor relations website (https://www.servicenow.com/company/investor-relations.html), SEC filings, press releases, public conference calls, webcasts and social media. We use these channels, including our website and social media, to communicate with our investors and the public about our company, our products and solutions and other issues. It is possible that the information we post on social media could be deemed to be material information. Therefore, we encourage investors, the media and others interested in our company to review the information we make available on our website and the social media channels listed there.
+
+2025 Annual Report
+
+Part I

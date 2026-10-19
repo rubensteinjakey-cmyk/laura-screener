@@ -1,0 +1,43 @@
+{
+  "ticker": "CDE",
+  "accession_number": "0000215466-26-000004",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "full_text_words": 70229,
+  "sections": {
+    "item1": {
+      "words": 3733,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3733,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 14948,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          14948,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 560
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1345,
+  "human_capital_found": true,
+  "people_paragraph_words": 1664
+}

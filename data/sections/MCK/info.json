@@ -6,8 +6,8 @@
   "full_text_words": 69627,
   "sections": {
     "item1": {
-      "words": 393,
-      "source": "10-K",
+      "words": 7814,
+      "source": "10-K (referenced section)",
       "candidates": {
         "starts": 13,
         "ends": 13,
@@ -35,10 +35,9 @@
     }
   },
   "notes": [
-    "item1: 10-K section is only 393 words with 1 cross-reference phrase(s); could not locate the referenced content",
-    "Human Capital subsection not found in Item 1"
+    "item1: 10-K section is only 393 words with 1 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (annual-report layout) (7,412 words)"
   ],
-  "human_capital_words": 0,
-  "human_capital_found": false,
-  "people_paragraph_words": 0
+  "human_capital_words": 2,
+  "human_capital_found": true,
+  "people_paragraph_words": 917
 }

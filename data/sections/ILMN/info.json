@@ -6,8 +6,8 @@
   "full_text_words": 55217,
   "sections": {
     "item1": {
-      "words": 3,
-      "source": "10-K",
+      "words": 5792,
+      "source": "10-K (referenced section)",
       "candidates": {
         "starts": 1,
         "ends": 1,
@@ -17,8 +17,8 @@
       }
     },
     "item7": {
-      "words": 13,
-      "source": "10-K",
+      "words": 9299,
+      "source": "10-K (referenced section)",
       "candidates": {
         "starts": 1,
         "ends": 2,
@@ -28,18 +28,17 @@
       }
     },
     "item7_targeted": {
-      "words": 0,
+      "words": 237,
       "source": "paragraphs of item7 with target terms",
-      "paragraphs_kept": 0,
-      "paragraphs_total": 2
+      "paragraphs_kept": 2,
+      "paragraphs_total": 220
     }
   },
   "notes": [
-    "item1: 10-K section is only 3 words with 0 cross-reference phrase(s); could not locate the referenced content",
-    "item7: 10-K section is only 13 words with 0 cross-reference phrase(s); could not locate the referenced content",
-    "Human Capital subsection not found in Item 1"
+    "item1: 10-K section is only 3 words with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (annual-report layout) (5,780 words)",
+    "item7: 10-K section is only 13 words with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (9,279 words)"
   ],
-  "human_capital_words": 0,
-  "human_capital_found": false,
-  "people_paragraph_words": 0
+  "human_capital_words": 264,
+  "human_capital_found": true,
+  "people_paragraph_words": 772
 }

@@ -1,0 +1,377 @@
+Item 1. Business
+
+Overview
+
+We are the cybersecurity platform for the AI era. We empower our customers with the cybersecurity solutions necessary to protect their enterprises, drive growth and outpace competitors where success depends on securely adopting the technologies required to operate and compete effectively in an AI world. We were founded in 2007, based on a vision that, with the broad adoption of SaaS applications, the internet would become the new corporate network, the cloud would become the new data center and perimeter-based security would fail to protect users, applications and data. As AI redefines how businesses operate, and powerful AI-enabled cyberthreats proliferate, enterprises must now adopt a zero trust approach to security. We deliver a comprehensive, cloud-native zero trust platform that minimizes the attack surface of an enterprise and eliminates lateral threat movement, enabling security at the scale and speed of AI. As a result, we believe we are the only cybersecurity platform capable of protecting enterprises in the most complex and consequential threat landscape in history.
+
+The traditional model of enterprise security built around hub-and-spoke networks, firewalls and virtual private networks, or VPNs, was designed to protect a fixed perimeter. With rapid and increasing cloud adoption, workforce mobility and the emergence of an autonomous agentic workforce, traditional perimeter security fails to completely secure the modern enterprise, is prohibitively expensive and delivers poor user experience. These outdated yet widely-deployed tools are preventing enterprises from safely embracing the digital transformation that is necessary to compete today.
+
+Enterprises have moved applications from the data center to the cloud, workforce mobility has dissolved the office perimeter and enterprises must securely access applications and data, wherever they are hosted, from any device, anywhere in the world. The emergence and rapid adoption of AI have accelerated this transformation, with AI agents accessing applications, AI models and data at machine speed and creating new governance and data security challenges that legacy tools were not built to address.
+
+Our Zscaler Zero Trust ExchangeTM security platform is a cloud-native security solution that is purpose-built to securely connect users, devices, workloads and AI agents to applications, AI models and data based on identity and business policy, rather than network location. Our platform was designed from day one on the principles of never trust and always verify. This approach reflects our consistent, pervasive application of zero trust principles, not just at the network layer, but across every transaction on our platform, based on defined permissions and business policies. Firewalls and VPNs force enterprises to trust traffic, exposing them to unnecessary risk, which is proliferating in the hyper-velocity of our AI world. Frontier AI models are discovering vulnerabilities faster and compressing the time from discovery to exploitation. Securing the AI transformation requires the same zero trust architectural principles that have guided our platform since inception, including inline inspection at scale, hiding applications from the internet and eliminating lateral threat movement.
+
+Our Zero Trust Exchange represents a fundamentally different architectural design and approach to networking and security that allows companies to securely accelerate their digital transformation and AI initiatives. As threat actors increasingly leverage AI to develop faster, autonomous and more sophisticated attacks, we harness AI to defend against evolving threats. In addition to protecting companies from the threats created by agentic AI, we're also enabling organizations to safely deploy AI agents and models. Zscaler continuously applies AI and ML to improve and train the Zero Trust Exchange, allowing our platform to detect threats with greater precision, respond to incidents more quickly, adapt to new attack vectors and enable our customers to safely deploy AI agents and models. We believe that our ability to embed AI-driven intelligence throughout our zero trust architecture positions us to deliver the adaptive, proactive and continuously
+
+improving security that the modern threat landscape demands. Zero trust integrated with AI is the new foundation for enterprise security architectures, and we are pioneering this convergence.
+
+Our cloud-native, multi-tenant architecture is distributed across over 200 public data centers globally and thousands of private sites at the edge, which brings security and business policy close to users, devices, workloads and AI agents in over 185 countries and provides fast, secure and reliable access, while dramatically simplifying operations. Our platform processes over 750 billion transactions, blocks over nine billion policy violations and threats and performs over 250,000 unique security updates per day. We believe this scale creates a structural data advantage, as every transaction enriches the threat and policy intelligence that trains our AI engines, improving the security for our customers. Our customers benefit from the cloud security effect of our ever-expanding ecosystem because once a new threat is detected, it can be rapidly blocked across our entire customer base.
+
+Our platform provides our customers with flexible and scalable solutions to better secure their operations, optimize user experience, eliminate complexity, reduce costs and address the risks and opportunities created by AI. To support organizations as they further embrace cloud offerings and AI technology, our platform focuses on four key pillars.
+
+•Zero Trust SASE delivers cloud-based networking and security services by applying our zero trust principles across the entire enterprise, including users, applications, branches, campuses, cloud, workloads, internet of things, or IoT,/operational technology, or OT, systems, AI models, autonomous AI agents and data centers based on identity and business policy, rather than on network location.
+
+•Security for AI enables organizations to adopt AI with confidence by discovering, governing and protecting AI applications, models, agents, identities, data, endpoints and workflows across the enterprise.
+
+•Data Security safeguards sensitive information across its entire life cycle, from creation to storage, transmission and access, regardless of location, device or application.
+
+•Agentic Security Operations refers to the integration of advanced AI technologies to empower both Security Operations, or SecOps, and IT Operations teams with increased efficiency and actionable insights.
+
+We have approximately 11,000 customers globally, including many of the largest enterprises and government agencies across every major industry. Our customers include over 40% of the Forbes Global 2000 and over 50% of the Fortune 500. Currently we support over 4,600 of the estimated 20,000 organizations with over 1,500 employees, which is indicative of our significant room for growth.
+
+We have delivered significant growth, with revenue increasing from $2,167.8 million in fiscal 2024 to $2,673.1 million in fiscal 2025 to $3,352.5 million in fiscal 2026, representing year-over-year revenue growth of 23% and 25%, respectively. We experienced net losses of $63.2 million, $41.5 million and $57.7 million in fiscal 2026, fiscal 2025 and fiscal 2024, respectively.
+
+Our Differentiated Architecture
+
+Zscaler's Zero Trust Exchange is a structurally unified platform where every product runs on the same infrastructure, is enforced by the same policy engine and is trained on the same signals. Our platform connects each user, device and AI agent only to the applications, data and AI models they are authorized to access, unlike legacy security products that permit broad access once on the network and past the security perimeter. Our Zero Trust Exchange confirms identity, verifies device posture, applies business policy and makes the connection directly without connecting any user, device or AI agent to the
+
+corporate network. This approach eliminates lateral threat movement because the user and the application do not communicate directly, even though the experience is seamless to the user. Our service automatically forwards traffic through our expansive data center network, providing a streamlined user experience and enabling customers to monitor and control access to applications and data. And notably, because applications are never exposed to the network, our architecture makes it harder for frontier AI models to discover assets, exploit vulnerabilities and breach an organization.
+
+Because the Zero Trust Exchange is inline on every connection, our platform’s fully integrated security offerings process each of the billions of daily transactions on the platform at the same time. When a threat is detected in one transaction, that intelligence immediately updates the model that governs every future transaction. This closed-loop architecture, combined with the scale and diversity of our telemetry, positions us to apply policies across security, data protection and operations to deliver superior security, increased agility and enhanced productivity, while reducing cost and complexity. Our platform complements and interoperates with key technology and cloud vendors relied upon by enterprises for identity access management, device and endpoint management and security information and event management (SIEM), which together comprise the foundation for modern access and security architecture.
+
+Our platform, protected by more than 950 issued and pending patents in the United States and other countries, unifies security for user access, AI, data, cloud and security operations under a single architecture and a single policy engine. Our products run on the same resilient and redundant platform, distributed across over 200 public data centers globally and thousands of private sites at the edge, all enforcing the same zero trust model and drawing from the same intelligence, while providing the scale that enterprises demand. Now, with nonhuman identities increasing exponentially with increasing deployment of agents and operating at machine speed, we believe our zero trust security, delivered by our extensible and unified platform, is uniquely capable and required to secure enterprises.
+
+Zero Trust SASE
+
+Our Zero Trust SASE solution securely connects workforces, AI agents, workloads and IoT/OT devices to cloud apps and AI services without needing to rely on traditional approaches like multiprotocol label switching, or MPLS, or software defined-wide area network, or SD-WAN. Zero Trust SASE combines the capabilities of our cloud-native Zero Trust Exchange security platform with our Zero Trust Branch and Cloud solutions to deliver an integrated platform that is easy to manage through a unified console and delivers a better end-user experience by eliminating the performance bottlenecks associated with traditional firewall and VPN-based approaches. This enables our customers to simplify network and security operations, reduce reliance on legacy infrastructure and support cloud and digital transformation initiatives.
+
+Zero Trust SASE delivers our core Zero Trust products through the deployment of our comprehensive and inline solutions, spanning the following core domains.
+
+Zscaler Internet Access
+
+Zscaler Internet AccessTM, or ZIATM, provides secure access to external services, including SaaS and AI applications, regardless of device, location or network. ZIA safeguards every connection to the internet by ensuring that users, devices, workloads and AI agents do not connect to malicious sites and that sensitive data is not leaked outside the organization. Security policies seamlessly follow the users so that they have a consistent experience at home or in the office.
+
+ZIA provides comprehensive cyberthreat defense functionality to prevent sophisticated ransomware, phishing and zero-day cyber attacks. Our inline proxy architecture enables full transport layer security, or TLS, inspection at scale to identify threats and protect sensitive data in encrypted traffic, with connections brokered between users and applications based on identity, context and business policies. Our core ZIA threat prevention capabilities include:
+
+•Advanced Threat Protection uses techniques including AI/ML, advanced heuristics, signatures and reputation to deliver real-time protection from malicious internet content like browser exploits, scripts, zero-pixel iFrames, malware and botnet callbacks.
+
+•Sandbox enables enterprises to block zero-day exploits and advanced persistent threats by analyzing unknown files for malicious behavior, and can scale to every user regardless of location.
+
+•Zero Trust Firewall protects web and non-web traffic for users, applications, locations and clouds across all ports and protocols, using inline traffic inspection and native TLS and secure sockets layer, or SSL, decryption to terminate malicious connections and prevent threats.
+
+Zscaler Private Access
+
+Zscaler Private AccessTM, or ZPATM, provides secure access to managed applications, hosted internally in data centers or in private or public clouds, with granular access controls based on identity and context. This offers customers a modern approach to Zero Trust Network Access without granting extensive network permissions.
+
+ZPA leverages a global policy engine to govern access to enterprise and internally managed applications regardless of location. If access is granted to a user, our ZPA solution connects the user’s device only to the authorized application without exposing the identity or location of the application. As a result, applications are not exposed to the internet, further limiting the external attack surface and eliminating lateral threat movement. This results in reduced cost and complexity, while offering better security and an improved user experience.
+
+Our ZPA solution provides broad functionality including:
+
+•Cyberthreat Protection and Data Protection delivers the same cyberthreat protection and data protection functionality that is applied to internet traffic via our ZIA solution.
+
+•Application Discovery provides granular discovery of internally managed applications to enable customers to quickly and seamlessly provision appropriate segmentation policies.
+
+•Secure Application Access empowers administrators to establish global policies from a single console, enabling policy-driven access that is agnostic to the network the users are on. By creating seamless access to applications regardless of a user’s network, our ZPA solution eliminates the need for traditional remote access VPNs, reverse proxies and other similar products.
+
+•Application Segmentation and Protection enables user and application-level segmentation with micro tunnels, each of which is a temporary session between a specific user and a specific application. This prevents lateral movement across the network, significantly reducing security risk while eliminating the need for internal firewalls.
+
+•Application Protection initiates outbound-only connections between authenticated users and internally managed applications using micro tunnels. Access is provided to users without bringing them onto the corporate network and without exposing applications to the internet. With no inbound connections and no public IP addresses, there is no inbound attack surface and therefore no threat of distributed denial-of-service, or DDoS, attacks. For allowed connections, our ZPA solution also provides web application firewall functionality, including OWASP Top 10 protections for threats, such as structured query language injection and cross-site scripting, to block common attack vectors.
+
+•Reduced Attack Surface is delivered by utilizing inside-out connections that are outbound from users to the Zero Trust Exchange security platform, which allows customers to deny all inbound connections. This reduces their
+
+attack surface by not exposing IP addresses of all devices, applications, appliances or workloads to the internet. Reduced attack surface results in lower exposure to zero-day application vulnerabilities and eliminates the need for DDoS mitigation.
+
+Zero Trust Browser
+
+Our Zero Trust Browser solution secures browser-based access to business applications for the extended workforce, including third parties and partners, with comprehensive protection against breaches while preserving the end-user experience. As the browser has become the primary interface for accessing business applications, securing browser-based activity is essential to protecting enterprise data and maintaining productivity.
+
+Zero Trust Browser can be implemented in a variety of ways including:
+
+•Zero Trust Browser Extension brings browser-native security directly into the existing user experience. With industry-first Browser Detection and Response, organizations gain another line of defense inside the browser to detect and respond to threats that may evade upstream network and endpoint controls.
+
+•Zero Trust Enterprise Browser provides a purpose-built Chromium browser with Zero Trust security integrated into the experience. It gives customers another powerful option for securing modern work without requiring them to build a separate security architecture around the browser.
+
+•Cloud Browser Isolation provides a powerful layer of protection for high-risk web content, active and sensitive cloud applications, unmanaged devices and other scenarios where active and sensitive content should be separated from the endpoint.
+
+Zscaler Digital Experience
+
+Zscaler Digital ExperienceTM, or ZDXTM, monitors end-user experience and helps organizations identify and resolve performance issues across their digital environment. ZDX is delivered through the Zscaler Client Connector, the same endpoint agent used for ZIA and ZPA, so customers can adopt ZDX without deploying new infrastructure or additional endpoint agents. Because ZDX unifies device, network and application telemetry, it can pinpoint the source of a performance issue across the entire transaction path, including intermediate and last-mile internet service providers the enterprise does not control. Where a fault is attributable to an intermediate provider, administrators can apply ZIA policy to route traffic around it, sustaining application availability rather than only reporting the disruption. A single deployment serves service desk, network operations and security teams, enabling organizations to consolidate monitoring and troubleshooting across IT functions.
+
+Zero Trust Branch
+
+Our Zero Trust Branch solution securely connects branches, factories, data centers and campuses without the need for expensive MPLS services or traditional SD-WAN, using the same zero trust principles as we do for users. Zero Trust Branch reimagines branches as independent environments, connecting directly over broadband, 5G or satellite without allowing the users and devices to move laterally on the network. Business policies determine who can access what, when and where. With this model, branches become like islands and are invisible to the internet.
+
+Our Zero Trust Branch solution includes broad functionality, which we categorize into the following:
+
+•Zero Trust SD-WAN securely connects branches, campuses and data centers without complex routing or expensive MPLS services. It reduces the attack surface and eliminates lateral threat movement by connecting users and IoT/OT
+
+devices to applications through our Zero Trust Exchange security platform. Branch traffic can be securely forwarded directly to the Zero Trust Exchange, where ZIA or ZPA policies can be applied for full security inspection and identity-based access control.
+
+•Zero Trust Device Segmentation provides agentless micro segmentation for enterprise IT and OT environments, creating a "network of one" where even devices on the same network can only communicate with each other if authorized.
+
+The combination of Zero Trust SD-WAN with Zero Trust Device Segmentation extends the Zero Trust Exchange security platform to protect east-west traffic in branch offices, campuses, factories and plants with critical OT infrastructure, eliminating the need for east-west firewalls, network access controls and traditional micro segmentation solutions, while simultaneously delivering operational simplicity.
+
+Zero Trust Cloud
+
+Our Zero Trust Cloud solution securely connects workloads across hybrid and public cloud environments, enabling faster cloud migration without compromising or disrupting security posture. Built on our zero trust architecture, it utilizes our Zero Trust Exchange platform for centralized security policy enforcement and robust data protection. Zero Trust Cloud is designed to securely connect workloads and inspect all traffic, enabling the detection and mitigation of cyber threats like ransomware, preventing data loss and facilitating workload segmentation to halt the lateral movement of threats. This strategy aims to provide customers with consistent threat and data protection, eliminate the attack surface, reduce operational complexity and lower overall costs.
+
+Our Zero Trust Cloud solution includes broad functionality, which we categorize into the following:
+
+•Secure Workload to Internet secures outbound communications from customer workloads to the internet. This protects workloads hosted in public clouds, private data centers or hybrid environments when they connect to external resources such as application programming interfaces, or APIs, SaaS platforms, third-party services or AI agents. To protect against cyber threats and data loss, the solution performs cloud-scale TLS inspection, which is designed to identify and block malicious attacks and prevent the unauthorized exfiltration of sensitive data from our customers' cloud workloads.
+
+•Zero Trust Gateway is a deployment model for Zero Trust Cloud that eliminates the need for customers to host the Zscaler Cloud Connector in their own environment. It accelerates deployment times and eliminates the need for traditional cloud firewalls, VPNs, express routes or direct connects.
+
+•Workload Micro Segmentation secures mission critical applications inside public clouds and data centers to stop lateral threat movement within the host, preventing application compromise and reducing the risk of data breaches. Our agent-based offering utilizes an innovative, AI-enabled approach that is simpler to deploy and operate and enforces zero trust security across compute environments. This reduces the attack surface, resulting in lower risk of application compromise and data breaches.
+
+Security for AI
+
+Our Security for AI solution enables secure AI adoption across the full AI ecosystem, from applications, models and agents to identities, data, endpoints and workflows, by discovering, governing and protecting AI use across the enterprise. AI tools are becoming an integral part of enterprise IT, spanning data, network, identities, endpoints and cloud environments, requiring broad visibility and governance across all systems and applications. Point products address only fragments of the AI ecosystem, leaving organizations with significant security gaps. We deliver these capabilities on a single, unified platform,
+
+which lowers cost and complexity while improving security outcomes as customers scale their use of AI. Our comprehensive Security for AI solution closes these gaps and is built around the following key principles:
+
+•discover and maintain visibility across all AI applications, models, workflows and related infrastructure, so that AI systems do not operate outside of policy;
+
+•govern access to AI with the same zero trust controls applied across our platform, granting users only the access they require;
+
+•identify vulnerabilities and weaknesses in AI models and applications before and after deployment through continuous, automated testing; and
+
+•enforce inline protection over AI interactions in real time to prevent data loss, harmful outputs and misuse.
+
+As enterprises deploy autonomous AI agents, we are extending these same controls to agent activity, including the discovery of AI agents and the governance of the connections they make between each other and their access to applications and data.
+
+Our Security for AI solution includes broad functionality, which we categorize into the following key areas:
+
+•AI Asset Management provides ongoing discovery and inventory across an organization’s AI footprint, including AI applications, models, agents, workflows and related AI infrastructure. Drawing on the same platform that already inspects enterprise traffic, it correlates asset discovery with access relationships, data lineage and security posture, enabling teams to identify the unsanctioned use of AI, understand what data AI systems can access, and prioritize and remediate risk.
+
+•Secure Access to AI enables organizations to safely use AI by discovering which AI applications are in use and by whom, and by inspecting prompts and responses inline. It can allow, block or coach the use of AI applications by user or group, apply data loss prevention and isolation controls to help prevent sensitive data exposure and enforce acceptable use policies. Developers are granted Zero Trust access to the AI tools and services they use, with the same controls.
+
+•Secure AI Apps and Infrastructure protects the AI applications, models, agents and supporting infrastructure organizations build, deploy and run. It continuously red teams AI applications and models throughout the development pipeline, helping teams identify and fix misconfigurations, vulnerabilities and excessive permissions before deployment. At runtime, it guards AI applications and models against prompt injection, data leakage, abuse and unauthorized access, while enforcing zero trust access, posture and data protection controls across the AI environment.
+
+•AI Gateway provides inline visibility and control for AI traffic, including prompts, responses, file uploads, tool calls, API requests, agent actions and agent-to-agent communications. It inspects AI interactions in real time to understand user, application and agent intent; protect sensitive data; detect risky or non-compliant behavior; and enforce policy before data or actions reach AI applications, models, agents or tools. Policies can allow, block, isolate, redact or coach activity based on user, group, application, model, agent, data type, action and risk context, helping organizations govern AI use without disrupting adoption.
+
+AI is accelerating the speed and sophistication of cybersecurity threats in ways that traditional perimeter- and rule-based security architectures were not designed to address. We believe the most durable response is Zscaler’s architecture. Our platform inspects every connection — including AI-generated traffic, autonomous agent interactions and model-to-model communications — inline and in real time, before a transaction is completed. This allows us to evaluate the intent and context
+
+of every AI interaction as it occurs, rather than relying on logs, signatures or post-hoc analysis. When risk is detected, we intervene at the point of interaction, not after the fact. We process more than 750 billion transactions per day. This scale generates a continuous stream of threat signals that we use to train and improve our detection models. We believe the combination of inline inspection architecture, deployment scale, comprehensive discovery, access and data security controls and accumulated threat intelligence provides powerful AI security benefits to our customers that other vendors cannot deliver.
+
+The primary use cases for our Security for AI solution include:
+
+•discovering and remediating unsanctioned AI tools and shadow AI deployments before they introduce unmanaged risk;
+
+•detecting and blocking AI-native threats, including prompt injection, jailbreaks and data exfiltration through model interactions, inline and in real time;
+
+•governing autonomous AI agents as they access applications, data and external services, including interactions over emerging agent communication protocols;
+
+•enabling employees to use AI applications securely while preventing sensitive data loss through prompts and responses;
+
+•enabling development teams to safely adopt AI-assisted code generation, with controls that identify insecure, non-compliant or unreviewed code before it reaches production; and
+
+•extending existing Zero Trust and data protection policies uniformly across the AI life cycle, without creating exceptions to established governance and compliance posture.
+
+Data Security
+
+Our data security functionality enables enterprises to prevent unauthorized sharing or exfiltration of confidential information by users, devices, servers, workloads and AI agents, thereby reducing business and compliance risks for our customers. We provide inline monitoring of data flows between users and applications, workload to workload and applications to LLMs with AI-powered auto data discovery, reducing the risk of inadvertently transmitting sensitive data and intellectual property. We also provide out-of-band discovery and remediation of data risks across a wide range of data stores, including SaaS, IaaS/PaaS, cloud data lakes and warehouses and on-premise systems. Our unified solution integrates inline and out-of-band insights with workflow automation, agentic analysis and automated policies, enabling enterprises to reduce operational complexity and mitigate risks. Core cloud platform data security services include:
+
+•AI-Powered Data Classification & Contextual Insights leverage a variety of advanced technologies to identify sensitive information across structured and unstructured data, including data at rest, data in motion and data in use. Traditional data loss prevention, or DLP, technologies are augmented with AI-based classification to improve accuracy and simplify operational complexity. Our Access Graph reveals contextual relationships between identities (human and non-human), sensitive data and AI infrastructure, enabling organizations to govern access to sensitive data at scale.
+
+•Data Loss Prevention enables enterprises to alert on and/or block the transmission or sharing of sensitive data across a wide range of exfiltration channels. These include web DLP, endpoint DLP, email DLP and DLP for AI systems. Endpoints are protected by preventing printing or copying to local storage, including USB devices.
+
+Additionally, our Email DLP solutions secure corporate email traffic, including Microsoft Exchange and Gmail. DLP policies also protect interactions with AI applications, safeguarding user prompts.
+
+•SaaS Security combines our cloud access security broker, or CASB, SaaS security posture management and SaaS supply chain security to discover and control known and unknown applications, identify SaaS misconfigurations, find and mitigate potentially risky third-party connections into those SaaS applications and scan data residing in those applications for threats and data protection violations. By performing TLS inspection at scale, we enable inline protections such as malware detection and DLP, while extending CASB capabilities through both inline and out-of-band controls across specific sanctioned and unsanctioned applications. Business policies can be defined with granular access control for specified cloud applications, such as the ability to upload or download files or post comments on videos based on different user or group identity.
+
+•Data Security Posture Management enables enterprises to discover and mitigate risk across their vast range of data stores — including public cloud, SaaS, data lakes and warehouses and on-premise data systems. Advanced classification and contextual analysis enables enterprises to understand where sensitive data resides, and to uncover risks related to posture configuration, access entitlements or compliance. Automated workflows enable organizations to remediate these risks, integrating with mainstream IT Service Management tools such as ServiceNow and Jira. The solution empowers organizations to proactively remediate data risks and avoid sensitive data exposures or compliance violations.
+
+Agentic Security Operations
+
+Our Agentic Security Operations solution enables enterprises to reduce cyber risk by using AI-powered automation to identify, prioritize and respond to threats at machine speed. As threat actors increasingly leverage AI, our customers require security solutions that can counter AI-driven threats with equally fast, AI-powered defenses. Our platform reduces risk across both the proactive and reactive sides of security operations; proactively identifying gaps and prioritizing vulnerabilities, while also detecting and containing incidents in real time with AI-powered capabilities and human-in-the-loop oversight. These solutions include broad and differentiated capabilities across the full attack life cycle.
+
+Exposure Management
+
+Our exposure management platform helps organizations understand their digital attack surface by providing deep visibility into assets and vulnerabilities so they can identify, assess and remediate exposures before they can be exploited. It ingests and analyzes data from Zscaler systems, such as our Zero Trust Exchange security platform, and third-party data from more than 150 sources to deliver a comprehensive view of an enterprise’s threat landscape and prioritize what to address first. Our Data Fabric for Security ingests, synthesizes and enriches this data to yield compelling insights for exposure management, such as providing dynamic and customizable prioritization, streamlined reporting, automated workflows for remediation and contextualized risk-based assessments of a customer’s risk landscape.
+
+Deception
+
+Our deception solution disrupts threat actors by deploying decoys and related techniques that mimic real assets to detect unauthorized attempts to access systems, credentials, applications or other resources. When unauthorized activity is identified, security personnel are immediately alerted and the activity can be automatically isolated to prevent lateral spread. While the activity is isolated, customers can use our deception solution to monitor attack behavior and feed misleading information to the threat actor to gather valuable intelligence about the attack, update threat models and strengthen defenses for the future. Customers can be operational in minutes with a one-click deployment by leveraging a diverse library of pre-configured decoys including those that replicate applications, network components, chatbots and IoT services.
+
+Managed Detection and Response
+
+Our Managed Detection and Response, or MDR, service offering provides threat detection and on-demand incident response services to augment our customers’ security operations capabilities and reduce reliance on extensive internal resources or specialized expertise. This capability leverages advanced technologies including agentic workflows, AI-supported threat intelligence, expert analysis and automated runbooks to identify and address complex cybersecurity threats.
+
+Agentic SOC
+
+Our Agentic Security Operations Center, or Agentic SOC, solution centralizes and correlates security alerts across our platform to identify threats with higher fidelity. It then uses AI agents to triage, investigate and respond at machine speed. We automatically leverage the power of Zscaler telemetry, enabling customers to accelerate detection and response without spending time managing data pipelines, building correlation rules or maintaining complex playbooks. This enables security teams to contain threats before they reach the endpoint and provides the ability to identify and address behaviors such as lateral movement, command-and-control activity, beaconing and data exfiltration. This results in a more efficient and effective SOC that reduces operational burden while improving the speed and precision of threat detection, investigation and response.
+
+Threat Hunting
+
+Our Threat Hunting managed security service is designed to help customers identify potentially malicious activity through proactive analysis of telemetry generated by our Zero Trust Exchange security platform and key third-party data sources such as endpoint, identity and cloud telemetry. This service uses telemetry to detect anomalies, investigate suspicious activity and support the identification of threats that may not be detected through automated controls alone. When a threat is identified in one customer environment, we can proactively hunt for that same threat pattern across our broader customer base, helping organizations benefit from insights gained across the platform, helping customers improve visibility into emerging threats and supporting incident investigation and response across distributed environments.
+
+Growth Strategies
+
+The increasing adoption of the cloud and mobility and the rapid enterprise adoption of AI applications and agents are driving network and application transformation. As a provider of a fully integrated, multi-tenant cloud security solution, we believe we are uniquely positioned to empower our customers to secure and accelerate their digital transformation into the cloud and AI-enabled enterprises. Key elements of our growth strategy include:
+
+•Continue to win new customers. We believe that we have a significant opportunity to expand our customer base globally. We continue to invest significantly in our sales and marketing organization to execute against this opportunity.
+
+•Expansion in existing customers. We leverage organic account expansion to sell subscriptions for additional users, additional solutions and premium solution bundles that contain more functionality, including non-user-based metered pricing models. We also expect to expand our Z-Flex program, a procurement model which allows customers to make flexible product selections within pre-negotiated spend commitments. This program lowers the barrier for customers to access the full breadth of the Zero Trust Exchange by reducing the friction of new product adoption within our customers’ budget commitments.
+
+•Leverage channel partners to participate in cloud transformation initiatives. We have invested in establishing long-standing relationships with global telecommunications service providers and are expanding our network of
+
+global system integrators and regional telecommunications service providers and cloud-centric value-added resellers and public cloud marketplaces.
+
+•Expansion and innovation of services. We continue to invest in research and development and acquire new technologies and products to add new and differentiated solutions to our existing product portfolio and to improve the overall functionality, reliability, availability and scalability of our cloud security platform.
+
+•Expansion into additional market segments. We are targeting the expansion of our immediate addressable market into additional markets, segments and verticals, including sovereign cloud offerings. For example, we are targeting our expansion into new geographies in the Asia Pacific, Latin America and Middle East regions,
+
+We sell to enterprises of all sizes. As of July 31, 2026, we had approximately 11,000 customers. Currently, we support over 4,600 of the estimated 20,000 organizations with over 1,500 employees, which is indicative of our significant room for growth. Our customers include many of the largest global enterprises operating across every major industry, including automotive, airlines and transportation, conglomerates, consumer goods and retail, energy, financial services, healthcare, insurance, manufacturing, media and communications, public sector and education, technology and telecommunications services. We derived approximately 47%, 49% and 50% of our revenue from our international customers in fiscal 2026, fiscal 2025 and fiscal 2024, respectively. No end customer contributed more than 10% of our revenue in fiscal 2026, fiscal 2025 and fiscal 2024.
+
+Sales and Marketing
+
+Although we have a channel sales model, we use a joint sales approach in which our sales force develops relationships directly with our customers, and together with our internal channel account teams, works with our partners on account penetration, account coordination, sales and overall market development. Our sales organization is account-centric, with dedicated sales and customer success resources. Our customer care and success teams maintain high-touch relationships with our customers to deploy and manage our cloud platform, identify, analyze and resolve performance issues and respond to security threats. We believe customer service touchpoints are opportunities to further develop our relationship with our customers and potentially generate incremental revenue through the addition of new users and services.
+
+Our channel partners consist of global telecommunications service providers, system integrators, value-added reseller partners and public cloud marketplaces, and we leverage their relationships to expand our reach, improve procurement and accelerate customer fulfillment.
+
+We enter into agreements with our channel partners in the ordinary course of business. The contracts typically have a one-year term and renew automatically, subject to cancellation by either party upon 90 days’ notice. These agreements contain standard commercial terms and conditions, including payment terms, billing frequency, warranties and indemnification. Our channel partners generally place purchase orders with us after receiving orders from customers. We generally maintain privity of contract with customers through end user subscription agreements.
+
+We expect to continue investing in our channel partners as we provide them with education, training and programs, including supporting their independent sales of our solutions. We are also investing in joint go-to-market initiatives with our global systems integrators and other partners to expand our reach and help customers implement digital transformation programs. We believe that these investments in our channel partner programs and our sales force will lead to increased awareness and adoption of our solutions. We expect this to result in significant expansion in our customer base, which would materially impact our business and results of operations.
+
+Our marketing strategy is focused on platform and brand awareness, which drives our opportunity pipeline and customer demand. This strategy is account-based, enabling us to pursue targeted marketing activities across both digital and
+
+non-digital channels. We continue to invest in programs designed to elevate our brand in the market and engage new enterprise accounts, including our annual Zenith Live customer and partner conference and our annual Public Sector Summit, in addition to our participation in a number of cloud and security industry events. We also have a deeply integrated ecosystem of channel partners, with whom we engage in joint marketing activities.
+
+Data Center Operations
+
+We have expanded the Zero Trust Exchange to over 200 public data centers globally and thousands of private sites at the edge, which are built to be highly resilient, have multiple levels of redundancy and provide failover to other data centers in our network. Our data centers are co-located within top-tier internet interconnection hubs that have direct connectivity, known as peering, to major telecommunication service providers, SaaS providers, public cloud providers, internet content providers and popular internet destinations. A number of our data centers are also located with our service provider partners.
+
+Compliance
+
+Our platform has received numerous industry standard and internationally recognized certifications upon successful completion of further independent third-party assessments, including ISO 27001, ISO 27701, ISO 27018, ISO 27017, ISO 22301, SOC2, SOC 3, PCI-DSS, CSA-STAR, HITRUST and HIPAA.
+
+We also built a leading U.S. and international government compliance portfolio. We are authorized at the FedRAMP Moderate and High levels and Impact Level 5 with the DOD for ZPA. In addition, in the U.S. we are authorized at both the FedRAMP Moderate and High levels and Impact Level 5 with the DOD for ZIA, among others. We also hold CMMC Level 2 certification, ITAR, FIPS, CJIS, SOC 1 and VPAT 508 in our U.S. Government portfolio. We also became the first cloud-based SaaS security company to achieve StateRAMP for state and local governments. Internationally, we are IRAP Protected and APRA in Australia, Cyber Essentials Plus and G-Cloud in the UK, C5 in Germany, ITSG-33 Prob B in Canada, ISMAP in Japan, MTCS in Singapore, Spain Gov CPSTIC catalog listing and ENS-High, ACN in Italy, and most recently, CSL in China.
+
+Research and Development
+
+Our research and development organization is responsible for the design, architecture, operation and quality of our cloud platform. In addition to improving on our features and functionality, this organization works closely with our cloud operations team to ensure that our platform is reliable, available and scalable. ThreatLabz, our internal team of security experts, researchers and network engineers, analyzes the global threat landscape, works to eliminate threats across our cloud platform and reports on emerging security issues, including risks arising from enterprise adoption of AI applications and AI agents.
+
+Research and development expense was $903.4 million, $672.5 million and $499.8 million for fiscal 2026, fiscal 2025 and fiscal 2024, respectively. Our research and development leadership team is predominantly located in San Jose, California, and we also maintain research and development centers internationally, including in India, Israel and Spain.
+
+Competition
+
+The market for security solutions is defined by changing technologies, an evolving threat landscape and complex enterprise needs. Our competitors and potential competitors include legacy on-premises appliance vendors and other vendors across a number of categories:
+
+•independent IT security vendors, which offer a broad mix of network and endpoint security products;
+
+•large networking, cloud service and other vendors, which offer security appliances and/or incorporate security capabilities in their products, platforms and other services;
+
+•companies with point solutions that compete with some of the features of our cloud platform, such as proxy, firewall, CASB, sandboxing and advanced threat protection, AI security, DLP, data security posture management, or DSPM, browser security, MDR, SecOps, load balancing and VPN; and
+
+•other providers of IT security services that offer, or may leverage related technologies, including AI, to introduce products that compete with or are alternatives to our cloud platform.
+
+The principal competitive factors in the markets in which we operate include:
+
+•delivering security from the cloud regardless of location of the user;
+
+•delivering security for the rapid adoption of AI;
+
+•platform features, effectiveness, flexibility and extensibility;
+
+•platform reliability, availability and scalability;
+
+•rapid development and delivery of new capabilities and services;
+
+•ability to integrate with other participants in the security and networking ecosystem;
+
+•price, total cost of ownership and network cost savings;
+
+•brand awareness, reputation and trust in the provider’s services;
+
+•strength of sales, marketing and channel partner relationships; and
+
+•quality of customer support.
+
+We believe we are positioned favorably against our competitors based on these factors. Our cloud platform integrates many of the point products offered by our competitors and potential competitors, which is a key differentiator. However, many of our competitors have substantially greater financial, technical and other resources, greater brand recognition, larger sales forces and marketing budgets, broader distribution networks, more diverse product and services offerings and larger and more mature intellectual property portfolios. They may be able to leverage these resources to gain business in a manner that discourages users from purchasing our services, including through selling at zero or negative margins, offering concessions, product bundling, maintaining closed technology platforms or incorporating AI and ML technologies into their products and services more quickly or successfully than we do. Further, many organizations have invested substantial personnel and financial resources to design and operate their appliance-based network security architecture and may not be willing or ready to abandon those historical investments. As our market grows and rapidly changes, including as AI and ML technologies evolve and lower the bar to entry, we expect it will continue to attract new companies, including smaller emerging companies, which could introduce new products and services. In addition, we may expand into new markets and encounter additional competitors in these markets.
+
+Intellectual Property
+
+Our success depends in part upon our ability to protect and use our core technology and intellectual property rights. We rely on a combination of patents, copyrights, trademarks, trade secret laws, contractual provisions and confidentiality
+
+procedures to protect our intellectual property rights. As of July 31, 2026, we had more than 950 issued patents and pending patent applications, including more than 450 issued patents in the United States and other countries. Our issued patents expire between 2028 and 2044 and cover various aspects of our cloud platform. In addition, we have registered “Zscaler” as a trademark in the United States and other jurisdictions, and we have registered other trademarks and filed other trademark applications in the United States. We are also the registered holder of a variety of domestic and international domain names that include “Zscaler” and similar variations. In addition to the protection provided by our intellectual property rights, we enter into confidentiality and invention assignment or similar agreements with our employees, consultants and contractors. We further control the use of our proprietary technology and intellectual property rights through provisions in our subscription and license agreements. Despite our efforts to protect our trade secrets and proprietary rights through intellectual property rights, licenses and confidentiality agreements, unauthorized parties may still copy or otherwise obtain and use our software and technology. In addition to our internally developed technology, we also license software, including open source software, from third parties that we integrate into or bundle with our cloud platform.
+
+Our industry is characterized by the existence of a large number of patents and frequent claims and related litigation based on allegations of patent infringement or other violations of intellectual property rights. We believe that competitors will try to develop products and services that are similar to ours and that may infringe our intellectual property rights. Our competitors or other third parties may also claim that our platform infringes their intellectual property rights. In particular, companies in our industry have extensive patent portfolios. Third parties, including certain of these companies and non-practicing entities, have in the past and may in the future, assert claims of infringement, misappropriation and other violations of intellectual property rights against us or our customers or channel partners, with whom our license or other agreements may obligate us to indemnify them against these claims. Successful claims of infringement by a third-party could prevent us from offering certain services or features, require us to develop alternate, non-infringing technology, which could require significant time and during which we could be unable to continue to offer our affected subscriptions or services, require us to obtain a license, which may not be available on reasonable terms or at all, or force us to pay substantial damages, royalties or other fees. As we face increasing competition and gain an increasingly higher profile, the possibility of intellectual property rights claims against us grows. We cannot assure you that we do not currently infringe, or that we will not in the future infringe, upon any third-party patents or other proprietary rights. See “Risk Factors – Risks Related to Our Business – Claims by others that we infringe their proprietary technology or other rights, or other lawsuits asserted against us, could result in significant costs and substantially harm our business, financial condition, results of operations and prospects” for additional information.
+
+Government Regulation
+
+Our business activities are subject to various federal, state, local and foreign laws, rules and regulations. Compliance with these laws, rules and regulations has not had, and is not expected to have, a material effect on our capital expenditures, results of operations and competitive position as compared to prior periods. Nevertheless, compliance with existing or future governmental regulations, including, but not limited to, those pertaining to global trade, business acquisitions, consumer and data protection, privacy, employment, labor and taxes, could have a material impact on our business in subsequent periods. For more information on the potential impacts of government regulations affecting our business, see “Item 1A - Risk Factors.”
+
+Human Capital
+
+As of July 31, 2026, we had over 8,700 employees in locations around the world. We have not experienced any work stoppages and we consider our relations with our employees to be positive and collaborative.
+
+Zscaler's vision is to create a world in which the exchange of information is always secure and seamless. Ensuring that our people and culture are aligned with this vision is critical to our success. In order to continue to innovate and to execute
+
+our business strategy, we must attract, develop and retain skilled employees, particularly in the areas of product development, engineering, sales and customer success.
+
+Our Culture
+
+Our culture is about creating an environment where our global workforce can contribute their best work to help our customers and our business succeed. Our cultural framework is outlined on our website at https://www.zscaler.com/culture and summarized below.
+
+Our TOPIC values are:
+
+•Teamwork
+
+•Ownership
+
+•Passion
+
+•Innovation
+
+•Customer Obsession
+
+Our HUMAN leadership principles are:
+
+•Hire, Develop & Inspire the Best
+
+•Understand & Innovate with the Customer
+
+•Model a Thoughtful Bias for Action
+
+•Act Like an Owner
+
+•Nurture a Growth Mindset
+
+We introduced our Ways of Working as our operating system and the bridge between our high-level vision and our everyday actions. It codifies our commitments to the mission, the outcome and each other into actionable behaviors. Our Ways of Working include:
+
+•Ownership and Collaboration. Ownership blends strategy and action, while collaboration emphasizes adaptable support, enabling meaningful contributions to team success.
+
+•Trust Through Outcomes and Impact. Trust is built through delivering results, maintaining integrity and prioritizing the team, rather than relying on rank or tenure. It grows from impact and outcomes, fueling effective execution and collective progress.
+
+•A Challenge Culture with Ongoing Feedback. Effective execution thrives on honest, constructive conversations that challenge ideas and align the team to shared goals.
+
+Employee Development
+
+We invest in our employees through a suite of programs from their first day of employment to develop their talent and skills as our business grows. Our leadership approach establishes clear expectations, enables measurement and actionable
+
+feedback and ensures that our people managers have access to learning and resources that help them to embody our leadership principles.
+
+In addition, new employees in our customer care and success teams are enrolled in structured sales and product training to build their knowledge. Our technical teams have access to live and online training resources and participate in frequent company tech talks where training on best practices and latest developments are shared. We build the skills and capabilities of our senior leaders through intentional investment in their development and opportunities for them to network, collaborate and problem solve together.
+
+Compensation and Benefits
+
+We provide competitive compensation and benefits packages to attract and retain our talent. In addition to base pay, employees may be eligible for performance-based bonuses that are tied to our financial performance and long-term equity incentives that vest subject to continued service. Certain employees may also need to achieve defined performance metrics for parts of their long-term incentives to vest. Our employee performance management program aligns individual achievement and corporate goal attainment with compensation. Employees are assessed on both what was achieved and how they achieved it to help build a high-performance culture that delivers for our customers and is aligned to our cultural values.
+
+We offer an employee stock purchase plan, which allows employees to contribute a percentage of their wages to purchase our stock at a discount. In addition to cash and equity compensation, we offer our employees a robust portfolio of benefits, such as health, well-being, parental leave and retirement programs, to meet their individual and family needs.
+
+Health, Safety and Well-being
+
+The health and safety of our employees is our top priority. We recognize the need to create a flexible working environment that balances collaboration, innovation and connectivity with personal preferences for employees to do their best work. Our employee wellness programs support employees across four pillars: physical, emotional, social and financial. These programs are designed to meet the needs of our employees through connection and support, with flexibility for local and targeted approaches. We will continue to review and invest in programs to provide for the health, safety and well-being of our employees.
+
+Corporate Information
+
+We were incorporated in the state of Delaware in September 2007 as SafeChannel, Inc., and in August 2008, we changed our name to Zscaler, Inc. Our principal executive offices are located at 120 Holger Way, San Jose, CA 95134, and our telephone number is (408) 533-0288. Our website address is www.zscaler.com. Information contained on, or that can be accessed through, our website does not constitute part of this Annual Report on Form 10-K.
+
+Available Information
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statement, and all amendments to these filings, are available free of charge from our investor relations website (https://ir.zscaler.com/financial-information/sec-filings) as soon as reasonably practicable following our filing with or furnishing to the SEC of any of these reports. The SEC’s website (https://www.sec.gov) contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.
+
+Zscaler investors and others should note that we announce material information to the public about our company, products and services and other issues through a variety of means, including our website (https://www.zscaler.com), our investor relations website (https://ir.zscaler.com), our blogs (https://www.zscaler.com/blogs), press releases, SEC filings,
+
+public conference calls and social media, in order to achieve broad, non-exclusionary distribution of information to the public. We encourage our investors and others to review the information we make public in these locations as such information could be deemed to be material information. Please note that this list may be updated from time to time.
+
+The contents of any website referred to in this Form 10-K are not intended to be incorporated into this Annual Report on Form 10-K or in any other report or document we file.

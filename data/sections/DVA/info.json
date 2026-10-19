@@ -1,0 +1,43 @@
+{
+  "ticker": "DVA",
+  "accession_number": "0000927066-26-000012",
+  "filing_date": "2026-02-11",
+  "fiscal_year": 2025,
+  "full_text_words": 79709,
+  "sections": {
+    "item1": {
+      "words": 15158,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          15158,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 11616,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          11616,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 435,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 396
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1724,
+  "human_capital_found": true,
+  "people_paragraph_words": 1131
+}

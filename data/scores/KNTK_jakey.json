@@ -1,0 +1,101 @@
+{
+  "ticker": "KNTK",
+  "company_name": "Kinetik Holdings, Inc.",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001692787-26-000048",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T01:44:32",
+  "prompt_chars": 68622,
+  "filing_chars": 48621,
+  "filing_words_sent": 7069,
+  "approx_prompt_tokens": 17155,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Charitable contributions to local community organizations, including emergency response departments, the Permian Strategic Partnership and a Houston children's charity",
+        "quote": "In 2025, Kinetik contributed over $1.6 million to charitable organizations and local community initiatives, including local emergency response departments, the Permian Strategic Partnership and BEAR - Be a Resource for CPS Kids Houston.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability > Social Responsibility",
+        "status": "current",
+        "indicators": "$1.6 million",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with dollars disclosed and named recipient organizations"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Paid volunteer time and charitable matching program for employees",
+        "quote": "We also support employee engagement through paid volunteer time and a charitable matching program.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability > Social Responsibility",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current volunteering and giving-match activity with no figures disclosed"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers only midstream gas, NGL, crude and water gathering, processing and transport, with no creative activity."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 3: community investment with disclosed dollars ($1.6 million) to named organizations, supported by paid volunteer time and a charitable matching program."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: based only on general language about an inclusive environment plus required harassment and discrimination compliance training, with no specific inclusion or access activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: there is no service, program or tool enabling founders or small businesses; 'New Energy Ventures' and 'innovative' technologies are the company's own internal initiatives and fall under the innovation trap."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. Community: the 20,600 hours of EHS training cover safety and regulatory topics (environmental compliance, OSHA, driver safety, emergency response). They are treated as compliance training under the trap rule and not recorded. The KEEP hazard-reporting program and engagement surveys are engagement, not development. The Community score of 3 rests mainly on the $1.6 million in giving. This amount is modest in absolute terms but is a disclosed dollar indicator with named recipients. Landowner and local-government engagement is operational relations and was not scored. Cross-cultural: Workplace Harassment and Discrimination Free Workplace training are required compliance training. The 10-K mentions a FY2024 Sustainability Report, but the coverage is sufficient, so no second look is triggered. Entrepreneurship: 'New Energy Ventures' is the company's own internal team, not support for outside founders. The Sustainability-Linked Notes are financing terms, not a theme activity.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"KNTK\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Charitable contributions to local community organizations, including emergency response departments, the Permian Strategic Partnership and a Houston children's charity\",\"quote\":\"In 2025, Kinetik contributed over $1.6 million to charitable organizations and local community initiatives, including local emergency response departments, the Permian Strategic Partnership and BEAR - Be a Resource for CPS Kids Houston.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sustainability > Social Responsibility\",\"status\":\"current\",\"indicators\":\"$1.6 million\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with dollars disclosed and named recipient organizations\"}}},{\"id\":\"E2\",\"activity\":\"Paid volunteer time and charitable matching program for employees\",\"quote\":\"We also support employee engagement through paid volunteer time and a charitable matching program.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sustainability > Social Responsibility\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current volunteering and giving-match activity with no figures disclosed\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers only midstream gas, NGL, crude and water gathering, processing and transport, with no creative activity.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 3: community investment with disclosed dollars ($1.6 million) to named organizations, supported by paid volunteer time and a charitable matching program.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: based only on general language about an inclusive environment plus required harassment and discrimination compliance training, with no specific inclusion or access activity.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: there is no service, program or tool enabling founders or small businesses; 'New Energy Ventures' and 'innovative' technologies are the company's own internal initiatives and fall under the innovation trap.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so all evidence comes from Item 1. Community: the 20,600 hours of EHS training cover safety and regulatory topics (environmental compliance, OSHA, driver safety, emergency response). They are treated as compliance training under the trap rule and not recorded. The KEEP hazard-reporting program and engagement surveys are engagement, not development. The Community score of 3 rests mainly on the $1.6 million in giving. This amount is modest in absolute terms but is a disclosed dollar indicator with named recipients. Landowner and local-government engagement is operational relations and was not scored. Cross-cultural: Workplace Harassment and Discrimination Free Workplace training are required compliance training. The 10-K mentions a FY2024 Sustainability Report, but the coverage is sufficient, so no second look is triggered. Entrepreneurship: 'New Energy Ventures' is the company's own internal team, not support for outside founders. The Sustainability-Linked Notes are financing terms, not a theme activity.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 23722,
+      "output_tokens": 2792,
+      "duration_ms": 28124
+    }
+  ]
+}

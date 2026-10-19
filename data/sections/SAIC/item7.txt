@@ -1,0 +1,575 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations, and quantitative and qualitative disclosures about market risk should be read in conjunction with our consolidated financial statements and the related notes included in this Form 10-K, as well as Part II, Item 7 "Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Form 10-K for the year ended January 31, 2025, which provides additional information on comparisons of fiscal 2025 and 2024. It contains forward-looking statements (which may be identified by words such as those described in “Risk Factors—Forward-Looking Statement Risks” in Part I, Item 1A of this report), including statements regarding our intent, belief, or current expectations with respect to, among other things, trends affecting our financial condition or results of operations; backlog; our industry; government budgets and spending; market opportunities; the impact of competition; and the impact of acquisitions and divestitures. Such statements are not guarantees of future performance and involve risks and uncertainties, and actual results may differ materially from those in the forward-looking statements as a result of various factors. Risks, uncertainties and assumptions that could cause or contribute to these differences include those discussed below and elsewhere in this report, particularly in “Risk Factors” in Part I, Item 1A of this report. Due to such risks, uncertainties and assumptions, you are cautioned not to place undue reliance on such forward-looking statements, which speak only as of the date hereof. We do not undertake any obligation to update these factors or to publicly announce the results of any changes to our forward-looking statements due to future results or developments.
+
+We use the terms "SAIC," the “Company,” “we,” “us” and “our” to refer to Science Applications International Corporation and its consolidated subsidiaries.
+
+We utilize a 52/53 week fiscal year ending on the Friday closest to January 31, with fiscal quarters typically consisting of 13 weeks. Fiscal 2026 began on February 1, 2025 and ended on January 30, 2026, fiscal 2025 began on February 3, 2024 and ended on January 31, 2025, and fiscal 2024 began on February 4, 2023 and ended on February 2, 2024.
+
+Business Overview
+
+We are a leading technology integrator providing full life cycle services and solutions in the technical, engineering and mission and enterprise information technology ("IT") markets. We developed our brand by addressing our customers’ mission critical needs and solving their most complex problems for over 50 years. As one of the largest pure-play technology service providers to the U.S. government, we serve markets of significant scale and opportunity. Our primary customers are the departments and agencies of the U.S. government. We serve our customers through approximately 1,700 active contracts and task orders and employ approximately 23,000 individuals who are led by an experienced executive team of proven industry leaders. Our long history of serving the U.S. government has afforded us the ability to develop strong and longstanding relationships with some of the largest customers in the markets we serve. Substantially all of our revenues and tangible long-lived assets are generated and located in the United States.
+
+Effective February 3, 2024, the first day of fiscal 2025, we completed a business reorganization which replaced our previous two operating sectors with five customer facing business groups supported by the enterprise organizations, including the Innovation Factory. The five business groups, which are also our operating segments, are aggregated into two reportable segments for financial reporting purposes given the similarity in economic and qualitative characteristics, and based on the nature of the customers they serve. Our two reportable segments are the Defense and Intelligence segment and the Civilian segment.
+
+The Defense and Intelligence segment provides a diverse portfolio of national security solutions to the DoW and the Intelligence Community of the United States Government.
+
+The Civilian segment provides solutions to the civilian markets, encompassing federal, state, and local governments, in order to deliver services for citizen well-being, border security, and protecting lives. This includes integrating solutions into a spectrum of public service missions that impact travel, trade, health and the economy.
+
+The offerings of both reportable segments entail the integration of emerging technologies into mission critical operations that modernize and enable national imperatives, including IT modernization, digital engineering, artificial intelligence ("AI"), mission systems support and advisory, training and simulation, and ground vehicles support. These services include end-to-end solutions spanning the design, development, integration, deployment, management and operations, sustainment and security of the customers’ entire IT infrastructure.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+Our Innovation Factory supports the operating segments by developing enterprise-class solutions which are delivered to our customers as stand-alone solutions or integrated with and aligned to our product offerings through the operations of the business to meet complex customer needs and accelerate digital transformation. The Innovation Factory includes designated teams focused on AI, application development, network services, platforms and cloud, engineering, and cybersecurity. It uses a highly automated, cloud-hosted tool set to rapidly build, test and deploy solutions and works with customers to enhance solutions going forward.
+
+Costs associated with corporate functions that are not allocable to the reportable segments are presented as Corporate. See Note 16—Business Segments Information to the consolidated financial statements contained within this report for additional information.
+
+Effective January 31, 2026, the first day of fiscal 2027, we completed a business reorganization that consolidated our five business groups into three. The reorganization is designed to simplify our structure and optimize operations and customer focus for growth. The consolidated business groups will continue to report directly to our Chief Executive Officer (“CEO”) who will continue to be the chief operating decision maker (“CODM”). We do not expect the reorganization to have an impact on our reportable segments.
+
+Economic Opportunities, Challenges, and Risks
+
+In fiscal 2026, we generated 98% of our revenues from contracts with the U.S. government, including subcontracts on which we perform. Our business performance is affected by the overall level of U.S. government spending and the alignment of our offerings and capabilities with the budget priorities of the U.S. government. In March 2025, the President signed a continuing resolution ("CR") that extends government funding through the close of government fiscal year ("GFY") 2025. The measure provides budget certainty for agencies through September 30, 2025. The CR also provides flexibility for new starts on programs at the DoW, which are typically not allowed under CRs.
+
+In July 2025, Congress passed a budget reconciliation package that will add approximately $150 billion in new non-border defense spending, and $175 billion in new border security and enforcement spending, among other provisions. This funding is available to agencies immediately, and can be used through GFY 2029. Portions of this new funding will increase spending in areas addressable to us, including new investments in Naval operations and border surveillance. The measure also extended and expanded key tax provisions that will positively impact our Company.
+
+On October 1, 2025, the federal government shut down following the expiration of the March 2025 CR. On November 12, 2025, the President signed a spending agreement that officially reopened the government after 43 days. The agreement includes three full-year appropriations bills, including the Agriculture-FDA, Military Construction-Veterans Affairs, and Legislative Branch packages.
+
+In February 2026, the President signed an appropriations package that finalized full-year funding for most government agencies. All agencies and functions funded by those bills will now be covered in full through September 30, 2026, the close of GFY 2026. The Department of Homeland Security is currently the only remaining agency with a delay in approved appropriations for GFY 2026 and is currently shut down. If the shutdown continues for an extended period of time, it could have an adverse impact on our financial outlook.
+
+As part of the budget reconciliation package signed into law in July 2025, the federal debt limit was increased by $5 trillion. This is expected to extend protection from a potential government default until at least the end of calendar year 2026.
+
+The U.S. government administration has put in place a number of executive orders and actions which could affect our business. In addition, the U.S government performs an ongoing evaluation of the structure and priorities of Federal agencies. Agencies are conducting comprehensive reviews of existing and new contracting activity to identify potential efficiencies or nonalignment with new Administration priorities. Our contracts have been, and will continue to be, subject to these reviews. We have not experienced a material financial statement impact from recent executive orders or program cancellations across the government. However, ongoing reductions in personnel, changes in agency alignment, required reviews of new contracting activity, decreases or delays in new or existing contract awards and in government spending on the types of programs that we support, and terminations or stop-work-orders and delay in funding on government contracts on which we are currently performing could adversely affect our future revenues, cash flows and profitability.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+Adverse changes in fiscal and economic conditions could materially impact our business. Some changes that could have an adverse impact on our business include the implementation of future spending reductions (including sequestration), delayed passage of appropriations bills resulting in temporary or full-year continuing resolutions, inflationary increases adversely impacting fixed-price contracts, and potential government shutdowns.
+
+Spending packages, including the infrastructure bill, Inflation Reduction Act, and CHIPS and Science Act, as well as future potential spending packages, may provide additional opportunity in areas of SAIC focus such as digital modernization, cyber, microelectronics support, and climate resiliency.
+
+The U.S. government has increasingly relied on contracts that are subject to a competitive bidding process (including indefinite delivery, indefinite quantity ("IDIQ"), U.S. General Services Administration ("GSA") schedules, and other multi-award contracts), which has resulted in greater competition and increased pricing pressure. Additionally, the U.S. government has put renewed emphasis on increasing the number of small business prime set aside contracts that further reduce the addressable market in some areas.
+
+Despite the budget and competitive pressures affecting the industry, we believe we are well-positioned to protect and expand existing customer relationships and benefit from opportunities that we have not previously pursued. Our scale, size, and prime contractor leadership position are expected to help differentiate us from our competitors, especially on large contract opportunities. We believe our long-term, trusted customer relationships and deep technical expertise provide us with the sophistication to handle highly complex, mission-critical contracts. Our value proposition is found in the proven ability to serve as a trusted adviser to our customers. In doing so, we leverage our expertise and scale to help them execute their mission.
+
+We succeed as a business based on the solutions we deliver, our past performance, and our ability to compete on price. Our solutions are inspired through innovation based on adoption of best practices and technology integration of the best capabilities available. Our Innovation Factory develops superior enterprise-class solutions which are delivered to our customers as stand-alone solutions or integrated with and aligned to our product offerings to meet complex customer needs and accelerate digital transformation. Our past performance was achieved by employees dedicated to supporting our customers' most challenging missions. Our current cost structure and ongoing efforts to reduce costs by strategic sourcing and developing repeatable offerings sold "as a service" and as managed services in a more commercial business model are expected to allow us to compete effectively on price in an evolving environment. Our ability to be competitive in the future will continue to be driven by our reputation for successful program execution, competitive cost structure, development of new pricing and business models, and efficiencies in assigning the right people, at the right time, in support of our contracts.
+
+On October 15, 2025, we acquired SilverEdge Government Solutions ("SilverEdge"), an innovative provider of mission-driven technology solutions and products. The acquisition advances our strategy to provide mission focused solutions and commercial products to our customers. See Note 4—Acquisitions and Divestitures to the consolidated financial statements contained within this report for additional information.
+
+On May 6, 2023, SAIC closed the sale of its logistics and supply chain management business ("Supply Chain Business") to ASRC Federal Holding Company, LLC ("ASRC Federal"). The sale enables us to focus its resources on long-term strategic growth areas.
+
+On February 4, 2023, we sold 0.1% of our 50.1% majority ownership interest in Forfeiture Support Associates J.V. ("FSA") to its sole joint venture partner for a nominal amount. As a result of the sale and amendment to the joint venture operating agreement of FSA, we no longer control the joint venture and accounts for its retained interest as an equity method investment as of the date of the transaction.
+
+See “Risk Factors” in Part I, Item 1A of this report for additional discussion of our industry and regulatory environment.
+
+Management of Operating Performance and Reporting
+
+Our business and program management process is directed by professionals focused on serving our customers by providing high quality services in achieving program requirements. These professionals carefully monitor contract margin performance by constantly evaluating contract risks and opportunities. Throughout each contract’s life cycle, program managers review performance and update contract performance estimates to reflect their understanding of the best information available.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+The primary financial measures used to evaluate our consolidated results of operations include revenues, operating income, adjusted operating income(1), adjusted EBITDA(1), and operating cash flows. Given that revenues fluctuate on our contract portfolio over time due to contract awards and completions, changes in customer requirements, and increases or decreases in ordering volume of materials, we evaluate significant trends and fluctuations resulting from these factors. Whether performed by our employees or by our subcontractors, we primarily provide services and, as a result, our cost of revenues are predominantly variable. We also analyze our cost mix (labor, subcontractor and materials) in order to understand operating margin because programs with a higher proportion of SAIC labor are generally more profitable. Changes in cost of revenues as a percentage of revenues other than from revenue volume or cost mix are normally driven by fluctuations in shared or corporate costs, or cumulative revenue adjustments due to changes in estimates.
+
+Changes in operating cash flows are described with regard to changes in cash generated through the provision of services, significant drivers of fluctuations in assets or liabilities and the impacts of changes in timing of cash receipts or disbursements.
+
+(1) Non-GAAP measure, see "Non-GAAP Measures" section below for additional information about this measure.
+
+Consolidated Results of Operations
+
+The following table summarizes our results of operations:
+
+Year Ended
+
+January 30, 2026 | Percent change | January 31, 2025 | Percent change | February 2, 2024
+
+(dollars in millions)
+
+Revenues | $ | 7,262 | (3) | % | $ | 7,479 | — | % | $ | 7,444
+
+Cost of revenues | 6,390 | (3) | % | 6,587 | — | % | 6,572
+
+As a percentage of revenues | 88.0 | % | 88.1 | % | 88.3 | %
+
+Selling, general and administrative expenses | 350 | 3 | % | 339 | (9) | % | 373
+
+(Gain) loss on divestitures, net of transaction costs
+— | — | % | — | (100) | % | (240)
+
+Other operating (income) expense
+1 | (110) | % | (10) | 400 | % | (2)
+
+Operating income | 521 | (7) | % | 563 | (24) | % | 741
+
+As a percentage of revenues | 7.2 | % | 7.5 | % | 10.0 | %
+
+Provision for income taxes
+(29) | (56) | % | (66) | (54) | % | (143)
+
+Net income | $ | 358 | (1) | % | $ | 362 | (24) | % | $ | 477
+
+Revenues. Revenues decreased $217 million from fiscal 2025 to fiscal 2026 primarily due to contract completions and ramp down in volume on existing contracts, including approximately $26 million attributable to the government shutdown, partially offset by new contracts. Revenues attributed to SilverEdge for the year ended January 30, 2026 were $27 million. Adjusting for the acquisition of SilverEdge, revenues contracted by approximately 3.3%.
+
+Cost of Revenues. Cost of revenues decreased $197 million from fiscal 2025 to fiscal 2026 primarily due to contract completions and ramp down in volume on existing contracts, partially offset by new contracts.
+
+Selling, General and Administrative Expenses. Selling, general and administrative expenses increased $11 million from fiscal 2025 to fiscal 2026 primarily due to executive transition costs, net of recoveries and costs related to the settlement of federal tax audits, partially offset by a recovery of costs from the settlement of a patent infringement matter (see Note 17—Legal Proceedings and Other Commitments and Contingencies for additional information).
+
+Operating Income. Operating income as a percentage of revenues decreased from fiscal 2025 to fiscal 2026 primarily due to executive transition costs, net of recoveries, the favorable resolution of the Assault Amphibious Vehicle ("AAV") contract termination in the prior year ($13 million), costs related to the settlement of federal tax audits, and timing and volume mix in our contract portfolio, partially offset by a recovery of costs from the settlement of a patent infringement matter.
+
+Income Taxes. Our effective income tax rate for fiscal 2026 was 7.5%, compared to 15.5% for fiscal 2025. This decrease was primarily driven by a $47 million tax benefit related to an IRS audit settlement, pending final
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+administrative approvals, covering fiscal years 2016 through 2019, and adjustments in liabilities for uncertain tax positions related to other open tax years.
+
+On July 4, 2025, the One Big Beautiful Bill Act (the “Act”) was enacted, introducing significant changes to U.S. corporate income tax laws. One key provision of the Act permanently reinstates the immediate expensing of U.S. research and development expenditures, resulting in a cash tax benefit in the current year. Based on our interpretation, the Act results in an increase to our income taxes receivable with an offsetting decrease to our deferred tax assets and an increase to our effective tax rate for the year. These impacts are reflected in our current period effective tax rate but may change as we await further interpretive guidance from the IRS.
+
+In December 2021, the Organisation for Economic Co-operation and Development (OECD) enacted a 15% global minimum tax framework (“Pillar Two”) which became effective in certain jurisdictions beginning in fiscal 2024. While U.S. adoption is uncertain, several countries where we operate have implemented it, and others are in the process of adopting. We do not anticipate Pillar Two to have a significant impact on our effective tax rate or our consolidated results of operations, financial position, and cash flows.
+
+Segment and Corporate Results
+
+The primary financial performance measures we use to manage our reportable segments and monitor results of operations are revenues and adjusted operating income. Adjusted operating income is calculated by taking operating income and excluding depreciation and amortization, acquisition, integration, restructuring, and impairment costs, and any other material non-recurring costs.
+
+The following tables summarize our results of operations by reportable segment:
+
+Defense and Intelligence
+Year Ended
+
+January 30, 2026 | Percent change | January 31, 2025 | Percent change | February 2, 2024
+
+(dollars in millions)
+
+Revenues | $ | 5,581 | (3) | % | $ | 5,726 | (2) | % | $ | 5,817
+
+Adjusted operating income
+$ | 478 | (6) | % | $ | 509 | 1 | % | $ | 504
+
+As a percentage of revenues | 8.6 | % | 8.9 | % | 8.7 | %
+
+Revenues. Revenues decreased $145 million from fiscal 2025 to fiscal 2026 primarily due to contract completions and ramp down in volume on existing contracts, partially offset by new contracts. Revenues attributed to SilverEdge for the year ended January 30, 2026 were $27 million.
+
+Adjusted operating income. Adjusted operating income as a percentage of revenues decreased from fiscal 2025 to fiscal 2026 primarily due to contract completions and ramp down in volume on existing contracts and the favorable resolution of the AAV contract termination in the prior year ($13 million), partially offset by new contracts.
+
+Civilian
+Year Ended
+
+January 30, 2026 | Percent change | January 31, 2025 | Percent change | February 2, 2024
+
+(dollars in millions)
+
+Revenues | $ | 1,681 | (4) | % | $ | 1,753 | 8 | % | $ | 1,627
+
+Adjusted operating income
+$ | 228 | 6 | % | $ | 216 | 5 | % | $ | 206
+
+As a percentage of revenues | 13.6 | % | 12.3 | % | 12.7 | %
+
+Revenues. Revenues decreased $72 million from fiscal 2025 to fiscal 2026 primarily due to ramp down in volume on existing contracts and contract completions, partially offset by new contracts.
+
+Adjusted operating income. Adjusted operating income as a percentage of revenues increased from fiscal 2025 to fiscal 2026 primarily due to improved profitability across the contract portfolio.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+Corporate
+Year Ended
+
+January 30, 2026 | Percent change | January 31, 2025 | Percent change | February 2, 2024
+
+(dollars in millions)
+
+Adjusted operating loss
+$ | (4) | (80) | % | $ | (20) | (61) | % | $ | (51)
+
+Adjusted operating loss. Adjusted operating loss decreased from fiscal 2025 to fiscal 2026 primarily due to recovery of costs from the settlement of a patent infringement matter and lower other selling, general and administrative expenses.
+
+Non-GAAP Measures
+
+Consolidated adjusted operating income, earnings before interest, taxes, depreciation and amortization ("EBITDA"), and adjusted EBITDA are non-GAAP financial measures. While we believe that these non-GAAP financial measures are also useful for management and investors in evaluating our financial information, they should be considered as supplemental in nature and not as a substitute for financial information prepared in accordance with GAAP. Reconciliations, definitions, and how we believe these measures are useful to management and investors are provided below. Other companies may define similar measures differently.
+
+Adjusted operating income. Adjusted operating income is a performance measure that primarily excludes the impact of non-recurring transactions and activities that we do not consider to be indicative of our ongoing operating performance. Adjusted operating income is calculated by taking operating income and excluding depreciation and amortization, acquisition, integration, restructuring, and impairment costs, and any other material non-recurring costs. Acquisition, integration, restructuring and impairment costs represent costs incurred related to acquisitions, reorganizations, facilities optimization efforts, and impairments of long-lived assets, along with associated depreciation. Recovery of acquisition, integration, restructuring and impairment costs represents costs recovered through our indirect rates in accordance with Cost Accounting Standards. Depreciation of property, plant, and equipment relates to property, plant, and equipment specifically identifiable for each segment and Corporate. Adjusted operating income also excludes amortization of intangible assets because we do not have a history of significant acquisition activity, and therefore consider acquisitions to be a non-recurring activity, and the amount of an acquisition's purchase price allocated to intangible assets and the related amortization term are unique to each acquisition. Executive transition costs, net of recoveries, represent costs associated with the departure of our CEO and other executives in the third quarter of the fiscal year 2026, net of the portion recovered through our indirect rates in accordance with Cost Accounting Standards. Costs related to the settlement of federal tax audits represent costs related to the IRS audit settlement for fiscal years 2016 through 2019. The (Gain) loss on divestitures, net of transaction costs includes gains associated with the deconsolidation of FSA and the sale of the Supply Chain Business.
+
+We believe that adjusted operating income provides management and investors with useful information in assessing trends in our ongoing operating performance and may provide greater visibility in understanding our long-term financial performance.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+Adjusted operating income for the periods presented were calculated as follows:
+
+Year Ended
+
+January 30, 2026 | January 31, 2025 | February 2, 2024
+
+(dollars in millions)
+
+Revenues | $ | 7,262 | $ | 7,479 | $ | 7,444
+
+Operating income
+$ | 521 | $ | 563 | $ | 741
+
+Operating income as a percentage of revenues | 7.2 | % | 7.5 | % | 10.0 | %
+
+Depreciation of property, plant, and equipment | 30 | 25 | 26
+
+Amortization of intangible assets | 119 | 115 | 115
+
+Acquisition, integration, restructuring and impairment costs | 16 | 6 | 24
+
+Depreciation included in restructuring and impairment costs | (1) | (1) | (1)
+
+Recovery of acquisition, integration, restructuring and impairment costs(1)
+(6) | (3) | (6)
+
+Executive transition costs, net of recoveries | 16 | — | —
+
+Costs related to the settlement of federal tax audits | 7 | — | —
+
+(Gain) loss on divestitures, net of transaction costs
+— | — | (240)
+
+Adjusted operating income
+$ | 702 | $ | 705 | $ | 659
+
+Adjusted operating income as a percentage of revenues
+9.7 | % | 9.4 | % | 8.9 | %
+
+(1) Adjustment reflects the portion of acquisition, integration, restructuring and impairment costs recovered through our indirect rates in accordance with U.S. government Cost Accounting Standards.
+
+EBITDA and Adjusted EBITDA. The performance measure EBITDA is calculated by taking net income and excluding interest and loss on sale of receivables, provision for income taxes, and depreciation and amortization. Adjusted EBITDA is a performance measure that excludes the impact of non-recurring transactions and activities that we do not consider to be indicative of our ongoing operating performance. Adjusted EBITDA is calculated by taking EBITDA and excluding acquisition, integration, restructuring and impairment costs, and any other material non-recurring costs. Acquisition, integration, restructuring and impairment costs represent costs incurred related to acquisitions, reorganizations, facilities optimization efforts, and impairments of long-lived assets, along with associated depreciation. Recovery of acquisition, integration, restructuring and impairment costs represents costs recovered through our indirect rates in accordance with Cost Accounting Standards. Executive transition costs, net of recoveries, represent costs associated with the departure of our CEO and other executives in the third quarter of the fiscal year 2026, net of the portion recovered through our indirect rates in accordance with Cost Accounting Standards. Costs related to the settlement of federal tax audits represent costs related to the IRS audit settlement for fiscal years 2016 through 2019. The (Gain) loss on divestitures, net of transaction costs includes gains associated with the deconsolidation of FSA and the sale of the Supply Chain Business.
+
+We believe that EBITDA and adjusted EBITDA provide management and investors with useful information in assessing trends in our ongoing operating performance and may provide greater visibility in understanding the long-term financial performance of our Company.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+EBITDA and adjusted EBITDA for the periods presented were calculated as follows:
+
+Year Ended
+
+January 30, 2026 | January 31, 2025 | February 2, 2024
+
+(dollars in millions)
+
+Revenues
+$ | 7,262 | $ | 7,479 | $ | 7,444
+
+Net income | $ | 358 | $ | 362 | $ | 477
+
+Interest expense, net and loss on sale of receivables
+140 | 140 | 129
+
+Provision for income taxes | 29 | 66 | 143
+
+Depreciation and amortization | 149 | 140 | 142
+
+EBITDA
+676 | 708 | 891
+
+EBITDA as a percentage of revenues | 9.3 | % | 9.5 | % | 12.0 | %
+
+Acquisition, integration, restructuring and impairment costs | 16 | 6 | 24
+
+Depreciation included in restructuring and impairment costs | (1) | (1) | (1)
+
+Recovery of acquisition, integration, restructuring and impairment costs(1)
+(6) | (3) | (6)
+
+Executive transition costs, net of recoveries | 16 | — | —
+
+Costs related to the settlement of federal tax audits | 7 | — | —
+
+(Gain) loss on divestitures, net of transaction costs
+— | — | (240)
+
+Adjusted EBITDA
+$ | 708 | $ | 710 | $ | 668
+
+Adjusted EBITDA as a percentage of revenues | 9.7 | % | 9.5 | % | 9.0 | %
+
+(1) Adjustment reflects the portion of acquisition, integration, restructuring and impairment costs recovered through our indirect rates in accordance with U.S. government Cost Accounting Standards.
+
+Adjusted operating income and adjusted EBITDA as a percentage of revenues increased from fiscal 2025 to fiscal 2026 primarily due to a recovery of costs from the settlement of a patent infringement matter and lower other selling, general and administrative expenses, partially offset by the favorable resolution of the AAV contract termination in the prior year ($13 million), and timing and volume mix in our contract portfolio.
+
+Other Key Performance Measures
+
+In addition to the financial measures described above, we believe that bookings and backlog are useful measures for management and investors to evaluate our potential future revenues. We also consider measures such as contract types and cost of revenues mix to be useful for management and investors to evaluate our operating income and performance.
+
+Net Bookings and Backlog. Net bookings represent the estimated amount of revenues to be earned in the future from funded and negotiated unfunded contract awards that were received during the period, net of adjustments to estimates on previously awarded contracts. We calculate net bookings as the period’s ending backlog plus the period’s revenues less the prior period’s ending backlog and initial backlog obtained through acquisitions.
+
+Backlog represents the estimated amount of future revenues to be recognized under negotiated contracts as work is performed. We do not include in backlog estimates of revenues to be derived from IDIQ contracts, but rather record backlog and bookings when task orders are awarded on these contracts. Given that much of our revenue is derived from IDIQ contract task orders that renew annually, bookings on these contracts tend to refresh annually as the task orders are renewed. Additionally, we do not include in backlog contract awards that are under protest until the protest is resolved in our favor.
+
+We segregate our backlog into two categories as follows:
+
+•Funded Backlog. Funded backlog for contracts with government agencies primarily represents estimated amounts of revenue to be earned in the future from contracts for which funding is appropriated less revenues previously recognized on these contracts. It does not include the unfunded portion of contracts in which funding is incrementally appropriated or authorized on a quarterly or annual basis by the U.S. government and other customers even though the contract may call for performance over a number of years. Funded backlog for contracts with non-government customers represents the estimated value on
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+contracts, which may cover multiple future years, under which we are obligated to perform, less revenues previously recognized on these contracts.
+
+•Negotiated Unfunded Backlog. Negotiated unfunded backlog represents estimated amounts of revenue to be earned in the future from negotiated contracts for which funding has not been appropriated or otherwise authorized and from unexercised priced contract options. Negotiated unfunded backlog does not include any estimate of future potential task orders expected to be awarded under IDIQ, GSA Schedules or other master agreement contract vehicles, with the exception of certain IDIQ contracts where task orders are not competitively awarded and separately priced but instead are used as a funding mechanism, and where there is a basis for estimating future revenues and funding on future anticipated task orders.
+
+We expect to recognize revenue from a substantial portion of our funded backlog within the next twelve months. However, the U.S. government can adjust the scope of services of or cancel contracts at any time. Similarly, certain contracts with commercial customers include provisions that allow the customer to cancel prior to contract completion. Most of our contracts have cancellation terms that would permit us to recover all or a portion of our incurred costs and fees (contract profit) for work performed.
+
+The estimated value of our total backlog as of the dates presented was:
+
+January 30, 2026 | January 31, 2025
+
+Defense and Intelligence
+
+Civilian
+
+Total SAIC
+
+Defense and Intelligence
+
+Civilian
+
+Total SAIC
+
+(in millions)
+
+Funded backlog | $ | 2,511 | $ | 1,061 | $ | 3,572 | $ | 2,599 | $ | 845 | $ | 3,444
+
+Negotiated unfunded backlog | 15,869 | 3,181 | 19,050 | 15,341 | 3,072 | 18,413
+
+Total backlog | $ | 18,380 | $ | 4,242 | $ | 22,622 | $ | 17,940 | $ | 3,917 | $ | 21,857
+
+We had net bookings worth an estimated $7.8 billion and $6.6 billion during fiscal 2026 and 2025, respectively.
+
+Contract Types. Our earnings and profitability may vary materially depending on changes in the proportionate amount of revenues derived from each type of contract. For a discussion of the types of contracts under which we generate revenues, see “Business—Contract Types” in Part I, Item 1 of this report. The following tables summarize revenues by contract type as a percentage of each reportable segment and total SAIC revenues for the periods presented:
+
+Year Ended January 30, 2026
+
+Defense and Intelligence
+
+Civilian
+
+Total SAIC
+
+Cost reimbursement | 79 | % | 3 | % | 62 | %
+
+Time and materials ("T&M")
+9 | % | 67 | % | 22 | %
+
+Firm-fixed price ("FFP")
+12 | % | 30 | % | 16 | %
+
+Total | 100 | % | 100 | % | 100 | %
+
+Year Ended January 31, 2025
+
+Defense and Intelligence | Civilian | Total SAIC
+
+Cost reimbursement | 79 | % | 5 | % | 62 | %
+
+Time and materials ("T&M")
+10 | % | 62 | % | 22 | %
+
+Firm-fixed price ("FFP")
+11 | % | 33 | % | 16 | %
+
+Total | 100 | % | 100 | % | 100 | %
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+Year Ended February 2, 2024
+
+Defense and Intelligence | Civilian | Total SAIC
+
+Cost reimbursement | 76 | % | 5 | % | 61 | %
+
+Time and materials ("T&M")
+9 | % | 60 | % | 20 | %
+
+Firm-fixed price ("FFP")
+15 | % | 35 | % | 19 | %
+
+Total | 100 | % | 100 | % | 100 | %
+
+Cost of Revenues Mix. We generate revenues by providing a customized mix of services to our customers. The profit generated from our service contracts is affected by the proportion of cost of revenues incurred from the efforts of our employees (which we refer to below as labor-related cost of revenues), the efforts of our subcontractors and the cost of materials used in the performance of our service obligations under our contracts. Contracts performed with a higher proportion of SAIC labor are generally more profitable. The following tables present cost mix as a percentage of each reportable segment and total SAIC revenues for the periods presented:
+
+Year Ended January 30, 2026
+
+Defense and Intelligence
+
+Civilian
+
+Total SAIC
+
+Labor-related cost of revenues(1)
+58 | % | 58 | % | 58 | %
+
+Subcontractor-related cost of revenues | 28 | % | 31 | % | 29 | %
+
+Other materials-related cost of revenues | 14 | % | 11 | % | 13 | %
+
+Total | 100 | % | 100 | % | 100 | %
+
+Year Ended January 31, 2025
+
+Defense and Intelligence | Civilian | Total SAIC
+
+Labor-related cost of revenues(1)
+56 | % | 56 | % | 56 | %
+
+Subcontractor-related cost of revenues | 29 | % | 30 | % | 29 | %
+
+Other materials-related cost of revenues | 15 | % | 14 | % | 15 | %
+
+Total | 100 | % | 100 | % | 100 | %
+
+Year Ended February 2, 2024
+
+Defense and Intelligence | Civilian | Total SAIC
+
+Labor-related cost of revenues(1)
+54 | % | 59 | % | 55 | %
+
+Subcontractor-related cost of revenues | 29 | % | 35 | % | 31 | %
+
+Supply chain materials-related cost of revenues | 3 | % | — | % | 2 | %
+
+Other materials-related cost of revenues | 14 | % | 6 | % | 12 | %
+
+Total | 100 | % | 100 | % | 100 | %
+
+(1) Labor-related cost of revenues includes direct labor on customer contracts, direct fringe, and other direct costs.
+
+Liquidity and Capital Resources
+
+As a services provider, our business currently requires minimal infrastructure investment. We expect to fund our ongoing working capital, commitments and any other discretionary investments with cash on hand, future operating cash flows and, if needed, borrowings under our $1.0 billion Revolving Credit Facility and $300 million Master Accounts Receivable Purchase Agreement ("MARPA Facility") (see Note 14—Sale of Receivables to the consolidated financial statements contained within this report for additional information).
+
+We anticipate that our future cash needs will be for working capital, capital expenditures, and contractual and other commitments. We consider various financial measures when we develop and update our capital deployment strategy, which include evaluating cash provided by operating activities, free cash flow and financial leverage.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+Our ability to fund these needs will depend, in part, on our ability to generate cash in the future, which depends on our future financial results. Our future results are subject to general economic, financial, competitive, legislative and regulatory factors that may be outside of our direct control. Although we believe that the financing arrangements in place will permit us to finance our operations on acceptable terms and conditions for at least the next year, our future access to, and the availability of financing on acceptable terms and conditions will be impacted by many factors (including our credit rating, capital market liquidity and overall economic conditions). Therefore, we cannot ensure that such financing will be available to us on acceptable terms or that such financing will be available at all. Nevertheless, we believe that our existing cash on hand, generation of future operating cash flows, and access to bank financing and capital markets will provide adequate resources to meet our short-term liquidity and long-term capital needs.
+
+Borrowings under our Term Loan Facilities and our Revolving Credit Facility ("Credit Facility") incur interest at a variable rate.
+
+During fiscal 2026, we issued unsecured senior notes through a private offering and amended our Credit Facility. See Note 11—Debt Obligations to the consolidated financial statements contained within this report for additional information.
+
+Our Credit Facility contains customary terms and conditions including financial covenants and covenants restricting our ability to merge or consolidate with another entity or undertake other fundamental changes, enter into property sale and leaseback transactions, and incur liens. Our dividends and share repurchases may be limited under certain leverage ratios, and we may be required to make an annual debt prepayment based on our cash flows from operating activities. See Note 11—Debt Obligations to the consolidated financial statements contained within this report for a more complete understanding of our Credit Facility.
+
+We currently maintain credit ratings from major U.S. rating agencies. Failure to maintain acceptable ratings could have an adverse effect on our future cost of capital and any significant increase in the level of our borrowings could negatively impact these ratings.
+
+We may repurchase shares in accordance with established repurchase plans. We retire our common stock upon repurchase with the excess over par value allocated to additional paid-in capital. When repurchases for the period exceed total additional-paid-in-capital, the excess repurchases are recorded as a reduction to retained earnings. We have not made any material purchases of common stock other than in connection with established share repurchase plans.
+
+During fiscal 2026, we repurchased approximately 4.0 million shares of our common stock from the open market under our existing share repurchase plan for approximately $422 million. In December 2024, our Board of Directors authorized the repurchase of up to $1.2 billion of our outstanding common stock under our existing share repurchase plan. As of January 30, 2026, we have repurchased approximately 28.5 million shares of our common stock under the plan for approximately $2.5 billion, which included amounts previously authorized under the plan prior to December 2024.
+
+The following table summarizes our principal contractual commitments as of January 30, 2026:
+
+Total
+Due in Fiscal 2027
+
+(in millions)
+
+Debt, including current portion
+$ | 2,501 | $ | 19
+
+Interest payments on debt(1)
+666 | 135
+
+Operating lease obligations | 277 | 33
+
+Estimated purchase obligations(2)
+72 | 50
+
+Other liabilities(3)
+90 | 21
+
+Total contractual obligations | $ | 3,606 | $ | 258
+
+(1)Amounts include an estimate of future variable interest payments on the Term Loan Facilities based on scheduled outstanding principal amounts, current applicable margin and projected 1-month and 3-month Term SOFR as of January 30, 2026.
+
+(2)Excludes purchase orders for services or products to be delivered pursuant to U.S. government contracts in which we have full recourse under normal contract termination clauses.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+(3)Other liabilities primarily consist of liabilities associated with deferred compensation plan obligations and liabilities for unrecognized tax benefits. Deferred compensation plan obligations due in fiscal 2027 are based on participants’ payment elections on retirement and estimated retirement ages. Liabilities for unrecognized tax benefits due in fiscal 2027 are based on the fiscal year in which the reversals of timing positions are likely to occur. This amount excludes estimated future minimum commitments related to our Defined Benefit Plans (see Note 9—Retirement Plans).
+
+See respective notes to the consolidated financial statements contained within this report for further information about our long-term debt (Note 11—Debt Obligations), lease payment obligations (Note 15—Operating Leases), liabilities for unrecognized tax benefits (Note 10—Income Taxes), and letters of credit and surety bonds (Note 17—Legal Proceedings and Other Commitments and Contingencies).
+
+Historical Cash Flow Trends
+
+The following table summarizes our cash flows:
+
+Year Ended
+
+January 30, 2026 | January 31, 2025 | February 2, 2024
+
+(in millions)
+
+Net cash provided by operating activities | $ | 609 | $ | 494 | $ | 396
+
+Net cash (used in) provided by investing activities
+(248) | (35) | 314
+
+Net cash used in financing activities | (235) | (498) | (725)
+
+Total increase (decrease) in cash, cash equivalents and restricted cash
+$ | 126 | $ | (39) | $ | (15)
+
+Cash Flows Provided by Operating Activities. Cash flows provided by operating activities were $609 million for fiscal 2026, which represented an increase of $115 million from fiscal 2025. The increase was primarily due to timing of customer collections, lower cash outflows from the usage of the MARPA Facility, lower cash taxes paid, net of tax refunds received in the current year, and other changes in working capital, partially offset by timing of vendor payments.
+
+Cash (Used in) Provided by Investing Activities. Cash used in investing activities increased by $213 million in fiscal 2026 compared to the prior year period primarily due to $203 million of cash paid in the current year for the acquisition of SilverEdge, net of cash acquired and proceeds from the sale of equity method investments in the prior year.
+
+Cash Used in Financing Activities. Cash used in financing activities decreased by $263 million in fiscal 2026 compared to the prior year period primarily due to higher proceeds from borrowings, net of principal payments and debt issuance costs, and a decrease in stock repurchases in the current year.
+
+Commitments and Contingencies
+
+We are subject to a number of reviews, investigations, claims, lawsuits and other uncertainties related to our business. For a discussion of these items, see Note 17—Legal Proceedings and Other Commitments and Contingencies to the consolidated financial statements contained within this report.
+
+Critical Accounting Policies and Estimates
+
+Our discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements, which are prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingencies, as well as the reported amounts of revenues, expenses, gains and losses during the reporting periods. Management evaluates these estimates and assumptions on an ongoing basis. Our estimates and assumptions have been prepared on the basis of the most current reasonably available information and, in some cases, are our basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Estimates and assumptions may change in the future as more current information is available.
+
+Management believes that our critical accounting policies and estimates are those that are both material to the presentation of our financial condition and results of operations and require management’s most difficult, subjective
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+and complex judgments. Typically, the circumstances that make these judgments difficult, subjective and complex have to do with making estimates about the effect of matters that are inherently uncertain. These policies are described below.
+
+Revenue Recognition. We generate our revenues primarily from long-term contracts in which we provide technical, engineering and mission and enterprise IT services directly for the U.S. government and as a subcontractor with other contractors engaged in work for the U.S. government. We evaluate the nature of the contract and the services provided when determining the accounting method utilized for each contract. We recognize a significant portion of our revenues using a cost input measure of progress that requires us to rely on the skill and expertise of our engineers, program managers and business management professionals in the many areas of cost estimation. These estimates of costs can span several years and take into account many factors including the availability, productivity and cost of labor, potential delays in our performance and the level of future indirect cost allocations.
+
+Many of our contracts include forms of variable consideration such as reimbursable costs, award and incentive fees, usage-based pricing, service-level penalties, performance bonuses, and other provisions that can either increase or decrease the transaction price. Variable amounts are generally determined upon our achievement of certain performance metrics, program milestones or cost targets and may be based upon customer discretion. At contract inception, we estimate the transaction price and may include variable consideration in the transaction price only to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved. When developing these estimates, we consider the customer, contract terms, the complexity of the work and related risks, the extent of customer discretion, historical experience and the potential of a significant reversal of revenue.
+
+Changes in Estimates on Contracts. Changes in estimates of revenues, cost of revenues or profits related to performance obligations satisfied over time are recognized in operating income in the period in which such changes are made for the inception-to-date effect of the changes. Changes in these estimates can occur routinely over the performance period for a variety of reasons, which include: changes in scope; changes in cost estimates due to unanticipated cost growth or reassessments of risks impacting costs; changes in the estimated transaction price, such as variable amounts for incentive or award fees; and performance being better or worse than previously estimated.
+
+A significant portion of our contracts recognize revenue using a cost input measure (cost-to-cost), which requires estimates of total costs at completion. Estimating costs at completion is complex due to the nature of the services being performed and the length of certain contracts. Contract costs generally include direct costs, such as labor, subcontract costs and materials, and indirect costs identifiable with or allocable to a specific contract. Management must make assumptions regarding the complexity of the work to be performed, the schedule and associated tasks, labor productivity and availability, increases in wages and prices of materials, execution by our subcontractors, overhead cost rates, and other variables. For contracts using a cost input measure, when total expected contract costs exceed total estimated contract revenues, we recognize the total estimated loss in the quarter identified. Total estimated losses are inclusive of any unexercised options that are probable of award, only if they increase the amount of the loss. Aggregate net changes in contract estimates increased operating income by $1 million and $15 million for fiscal 2026 and 2025, respectively. Aggregate net changes in contract estimates were immaterial in fiscal 2024. For additional information related to changes in estimates on contracts, including gross favorable and unfavorable adjustments as well as the impact to earnings per share, see Note 3—Revenues to the consolidated financial statements contained within this report.
+
+Business Combinations. We record substantially all assets acquired and liabilities assumed in a business combination at fair value as of the acquisition date. The excess amount of the aggregated purchase consideration paid over the fair value of the net of assets acquired and liabilities assumed is recorded as goodwill.
+
+The fair values of assets acquired and liabilities assumed are determined using either an income, cost or market approach. Each of these valuation methods requires significant judgment, including analysis of historical performance and estimates of future performance. Estimates can be affected by contract performance and other factors that may cause final amounts to differ materially from original estimates.
+
+Under the income approach, fair value is based on the present value of future cash flows to be generated over the remaining economic life of an asset or liability being measured. This method includes estimates for projections of revenues and expenses, royalty rates, tax rates, contributory asset charges, discount rates, and tax amortization
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+benefits. Under the cost approach, fair value is measured by determining the replacement cost of an asset. Under the market approach, the fair value reflects the price and other relevant information of market transactions for comparable assets, liabilities or groups of assets and liabilities. Valuation techniques consistent with the market approach often use market multiples derived from a set of comparables.
+
+The valuations are based on information that existed as of the acquisition date. During the measurement period that shall not exceed one year from the acquisition date, we may adjust provisional amounts recorded for assets acquired and liabilities assumed to reflect new information that we have subsequently obtained regarding facts and circumstances that existed as of the acquisition date.
+
+Goodwill and Intangible Assets. Goodwill is recorded as the difference between the aggregate consideration paid for an acquisition and the fair value of the assets acquired and liabilities assumed. Goodwill is not amortized, but rather tested for potential impairment annually at the beginning of the fourth quarter, or whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+
+The goodwill impairment test is performed at the reporting unit level. In our qualitative assessment, an evaluation is performed to determine whether it is more likely than not that an impairment exists based on qualitative factors. Qualitative factors include macroeconomic, industry and market conditions, cost factors, overall financial performance, relevant entity-specific events, factors affecting the reporting unit, and share price.
+
+We may additionally perform a quantitative assessment in which the estimated fair value of each reporting unit is compared to its respective carrying value including goodwill. If the fair value is less than the carrying value, the amount of impairment expense is equal to the difference between the reporting unit’s fair value and the reporting unit’s carrying value.
+
+Determining the fair value of each reporting unit involves judgment and the use of estimates and assumptions. We estimate the fair value of our reporting units using either a market approach, income approach, or a combination of both. When performing a quantitative assessment for our annual impairment analysis, we reconcile the aggregate fair value of all of our reporting units to our market capitalization as of the measurement date.
+
+Under the income approach, we estimate the fair value of a reporting unit using a multi-year discounted cash flow model that involves assumptions about projected future revenue growth, operating margins, income tax rates, capital expenditures, discount rate and terminal value. The discount rate is an estimate of the cost of capital that a market participant would expect for the respective reporting unit. The terminal value represents the present value in the last year of the projection period of all subsequent cash flows into perpetuity.
+
+Under the market approach, we estimate the fair value of a reporting unit based on multiples of earnings derived from observable market data of comparable public companies. We evaluate companies within our industry that have operations with observable and comparable economic characteristics and are similar in nature, scope and size to the reporting unit being compared. We analyze historical acquisitions in our industry to estimate a control premium that we incorporate into the fair value estimate of a reporting unit under the market approach.
+
+Determining the carrying value of each reporting unit requires judgment and involves the assignment of assets and liabilities to the reporting units based on a systematic and rational allocation methodology. Certain assets and liabilities may be specifically identified and assigned to a reporting unit based on the information contained within our financial systems; whereas, other assets and liabilities may be allocated using measurable relationships or other basis for allocation.
+
+As a result of the internal reorganization on February 3, 2024, we reallocated goodwill to the five new goodwill reporting units. We performed a goodwill impairment test immediately before and after the reorganization, both of which resulted in no impairment. For the goodwill impairment test immediately after the reorganization, we performed a quantitative assessment of our goodwill as of February 3, 2024 for the five new goodwill reporting units. We estimated the fair value of each reporting unit using a 50:50 weighting of fair values derived from an income approach and market approach.
+
+During the fourth quarter of fiscal 2026, we completed our annual goodwill impairment testing using a qualitative assessment and determined that it was more likely than not that an impairment did not exist and that a quantitative analysis was not necessary.
+
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+
+Intangible assets with finite lives are amortized using the method that best reflects how their economic benefits are utilized or, if a pattern of economic benefits cannot be reliably determined, on a straight-line basis over their estimated useful lives. Intangible assets with finite lives are assessed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+
+Income Taxes. Our income tax expense, deferred tax assets and liabilities, and liabilities for unrecognized tax benefits reflect our best estimate of current and future taxes to be paid and includes judgments related to matters for which ultimate resolution may not become known until the final resolution of an examination by taxing authorities or the statute of limitations lapses.
+
+We record net deferred tax assets to the extent we believe these assets will more likely than not be realized. In making this determination, we consider all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable income, tax planning strategies and recent operating results. If we were to determine that we would be able to realize our deferred income tax assets in the future in excess of their net recorded amount or would no longer be able to realize our deferred income tax assets in the future as currently recorded, we would make an adjustment to the valuation allowance, which would either decrease or increase, respectively, the provision for income taxes.
+
+Recently Issued But Not Yet Adopted Accounting Pronouncements
+
+For information on recently issued but not yet adopted accounting pronouncements, see Note 1—Business Overview and Summary of Significant Accounting Policies to the consolidated financial statements contained within this report.

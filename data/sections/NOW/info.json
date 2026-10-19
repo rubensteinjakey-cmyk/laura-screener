@@ -1,0 +1,43 @@
+{
+  "ticker": "NOW",
+  "accession_number": "0001373715-26-000007",
+  "filing_date": "2026-01-29",
+  "fiscal_year": 2025,
+  "full_text_words": 51827,
+  "sections": {
+    "item1": {
+      "words": 6899,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          6899,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8305,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8305,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 161,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 236
+    }
+  },
+  "notes": [],
+  "human_capital_words": 455,
+  "human_capital_found": true,
+  "people_paragraph_words": 1597
+}

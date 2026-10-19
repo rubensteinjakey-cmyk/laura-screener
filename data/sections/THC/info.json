@@ -1,0 +1,43 @@
+{
+  "ticker": "THC",
+  "accession_number": "0000070318-26-000012",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "full_text_words": 77478,
+  "sections": {
+    "item1": {
+      "words": 10928,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          10928,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 23028,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          23028,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 1299,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 24,
+      "paragraphs_total": 661
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1677,
+  "human_capital_found": true,
+  "people_paragraph_words": 2817
+}

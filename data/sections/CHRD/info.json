@@ -1,0 +1,43 @@
+{
+  "ticker": "CHRD",
+  "accession_number": "0001486159-26-000005",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "full_text_words": 81797,
+  "sections": {
+    "item1": {
+      "words": 13717,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          13717,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 10740,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          10740,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 422,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 263
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1216,
+  "human_capital_found": true,
+  "people_paragraph_words": 1869
+}
