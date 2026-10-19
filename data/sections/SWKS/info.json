@@ -1,0 +1,43 @@
+{
+  "ticker": "SWKS",
+  "accession_number": "0000004127-25-000085",
+  "filing_date": "2025-11-07",
+  "fiscal_year": 2025,
+  "full_text_words": 46995,
+  "sections": {
+    "item1": {
+      "words": 3992,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3992,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 4105,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          4105,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 130
+    }
+  },
+  "notes": [],
+  "human_capital_words": 236,
+  "human_capital_found": true,
+  "people_paragraph_words": 482
+}

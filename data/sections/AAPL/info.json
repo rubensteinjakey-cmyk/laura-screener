@@ -1,0 +1,43 @@
+{
+  "ticker": "AAPL",
+  "accession_number": "0000320193-25-000079",
+  "filing_date": "2025-10-31",
+  "fiscal_year": 2025,
+  "full_text_words": 31622,
+  "sections": {
+    "item1": {
+      "words": 2333,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          2333,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 2800,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          2800,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 142
+    }
+  },
+  "notes": [],
+  "human_capital_words": 324,
+  "human_capital_found": true,
+  "people_paragraph_words": 324
+}

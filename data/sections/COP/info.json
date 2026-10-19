@@ -1,0 +1,43 @@
+{
+  "ticker": "COP",
+  "accession_number": "0001163165-26-000009",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "full_text_words": 76463,
+  "sections": {
+    "item1": {
+      "words": 6076,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          6078
+        ]
+      }
+    },
+    "item7": {
+      "words": 17222,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          17222
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 25,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 649
+    }
+  },
+  "notes": [
+    "item1: removed 2 words starting at a Risk Factors heading"
+  ],
+  "human_capital_words": 911,
+  "human_capital_found": true,
+  "people_paragraph_words": 752
+}

@@ -1,0 +1,67 @@
+{
+  "ticker": "PLTR",
+  "company_name": "Palantir Technologies",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001321655-26-000011",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T12:59:10",
+  "prompt_chars": 56589,
+  "filing_chars": 36573,
+  "filing_words_sent": 5243,
+  "approx_prompt_tokens": 14147,
+  "ai": {
+    "evidence": [],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers data-integration, AI and software-delivery platforms only, with no creating or enabling of creative work ('design' refers to engineering and platform design)."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language, since the roughly 180-word human capital section names 'training' as an objective and mentions employee feedback surveys but describes no specific training, education or community program."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the human capital section discusses the workforce at enough length to judge, but it describes no inclusion practice, accessibility feature, multilingual service or community-connecting program, and having 28% of employees outside the U.S. is international operations, which does not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own innovation; there is no named service or program aimed at founders or small businesses."
+      }
+    },
+    "notes": "No evidence records qualified, so all scores rest on general language or the absence of activity. Traps excluded: 'intelligence community' and 'investment community' (Community); 'design' meaning engineering or platform design (Creativity); 'joint ventures' and 'innovation' (Entrepreneurship); 'smaller technology companies' mentioned only as competitors or channel partners (Entrepreneurship); users who 'collaborate' inside the platforms, which is a product feature rather than community collaboration. AIP bootcamps are a customer-acquisition tool that delivers workflows on customer data, so they fall under the 'educating customers as marketing' trap and were not counted for Community. The Developer Tier gives developers limited low-cost access to Foundry and AIP; it was considered for Entrepreneurship but is presented as a sales strategy to widen access and is not aimed at founders or small businesses, so the lower level was chosen. The Privacy and Civil Liberties Engineering team (publishing research, consulting with policymakers) and the AI governance 'bias mitigation' tooling are product and ethics features, not external education or inclusion programs. The human capital section is about 180 words, above the roughly 150-word threshold, and does not refer readers to a sustainability report, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. Computed total: 0 + 6 + 0 + 3 = 9/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"PLTR\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers data-integration, AI and software-delivery platforms only, with no creating or enabling of creative work ('design' refers to engineering and platform design).\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language, since the roughly 180-word human capital section names 'training' as an objective and mentions employee feedback surveys but describes no specific training, education or community program.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the human capital section discusses the workforce at enough length to judge, but it describes no inclusion practice, accessibility feature, multilingual service or community-connecting program, and having 28% of employees outside the U.S. is international operations, which does not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own innovation; there is no named service or program aimed at founders or small businesses.\"}},\"notes\":\"No evidence records qualified, so all scores rest on general language or the absence of activity. Traps excluded: 'intelligence community' and 'investment community' (Community); 'design' meaning engineering or platform design (Creativity); 'joint ventures' and 'innovation' (Entrepreneurship); 'smaller technology companies' mentioned only as competitors or channel partners (Entrepreneurship); users who 'collaborate' inside the platforms, which is a product feature rather than community collaboration. AIP bootcamps are a customer-acquisition tool that delivers workflows on customer data, so they fall under the 'educating customers as marketing' trap and were not counted for Community. The Developer Tier gives developers limited low-cost access to Foundry and AIP; it was considered for Entrepreneurship but is presented as a sales strategy to widen access and is not aimed at founders or small businesses, so the lower level was chosen. The Privacy and Civil Liberties Engineering team (publishing research, consulting with policymakers) and the AI governance 'bias mitigation' tooling are product and ethics features, not external education or inclusion programs. The human capital section is about 180 words, above the roughly 150-word threshold, and does not refer readers to a sustainability report, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. Computed total: 0 + 6 + 0 + 3 = 9/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 18416,
+      "output_tokens": 2910,
+      "duration_ms": 26819
+    }
+  ]
+}

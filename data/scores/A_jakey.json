@@ -1,0 +1,139 @@
+{
+  "ticker": "A",
+  "company_name": "Agilent Technologies",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001090872-25-000087",
+  "filing_date": "2025-12-22",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T12:58:42",
+  "prompt_chars": 97243,
+  "filing_chars": 77242,
+  "filing_words_sent": 10579,
+  "approx_prompt_tokens": 24310,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Leadership development and multi-format training for the company's own employees",
+        "quote": "Training at Agilent takes several forms: face-to-face classroom experiences, on-the-job learning, virtual classroom events and self-paced e-learning.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Paid volunteer time off for employees to do community service with charities",
+        "quote": "Our employees may take up to six days of paid time off each year for volunteer activities with charities and organizations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Community",
+        "status": "current",
+        "indicators": "thousands of volunteer hours; up to six days of paid time off each year",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current volunteering activity, reach described only loosely ('thousands of volunteer hours')"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee giving program supporting eligible non-profits, including arts and culture and education and literacy",
+        "quote": "We also support a giving program, which provides employees the opportunity to support a broad range of eligible non-profit organizations in their communities in the areas of health and human services, arts and culture, education and literacy, environment and conservation, and family and civic betterment.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Community",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current giving program, no dollars or participants disclosed"
+          },
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 1: arts and culture is only one listed eligible area; no specific arts activity or spending disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Paid educational and training services for customers on laboratory instruments and software",
+        "quote": "We offer a wide range of startup, operational, educational and compliance support services for our measurement and data handling systems.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Agilent CrossLab - Products and Applications > Services and Support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external training for customers, limited in reach and no figures disclosed"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: the business is scientific instruments, diagnostics and lab services with no creative activity, and the only mention is general language listing arts and culture as one eligible area of the employee giving program."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: specific current activities (employee training, paid volunteer time, a giving program and customer education services) with no named program, dollars or participant figures that would show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1 based only on general language (equal opportunity employer statement and valuing different perspectives); coverage is insufficient under condition 2 because the relevant People and Culture discussion is under about 150 words."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing fully describes the business and shows no service, program or customer group that enables founders or small businesses, and references to innovation and R&D are traps."
+      }
+    },
+    "notes": "Item 7 mention of 'education and compliance services' revenue describes the same customer training activity as E4 and is counted once. Item 7's 9 percent figure covers all services and other revenue, so it is not attributed to education. The Mission paragraph is a values statement and was not scored. 'Design', 'licensing' and 'innovative' appear only in engineering, IP or R&D senses (traps). The regional headcount split (Americas/Europe/Asia Pacific) and international manufacturing sites do not count for Cross-cultural. Remarketed instruments for budget-conscious customers do not qualify for any theme. 'Coverage of smaller accounts' by sales agents is not a small-business enabling service. Cross-cultural is marked insufficient, so the automated second look with a company sustainability report is triggered.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"A\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Leadership development and multi-format training for the company's own employees\",\"quote\":\"Training at Agilent takes several forms: face-to-face classroom experiences, on-the-job learning, virtual classroom events and self-paced e-learning.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Paid volunteer time off for employees to do community service with charities\",\"quote\":\"Our employees may take up to six days of paid time off each year for volunteer activities with charities and organizations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Community\",\"status\":\"current\",\"indicators\":\"thousands of volunteer hours; up to six days of paid time off each year\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current volunteering activity, reach described only loosely ('thousands of volunteer hours')\"}}},{\"id\":\"E3\",\"activity\":\"Employee giving program supporting eligible non-profits, including arts and culture and education and literacy\",\"quote\":\"We also support a giving program, which provides employees the opportunity to support a broad range of eligible non-profit organizations in their communities in the areas of health and human services, arts and culture, education and literacy, environment and conservation, and family and civic betterment.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Community\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current giving program, no dollars or participants disclosed\"},\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 1: arts and culture is only one listed eligible area; no specific arts activity or spending disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Paid educational and training services for customers on laboratory instruments and software\",\"quote\":\"We offer a wide range of startup, operational, educational and compliance support services for our measurement and data handling systems.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Agilent CrossLab - Products and Applications > Services and Support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external training for customers, limited in reach and no figures disclosed\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: the business is scientific instruments, diagnostics and lab services with no creative activity, and the only mention is general language listing arts and culture as one eligible area of the employee giving program.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: specific current activities (employee training, paid volunteer time, a giving program and customer education services) with no named program, dollars or participant figures that would show substantial reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1 based only on general language (equal opportunity employer statement and valuing different perspectives); coverage is insufficient under condition 2 because the relevant People and Culture discussion is under about 150 words.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing fully describes the business and shows no service, program or customer group that enables founders or small businesses, and references to innovation and R&D are traps.\"}},\"notes\":\"Item 7 mention of 'education and compliance services' revenue describes the same customer training activity as E4 and is counted once. Item 7's 9 percent figure covers all services and other revenue, so it is not attributed to education. The Mission paragraph is a values statement and was not scored. 'Design', 'licensing' and 'innovative' appear only in engineering, IP or R&D senses (traps). The regional headcount split (Americas/Europe/Asia Pacific) and international manufacturing sites do not count for Cross-cultural. Remarketed instruments for budget-conscious customers do not qualify for any theme. 'Coverage of smaller accounts' by sales agents is not a small-business enabling service. Cross-cultural is marked insufficient, so the automated second look with a company sustainability report is triggered.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 31333,
+      "output_tokens": 4430,
+      "duration_ms": 45064
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ticker": "APPF",
+  "accession_number": "0001433195-26-000011",
+  "filing_date": "2026-02-05",
+  "fiscal_year": 2025,
+  "full_text_words": 41926,
+  "sections": {
+    "item1": {
+      "words": 3968,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3968,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 5360,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          5360,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 195,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 175
+    }
+  },
+  "notes": [],
+  "human_capital_words": 680,
+  "human_capital_found": true,
+  "people_paragraph_words": 1126
+}

@@ -1,0 +1,1441 @@
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Our Operating and Non-GAAP Financial Measures
+
+Our discussion of results includes discussion of our ARR (Annual Run Rate) operating measure, non-GAAP financial measures, and disclosure of our results on a constant currency basis. ARR and our non-GAAP financial measures, including the reasons we use those measures, are described below in Operating and Non-GAAP Financial Measures. The methodology used to calculate constant currency disclosures is described in Results of Operations - Impact of Foreign Currency Exchange on Results of Operations. You should read those sections to understand our operating measure, non-GAAP financial measures, and constant currency disclosures.
+
+Executive Overview
+
+ARR grew 10% (8.5% constant currency) to $2.48 billion as of the end of FY'25 compared to FY’24.
+
+Cash provided by operating activities grew 16% to $868 million in FY'25 compared to FY'24. Free cash flow grew 16% to $857 million in FY'25 compared to FY'24. Our cash flow growth is attributable to resilient top-line growth due to our subscription business model and operational discipline. In FY'25, we made net debt repayments of $553 million and repurchased $300 million of our outstanding shares. We ended FY’25 with cash and cash equivalents of $184 million and gross debt of $1.20 billion, which debt carried an aggregate weighted average interest rate of 4.9%.
+
+Revenue grew 19% (18% constant currency) in FY'25 compared to FY'24. Under ASC 606, the timing of revenue recognition for on-premises subscription revenue can vary significantly, impacting reported revenue, operating margin, and earnings per share. FY'25 revenue growth reflects the higher total value and longer average duration of contracts that commenced in the current year. Operating margin grew by approximately 1030 basis points in FY'25 compared to FY'24, reflecting higher revenue as well as continued operating discipline. Diluted earnings per share grew 95% to $6.08 in FY'25 compared to FY'24, driven by revenue growth.
+
+On November 5, 2025, we entered into a definitive agreement with an affiliate of TPG, under which we agreed to sell our Kepware and ThingWorx businesses for total consideration of up to $725 million, if certain targets are achieved. We may receive up to $600 million upon closing of the transaction, which may be reduced by $35 million if certain growth targets are not achieved for a period between signing and closing, and further adjusted as set forth in the purchase agreement. We may receive up to $125 million of contingent consideration upon the sale of the business by TPG. The transaction is expected to close in the first half of calendar 2026. Our expected use of the net after-tax proceeds will follow our overall capital allocation strategy of returning excess cash to shareholders via share repurchases, while allowing for potential tuck-in acquisitions.
+
+Results of Operations
+
+The following table shows the measures that we consider the most significant indicators of our business performance. In addition to providing operating income, operating margin, diluted earnings per share and cash from operations as calculated under GAAP, we provide our ARR operating measure and non-GAAP operating income, non-GAAP operating margin, non-GAAP diluted earnings per share, and free cash flow for the reported periods. We also provide a view of our actual results on a constant currency basis. Our non-GAAP financial measures exclude the items described in Non-GAAP Financial Measures below. Investors should use our non-GAAP financial measures only in conjunction with our GAAP results.
+
+For discussion of our FY'24 results and comparison to our FY'23 results, refer to Management's Discussion and Analysis of Financial Conditions and Results of Operations in our Annual Report on Form 10-K for the year ended September 30, 2024.
+
+(Dollar amounts in millions, except per share data)
+
+Year ended September 30,
+
+Percent Change
+
+2025
+
+2024
+
+Actual
+
+Constant Currency(1)
+
+ARR
+
+$
+
+2,478.5
+
+$
+
+2,254.7
+
+%
+
+%
+
+Total recurring revenue(2)
+
+$
+
+2,600.5
+
+$
+
+2,134.0
+
+%
+
+%
+
+Perpetual license
+
+31.4
+
+32.2
+
+(3
+
+)%
+
+(3
+
+)%
+
+Professional services
+
+107.3
+
+132.2
+
+(19
+
+)%
+
+(19
+
+)%
+
+Total revenue
+
+2,739.2
+
+2,298.5
+
+%
+
+%
+
+Total cost of revenue
+
+445.0
+
+444.8
+
+%
+
+%
+
+Gross margin
+
+2,294.2
+
+1,853.7
+
+%
+
+%
+
+Operating expenses
+
+1,311.9
+
+1,265.6
+
+%
+
+%
+
+Operating income
+
+$
+
+982.4
+
+$
+
+588.1
+
+%
+
+%
+
+Non-GAAP operating income(1)
+
+$
+
+1,302.1
+
+$
+
+894.3
+
+%
+
+%
+
+Operating margin
+
+%
+
+%
+
+Non-GAAP operating margin(1)
+
+%
+
+%
+
+Diluted earnings per share(3)
+
+$
+
+6.08
+
+$
+
+3.12
+
+Non-GAAP diluted earnings per share(1)(3)
+
+$
+
+7.94
+
+$
+
+5.08
+
+Cash provided by operating activities
+
+$
+
+867.7
+
+$
+
+750.0
+
+Capital expenditures
+
+(11.0
+
+)
+
+(14.4
+
+)
+
+Free cash flow
+
+$
+
+856.7
+
+$
+
+735.6
+
+(1)
+See Operating and Non-GAAP Financial Measures below for a reconciliation of our GAAP results to our non-GAAP financial measures and Impact of Foreign Currency Exchange on Results of Operations below for a description of how we calculate our results on a constant currency basis.
+
+(2)
+Recurring revenue is comprised of on-premises subscription, perpetual support, SaaS, and hosting services revenue.
+
+(3)
+This amount differs from our Q4'25 earnings release due to an immaterial adjustment related to foreign currency option contracts entered into in Q4'25 resulting in a $7.0 million decrease in Net income and a $0.06 decrease in GAAP and non-GAAP Diluted earnings per share.
+
+Impact of Foreign Currency Exchange on Results of Operations
+
+Approximately 50% of our revenue and 35% of our expenses are transacted in currencies other than the U.S. Dollar. Because we report our results of operations in U.S. Dollars, currency translation, particularly changes in the Euro, Yen, Shekel, and Rupee relative to the U.S. Dollar, affects our reported results. Changes in foreign currency exchange rates were a slight tailwind to reported income statement results compared to constant currency results in FY’25. ARR was positively impacted by more favorable currency exchange rates, particularly the Euro to U.S. Dollar exchange rate, as of September 30, 2025 compared to September 30, 2024.
+
+The results of operations in the table above, and the tables and discussions below about revenue by line of business and product group present both actual percentage changes year over year and percentage changes on a constant currency basis. Our constant currency disclosures are calculated by multiplying the results in local currency for FY'25 and FY'24 by the exchange rates in effect on September 30, 2024. If FY'25 reported results were converted into U.S. Dollars using the rates in effect as of September 30, 2024, ARR would have been lower by $33 million, revenue would have been higher by $21 million, and expenses would have been higher by $9 million. If FY'24 reported results were converted into U.S. Dollars using the rates in effect as of September 30, 2024, ARR would have been the same, revenue would have been higher by $34 million, and expenses would have been higher by $14 million.
+
+Revenue
+
+Under ASC 606, the volume, mix, and duration of contract types (support, SaaS, on-premises subscription) starting or renewing in any given period can have a material impact on revenue in the period, and as a result can impact the comparability of reported revenue period over period. We recognize revenue for the license portion of on-premises subscription contracts up front when we deliver the licenses to the customer, typically on the start date, and we recognize revenue on the support portion of on-premises subscription contracts and stand-alone support contracts ratably over the term. We continue to convert existing support contracts to on-premises subscriptions, resulting in a shift to up-front recognition of on-premises subscription license revenue in the period converted compared to ratable recognition for a perpetual support contract. Revenue from our cloud services (primarily SaaS) contracts is recognized ratably. We expect that over time a higher portion of our revenue will be recognized ratably as we expand our SaaS offerings, release additional cloud functionality into our products, and migrate customers from on-premises subscriptions to SaaS. Given the different mix, duration and volume of new and renewing contracts in any period, year-over-year or sequential revenue can vary significantly.
+
+Revenue by Line of Business
+
+(Dollar amounts in millions)
+
+Year ended September 30,
+
+Percent Change
+
+2025
+
+2024
+
+Actual
+
+Constant Currency
+
+License(1)
+
+$
+
+1,162.7
+
+$
+
+806.9
+
+%
+
+%
+
+Support and cloud services(2)
+
+1,469.2
+
+1,359.4
+
+%
+
+%
+
+Software revenue
+
+2,631.9
+
+2,166.2
+
+%
+
+%
+
+Professional services
+
+107.3
+
+132.2
+
+(19
+
+)%
+
+(19
+
+)%
+
+Total revenue
+
+$
+
+2,739.2
+
+$
+
+2,298.5
+
+%
+
+%
+
+(1)
+Includes perpetual licenses and the license portion of on-premises subscription sales.
+
+(2)
+Includes support on perpetual licenses, the support portion of on-premises subscription sales, SaaS, and hosting services.
+
+Software revenue growth in FY'25 was driven by license revenue growth, which reflects the higher total value and notably longer average duration of contracts commencing in the current year. These large contracts with longer durations additionally drove a $179 million (89%) year-over-year increase in long-term receivables and a $601 million (27%) year-over-year increase in Remaining Performance Obligations (RPO).
+
+Support and cloud services revenue growth in FY'25 was mainly driven by growth in PLM.
+
+Professional services revenue decreased in FY'25 as we continue to execute on our strategy of leveraging partners to deliver services rather than contracting to deliver services ourselves.
+
+Software Revenue by Product Group
+
+(Dollar amounts in millions)
+
+Year ended September 30,
+
+Percent Change
+
+2025
+
+2024
+
+Actual
+
+Constant Currency
+
+PLM
+
+$
+
+1,639.0
+
+$
+
+1,333.4
+
+%
+
+%
+
+CAD
+
+992.9
+
+832.8
+
+%
+
+%
+
+Software revenue
+
+$
+
+2,631.9
+
+$
+
+2,166.2
+
+%
+
+%
+
+PLM software revenue growth in FY'25 was driven by the higher total value and longer average duration of contracts commencing in the period. PLM software revenue grew across all geographic regions, primarily driven by Windchill.
+
+PLM ARR grew 10% (8% constant currency) from September 30, 2024 to September 30, 2025, primarily driven by Windchill and Codebeamer.
+
+CAD software revenue growth in FY'25 was driven by the higher total value and longer average duration of contracts commencing in the period. CAD software revenue grew across all geographic regions, primarily driven by Creo.
+
+CAD ARR grew 10% (9% constant currency) from September 30, 2024 to September 30, 2025, primarily driven by Creo.
+
+Gross Margin
+
+(Dollar amounts in millions)
+
+Year ended September 30,
+
+2025
+
+2024
+
+Percent Change
+
+License gross margin
+
+$
+
+1,115.8
+
+$
+
+760.0
+
+%
+
+License gross margin percentage
+
+%
+
+%
+
+Support and cloud services gross margin
+
+$
+
+1,177.4
+
+$
+
+1,084.8
+
+%
+
+Support and cloud services gross margin percentage
+
+%
+
+%
+
+Professional services gross margin
+
+$
+
+1.1
+
+$
+
+8.9
+
+(88
+
+)%
+
+Professional services gross margin percentage
+
+%
+
+%
+
+Total gross margin
+
+$
+
+2,294.2
+
+$
+
+1,853.7
+
+%
+
+Total gross margin percentage
+
+%
+
+%
+
+Non-GAAP gross margin(1)
+
+$
+
+2,349.8
+
+$
+
+1,913.6
+
+%
+
+Non-GAAP gross margin percentage(1)
+
+%
+
+%
+
+(1)
+Non-GAAP financial measures are reconciled to GAAP results under Non-GAAP Financial Measures below.
+
+License gross margin grew at a higher rate than license revenue in FY'25 due mainly to license revenue growth. Total cost of license revenue in FY'25 remained consistent with FY'24, with lower intangible amortization expense offsetting growth in other areas.
+
+Support and cloud services gross margin growth in FY'25 was in line with support and cloud services revenue growth. Cost of support and cloud services grew 6% in FY'25, primarily due to increasing compensation-related costs and cloud and software subscription-related costs as the business grows.
+
+Professional services gross margin decreased in FY’25 compared to FY’24, primarily driven by a sharper decrease in professional services revenue than in professional services expense. The decreases in professional services revenue and costs are due to our continued execution on our strategy of leveraging partners to deliver services rather than contracting to deliver services ourselves.
+
+Operating Expenses
+
+(Dollar amounts in millions)
+
+Year ended September 30,
+
+2025
+
+2024
+
+Percent Change
+
+Sales and marketing
+
+$
+
+566.5
+
+$
+
+559.0
+
+%
+
+% of total revenue
+
+%
+
+%
+
+Research and development
+
+457.7
+
+433.0
+
+%
+
+% of total revenue
+
+%
+
+%
+
+General and administrative
+
+226.1
+
+232.4
+
+(3
+
+)%
+
+% of total revenue
+
+%
+
+%
+
+Amortization of acquired intangible assets
+
+45.9
+
+42.0
+
+%
+
+% of total revenue
+
+%
+
+%
+
+Impairment and other charges (credits), net
+
+15.6
+
+(0.8
+
+)
+
+2,050
+
+%
+
+% of total revenue
+
+%
+
+%
+
+Total operating expenses
+
+$
+
+1,311.9
+
+$
+
+1,265.6
+
+%
+
+Total headcount increased by 2% between September 30, 2024 and September 30, 2025.
+
+Operating expenses in FY'25 compared to FY'24 increased primarily due to the following:
+
+•
+a $19 million (2%) increase in total compensation expense (including stock-based compensation), driven by a $17 million increase in severance costs primarily related to our go-to-market realignment (which is mainly included in Sales and marketing) and headcount growth, offset by lower compensation charges in General and administrative due to our FY'24 chief executive officer succession;
+
+•
+$16 million impairment charges recognized in Q2'25 and Q4'25 related to the lease assets associated with the subleased portion of our Boston office; and
+
+•
+a $6 million increase in acquisition and transaction-related costs.
+
+Interest Expense
+
+(Dollar amounts in millions)
+
+Year ended September 30,
+
+2025
+
+2024
+
+Percent Change
+
+Interest expense
+
+$
+
+(77.0
+
+)
+
+$
+
+(119.7
+
+)
+
+(36
+
+)%
+
+Interest expense includes interest on our revolving credit facility, term loan, senior notes that were redeemed in Q2'25, and senior notes due in 2028. The decrease in interest expense was driven by lower debt balances and lower interest rates.
+
+Other Income
+
+(Dollar amounts in millions)
+
+Year ended September 30,
+
+2025
+
+2024
+
+Percent Change
+
+Interest income
+
+$
+
+3.4
+
+$
+
+4.4
+
+(22
+
+)%
+
+Other income (expense), net
+
+11.4
+
+(3.8
+
+)
+
+%
+
+Other income, net
+
+$
+
+14.8
+
+$
+
+0.6
+
+2,578
+
+%
+
+Other income, net increased in FY'25 compared to FY'24, primarily driven by a $13 million contingent consideration earnout recognized in Q4'25 related to the sale of a portion of our PLM services business in FY'22. An immaterial adjustment related to foreign currency option contracts entered into in Q4'25 resulted in a $9.3 million decrease in Other income, net compared to amounts from our Q4'25 earnings release.
+
+Income Taxes
+
+(Dollar amounts in millions)
+
+Year ended September 30,
+
+2025
+
+2024
+
+Percent Change
+
+Income before income taxes
+
+$
+
+920.2
+
+$
+
+469.0
+
+%
+
+Provision for income taxes
+
+$
+
+186.2
+
+$
+
+92.6
+
+%
+
+Effective income tax rate
+
+%
+
+%
+
+An immaterial adjustment related to foreign currency option contracts entered into in Q4'25 resulted in a $2.3 million decrease to Provision for income taxes compared to amounts from our Q4’25 earnings release.
+
+Our effective tax rates for FY'25 and FY'24 were impacted by a number of offsetting items as outlined below, as well as by the year-over-year increase in Income before income taxes, which was primarily domestic; however, there was ultimately no net change in the effective tax rate year-over-year. In FY'25 and FY'24, our income tax rate included the effects of Internal Revenue Service (IRS) procedural guidance requiring consent for previously automatic changes of accounting method. The IRS procedural guidance change significantly increased our estimated taxable income in FY'24, with a lesser impact to taxable income in FY'25. In FY'25, we recorded tax expense of $11 million primarily related to accrued interest stemming from the effects of the procedural guidance. In FY'24, we recorded a benefit of $4 million primarily related to an increase to the estimated tax benefit for the deductions associated with Global Intangible Low-Taxed Income ("GILTI") and Foreign-Derived Intangible Income ("FDII").
+
+Additionally, in FY'25, we recorded tax benefits of $11 million related to tax reserves in foreign jurisdictions.
+
+In FY'24, the rate was impacted by a U.S. Tax Court ruling in Varian Medical Systems, Inc. v. Commissioner, issued on August 26, 2024. The ruling related to the U.S. taxation of deemed foreign dividends in the transition year of the Tax Act (our fiscal 2018). As a result, we recorded a $14 million benefit for additional foreign tax credits that became available to us. These benefits were offset by a tax expense of $5 million related to a tax reserve in a foreign jurisdiction.
+
+In FY'24, we requested consent from the IRS to change the accounting method for the treatment of certain deductions. In accordance with GAAP, our financial statements reflect the fact that as of September 30, 2025 we had not received the consent. Accordingly, we have included an unrecognized tax benefit of $109 million within Other liabilities on the Consolidated Balance Sheets. We received this consent in October 2025. Consequently, in Q1'26 we will release the reserve, primarily resulting in a decrease to Deferred tax assets.
+
+In the normal course of business, PTC and its subsidiaries are examined by various taxing authorities, including the IRS in the U.S. We regularly assess the likelihood of additional assessments by tax authorities and provide for these matters as appropriate. We are currently under audit by tax authorities in several jurisdictions. Audits by tax authorities typically involve examination of the deductibility of certain permanent items, transfer pricing, limitations on net operating losses, and tax credits.
+
+On July 4, 2025, the “One Big Beautiful Bill Act” (the “Act”) was enacted into law. The Act includes changes to U.S. tax law that will be applicable to us beginning in FY'26. These changes include provisions allowing accelerated tax deductions for qualified property and research expenditures. There is no material impact to our financial statements for FY'25. We are in the process of evaluating the prospective impact of the Act to our consolidated financial statements and cash flow, but currently expect such changes will have a material positive cash impact in FY'26 and FY'27, which is reflected in our guidance. As our review is not yet complete, our expectations could change.
+
+Liquidity and Capital Resources
+
+(in millions)
+
+September 30,
+
+2025
+
+2024
+
+Cash and cash equivalents
+
+$
+
+184.4
+
+$
+
+265.8
+
+Restricted cash
+
+0.6
+
+0.7
+
+Total
+
+$
+
+185.0
+
+$
+
+266.5
+
+(in millions)
+
+Year ended September 30,
+
+2025
+
+2024
+
+Net cash provided by operating activities
+
+$
+
+867.7
+
+$
+
+750.0
+
+Net cash used in investing activities
+
+$
+
+(38.3
+
+)
+
+$
+
+(124.8
+
+)
+
+Net cash used in financing activities
+
+$
+
+(908.5
+
+)
+
+$
+
+(650.7
+
+)
+
+Cash, Cash Equivalents and Restricted Cash
+
+We invest our cash with highly rated financial institutions. Cash and cash equivalents include highly liquid investments with original maturities of three months or less.
+
+Due to the stability of our subscription model and consistency of annual, up-front billing, we aim to maintain a low cash balance. A significant portion of our cash is generated and held outside the U.S. As of September 30, 2025, we had cash and cash equivalents of $18 million in the U.S., $87 million in Europe, $63 million in Asia Pacific (including India), and $16 million in other countries. We have substantial cash requirements in the U.S. but believe that the combination of our existing U.S. cash and cash equivalents, cash available under our revolving credit facility, future U.S. operating cash inflows, and our ability to repatriate cash to the U.S. will be sufficient to meet our ongoing U.S. operating expenses and known capital requirements.
+
+Cash Provided by Operating Activities
+
+Cash provided by operating activities increased by $118 million in FY'25 compared to FY'24. This increase was driven by higher collections, lower interest payments, and lower vendor disbursements, partially offset by higher tax payments and higher severance payments. Interest payments were $59 million lower in FY'25 than in FY'24, driven by the Q1'24 payment of $30 million of imputed interest on a deferred acquisition payment associated with our FY'23 acquisition of ServiceMax, as well as lower interest payments in FY'25 due mainly to lower debt balances.
+
+Cash Used in Investing Activities
+
+Cash used in investing activities in FY'25 was driven by outflows from the settlement of net investment hedges. Cash used in investing activities in FY'24 was driven by the acquisition of pure-systems for $93 million.
+
+Cash Used in Financing Activities
+
+Cash used in financing activities in FY'25 included net payments of $553 million on our outstanding debt, including the redemption of our 2025 senior notes primarily using a draw on our credit facility, and the repurchase of $300 million of our common stock. Cash used in financing activities in FY'24 included $620 million paid to settle the ServiceMax deferred acquisition payment, partially offset by net borrowings of $46 million to fund that payment and the pure-systems acquisition. Payments of withholding taxes in connection with vesting of stock-based awards were lower in FY'25 compared to FY'24, primarily driven by the vesting of certain awards in connection with the chief executive officer succession in Q2'24.
+
+Outstanding Debt
+
+(in millions)
+
+September 30,
+
+2025
+
+2024
+
+4.000% Senior notes due 2028
+
+$
+
+500.0
+
+$
+
+500.0
+
+3.625% Senior notes due 2025
+
+—
+
+500.0
+
+Credit facility revolver line
+
+231.3
+
+262.0
+
+Credit facility term loan
+
+468.8
+
+490.6
+
+Total debt
+
+1,200.0
+
+1,752.6
+
+Unamortized debt issuance costs for the senior notes
+
+(2.6
+
+)
+
+(4.1
+
+)
+
+Total debt, net of issuance costs
+
+$
+
+1,197.4
+
+$
+
+1,748.6
+
+Undrawn under credit facility revolver
+
+$
+
+1,018.8
+
+$
+
+988.0
+
+Undrawn under credit facility revolver available to borrow
+
+$
+
+1,001.7
+
+$
+
+972.1
+
+As of September 30, 2025, we were in compliance with all financial and operating covenants of the credit facility and the senior note indenture. As of September 30, 2025, the annual rate for borrowings outstanding under the credit facility was 5.6%.
+
+Our credit facility and our senior notes, including the financial and operating covenants and limitations on the payment of dividends, are described in Note 8. Debt of Notes to the Consolidated Financial Statements in this Annual Report. As of September 30, 2025, $25 million of our debt associated with the credit facility term loan was classified as current. In Q2'25, we redeemed the 2025 senior notes using a draw on our revolving credit facility and cash on hand.
+
+Share Repurchase Authorization
+
+Our Articles of Organization authorize us to issue up to 500 million shares of our common stock. Our Board of Directors has authorized us to repurchase up to $2 billion of our common stock in the period October 1, 2024 through September 30, 2027. We may use cash from operations and borrowings under our credit facility to make any such repurchases. All shares of our common stock repurchased are automatically restored to the status of authorized and unissued.
+
+In FY'25, we repurchased 1.65 million shares for $300 million. We did not repurchase any shares in FY'24.
+
+Our long-term goal is to return excess cash to shareholders via share repurchases, while also taking into consideration the interest rate environment and strategic initiatives and acquisitions, which could cause us to reduce, suspend, or cease repurchases. We expect to repurchase approximately $150 to $250 million of our common stock per quarter in FY'26.
+
+Expectations for 2026
+
+We believe that existing cash and cash equivalents, together with cash inflows from operations and amounts available under the credit facility, will be sufficient to meet our working capital and capital expenditure requirements through at least the next twelve months and to meet our known long-term capital requirements.
+
+We expect to use the net after-tax proceeds of the Kepware and ThingWorx divestiture to repurchase shares, in line with our long-term goal of returning excess cash to shareholders.
+
+Our expected uses and sources of cash could change, our cash position could be reduced, and we could incur additional debt obligations if we retire other debt, engage in strategic transactions, or repurchase shares, any of which could be commenced, suspended, or completed at any time. Any such repurchases or retirement of debt will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. The amounts involved in any debt retirement or issuance, share repurchases, or strategic transactions may be material.
+
+Contractual Obligations
+
+At September 30, 2025, our future contractual obligations were related to debt, leases, pension liabilities, unrecognized tax benefits, and purchase obligations. See Note 8. Debt, Note 16. Leases, Note 13. Pension Plans, and Note 7. Income Taxes of Notes to Consolidated Financial Statements in this Annual Report for information about those obligations, which Notes are incorporated by reference into this section. Our purchase obligations were approximately $188.8 million, with $91.9 million expected to be paid in FY'26 and $96.9 million thereafter. Purchase obligations represent minimum commitments due to third parties, including royalty contracts, research and development contracts, telecommunication contracts, information technology maintenance contracts in support of internal-use software and hardware, financing leases, operating leases with original terms of less than 12 months, and other marketing and consulting contracts. Contracts for which our commitment is variable or based on volumes with no fixed minimum quantities and contracts that can be canceled without payment penalties are not included in the purchase obligation amounts above. The purchase obligations included above are in addition to amounts included in Current liabilities and Prepaid expenses recorded on our September 30, 2025 Consolidated Balance Sheet.
+
+As of September 30, 2025, we had letters of credit and bank guarantees outstanding of approximately $15.6 million (of which $0.6 million was collateralized).
+
+Operating and Non-GAAP Financial Measures
+
+Operating Measure
+
+ARR
+
+ARR (Annual Run Rate) represents the annualized value of our portfolio of active subscription software, SaaS, hosting, and support contracts as of the end of the reporting period. We calculate ARR as follows:
+
+•
+We consider a contract to be active when the product or service contractual term commences (the “start date”) until the right to use the product or service ends (the “expiration date”). Even if the contract with the customer is executed before the start date, the contract will not count toward ARR until the customer right to receive the benefit of the products or services has commenced.
+
+•
+For contracts that include annual values that change over time, we include in ARR only the annualized value of components of the contract that are considered active as of the date of the ARR calculation. We do not include any future committed increases in the contract value as of the date of the ARR calculation.
+
+•
+As ARR includes only contracts that are active at the end of the reporting period, ARR does not reflect assumptions or estimates regarding future contract renewals or non-renewals.
+
+•
+Active contracts are annualized by dividing the total active contract value by the contract duration in days (expiration date minus start date), then multiplying that by 365 days (or 366 days for leap years).
+
+We believe ARR is a valuable operating measure to assess the health of a subscription business because it is aligned with the amount that we invoice the customer on an annual basis. We generally invoice customers annually for the current year of the contract. A customer with a one-year contract will typically be invoiced for the total value of the contract at the beginning of the contractual term, while a customer with a multi-year contract will be invoiced for each annual period at the beginning of each year of the contract.
+
+ARR increases by the annualized value of active contracts that commence in a reporting period and decreases by the annualized value of contracts that expire in the reporting period.
+
+As ARR is not annualized recurring revenue, it is not calculated based on recognized or unearned revenue and is not affected by variability in the timing of revenue under ASC 606, particularly for on-premises license subscriptions where a substantial portion of the total value of the contract is recognized as revenue at a point in time upon the later of when the software is made available, or the subscription term commences.
+
+ARR should be viewed independently of recognized and unearned revenue and is not intended to be combined with, or to replace, either of those items. Investors should consider our ARR operating measure only in conjunction with our GAAP financial results.
+
+Non-GAAP Financial Measures
+
+The non-GAAP financial measures presented in the discussion of our results of operations and the respective most directly comparable GAAP measures are:
+
+•
+non-GAAP gross margin—GAAP gross margin
+
+•
+non-GAAP operating income—GAAP operating income
+
+•
+non-GAAP operating margin—GAAP operating margin
+
+•
+non-GAAP net income—GAAP net income
+
+•
+non-GAAP diluted earnings per share—GAAP diluted earnings per share
+
+•
+free cash flow—cash flow from operations
+
+The non-GAAP financial measures other than free cash flow exclude, as applicable: stock-based compensation expense; amortization of acquired intangible assets; acquisition and transaction-related charges included in General and administrative expenses; Impairment and other charges (credits), net; non-operating charges (credits), net; and income tax adjustments.
+
+Stock-based compensation is a non-cash expense relating to stock-based awards issued to executive officers, employees and outside directors, consisting of restricted stock units. We exclude this expense as it is a non-cash expense and we assess our internal operations excluding this expense and believe it facilitates comparisons to the performance of other companies in our industry.
+
+Amortization of acquired intangible assets is a non-cash expense that is impacted by the timing and magnitude of our acquisitions. We believe the assessment of our operations excluding these costs is relevant to our assessment of internal operations and comparisons to the performance of other companies in our industry.
+
+Acquisition and transaction-related charges included in General and administrative expenses are direct costs of potential and completed acquisitions and expenses related to acquisition integration activities, including transaction fees, due diligence costs, severance and professional fees. Subsequent adjustments to our initial estimated amount of contingent consideration associated with specific acquisitions are also included within acquisition and transaction-related charges. Other transactional charges include third-party costs related to structuring merger and acquisition transactions outside of ordinary business operations. We do not include these costs when reviewing our operating results internally. The occurrence and amount of these costs varies depending on the timing and size of acquisitions and transactions.
+
+In Q2'25, we changed the income statement caption of Restructuring and other charges (credits), net to Impairment and other charges (credits), net to reflect that the amounts presented are mainly impairment charges rather than restructuring charges. We correspondingly revised the caption with respect to the list of items excluded from our non-GAAP financial measures and, as reflected below, the list of items covered under that caption to reflect the primary charges and credits included in the adjustment. All charges and credits under the captioned line item remain the same.
+
+Impairment and other charges (credits), net are charges associated with disposal or exit activities, including lease impairment and abandonment charges, net charges or income related to impaired or exited facilities, restructuring severance charges resulting from substantial employee reduction actions, and other related costs.
+
+Non-operating charges (credits), net are gains or losses associated with sales or changes in value of assets or liabilities that are generally investing or financing in nature and are not indicative of our ongoing ordinary operating activities. In FY'25, we recognized a gain related to contingent consideration earned upon the achievement of performance milestones associated with the FY'22 sale of a portion of our PLM services business. In FY'24, we recognized a non-operating impairment charge related to an available-for-sale debt security.
+
+Income tax adjustments include the tax impact of the items above. Additionally, we exclude other material tax items that we do not include when reviewing our operating results internally. For example, in FY'25, adjustments include a benefit for a tax reserve related to prior years in a foreign jurisdiction. Adjustments in FY'24 include a charge for a tax reserve related to prior years in a foreign jurisdiction.
+
+Free cash flow is cash flow from operations net of capital expenditures, which are expenditures for property and equipment and consist primarily of facility improvements, office equipment, computer equipment, and software. We believe that free cash flow, in conjunction with cash from operations, is a useful measure of liquidity since capital expenditures are a necessary component of ongoing operations. Free cash flow is not a measure of cash available for discretionary expenditures.
+
+We use these non-GAAP financial measures, and we believe that they assist our investors, to make period-to-period comparisons of our operational performance because they provide a view of our operating results without items that are not, in our view, indicative of our core operating results. We believe that these non-GAAP financial measures help illustrate underlying trends in our business, and we use the measures to establish budgets and operational goals (communicated internally and externally) for managing our business and evaluating our performance. We believe that providing non-GAAP financial measures also affords investors a view of our operating results that may be more easily compared to the results of other companies in our industry that use similar financial measures to supplement their GAAP results.
+
+The items excluded from the non-GAAP financial measures often have a material impact on our financial results, certain of those items are recurring, and other items often recur. Accordingly, the non-GAAP financial measures included in this Annual Report should be considered in addition to, and not as a substitute for or superior to, the comparable measures prepared in accordance with GAAP. The following tables reconcile each of these non-GAAP financial measures to its most closely comparable GAAP measure on our financial statements.
+
+(in millions, except per share amounts)
+
+Year ended September 30,
+
+2025
+
+2024
+
+GAAP gross margin
+
+$
+
+2,294.2
+
+$
+
+1,853.7
+
+Stock-based compensation
+
+22.7
+
+21.4
+
+Amortization of acquired intangible assets included in cost of revenue
+
+32.8
+
+38.5
+
+Non-GAAP gross margin
+
+$
+
+2,349.8
+
+$
+
+1,913.6
+
+GAAP operating income
+
+$
+
+982.4
+
+$
+
+588.1
+
+Stock-based compensation
+
+216.2
+
+223.5
+
+Amortization of acquired intangible assets
+
+78.8
+
+80.5
+
+Acquisition and transaction-related charges
+
+9.1
+
+3.1
+
+Impairment and other charges (credits), net
+
+15.6
+
+(0.8
+
+)
+
+Non-GAAP operating income
+
+$
+
+1,302.1
+
+$
+
+894.3
+
+GAAP net income
+
+$
+
+734.0
+
+$
+
+376.3
+
+Stock-based compensation
+
+216.2
+
+223.5
+
+Amortization of acquired intangible assets
+
+78.8
+
+80.5
+
+Acquisition and transaction-related charges
+
+9.1
+
+3.1
+
+Impairment and other charges (credits), net
+
+15.6
+
+(0.8
+
+)
+
+Non-operating charges (credits), net(1)
+
+(13.1
+
+)
+
+2.0
+
+Income tax adjustments(2)
+
+(81.8
+
+)
+
+(71.2
+
+)
+
+Non-GAAP net income
+
+$
+
+958.8
+
+$
+
+613.4
+
+GAAP diluted earnings per share
+
+$
+
+6.08
+
+$
+
+3.12
+
+Stock-based compensation
+
+1.79
+
+1.85
+
+Amortization of acquired intangible assets
+
+0.65
+
+0.67
+
+Acquisition and transaction-related charges
+
+0.08
+
+0.03
+
+Impairment and other charges (credits), net
+
+0.13
+
+(0.01
+
+)
+
+Non-operating charges (credits), net(1)
+
+(0.11
+
+)
+
+0.02
+
+Income tax adjustments(2)
+
+(0.68
+
+)
+
+(0.59
+
+)
+
+Non-GAAP diluted earnings per share
+
+$
+
+7.94
+
+$
+
+5.08
+
+Cash provided by operating activities
+
+$
+
+867.7
+
+$
+
+750.0
+
+Capital expenditures
+
+(11.0
+
+)
+
+(14.4
+
+)
+
+Free cash flow
+
+$
+
+856.7
+
+$
+
+735.6
+
+(1)
+In FY'25, we recognized a $13.1 million gain related to contingent consideration earned upon the achievement of performance milestones associated with the FY'22 sale of a portion of our PLM services business. In FY'24, we recognized an impairment loss of $2.0 million on an available-for-sale debt security.
+
+(2)
+Income tax adjustments reflect the tax effects of non-GAAP adjustments which are calculated by applying the applicable tax rate by jurisdiction to the non-GAAP adjustments listed above. Additionally, in FY'25, adjustments exclude a $10.4 million tax benefit or $0.09 per share for a tax reserve related to prior years in a foreign jurisdiction. In FY'24, adjustments exclude a tax expense of $4.4 million or $0.04 per share for a tax reserve related to prior years in a foreign jurisdiction.
+
+Operating margin impact of non-GAAP adjustments:
+
+Year ended September 30,
+
+2025
+
+2024
+
+GAAP operating margin
+
+35.9
+
+%
+
+25.6
+
+%
+
+Stock-based compensation
+
+7.9
+
+%
+
+9.7
+
+%
+
+Amortization of acquired intangible assets
+
+2.9
+
+%
+
+3.5
+
+%
+
+Acquisition and transaction-related charges
+
+0.3
+
+%
+
+0.1
+
+%
+
+Impairment and other charges (credits), net
+
+0.6
+
+%
+
+(—
+
+)%
+
+Non-GAAP operating margin
+
+47.5
+
+%
+
+38.9
+
+%
+
+Critical Accounting Policies and Estimates
+
+We have prepared our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America. In preparing our financial statements, we make estimates, assumptions and judgments that can have a significant impact on our reported revenues, results of operations, and net income, as well as on the value of certain assets and liabilities on our balance sheet. These estimates, assumptions and judgments are made based on our historical experience and on other assumptions that we believe to be reasonable under the circumstances. These estimates may change as new events occur or additional information is obtained, and we may periodically be faced with uncertainties, the outcomes of which are not within our control and may not be known for a prolonged period of time.
+
+The accounting policies, methods and estimates used to prepare our financial statements are described generally in Note 2. Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements in this Annual Report. The most important accounting judgments and estimates that we made in preparing the financial statements involved:
+
+•
+revenue recognition;
+
+•
+accounting for income taxes; and
+
+•
+valuation of assets and liabilities acquired in business combinations.
+
+A critical accounting policy is one that is both material to the presentation of our financial statements and requires us to make subjective or complex judgments that could have a material effect on our financial condition and results of operations. Critical accounting policies require us to make assumptions about matters that are uncertain at the time of the estimate, and different estimates that we could have used, or changes in the estimates that are reasonably likely to occur, may have a material impact on our financial condition or results of operations. Because the use of estimates is inherent in the financial reporting process, actual results could differ from those estimates.
+
+Accounting policies, guidelines and interpretations related to our critical accounting policies and estimates are generally subject to numerous sources of authoritative guidance and are often reexamined by accounting standards rule makers and regulators. These rule makers and/or regulators may promulgate interpretations, guidance or regulations that may result in changes to our accounting policies, which could have a material impact on our financial position and results of operations.
+
+Revenue Recognition
+
+We record revenues in accordance with the guidance provided by ASC 606, Revenue from Contracts with Customers. For a full description of our revenue accounting policy, refer to Note 2. Summary of Significant Accounting Policies, included in the Notes to Consolidated Financial Statements in this Annual Report.
+
+Our sources of revenue include: (1) subscriptions, (2) perpetual licenses, (3) support for perpetual licenses, and (4) professional services. Subscriptions include term-based on-premises licenses and related support, Software-as-a-Service (SaaS), and hosting services.
+
+Judgments and Estimates
+
+Determination of performance obligations. Our subscriptions are frequently sold as a bundle of products and services, typically pairing on-premises term software licenses with support and, for certain offerings, cloud services over the same term. Significant judgment is used in determining the performance obligations related to these bundled products and services. On-premises software is typically determined to be a distinct performance obligation and is thus recognized separately from the support and cloud components. On-premises software revenue is generally recognized at the point in time that the software is made available to the customer, while the support and cloud software revenue components are recognized ratably over the term of the contract. In cases where subscriptions include cloud functionality and on-premises software, an assessment has been performed to determine whether the cloud services are distinct from the on-premises software. In the substantial majority of instances, cloud services provide incremental functionality to customers and have been considered distinct and recognized separately from the on-premises software. This assessment could have a significant impact on the timing of revenue recognition and may change as our product offerings evolve.
+
+Allocation of transaction price. We estimate the standalone selling price of each identified performance obligation and use that estimate to allocate the transaction price among the performance obligations. The estimated standalone selling price is determined using all information reasonably available to us, including market conditions and other observable inputs. Significant judgment is used in determining the standalone selling prices of the on-premises license, support, and cloud components of our subscription products. These estimates are subject to change as our product offerings change and could have a significant impact due to the difference in the timing of revenue recognition for on-premises licenses versus support and cloud.
+
+Right to exchange. Our multi-year, non-cancellable subscription contracts provide customers with an annual right to exchange software within the original subscription with other software. When it applies to on-premises licenses, we account for this right as a liability. For most contracts, we use the expected value method to determine the liability associated with this right across a portfolio of contracts. Where contracts are outside of the standard portfolio of contracts due to contract size, longer contract duration, or other unique contractual terms, we use the most likely amount method to determine the liability for each individual contract. In both circumstances, the transaction price is constrained based on our estimates, which impacts the amount of revenue recognized. Changes in these estimates could significantly impact revenue for any given period.
+
+Accounting for Income Taxes
+
+As part of the process of preparing our consolidated financial statements, we are required to calculate our income tax expense based on taxable income by jurisdiction. There are many transactions and calculations about which the ultimate tax outcome is uncertain; as a result, our calculations involve estimates by management. Some of these uncertainties arise as a consequence of revenue-sharing, cost-reimbursement and transfer pricing arrangements among related entities and the differing tax treatment of revenue and cost items across various jurisdictions. If tax authorities compelled us to revise or to account differently for our arrangements, that revision could affect our recorded tax liabilities.
+
+The income tax accounting process also involves estimating our actual current tax liability, together with assessing temporary differences resulting from differing treatment of items for tax and accounting purposes. These differences result in deferred tax assets and liabilities, which are included within our consolidated balance sheets. We must then assess the likelihood that our deferred tax assets will be recovered from future taxable income and, to the extent we believe that it is more likely than not that all or a portion of our deferred tax assets will not be realized, we must establish a valuation allowance as a charge to income tax expense.
+
+We have unrecognized tax benefits as of September 30, 2025 of $157.7 million. Although we believe our tax estimates are appropriate, the final determination of tax audits and any related litigation could result in favorable or unfavorable changes in our estimates. As described in Note 7. Income Taxes, within the next 12 months the amount of unrecognized tax benefits related to the IRS consent will be reduced by $109.2 million. Apart from that, we do not believe it is reasonably possible that there could be additional reductions to the amount of unrecognized tax benefits within the next 12 months.
+
+As of September 30, 2025, we have a valuation allowance of $3.4 million against net deferred tax assets in the U.S. and a valuation allowance of $5.1 million against net deferred tax assets in certain foreign jurisdictions. The valuation allowance recorded in the U.S. relates to Massachusetts tax credit carryforwards that we do not expect to realize a benefit from prior to expiration.
+
+The valuation allowance recorded against net deferred tax assets of certain foreign jurisdictions is established primarily for our capital loss carryforwards, the majority of which do not expire. However, there are limitations imposed on the utilization of such capital losses that could further restrict the recognition of any tax benefits. We will continue to reassess our valuation allowance requirements each financial reporting period.
+
+Prior to the passage of the U.S. Tax Act, we asserted that substantially all of the undistributed earnings of our foreign subsidiaries were considered indefinitely invested and accordingly, no deferred taxes were provided. Pursuant to the provisions of the U.S. Tax Act, these earnings were subjected to a one-time transition tax and there is therefore no longer a material cumulative basis difference associated with the undistributed earnings. We maintain our assertion to permanently reinvest these earnings outside the U.S. unless repatriation can be done substantially tax-free, with the exception of our Taiwan subsidiary. If we decide to repatriate any additional non-U.S. earnings in the future, we may be required to establish a deferred tax liability on such earnings. The amount of unrecognized deferred tax liability on the undistributed earnings would not be material.
+
+In the normal course of business, PTC and its subsidiaries are examined by various taxing authorities, including the IRS in the U.S. We regularly assess the likelihood of additional assessments by tax authorities and provide for these matters as appropriate. We are currently under audit by tax authorities in several jurisdictions. Audits by tax authorities typically involve examination of the deductibility of certain permanent items, transfer pricing, limitations on net operating losses and tax credits. Although we believe our tax estimates are appropriate, the final determination of tax audits and any related litigation could result in material changes in our estimates.
+
+Valuation of Assets and Liabilities Acquired in Business Combinations
+
+In accordance with business combination accounting, we allocate the purchase price of acquired companies to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values. Determining these fair values requires management to make significant estimates and assumptions, especially with respect to intangible assets.
+
+Our identifiable intangible assets acquired consist of purchased software, trademarks, customer lists and contracts, and software support agreements and related relationships. Purchased software consists of products that have reached technological feasibility and the combination of processes, inventions and trade secrets related to the design and development of acquired products. Customer lists and contracts and software support agreements and related relationships represent the underlying relationships and agreements with customers of the acquired company’s installed base. We have generally valued intangible assets using discounted cash flow models. Critical estimates in valuing certain of the intangible assets include but are not limited to:
+
+•
+future expected revenues and costs related to software license sales, customer support agreements, customer contracts and related customer relationships and acquired developed technologies and trademarks and trade names; and
+
+•
+discount rates used to determine the present value of estimated future cash flows.
+
+In addition, we estimate the useful lives of our intangible assets based upon the expected period over which we anticipate generating economic benefits from the related intangible asset.
+
+Net tangible assets consist of the fair values of tangible assets less the fair values of assumed liabilities and obligations. Except for deferred revenues, net tangible assets were generally valued by us at the respective carrying amounts recorded by the acquired company, if we believed that their carrying values approximated their fair values at the acquisition date. Deferred revenue for acquisitions reflect the amounts that would have been deferred as of the acquisition date in accordance with ASC 606.
+
+In addition, uncertain tax positions and tax-related valuation allowances assumed in connection with a business combination are initially estimated as of the acquisition date. We reevaluate these items quarterly with any adjustments to our preliminary estimates being recorded to goodwill provided that we are within the measurement period (up to one year from the acquisition date) and we continue to collect information in order to determine their estimated values. Subsequent to the measurement period or our final determination of the estimated value of uncertain tax positions or tax-related valuation allowances, whichever comes first, changes to these uncertain tax positions and tax-related valuation allowances will affect our provision for income taxes in our Consolidated Statements of Operations.
+
+Our estimates of fair value are based upon assumptions believed to be reasonable at that time, but which are inherently uncertain and unpredictable. Assumptions may be incomplete or inaccurate, and unanticipated events and circumstances may occur, which may affect the accuracy or validity of such assumptions, estimates or actual results.
+
+When events or changes in circumstances indicate that the carrying value of a finite-lived intangible asset may not be recoverable, we perform an assessment of the asset for potential impairment. This assessment is based on projected undiscounted future cash flows over the asset’s remaining life. If the carrying value of the asset exceeds its undiscounted cash flows, we record an impairment loss equal to the excess of the carrying value over the fair value of the asset, determined using projected discounted future cash flows of the asset.
+
+Recent Accounting Pronouncements
+
+In accordance with recently issued accounting pronouncements, we will be required to comply with certain changes in accounting rules and regulations. Refer to Note 2. Summary of Significant Accounting Policies, included in the Notes to Consolidated Financial Statements of this Annual Report, which is incorporated herein by reference, for all recently issued accounting pronouncements. We are evaluating the impact of ASU 2025-06, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software and ASU 2025-05, Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets and have not yet determined whether they will have a material impact.
+
+Off-Balance Sheet Arrangements
+
+We have not created, and are not party to, any special-purpose or off-balance sheet entities for the purpose of raising capital, incurring debt or operating parts of our business that are not consolidated (to the extent of our ownership interest therein) into our financial statements. We have not entered into any transactions with unconsolidated entities whereby we have subordinated retained interests, derivative instruments or other contingent arrangements that expose us to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing, liquidity, market risk or credit risk support to us.

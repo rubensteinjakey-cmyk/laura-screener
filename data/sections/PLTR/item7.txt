@@ -1,0 +1,559 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the accompanying notes thereto included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements based upon current plans, expectations, and beliefs, involving risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements. You should review the section titled “Special Note Regarding Forward-Looking Statements” for a discussion of forward-looking statements and the section titled “Risk Factors” for a discussion of factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis and elsewhere in this Annual Report on Form 10-K. Our historical results are not necessarily indicative of the results that may be expected for any period in the future.
+
+This section of this Annual Report on Form 10-K generally discusses fiscal years 2025 and 2024 items and year-to-year comparisons between fiscal years 2025 and 2024. Discussions of fiscal year 2024 items and year-to-year comparisons between fiscal years 2024 and 2023 that are not included in this Annual Report on Form 10-K can be found in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, which was filed with the SEC on February 18, 2025 and is incorporated herein by reference.
+
+Overview
+
+We build software that empowers organizations to effectively integrate their data, decisions, and operations at scale.
+
+We were founded in 2003 and started building software for the intelligence community in the United States to assist in counterterrorism investigations and operations. We later began working with commercial enterprises, who often faced fundamentally similar challenges in working with data.
+
+We have built four principal software platforms, Gotham, Foundry, Apollo, and AIP. Foundry is our foundational data operations platform, which provides the core capabilities for data management, logic authoring, systemic mapping development through our Ontology, analytics, and workflow development. AIP is our generative AI platform, which provides secure connectivity to third-party-provided LLMs, a development toolchain for building AI-powered agents and automations, an array of AI-enabled end user applications, a broad evaluations framework for governing AI workflows in production, and more. Apollo is our continuous delivery platform, enabling the orchestration of upgrades of services and assets every day to manage the underlying infrastructure that hosts our other platforms. Gotham integrates with our other platforms, as well as our broader defense offerings, to power a wide array of missions across allied defense and intelligence operations.
+
+For over a decade, Gotham has surfaced insights for global defense agencies, the intelligence community, disaster relief organizations and beyond. Foundry is becoming a central operating system not only for individual institutions but also for entire industries. Apollo, which we began offering as a commercial solution in 2021, is a cloud-agnostic, single control layer that coordinates ongoing delivery of new features, security updates, and platform configurations, helping to ensure the continuous operation of critical systems. Apollo allows our customers to run their software in virtually any environment.
+
+In 2023, we began deploying our newest offering, AIP, which is designed for customers across the commercial and government sectors, enabling them to derive value from recent breakthroughs in artificial intelligence via the combination of our existing software platforms with generative AI models, including LLMs. We believe AIP uniquely allows users to connect LLMs and other AI with their data and operations to facilitate decision-making within the legal, ethical, and security constraints that they require.
+
+The Ontology has continuously evolved over time, serving as the heart of our platforms by activating data and analytics inside operations, enabling real-time connectivity between data, analytics, and operational teams, as well as AI. Ontology generally refers to the systematic mapping of data to meaningful context. The Palantir Ontology goes far beyond the traditional concept by integrating the elements of a decision—the data, logic, and actions—into a foundational representation of the organization, and allowing users to build interconnected workflows, turning specialized expertise into shared infrastructure to dynamically optimize decision-making across the enterprise. The Ontology can help create a shared understanding across all users in a data ecosystem regardless of technical skills, enabling organizations to scale more efficiently and rapidly.
+
+While our focus in the short term remains on making our software platforms available to increasingly broad swaths of the market, we are also working to identify additional component parts and products embedded within those platforms that have potential as commercial offerings on their own.
+
+We believe that every institution faces challenges that our platforms and products were designed to address. Our approach with all our clients is to establish a partnership that transforms the way they use data in pursuit of their goals.
+
+We regularly evaluate partnerships and investment opportunities in complementary businesses, employee teams, technologies, and intellectual property rights in an effort to expand our product and service offerings.
+
+Our Business
+
+Our customers pay us to use the software platforms we have built. While we generally offer contract terms of one to five years in length, our customers sometimes enter into shorter-term contracts. Revenue is generally recognized ratably over the contract term. Many of our customer contracts contain termination for convenience provisions.
+
+For the year ended December 31, 2025, we generated $4.5 billion in revenue, reflecting a 56% growth rate from the year ended December 31, 2024, when we generated $2.9 billion in revenue.
+
+In the year ended December 31, 2025, we generated income from operations of $1.4 billion, or adjusted income from operations of $2.3 billion when excluding stock-based compensation and related employer payroll taxes. In the year ended December 31, 2024, we generated income from operations of $310.4 million, or adjusted income from operations of $1.1 billion when excluding stock-based compensation and related employer payroll taxes.
+
+In the year ended December 31, 2025, our gross profit was $3.7 billion, reflecting a gross margin of 82%, or 84% when excluding stock-based compensation. In the year ended December 31, 2024, our gross profit was $2.3 billion, reflecting a gross margin of 80%, or 83% when excluding stock-based compensation.
+
+For more information about our adjusted income from operations, which excludes stock-based compensation and related employer payroll taxes; and gross profit and gross margin, when excluding stock-based compensation; as well as reconciliations from income from operations and gross profit, see the section titled “Non-GAAP Reconciliations” below.
+
+Our Customers
+
+We define a customer as an organization from which we have recognized revenue during the trailing twelve-month period. During the period ended December 31, 2025, we had 954 customers, including companies in various commercial sectors and government agencies around the world. During the period ended December 31, 2024, we had 711 customers.
+
+For large government agencies, where a single institution has multiple divisions, units, or subsidiary agencies, each such division, unit, or subsidiary agency that enters into a separate contract with us and is invoiced as a separate entity is treated as a separate customer. For example, while the U.S. Food and Drug Administration, Centers for Disease Control and Prevention, and National Institutes of Health are subsidiary agencies of the U.S. Department of Health and Human Services, we treat each of those agencies as a separate customer given that the governing structures and procurement processes of each agency are independent.
+
+We have built lasting and significant customer relationships and partnerships with some of the world’s leading government institutions and companies. As of December 31, 2025, we expect to generate revenue from contracts closed during each of the three months and year ended December 31, 2025 for an additional four years, on a dollar-weighted average contract duration basis. Dollar-weighted average contract duration represents the length of time we expect to generate revenue on average, based on the total potential lifetime length and value of contracts entered into with, or awarded by, our customers at the time of contract execution, presuming that our customers will exercise all of the contractual options available to them and no termination of contracts, although many of our contracts are subject to termination provisions, including for convenience, and there can be no guarantee that contracts are not terminated or that contract options will be exercised. We calculate this duration on a dollar-weighted basis to adjust for smaller deals. The timing of our customer billings and receipt of payments varies from contract to contract. Our average revenue for the top twenty customers during the trailing twelve months ended December 31, 2025 was $93.9 million, which grew 45% from an average of $64.6 million in revenue from the top twenty customers during the trailing twelve months ended December 31, 2024, demonstrating our expanding relationships with existing customers.
+
+Organizations in the commercial and government sectors face similar challenges when it comes to managing data, and we intend to expand our reach in both markets moving forward. Our decisions about which customer relationships require further investment may change over time, based on our assessment of the potential long-term value that our software can generate for them. We conduct pilots and bootcamps with customers, generally at our own expense and without a guarantee of future returns, in order to access a unique set of opportunities that others may pass over for lack of resources and shorter investment horizons. We manage customers at the account level, not by industry or sector, so that we can optimize on the specific growth opportunities for each customer. In the year ended December 31, 2025, 54% of our revenue came from government customers and 46% came from commercial customers.
+
+Our U.S. customers have been a meaningful source of revenue growth for our business. In the year ended December 31, 2025, we generated 74% of our revenue from customers in the United States and the remaining 26% from non-U.S. customers. Revenue from our U.S. customers during the trailing twelve months ended December 31, 2025 was $3.3 billion, which grew 75% from the prior twelve-month period. We expect that U.S. customers will continue to be a source of significant revenue growth for us.
+
+We continue to believe that our government customers remain a meaningful source of revenue for our business, particularly during periods of economic uncertainty. However, large government customers in particular are generally subject to a number of uncertainties regarding budgets and spending levels, changes in timing and spending priorities, and regulatory and policy changes, which can make it difficult to predict when, or if, we will make sales to such customers or the size and scope of any contract awards. See also the discussion of “Risks Related to Relationships and Business with the Public Sector” within “Item 1A. Risk Factors” included in this Annual Report on Form 10-K.
+
+Expansion of Access to Platforms
+
+The speed with which our platforms can be deployed has significantly expanded the range of potential customers with which we plan on partnering over the long term. We anticipate that our reach among an increasingly broad set of customers, in both the commercial and government sectors, will accelerate moving forward. We believe that, as these new partners grow, we will grow with them.
+
+Our proximity to these businesses and the industries in which they are operating has enhanced, and is expected to continue enhancing, our own product and business development efforts, as we continue expanding access to our platforms to the broadest possible set of customers.
+
+Total Remaining Deal Value
+
+We are focused on building strategic relationships with, and delivering significant outcomes for, our customers over the long term. Our contracts with our customers reflect that long-term orientation, often lasting for multiple years at a time.
+
+Total remaining deal value is the total remaining value, as of the end of the reporting period, of contracts that have been entered into with, or awarded by, our customers. Total remaining deal value presumes the exercise of all contract options available to our customers and no termination of contracts. However, many of our contracts are subject to termination provisions, including for convenience, and there can be no guarantee that contracts are not terminated or that contract options will be exercised. Further, total remaining deal value may exclude all or some portion of the value of certain commercial contracts as a result of our ongoing assessments of customers’ financial condition, including the consideration of such customers’ ability and intention to pay, and whether such contracts continue to meet the criteria for revenue recognition, among other factors.
+
+As of December 31, 2025, the total remaining deal value of the contracts, as defined above, was $11.2 billion, up 105% from December 31, 2024, when our total remaining deal value of such contracts was $5.4 billion.
+
+Of our total remaining deal value, as of December 31, 2025, the total remaining deal value of the contracts that we entered into with commercial customers, including existing contractual obligations and available contractual options, as defined above, was $6.8 billion, up 117% from December 31, 2024, when the total remaining deal value of such contracts was $3.1 billion.
+
+As of December 31, 2025, the total remaining deal value of the contracts that we had been awarded by government agencies in the United States and allied countries around the world, including existing contractual obligations and contractual options available to those government agencies, was $4.4 billion, up 90% from December 31, 2024, when the total value of such contracts was $2.3 billion.
+
+When calculating the total remaining deal value of government contracts, we do not include government contracts known as IDIQ contracts, totaling $12.3 billion, as of December 31, 2025, that we have also been awarded, but where the funding of such contracts has not yet been determined or guaranteed.
+
+Many of our government and commercial contracts are subject to termination for convenience provisions. Additionally, the U.S. federal government is prohibited from exercising contract options more than one year in advance. As a result, there can be no guarantee that our customer contracts will not be terminated or that contract options will be exercised.
+
+Macroeconomic Trends
+
+As a corporation with an international presence, we are subject to risks and uncertainties caused by significant events with macroeconomic impacts, including, but not limited to, geopolitical tensions, fluctuating interest rates, monetary policy changes, foreign currency fluctuations, and the potential or actual imposition of tariffs or other impacts on trade relations. Additionally, these macroeconomic impacts have disrupted, and may continue to disrupt, the operations of our customers and prospective customers. We continuously monitor the direct and indirect impacts of these circumstances on our business and financial results, as well as the overall global economy and geopolitical landscape.
+
+See the section titled “Risk Factors” included elsewhere in this Annual Report on Form 10-K for further discussion of the impact of macroeconomic trends on our business.
+
+Geopolitical Tensions
+
+Our business operations are subject to interruption by events that are beyond our control, including geopolitical tensions. We continue to closely monitor the impact of various geopolitical tensions and their global impacts on our business. While the ongoing Russia-Ukraine, Israel and broader Middle East, and other global conflicts are still evolving and the outcomes remain highly uncertain, we do not expect that the resulting challenging macroeconomic conditions will have a material impact on our business or results of operations.
+
+We do not currently have office locations in Russia or Palestinian territories and none of our revenues came from sales to entities headquartered in those countries or territories. Our current operations related to Ukraine and Israel are not material to our financial position or results of operations. If the respective conflicts continue or worsen, leading to greater disruptions and uncertainty within the technology industry or global economy, our business and results of operations could be negatively impacted.
+
+Foreign Currency Exchange Rates
+
+Exchange rates are subject to significant and rapid fluctuations due to a number of factors, including interest rate changes, monetary policy changes, and political and economic uncertainty which may adversely affect our results of operations or financial position.
+
+Our contracts with customers and vendors are primarily denominated in U.S. dollars. However, when the U.S. dollar strengthens compared to other currencies (primarily the Euro and GBP), it has had, and could in the future have, an unfavorable impact on our revenues and expenses from certain non-U.S. customers or vendors whose contracts are denominated in currencies other than the U.S. dollar. Additionally, certain of our U.S. and non-U.S. subsidiaries may hold monetary assets and liabilities in currencies other than their functional currency (primarily the JPY, Euro, and GBP), which could subject our results of operations and cash flows to adverse fluctuations due to changes in such foreign currency exchange rates as compared to the U.S. dollar. For the year ended December 31, 2025, such impacts were not material to our financial position or results of operations.
+
+Customer Impacts
+
+Macroeconomic conditions have impacted, and may continue to adversely impact, our customers’ businesses. With economic uncertainty, we may experience additional negative impacts on new customer acquisition, customer renewals, and customer collections, among other things, which could negatively impact our business and results of operations.
+
+Key Business Measure
+
+In addition to the measures presented in our consolidated financial statements, we use the following key non-GAAP business measure to help us evaluate our business, identify trends affecting our business, formulate business plans and financial projections, and make strategic decisions.
+
+Contribution Margin
+
+We believe that the revenue we generate relative to the costs we incur in order to generate such revenue is an important measure of the efficiency of our business. We define contribution margin as revenue less our cost of revenue and sales and marketing expenses, excluding stock-based compensation, divided by revenue.
+
+Revenue is allocated to each customer account directly. The cost of revenue and sales and marketing costs include both the costs associated with the deployment and operation of our software as well as expenses associated with identifying new customers and expanding partnerships with existing ones. Our software engineers working with existing customers often manage the deployment and operation of our platforms as well as identify new ways that those platforms can be used. To calculate the contribution by segment, we allocate cost of revenue and sales and marketing expenses, excluding stock-based compensation, to an account pro rata based on headcount and time spent on the account during the period. To the extent certain costs or personnel are not directly assigned to a specific account, they are allocated pro rata based on total headcount staffed during such period. Direct costs, such as third-party cloud hosting services, are directly allocated to the account to which they relate. Allocated revenues and expenses are then aggregated into a segment based upon the customer account to which they relate.
+
+Contribution margin, both across our business and segments, is intended to capture how much we have earned from customers after accounting for the costs associated with deploying and operating our software, as well as any sales and marketing expenses involved in acquiring and expanding our partnerships with customers or potential customers, including allocated overhead. We exclude stock-based compensation as it is a noncash expense.
+
+We believe that our contribution margin provides an important measure of the efficiency of our operations over time. We have included contribution margin because it is a key measure used by our management to evaluate our performance, and we believe that it also provides useful information to investors and others in understanding and evaluating our operating results in the same manner as our management team. Our calculation of contribution margin may differ from similarly titled measures, if any, reported by other companies. Contribution margin should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+
+For more information about contribution margin, including the limitations of this measure, and a reconciliation to income from operations, see the section titled “Non-GAAP Reconciliations” below.
+
+Non-GAAP Reconciliations
+
+We use the non-GAAP measures contribution margin; gross profit and gross margin, excluding stock-based compensation; and adjusted income from operations, which excludes stock-based compensation and related employer payroll taxes, to help us evaluate our business, identify trends affecting our business, formulate business plans and financial projections, and make strategic decisions. We exclude stock-based compensation, which is a noncash expense, from these non-GAAP financial measures because we believe that excluding this item provides meaningful supplemental information regarding operational performance and provides useful information to investors and others in understanding and evaluating our operating results in the same manner as our management team. Additionally, we exclude employer payroll taxes related to stock-based compensation as it is difficult to predict and outside of our control.
+
+Our definitions may differ from the definitions used by other companies and therefore comparability may be limited. In addition, other companies may not publish these or similar metrics. Further, these metrics have certain limitations, as they do not include the impact of certain expenses that are reflected in our consolidated statements of operations. Thus, our non-GAAP contribution margin; gross profit and gross margin, excluding stock-based compensation; and adjusted income from operations should be considered in addition to, not as a substitute for, or in isolation from, measures prepared in accordance with GAAP.
+
+We compensate for these limitations by providing reconciliations of these non-GAAP measures to the most comparable GAAP measures. We encourage investors and others to review our business, results of operations, and financial information in their entirety, not to rely on any single financial measure, and to view these non-GAAP measures in conjunction with the most directly comparable GAAP financial measures.
+
+Contribution Margin
+
+The following table provides a reconciliation of contribution margin for the years ended December 31, 2025 and 2024 (in thousands, except percentages):
+
+Years Ended December 31,
+
+2025 | 2024
+
+Income from operations | $ | 1,414,015 | $ | 310,403
+
+Add:
+
+Research and development expenses (1)
+420,838 | 342,813
+
+General and administrative expenses (1)
+423,811 | 375,094
+
+Total stock-based compensation expense | 684,033 | 691,638
+
+Total contribution | $ | 2,942,697 | $ | 1,719,948
+
+Contribution margin | 66 | % | 60 | %
+
+————
+
+(1) Excludes stock-based compensation.
+
+Gross Profit and Gross Margin, Excluding Stock-Based Compensation
+
+The following table provides a reconciliation of gross profit and gross margin, excluding stock-based compensation for the years ended December 31, 2025 and 2024 (in thousands, except percentages):
+
+Years Ended December 31,
+
+2025 | 2024
+
+Gross profit | $ | 3,686,269 | $ | 2,299,517
+
+Add: stock-based compensation | 64,555 | 69,065
+
+Gross profit, excluding stock-based compensation | $ | 3,750,824 | $ | 2,368,582
+
+Gross margin, excluding stock-based compensation | 84 | % | 83 | %
+
+Adjusted Income from Operations
+
+The following table provides a reconciliation of adjusted income from operations, which excludes stock-based compensation and related employer payroll taxes for the years ended December 31, 2025 and 2024 (in thousands, except percentages):
+
+Years Ended December 31,
+
+2025 | 2024
+
+Income from operations | $ | 1,414,015 | $ | 310,403
+
+Add: stock-based compensation | 684,033 | 691,638
+
+Add: employer payroll taxes related to stock-based compensation | 156,052 | 126,021
+
+Adjusted income from operations | $ | 2,254,100 | $ | 1,128,062
+
+Adjusted operating margin | 50 | % | 39 | %
+
+Components of Results of Operations
+
+Revenue
+
+We generate revenue from the sale of subscriptions to access our software platforms in our hosted environment along with ongoing O&M services (“Palantir Cloud”), software subscriptions in our customers’ environments with ongoing O&M services (“On-Premises Software”), and professional services.
+
+Palantir Cloud
+
+Our Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir and are sold together with stand-ready O&M services, as further described below. We agree to provide continuous access to our hosted software throughout the contract term. Revenue associated with Palantir Cloud subscriptions is generally recognized over the contract term on a ratable basis, which is consistent with the transfer of control of the Palantir services to the customer.
+
+On-Premises Software
+
+Sales of our software licenses, primarily term licenses, grant customers the right to use functional intellectual property, either on their internal hardware infrastructure or on their own cloud instance, over the contractual term and are also sold together with stand-ready O&M services. O&M services include critical updates and support and maintenance services required to operate the software and, as such, are necessary for the software to maintain its intended utility over the contractual term. Because of this requirement, we have concluded that the software licenses and O&M services, which together we refer to as our On-Premises Software, are highly interdependent and interrelated and represent a single distinct performance obligation within the context of the contract. Revenue is generally recognized over the contract term on a ratable basis.
+
+Professional Services
+
+Our professional services support the customers’ use of the software and include, as needed, on-demand user support, user-interface configuration, training, and ongoing ontology and data modeling support. Professional services contracts typically include the provision of on-demand professional services for the duration of the contractual term, which may be coterminous or non-coterminous with a Palantir Cloud subscription or the On-Premises Software. Professional services are on-demand, whereby we perform services throughout the service period; therefore, the revenue is recognized over the related term.
+
+Cost of Revenue
+
+Cost of revenue primarily includes salaries, stock-based compensation expense, and benefits for personnel involved in performing O&M and professional services, as well as subcontractor expenses, field-service representatives, third-party cloud hosting services, hardware costs, and other direct costs.
+
+We expect that cost of revenue will increase in absolute dollars as our revenue grows and will vary from period to period as a percentage of revenue.
+
+Sales and Marketing
+
+Our sales and marketing efforts span all stages of our sales cycle, including personnel involved with sales functions, and executing pilots at new or existing customers. Sales and marketing costs primarily include salaries, stock-based compensation expense, variable compensation, including commissions, and benefits for our sales force and personnel involved in sales
+
+functions, executing on pilots, and customer growth activities; as well as third-party cloud hosting services for our pilots, and marketing and sales event-related costs. Sales and marketing costs are generally expensed as incurred.
+
+We expect that sales and marketing expenses will increase in absolute dollars as we continue to invest in our potential and current customers, in growing our business, in our sales force, and in enhancing our brand awareness.
+
+Research and Development
+
+Our research and development efforts are aimed at continuing to develop and refine our offerings, including adding new platforms, features, and modules, increasing their functionality, and enhancing the usability of our platforms. Research and development costs primarily include salaries, stock-based compensation expense, and benefits for personnel involved in performing the activities to develop and refine our platforms and products, as well as third-party cloud hosting services and other IT-related costs. Research and development costs are expensed as incurred.
+
+We plan to continue to invest in personnel to support our research and development efforts. As a result, we expect that research and development expenses will increase in absolute dollars for the foreseeable future as we continue to invest to support these activities.
+
+General and Administrative
+
+General and administrative costs include salaries, stock-based compensation expense, and benefits for personnel involved in our executive, finance, legal, human resources, and administrative functions, as well as third-party professional services and fees.
+
+We expect that general and administrative expenses will increase in absolute dollars as we hire additional personnel and enhance our systems, processes, and controls to support the growth in our business as well as our continuing compliance and reporting requirements as a public company.
+
+Interest Income
+
+Interest income consists primarily of interest income earned on our cash, cash equivalents, U.S. Treasury securities, and restricted cash balances.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of realized and unrealized losses from equity securities and foreign currency exchange gains and losses.
+
+Provision for Income Taxes
+
+Provision for income taxes consists of income taxes related to foreign and state jurisdictions in which we conduct business and withholding taxes.
+
+Net Income Attributable to Noncontrolling Interests
+
+Net income attributable to noncontrolling interests represents the share of income that is not attributable to the Company.
+
+Segments
+
+We have two operating segments, commercial and government, which were determined based on the manner in which the chief operating decision maker, who is our Chief Executive Officer, manages our operations for purposes of allocating resources and evaluating performance. Various factors, including our organizational and management reporting structure and customer type, were considered in determining these operating segments.
+
+Our operating segments are described below:
+
+•Commercial: This segment primarily serves customers working in non-government industries.
+
+•Government: This segment primarily serves customers that are U.S. government and non-U.S. government agencies.
+
+Segment profitability is evaluated based on contribution and contribution margin. Contribution is segment revenue less the related costs of revenue and sales and marketing expenses, excluding stock-based compensation expense. Contribution margin is contribution divided by revenue. To the extent costs of revenue or sales and marketing expenses are not directly attributable to a particular segment, they are allocated based upon headcount at each operating segment during the period. We use it, in part, to evaluate the performance of, and allocate resources to, each of our operating segments, which excludes certain operating expenses that are not allocated to operating segments because they are separately managed at the consolidated corporate level,
+
+or are noncash costs. These noncash or unallocated costs include stock-based compensation expense, research and development costs, and general and administrative costs.
+
+Results of Operations
+
+The following table summarizes our consolidated statements of operations data (in thousands):
+
+Years Ended December 31,
+
+2025 | 2024 | 2023
+
+Revenue | $ | 4,475,446 | $ | 2,865,507 | $ | 2,225,012
+
+Cost of revenue | 789,177 | 565,990 | 431,105
+
+Gross profit | 3,686,269 | 2,299,517 | 1,793,907
+
+Operating expenses:
+
+Sales and marketing | 1,056,859 | 887,755 | 744,992
+
+Research and development | 557,677 | 507,878 | 404,624
+
+General and administrative | 657,718 | 593,481 | 524,325
+
+Total operating expenses | 2,272,254 | 1,989,114 | 1,673,941
+
+Income from operations | 1,414,015 | 310,403 | 119,966
+
+Interest income | 229,181 | 196,792 | 132,572
+
+Other income (expense), net | 14,172 | (18,022) | (15,447)
+
+Income before provision for income taxes | 1,657,368 | 489,173 | 237,091
+
+Provision for income taxes | 22,724 | 21,255 | 19,716
+
+Net income | 1,634,644 | 467,918 | 217,375
+
+Less: Net income attributable to noncontrolling interests | 9,611 | 5,728 | 7,550
+
+Net income attributable to common stockholders | $ | 1,625,033 | $ | 462,190 | $ | 209,825
+
+The following table sets forth the components of our consolidated statements of operations data as a percentage of revenue:
+
+Years Ended December 31,
+
+2025 | 2024 | 2023
+
+Revenue | 100 | % | 100 | % | 100 | %
+
+Cost of revenue | 18 | 20 | 19
+
+Gross margin | 82 | 80 | 81
+
+Operating expenses:
+
+Sales and marketing | 23 | 31 | 34
+
+Research and development | 12 | 18 | 18
+
+General and administrative | 15 | 20 | 24
+
+Total operating expenses | 50 | 69 | 76
+
+Income from operations | 32 | 11 | 5
+
+Interest income | 5 | 7 | 6
+
+Other income (expense), net | — | (1) | —
+
+Income before provision for income taxes | 37 | 17 | 11
+
+Provision for income taxes | 1 | 1 | 1
+
+Net income | 36 | 16 | 10
+
+Less: Net income attributable to noncontrolling interests | — | — | 1
+
+Net income attributable to common stockholders | 36 | % | 16 | % | 9 | %
+
+Comparison of the Years Ended December 31, 2025 and 2024
+
+Revenue
+
+Years Ended December 31, | Change
+
+2025 | 2024 | Amount | %
+
+Revenue:
+
+Government | $ | 2,402,287 | $ | 1,569,605 | $ | 832,682 | 53 | %
+
+Commercial | 2,073,159 | 1,295,902 | 777,257 | 60 | %
+
+Total revenue | $ | 4,475,446 | $ | 2,865,507 | $ | 1,609,939 | 56 | %
+
+Revenue increased by $1.6 billion, or 56%, for the year ended December 31, 2025 compared to 2024. Revenue from government customers increased by $832.7 million, or 53%, for the year ended December 31, 2025 compared to 2024. Of the increase, $774.0 million was from government customers existing as of December 31, 2024. Revenue from U.S. government customers was $1.9 billion for the year ended December 31, 2025 compared to $1.2 billion for the same period in 2024. Revenue from commercial customers increased by $777.3 million, or 60%, for the year ended December 31, 2025 compared to 2024. Of the increase, $425.2 million was from commercial customers existing as of December 31, 2024, including a decrease of $37.0 million of revenue from Strategic Commercial Contracts. Revenue from U.S. commercial customers was $1.5 billion for the year ended December 31, 2025 compared to $702.3 million for the same period in 2024, a 109% increase.
+
+Generally, increases in revenue from our existing customers are related to the increased adoption of our products and services within their organizations. For additional information on Strategic Commercial Contracts, see Note 4. Investments and Fair Value Measurements in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+Cost of Revenue and Gross Profit
+
+Years Ended December 31, | Change
+
+2025 | 2024 | Amount | %
+
+Cost of revenue | $ | 789,177 | $ | 565,990 | $ | 223,187 | 39 | %
+
+Gross profit | 3,686,269 | 2,299,517 | 1,386,752 | 60 | %
+
+Gross margin | 82 | % | 80 | %
+
+Cost of revenue for the year ended December 31, 2025 increased by $223.2 million, or 39%, compared to 2024. The increase was primarily due to increases of $94.6 million in third-party cloud hosting services, $38.0 million in subcontractor expenses, $29.1 million in field-service representatives, and $26.9 million in payroll and other payroll-related costs.
+
+Our gross margin for the year ended December 31, 2025 increased from 80% for the same period in 2024 to 82%.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+Operating Expenses
+
+Years Ended December 31, | Change
+
+2025 | 2024 | Amount | %
+
+Sales and marketing | $ | 1,056,859 | $ | 887,755 | $ | 169,104 | 19 | %
+
+Research and development | 557,677 | 507,878 | 49,799 | 10 | %
+
+General and administrative | 657,718 | 593,481 | 64,237 | 11 | %
+
+Total operating expenses | $ | 2,272,254 | $ | 1,989,114 | $ | 283,140 | 14 | %
+
+Sales and Marketing
+
+Sales and marketing expenses increased by $169.1 million, or 19%, for the year ended December 31, 2025 compared to 2024. The increase was primarily due to increases of $76.4 million in payroll and other payroll-related costs, $18.3 million in marketing expenses, and $16.4 million in stock-based compensation expense and related expenses.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+Research and Development
+
+Research and development expenses increased by $49.8 million, or 10%, for the year ended December 31, 2025 compared to 2024. The increase was primarily due to increases of $35.6 million in third-party cloud hosting services and $19.0 million in payroll and other payroll-related costs. These were partially offset by a decrease of $19.8 million in stock-based compensation expense and related expenses
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+General and Administrative
+
+General and administrative expenses increased by $64.2 million, or 11%, for the year ended December 31, 2025 compared to 2024. The increase was primarily due to increases of $22.7 million in stock-based compensation expense and related expenses, and $19.4 million in payroll and other payroll-related costs.
+
+For additional information related to stock-based compensation expense, see the section titled “Stock-Based Compensation” below.
+
+Stock-Based Compensation
+
+Years Ended December 31, | Change
+
+2025 | 2024 | Amount | %
+
+Cost of revenue | $ | 64,555 | $ | 69,065 | $ | (4,510) | (7) | %
+
+Sales and marketing | 248,732 | 239,121 | 9,611 | 4 | %
+
+Research and development | 136,839 | 165,065 | (28,226) | (17) | %
+
+General and administrative | 233,907 | 218,387 | 15,520 | 7 | %
+
+Total stock-based compensation expense | $ | 684,033 | $ | 691,638 | $ | (7,605) | (1) | %
+
+Stock-based compensation expenses decreased by $7.6 million, or 1%, for the year ended December 31, 2025 compared to 2024. The decrease was driven by reductions in expense from SARs that fully vested and expensed during the year ended December 31, 2024, partially offset by expense from new grants awarded since and within the year ended December 31, 2024, including RSUs, P-RSUs, and SARs.
+
+Interest Income
+
+Years Ended December 31, | Change
+
+2025 | 2024 | Amount
+
+Interest income | $ | 229,181 | $ | 196,792 | $ | 32,389
+
+Interest income increased by $32.4 million for the year ended December 31, 2025 compared to 2024 primarily due to an increase in our interest-bearing cash, cash equivalents, and investments in short-term U.S. Treasury securities.
+
+Other Income (Expense), Net
+
+Years Ended December 31, | Change
+
+2025 | 2024 | Amount
+
+Other income (expense), net | $ | 14,172 | $ | (18,022) | $ | 32,194
+
+Other income (expense), net changed by $32.2 million for the year ended December 31, 2025 compared to 2024 primarily due to upward adjustments in privately-held securities and lower realized losses from marketable securities, partially offset by an increase in unrealized losses on marketable securities.
+
+Provision for Income Taxes
+
+Years Ended December 31, | Change
+
+2025 | 2024 | Amount
+
+Provision for income taxes | $ | 22,724 | $ | 21,255 | $ | 1,469
+
+The increase in the provision for income taxes was not material for the year ended December 31, 2025 compared to 2024. For additional information see Note 11. Taxes in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+Liquidity and Capital Resources
+
+As of December 31, 2025, our principal sources of liquidity were cash, cash equivalents, and short-term U.S. Treasury securities totaling $7.2 billion. We generated positive cash flow from operations for the year ended December 31, 2025. We believe that we have sufficient liquidity to meet our operating requirements for at least the next twelve months and thereafter for the foreseeable future. We continue to evaluate our liquidity and capital resources, including our access to external capital, to ensure we can finance future capital requirements.
+
+The following table summarizes our cash flows for the periods indicated (in thousands):
+
+Years Ended December 31,
+
+2025 | 2024 | 2023
+
+Net cash provided by (used in):
+
+Operating activities | $ | 2,134,473 | $ | 1,153,865 | $ | 712,183
+
+Investing activities | (2,783,551) | (340,655) | (2,711,180)
+
+Financing activities | (26,910) | 463,364 | 218,839
+
+Effect of foreign exchange on cash, cash equivalents, and restricted cash
+7,477 | (6,745) | 2,930
+
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+$ | (668,511) | $ | 1,269,829 | $ | (1,777,228)
+
+Operating Activities
+
+Net cash provided by operating activities was $2.1 billion and $1.2 billion for the year ended December 31, 2025 and 2024, respectively. The increase was primarily driven by revenue growth and timing of payments from customers, partially offset by timing of billings to customers.
+
+Investing Activities
+
+Net cash used in investing activities was $2.8 billion and $0.3 billion for the year ended December 31, 2025 and 2024, respectively. The increase in cash used in investing activities was primarily due to more purchases of short-term U.S. Treasury securities and privately-held securities compared to the prior year, partially offset by sales and redemptions of marketable securities.
+
+Financing Activities
+
+Net cash used in financing activities was $26.9 million for the year ended December 31, 2025 and net cash provided by financing activities was $463.4 million for the year ended December 31, 2024. Financing cash inflows consisted primarily of proceeds from the exercise of common stock options. Financing cash outflows were driven by taxes paid in the current year related to the net share settlement of SARs during the year ended December 31, 2024 and repurchases of our Class A common stock.
+
+Material Cash Requirements
+
+The following table summarizes our contractual obligations and commitments, which are associated with agreements that are enforceable and legally binding, as of December 31, 2025 (in thousands):
+
+Payments Due by Period
+
+Total | Less than 1 year | 1-3 years | 3-5 years | More than 5 years
+
+Noncancelable purchase commitments(1)
+$ | 1,758,951 | $ | 132,682 | $ | 515,169 | $ | 411,100 | $ | 700,000
+
+Operating lease commitments, net of sublease income amounts(2)
+221,098 | 48,293 | 53,090 | 37,754 | 81,961
+
+Total contractual obligations and commitments | $ | 1,980,049 | $ | 180,975 | $ | 568,259 | $ | 448,854 | $ | 781,961
+
+—————
+
+(1) Noncancelable purchase commitments primarily relate to purchase commitments for third-party cloud hosting services and represents only contracts which are enforceable and legally binding. Obligations under contracts that we can cancel without a significant penalty are not included in the table above. Refer to Note 8. Commitments and Contingencies in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information.
+
+(2) The contractual commitment amounts under operating leases in the table above are primarily related to facility and equipment leases. Operating lease commitments are reflected net of $71.4 million of sublease income from tenants in certain of our leased facilities and $63.2 million of imputed interest. Refer to Note 7. Leases in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K for additional information.
+
+As of December 31, 2025, we had no outstanding debt balances and additional available and undrawn revolving commitments of $500.0 million under our credit facility. For more information, see Note 6. Debt in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+In August 2023, our Board of Directors authorized a stock repurchase program of up to $1.0 billion of our outstanding shares of Class A common stock (the “Share Repurchase Program”). During the year ended December 31, 2025, the Company repurchased and subsequently retired 0.6 million shares of its Class A common stock for an aggregate amount, including commissions, of $75.0 million under our Share Repurchase Program. In January 2026, the Company terminated the Share Repurchase Program. For additional information on our Share Repurchase Program, see Note 9. Stockholders’ Equity in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+Our future capital requirements will depend on many factors, including, but not limited to, the rate of our growth, our ability to attract and retain customers and their willingness and ability to pay for our products and services, and the timing and extent of spending to support our efforts to market and develop our products. Further, we may enter into future arrangements to acquire or invest in businesses, products, services, strategic partnerships, and technologies. As such, we may seek additional equity or debt financing on an as needed or opportunistic basis. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If additional funds are not available to us on acceptable terms, or at all, our business, financial condition, and results of operations could be adversely affected.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements and the accompanying notes thereto included elsewhere in this Annual Report on Form 10-K are prepared in accordance with GAAP. The preparation of consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from our estimates. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+
+We believe that the accounting policies described below involve a significant degree of judgment and complexity. Accordingly, we believe these are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations. For further information, see Note 2. Significant Accounting Policies in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+Revenue Recognition
+
+We generate revenue from the sale of subscriptions to access our software platforms via Palantir Cloud and On-Premises Software, with ongoing O&M services and professional services.
+
+In accordance with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers, we recognized revenue upon the transfer of promised goods or services to customers in an amount that reflects the consideration to which we expect to be entitled in exchange for promised goods or services. We apply the following five-step revenue recognition model in accounting for our revenue arrangements:
+
+•identification of the contract(s) with the customer, including whether collectability of the consideration is probable by considering the customers’ ability and intention to pay;
+
+•identification of the performance obligations in the contract;
+
+•determination of the transaction price;
+
+•allocation of the transaction price to the performance obligations in the contract; and
+
+•recognition of revenue when, or as, we satisfy a performance obligation.
+
+Each of our significant performance obligations and our application of ASC 606 to our revenue arrangements is discussed in further detail below.
+
+Palantir Cloud
+
+Our Palantir Cloud subscriptions grant customers the right to access the software functionality in a hosted environment controlled by Palantir and are also sold together with stand-ready O&M services. We agree to provide continuous access to our hosted software platforms throughout the contract term. Revenue associated with Palantir Cloud subscriptions is generally recognized over the contract term on a ratable basis, which is consistent with the transfer of control of the Palantir Cloud services to the customer.
+
+On-Premises Software
+
+Sales of our software licenses, primarily term licenses, grant customers the right to use functional intellectual property, either on their internal hardware infrastructure or on their own cloud instance, over the contractual term and are also sold together with stand-ready O&M services. The O&M services include critical updates, support, and maintenance services required to operate our software and, as such, are necessary for our software to maintain its intended utility over the contractual term. Because of this requirement, we have concluded that the software licenses and O&M services, which together we refer to as our On-Premises Software, are highly interdependent and interrelated and represent a single distinct performance obligation within the context of the contract. Revenue is generally recognized over the contract term on a ratable basis.
+
+Professional Services
+
+Our professional services support the customers’ use of the software platforms and include, as needed, on-demand user support, user-interface configuration, training, and ongoing ontology and data modeling support. Professional services contracts typically include the provision of on-demand professional services for the duration of the contractual term, which may be coterminous or non-coterminous with a Palantir Cloud subscription or the On-Premises Software. Professional services are on-demand, whereby we perform services throughout the service period; therefore, the revenue is recognized over the related term.
+
+Areas of Judgment and Estimation
+
+Our contracts with customers can include multiple promises to transfer goods or services to the customer. We concluded that the promise to provide a software license is highly interdependent and interrelated with the promise to provide O&M services and such promises are not distinct within the context of our contracts and are accounted for as a single performance obligation for our On-Premises Software.
+
+Recent Accounting Pronouncements
+
+For information on recently issued accounting pronouncements, if any, refer to Note 2. Significant Accounting Policies in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.

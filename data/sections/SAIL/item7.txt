@@ -1,0 +1,751 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and the related notes included in Part II, Item 8 of this Annual Report.
+
+Our fiscal year end is January 31, and our fiscal quarters end on April 30, July 31, October 31, and January 31. Our fiscal year ended January 31, 2026, January 31, 2025 and January 31, 2024 are referred to herein as "fiscal 2026", "fiscal 2025", and "fiscal 2024," respectively. This MD&A generally discusses fiscal 2026 and fiscal 2025 items and year-to-year comparisons between 2026 and 2025. Discussions of fiscal 2024 items and year-to-year comparisons between 2025 and 2024 that are not included in this Form 10-K can be found in the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on our Form 10-K for the fiscal year ended 2025.
+
+Overview
+
+We deliver solutions to enable adaptive identity security for the enterprise. We do this via the SailPoint Platform that unifies identity data across systems and identity types, including employee identities, non-employee identities, machine identities, and AI agents for real-time governance. Our SaaS and customer-hosted offerings leverage intelligent analytics to provide organizations with critical visibility into which identities currently have access to which resources, which identities should have access to those resources, and how that access is being used. Our solutions enable organizations to establish, control, and automate policies that help them define and maintain a robust security posture and achieve regulatory compliance. Powered by AI, our solutions enable organizations to overcome the scale and complexity of managing identities in real-time across dynamic, complex IT environments. Our solutions empower organizations to maintain a robust security posture and achieve regulatory compliance.
+
+Today, we offer a range of solutions to meet the varied needs of our customers across a broad set of deployment options including: Identity Security Cloud, our SaaS-based cloud solution built on our unified SailPoint Platform, and IdentityIQ, our customer-hosted identity security solution. These solutions are designed to enable our customers to make more effective decisions regarding access, improve security processes, and provide them with a deeper understanding of identity and access.
+
+SailPoint was founded in 2005 by industry experts to develop a new category of identity solutions, address emerging identity security challenges, and drive innovation in the identity market. After establishing leadership in on-premises identity solutions, SailPoint pioneered standalone identity governance and administration SaaS solutions with advanced analytics. Today, SailPoint delivers a robust, extensible SaaS platform for identity security that is ready for the AI age with modern data architecture and just-in-time access to critical data for advanced use cases.
+
+In recent years, we have transitioned our business to a subscription model. This transition is substantially complete with subscription revenue, which consists primarily of SaaS, maintenance, and term subscriptions, comprising 94%, 92% and 89% of our total revenue for the year ended January 31, 2026, 2025 and 2024, respectively.
+
+Our customers include many of the world’s largest and most complex organizations, including large enterprises across all major verticals and governments. Most new customers purchase one of our SaaS suites, Standard, Business, or Business Plus. We believe we deliver exceptional value to our customers and as a result benefit from high customer retention. Our go-to-
+
+market approach tends to result in a larger land, with future opportunities for expansion. We focus on expanding our customer relationships over time with significant up-selling and cross-selling opportunities, including suite upgrades and additional products. In recent years, our expansion motion has grown rapidly, demonstrating the growing value proposition of our solutions. For the last twelve months ending January 31, 2026, over 95% of new SaaS customers landed with a suite offering.
+
+For Identity Security Cloud, our SaaS-based cloud solution, and IdentityIQ, our customer-hosted solution, our customers typically enter into three-year contracts, with annual billing upfront. For Identity Security Cloud, our pricing is tiered and based on the suite, with the option for the customer to purchase additional products and capabilities a-la-carte. We price our IdentityIQ term subscriptions based on a number of factors, including the number of digital identities governed with the solution. Customers also have the option to purchase additional products and capabilities.
+
+Key Factors Affecting Our Performance
+
+Our historical financial performance has been, and we expect our financial performance in the future to be, driven by our ability to:
+
+Add New Customers within Existing Markets. Countless organizations still use a combination of legacy solutions and home-grown tools. Furthermore, we estimate that over 60% of organizations in our target market still have a fragmented identity experience or use a mostly manual process based on our internal research. As a result, we believe that there is a significant opportunity for us to accelerate the growth of our customer base by enhancing our marketing efforts, increasing our sales capacity and productivity, and expanding and further leveraging our use of channel partners, including managed service providers. Our ability to attract new customers depends on a number of factors, including the effectiveness and pricing of our solutions, our ability to drive awareness of them, and the offerings of our competitors.
+
+Generate Additional Sales to Existing Customers. We believe that our existing customer base provides us with a significant opportunity to expand incremental sales. Most new customers initially purchase one of our SaaS suites (Standard, Business, or Business Plus). We focus on expanding our customer relationships over time through up-selling and cross-selling opportunities, including suite upgrades and additional products. Additionally, we are focused on continuing to migrate customers of our customer-hosted solution to our SaaS suites, which typically results in increased ARR because of the additional functionality that our SaaS suites offer. Our ability to increase sales to existing customers will depend on a number of factors, including our customers’ satisfaction with our products, competition, pricing, and overall changes in our customers’ spending levels.
+
+Increase Share of Revenue Derived from SaaS. Our go-to-market motion is focused primarily on Identity Security Cloud, our SaaS offering. We define incremental ARR as the increase in ARR from the prior period to current period. While we expect that this increase in SaaS contracts will drive growth in ARR, it is also expected to have a near term negative impact on revenue growth, driven by differences in revenue recognition policies between SaaS subscriptions and term subscriptions, and gross margins, as we incur hosting costs for our SaaS offering. Our ability to increase our revenue from SaaS subscriptions will depend on a number of factors, including our customers’ specific circumstances, some of which necessitate their preference for our customer-hosted identity governance solution, IdentityIQ.
+
+Deepen our Penetration in International Markets. We expect to continue to invest in our sales and marketing efforts and channel partner network to expand our reach and deepen our presence in existing geographies and to expand into new geographies. We believe that our global market opportunity is large and growing in response to the evolving IT and threat landscapes. We generated 65% of our revenue from the United States, 21% of our revenue from EMEA and 14% from the rest of the world, billed primarily in U.S. dollars, for the year ended January 31, 2026. Our ability to deepen our penetration in international markets will depend on a number of factors, including the competitiveness of our solutions, the efficacy of our channel partner network, and our sales and marketing efforts.
+
+Sustain Technology Leadership Through Extending Identity Security Portfolio. We recently launched new offerings in non-employee risk management, data access security, access risk management, and cloud infrastructure entitlement management. We are thoughtfully investing in AI, both to increase the capabilities of our solutions, as well as to help our customers protect their organizations while adopting AI for their own use cases. We intend to continue investing to extend our position as the leader in identity security by developing or acquiring new products and technologies and extending our portfolio into additional identity security use cases. Our future success is dependent on our ability to successfully develop, identify, market, and sell existing and new products to both new and existing customers.
+
+Impact of Current Economic Conditions
+
+Worldwide economic and political uncertainties and negative trends, including financial and credit market fluctuations, tariffs and increasing trade protectionism, changes in government spending levels, uncertainty in the banking sector, rising interest rates, inflation and other impacts from the macroeconomic environment have, and could continue to, adversely affect our business operations or financial results. As we continue to monitor the direct and indirect impacts of these circumstances, the broader implications of these macroeconomic and political events on our business, results of operations and overall financial position remain uncertain. See the section titled "Risk Factors'' included under Part I, Item 1A above for further discussion of the possible impact of these factors and other risks on our business.
+
+Key Business Metrics
+
+In addition to our financial information prepared in accordance with GAAP, we monitor the following key business metrics to help us measure and evaluate the effectiveness of our operations. Although we believe we have a reasonable basis for each of these metrics, we caution you that these metrics are based on a combination of assumptions that may prove to be inaccurate over time. Please see the section titled “Risk Factors” for more information.
+
+Total Customers and Customers by ARR Level
+
+The approximate number of customers at each ARR level are as follows:
+
+As of January 31,
+
+2026 | 2025 | 2024
+
+Customers
+3,235 | 2,975 | 2,760
+
+Customers less than $250,000 in ARR
+2,000 | 1,995 | 1,980
+
+Customers greater than $250,000 in ARR
+1,235 | 980 | 780
+
+Customers greater than $1,000,000 in ARR
+215 | 160 | 90
+
+As of January 31, 2026, the number of customers with $250,000 or more of ARR and with over $1,000,000 of ARR increased 26% and 34%, respectively, on a year-over-year basis. As of January 31, 2025, the number of customers with $250,000 or more of ARR and with over $1,000,000 of ARR increased 26% and 78%, respectively, on a year-over-year basis. We expect the increase in our overall customer count to continue as customers realize the growing value proposition of our solutions.
+
+Annual Recurring Revenue
+
+We believe ARR is a key metric to measure our business performance because it measures our ability to generate sales with new customers and to maintain and expand spend with existing customers. The way we define ARR normalizes the impact of revenue recognition differences between SaaS contracts and term subscription agreements. In recent years, ARR has grown faster than revenue, as a greater share of incremental ARR has been driven by SaaS contracts which have ratable revenue recognition compared to term subscription agreements where a portion of the contract value is recognized as revenue up-front.
+
+We define ARR as the annualized value of SaaS, maintenance, term subscription, and other subscription contracts as of the measurement date. To the extent that we are actively negotiating a renewal or new agreement with a customer after the expiration of a contract, we continue to include that contract’s annualized value in ARR until the customer notifies us that it is not renewing its contract. The amount included in our ARR calculation related to these contracts was less than 1% as of the end of each period shown in the ARR table below. We calculate ARR by dividing the active contract value by the number of days of the contract and then multiplying by 365. ARR should be viewed independently of revenue, as ARR is an operating metric and is not intended to be combined with or to replace revenue. ARR is not a forecast of future revenue, which can be impacted by ASC 606 allocations, and ARR does not consider other sources of revenue that are not recurring in nature.
+
+ARR does not have a standardized meaning and is not necessarily comparable to similarly titled measures presented by other companies. Our ARR has grown in each of the past three years, reflecting growth in new customers as well as expanded sales to existing customers. The following table presents our ARR as of the end of each period noted below (dollars in millions):
+
+As of January 31,
+
+2026 | 2025 | 2024
+
+ARR
+$ | 1,124.8 | $ | 876.7 | $ | 681.8
+
+SaaS Annual Recurring Revenue
+
+In recent years, we have transitioned our business to a SaaS-first subscription model. As a result of those efforts, our SaaS ARR has continued to show strong growth, and the share of SaaS ARR to total ARR has increased from 57% to 66% from January 31, 2024 to January 31, 2026. We believe the share of ARR generated by our SaaS solution will continue to increase over time.
+
+We define SaaS ARR as the annualized value of SaaS contracts as of the measurement date. To the extent that we are actively negotiating a renewal or new agreement with a customer after the expiration of a contract, we continue to include that contract’s annualized value in SaaS ARR until the customer notifies us that it is not renewing its contract. The amount included in our ARR calculation related to these contracts was less than 1% as of the end of each period shown in the SaaS ARR table below. We calculate SaaS ARR by dividing the active SaaS contract value by the number of days of the contract and then multiplying by 365.
+
+SaaS ARR should be viewed independently of subscription revenue as SaaS ARR is an operating metric and is not intended to be combined with or replace subscription revenue. SaaS ARR is not a forecast of future subscription revenue, which can be impacted by ASC 606 allocations and renewal rates and does not consider other sources of revenue that are not recurring in nature. The following table presents our SaaS ARR as of the end of each period noted below (dollars in millions):
+
+As of January 31,
+
+2026 | 2025 | 2024
+
+SaaS ARR
+$ | 746.2 | $ | 540.3 | $ | 388.3
+
+Dollar-Based Net Retention Rate
+
+We define dollar-based net retention rate as the comparison of our ARR from our subscription customers against the same metric for those subscription customers from the prior year. For the purposes of calculating our dollar-based net retention rate, we define a subscription customer as a separate legal entity that has entered into a distinct subscription agreement. Our dollar-based net retention rate reflects customer expansion, contraction, and churn. We calculate our dollar-based net retention rate as of period end by starting with the ARR from all subscription customers as of 12 months prior to such period end, or prior period ARR. We then calculate the ARR from these same subscription customers as of the current period end, or current period ARR. We then divide the current period ARR by the prior period ARR to arrive at our dollar-based net retention rate. The dollar-based net retention rate at the end of any period is the weighted average of the dollar-based net retention rates as of the end of each of the trailing 4 quarters. The following table presents our dollar-based net retention rate as of the end of each period noted below:
+
+As of January 31,
+
+2026 | 2025 | 2024
+
+Dollar-based net retention rate
+113 | % | 114 | % | 114 | %
+
+Factors Affecting the Comparability of Our Results of Operations
+
+Our historical results of operations may not be comparable from period to period or going forward.
+
+On February 14, 2025, we closed the IPO and became a public company. We incur additional costs associated with operating as a public company as compared to periods prior to the IPO. The Sarbanes-Oxley Act, as well as rules adopted by the SEC and national securities exchanges, require public companies to implement specified corporate governance practices that were inapplicable to us as a private company. These additional rules and regulations increase our legal, regulatory, financial, and insurance compliance costs and make some activities more time-consuming and costly.
+
+We incurred a significant increase in equity-based compensation expense due to the conversion and vesting of equity awards issued prior to the IPO as well as the issuance of equity awards to certain employees in connection with the IPO. On January 31, 2025, the Board approved modifications to accelerate the vesting of certain incentive units, EARs, and cash settled awards subject to the pricing and closing of the IPO. Upon the IPO, the vested incentive units were considered redeemable. As a result of the modifications and the closing of the IPO during our fiscal year 2026, we recognized $113.8 million of equity-based compensation expense in the consolidated statement of operations, which was comprised of $61.5 million, $12.6 million, and $39.8 million of expense for the modified incentive units, EARs, and cash settled awards, respectively. During February 2025, we issued 16,483,859 RSUs primarily in connection with our IPO under the SailPoint, Inc. Omnibus Incentive Plan (the “Omnibus Plan”) to certain of our employees, including our executive officers, and directors of the Board. These RSUs will vest predominately over two to four years based on continued service. See Note 12 "Equity-Based Compensation" in the notes to our consolidated financial statements for additional information.
+
+On February 12, 2025, in conjunction with the IPO, SailPoint Parent, LP converted into a Delaware corporation pursuant to a statutory conversion and changed its name to SailPoint, Inc. (the "Corporate Conversion"). In conjunction with the Corporate Conversion, all of our outstanding partnership units were converted into an aggregate of 499,060,464 shares of our common stock. The number of shares of common stock issuable to holders of Class A Units and holders of Class B Units in connection with the Corporate Conversion was determined pursuant to the applicable provisions of the plan of conversion.
+
+Following the closing of the IPO, we no longer incur Thoma Bravo monitoring fees.
+
+During the first quarter of fiscal year 2027, we issued 20,799,064 RSUs to certain of our employees, including executive officers. Stock-based compensation expense is estimated to be $289.7 million and will be recognized over four years based on continued service.
+
+Components of Results of Operations
+
+Revenue
+
+Subscription Revenue
+
+The majority of our revenue relates to subscription revenue which consists of (i) fees for access to, and related support for, the SaaS offerings, (ii) fees for term subscriptions, (iii) fees for ongoing maintenance and support of perpetual license solutions, and (iv) other subscription services such as cloud managed services, and certain professional services. Term subscriptions include the term licenses and ongoing maintenance and support. Maintenance and support agreements consist of fees for providing software updates on a when and if available basis and for providing technical support for software products for a specified term.
+
+Subscription revenue, including support for term licenses, is recognized ratably over the term of the applicable agreement. Revenue related to term subscription performance obligations, excluding support for term subscriptions, is recognized upfront at the point in time when the customer has taken control of the software license.
+
+Over time, we expect subscription revenue will increase as a percentage of total revenue as we continue to focus on increasing our subscription revenue, specifically our SaaS offering, as a key strategic priority.
+
+Services and Other Revenue
+
+Services and other revenue consist primarily of fees from professional services provided to customers and partners to configure and optimize the use of our solutions as well as non-subscription training services. Our professional services are structured on a time-and-materials or fixed priced basis, and the related revenue is recognized as the services are rendered.
+
+Services and other revenue also consists of revenues from perpetual license performance obligations and is recognized upfront at the point in time when the customer has taken control of the software license. All perpetual license transactions include maintenance and support performance obligations which are included in subscription revenue. For the year ended January 31, 2026, the Company has begun presenting perpetual license revenue as part of services and other revenue due to amounts no longer being significant and has recast prior year amounts accordingly.
+
+Over time, we expect our professional services revenue as a percentage of total revenue to decrease as we increasingly rely on partners to help our customers deploy our software and on our focus on increasing subscription revenue.
+
+Cost of Revenue
+
+Cost of Subscription Revenue
+
+Cost of subscription revenue consists primarily of third-party cloud-based hosting costs, software, amortization expenses for developed technology acquired, amortization expense for capitalized software development costs, equity-based compensation, employee-related costs (which we define as salaries, benefits, bonuses and allocated overhead) for providing subscriptions, third party royalties, facilities costs and contractor costs to supplement staff levels. We expect third-party cloud-based hosting costs to increase as our SaaS subscriptions continue to grow.
+
+Cost of Services and Other Revenue
+
+Cost of services and other revenue consists primarily of (1) employee-related costs of professional services and training organizations, equity-based compensation, travel-related costs, facilities costs and contractor costs to supplement staff levels; and (2) amortization expense for developed technology acquired and third-party royalties related to perpetual licenses. As of the year ended January 31, 2026, the Company has begun presenting cost of perpetual license revenue as part of cost of services and other revenue due to amounts no longer being significant and has recast prior year amounts accordingly.
+
+Gross Profit and Gross Profit Margin
+
+Gross profit is revenue less cost of revenue, and gross profit margin is gross profit as a percentage of total revenue. Gross profit has been and will continue to be affected by various factors, including the mix of our revenue, the costs associated with third-party cloud-based hosting services and software for our SaaS offering, and the extent to which we expand our customer support, professional services, and training organizations. We expect that our overall gross profit margin will fluctuate from period to period depending on the mix of these various factors.
+
+Operating Expenses
+
+Research and Development Expenses
+
+Research and development expenses consist primarily of employee-related costs, equity-based compensation, software and hosting arrangement expenses, facilities costs, professional services expense, and amortization expense for acquired intangible assets.
+
+We believe that continued investment in our offerings is vital to the growth of our business, and we intend to continue to invest in product development. We expect our research and development expenses to continue to increase on an absolute basis in the foreseeable future but to decrease as a percentage of revenue as our business grows.
+
+Sales and Marketing Expenses
+
+Sales and marketing expenses consist primarily of employee-related cost (which includes commissions), equity-based compensation, costs for events and travel, facilities costs, costs of general marketing and promotional activities, payment processing fees and amortization expense for acquired intangible assets, and contract acquisition costs.
+
+We expect our sales and marketing expenses to increase on an absolute basis for the foreseeable future as we continue to invest in our sales force for expansion to new geographic and vertical markets. We expect sales and marketing expenses to continue to be our largest operating expense category.
+
+General and Administrative Expenses
+
+General and administrative expenses consist primarily of employee-related costs related to the corporate functions such as executive and internal administrative operations, as well as equity-based compensation, third-party professional fees, bad debt expense, travel, and facilities costs.
+
+We expect our general and administrative expenses to increase on an absolute basis as a result of operating as a public company, including costs to comply with the rules and regulations applicable to companies listed on a national securities exchange, costs related to compliance and reporting obligations, and increased expenses for insurance, investor relations, and professional services. However, we expect that our general and administrative expense will decrease as a percentage of our revenue as our revenue grows over the longer term as our business grows.
+
+We also expect to incur higher equity-based compensation as we operate as a public company, which will result in an increase in costs of revenue, research and development expenses, sales and marketing expenses, and general and administrative expenses.
+
+Other Income (Expense), Net
+
+Other income (expense), net consists primarily of interest income and interest expense. Interest income consists primarily of interest received on cash equivalents, which we expect will fluctuate based on our cash balances and interest rates.
+
+We expect interest expense to decrease due to the repayment of our Term Loans.
+
+Income Tax Benefit (Expense)
+
+Our income tax benefit (expense) consists of U.S. and state income taxes and income taxes in certain foreign jurisdictions in which we conduct business. Our income tax rate varies from the federal statutory rate due to state income taxes, differences in accounting and tax treatment of our equity-based compensation, research and development credits, and changes in the valuation allowance. We expect fluctuation in effective income tax rates, as well as its potential impact on our results of operations, to continue.
+
+Seasonality
+
+We generally experience seasonal fluctuations in demand for our products and services. Our quarterly sales are impacted by industry buying patterns. As a result, our sales have generally been highest in the fourth fiscal quarter and lowest in the first fiscal quarter. Although these seasonal factors are common in the technology industry, historical patterns should not be considered a reliable indicator of our future sales activity or performance.
+
+Results of Operations
+
+The following table sets forth our results of operations for the periods presented and as a percentage of revenue (in thousands, except for percentages, units and per unit data). The period-to-period comparison of results is not necessarily indicative of results for future periods.
+
+Year Ended January 31
+
+2026 | 2025 | 2024
+
+Revenue
+
+Subscription | $ | 1,010,198 | 94 | % | $ | 793,919 | 92 | % | $ | 622,830 | 89 | %
+
+Services and other | 61,218 | 6 | 67,692 | 8 | 76,742 | 11
+
+Total revenue | 1,071,416 | 100 | 861,611 | 100 | 699,572 | 100
+
+Cost of revenue
+
+Subscription (2)
+302,367 | 28 | 236,581 | 28 | 205,053 | 29
+
+Services and other (2)
+78,258 | 7 | 69,152 | 8 | 71,582 | 10
+
+Total cost of revenue | 380,625 | 36 | 305,733 | 35 | 276,635 | 40
+
+Gross profit | 690,791 | 64 | 555,878 | 65 | 422,937 | 60
+
+Operating expenses
+
+Research and development (2) (3)
+222,961 | 21 | 169,730 | 20 | 180,778 | 26
+
+Sales and marketing (2) (3)
+574,846 | 54 | 466,903 | 54 | 461,187 | 66
+
+General and administrative (2)
+200,470 | 19 | 107,979 | 13 | 113,701 | 16
+
+Total operating expenses | 998,277 | 93 | 744,612 | 86 | 755,666 | 108
+
+Loss from operations | (307,486) | (29) | (188,734) | (22) | (332,729) | (48)
+
+Other income (expense), net
+
+Interest income | 10,790 | 1 | 4,158 | 1 | 10,658 | 2
+
+Interest expense | (24,635) | (2) | (186,652) | (22) | (187,059) | (27)
+
+Other income (expense), net | (4,668) | — | (5,401) | (1) | (3,219) | 1
+
+Total other income (expense), net | (18,513) | (2) | (187,895) | (22) | (179,620) | (26)
+
+Loss before income taxes | (325,999) | (30) | (376,629) | (44) | (512,349) | (73)
+
+Income tax benefit (expense) | 55,945 | 5 | 60,799 | 7 | 116,982 | 17
+
+Net loss | $ | (270,054) | (25) | % | $ | (315,830) | (37) | % | $ | (395,367) | (57) | %
+
+Class A yield | $ | (23,786) | $ | (764,549) | $ | (583,672)
+
+Net loss attributable to common stockholders and Class B unitholders | $ | (293,840) | $ | (1,080,379) | $ | (979,039)
+
+Net loss per share attributable to common stockholders and Class B unitholders, basic and diluted (1)
+$ | (0.54) | $ | (12.91) | $ | (12.13)
+
+Weighted average Class B Units outstanding—basic and diluted (1)
+544,159 | 83,716 | 80,746
+
+_______________
+
+Note: Certain percentages may not foot due to rounding.
+
+(1) Amounts for the period during February 2025 prior to the Corporate Conversion have been retrospectively adjusted to give effect to the Corporate Conversion described in Note 1 in this Annual Report. These amounts do not consider the shares of common stock sold in our IPO or the Class A Units considered preferred shares that were converted into common stock and issued upon the closing of our IPO. We did not retrospectively adjust for the effect of the Corporate Conversion for periods prior to fiscal year 2026.
+
+(2) Includes equity-based compensation expense as follows:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(In thousands)
+
+Cost of revenue
+
+Subscription | $ | 19,754 | $ | 7,119 | $ | 6,675
+
+Services and other | 15,473 | 6,652 | 5,772
+
+Operating expenses
+
+Research and development | 52,990 | 23,139 | 30,373
+
+Sales and marketing | 103,484 | 38,387 | 52,292
+
+General and administrative | 118,099 | 24,272 | 39,707
+
+Total equity-based compensation expense | $ | 309,800 | $ | 99,569 | $ | 134,819
+
+(3) Includes amortization expense of acquired intangible assets as follows:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(In thousands)
+
+Cost of revenue
+
+Subscription | $ | 106,476 | $ | 103,329 | $ | 100,820
+
+Services and other
+2 | 154 | 2,147
+
+Operating expenses
+
+Research and development | 443 | 380 | 32
+
+Sales and marketing | 95,147 | 126,445 | 154,030
+
+Total amortization expense | $ | 202,068 | $ | 230,308 | $ | 257,029
+
+Comparison of the Years Ended January 31, 2026 and 2025
+
+Revenue
+
+Year Ended January 31,
+
+2026 | 2025 | variance $ | variance %
+
+(In thousands, except percentages)
+
+Revenue
+
+Subscription
+
+SaaS | $ | 602,149 | $ | 444,595 | $ | 157,554 | 35 | %
+
+Maintenance and support | 150,879 | 154,351 | (3,472) | (2) | %
+
+Term subscriptions | 229,292 | 173,917 | 55,375 | 32 | %
+
+Other subscription services | 27,878 | 21,056 | 6,822 | 32 | %
+
+Total subscription | 1,010,198 | 793,919 | 216,279 | 27 | %
+
+Services and other | 61,218 | 67,692 | (6,474) | (10) | %
+
+Total revenue | $ | 1,071,416 | $ | 861,611 | $ | 209,805 | 24 | %
+
+Subscription Revenue. Subscription revenue increased by $216.3 million, or 27%, for the year ended January 31, 2026 compared to the year ended January 31, 2025 primarily due to an increase in SaaS revenue and term subscription revenue from our focus on selling subscriptions to new customers and expanding our footprint with existing customers.
+
+Services and Other Revenue. Services and other revenue decreased by $6.5 million, or 10%, for the year ended January 31, 2026 compared to the year ended January 31, 2025. This decrease is primarily a result of a shift toward selling a higher proportion of professional services and training on a subscription basis.
+
+Cost of Revenue
+
+Year Ended January 31,
+
+2026 | 2025 | variance $ | variance %
+
+(In thousands, except percentages)
+
+Cost of revenue
+
+Subscription | $ | 302,367 | $ | 236,581 | $ | 65,786 | 28 | %
+
+Services and other | 78,258 | 69,152 | 9,106 | 13 | %
+
+Total cost of revenue | $ | 380,625 | $ | 305,733 | $ | 74,892 | 24 | %
+
+Cost of Subscription Revenue. Cost of subscription revenue increased $65.8 million, or 28%, for the year ended January 31, 2026 compared to the year ended January 31, 2025 primarily due to an increase in employee-related costs of $25.5 million due to higher headcount and increased investments in personnel, an increase in software and hosting costs of $19.7 million from the increase in sales of SaaS subscriptions, an increase of $12.6 million related to acceleration of equity-based awards from the completion of our IPO and the issuance of new equity-based awards, an increase in amortization of intangibles of $3.1 million from the Savvy and Imprivata acquisitions, an increase in third-party royalties of $1.5 million from growth in our business, an increase in partner costs of $1.4 million from growth in our business, and an increase in amortization of capitalized software of $1.4 million due to overall increase in capitalizable projects when compared to the prior period.
+
+Cost of Services and Other. Cost of services and other increased by $9.1 million, or 13%, for the year ended January 31, 2026 compared to the year ended January 31, 2025, primarily due to employee-related costs of $7.0 million from the acceleration of equity-based awards from the completion of our IPO and the issuance of new equity-based awards and an increase in partner costs of $2.1 million.
+
+Gross Profit and Gross Margin
+
+Year Ended January 31,
+
+2026 | 2025 | variance $ | variance %
+
+(In thousands, except percentages)
+
+Gross profit
+
+Subscription | $ | 707,831 | $ | 557,338 | $ | 150,493 | 27 | %
+
+Services and other | (17,040) | (1,460) | (15,580) | **
+
+Total gross profit | $ | 690,791 | $ | 555,878 | $ | 134,913 | 24 | %
+
+Year Ended January 31,
+
+2026 | 2025
+
+Gross profit margin
+
+Subscription | 70 | % | 70 | %
+
+Services and other | (28) | % | (2) | %
+
+Total gross profit margin | 64 | % | 65 | %
+
+Subscription. Subscription gross profit increased by $150.5 million, or 27%, during the year ended January 31, 2026 compared to the year ended January 31, 2025. The increase was primarily due to the growth in subscription revenue. Subscription gross profit margin remained consistent with the prior period.
+
+Services and Other. Services and other gross profit decreased by $15.6 million during the year ended January 31, 2026 compared to the year ended January 31, 2025. The decrease in gross profit is primarily due to an increase in employee-related costs and the acceleration of equity-based awards from the completion of our IPO and the issuance of new equity-based awards and lower revenue from professional services and training as a result of the shift toward selling these services on a subscription basis. Services and other gross profit margin was (28)% for the year ended January 31, 2026 and (2)% for the year ended January 31, 2025. The change was primarily due to employee-related costs related to acceleration of equity-based awards from the completion of our IPO and the issuance of new awards and the decrease in services and other revenue.
+
+Total gross profit increased by $134.9 million, or 24%, during the year ended January 31, 2026 compared to the year ended January 31, 2025. The increase is primarily due to the growth in total revenue. Total gross profit margin remained materially consistent with the prior period.
+
+Operating Expenses
+
+Year Ended January 31,
+
+2026 | 2025 | variance $ | variance %
+
+(In thousands, except percentages)
+
+Operating expenses
+
+Research and development | $ | 222,961 | $ | 169,730 | $ | 53,231 | 31 | %
+
+Sales and marketing | 574,846 | 466,903 | 107,943 | 23 | %
+
+General and administrative | 200,470 | 107,979 | 92,491 | 86 | %
+
+Total operating expenses | $ | 998,277 | $ | 744,612 | $ | 253,665 | 34 | %
+
+Research and Development Expenses. Research and development expenses increased by $53.2 million, or 31%, for the year ended January 31, 2026 compared to the year ended January 31, 2025. This increase was primarily driven by a $29.9 million increase in equity-based compensation due to the acceleration of awards from the completion of our IPO and the issuance of new equity-based awards, a $14.6 million increase in employee-based costs due to continued investment in talent related to the development of our products and a $6.5 million increase in software and hosting costs from initiatives to continue to grow our business.
+
+Sales and Marketing Expenses. Sales and marketing expenses increased by $107.9 million, or 23%, for the year ended January 31, 2026 compared to the year ended January 31, 2025. This increase was primarily driven by a $65.1 million increase in equity-based compensation due to the acceleration of awards from the completion of our IPO and the issuance of new equity-based awards, a $58.4 million increase in employee-based costs to support increased penetration into our existing customer base and expansion into new industry verticals and geographic markets, a $7.8 million increase in advertising and promotion costs from Navigate and other initiatives aimed at expanding the business, a $2.8 million increase in travel expenses from an increased headcount, a $1.9 million increase in software and hosting costs from initiatives to continue to grow our business, a $1.6 million increase for the fair value remeasurement of the contingent consideration related to the Imprivata acquisition, and a $1.2 million increase in professional services fees from consulting fees. This increase was partially offset by a $31.3 million decrease in intangible amortization attributable to certain intangible assets reaching full amortization.
+
+General and Administrative Expenses. General and administrative expenses increased by $92.5 million, or 86%, for the year ended January 31, 2026 compared to the year ended January 31, 2025. This increase was primarily driven by a $93.8 million increase in equity-based compensation due to the acceleration of awards from the completion of our IPO and the issuance of new equity-based awards, a $6.0 million increase in employee-related costs due to higher headcount and increased investments in existing employees, a $3.3 million increase in provision for credit losses due to higher write offs based on higher accounts receivable balances throughout the year, a $2.1 million increase in software and hosting costs from initiatives to continue to grow our business, and a $1.0 million increase in travel expenses primarily related to the IPO. This increase was partially offset by a $14.9 million decrease in professional service fees primarily attributed to the termination of the advisory services agreement with Thoma Bravo upon the closing of our IPO.
+
+Other Income (Expense), Net
+
+Year Ended January 31,
+
+2026 | 2025 | variance $ | variance %
+
+(In thousands, except percentages)
+
+Other income (expense), net
+
+Interest income | $ | 10,790 | $ | 4,158 | $ | 6,632 | 159 | %
+
+Interest expense | (24,635) | (186,652) | 162,017 | (87) | %
+
+Other income (expense), net | (4,668) | (5,401) | 733 | (14) | %
+
+Total other income (expense), net | $ | (18,513) | $ | (187,895) | $ | 169,382 | (90) | %
+
+Total other income (expense) decreased by $169.4 million, or 90%, for the year ended January 31, 2026 compared to the year ended January 31, 2025. This decrease was primarily due to a $162.0 million net decrease in interest expense due to the full repayment of our Term Loans and termination of our 2022 Revolving Credit Facility, which includes $16.7 million for the extinguishment of debt related to the remaining balance of the deferred financing costs of our Term Loans and debt issuance costs for our 2022 Revolving Credit Facility, a $6.6 million increase in interest income due to an increase in our cash and cash equivalents, and a $0.7 million decrease in other expense related to foreign currency exchange loss.
+
+Income Tax Benefit
+
+Year Ended January 31,
+
+2026 | 2025 | variance $ | variance %
+
+(In thousands, except percentages)
+
+Income tax benefit | $ | 55,945 | $ | 60,799 | $ | (4,854) | (8) | %
+
+The Company recorded an income tax benefit of $55.9 million for the year ended January 31, 2026 compared to an income tax benefit of $60.8 million for the year ended January 31, 2025, leading to a net benefit decrease of $4.9 million, or 8%, year-over-year. The decrease is primarily due to certain non-deductible equity-based compensation and non-deductible executive officer compensation that is partially offset by the decrease in valuation allowance. For further information, refer to Note 14 “Income Taxes” in our notes to our consolidated financial statements included in this Annual Report.
+
+We operate in several tax jurisdictions and are subject to taxes in each country or jurisdiction in which we conduct business. Earnings from our non-U.S. activities are subject to local country income tax and may be subject to U.S. income tax if such earnings are distributed to the U.S.
+
+We consider the earnings of certain foreign subsidiaries to be permanently reinvested in foreign jurisdictions.
+
+Non-GAAP Financial Measures
+
+In addition to our financial information presented in accordance with GAAP, we use certain “non-GAAP financial measures” to clarify and enhance our understanding of past performance.
+
+Our non-GAAP financial measures may not provide information that is directly comparable to that provided by other companies in our industry because they may calculate non-GAAP financial results differently. In addition, there are limitations in using non-GAAP financial measures because they are not prepared in accordance with GAAP and exclude expenses that may have a material impact on our reported financial results. In particular, interest expense, which is excluded from adjusted income from operations, has been a significant recurring expense in our business. The presentation of non-GAAP financial information is not meant to be considered in isolation or as a substitute for the directly comparable financial measures prepared in accordance with GAAP. We urge you to review the reconciliations of our non-GAAP financial measures to the comparable GAAP financial measures included below and not to rely on any single financial measure to evaluate our business.
+
+We believe excluding items that do not reflect our ongoing, core operating or business performance, such as equity-based compensation, payroll taxes related to awards that were accelerated upon the closing of our IPO, payroll taxes related to RSUs, amortization of acquired intangible assets, and acquisition-related expenses (including fair value adjustments to acquisition-contingent consideration), enables management and investors to compare our underlying business performance from period-to-period. Accordingly, we believe these adjustments facilitate a useful evaluation of our current operating
+
+performance and comparison to our past operating performance and provide investors with additional means to evaluate cost and expense trends. In addition, we also believe these adjustments enhance comparability of our financial performance against those of other technology companies.
+
+Adjusted Gross Profit and Adjusted Gross Profit Margin
+
+We define adjusted gross profit and adjusted gross profit margin as excluding equity-based compensation expense, payroll taxes related to awards that were accelerated upon the closing of our IPO and payroll taxes related to RSUs, all of which were issued after the closing of the IPO, amortization of acquired intangible assets, acquisition related expenses and restructuring expenses.
+
+The following table reflects the reconciliation of adjusted gross profit to gross profit and adjusted gross profit margin to gross profit margin:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(In thousands, except percentages)
+
+GAAP gross profit | $ | 690,791 | $ | 555,878 | $ | 422,937
+
+GAAP gross profit margin | 64 | % | 65 | % | 60 | %
+
+Equity-based compensation expense | 35,227 | 13,771 | 12,447
+
+Payroll taxes for IPO-accelerated awards and RSUs
+1,192 | — | —
+
+Amortization of acquired intangible assets | 106,478 | 103,483 | 102,967
+
+Acquisition-related expenses
+— | — | 58
+
+Restructuring | — | — | 94
+
+Adjusted gross profit | $ | 833,688 | $ | 673,132 | $ | 538,503
+
+Adjusted gross profit margin | 78 | % | 78 | % | 77 | %
+
+Our adjusted gross profit margin (adjusted gross profit as a percentage of revenue) has remained generally consistent in recent periods and reflects the high value-added nature of our offerings.
+
+Adjusted Subscription Gross Profit and Adjusted Subscription Gross Profit Margin
+
+We define adjusted subscription gross profit and adjusted subscription gross profit margin as excluding equity-based compensation expense, payroll taxes related to awards that were accelerated upon the closing of our IPO and payroll taxes related to RSUs, all of which were issued after the closing of the IPO, amortization of acquired intangible assets, which includes impairment, acquisition related expenses and restructuring expenses.
+
+The following table reflects the reconciliation of adjusted subscription gross profit to subscription gross profit and adjusted subscription gross profit margin to subscription gross profit margin:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(In thousands, except percentages)
+
+GAAP subscription gross profit | $ | 707,831 | $ | 557,338 | $ | 417,777
+
+GAAP subscription gross profit margin | 70 | % | 70 | % | 67 | %
+
+Equity-based compensation expense | 19,754 | 7,119 | 6,675
+
+Payroll taxes for IPO-accelerated awards and RSUs | 683 | — | —
+
+Amortization of acquired intangible assets | 106,476 | 103,329 | 100,820
+
+Acquisition-related expenses
+— | — | 58
+
+Restructuring | — | — | 85
+
+Adjusted subscription gross profit | $ | 834,744 | $ | 667,786 | $ | 525,415
+
+Adjusted subscription gross profit margin | 83 | % | 84 | % | 84 | %
+
+Our adjusted subscription gross profit margin (adjusted subscription gross profit as a percentage of subscription revenue) has remained generally consistent in recent periods and reflects the high value-added nature of our offerings.
+
+Adjusted Income from Operations and Adjusted Operating Margin
+
+We define adjusted income from operations as income (loss) from operations excluding equity-based compensation expense, payroll taxes related to awards that were accelerated upon the closing of our IPO and payroll taxes related to RSUs, all of which were issued after the closing of the IPO, amortization of acquired intangible assets which includes impairment charges, benefit from amortization related to acquired contract acquisition costs, acquisition-related expenses (including fair value adjustments to acquisition-contingent consideration), Thoma Bravo monitoring fees (which were annual service-fees for consultation and advice related to corporate strategy, budgeting of future corporate investments, acquisition and divestiture strategies, and debt and equity financings as described in Note 10 “Related Party Transactions” in the notes to our consolidated financial statements), and restructuring expenses. The Thoma Bravo monitoring fees were incurred pursuant to a services agreement, and we do not expect to receive similar services in the future or enter into a similar arrangement again in the future.
+
+The following table reflects the reconciliation of adjusted income (loss) from operations to operating income (loss):
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(In thousands, except percentages)
+
+GAAP income (loss) from operations | $ | (307,486) | $ | (188,734) | $ | (332,729)
+
+GAAP income (loss) from operations margin | (29) | % | (22) | % | (48) | %
+
+Equity-based compensation expense | 309,800 | 99,569 | 134,819
+
+Payroll taxes for IPO-accelerated awards and RSUs | 8,157 | — | —
+
+Amortization of acquired intangible assets | 202,068 | 230,308 | 257,029
+
+Amortization of acquired contract acquisition costs (1)
+(20,476) | (25,682) | (28,461)
+
+Acquisition-related expenses and Thoma Bravo monitoring fees | 2,192 | 17,283 | 20,051
+
+Restructuring | — | — | 3,541
+
+Adjusted income from operations
+$ | 194,255 | $ | 132,744 | $ | 54,250
+
+Adjusted operating margin | 18 | % | 15 | % | 8 | %
+
+(1) In accordance with U.S. GAAP reporting requirements, the Company has written off its contract acquisition costs at the time of its acquisition by Thoma Bravo in August 2022. Therefore, U.S. GAAP commissions expense related to contract acquisition costs after its acquisition by Thoma Bravo will not reflect the commissions expense that would have been reported if the contract acquisition costs were not written off. Accordingly, the Company believes that presenting the approximate amount of acquisition-related commission expenses (so that the full amount of commission expense is included) provides a more appropriate representation of commission expense in a given period and, therefore, provides readers of the Company’s financial statements with a more consistent basis for comparison across accounting periods.
+
+Our adjusted income from operations and adjusted operating margin increased for the year ended January 31, 2026 compared to the year ended January 31, 2025, primarily due to the growth in our overall business and increased operating leverage.
+
+Free Cash Flow
+
+We define free cash flow as net cash provided by (used in) operating activities, less cash used for purchases of property and equipment, and capitalized software development costs. We use free cash flow as a measure of financial progress in our business, as it balances operating results, cash management, and capital efficiency. We believe information regarding free cash flow provides investors and others with an important perspective on the cash available to make strategic acquisitions and investments, to fund ongoing operations, and to fund other capital expenditures. Free cash flow can be volatile and is sensitive to many factors, including changes in working capital and timing of capital expenditures. Working capital at any specific point in time is subject to many variables including the discretionary timing of expense payments and fluctuations in foreign exchange rates.
+
+The following table summarizes our free cash flow for the periods presented:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+GAAP net cash provided by (used in) operating activities
+$ | 70,580 | $ | (106,391) | $ | (250,354)
+
+Less: Purchase of property and equipment
+(5,980) | (5,362) | (2,577)
+
+Less: Capitalized software development costs
+(12,850) | (8,219) | —
+
+Free cash flow
+$ | 51,750 | $ | (119,972) | $ | (252,931)
+
+Our free cash flow for the year ended January 31, 2026 increased when compared to the year ended January 31, 2025, primarily due to higher revenue growth and a decrease in interest expense from the repayment of our Term Loans. Free cash flow for the year ended January 31, 2026 includes $78.5 million of cash paid to settle equity related awards, cash awards and their associated payroll taxes upon the closing of our IPO, $36.7 million in cash paid for interest expense related to our 2022 Credit Agreement and $9.3 million of cash paid for fees under our advisory services agreement with Thoma Bravo, which was terminated upon the closing of our IPO.
+
+Liquidity, Capital Resources and Cash Requirements
+
+We believe we have sufficient sources of funding to meet our business requirements for the next 12 months and in the longer term. Our primary sources of liquidity are cash flows from operations and proceeds from the IPO, which are supplemented by our undrawn 2025 Revolving Credit Facility. As of January 31, 2026, we had cash and cash equivalents totaling $358.1 million. Our primary uses of liquidity are operating expenses, working capital requirements, capital expenditures and acquisitions.
+
+On February 14, 2025, the Company received net proceeds of approximately $1,248.2 million, net of the underwriting discounts, commissions and offering costs, upon the closing of its IPO. On February 19, 2025, we repaid $690.0 million of the Term Loans from the proceeds of the IPO. On March 3, 2025, we repaid the remaining balance of $350.0 million of the Term Loans.
+
+Although cash flows from operations had been historically negative, for the year ended January 31, 2026, we had positive cash flows from operations. We expect to continue to incur positive cash flows from operations in the foreseeable future.
+
+Our future capital requirements will depend on many factors, including but not limited to our revenue growth rate, timing of cash receipt and payments, and the timing and extent of spending to support strategic initiatives. We may also enter into arrangements to acquire or invest in complementary businesses, services, and technologies.
+
+To the extent existing cash and cash equivalents are not sufficient to fund future activities, we may borrow under our 2025 Revolving Credit Facility or seek to raise additional funds through equity, equity-linked or debt financings. We may enter into agreements or letters of intent with respect to potential investments in, or acquisitions of, complementary businesses, services or technologies, which could also require us to seek additional equity financing, incur indebtedness or use cash resources. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, or if we cannot expand our operations or otherwise capitalize on our business opportunities because we lack sufficient capital, our business, operating results and financial condition would be adversely affected.
+
+2025 Credit Agreement
+
+On June 25, 2025, we entered into the 2025 Credit Agreement, which provides for a five-year $250.0 million secured revolving credit facility, including a letter of credit sub-facility of up to $10.0 million. The 2025 Revolving Credit Facility matures on June 25, 2030. Borrowings under the 2025 Revolving Credit Facility may be used to provide ongoing working capital as well as for other general corporate purposes of the Company. The Company had no outstanding 2025 Revolving Credit Facility balance and was in compliance with all applicable covenants as of January 31, 2026. See Note 9 “Credit
+
+Agreement and Debt” in the notes to our consolidated financial statements included in this Annual Report for more information regarding the terms and conditions of the 2025 Credit Agreement.
+
+2022 Credit Agreement
+
+On August 16, 2022, we entered into the 2022 Credit Agreement. The 2022 Credit Agreement provides for (i) a six-year $125.0 million senior secured Revolving Credit Facility, including a letter of credit subfacility of up to $5.0 million and (ii) the Term Loans. After the closing of the IPO, we fully repaid our Term Loans and recorded an extinguishment of debt related to the remaining balance of the associated deferred financing costs of $15.3 million. On June 25, 2025, the 2022 Credit Agreement was terminated upon the closing of the 2025 Credit Agreement. The remaining unamortized deferred financing costs for the 2022 Revolving Credit Facility of $1.4 million was recorded as a loss from extinguishment of debt for the year ended January 31, 2026. The extinguishment of debt associated with the Term Loans and with the 2022 Revolving Credit Facility is recorded within interest expense on the consolidated statements of operations.
+
+Summary of Cash Flows
+
+As of January 31, 2026, we had $358.1 million of cash and cash equivalents (of which $25.4 million was held in our foreign subsidiaries), $250.0 million of availability under the 2025 Credit Agreement, and $723.4 million in net working capital, which we define as current assets less current liabilities, excluding deferred revenue. As of January 31, 2025, we had $121.3 million of cash and cash equivalents (of which $11.6 million was held in our foreign subsidiaries), $125.0 million of availability under the 2022 Credit Agreement, and $350.7 million in net working capital. The increase in cash and cash equivalents and net working capital is due primarily to the proceeds received upon the closing of our IPO and increase in cash provided by operations.
+
+The following table summarizes our cash flows for the periods presented:
+
+Year Ended January 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Net cash provided by (used in) operating activities | $ | 70,580 | $ | (106,391) | $ | (250,354)
+
+Net cash used in investing activities | (35,556) | (28,944) | (12,664)
+
+Net cash provided by financing activities | 201,972 | 41,257 | 50,432
+
+Net change in cash, cash equivalents and restricted cash | $ | 236,996 | $ | (94,078) | $ | (212,586)
+
+Cash Flows from Operating Activities
+
+During the year ended January 31, 2026, cash provided by operating activities was $70.6 million, which consisted of a net loss of $270.1 million, adjusted by non-cash charges of $456.6 million and a net cash outflow of $115.9 million from changes in our net operating assets and liabilities. The non-cash charges are primarily comprised of equity-based compensation of $254.9 million, depreciation and amortization expense of $210.8 million, amortization of contract acquisition costs of $39.2 million, amortization of debt discount and issuance costs, including the early write-off of issuance costs related to the repayment of the Term Loans and termination of the 2022 Revolving Credit Facility of $17.4 million, provision for credit losses of $5.4 million and fair value adjustments to contingent consideration of $1.6 million, partially offset by deferred taxes of $72.7 million. The net cash outflow from changes in operating assets and liabilities was primarily a result of an increase in accounts receivable of $86.1 million due to the timing of receipts of payments from customers, an increase in deferred contract acquisition costs of $77.6 million due to an increase in our sales, a decrease in accrued expenses and other liabilities of $33.6 million due to the timing of cash disbursements primarily related to bonuses and commissions, the settlement of vested EARs and cash settled awards, and interest payments and fees paid to Thoma Bravo, an increase in contract assets of $19.7 million primarily due to growth in our revenue and the timing of invoices and payments, and an increase in prepayments and other current assets of $8.0 million due to our marketing efforts and initiatives to grow our business. The outflows were partially offset by an increase in deferred revenue of $105.4 million due to the increase in billings.
+
+During the year ended January 31, 2025, cash used in operating activities was $106.4 million, which consisted of a net loss of $315.8 million, adjusted by non-cash charges of $237.9 million and a net cash outflow of $28.4 million from changes in our net operating assets and liabilities. The non-cash charges are primarily comprised of depreciation and amortization expense of $237.2 million, equity-based compensation of $31.7 million, amortization of contract acquisition costs of $24.9 million, amortization of debt discount and issuance costs of $12.7 million and provision for credit losses of $2.5 million, partially offset by deferred taxes of $71.2 million. The net cash outflow from changes in operating assets and liabilities was primarily a result of an increase in deferred contract acquisition costs of $71.7 million due to an increase in our sales, an increase in accounts receivable of $41.7 million due to the timing of receipts of payments from customers, an increase in contract assets of $11.7
+
+million primarily due to growth in our revenue and the timing of invoices and payments, an increase in prepayments and other current assets of $13.7 million primarily due to our marketing efforts, an increase of $6.0 million of other non-current assets due to the implementation of cloud computing arrangements and a decrease in accounts payable of $5.3 million primarily due to the timing of vendor invoices and payments. The outflows were offset by an increase in deferred revenue of $72.9 million due to an increase in billings for subscriptions and an increase in accrued expenses and other liabilities of $36.6 million due to the timing of cash disbursements primarily related to interest payments, commissions and fees due to Thoma Bravo.
+
+Cash Flows used in Investing Activities
+
+During the year ended January 31, 2026, cash used in investing activities was $35.6 million, consisting primarily of $16.7 million for asset acquisitions, $12.9 million for capitalized software development costs and $6.0 million in purchases of property and equipment.
+
+During the year ended January 31, 2025, cash used in investing activities was $28.9 million, consisting primarily of $15.4 million in net cash paid for business acquisitions, $8.2 million for capitalized software development costs, and $5.4 million in purchases of property and equipment.
+
+Cash Flows from Financing Activities
+
+During the year ended January 31, 2026, cash provided by financing activities was $202.0 million primarily due to the proceeds from our IPO, net of underwriting discounts and commissions of $1,259.7 million, partially offset by the repayment of our Term Loans of $1,040.0 million, payments of deferred offering costs of $8.6 million, payments of holdback and contingent consideration of $6.4 million and payments of debt issuance costs related to our 2025 Credit Agreement of $2.7 million.
+
+During the year ended January 31, 2025, cash used in financing activities was $41.3 million, primarily due to the issuance of Class A Units and Class B Units of $600.0 million to Thoma Bravo, offset by the repayment of our Term Loans of $550.0 million, payments of deferred offering costs of $2.9 million and the repurchase of Class A Units and Class B Units of $6.2 million.
+
+Material Cash Commitments
+
+As of January 31, 2026, the Company had in aggregate $196.3 million in contractual purchase commitments associated with agreements that are enforceable and legally binding, of which $113.4 million are due within the next 12 months. Included in the aggregate contractual purchase commitments as of January 31, 2026 is the remaining commitment with a cloud storage provider that has a term of July 2023 through June 2028. Under the terms of the contract, the Company committed to spend $54.0 million, $59.0 million, $62.0 million, $65.0 million, and $67.5 million in contract years one, two, three, four, and five, respectively, for a total of $307.5 million. If the Company does not meet the minimum purchase obligation during any of those years, it will be required to pay the difference. The Company met the minimum spend requirements for years one, two and three. As of January 31, 2026, the Company has made payments of $177.0 million under the agreement. On February 1, 2026, a new amendment to the agreement was entered into with the cloud storage provider, which terminated the previous arrangement. The new arrangement has a term of February 1, 2026 through January 31, 2031. Under the terms of the new arrangement, the Company committed to spend $107.0 million, $127.0 million, $147.0 million, $162.0 million and $178.0 million in contract years one, two, three, four and five, respectively, for a total of $721.0 million. If the Company does not meet the minimum purchase obligation during any of those years, it will be required to pay the difference.
+
+As of January 31, 2026, we had in aggregate $18.1 million in future minimum lease payments for operating lease obligations, of which $6.7 million are due within the next 12 months.
+
+We have restricted cash of $3.2 million as of January 31, 2026 primarily related to an unconditional standby letter of credit for our corporate headquarters.
+
+We did not have any material off-balance sheet arrangements during the periods presented or as of January 31, 2026.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements are prepared in accordance with GAAP. The preparation of these financial statements requires our management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses and related disclosures. Our estimates are based on our historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these judgments and estimates under different assumptions or conditions and any such differences may be material. We evaluate our
+
+assumptions, judgments, and estimates on a regular basis. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected.
+
+Our critical accounting policies are those that materially affect our consolidated financial statements and involve difficult, subjective, or complex judgments by management. The critical accounting estimates, assumptions, and judgments that we believe to have the most significant impact on our consolidated financial statements are described below. This discussion is provided to supplement the descriptions of our accounting policies contained in Note 1 “Description of Business and Summary of Significant Accounting Policies” in the notes to our consolidated financial statements.
+
+Revenue Recognition
+
+Revenue consists of fees for SaaS subscriptions and term licenses for our software products, post-contract customer support, and other subscription services and professional services including training and other revenue. Subscription, including support for term licenses, is recognized ratably over the term of the applicable agreement. Revenue related to term and perpetual license performance obligations is generally recognized upfront at the point in time when the customer has taken control of the software license. Revenue related to professional services is recognized as the services are rendered. The majority of our contracts with customers include various combinations of licenses, subscriptions, and professional services. Therefore, significant judgment is required to determine whether products and services are considered distinct performance obligations that should be accounted for separately or as a combined performance obligation.
+
+We allocate the transaction price to each performance obligation in the contract on a relative standalone selling price (“SSP”) basis. Judgment is required to determine the SSP for each distinct performance obligation. We typically determine SSP based on observable prices for performance obligations when sold separately. When standalone sales and pricing information are not available, we estimate SSP based on pricing objectives, market conditions, and other factors, including customer size and geography, and product and service specific factors. We review the estimated SSP for our performance obligations periodically and update the estimates, if needed, to ensure that the methodology utilized reflects updated inputs such as observable prices and assumptions.
+
+Business Combinations
+
+We account for business combinations in accordance with the acquisition method of accounting. We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed, and intangible assets acquired based on their estimated acquisition-date fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill.
+
+Determining the fair value of the identifiable intangible assets requires management to make significant estimates and assumptions. We generally valued the identified intangible assets using an income or cost approach. Significant estimates in valuing certain intangible assets may include, but are not limited to, estimating future cash flows from the intangible assets and discount rates.
+
+In addition, estimating the useful life of an intangible asset requires judgment. We determine useful life after analyzing all pertinent factors which include the period over which an intangible asset will contribute directly or indirectly to our cash flows and the expected use of the asset.
+
+Recoverability of Goodwill and Long-Lived Assets
+
+Goodwill is tested for impairment annually, or more often if and when events or circumstances indicate that an impairment may exist. We perform the annual impairment test in the fourth quarter of each fiscal year. The process of evaluating the potential impairment is highly subjective and requires the application of significant judgment. We first assess whether there are qualitative factors which would indicate that it is more likely than not that the fair value of a reporting unit is less than its carrying value. We consider events and circumstances such as, but not limited to, macroeconomic conditions, industry and market conditions, our overall financial performance, and other relevant entity-specific events.
+
+If the qualitative assessment indicates that the fair value of the reporting unit is less than its carrying amount, a quantitative assessment is performed. We would estimate the fair value of the reporting unit and compare this amount to the carrying value of the reporting unit. If the carrying value of the reporting unit exceeds its fair value, an impairment charge is recorded. There were no impairments of goodwill recognized during the fiscal years ended January 31, 2026, 2025, and 2024.
+
+We evaluate long-lived assets, including finite-lived intangible assets, property and equipment, and other assets, for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets or asset group may not be recoverable. Events or changes in circumstances that could result in an impairment review include, but are not limited to, significant underperformance relative to historical or projected future operating results, significant changes in the manner of use of the acquired assets or the strategy for our overall business, and significant negative industry or economic trends.
+
+Determining whether a long-lived asset is impaired and the extent of an impairment requires various estimates and assumptions, including whether a triggering event occurred, the identification of asset groups, estimates of future cash flows, and the discount rate used to determine fair values. Recoverability of these assets or asset groups is measured by comparison of the carrying amount of each asset, or related asset group, to the future undiscounted cash flows the asset or asset group is expected to generate. If the undiscounted cash flows are less than the carrying amount, an impairment charge is recorded to reduce the carrying amount of the asset group to its fair value. If an event occurs that would cause us to revise our estimates and assumptions used in analyzing the fair value of our property and equipment or our finite-lived intangibles and other assets, that revision could result in a non-cash impairment charge that could have a material impact on our financial results.
+
+Contract Acquisition Costs
+
+Sales commissions paid to our sales force and the related employee costs, collectively “contract acquisition costs,” are considered incremental and recoverable costs of obtaining a contract with a customer. We typically pay sales commissions for both initial and follow-on sales of term subscriptions and SaaS subscriptions. Sales commissions paid for follow-on sales are typically not commensurate with those paid for initial sales. We capitalize incremental costs of obtaining a contract with a customer and amortize the costs over the expected period of benefit provided of five years.
+
+We use significant judgment in determining the period of benefit of five years by taking into consideration customer contracts, customer turnover rates, our technology’s useful life, and other factors. We periodically review the estimated period of benefit. If a change is required in the estimated period of benefit, it could materially affect the amortization amounts of contract acquisition costs included in sales and marketing expense in the consolidated statements of operations.
+
+Equity-Based Compensation
+
+Since the IPO, the Company predominantly grants service-based restricted stock units (“RSUs”) to employees, directors, and nonemployees. The Company recognizes equity-based compensation expense for its awards on a straight-line basis over the requisite service period of the individual grants, which is generally the vesting period, based on the estimated grant date fair values. The fair value of RSUs is estimated on the date of grant based on the fair value of the Company’s common stock. The Company recognizes the effect of forfeitures in equity-based compensation expense based on actual forfeitures when they occur.
+
+Prior to the IPO, we granted our employees equity-based incentive awards. We measure equity-based compensation expense for all equity-based awards granted based on the estimated fair value of those awards on the date of grant. The fair value of the incentive units at each grant date is determined using an option pricing method, as discussed further below. We recognize the impact of forfeitures in equity-based compensation expense when they occur.
+
+Incentive Unit Valuations
+
+Upon the completion of our IPO, we ceased issuing incentive equity units and all outstanding and unvested incentive equity units were converted to RSAs.
+
+The fair value of our Class B Units underlying our equity-based awards was determined by our Board, with input from management and contemporaneous third-party valuations, as there was no public market for our Class B Units. We believe that our Board had the relevant experience and expertise to determine the fair value of our Class B Units. Given the absence of a public trading market of our Class B Units, and in accordance with the American Institute of Certified Public Accounting and Valuation Guide, Valuation of Privately-Held Company Equity Securities Issued as Compensation, our Board exercised reasonable judgment and considered numerous objective and subjective factors to determine the best estimate of the fair value of our Class B Units at each incentive unit grant date, including:
+
+•contemporaneous independent third-party valuations of our units;
+
+•our actual operating and financial performance;
+
+•current business conditions and projections;
+
+•our stage of development and revenue growth;
+
+•likelihood of achieving a liquidity event, such as an initial public offering, direct listing, a take-private transaction, or an acquisition given prevailing market conditions;
+
+•the rights, preferences, and privileges of our units;
+
+•the lack of marketability of our units;
+
+•the market performance of comparable publicly traded companies; and
+
+•the U.S. and global capital market conditions.
+
+In valuing our Class B Units, the Board determined the value using both the income and the market approach valuation methods. The income approach estimates value based on the expectation of future cash flows that a company will generate. These future cash flows are discounted to their present values using a discount rate based on our weighted average cost of capital (“WACC”) or based on the venture capital rates of return from various published studies, adjusted to reflect the risks inherent in our cash flows. To derive our WACC, a cost of equity was developed using the Capital Asset Pricing Model (CAPM) and comparable company betas, and a cost of debt was determined based on our estimated cost of borrowing. The costs of debt and equity were then weighted based on our actual capital structure or were derived from a study of venture capital required rates of return. The market approach estimates value based on a comparison of our company to comparable publicly traded companies in a similar line of business and to acquisitions in the market. From the comparable companies, a representative market multiple is determined and subsequently applied to our historical and forecasted financial results to estimate our enterprise value. From the acquisitions analysis, a representative market multiple is determined and subsequently applied to our historical financial results to estimate our enterprise value.
+
+Prior to January 2024, once we determined an equity value, we used the option-pricing method (“OPM”) to allocate value to each equity class, including incentive units. The OPM allows for the allocation of a company’s equity value among the various equity capital owners. The OPM uses unitholders’ liquidation preferences, participation rights, and dividend policy to determine how proceeds from a liquidity event shall be distributed among the various ownership classes at a future date.
+
+Beginning in January 2024, we used a hybrid of the probability-weighted expected return method (“PWERM”) and OPM. The PWERM estimates the probability weighted value across multiple scenarios but uses OPM to estimate the allocation of value within one or more of those scenarios. Determining the fair value of the enterprise using the PWERM requires us to develop assumptions and estimates for both the probability of an initial public offering liquidity event and stay private outcomes, as well as the values we expect those outcomes could yield.
+
+Where relevant, we also considered an appropriate discount adjustment to recognize the lack of marketability and liquidity due to the fact that unitholders of private companies do not have access to trading markets similar to stockholders of public companies. The discount for marketability was determined using various quantitative methods and assessed for reasonableness using relevant qualitative information. Application of these approaches involves the use of estimates, judgments, and assumptions that are highly complex and subjective, such as those regarding our expected future revenue, expenses, and future cash flows, discount rates, discount for lack of marketability, market multiples, the selection of comparable companies, and the probability of possible future events. Changes in any or all of these estimates and assumptions or the relationships between those assumptions impact our valuations as of each valuation date and may have a material impact on the valuation of our incentive units.
+
+Recent Accounting Pronouncements
+
+For a description of our recently adopted accounting pronouncements and recently issued accounting standards not yet adopted, see Note 1 “Description of Business and Summary of Significant Accounting Policies” in the notes to our consolidated financial statements.

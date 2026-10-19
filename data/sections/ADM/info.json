@@ -1,0 +1,45 @@
+{
+  "ticker": "ADM",
+  "accession_number": "0000007084-26-000011",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "full_text_words": 53522,
+  "sections": {
+    "item1": {
+      "words": 3651,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3651,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 9019,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          9019,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 33,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 281
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 374
+}

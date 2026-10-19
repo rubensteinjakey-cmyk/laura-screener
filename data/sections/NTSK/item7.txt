@@ -1,0 +1,1331 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the our consolidated financial statements and related notes appearing elsewhere in this Annual Report on Form 10-K. Some of the information contained in this discussion and analysis or set forth elsewhere in this Annual Report on Form 10-K, particularly information with respect to our future results of operations or financial condition, business strategy and plans, and objectives of management for future operations, and includes forward-looking statements that involve risks and uncertainties as described under the heading “Special Note About Forward-Looking Statements” in this Annual Report on Form 10-K. You should review the disclosure under the heading “Risk Factors” in this Annual Report on Form 10-K for a discussion of important factors that could cause our actual results to differ materially from those anticipated in these forward-looking statements. Our fiscal year ends on January 31, and our fiscal quarters end on April 30, July 31, October 31, and January 31. Our fiscal years ended January 31, 2026, 2025, and 2024 are referred to herein as fiscal 2026, fiscal 2025, and fiscal 2024, respectively.
+
+Unless the context otherwise requires, all reference in this Annual Report on Form 10-K to "we", "us", "our", "our company", and "Netskope" refer to Netskope, Inc. and its subsidiaries. Unless otherwise indicated, references to our "common stock" include our Class A common stock and Class B common stock.
+
+A discussion regarding our financial condition and results of operations for the fiscal year ended January 31, 2026 compared to the fiscal year ended January 31, 2025 is presented below. A discussion regarding our financial condition and results of operations for the fiscal year ended January 31, 2025 compared to the fiscal year ended January 31, 2024 can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in the final prospectus for our initial public offering ("IPO") dated as of September 17, 2025 and filed with the SEC pursuant to Rule 424(b)(4) on September 18, 2025 (the "Final Prospectus")
+
+Overview
+
+We are redefining security and networking for the era of cloud and AI.
+
+The cloud and AI have completely revolutionized work. We are more dispersed, more productive, and more automated than ever before, and the rate of change is only accelerating. Not since the internet has there been such a transformative tectonic shift. But, with it has come collateral damage—traditional security and networking are now broken.
+
+We founded Netskope to address this revolution. We built Netskope One, our unified, cloud-native platform from the ground up to solve the challenge of securing and accelerating the digital interactions of enterprises in this new era. Organizations rely on our Netskope One platform to provide profound contextual intelligence into their data and digital interactions, securing them with precision, without sacrificing the digital experience. We leverage our patented technologies to enable dynamic, granular context-aware policies that allow us to protect sensitive data, stop threats, support regulatory compliance, and elevate the digital experience.
+
+Organizations today operate in a digital landscape that is heterogeneous and highly connected. It is comprised of globally dispersed users and non-human entities such as devices, applications, automated systems, and AI agents that interact with each other and a plethora of managed and unmanaged Software-as-a-Service applications, websites, AI, private applications, and other ecosystem applications across data centers and private and public clouds. With this new digital landscape, enterprises need a security and networking platform that can handle these far more complex, distributed, and dynamic sets of connections—all with more advanced security measures—to keep the organization, its people, and its data safe.
+
+Legacy appliance-based and first-generation cloud security solutions were designed for a legacy internet and data footprint, where simple rules-based threat detection and block-or-allow policies were sufficient. Moreover, traditional corporate networks were not designed to support the scale, flexibility, performance, and advanced security that is essential in the cloud and AI era.
+
+Architecture is critical when addressing these challenges. Our Netskope One platform uses a unique architecture built from the ground up as a unified platform with a converged security, network, and analytics technology stack that runs on our NewEdge global private cloud network ("NewEdge network") to deliver highly secure and performant digital interactions.
+
+Recent Developments
+
+In September 2025, we completed our IPO, in which we issued and sold an aggregate 54,970,000 shares of our Class A common stock at a public offering price of $19.00 per share, including 7,170,000 shares pursuant to the exercise of the option granted to the underwriters to purchase additional shares. We received net proceeds of approximately $992.2 million after deducting underwriting discounts and commissions of $52.2 million.
+
+In addition, in connection with the IPO, all outstanding shares of convertible preferred stock were automatically converted into 218,897,608 shares of Class B common stock.
+
+During the third quarter of fiscal 2026, we recognized a total of $415.8 million in stock-based compensation expense and related payroll taxes, of which $402.1 million was stock-based compensation expense associated with Restricted Stock Units ("RSUs"), including $56.7 million associated with Performance-based Stock Units ("PSUs"), resulting from the satisfaction of the liquidity-based vesting condition upon the effective date of the Registration Statement filed in connection with our IPO. To meet the related tax withholding obligation for the RSUs settled during the third quarter of fiscal 2026, we withheld 5,960,339 shares out of the 14,009,204 shares of Class B common stock issuable to the holders of such vested RSUs, and paid the withholding taxes based on the IPO price per share for the total shares withheld.
+
+Key Factors Affecting Our Performance
+
+Pace of Modernization of Security and Networking for Organizations. The rapid evolution of enterprise IT is driving organizations to replace legacy systems with cloud-based and hybrid solutions, fundamentally altering the way security and networking solutions are deployed and operated. We believe that as enterprises undergo digital transformation, they increasingly rely on advanced technologies such as AI to gain granular visibility and control over information flows. This trend is compounded by the growing imperative to understand and secure data in an environment where hybrid and remote work models are common. Moreover, organizations' expanding global operations and the relentless push for improved user experience has driven the convergence of security and networking that is reshaping industry standards. While we are in the early stages of this transformation, we believe that the pace of modernization will continue to accelerate, reinforcing the demand for our platform.
+
+Our Ability to Add New Customers. Our ability to grow our customer base is a key indicator of both our market penetration and the future opportunities available to us.
+
+Our Ability to Retain and Expand Within Our Existing Customers. We believe that our ability to retain and expand within our existing customers is a testament to the technological strength and extensibility of our Netskope One platform and our customer relationships. As our customers realize tangible value from the products that they deploy, they often purchase more subscriptions, increase the number of users in more departments and geographies, and extend the number of applications covered.
+
+Investments in Sales and Marketing. We plan to continue investing in the expansion of our salesforce and channel partners to pursue attractive growth opportunities both domestically and internationally. In the Americas (which we define as the United States, Canada, and Latin America), this includes continuing the growth of our sales team, selling into the U.S. federal government market now that we have achieved U.S. Federal Risk and Authorization Management Program ("FedRAMP") High Authorization, and growing our channel partners, including managed service providers ("MSPs"), to expand within the mid-market.
+
+Investment in Innovation. We plan to continue investing in research and development to drive rapid innovation, leveraging our core platform to serve our customers' needs and further strengthen our technology leadership. We believe this will lead to continued increased customer acquisition, expansion, and retention. We also intend to continue evaluating strategic acquisitions and investments in businesses and technologies that enhance our product capabilities, allow us to enter adjacent markets, and accelerate time to market.
+
+Key Business Metric
+
+We monitor the following key metric to help us evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions.
+
+Dollar-Based Net Retention Rate ("NRR")
+
+Our ability to maintain long-term revenue growth and achieve profitability is dependent on our ability to retain and grow revenue generated from our existing customers. We believe that we will achieve this objective by continuing to focus on customer success and loyalty and by continuously innovating our platform. Our NRR may fluctuate from period to period as we continue to expand our business.
+
+As of January 31,
+
+2026
+
+2025
+
+Dollar-based net retention rate(1)
+
+%
+
+%
+
+(1) Our NRR reflects the percentage of our annual recurring revenue ("ARR") from existing customers, inclusive of the effects of upsell, cross-sell, contraction, and churn. We calculate this by first determining the ARR of the cohort of customers established on the same date of the prior fiscal year (the "Prior Period ARR"). We then calculate the ARR from these same subscription customers as of the current period end (the "Current Period ARR"). Current Period ARR includes any expansion and is net of contraction and churn over the trailing 12 months, but excludes ARR from new customers. We then divide the Current Period ARR by the Prior Period ARR to arrive at our NRR. In addition, We define ARR as the annualized value of our cloud subscription contracts that are active as of the measurement date, assuming any contract that expires during the next 12 months is renewed on its existing terms. Provided that we are actively negotiating a renewal or new agreement with a customer after the expiration of a contract, we continue to include that contract's annualized value in ARR until the customer notifies us of their decision not to renew. ARR excludes non-recurring components of revenue such as professional services, training, sales of hardware, and other non-recurring revenue.
+
+Components of Results of Operations
+
+Revenue
+
+We generate revenue primarily from subscriptions to the more than 25 products within our Netskope One platform, along with related support services. Subscription revenue accounted for approximately 99% of the Company's total revenue in fiscal 2026 and fiscal 2025. Customers do not take possession of cloud-based software; instead, our commitment is to provide our security, networking, and analytics platform throughout the contractual term. As a result, we recognize subscription revenue ratably over the contract term, which typically ranges from one to three years.
+
+Professional services and hardware account for an immaterial portion of our total revenue.
+
+Cost of Revenue
+
+Our cost of revenue consists of direct costs associated with providing our platform and products and our related professional services, including colocation and network transit expenses to operate our global data centers, depreciation of our data center equipment, cloud infrastructure and software expenses, and amortization of capitalized internal-use software. It also includes employee-related compensation expenses, such as salaries, bonuses, stock-based compensation expense, and employee benefits for teams supporting cloud operations and customer support and service organizations, and allocated overhead costs. We continuously work on optimizing these costs through strategic partnerships, improved operational efficiencies, and technological advancements.
+
+Additionally, we have made significant strategic investments to expand the global coverage of our NewEdge network to serve enterprises worldwide, which has historically increased our cost of revenue. As we have built our NewEdge network to include data centers in 80 unique regions with more than 200 localization zones globally, we do not anticipate future expansion requirements at the same rate. We expect the level of investment as a percentage of revenue to decrease over the long term as we realize the benefits of scale and operating leverage from previous investments we have made.
+
+Gross Profit and Gross Margin
+
+Gross profit is revenue less cost of revenue and gross margin is gross profit expressed as a percentage of revenue. Both gross profit and gross margin have been and will continue to be affected by various factors, including the costs associated with infrastructure and services.
+
+Operating Expenses
+
+Operating expenses consist of sales and marketing, research and development, and general and administrative expenses. Employee-related compensation expenses are the most significant component of operating expenses and consist of salaries, benefits, bonuses, stock-based compensation expense, and in the case of sales and marketing expenses, sales commissions. Operating expenses also include other non-employee costs such as cloud infrastructure expenses, office leases and facilities-related expenses, fees for third-party professional services, and costs associated with software and subscription services.
+
+Sales and Marketing
+
+Sales and marketing expenses consist primarily of employee-related compensation expenses, sales commissions, marketing campaigns, marketing events, brand-building activities, promotions, and travel and entertainment expenses. Our sales and marketing strategies are comprehensive, involving direct sales efforts, channel partnerships, and digital marketing initiatives. We expect to expand our market presence both domestically and internationally, educate potential customers about the benefits of our platform and products, and drive both customer acquisition and retention.
+
+We expect our sales and marketing expenses will increase in dollar amount as we continue to invest meaningfully in expanding our sales force, increasing our marketing efforts, and expanding into new markets, but over the long term, we expect our sales and marketing expenses as a percentage of revenue to decrease.
+
+Research and Development
+
+Research and development expenses consist primarily of employee-related compensation expenses, cloud infrastructure expenses related to the development of our platform and products, consulting fees, and software and subscription services. We prioritize research and development expenses to continuously enhance our product features, security protocols, and user experience, ensuring that we can respond swiftly to new cyber threats and customer needs.
+
+We expect our research and development expenses to increase in dollar amount as we continue to increase investments in our technology architecture and platform. However, we anticipate research and development expenses to decrease as a percentage of our total revenue over the long term although our research and development expenses may fluctuate as a percentage of revenue from period to period depending on the timing of these expenses.
+
+General and Administrative
+
+General and administrative expenses consist primarily of employee-related compensation expenses, and other expenses for our executive, finance, legal, and human resources organizations. General and administrative expenses also include external legal, accounting, consulting, professional services fees, software and subscription services, facilities expenses, and other corporate expenses.
+
+We expect to incur additional expenses as a result of operating as a public company, including costs to comply with the rules and regulations applicable to companies listed on a national securities exchange, costs related to compliance and reporting obligations, and increased expenses for insurance, investor relations, and professional services. As our business expands, we expect our general and administrative expenses will increase in dollar amount to support our growth, but over the long term, we expect our general and administrative expenses as a percentage of revenue to decrease.
+
+Loss on Changes in Fair Value of Convertible Notes
+
+We issued Convertible Notes (as defined below) in December 2022 and September 2024. We have elected to account for the Convertible Notes using the fair value option under Accounting Standards Codification ("ASC") 825, Financial Instruments. As a
+
+result, we are required to determine the fair value of the Convertible Notes on a quarterly basis using a complex valuation model. If the fair value of the Convertible Notes increases during a given period, we recognize a loss on the change in fair value of Convertible Notes in our statement of operations for that period. Conversely, if the fair value of the Convertible Notes decreases, we recognize a gain on the change in fair value of Convertible Notes in that period.
+
+Other Income, net
+
+Other income, net consists primarily of interest income, amortization of premiums and accretion of discounts on investment, convertible note issuance cost, and gains and losses from foreign currency transactions.
+
+Provision for Income Taxes
+
+Provision for income taxes consists primarily of income taxes in certain foreign jurisdictions in which we conduct business. We maintain a full valuation allowance against net U.S. federal and state deferred tax assets as it is more likely than not that they will not be realized based on our history of losses.
+
+On July 4, 2025, the United States enacted tax reform legislation through the One Big Beautiful Bill Act. Included in this legislation are provisions that allow for the immediate expensing of domestic U.S. research and development expenses, immediate expensing of certain capital expenditures, and other changes to the U.S. taxation of profits derived from foreign operations. Because we have a valuation allowance on our U.S. deferred tax assets, the tax law did not impact tax expense or cash paid for taxes for fiscal 2026 when the law was enacted.
+
+Results of Operations
+
+The following table sets forth our results of operations for the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands)
+
+Revenue
+
+$
+
+708,997
+
+$
+
+538,268
+
+$
+
+406,883
+
+Cost of revenue(1)
+
+226,328
+
+190,369
+
+163,633
+
+Gross profit
+
+482,669
+
+347,899
+
+243,250
+
+Operating expenses:
+
+Sales and marketing(1)
+
+393,742
+
+280,828
+
+263,096
+
+Research and development(1)
+
+509,029
+
+254,189
+
+224,496
+
+General and administrative(1)
+
+232,477
+
+68,623
+
+68,456
+
+Total operating expenses
+
+1,135,248
+
+603,640
+
+556,048
+
+Loss from operations
+
+(652,579
+
+)
+
+(255,741
+
+)
+
+(312,798
+
+)
+
+Loss on changes in fair value of convertible notes
+
+(34,256
+
+)
+
+(98,627
+
+)
+
+(38,575
+
+)
+
+Other income, net
+
+18,782
+
+4,101
+
+13,305
+
+Loss before provision for income taxes
+
+(668,053
+
+)
+
+(350,267
+
+)
+
+(338,068
+
+)
+
+Provision for income taxes
+
+11,335
+
+4,243
+
+6,784
+
+Net loss
+
+$
+
+(679,388
+
+)
+
+$
+
+(354,510
+
+)
+
+$
+
+(344,852
+
+)
+
+(1) Includes stock-based compensation as follows:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands)
+
+Cost of revenue
+
+$
+
+33,217
+
+$
+
+2,477
+
+$
+
+2,925
+
+Sales and marketing
+
+94,510
+
+18,341
+
+25,125
+
+Research and development
+
+232,467
+
+24,698
+
+27,150
+
+General and administrative
+
+155,997
+
+5,318
+
+5,791
+
+Total stock-based compensation expense
+
+$
+
+516,191
+
+$
+
+50,834
+
+$
+
+60,991
+
+The following table sets forth the components of our consolidated statements of operations as a percentage of revenue for each of the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+Revenue
+
+%
+
+%
+
+%
+
+Cost of revenue
+
+Gross profit
+
+Operating expenses:
+
+Sales and marketing
+
+Research and development
+
+General and administrative
+
+Total operating expenses
+
+Loss from operations
+
+(92
+
+)
+
+(48
+
+)
+
+(77
+
+)
+
+Loss on changes in fair value of convertible notes
+
+(5
+
+)
+
+(18
+
+)
+
+(9
+
+)
+
+Other income, net
+
+Loss before provision for income taxes
+
+(94
+
+)
+
+(65
+
+)
+
+(83
+
+)
+
+Provision for income taxes
+
+Net loss
+
+(95
+
+)%
+
+(66
+
+)%
+
+(85
+
+)%
+
+Note: Certain figures may not sum up due to rounding.
+
+Comparison of the Fiscal Years Ended January 31, 2026 and 2025
+
+Revenue
+
+Year Ended January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Revenue
+
+$
+
+708,997
+
+$
+
+538,268
+
+$
+
+170,729
+
+%
+
+Revenue increased by $170.7 million, or 32%, in fiscal 2026 compared to fiscal 2025. The increase in revenue was driven by an increase in customers and the growing demand for our products from existing customers. Approximately 29% of the increase was driven by the addition of new customers and approximately 71% of the increase was driven by expansion within our existing customers.
+
+Cost of Revenue, Gross Profit, and Gross Margin
+
+Year Ended January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Cost of revenue
+
+$
+
+226,328
+
+$
+
+190,369
+
+$
+
+35,959
+
+%
+
+Gross profit
+
+482,669
+
+347,899
+
+134,770
+
+%
+
+Gross margin
+
+%
+
+%
+
+Cost of revenue increased by $36.0 million, or 19%, in fiscal 2026 compared to fiscal 2025. Employee-related compensation expense increased by $36.3 million due to $29.7 million of stock-based compensation expense and related payroll taxes we recognized as the liquidity-based vesting condition for certain stock-based awards was met upon our IPO. In addition, colocation and network transit expenses increased by $8.7 million which was partially offset by a $5.8 million decrease in amortization of intangible assets and a $3.3 million decrease in cloud infrastructure and software expenses.
+
+Gross profit increased by $134.8 million, or 39%, in fiscal 2026 compared to fiscal 2025, and gross margin increased to 68% in fiscal 2026 from 65% in fiscal 2025. The gross margin expansion was primarily due to revenue growth driven by new customer acquisition and expansion within our existing customer base, which outpaced the growth in cost of revenue. The lower relative growth in cost of revenue reflects improved operating efficiencies in the management of our global data centers and cloud infrastructure operations.
+
+Sales and Marketing
+
+Year Ended January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Sales and marketing
+
+393,742
+
+280,828
+
+$
+
+112,914
+
+%
+
+Sales and marketing expenses increased by $112.9 million, or 40%, in fiscal 2026 compared to fiscal 2025. Employee-related compensation expense increased by $94.5 million due to $70.3 million of stock-based compensation expense and related payroll taxes we recognized as the liquidity-based vesting condition for certain stock-based awards was met upon our IPO. The remaining increase in employee-related compensation expense was primarily driven by growth in headcount. In addition, amortization of capitalized sales commissions and marketing-related expenses increased by $7.8 million and $5.3 million, respectively.
+
+Research and Development
+
+Year Ended January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Research and development
+
+$
+
+509,029
+
+$
+
+254,189
+
+$
+
+254,840
+
+%
+
+Research and development expenses increased by $254.8 million, or 100%, in fiscal 2026 compared to fiscal 2025. Employee-related compensation expense increased by $241.9 million due to $206.0 million of stock-based compensation expense and related payroll taxes we recognized as the liquidity-based vesting condition for certain stock-based awards was met upon our IPO. The remaining increase in employee-related compensation expense was primarily driven by growth in headcount. In addition, outside services increased by $8.4 million.
+
+General and Administrative
+
+Year Ended January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+General and administrative
+
+$
+
+232,477
+
+$
+
+68,623
+
+$
+
+163,854
+
+%
+
+General and administrative expenses increased by $163.9 million, or 239%, in fiscal 2026 compared to fiscal 2025. Employee-related compensation expense increased by $159.9 million due to $154.4 million of stock-based compensation expense and related payroll taxes we recognized as the liquidity-based vesting condition for certain stock-based awards was met upon our IPO. In addition, professional services increased by $5.8 million.
+
+Loss on Changes in Fair Value of Convertible Notes
+
+Year Ended January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Loss on changes in fair value of convertible notes
+
+$
+
+(34,256
+
+)
+
+$
+
+(98,627
+
+)
+
+$
+
+64,371
+
+(65
+
+)%
+
+Loss on change in fair value of Convertible Notes decreased by $64.4 million, or 65%, in fiscal 2026 compared to fiscal 2025. The fair value of our convertible notes increased during the current year; however, the loss recognized in earnings was lower because a larger portion of the total fair value change was attributed to instrument-specific credit risk, which is recorded in other comprehensive income.
+
+Other Income, net
+
+Year Ended January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Other income, net
+
+$
+
+18,782
+
+$
+
+4,101
+
+$
+
+14,681
+
+%
+
+Other income, net increased by $14.7 million, or 358%, in fiscal 2026 compared to fiscal 2025. The increase was mainly due to a $9.1 million increase in interest income, a $3.7 million increase in foreign currency exchange gain, and a $2.2 million increase in the accretion of discounts on our investments in debt securities.
+
+Provision for Income Taxes
+
+Year Ended
+
+January 31,
+
+Change
+
+2026
+
+2025
+
+$
+
+%
+
+(in thousands, except percentages)
+
+Provision for income taxes
+
+$
+
+11,335
+
+$
+
+4,243
+
+$
+
+7,092
+
+%
+
+Provision for income taxes increased by $7.1 million, or 167%, in fiscal 2026 compared to fiscal 2025, primarily due to higher foreign tax liabilities in fiscal 2026 as a result of the expansion of our business internationally. In addition, we recognized a non-recurring tax benefit from the establishment of deferred tax liability as part of the acquisition of Dasera, Inc. in fiscal 2025.
+
+Non-GAAP Financial Measures
+
+We believe the following non-GAAP measures are useful in evaluating our operating performance. We use the following non-GAAP financial information to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions. We believe that non-GAAP financial information, when taken collectively, may be helpful to investors because it provides consistency and comparability with past financial performance. However, non-GAAP financial information is presented for supplemental information purposes only, has limitations as an analytical tool, and should not be considered in isolation or as a substitute for financial information presented in accordance with GAAP. Other companies, including companies in our industry, may calculate similarly titled non-GAAP measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures as tolls for comparison.
+
+Non-GAAP Gross Profit and Non-GAAP Gross Margin
+
+Non-GAAP gross profit and non-GAAP gross margin are defined as GAAP gross profit and GAAP gross margin, respectively, excluding stock-based compensation and related tax expense and amortization of acquired intangible assets. We believe these non-GAAP measures offer additional consistency and comparability with our historical financial performance, providing management and investors with more meaningful period-to-period comparisons. These metrics are designed to remove the impact of certain variables that can fluctuate for reasons unrelated to our underlying operating performance.
+
+The following table provides a reconciliation of our non-GAAP gross profit to our gross profit and of our non-GAAP gross margin to our gross margin, for each of the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands, except percentages)
+
+Revenue
+
+$
+
+708,997
+
+$
+
+538,268
+
+$
+
+406,883
+
+Gross profit
+
+$
+
+482,669
+
+$
+
+347,899
+
+$
+
+243,250
+
+Add: Stock-based compensation expense and related taxes
+
+34,037
+
+2,478
+
+2,926
+
+Add: Amortization of acquired intangible assets
+
+14,358
+
+20,965
+
+20,112
+
+Non-GAAP gross profit
+
+$
+
+531,064
+
+$
+
+371,342
+
+$
+
+266,288
+
+Gross margin
+
+%
+
+%
+
+%
+
+Non-GAAP gross margin
+
+%
+
+%
+
+%
+
+We expect non-GAAP gross margin will increase over the long term through improved operational efficiencies, scale benefits, and technological advancements.
+
+Non-GAAP Loss from Operations and Non-GAAP Operating Margin
+
+Non-GAAP loss from operations and non-GAAP operating margin are defined as GAAP loss from operations and GAAP operating margin, respectively, excluding stock-based compensation expense and related taxes, transaction costs related to acquisitions, amortization of acquired intangible assets, and impairment of right-of-use assets. We believe these non-GAAP measures offer our management and investors additional consistency and comparability with our historical financial performance, enabling more meaningful period-to-period comparisons. These metrics are designed to remove the impact of certain variables that can fluctuate for reasons unrelated to our underlying operating performance.
+
+The following table provides a reconciliation of our non-GAAP loss from operations to our loss from operations and of our non-GAAP operating margin to our operating margin, for each of the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands, except percentages)
+
+Revenue
+
+$
+
+708,997
+
+$
+
+538,268
+
+$
+
+406,883
+
+Loss from operations
+
+$
+
+(652,579
+
+)
+
+$
+
+(255,741
+
+)
+
+$
+
+(312,798
+
+)
+
+Add: Stock-based compensation expense and related taxes
+
+525,601
+
+51,139
+
+61,003
+
+Add: Acquisition-related expenses
+
+-
+
+Add: Amortization of acquired intangible assets
+
+15,839
+
+22,747
+
+21,103
+
+Add: Impairment of right-of-use assets
+
+-
+
+-
+
+1,256
+
+Non-GAAP loss from operations
+
+$
+
+(111,139
+
+)
+
+$
+
+(181,396
+
+)
+
+$
+
+(228,744
+
+)
+
+Operating margin
+
+(92
+
+)%
+
+(48
+
+)%
+
+(77
+
+)%
+
+Non-GAAP operating margin
+
+(16
+
+)%
+
+(34
+
+)%
+
+(56
+
+)%
+
+We expect non-GAAP operating margin to improve over the long term through continued operational efficiencies, scale benefits, and technological advancements.
+
+Free Cash Flow and Free Cash Flow Margin
+
+Free cash flow is defined as net cash used in operating activities less purchases of property and equipment and intangible assets and capitalized internal-use software. Free cash flow margin is determined by dividing free cash flow by revenue. We believe that free cash flow and free cash flow margin serve as valuable indicators of liquidity, providing management and investors with insights into the cash generated from our operations. After accounting for investments in property and equipment, intangible assets, and internal-use software, this cash is available for strategic initiatives, such as investing in our business and strengthening our financial position. Free cash flow does not represent the total change in our cash balance in any given period.
+
+The following table summarizes our cash flows and provides a reconciliation of free cash flow to net cash provided by (used in) operating activities and of our free cash flow margin to our net cash provided by (used in) operating activities as a percentage of revenue for each of the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands, except percentages)
+
+Net cash provided by (used in) operating activities
+
+$
+
+38,073
+
+$
+
+(110,678
+
+)
+
+$
+
+(167,166
+
+)
+
+Less: Purchase of property and equipment and intangible assets
+
+(22,920
+
+)
+
+(37,032
+
+)
+
+(33,955
+
+)
+
+Less: Capitalization of internal-use software costs
+
+(2,780
+
+)
+
+(3,390
+
+)
+
+(7,197
+
+)
+
+Free cash flow
+
+$
+
+12,373
+
+$
+
+(151,100
+
+)
+
+$
+
+(208,318
+
+)
+
+Net cash provided by (used in) operating activities as a percentage of revenue
+
+%
+
+(21
+
+)%
+
+(41
+
+)%
+
+Free cash flow margin
+
+%
+
+(28
+
+)%
+
+(51
+
+)%
+
+We expect free cash flow and free cash flow margin to improve over the long term through continued operational efficiencies, scale benefits, and technological advancements, however, the improvement is not expected to be linear.
+
+Liquidity and Capital Resources
+
+In September 2025, we completed our IPO, whereby we received net proceeds of approximately $992.2 million after deducting underwriting discounts and commissions. As of January 31, 2026, our principal source of liquidity includes cash, cash equivalents, and marketable securities aggregating to $1.2 billion.
+
+Since our inception, we have generated operating losses, as reflected in our accumulated deficit of $2.6 billion as of January 31, 2026. While we have historically incurred annual negative cash flows from operating activities since inception, we generated positive operating cash flow in the fourth quarter of fiscal 2025 and in the first, third, and fourth quarters of fiscal 2026. We anticipate continued improvement in our operating cash flow over the long term. Notwithstanding the foregoing, we may still incur operating losses and generate negative cash flows from operations in the future due to the investments we intend to continue to make in our business. As a result, we may require additional capital resources to execute strategic initiatives to grow our business.
+
+We believe that our existing cash, cash equivalents, and marketable securities will be sufficient to support our working capital and capital expenditure requirements for at least the next 12 months. Our future capital requirements will depend on many factors, including but not limited to our obligation to repay any balance under our Convertible Notes, our revenue growth rate, timing of cash receipt and payments, and the timing and extent of spending to support strategic initiatives. We may be required to seek additional equity, equity-linked, or debt financing. In the event that we require additional financing, we may not be able to raise such financing on terms acceptable to us or at all. If we are unable to raise additional capital or generate cash flows necessary to expand our operations and invest in continued innovation, we may not be able to compete successfully, which would harm our business, operating results, and financial condition.
+
+Cash Flows
+
+The following table shows a summary of our cash flows for the periods presented:
+
+Year Ended January 31,
+
+2026
+
+2025
+
+2024
+
+(in thousands)
+
+Net cash provided by (used in) operating activities
+
+$
+
+38,073
+
+$
+
+(110,678
+
+)
+
+$
+
+(167,166
+
+)
+
+Net cash (used in) provided by investing activities
+
+(666,867
+
+)
+
+2,244
+
+176,950
+
+Net cash provided by financing activities
+
+895,366
+
+109,861
+
+6,286
+
+Operating Activities
+
+Our primary source of cash provided by operations is revenue. Our primary use of cash in our operating activities include payments for employee-related compensation, contract acquisition costs, outside services, and other corporate expenditures.
+
+Net cash provided by operating activities was $38.1 million for fiscal 2026 as compared to the $110.7 million of net cash used in operating activities for fiscal 2025. The improvement in operating cash flows was primarily driven by a decrease in accounts receivable and increases in accrued compensation and benefits, accounts payable, and accrued expenses and other current liabilities. These were partially offset by higher deferred contract acquisition cost and prepaid expenses and other current assets.
+
+Investing Activities
+
+Our primary use of cash for investing activities include purchases of property and equipment and marketable securities. Our primary source of cash provided by investing activities include sale and maturities of marketable securities.
+
+Net cash used in investing activities was approximately $666.9 million for fiscal 2026 as compared to the $2.2 million of net cash provided by investing activities for fiscal 2025. The change was primarily due to the additional investment in marketable securities and purchases of property and equipment, primarily data center-related equipment. These were partially offset by the increase in sale and maturity of our marketable securities.
+
+Financing Activities
+
+Our primary source of cash provided by financing activities include proceeds from the issuance of common stock and the exercise of stock options. Our primary use of cash for financing activities include payments for stock issuance costs, tax withholding obligations related to the settlement of equity awards, and holdback payment related to business combination.
+
+Net cash provided by financing activities was $895.4 million for fiscal 2026 as compared to the $109.9 million for fiscal 2025. The increase was primarily driven by the proceeds from our IPO and proceeds from the issuance of our common stock upon the exercise of stock options. These were partially offset by payments for deferred offering costs and tax withholding obligations related to the settlement of equity awards.
+
+Convertible Notes
+
+In December 2022, we issued $401.0 million in aggregate principal amount of our 3.75% Convertible Senior PIK Toggle Notes due 2027 (as amended to extend the maturity date to 2028, the "2028 Notes") pursuant to an indenture, dated as of December 22, 2022, as supplemented by that certain First Supplemental Indenture, dated April 25, 2025, and Second Supplemental Indenture, dated September 19, 2025 (as supplemented, the "2028 Notes Indenture"), between us and U.S. Bank Trust Company, National Association, as trustee (the "Trustee"). In September 2024, we issued $75.0 million in aggregate principal amount of our 3.00% Convertible Senior PIK Toggle Notes due 2029 (the "2029 Notes" and, together with the 2028 Notes, the "Convertible Notes"), pursuant to an indenture, dated as of September 30, 2024, as supplemented by that certain First Supplemental Indenture, dated as of September 19, 2025 (the "2029 Notes Indenture" and, together with the 2028 Notes Indenture, the "Indentures"), between us and the Trustee. The 2028 Notes accrue interest at a rate of 3.75% per annum and pursuant to the terms of the 2028 Notes Indenture, will mature on December 15, 2028 (the "2028 Note Maturity Date"), unless earlier repurchased, redeemed, or converted. The 2029 Notes accrue interest at a rate of 3.00% per annum and will mature on August 1, 2029 (the "2029 Note Maturity Date" and, together with the 2028 Note Maturity Date, each a "Maturity Date"), unless earlier repurchased, redeemed, or converted. Interest on the Convertible Notes is payable quarterly in arrears in cash or by increasing the principal amount thereof, at our election.
+
+Our obligations under the Convertible Notes are guaranteed by each of our subsidiaries other than certain excluded subsidiaries. The Convertible Notes are senior, unsecured obligations and the guarantees are senior, unsecured obligations of our subsidiary guarantors.
+
+The Convertible Notes are convertible at the option of the holders following the date that is nine calendar months after the IPO until the relevant Maturity Date, at a conversion price equal to 42.1046 shares of Class B common stock per $1,000 principal amount of the 2028 Notes (equal to a conversion price of approximately $23.75 per share), or 40.4858 shares of Class B common stock per $1,000 principal amount of 2029 Notes (equal to a conversion price of approximately $24.70 per share). The number of shares of Class B common stock that would be issuable upon conversion of the Convertible Notes are as follows (in thousands, except share amounts):
+
+As of January 31, 2026
+
+As of Maturity Date
+
+Aggregate
+
+Principal and
+
+Accrued and
+
+Unpaid Interest
+
+Shares of Class B
+
+Common Stock
+
+Issuable Upon
+
+Conversion
+
+Aggregate
+
+Principal and
+
+Accrued and
+
+Unpaid Interest
+
+Shares of Class B
+
+Common Stock
+
+Issuable Upon
+
+Conversion
+
+2028 Notes
+
+$
+
+450,383,116
+
+18,963,200
+
+$
+
+501,292,935
+
+21,106,738
+
+2029 Notes
+
+78,368,364
+
+3,172,805
+
+87,003,254
+
+3,522,396
+
+Total
+
+$
+
+528,751,480
+
+22,136,005
+
+$
+
+588,296,189
+
+24,629,134
+
+Holders of the Convertible Notes are also entitled to convert such Convertible Notes upon certain corporate transactions or if we call Convertible Notes for redemption following a change in tax law.
+
+Pursuant to the terms of the Convertible Notes, we are required to offer to redeem the Convertible Notes upon the occurrence of certain change of control events, our liquidation or dissolution or, the delisting of our Class A common stock. We would be required to repurchase the Convertible Notes at a price equal to the greater of (i) a specified premium, which shall be in an amount equal to the excess of (x) 140% of the principal amount of such Convertible Notes on or before the second anniversary of the issue date of the Convertible Notes, (y) 155% of the principal amount of such Convertible Notes after the second anniversary but on or before the third anniversary of the issue date of the Convertible Notes, or (z) 170% of the principal amount of such Convertible Notes after the third anniversary of the issue date of the Convertible Notes and (ii) the principal amount thereof and all accrued and unpaid interest thereon.
+
+So long as the holders of the 2028 Notes have made no prior repurchase demand, holders of the 2028 Notes can, during the period beginning 120 days prior to the 2028 Note Maturity Date (or earlier, if we so choose) and ending 91 days prior to the 2028 Note Maturity Date, submit a repurchase demand requiring us to offer to repurchase their 2028 Notes at a repurchase price equal to the principal amount of such 2028 Notes and an amount equal to a rate of return of 14.0% per annum, compounded quarterly. Holders of the 2029 Notes can require us to repurchase their 2029 Notes following the date that is the earlier of (i) September 30, 2028, and (ii) the third anniversary of the IPO, at a repurchase price equal to the principal amount of such 2029 Notes and an amount equal to a rate of return of 13.5% per annum, compounded quarterly.
+
+The table below reflects the maximum amount potentially owed under the Convertible Notes, assuming that the Convertible Notes are held until the Maturity Date.
+
+Rate of Return (1)
+
+Maturity Date
+
+Amount
+
+(dollars in millions)
+
+2028 Notes
+
+14.0
+
+%
+
+December 2028
+
+$
+
+913.2
+
+2029 Notes
+
+13.5
+
+%
+
+August 2029
+
+$
+
+145.1
+
+(1) Compounded quarterly.
+
+On or after the one year anniversary of the completion of the IPO, we may redeem all or any portion of the Convertible Notes for cash at a redemption price equal to 100% of the principal amount thereof, plus accrued and unpaid interest, if the price of our Class B common stock is at least 200% (or in the case of the 2028 Notes, beginning on December 15, 2027, at least 230%) of the then-applicable conversion price for each of at least twenty (20) trading days (whether or not consecutive) during the thirty (30) consecutive trading days prior to providing notice of such redemption. No sinking fund is provided for the Convertible Notes. So long as 10% of each series of Convertible Notes remain outstanding, we are restricted in the amount of indebtedness we may incur without the consent of holders of at least 55% of the then-outstanding aggregate principal amount of the relevant series of Convertible Notes. The Convertible Notes contain customary anti-dilution adjustments. Each indenture contains customary events of default, the occurrence of which would enable the Trustee or the holders of at least 25% in aggregate principal amount of such series of Convertible Notes to accelerate our obligations under such Convertible Notes.
+
+Contractual Obligations and Commitments
+
+As of January 31, 2026, our commitments consisted of (i) obligations under operating leases for offices and data centers on an undiscounted basis, of which $12.8 million is due within 12 months and $30.6 million is due thereafter, (ii) Convertible Note obligations, with an aggregate principal amount of $401 million, due in fiscal 2029 and an aggregate principal amount of $75 million due in fiscal 2030, and (iii) purchase obligations with various parties relating to cloud infrastructure and data center costs, network transit expenses, sales and marketing activities, and software subscription arrangements, of which $56.5 million is due within the next 12 months and $262.3 million is due thereafter.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements and related notes thereto included elsewhere in this Annual Report on Form 10-K are prepared in accordance with U.S. GAAP. The preparation of consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses, and related disclosures. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, and we evaluate our estimates and assumptions on an ongoing basis. Actual results could differ significantly from the estimates made by management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, operating results, and cash flows will be affected.
+
+The critical accounting policies requiring estimates, assumptions, and judgments that we believe to have the most significant impact on our consolidated financial statements are described below. Refer to Note 2, Basis of Presentation and Summary of Significant Accounting Policies, in the Notes to our Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K for further information on our other significant accounting policies.
+
+Revenue Recognition
+
+We generate revenue primarily from sales of subscriptions to access our platform, along with related support services. Customers receive continuous access to our platform and do not have the right to take possession of the software.
+
+We account for revenue contracts with customers in accordance with ASC 606, Revenue from Contracts with Customers. Revenue is recognized when, or as, control of a promised service is transferred to the customer in an amount that reflects the consideration we expect to be entitled to in exchange for those services.
+
+Contracts with customers may contain multiple performance obligations. Our contracts are generally non-cancellable over the contractual term and are subject to standard terms and conditions. Any non-standard terms are evaluated on a case-by-case basis to determine their impact on the timing of revenue recognition.
+
+Common Stock Valuations
+
+Prior to the IPO, the fair value of the common stock underlying our stock-based awards has historically been determined by our board of directors, with input from management and reference to contemporaneous unrelated independent third-party valuations. We believe that our board of directors had the relevant experience and expertise to determine the fair value of our common stock. Given the absence of a public trading market of our common stock, and in accordance with the American Institute of Certified Public Accountants Practice Aid, Valuation of Privately-Held-Company Equity Securities Issued as Compensation, our board of directors exercised reasonable judgment and considered numerous objective and subjective factors to determine the best estimate of the fair value of our common stock. These factors included, but were not limited to:
+
+•
+the results of contemporaneous independent third-party valuations of our common stock;
+
+•
+the prices, rights, preferences, and privileges of our convertible preferred stock relative to those of its common stock;
+
+•
+the lack of marketability of our common stock;
+
+•
+actual operating and financial results;
+
+•
+current business conditions and projections;
+
+•
+the operational and financial performance of comparable publicly traded companies;
+
+•
+the likelihood of achieving a liquidity event, such as an initial public offering or sale of our Company, given prevailing market conditions; and
+
+•
+the U.S. and global capital market conditions and overall economic conditions.
+
+When we estimated the fair value of our business prior to the IPO, we allocated such fair value to each class of stock using the Option Pricing Method ("OPM"), or a hybrid of the Probability Weighted Expected Return Method ("PWERM") and OPM. When using the PWERM, a probability-weighted analysis of values for our common stock was estimated assuming possible future events for our company, including a scenario assuming we become a publicly traded company and a scenario assuming we continue as a privately held company. A discount for lack of marketability was applied to the resulting per share value to arrive at the fair value of our common stock on a non-marketable basis.
+
+In addition, prior to the IPO, we considered any secondary transactions involving our common stock. In our evaluation of those transactions, we considered the facts and circumstances of each transaction to determine the extent to which they represented a fair value exchange. Factors considered include transaction volume, the number of participants, timing, whether the transactions occurred between willing and unrelated parties, and whether the transactions involved parties with access to our financial information.
+
+A change in the estimated fair value of our common stock could have a significant effect on the fair value of the equity awards that we granted prior to the IPO and the corresponding stock-based compensation that we already recognized and the remaining amount that we still have to recognize.
+
+Following the IPO, the fair value of our Class A common stock is based on the closing price as reported on the date of grant on the stock exchange on which we are listed.
+
+Fair Value Assumptions of Convertible Notes
+
+We account for the Convertible Notes under the fair value option election of ASC 825, Financial Instruments, as the Convertible Notes are a financial instrument containing embedded features where the entire financial instrument is measured at its issue-date estimated fair value and then subsequently remeasured at estimated fair value on a recurring basis at each reporting period date. Prior to the IPO, the fair value of the Convertible Notes was measured using a scenario-based binomial lattice model. The scenarios consisted of (a) Scenario 1 - likelihood of achieving a liquidity event, such as an initial public offering ("IPO") and (b) Scenario 2 - we will remain private. The determination of the fair value of the Convertible Notes is complex and highly judgmental due to the significant estimation of inputs, such as the fair value of common stock, the volatility of the common stock, the time to expiration of the Convertible Notes, credit spread, and the risk-free interest rate for a period that approximates the time to expiration.
+
+Following the IPO, the fair value of the Convertible Notes is measured using a single-scenario lattice model that incorporates the trading price of the Company's Class A common stock data, risk-free interest rate, and estimated credit spread.
+
+We performed sensitivity analyses on the key inputs and assumptions used in determining the estimated fair value of Convertible Notes. Assuming all other assumptions and inputs used in the valuation models are held constant, a hypothetical 10% increase in the fair value of our common stock would result in an increase in the fair value of our Convertible Notes of approximately $7.1 million as of January 31, 2026, whereas a hypothetical 10% decrease would result in a decrease in the fair value of our Convertible Notes of approximately $5.9 million as of January 31, 2026.
+
+Recent Accounting Pronouncements
+
+For a description of our recently adopted accounting pronouncements and recently issued accounting standards not yet adopted, see Note 2 "Basis of Presentation and Summary of Significant Accounting Policies" in the Notes to our Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K.
+
+JOBS Act Accounting Election
+
+We are an emerging growth company, as defined in the Jumpstart Our Business Startups Act of 2012 (the "JOBS Act"). The JOBS Act provides that an emerging growth company can take advantage of an extended transition period for complying with new or revised accounting standards. This provision allows an emerging growth company to delay the adoption of some accounting standards until those standards would otherwise apply to private companies. We have elected to use this extended transition period until the earlier of the date we (i) are no longer an emerging growth company or (ii) affirmatively and irrevocably opt out of the extended transition period provided in the JOBS Act. As a result, our financial statements may not be comparable to companies that comply with new or revised accounting pronouncements as of public company effective dates.

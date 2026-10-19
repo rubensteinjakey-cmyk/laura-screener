@@ -110,17 +110,15 @@ def find_section(text, start_key, end_key):
     lines = line_offsets(text)
     starts = [o for o, l in lines if HEADINGS[start_key].match(l)]
     ends = [o for o, l in lines if HEADINGS[end_key].match(l)]
-    pieces = []
-    for s in starts:
-        nxt = [e for e in ends if e > s]
-        if not nxt:
-            continue
-        # if another start heading comes before that end, the later one is
-        # the real heading (e.g. a cover-page line "Part I - Items 1, 1A...")
-        if any(s < s2 < nxt[0] for s2 in starts):
-            continue
-        piece = text[s:nxt[0]].strip()
-        pieces.append(piece)
+    # Each end heading closes the piece that began at the FIRST start heading
+    # after the previous end. (Some 10-Ks repeat "ITEM 1. BUSINESS, continued"
+    # at the top of every page; those repeats must not restart the section.)
+    pieces, prev_end = [], -1
+    for e in ends:
+        inside = [s for s in starts if prev_end < s < e]
+        if inside:
+            pieces.append(text[min(inside):e].strip())
+        prev_end = e
     if not pieces:
         return "", {"starts": len(starts), "ends": len(ends)}
     best = max(pieces, key=len)

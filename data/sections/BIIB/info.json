@@ -1,0 +1,43 @@
+{
+  "ticker": "BIIB",
+  "accession_number": "0000875045-26-000013",
+  "filing_date": "2026-02-06",
+  "fiscal_year": 2025,
+  "full_text_words": 105464,
+  "sections": {
+    "item1": {
+      "words": 21046,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          21046,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 18786,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          18786,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 645
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1355,
+  "human_capital_found": true,
+  "people_paragraph_words": 1554
+}

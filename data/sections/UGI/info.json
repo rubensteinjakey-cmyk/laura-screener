@@ -1,0 +1,43 @@
+{
+  "ticker": "UGI",
+  "accession_number": "0000884614-25-000053",
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "full_text_words": 82995,
+  "sections": {
+    "item1": {
+      "words": 13863,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          13863,
+          7
+        ]
+      }
+    },
+    "item7": {
+      "words": 12845,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          12845,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 354
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1134,
+  "human_capital_found": true,
+  "people_paragraph_words": 1999
+}

@@ -1,0 +1,486 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and accompanying notes that are included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties, as described under the heading “Special Note Regarding Forward-Looking Statements” in this Annual Report on Form 10-K. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under the section titled “Risk Factors” or in other parts of this Annual Report on Form 10-K. Our historical results are not necessarily indicative of the results that may be expected for any period in the future.
+
+A discussion regarding our financial condition and results of operations for the fiscal year ended March 31, 2026 compared to the fiscal year ended March 31, 2025 is presented below. A discussion regarding our financial condition and results of operations for the fiscal year ended March 31, 2025 compared to the fiscal year ended March 31, 2024 can be found in “Management's Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended March 31, 2025 and filed with the SEC on May 20, 2025.
+
+Overview
+
+We are the leading digital platform for U.S. medical professionals, with over 3 million registered members2 as of March 31, 2026. Our registered members represent more than 85% of U.S. physicians, spanning all 50 states and every medical specialty, along with two-thirds of U.S. nurse practitioners and physician assistants, and approximately 90% of graduating U.S. medical students. As of March 31, 2026, the total number of U.S. physicians was approximately 1 million. We calculate U.S. physicians as all U.S. physicians (MDs/DOs) who are under the age of 76, not retired, hold an active medical license, and have a physician status on the National Provider Identifier (NPI) registry. To be included in our calculation of registered members as a percentage of U.S. physicians, we include those U.S. physicians who meet the above criteria and have registered on Doximity by claiming their pre-populated profile or creating a new profile.
+
+Our mission is to help every physician be more productive and provide better care for their patients. We are physician-first, putting technology to work for doctors instead of the other way around. That guiding principle has enabled Doximity to become an essential and trusted professional platform for physicians and their colleagues. We provide our members with AI-powered tools specifically built for medicine, enabling them to collaborate with colleagues, stay up to date with the latest medical news and research, manage their careers and on-call schedules, and conduct virtual patient visits. Our Clinical AI Suite supports the full day-to-day workflow of a physician, from patient communication to documentation to answering clinical questions.
+
+At the core of our platform is the largest medical professional network in the nation, which creates proximity within our community of doctors and other medical professionals. Verified members can search and connect with colleagues and specialists, which allows them to better coordinate patient care and streamline referrals. Our newsfeed addresses the ever increasing sub-specialization of medical expertise and volume of medical research by delivering news and information that is relevant to each physician's clinical practice. We also support physicians in their day-to-day practice of medicine with mobile-friendly and easy-to-use workflow tools such as voice and video dialer, secure messaging, digital faxing, and our Clinical AI Suite, including Ask (formerly DoxGPT) and Scribe. Our business model is designed to both respect and support physicians while driving value for our customers through our Marketing, Hiring, and Workflow Solutions. Our revenue-generating customers, primarily pharmaceutical manufacturers and health systems, have access to a suite of commercial solutions that benefit from broad physician usage.
+
+Our business model has delivered high revenue growth at scale with profitability. For the fiscal years ended March 31, 2026, 2025 and 2024, we recognized revenue of $644.9 million, $570.4 million, and $475.4 million, respectively, representing year-over-year growth rates of 13% and 20%, respectively. Our net income was $196.1 million, $223.2 million, and $147.6 million for the fiscal years ended March 31, 2026, 2025, and 2024, respectively. For the fiscal years ended March 31, 2026, 2025 and 2024, we generated adjusted EBITDA of $357.8 million, $313.8 million, and $230.5 million, respectively. We have accomplished this while focusing on our core mission to help every physician be more productive and provide better care for their patients.
+
+2 A registered member is a user who has completed the registration flow on Doximity by either claiming a pre-populated profile or creating a new profile.
+
+Impact of Macroeconomic Events
+
+Unfavorable conditions in the economy may negatively affect the growth of our business and our results of operations. For example, macroeconomic events and policy uncertainty may slow decision making and budget allocation and reduce discretionary marketing spend at pharmaceutical companies. Adverse changes in budget allocation and discretionary marketing spend could impact our business, collection of accounts receivable and our expected cash flow generation, which may adversely impact our financial condition and results of operations.
+
+We continue to closely monitor the impact of policy and macroeconomic uncertainties on all aspects of our business. While these uncertainties have not had a material adverse impact on our financial condition and results of operations to date, the extent to which these events and future policy and macroeconomic events will impact our business, results of operations and financial condition is still unknown and will depend on future developments, which are highly uncertain and cannot be predicted.
+
+Key Business and Financial Metrics
+
+We monitor a number of key business and financial metrics to assess the health and success of our business, including:
+
+Customers with Trailing 12-Month Subscription Revenue Greater than $500,000. The number of customers with trailing 12-month, or TTM subscription revenue greater than $500,000 is a key indicator of the scale of our business, and is calculated by counting the number of customers that contributed more than $500,000 in subscription revenue in the TTM period. Our customer count is subject to adjustments for acquisitions, consolidations, spin-offs, and other market activity, and we present our total customer count for historical periods reflecting these adjustments.
+
+The number of customers with at least $500,000 of revenue has grown steadily in recent years as we have engaged new customers and expanded within existing ones. This cohort of customers accounted for approximately 83% of our revenue in fiscal 2026.
+
+March 31,
+
+2026 | 2025 | 2024
+
+Number of customers with at least $500,000 of revenue | 125 | 118 | 100
+
+Net Revenue Retention Rate. Net revenue retention rate is calculated by taking the TTM subscription-based revenue from our customers that had revenue in the prior TTM period and dividing that by the total subscription-based revenue for the prior TTM period. For the purposes of this calculation, subscription revenue excludes subscriptions for individuals and small practices and other non-recurring items. Our net revenue retention rate compares our subscription revenue from the same set of customers across comparable periods, and reflects customer renewals, expansion, contraction, and churn. Our net revenue retention rate is directly tied to our revenue growth rate and thus fluctuates as that growth rate fluctuates.
+
+March 31,
+
+2026 | 2025 | 2024
+
+Net revenue retention rate | 109 | % | 119 | % | 114 | %
+
+Quarterly Unique Active Providers using our Workflow Tools. Quarterly unique active providers3 using our Workflow Tools is a key performance indicator of our platform’s adoption and long-term growth potential among providers on our platform. We calculate the number of unique active providers by counting providers who securely login and use any of the following workflow functions on our technology platform during the quarter: placing phone calls or video calls lasting more than 10 seconds, sending voicemails, or sending secure text messages using our Dialer communications tools; sending or receiving faxes; submitting a prompt on Ask (formerly DoxGPT), our HIPAA‑compliant generative AI clinical research tool and writing assistant; conducting research on prescription drugs; reviewing AI responses for our PeerCheck feature; scheduling via our on-
+
+3 Providers are health care professionals with clinical / prescribing roles specifically Physicians (MD/DO), Nurse practitioners (NPs), Certified registered nurse anesthetist (CRNAs), Physician assistants (PAs), Pharmacists, and Medical students
+
+call scheduling tool, Amion; or using our HIPAA-compliant ambient note taking tool, Scribe, for a patient visit. Each provider is counted once per quarter, even if they use multiple tools or use them many times.
+
+The figures in the following table are presented in millions:
+
+March 31,
+
+2026 | 2025
+2024
+
+Quarterly unique active providers using our workflow tools | 0.81 | 0.62 | 0.58
+
+Components of Results of Operations
+
+Revenue
+
+Marketing Solutions. Our customers purchase a subscription to Marketing Solutions, either directly or through marketing agencies, for the ability to share tailored content on the Doximity platform via a variety of modules for defined time periods. We generally bill customers either upon contract execution for a portion of the contract, with the remainder billed based on various time-based milestones, or on a monthly basis beginning in the month services are launched. When revenue is recognized in advance of billings, we record unbilled revenue. Unbilled revenue is recorded on the consolidated balance sheets within prepaid expenses and other current assets. Subscriptions to Marketing Solutions include the following contractual arrangements:
+
+•Integrated and other subscriptions that are not tied to a single module per month but allow customers to utilize a given module or combination of modules during the subscription period, subject to limits on the total number of modules launched in a given period of time, active at any given time, and members targeted.
+
+•Subscriptions for specific modules delivered on a monthly basis to a consistent number of targeted Doximity members during the subscription period.
+
+For these subscription-based contractual arrangements, pricing is based on the number and composition of the targeted Doximity members, and on the specific modules purchased. We recognize revenue over time as control of the service is transferred to the customer.
+
+Hiring and Workflow Solutions. We provide Hiring Solutions customers access to our platform which enables them to post job openings or deliver a fixed number of monthly messages to our network of medical professionals. We offer Workflow Solutions customers access to telehealth tools, on-call scheduling, and our Clinical AI Suite, including Dialer, Scribe and Ask, during the subscription period. Hiring and Workflow Solutions contracts are noncancelable and customers are billed in annual, quarterly, or monthly installments in advance of the service period, and revenue is recognized ratably over the contractual term.
+
+We also generate revenue from temporary and permanent medical recruiting services which we charge on an hourly-fee, and retainer and placement-fee basis, respectively. For the fiscal years ended March 31, 2026, 2025, and 2024, the revenue from temporary and permanent medical recruiting services was not significant to our total revenue.
+
+Cost of Revenue
+
+Cost of revenue is primarily comprised of expenses related to cloud hosting, personnel-related expenses for our customer success team, costs for third-party platform access, information technology, software costs, including generative AI platform usage and inference costs, amortization of acquired intangibles, and other services used in connection with the delivery and support of our platform. Our cost of revenue also includes the amortization of internal-use software development costs, editorial and other content-related expenses, and allocated overhead. Cost of revenue is driven by the growth of our member network and utilization of our workflow tools. We intend to continue to invest additional resources in our cloud infrastructure, AI initiatives, and our customer support organizations to support the growth of our business.
+
+Gross Profit and Gross Margin
+
+Gross profit is total revenue less total cost of revenue. Gross margin is gross profit expressed as a percentage of total revenue. Gross profit and gross margin has been and will continue to be affected by a number of factors, including the timing of our acquisition of new customers and sales of additional solutions to existing customers, the timing and extent of our investments in our operations, cloud hosting costs, growth in our customer success team, AI and related efforts, and the timing of internal-use software development costs amortization and amortization of acquired intangibles. We expect our gross margin to remain relatively steady over the near term, although our quarterly gross margin is expected to fluctuate from period to period depending on the interplay of these and other factors.
+
+Operating Expenses
+
+Our operating expenses consist of research and development, sales and marketing, general and administrative, and restructuring and impairment charges.
+
+Research and Development
+
+Research and development expense is primarily comprised of personnel-related expenses associated with our engineering and product teams who are responsible for building new products and improving existing products. Research and development expense also includes costs for information technology, software-related costs, contractors, third-party services, and allocated overhead. Other than internal-use software development costs that qualify for capitalization, research and development costs are expensed as incurred. We expect research and development expenses will increase on an absolute dollar basis as we continue to grow our platform and product offerings, including investments in our AI initiatives.
+
+Sales and Marketing
+
+Sales and marketing expense is primarily comprised of personnel-related expenses, sales incentive compensation, advertising costs, travel, and other event expenses. Sales and marketing expense also includes costs for information technology, software-related costs, contractors, third-party services, allocated overhead, intangible assets amortization, and change in fair value of contingent earn-out consideration liability. We capitalize sales incentive compensation that is considered to be an incremental and recoverable cost of obtaining a contract with a customer. These sales incentive compensation costs are amortized over the period of benefit. We expect sales and marketing expense to increase as we invest in our AI product offerings and to continue to be our largest expense on an absolute basis.
+
+General and Administrative
+
+General and administrative expense is primarily comprised of personnel-related expenses associated with our executive, finance, legal, human resources, information technology, and facilities employees. General and administrative expense includes fees for third-party legal and accounting services, insurance expense, information technology, software-related costs, and allocated overhead. We expect that general and administrative expense will increase on an absolute dollar basis as we incur compliance costs associated with being a publicly-traded company, including legal, audit, and consulting fees.
+
+Restructuring and Impairment Charges
+
+Restructuring expenses primarily consist of severance payments, employee benefits, and stock-based compensation in relation to the modification of equity awards associated with the management-approved plan. One-time employee termination benefits are recognized at the time of communication of the terms of the plan to the employees, unless future service is required, in which case the costs are recognized over the future service period. Impairment charges primarily include impairment of right-of-use assets and other property and equipment recognized upon the execution of a sublease for a portion of our office space.
+
+Other Income, Net
+
+Other income, net consists primarily of interest income earned on our cash equivalents and marketable securities.
+
+Provision for Income Taxes
+
+Provision for income taxes consists primarily of income taxes in U.S. federal, state, local, and foreign jurisdictions in which we conduct business. We continue to maintain a valuation allowance related to specific net deferred tax assets where it is not more likely than not that the deferred tax assets will be realized, which includes Arizona research and development credits and capital loss carryforwards. Our effective income tax rate generally differs from the U.S. statutory tax rate of 21.0% primarily due to U.S. federal and state research and development tax credits, stock-based compensation related tax benefits, and state income taxes.
+
+Results of Operations
+
+The following tables set forth our consolidated results of operations data and such data as a percentage of revenue for the periods presented.
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Revenue | $ | 644,863 | $ | 570,399 | $ | 475,422
+
+Cost of revenue(1)
+70,326 | 55,874 | 50,669
+
+Gross profit | 574,537 | 514,525 | 424,753
+
+Operating expenses:
+
+Research and development(1)
+130,702 | 93,038 | 81,983
+
+Sales and marketing(1)
+163,648 | 145,713 | 133,129
+
+General and administrative(1)
+65,267 | 45,670 | 37,827
+
+Restructuring and impairment charges(1)
+— | 2,304 | 7,936
+
+Total operating expenses | 359,617 | 286,725 | 260,875
+
+Income from operations | 214,920 | 227,800 | 163,878
+
+Other income, net | 35,085 | 35,774 | 21,324
+
+Income before income taxes | 250,005 | 263,574 | 185,202
+
+Provision for income taxes | 53,954 | 40,389 | 37,620
+
+Net income | $ | 196,051 | $ | 223,185 | $ | 147,582
+
+_______________
+
+(1)Cost of revenue and operating expenses include stock-based compensation expense as follows:
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Cost of revenue | $ | 11,680 | $ | 11,001 | $ | 9,479
+
+Research and development | 46,159 | 19,394 | 11,978
+
+Sales and marketing | 39,397 | 26,323 | 16,857
+
+General and administrative | 24,391 | 15,668 | 9,116
+
+Restructuring
+— | — | 3,646
+
+Total stock-based compensation expense | $ | 121,627 | $ | 72,386 | $ | 51,076
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+(percentages of revenue)
+
+Revenue | 100 | % | 100 | % | 100 | %
+
+Cost of revenue | 11 | 10 | 11
+
+Gross profit | 89 | 90 | 89
+
+Operating expenses:
+
+Research and development | 20 | 16 | 17
+
+Sales and marketing | 25 | 26 | 28
+
+General and administrative | 10 | 8 | 8
+
+Restructuring and impairment charges
+— | — | 2
+
+Total operating expenses | 55 | 50 | 55
+
+Income from operations | 34 | 40 | 34
+
+Other income, net | 4 | 6 | 5
+
+Income before income taxes | 38 | 46 | 39
+
+Provision for income taxes | 8 | 7 | 8
+
+Net income | 30 | % | 39 | % | 31 | %
+
+Comparison of the Fiscal Years Ended March 31, 2026 and 2025.
+
+Revenue
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Revenue | $ | 644,863 | $ | 570,399 | $ | 74,464 | 13 | %
+
+Revenue for the fiscal year ended March 31, 2026 increased $74.5 million as compared to the fiscal year ended 2025. The increase was primarily driven by a $64.6 million increase in subscription revenue. Of the increase in subscription revenue, $16.2 million was driven by the addition of new subscription customers4 and $48.4 million was due to the expansion of existing customers. The expansion of existing customers was primarily driven by average revenue per existing Marketing Solutions customer increasing by 10% as a result of adding new and growing existing brands and service lines. Approximately 94% of our revenue for the fiscal year ended March 31, 2026 was derived from subscription customers.
+
+Cost of revenue, gross profit, and gross margin
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Cost of revenue | $ | 70,326 | $ | 55,874 | $ | 14,452 | 26 | %
+
+Gross profit | $ | 574,537 | $ | 514,525 | $ | 60,012 | 12 | %
+
+Gross margin | 89 | % | 90 | %
+
+Cost of revenue for the fiscal year ended March 31, 2026 increased $14.5 million as compared to the fiscal year ended 2025, primarily driven by a $5.6 million increase in hosting and software costs and a $2.5 million increase related to amortization of an acquired intangible and internally developed software. Both increases were incurred to support our AI initiatives. The remaining increases were due to personnel and other costs to support revenue growth.
+
+The gross margin for the fiscal year ended March 31, 2026 remained consistent as compared to the same period in 2025.
+
+Operating Expenses
+
+Research and development
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Research and development | $ | 130,702 | $ | 93,038 | $ | 37,664 | 40 | %
+
+Research and development expense for the fiscal year ended March 31, 2026 increased $37.7 million as compared to the fiscal year ended 2025, primarily driven by a $28.6 million increase in stock-based compensation as a result of new service-based as well as performance-based awards granted to new hires and existing employees, a $4.9 million increase in personnel costs due to merit increases and increase in average headcount, a $3.7 million increase in third-party contractor costs, a $1.5 million increase in hosting and software costs, and a $1.3 million increase in employee events and travel-related expenses. These increases were partially offset by a $4.3 million increase in capitalization of internally-developed software costs.
+
+Sales and marketing
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Sales and marketing | $ | 163,648 | $ | 145,713 | $ | 17,935 | 12 | %
+
+Sales and marketing expense for the fiscal year ended March 31, 2026 increased $17.9 million as compared to the fiscal year ended 2025, primarily driven by a $13.1 million increase in stock-based compensation as a result of new awards granted to new hires and existing employees, and a $6 million increase in marketing activities. These increases were partially offset by a $0.9 million decrease in contractor spend.
+
+4 We define new subscription customers as revenue generating subscription customers in the current fiscal period who did not contribute any revenue for the same period in the prior fiscal year.
+
+General and administrative
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+General and administrative | $ | 65,267 | $ | 45,670 | $ | 19,597 | 43 | %
+
+General and administrative expense for the fiscal year ended March 31, 2026 increased $19.6 million as compared to the fiscal year ended 2025, primarily driven by a $9.4 million increase in legal fees, $8.7 million increase in stock-based compensation as a result of new awards granted to new hires and existing employees, and $1.6 million increase related to acquisition expenses.
+
+Restructuring and impairment charges
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Impairment charge | $ | — | $ | 2,304 | $ | (2,304) | NM
+
+During the fiscal year ended March 31, 2025, the Company executed a sublease for its Curative office space in Irving, Texas, which resulted in a $2.3 million impairment charge for the subleased asset group.
+
+Other income, net
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Other income, net | $ | 35,085 | $ | 35,774 | $ | (689) | (2) | %
+
+Other income, net for the fiscal year ended March 31, 2026 remained materially consistent as compared to the fiscal year ended 2025.
+
+Provision for income taxes
+
+Fiscal Year Ended March 31, | Change
+
+2026 | 2025 | $ | %
+
+(in thousands, except percentages)
+
+Provision for income taxes | $ | 53,954 | $ | 40,389 | $ | 13,565 | 34 | %
+
+Income tax expense for the fiscal year ended March 31, 2026 increased $13.6 million as compared to the fiscal year ended 2025, primarily driven by decreased tax deductions from stock award activities.
+
+Liquidity and Capital Resources
+
+Since inception, we have financed operations primarily through proceeds received from sales of equity securities and payments received from our customers. As of March 31, 2026, our principal sources of liquidity were cash and cash equivalents and marketable securities of $748.6 million. Our marketable securities consist of U.S. government and agency securities, corporate notes and bonds, and commercial paper.
+
+On May 1, 2024 the Company’s board of directors authorized a program to repurchase up to $500 million of the Company’s Class A common stock with no expiration date. As of March 31, 2026, the Company repurchased and retired 11,591,950 shares of Class A common stock and completed this program.
+
+On February 3, 2026 the Company’s board of directors authorized a program to repurchase up to $500 million of the Company’s Class A common stock with no expiration date. As of March 31, 2026, the Company repurchased and retired 321,080 shares of Class A common stock under this program for an aggregate purchase price of $7.5 million and $492.5 million remained available and authorized for repurchase.
+
+All repurchases are subject to general business and market conditions and other investment opportunities and may be executed through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans.
+
+Immediately upon the repurchase of any shares of Class A common stock, such shares shall be retired by the Company and shall automatically return to the status of authorized but unissued shares of Class A common stock.
+
+Effective January 1, 2023, the Company’s share repurchases in excess of allowable share issuances are subject to a 1% excise tax as a result of the Inflation Reduction Act of 2022. As of March 31, 2026, the Company had accrued excise taxes of $2.3 million and nil as of March 31, 2025
+
+We believe that our existing cash and cash equivalents and marketable securities will be sufficient to support working capital and capital expenditure requirements for at least the next 12 months.
+
+Our future capital requirements will depend on many factors, including our revenue growth rate, the timing and the amount of cash received from customers, the expansion of sales and marketing activities, timing of share repurchases, and the timing and extent of spending to support research and development efforts. Further, we may in the future enter into arrangements to acquire or invest in businesses and technologies. We may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, financial condition, and results of operations could be adversely affected.
+
+We have not entered into any off-balance sheet arrangements and do not have any holdings in variable interest entities.
+
+For further details regarding our cash requirements from noncancelable operating lease obligations and other contractual commitments, see Note 14—Commitments and Contingencies and Note 15—Leases included in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Cash Flows
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+(in thousands)
+
+Net cash provided by operating activities | $ | 326,458 | $ | 273,265 | $ | 184,096
+
+Net cash provided by (used in) investing activities | $ | 147,170 | $ | (29,298) | $ | 31,186
+
+Net cash used in financing activities | $ | (464,064) | $ | (131,138) | $ | (276,524)
+
+Net cash provided by operating activities
+
+Cash provided by operating activities was $326.5 million for the fiscal year ended March 31, 2026. This consisted of net income of $196.1 million, adjusted for non-cash items of $176.1 million and a net outflow from operating assets and liabilities of $45.7 million. Non-cash items primarily consisted of stock-based compensation expense of $121.6 million, deferred income tax expense of $32.1 million, depreciation and amortization expense of $14.4 million, amortization of deferred contract costs of $13.5 million, and non-cash lease expense of $1.7 million, partially offset by accretion of discount on marketable securities of $7.6 million. The net outflow from operating assets and liabilities was driven by a $16.9 million increase in accounts receivable due to the timing of billings and collections, a $14.5 million increase in deferred contract costs due to increased sales activity, a $8.3 million increase in prepaid expenses and other assets, a $8.1 million decrease in deferred revenue due to the timing of customer billings and program launches, and a $2.2 million decrease in operating lease liabilities. These outflows were partially a $4.3 million increase in accounts payable and accrued expenses due to timing of payments. During the fiscal years ended March 31, 2026 and 2025, the Company made $21.8 million and $55.7 million, respectively, in payments for taxes. The decrease in cash paid for income taxes was related to the One Big Beautiful Bill Act (“Tax Act”, which addresses certain business tax provisions enacted as a part of the 2017 Tax Cuts and Jobs Act including restoration of Section 174 expensing for US-based research. Accounting Standards Codification Topic 740, Income Taxes, (“Topic 740”) requires the tax impacts to be included in the reporting period that includes the date the Tax Act was signed into law. Management elected to accelerate the deduction of all remaining unamortized domestic R&D expenses originally capitalized in fiscal years 2023 through 2025 in one year—i.e., in fiscal year 2026.
+
+Cash provided by operating activities was $273.3 million for the fiscal year ended March 31, 2025. This consisted of net income of $223.2 million, adjusted for non-cash items of $74.2 million and a net outflow from operating assets and liabilities of $24.1 million. Non-cash items primarily consisted of stock-based compensation expense of $72.4 million, depreciation and amortization expense of $10.7 million, amortization of deferred contract costs of $10.0 million, non-cash lease expense of $1.8 million, and impairment of long-lived assets of $2.3 million, partially offset by deferred income taxes of $11.6 million and accretion of discount on marketable securities of $11.7 million. The net outflow from operating assets and liabilities was driven by a $27.2 million increase in accounts receivable due to the timing of billings and collections, a $12.1 million increase in deferred contract costs due to increased sales activity, and a $2.1 million decrease in operating lease liabilities. These outflows were partially offset by a $15.2 million increase in deferred revenue due to billing outpacing revenue recognition, and a $2.8 million decrease in prepaid expenses and other assets. During the fiscal years ended March 31, 2025 and 2024, the Company made $55.7 million and $51.3 million, respectively, in payments for taxes. The increase in cash paid for income taxes was partially related to the Tax Cuts and Jobs Act of 2017, which eliminated the option to deduct research and development expenditures and required taxpayers to capitalize and amortize them over five or fifteen years. The requirement may also reduce our cash flows from operating activities in future periods, the amounts and specific periods of which we are unable to estimate at this time.
+
+Net cash provided by (used in) investing activities
+
+Cash provided by investing activities was $147.2 million for the fiscal year ended March 31, 2026, which primarily consisted of proceeds from the maturities of marketable securities of $561.4 million and proceeds from the sale of marketable securities of $10.4 million, partially offset by $389.2 million of marketable securities purchases, $26.5 million cash paid for acquisition and $8.9 million for internal-use software development costs.
+
+Cash used in investing activities was $29.3 million for the fiscal year ended March 31, 2025, which primarily consisted of $675.6 million of marketable securities purchases and $6.5 million for internal-use software development costs. These outflows were partially offset by proceeds from the maturities of marketable securities of $635.4 million and proceeds from the sale of marketable securities of $17.4 million.
+
+Net cash used in financing activities
+
+Cash used in financing activities was $464.1 million for the fiscal year ended March 31, 2026, which primarily consisted of common stock repurchases of $431.7 million, $40.8 million of taxes paid related to the net share settlement of equity awards, and $5.2 million of payments for contingent consideration related to the AMiON acquisition. These payments were partially offset by $9.8 million of proceeds from the exercise of stock options and common stock warrants and $3.9 million of proceeds from the issuance of common stock related to the employee stock purchase plan.
+
+Cash used in financing activities was $131.1 million for the fiscal year ended March 31, 2025, which primarily consisted of common stock repurchases of $120.3 million, $27.2 million of taxes paid related to the net share settlement of equity awards, $5.5 million of payments for contingent consideration related to the AMiON acquisition, and $1.5 million of excise tax payments. These payments were partially offset by $19.7 million of proceeds from the exercise of stock options and common stock warrants and $3.6 million of proceeds from the issuance of common stock related to the employee stock purchase plan.
+
+Non-GAAP Financial Measures
+
+We use adjusted EBITDA and free cash flow to measure our performance, identify trends, formulate financial projections, and make strategic decisions.
+
+Adjusted EBITDA
+
+We define adjusted EBITDA as net income before interest, income taxes, depreciation, and amortization, and as further adjusted for acquisition and other related expenses, stock-based compensation expense, restructuring and impairment charges, legal fees associated with certain non-ordinary course legal matters including the shareholder class action litigation, change in fair value of contingent earn-out consideration liability, and other income, net. Net income margin represents net income as a percentage of revenue and adjusted EBITDA margin represents adjusted EBITDA as a percentage of revenue.
+
+Adjusted EBITDA is a key measure we use to assess our financial performance and is also used for internal planning and forecasting purposes. We believe adjusted EBITDA is helpful to investors, analysts, and other interested parties because it can assist in providing a more consistent and comparable overview of our operations across our historical financial periods.
+
+Adjusted EBITDA and adjusted EBITDA margin are non-GAAP measures and are presented for supplemental informational purposes only and should not be considered as alternatives or substitutes to the financial information presented in accordance with GAAP. These measures have certain limitations in that they do not include the impact of certain expenses that
+
+are reflected in our consolidated statements of operations that are necessary to run our business. Other companies, including other companies in our industry, may not use these measures or may calculate these measures differently than as presented in this Annual Report on Form 10-K, limiting their usefulness as comparative measures.
+
+The following table presents a reconciliation of net income to adjusted EBITDA, adjusted EBITDA margin, and net income margin (in thousands, except percentages):
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+Net income | $ | 196,051 | $ | 223,185 | $ | 147,582
+
+Adjusted to exclude the following:
+
+Acquisition and other related expenses | 1,616 | — | —
+
+Stock-based compensation | 121,627 | 72,386 | 47,430
+
+Depreciation and amortization | 14,383 | 10,659 | 10,265
+
+Provision for income taxes | 53,954 | 40,389 | 37,620
+
+Restructuring and impairment charges
+— | 2,304 | 7,936
+
+Change in fair value of contingent earn-out consideration liability | 417 | 680 | 951
+
+Legal expenses
+4,853 | — | —
+
+Other income, net | (35,085) | (35,774) | (21,324)
+
+Adjusted EBITDA | $ | 357,816 | $ | 313,829 | $ | 230,460
+
+Revenue | $ | 644,863 | $ | 570,399 | $ | 475,422
+
+Net income margin | 30 | % | 39 | % | 31 | %
+
+Adjusted EBITDA margin | 55 | % | 55 | % | 48 | %
+
+Free Cash Flow
+
+Free cash flow is a key performance measure that our management uses to assess our overall performance. We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by our business that can be used for strategic opportunities, including investing in our business, making strategic acquisitions, and strengthening our financial position.
+
+We calculate free cash flow as cash flow from operating activities less purchases of property and equipment, purchases of intangible assets, and internal-use software development costs.
+
+Although we believe free cash flow is a useful indicator of business performance, free cash flow is presented for supplemental informational purposes only and should not be considered a substitute for financial information presented in accordance with GAAP. Free cash flow has limitations as an analytical tool, and it should not be considered in isolation or as a substitute for analysis of other GAAP financial measures, such as net cash provided by operating activities. Some of the limitations of free cash flow are that it may not properly reflect future contractual commitments that have not been realized in the current period. Our free cash flow may not be comparable to similarly titled measures of other companies because they may not calculate free cash flow in the same manner as we calculate the measure, limiting its usefulness as a comparative measure.
+
+The following table presents a reconciliation of our free cash flow to the most comparable GAAP measure, net cash provided by operating activities, for each of the periods indicated (in thousands):
+
+Fiscal Year Ended March 31,
+
+2026 | 2025 | 2024
+
+Net cash provided by operating activities | $ | 326,458 | $ | 273,265 | $ | 184,096
+
+Purchases of property and equipment | — | — | (147)
+
+Purchases of intangible assets
+(62) | — | —
+
+Internal-use software development costs | (8,901) | (6,525) | (5,654)
+
+Free cash flow | $ | 317,495 | $ | 266,740 | $ | 178,295
+
+Other cash flow components:
+
+Net cash provided by (used in) investing activities | $ | 147,170 | $ | (29,298) | $ | 31,186
+
+Net cash used in financing activities | $ | (464,064) | $ | (131,138) | $ | (276,524)
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements and the related notes thereto included elsewhere in this Annual Report on Form 10-K are prepared in accordance with GAAP. The preparation of our financial statements also requires us to make estimates and assumptions that affect the amounts stated in the consolidated financial statements and accompanying notes. We base our estimates and judgments on historical experience and on various other assumptions that we believe are reasonable under the circumstances. Actual results could differ significantly from the estimates made by management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected.
+
+We believe that of our significant accounting policies, which are described in Note 2—Summary of Significant Accounting Policies included in Part II, Item 8 of this Annual Report on Form 10-K, the following accounting policies involve a greater degree of judgment and complexity. Accordingly, we believe the below policies are the most critical to aid in fully understanding and evaluating our consolidated financial statements.
+
+Revenue Recognition
+
+Marketing Solutions customers may purchase integrated and other subscriptions for a fixed fee that are not tied to a single module per month but allow customers to utilize a given module or combination of modules during the subscription period subject to limits on the total number of modules launched in a given period of time, active at any given time, and members targeted. These represent stand-ready obligations in that the delivery of the underlying sponsored content is within the control of the customer and the extent of use in any given period does not diminish the remaining services. For these subscriptions, we record revenue ratably over the subscription period commencing with either the beginning of the subscription term or first launch.
+
+Marketing Solutions customers may also purchase a subscription for a specific module to be used over a defined period of time. These customers may purchase more than one module with either the same or different subscription periods. Each module targets a consistent number of Doximity members per month for the duration of the subscription period. The Company treats each subscription to a specific module as a distinct performance obligation because each module is capable of being distinct as the customer can benefit from the subscription to each module on their own and each subscription can be sold standalone. The subscription to each module is treated as a series of distinct performance obligations because it is distinct and substantially the same, satisfied over time, and has the same measure of progress. The total transaction price is allocated to the individual module subscriptions, which represent separate performance obligations, based on the relative standalone selling price. We commence revenue recognition when the first content for the specific module is launched on the platform for the initial monthly period and revenue is recognized over time as each subsequent content period is delivered.
+
+Stock-Based Compensation
+
+Stock-based compensation is measured at the grant date based on the fair value of the award. Compensation expense for restricted stock units, or RSUs, is recognized on a straight-line basis over the requisite service period, which is generally the same as the vesting period. Compensation expense for performance-based restricted stock units, or PSUs, is recognized using the accelerated attribution method over the requisite service period when it is probable that the performance conditions will be satisfied.
+
+Determining the grant-date fair value of stock options, warrants, and purchase rights under the employee stock purchase plan, or ESPP, requires judgment. We estimate the fair value of RSUs, at our stock price on the grant date. We use the Black-Scholes option-pricing model to determine the fair value of stock options, warrants, and ESPP rights. The determination of the grant-date fair value using the Black-Scholes model is affected by the fair value of our common stock and assumptions regarding a number of other complex and subjective variables. These assumptions include the expected term of the award, the expected stock price volatility over the expected term of the award, the risk-free interest rate for the expected term of the award, and expected dividends.
+
+Business Combinations
+
+The results of businesses acquired in business combinations are included in our consolidated financial statements from the date of the acquisition. Purchase accounting results in assets and liabilities of an acquired business being recorded at their estimated fair values on the acquisition date. Any excess consideration over the fair value of assets acquired and liabilities assumed is recognized as goodwill. The purchase price allocation process requires management to make significant judgment and estimates, including the selection of valuation methodologies, estimates of future expected cash flows, future revenue growth, margins, customer retention rates, technology life, royalty rates, expected use of acquired assets, and discount rates. These factors are also considered in determining the useful life of the acquired intangible assets. These estimates are based in
+
+part on historical experience, market conditions and information obtained from management of the acquired companies and are inherently uncertain. We engage the assistance of valuation specialists in concluding on fair value measurements in connection with determining fair values of assets acquired and liabilities assumed in business combinations.
+
+Transaction-related costs are expensed as incurred and are included in general and administrative expenses in the consolidated statements of operations.
+
+Recent Accounting Pronouncements
+
+Refer to Note 2—Summary of Significant Accounting Policies included in Part II, Item 8 of this Annual Report on Form 10-K for recently adopted accounting pronouncements and recently issued accounting pronouncements not yet adopted.

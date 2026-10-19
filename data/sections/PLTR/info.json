@@ -1,0 +1,43 @@
+{
+  "ticker": "PLTR",
+  "accession_number": "0001321655-26-000011",
+  "filing_date": "2026-02-17",
+  "fiscal_year": 2025,
+  "full_text_words": 81689,
+  "sections": {
+    "item1": {
+      "words": 5115,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5115,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7874,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7874,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 128,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 283
+    }
+  },
+  "notes": [],
+  "human_capital_words": 497,
+  "human_capital_found": true,
+  "people_paragraph_words": 492
+}

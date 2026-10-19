@@ -1,0 +1,327 @@
+Item 1. Business
+
+Overview
+
+Our vision is a world in which every item that enterprises manufacture, transport and sell, and that people own, use and recycle, is wirelessly and ubiquitously connected to the cloud. And a world in which the ownership, history and linked information for every one of those items is seamlessly available to enterprises and people. We call our expansive vision a Boundless Internet of Things, or IoT. We design and sell a platform that enables that wireless item-to-cloud connectivity and with which we and our partners innovate IoT solutions.
+
+Our mission is to connect every thing. We have enabled connectivity for more than 150 billion items to date, delivering item visibility, traceability and improved operational efficiencies for retailers, supply chain and logistics, or SC&L providers, restaurants and food-service providers, airlines, automobile manufacturers, healthcare companies and many more.
+
+We are today focused on extending item connectivity from tens of billions to trillions of items, and delivering item data not just to enterprises but to people, so they too can benefit from their connected items. We believe the Boundless IoT we are enabling will, in the not-too-distant future, give people ubiquitous access to cloud-based digital twins of every item, each storing the item’s history, location and linked information and helping people explore and learn about the item. We believe that that connectivity will transform the world.
+
+Impinj Platform
+
+We and our partner ecosystem build item-visibility solutions using products that we design and either sell or license, including silicon radios; reading systems; tag design, manufacturing, test, encoding and commissioning systems, or collectively “tag production systems”; and intellectual property. We also offer software and cloud services, and while nascent from a standalone revenue perspective, they enable our other product offerings and we intend to expand them as a part of our growth strategy. We sell two types of silicon radios. The first are endpoint ICs that store a serialized number to wirelessly identify an item. Our partners embed endpoint ICs into an item or its packaging. These ICs may also contain a cryptographic key to authenticate the item. The second are reader ICs that our partners use in embedded or finished readers to wirelessly discover, inventory and engage the endpoint ICs. Those readers may also protect an item or consumer, for example by authenticating the item as genuine or privatizing the item by rendering the endpoint IC unresponsive without the consumer first providing a password. Our reading systems comprise high-performance finished readers and gateways used primarily in autonomous reading solutions. Our tag production systems enable partner products and facilitate enterprise deployments. Our software and cloud service offerings focus on solutions enablement, particularly at enterprises with whom we have a close business relationship
+
+We sell our products, individually or as a whole platform offering, primarily with or through our partner ecosystem. That ecosystem comprises original equipment manufacturers, or OEMs, tag service bureaus, original device manufacturers, or ODMs, systems integrators, or SIs, value-added resellers, or VARs, independent software vendors, or ISVs, and other solution partners.
+
+Our radios follow the RAIN industry’s air-interface standard for their core reading functionality. We create partner and enterprise preference for our radios and solutions by adding differentiated features into them, supporting those features across our platform and licensing them where appropriate, to deliver solutions capabilities and performance that surpasses mix-and-match solutions built from competitor products. We have also introduced a set of compatible extensions to the RAIN industry’s air-interface standard, which we call Gen2X, that enhance the performance and protection of our solutions. The RAIN industry, on both the reader and solutions side, has broadly embraced Gen2X.
+
+We are a leader in the RAIN market. We spearheaded developing the RAIN air-interface standard, lobbied governments to allocate radio spectrum and cofounded the RAIN industry alliance that today has
+
+more than 150 member companies. Our industry uses free spectrum in 81 countries encompassing roughly 95% of the world’s GDP. We believe RAIN’s capabilities – endpoint ICs with serialized item identifiers, battery-free operation, 30-foot range, not line-of-sight readability, up to 1,000 reads per second, essentially unlimited life and available cryptographic authentication, all at a cost of pennies per item – position RAIN to be the leading item-to-cloud connectivity technology for the IoT. We believe our success derives from the capabilities and performance of our enterprise solutions, and the visibility those solutions give enterprise to items they manufacture, transport and sell.
+
+RAIN market adoption has historically been slower than we and industry sources have anticipated. For more information related to market adoption, please see the section of this report captioned “Risk Factors.”
+
+Endpoint ICs
+
+Our endpoint IC product family comprises miniature radios-on-a-chip that sell for pennies yet can wirelessly connect almost any item. Each IC attaches to a host item and includes a number to identify the item. The IC may also include or enable features such as user data storage, security, authentication, loss prevention, privacy protection and value-added Impinj custom capabilities, all accessible by our platform.
+
+Our OEM partners typically attach an endpoint IC to a printed or etched antenna on a paper or PET backing, then cover the composite inlay with a paper face to form a tag. More recently, some of our partners have begun embedding the endpoint IC into wire, thread or woven tags. Enterprises attach or embed the tags onto or into items in retail, SC&L, healthcare, automotive, sports, industrial and manufacturing, consumer experience, datacenter, travel, food, banking and other use cases. Regardless of the method by which our partners attach or embed an endpoint IC onto or into an item, we refer to an IC and its host item as an endpoint.
+
+When a consumer purchases an item, a store or supplier will typically procure another item to sell, including another endpoint IC. We believe endpoint ICs represent the first market for consumable silicon and are a reoccurring revenue source for us.
+
+Systems
+
+Our systems comprise our finished readers, reader ICs; software and services; and tag production systems. We and our partners create solutions that typically combine several of these products with endpoint ICs, and often use our entire platform. We and they sell those solutions to enterprise end users.
+
+Our reader IC product family comprises multiple ICs, tiered by performance and functionality, that our OEM and ODM partners use in their mobile or handheld readers, embedded readers, fixed readers, gateways, appliances and other edge devices. We offer easy-to-use application programming interfaces, or APIs, development environments, sample code and drivers and libraries to facilitate partner reader development. We leverage our solutions learnings to continually improve the firmware in our reader ICs. We sell our reader ICs for tens of dollars.
+
+Our reader product family comprises multiple finished readers tiered by performance and functionality. Our gateways integrate our readers with beamforming antennas to electrically steer a radio beam like a radar, locating and tracking items. Our readers and gateways are easy to deploy and use, can be powered via power-over-Ethernet, or PoE, and are certified for operation in more than 40 countries. They wirelessly provide power to, and communicate bidirectionally with, endpoint ICs on host items. They also read, write, authenticate and engage the endpoint ICs on those items. We sell our readers and gateways through distributors, SIs, VARs and solution providers for hundreds to thousands of dollars.
+
+We provide and sell software, either bundled with our readers or standalone, that allows us and our partners to solve enterprise business problems such as package sortation, dock door ingress/egress and retail self-checkout and loss prevention. Our software runs either on our readers and gateways or partly on them and partly on host devices or in the cloud. We also offer cloud services for item resolution and label authentication.
+
+Our Voyantic Oy entity is a leading provider of tag production systems and sells those systems primarily to our inlay partners.
+
+Competitive Advantages
+
+We believe we can extend our RAIN market leadership by leveraging our competitive strengths, including:
+
+•
+Platform. Our platform incorporates enhanced functionalities, including our Gen2X extensions to the RAIN air-interface, that we believe improve solution performance, capabilities, reliability and ease-of-use and allow us to surpass mix-and-match solutions built from competitor components.
+
+•
+Market Leadership. We believe we are the only company with an integrated platform spanning endpoint ICs, reader ICs, readers and gateways, tag production systems and software and cloud services.
+
+•
+Technology Leadership. Our singular RAIN focus has enabled us to regularly be first-to-market with innovative, high-performing products. Our chief executive officer is a recognized industry thought leader, a prior director of the RAIN Alliance and prior editor of the RAIN air-interface standard.
+
+•
+Partner Ecosystem. Our worldwide partner ecosystem, comprising hundreds of tag and reader ODMs and OEMs, distributors, SIs, VARs and software solution partners gives us market reach, penetration and scale we believe few, if any, of our competitors enjoy.
+
+•
+Trusted Brand. We believe our industry leadership, name recognition and reputation for innovative, high performing, quality products have significantly contributed to our leading market position.
+
+•
+Intellectual Property. We believe we have the leading RAIN patent portfolio. As of December 31, 2025, our portfolio included 285 issued and allowed U.S. patents, nine issued international patents, 20 pending U.S. patent applications and 19 pending international patent applications.
+
+Industry Use Cases
+
+The following use cases are representative of RAIN deployments we serve today.
+
+Retail
+
+Retailers, both traditional brick-and-mortar and online, apply billions of RAIN tags each year, historically to retail apparel and footwear but today, increasingly, to retail general merchandise such as home goods, health and beauty items, tires, toys, sporting goods, automotive parts, consumer electronics and other items. Retailers can obtain these benefits using our platform:
+
+•
+In-store Inventory Visibility. Our platform delivers accurate and timely data about a retailer’s product inventory, enabling a retailer to reduce inventory and increase same-store sales by ensuring each store is properly stocked and allowing staff to focus on customers rather than on inventorying or finding items.
+
+•
+Omnichannel Fulfillment. The cornerstone of successful omnichannel fulfillment is inventory visibility in stores and warehouses. Our platform can deliver that visibility and thereby facilitate online sales, including online purchasing with pickup in store. It can also help retailers sell from any retail location, confidently sell to the last item and facilitate seamless returns.
+
+•
+Self-checkout and Loss Prevention. Consumer self-checkout is a clear opportunity for retailers looking to modernize their in-store experience. However, self-checkout requires effective loss prevention. Our platform can enable both – self-checkout via sales terminals that read endpoint ICs on item, and loss prevention that scans the RAIN tags for unsold items leaving the store. As our inlay partners focus on embedding RAIN tags directly into items, we focus on key innovations like our patented Protected Mode that allows a tag to require a
+
+PIN for post-point-of-sale readability, enabling loss-prevention solutions to focus on unsold items while satisfying General Data Protection Regulation, or GDPR, and similar consumer privacy requirements.
+
+Supply Chain and Logistics
+
+SC&L includes shipping companies, third-party logistics providers, postal organizations, captive distribution capabilities and other organizations that transport products worldwide. SC&L organizations are increasingly demanding real-time shipping data to virtualize, analyze and optimize their operations. SC&L companies can obtain these benefits using our platform:
+
+•
+Shipment Verification and Parcel Tracking. Our platform provides real-time data about items passing through dock doors to the systems that run shipping and receiving, helping SC&L companies reduce mistakes, automate processes and drive operational efficiencies.
+
+•
+Conveyor Sortation. Our platform enables high-speed, real-time, not-line-of-sight reading of packages moving along conveyors, improving sortation accuracy and reducing shipping errors.
+
+•
+Returnable Transit Item, or RTI, Tracking. By tagging RTI containers, our platform can reduce RTI loss and ensure SC&L companies have the RTI containers they need.
+
+•
+Asset Management. Our platform enables automated asset check-in/out procedures and location monitoring, reducing loss and improving efficiencies and maintenance-schedule compliance.
+
+Other Industries
+
+These other industries can also obtain benefits using our platform:
+
+•
+Automotive. Car manufacturers use our platform to track and verify automotive parts for vehicle assembly, reducing mistakes and labor costs and improving operations.
+
+•
+Aviation. Luggage tags that incorporate our endpoint ICs help airlines give passengers real-time information about their checked bags as well as reduce lost bags.
+
+•
+Banking. Banks use our endpoint ICs for money bundles and to track information-technology assets.
+
+•
+Datacenters. Datacenters use our platform for asset tracking.
+
+•
+Food. Our reader ICs track syrup cartridges for replenishment in soda fountains. Our endpoint ICs track bakery items, meat, fish and fresh produce for freshness as well as inventory visibility.
+
+•
+Healthcare. Hospitals use our platform to track assets and manage patient and clinician workflows. Partner products built on our platform include RAIN-enabled medical cabinets and refrigerators.
+
+•
+Industrial and Manufacturing. Industrial companies track components to increase manufacturing productivity and reduce shipping errors. Manufacturers use our platform to track assets and tools, reducing errors and increasing calibration compliance.
+
+•
+Linen and Uniform Tracking. Laundry providers embed washable tags into their linens and uniforms for automated sortation.
+
+•
+Sports. Marathons and other foot races track runners via our endpoint ICs in race bibs. Golf venues score participants’ shots via our endpoint ICs inside golf balls.
+
+•
+Travel. Driver licenses in some states in the United States and Global Entry cards include our endpoint ICs to speed border crossings. Fueling stations use vehicle windshield tags to enable automatic and cashless fueling.
+
+Growth Strategies
+
+To continue growing our business and our opportunities, we plan to focus on the following strategic areas:
+
+•
+Enterprise Solutions: We will continue developing solutions to previously unsolved enterprise business problems. As we mature those solutions, we will focus on solutions repeatability with top-tier partners.
+
+•
+RAIN silicon: We will continue investing in endpoint IC and reader IC performance, differentiated features, cost reduction and platform integration to win opportunities across markets and geographies.
+
+•
+Platform preference: We will continue investing in differentiated product capabilities, services, solutions software, cloud services for item authentication and device and solution management and tag production systems to enhance our platform’s reach and breadth and enable new use cases and recurring-revenue opportunities.
+
+Sales and Marketing
+
+We have a worldwide sales team with expertise in enterprise solutions, endpoint ICs, reader ICs, readers, gateways and tag production systems. We primarily sell through our global ecosystem of hundreds of partners as follows:
+
+•
+Endpoint ICs: Directly to inlay and tag OEMs.
+
+•
+Solutions: Directly to a small number of lighthouse enterprises, servicing the rest of the market with and through partners.
+
+•
+Reader ICs: Through distribution to handheld- and fixed-reader OEMs and ODMs.
+
+•
+Readers and gateways: Through distribution to solutions providers, VARs and SIs.
+
+•
+Test production systems: Directly to inlay and tag OEMs, certification bodies and enterprises.
+
+We engender preference for our platform in all our sales engagements, encouraging enterprises and partners to use our entire platform. Our business development, product marketing, technical and systems engineers actively engage those enterprises and partners to create awareness, joint solutions, joint selling and sales enablement.
+
+The following table presents revenue concentration from our major customers representing 10% or more of total revenue for the periods presented:
+
+Year Ended December 31,
+
+2025
+
+2024
+
+2023
+
+Revenue:
+
+Customer A
+
+%
+
+%
+
+%
+
+Customer B
+
+*
+
+Customer C
+
+%
+
+%
+
+%
+
+* Customer accounted for less than 10% of total revenue in the period.
+
+Manufacturing
+
+We outsource most of our product manufacturing to third parties that build our products to our specifications, manufacturing only a small portion of our products, principally some of our tag production systems ourselves. This capital-efficient operating model scales efficiently with volume, allowing us to focus our resources on developing new products and solutions.
+
+Taiwan Semiconductor Manufacturing Company Limited, or TSMC, manufactures our endpoint IC wafers primarily in Taiwan and has been our supplier since 2003. We order endpoint IC wafers on a purchase-order basis and do not have a long-term supply agreement with TSMC. We test the wafers
+
+primarily in Asia. We use multiple subcontractors to post-process the wafers including Stars Microelectronics (Thailand) Public Company Limited, or Stars, Chipbond Technology Corporation, or Chipbond, and Unisem Group, or Unisem. We generally engage all our endpoint IC subcontractors on a purchase-order basis.
+
+TSMC manufactures our reader IC wafers in Asia and has been our supplier since 2021. We order our reader IC wafers on a purchase-order basis and do not have a long-term supply agreement with TSMC. We package and test our reader ICs in Asia. We primarily engage our reader IC subcontractors on a purchase-order basis.
+
+Plexus Corp., or Plexus, manufactures our readers and gateways in Asia and has been our supplier since 2005. We order readers and gateways pursuant to non-exclusive purchase agreements that automatically renew each year, subject to each party’s right to terminate on 180 days’ notice. We use subcontractors on a purchase-order basis to assemble and test printed circuit boards, to build our reader and gateway enclosures and to test our readers and gateways.
+
+We manufacture our tag production systems in Finland, at Voyantic Oy, which we acquired in April 2023. This acquisition extended our platform’s reach to tag production systems for both our and competitors’ endpoint ICs.
+
+Research and Development
+
+We built our company on a foundation of technology leadership, innovation and best-in-class products. Throughout our history we have committed, and we plan to continue committing, significant resources to technology, innovation and product and solutions development. We believe we have achieved our leading market position by continuously improving our product performance, features, quality and reliability while reducing costs, and we plan to invest to continue doing so.
+
+In most situations, we strive to lead the market with new products and innovations, but we sometimes adopt a more deliberate approach depending on the situation. As one example, our nearest endpoint IC competitor migrated from 200mm wafers to 300mm wafers before we did. That migration caused the inlay OEMs to gradually retrofit their inlay assembly machines to handle 300mm wafers. In the meantime, we focused on an endpoint IC process-node migration, which we completed in 2020. Our first products in that process node, the Impinj M730 and M750, were not only on 300mm wafers, but had roughly twice as many ICs per wafer as that competitor and entered the market with the inlay OEMs already able to process 300mm wafers. We then introduced our newest endpoint IC products, the Impinj M830 and M850, in 2023, with approximately 25% more die per wafer than the M700 family and the inlay OEMs again able to immediately assemble the 300mm wafers.
+
+We have a team of skilled engineers that today conduct all our research and most of our product development internally. As of December 31, 2025, we had 255 employees in research and development. We regularly review our technology, products and market development opportunities and reallocate our spending and resources accordingly.
+
+Intellectual Property
+
+We protect our technologies by filing patent applications, retaining trade secrets and defending and enforcing our intellectual property rights where appropriate. As of December 31, 2025, our intellectual property portfolio includes 285 issued and allowed U.S. patents, nine issued international patents, 20 pending U.S. patent applications and 19 pending international patent applications. Of our 278 utility patents, 11 will expire in 2026 and of our four design patents, none will expire in 2026. To protect confidential information not otherwise subject to patent protection, we rely on trade secret law and enter into confidentiality agreements with our employees, customers, suppliers and partners.
+
+Because most RAIN products are used in the United States, and because most of our partners, end users and competitors have U.S. operations, we believe U.S. patents hold the most value for our business. Consequently, we have primarily filed U.S. patent applications. Because our portfolio currently comprises mostly U.S. patents, we have limited ability to assert our IP rights outside the United States.
+
+Although our patents and trade secrets are valuable assets, we do not view any one of them as material. Instead, we believe the totality of our patent and trade-secret portfolio creates an advantage for our business.
+
+We have also entered into certain inbound and outbound intellectual property licenses and cross-licenses with other companies. For example, we have licenses to third-party IP we use in our products. As another example, by participating in developing GS1 EPCglobal protocols, such as the RAIN air-interface protocol, we agreed to license those of our patents necessary to practice those protocols on a royalty-free basis to other GS1 EPCglobal members, subject to reciprocal royalty-free rights from those members. By participating in developing International Organization for Standardization, or ISO, standards, we agreed to grant to all users worldwide a license to those of our patents necessarily infringed by the practice of several ISO standards, including RAIN and non-RAIN, on reasonable and nondiscriminatory terms, here again subject to reciprocity. In addition to the above and other licenses, we also entered into a broad patent cross-license agreement as a part of a legal settlement. For further information on this agreement, see note 12 of our consolidated financial statements included elsewhere in this report.
+
+We own several trademarks and develop names for our new products and secure trademark protection for them, including domain name registration, in relevant jurisdictions.
+
+Alliances and Standardization
+
+Our platform uses the RAIN technology we pioneered. We spearheaded developing the RAIN air-interface standard, lobbied governments to allocate frequency spectrum and, along with Google, Intel and Smartrac, cofounded the RAIN Alliance. A member of our management team is currently a RAIN Alliance Director. The Alliance is a global organization promoting the universal adoption of RAIN technology and solutions, with more than 150 members as of December 31, 2025.
+
+We, our enterprise end users, partners and competitors developed the RAIN air-interface protocol, whose technical name is EPC™ Radio-Frequency Identity Protocols Generation-2 UHF RFID (developed by GS1 EPCglobal; standardized by ISO as ISO/IEC 18000-63; known colloquially as Gen2) in 2004, with us as editor. Our community delivered backward-compatible updates to this protocol in 2013 and in 2024, both times again with us as editor. Our industry uses the RAIN air-interface standard nearly exclusively.
+
+In 2024, we introduced enhancements to the radio and logical layers of the RAIN air-interface protocol that speed inventory, increase tag read range, declutter the tag environment, protect consumers, inhibit label and item counterfeiting and reduce solution cost. We call these enhancements Gen2X.
+
+By participating in GS1 EPCglobal, which produced the Gen2 protocol, and ISO, which ratified 18000-63 as a standard, as well as in other certification and standards bodies, we agreed to license certain necessary patents as described in the section captioned “Intellectual Property.”
+
+Government Regulations
+
+Government regulations require us to certify our readers and gateways in jurisdictions where they operate. For example, we certify our readers and gateways to Federal Communications Commission regulations to operate in the United States and its territories. Our readers and gateways are certified for operation in more than 40 countries worldwide including the United States, Canada, Mexico, China, Japan, South Korea and all of the European Union. The effects of compliance with applicable government regulations are currently not material to our results of operations, capital expenditures or competitive position. However, compliance with changes to existing or new regulations may have material adverse effect on our future results of operations, capital expenditures and competitive position. For more information, see the section of this report captioned “Risk Factors.”
+
+Competition
+
+Each of our competitors competes with some, but not all, of our products. Our primary competition includes:
+
+•
+Endpoint ICs: NXP B.V., or NXP, Kiloway, Quanray, Shanghai Fudan Microelectronics Group, Alibaba and Alien Technology Corporation, or Alien.
+
+•
+Reader ICs: Phychips Inc and Shanghai Fudan Microelectronics Group.
+
+•
+Readers and gateways: Most major reader and gateway suppliers leverage, or have a stated intent to leverage, our platform.
+
+•
+Tag and production systems: CISC Semiconductor GmbH, or CISC.
+
+The markets for RAIN, our platform and our products are highly competitive. New entrants can and do come into our market at any time, and we expect competition to increase as the market and end-user adoption grow. The competitive factors that impact our platform and product sales include:
+
+•
+portfolio, performance, features, lead times, quality, reliability and price;
+
+•
+development tools, support, ease of use and reference designs;
+
+•
+integration and certification with enterprise applications;
+
+•
+APIs (except in the endpoint IC market);
+
+•
+company reputation.
+
+Although we believe we compete favorably on the above factors, our future competitiveness will depend on our ability to design, develop and deliver compelling products and enable compelling enterprise solutions.
+
+Because our product pricing is denominated in U.S. dollars, we sometimes experience competitive pressures due to prevailing exchange rates. In addition, our competitive position depends on our ability to continue attracting and retaining talent while protecting our IP. For additional information on the risks associated with our business, see “Risk Factors.”
+
+Employees and Culture
+
+Principals and Culture
+
+We firmly believe our success stems, first and foremost, from our corporate culture. Our principles underpin that culture and guide everything we do, from hiring to business relationships to our work ethic. They embody our core objective of making the world a better place. More information on our principles is available at www.impinj.com/about-us/our-principles.
+
+As of December 31, 2025, we had 457 employees in the Americas, Europe and Asia Pacific. Most of our employees are not represented by a labor union.
+
+Compensation
+
+Our people are the foundation of our success. We provide competitive compensation and benefits, as well as equity awards to all eligible employees because we believe all contribute to, and should share in, our long-term success. Additionally, eligible employees participate in our annual variable-performance-based cash bonus plan.
+
+We also offer broad benefits packages that we believe provide the time, resources and flexibility to support the well-being of our employees and their families. Benefits vary by country and meet or exceed all applicable laws and regulations.
+
+Pay Equity
+
+We comply with federal, state and local laws and regulations and are committed to pay equity. We proactively review compensation for all roles at least annually. Our executive leadership team reviews and approves all compensation.
+
+Commitment to Diversity, Equity and Inclusion (DEI)
+
+Our employees from around the globe, each of whom bring varied backgrounds, viewpoints and experiences, form the heart of everything we do. We strengthen who we are and what we can achieve by fostering a diverse and inclusive culture built on respect, equity and collaboration.
+
+Our Diversity, Equity and Inclusion, or DEI, program focuses on making DEI part of our DNA. We cultivate an environment where everyone can belong, contribute, be their authentic selves and succeed. All employees complete training on the importance of diversity, equity, inclusion and avoiding bias, and on recognizing and preventing harassment and discrimination. We continually work to educate ourselves, learn from others, identify issues, improve our recruiting practices, engage in respectful and constructive dialogue and advance community initiatives.
+
+We do not tolerate discrimination, harassment or impropriety of any kind. We are an equal-opportunity employer and do not discriminate based on race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other classification.
+
+Training and Development
+
+Our employees are our company. We focus on nurturing each employee individually, rewarding their unique contributions and providing a runway for their career growth. Our leaders strive to provide what each employee needs to thrive.
+
+Employees and managers meet frequently to set and evaluate personal goals as part of a larger program to empower teams to deliver and succeed.
+
+To help our employees excel, we put significant effort into employee training and learning. We facilitate personal and professional development by offering a variety of tools and opportunities to support employee growth, ranging from training programs for new leaders, advanced skills programs for more experienced leaders, technical training and tuition reimbursement. We strive to create a work environment where information sharing is valued, encouraged and recognized because we believe the best learning experiences come from working alongside others.
+
+Available Information
+
+We were incorporated in Delaware in April 2000. Our principal executive office is located at 400 Fairview Avenue North, Suite 1200, Seattle, Washington 98109. Our telephone number is (206) 517-5300. Our website is www.impinj.com. Information contained in, or that can be accessed through, our website is not a part of, and is not incorporated into, this report.
+
+Our filings with the Securities and Exchange Commission, or SEC, including our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, as well as amendments to those reports are available on our website at www.investor.impinj.com, free of charge, as soon as reasonably practicable after the electronic filing of those reports with the SEC. The information contained on our website is not a part of this report or any other document we file with the SEC.

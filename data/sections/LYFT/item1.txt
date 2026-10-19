@@ -1,0 +1,163 @@
+Item 1. Business.
+
+Overview
+
+Lyft, Inc. (the “Company” or “Lyft”) operates as a global mobility platform offering a mix of rideshare, taxis, private hire vehicles, executive chauffeur services, car sharing, bikes and scooters. Our established, scaled network of users is brought together by our robust technology platform (the “Lyft Platform”) that powers rides and connections every day. Our Lyft mobile application (“Lyft App”) connect riders with drivers for on-demand ride services and supports a variety of other multimodal solutions.
+
+Substantially all of our revenue is generated from our ridesharing marketplace that connects drivers and riders. We collect service fees and commissions from drivers for their use of our ridesharing marketplace. We also generate revenue from licensing and data access agreements, the sale of bikes and bike station software and hardware, advertising services, riders renting through our network of shared bikes and scooters, drivers renting vehicles through Express Drive and by making our ridesharing marketplace available to organizations through our Lyft Business offerings.
+
+In 2025, we expanded our operations beyond North America and strengthened our global footprint. We entered nine new countries and more than 180 cities through our acquisition of Intelligent Apps GmbH (d/b/a Freenow) in July 2025, a leading European multimodal app with taxi offering at its core. In October 2025, we acquired TheBookingRoomGroup Limited (d/b/a TBR Global Chauffeuring, or “TBR”), a global luxury chauffeuring company that operates in thousands of cities worldwide. As a result of these acquisitions, as well as additional expansion of our business, we now operate in thousands of cities across six continents. For additional information, see Note 4 “Acquisitions” included in Part II, Item 8, “Financial Statements and Supplementary Data,” of this Annual Report on Form 10-K.
+
+Our Transportation Network
+
+Our transportation network is primarily comprised of:
+
+•Ridesharing Marketplace. Our core offering connects drivers with riders. The scale of our network enables us to predict demand and proactively incentivize drivers to be available for rides in the right place at the right time. This allows us to optimize earning opportunities for drivers and offer convenient rides for riders, creating sustainable value to both sides of our marketplace. Our ridesharing marketplace, inclusive of taxis, private hire vehicles, executive chauffeur services and car sharing, connects drivers with riders in cities across six continents in select cities. In addition to our standard rideshare offering, riders can select a variety of other offerings which include, but are not limited to, Wait & Save, Priority Pickup, XL, Extra Comfort, Black, Black SUV, and Green.
+
+•Express Drive. Our car rental program for drivers, including those who want to drive using our platform but do not have access to a vehicle that meets our requirements. Through our Express Drive program, drivers can enter into rental agreements with our independently managed subsidiary, Flexdrive Services, LLC (“Flexdrive”), and our rental car partners for vehicles that may be used to provide ridesharing services on the Lyft Platform.
+
+•Bikes and Scooters. We have a network of shared bikes and scooters in a number of cities to address the needs of users who are looking for options that are more active and often more cost-effective and efficient for shorter trips. These transportation modes can also help supplement the first-mile and last-mile of a multimodal trip with public transit.
+
+Drivers
+
+The drivers on our platform are active members of their communities. They are parents, students, business owners, retirees and everything in between. We work hard to serve the community of drivers on our platform, empowering them to drive on their own flexible terms while providing them the opportunity to focus their time on what matters most. Drivers on our platform also generally have key benefits, which include:
+
+•Flexibility. We offer drivers the flexibility to generate income on their own schedule, so they can best prioritize what is important in their lives.
+
+•Technology. Our predictive technology around ride volume and demand enables us to share key information with drivers about when and where to drive to maximize their earnings on a real-time basis.
+
+•Transparent and Consistent Pay. We’ve released multiple products over the years such as upfront pay where drivers can see ride information and what they’ll earn before accepting a ride. We also remain committed to a differentiated, fair and transparent approach to driver earnings.
+
+•Insurance. We procure insurance as required by transportation network company (“TNC”) regulations to protect drivers against financial losses related to automobile accidents while on the platform.
+
+•Community Standards. To help us uphold high community standards, we give both drivers and riders the opportunity to rate each other after a ride booked through the Lyft apps.
+
+•Support. We offer drivers access to 24/7 support and earnings tools as well as education resources and other support to meet their personal goals.
+
+Riders
+
+Riders are as diverse and dynamic as the communities we serve. They represent all adult age groups and backgrounds and use Lyft to commute to and from work, explore their cities, spend more time at local businesses and stay out longer knowing they can get a reliable ride home. Unless otherwise stated, riders are passengers who request rides from drivers in our ridesharing marketplace, or renters of a shared bike or scooter available on the Lyft apps. We work hard to provide riders with a quality experience every time they open the Lyft apps, so riders will continue to select Lyft as their transportation network of choice. Riders on our platform also have key benefits, which include:
+
+•Selection and Convenience. We designed the Lyft App with a focus on simplicity, efficiency and convenience. Our proprietary technology efficiently matches riders with drivers through advanced dispatching algorithms providing faster arrival times, localized pricing and maximum availability. Additional transportation modes, such as our network of shared bikes and scooters, offer more options for shorter trips. We also continue to launch new features such as Lyft Silver and the ability to “favorite” a driver. The more rides that are taken on our platform, the better we are able to offer riders personalized experiences most suitable to their trip.
+
+•Availability and Reliability. We strive to ensure that riders can get a ride when they want one. We leverage our proprietary dispatch platform and data to help drivers and riders connect efficiently and reduce wait times. Scheduled rides to the airport are backed by our on-time pickup promise in many major markets. If a ride is more than ten minutes late for a scheduled pick-up to the airport, we will offer up to $100 in Lyft credits to make up for it.
+
+•Affordability. Our platform empowers riders to choose from a broad set of transportation options to easily optimize for cost, comfort and time. Wait & Save, a substantial portion of rides on our platform, offers riders a way to save money when they aren’t in a hurry. In 2024, we launched Price Lock, a new subscription offering that caps the price of a rider’s regular and scheduled rides on a specified route during the rider’s chosen pickup time.
+
+•Safety. Since day one, we have worked continuously to enhance the safety of our platform and the ridesharing industry by developing products, policies and processes. In the United States, we have a dedicated safety response team for live support available via phone or chat 24/7, Emergency Help with ADT, Inc. (“ADT”), and partnerships with leading national organizations to inform our safety policies.
+
+Business
+
+We work with organizations across a wide range of industries to deliver transportation solutions. Our comprehensive set of solutions allows clients to design, manage, and pay for ground transportation programs that contribute to productivity and satisfaction while reducing cost and streamlining operations.
+
+Our Technology Infrastructure and Operations
+
+We organize our product teams with a full-stack development model, integrating product management, engineering, analytics, data science and design. We focus on affordability, reliability, efficiency, optimization and cohesion when developing our software. Our offerings are mobile-first and platform agnostic. We seek to continuously improve the Lyft Platform and the Lyft apps. Our offerings are built on a scalable technology platform that enables us to manage peaks in demand.
+
+We have a commercial agreement with Amazon Web Services (“AWS”) for cloud services to help deliver and host our platform. As a result of our partnership, we believe we are more resilient to surges in demand on our platform or product changes we may introduce. Refer to Note 10 “Commitments and Contingencies” to the consolidated financial statements for information regarding this agreement.
+
+We designed our platform with multiple layers of redundancy to guard against data loss and deliver high availability. Both incremental and full backups are performed and redundant copies of content are stored independently in separate geographic regions. We are also investing in iterating and continuously improving our data privacy and security foundation, and continually review and implement the most relevant policies.
+
+Our Proprietary Data-Driven Technology Platform
+
+Our robust technology platform powers the millions of rides and connections that we facilitate every day and provides insights that drive our platform in real-time. We leverage historical data to continuously improve experiences for drivers and riders. Our platform analyzes large datasets covering the ride lifecycle, from when drivers go online and riders request rides, to when they match, which route to take and any feedback given after the rides. Utilizing machine learning capabilities to predict future behavior based on many years of historical data and use cases, we employ various levers to balance supply and demand in the marketplace,
+
+creating increased driver earnings while maintaining strong service levels for riders. We also leverage our data science and algorithms to inform our product development.
+
+Our Intellectual Property
+
+We believe that our intellectual property rights are valuable and important to our business. We rely on trademarks, patents, copyrights, trade secrets, license agreements, intellectual property assignment agreements, confidentiality procedures, non-disclosure agreements and employee non-disclosure and invention assignment agreements to establish and protect our proprietary rights. Though we rely in part upon these legal and contractual protections, we believe that factors such as the skills and ingenuity of our employees and the functionality and frequent enhancements to our solutions and offerings are larger contributors to our success in the marketplace.
+
+We have invested in a patent program to identify and protect a substantial portion of our strategic intellectual property in ridesharing, autonomous vehicle (“AV”) and AV-related technology, micro-mobility, telecommunications, networking and other technologies relevant to our business. We hold numerous issued and pending patents in the U.S. and foreign jurisdictions and continually review our development efforts to assess the existence and patentability of new intellectual property.
+
+We have an ongoing trademark and service mark registration program pursuant to which we seek to register our brand names and product names, taglines and logos in the United States and other countries to the extent we determine appropriate and cost-effective. We also have common law rights in some trademarks. In addition, we have registered domain names for websites that we use in our business, such as www.lyft.com and other variations.
+
+We intend to pursue additional intellectual property protection to the extent we believe it would be beneficial and cost-effective. Despite our efforts to protect our intellectual property rights, they may not be respected in the future or may be invalidated, circumvented or challenged. For additional information, see the sections titled “Risk Factors—Risks Related to Regulatory and Legal Factors—Claims by others that we infringed their proprietary technology or other intellectual property rights could harm our business” and “Risk Factors—Risks Related to Regulatory and Legal Factors—Failure to protect or enforce our intellectual property rights could harm our business, financial condition and results of operations.”
+
+Competition
+
+The market for Transportation-as-a-Service (“TaaS”) networks is intensely competitive and characterized by rapid changes in technology, shifting levels of demand and frequent introductions of new services and offerings. We expect competition to continue, both from current competitors and new entrants in the market that may be well-established and enjoy greater resources or other strategic advantages.
+
+Our main ridesharing competitor is Uber and our main competitors for app-based intermediation services for taxi and private hire vehicles are Uber and Bolt, though we also compete with other TNCs, taxi cab and livery companies as well as traditional automotive manufacturers and technology companies. Our main competitors in the bike and scooter sharing market include Lime, Bird, Fifteen, nextbike and Dott. We also compete with other manufacturers of bike and scooter sharing equipment for sales of such equipment, particularly in markets outside of the United States.
+
+Additionally, there are other non-U.S.-based TaaS network companies, bike and scooter sharing companies, consumer vehicle rental companies, non-ridesharing TNCs and traditional automotive manufacturers that may expand into North America and Europe. There are also a number of companies developing and introducing AV technology and TaaS offerings that either are competing with us or may compete with us in the future, including Alphabet (Waymo), Amazon (Zoox), Baidu, Bolt, and Tesla as well as many other technology companies and automobile manufacturers and suppliers. We have entered into strategic collaborations and partnerships with certain of the aforementioned competitors, including with respect to AVs, and these partnerships may lead to actual or perceived conflicts of interest or misalignment of strategic objectives. We anticipate continued challenges from current competitors as well as from new entrants into the TaaS market.
+
+We believe we can compete favorably. However, many of our competitors and potential competitors are larger and have greater brand name recognition, longer operating histories, larger marketing budgets and established marketing relationships, access to larger customer bases and significantly greater resources for the development of their offerings. For additional information about the risks to our business related to competition, see the section titled “Risk Factors—Risks Related to Operational Factors—We face intense competition and could lose market share to our competitors, which could adversely affect our business, financial condition and results of operations.”
+
+Seasonality
+
+The revenue we generate from our business may fluctuate from quarter to quarter due to seasonal factors including the weather and certain holidays. Demand for our transportation network has historically declined over the winter season and our network of shared bikes and scooters has historically had stronger demand during more temperate and dry seasons.
+
+Our Brand and Marketing
+
+Our purpose is to serve and connect. The Lyft brand is rooted in expecting more from every journey. Our marketing efforts bring our brand to life across a variety of communication channels ranging from national advertising campaigns to more direct communications like email and social media engagement. We also benefit from positive word of mouth in the existing Lyft rider and driver communities.
+
+Our marketing efforts educate people about Lyft products in creative and memorable ways and generate greater brand awareness among potential drivers and riders. Our brand marketing includes but is not limited to Lyft-produced content, culture and entertainment partnerships, marketing partnerships, and outdoor advertisements. We use specific channels and initiatives so we can measure the impact of our marketing spend. We attract new drivers and riders through referrals, partnerships, display advertising, radio, video, social media, email, search engine optimization, keyword search campaigns, and more. We continue to engage with current riders through a variety of initiatives, including emails, in-app notifications, social media content, promotions, and more.
+
+Our Commitment to Safety
+
+Everyone deserves to feel safe and respected on the Lyft Platform. We owe it to every rider and driver to continuously ensure our platform has appropriate safety measures, and are continually investing in tools and policies to help ensure safety is embedded into every experience. We publish regular Community Safety Reports detailing safety incidents, our response, and continuous improvements to our platform. This commitment to transparency holds us accountable to the communities we serve and drives continuous improvement in our safety practices.
+
+To ensure we are delivering exceptional service levels and upholding high quality standards, we have an established Safety and Customer Care (“SCC”) team as a key part of our organization. SCC aims to listen to customers, quickly resolve problems when they occur, learn from problems that arise and maintain trust with drivers and riders. Our safety strategy integrates multiple protection layers across the entire lifecycle, combining technology, policy and human expertise:
+
+•Annual background checks and ongoing criminal monitoring for drivers. Every driver is required to pass a professionally administered criminal background check before they drive and each year after that. In the United States, continuous criminal monitoring allows us to quickly deactivate drivers with disqualifying criminal convictions. Similarly, in the United States, we also continuously check driving records so that we can promptly identify and remove drivers from the platform upon detection of a disqualifying violation.
+
+•Safety education. Every driver completes mandatory safety education before driving with Lyft, with opportunities for continued safety education once they are Lyft drivers.
+
+•Rider verification. We work to verify rider profiles so drivers know who they’re sharing the ride with. Drivers can see a rider’s verification status before they accept a ride. Our process includes cross-checking a rider’s personal information using trusted, third-party databases. Any information provided is protected in accordance with our privacy policy.
+
+•Location sharing. The Lyft App provides real-time ride tracking, so riders can share their exact location and route with family and friends. Once a user enables this feature, a user’s trusted contacts (who they shared their location with) can see trip status and where they are on the map.
+
+•Emergency help. Lyft offers in-app emergency tools like direct 911 calling, live safety agent support and real-time location sharing with 911, to help riders and drivers get assistance quickly when they need it. Additionally, if a rider or driver needs emergency assistance at any point, Lyft offers tools to help beyond 911 in-app integration with partners like ADT and RapidSOS. Subject to geographic availability, Lyft offers customers tools – like opportunities to connect with live agents during a ride, and silent location sharing with 911 agents to ensure customers can receive emergency help faster.
+
+•Live safety support and specialized support and advocacy. Our SCC team is standing by, ready to help via phone or chat 24/7, and every member of the SCC team is a credentialed victim advocate. Each member has training in trauma-informed care.
+
+•Smart trip check-in. Our platform employs machine learning to monitor rides in real-time, analyzing GPS trajectory, speed, stops, and historical patterns. When systems detect unusual activity—such as route deviations or prolonged stops—we proactively reach out to riders and drivers through notifications, texts, or calls. If assistance is needed, we connect them to emergency services or our SCC team.
+
+•Hidden contact information and ride history. The Lyft App hides contact information for both the rider and driver before, during and after the ride. While riders and drivers are able to call or text one another through the app, personal information, including real user phone numbers, are not revealed. Drivers are also not able to see a rider’s specific drop-off location, whether it’s a specific address or a cross-street, after the ride is complete.
+
+•Two-way ratings and feedback. At the end of each trip, drivers and riders are prompted to rate their ride. Low ratings and negative feedback trigger automated safety reviews. Users with consistently low ratings or concerning patterns may face warnings, suspensions, or permanent deactivation.
+
+•Industry Sharing Safety Program. Lyft partners with certain companies to share information about the drivers who are deactivated from certain rideshare and delivery platforms for specific select reasons. The program enables the sharing of information to equip participating companies with the information needed to take action on their own platform.
+
+Government Regulation
+
+We are subject to a wide variety of laws and regulations in the United States and other jurisdictions. Laws, regulations and standards governing issues such as TNCs, ridesharing, worker classification, labor and employment, payments, advertising, text messaging, intellectual property, taxation, privacy, data security, competition, unionizing and collective action, antitrust, mobile application accessibility, AVs, bike and scooter sharing, and insurance are often complex and are subject to varying interpretations, in many cases due to their lack of specificity. As a result, their application in practice may change or develop over time through judicial decisions or as new guidance or interpretations are provided by regulatory and governing bodies, such as federal, state and local administrative agencies.
+
+See the section titled “Risk Factors” including the subsection titled “Risk Factors—Risks Related to Regulatory and Legal Factors” included in Part 1, Item 1A and Note 10 “Commitments and Contingencies” to our consolidated financial statements included in Part II, Item 8, “Financial Statements and Supplementary Data,” of this Annual Report on Form 10-K for additional information.
+
+Human Capital
+
+As of December 31, 2025, we had 3,913 full-time employees worldwide. None of our employees in the United States are represented by a labor union or covered by a collective bargaining agreement. In certain foreign countries, some of our employees are represented by trade unions or work councils. We have not experienced any work stoppages and we consider our relations with our employees to be positive. We also engage contractors, consultants, and vendors to support our operations.
+
+Our success depends on our ability to attract, develop, and retain highly skilled employees across engineering, operations, product, and other critical functions. Our human capital strategy is developed and managed under the leadership of our Chief People Officer, who reports through our Chief Legal and Business Officer to our Chief Executive Officer, and is overseen by our board of directors.
+
+Attracting and Retaining Talent
+
+We are committed to providing competitive compensation and benefits that reward performance and support our employees’ professional growth and well-being.
+
+•Competitive Compensation. Our compensation philosophy is designed to be market-competitive and to incentivize high performance. We provide employees with compensation packages that may include base salary, restricted stock units (“RSUs”), performance-based restricted stock units (“PSUs”), and performance-based cash incentives. To ensure our compensation remains competitive and fair, we regularly review our practices against external market data and make adjustments as needed to attract and retain top talent in a highly competitive labor market, particularly for highly skilled software engineers, product managers, and other technical professionals who are in high demand.
+
+•Comprehensive Benefits and Support. We take a holistic approach to supporting employee well-being. We provide eligible employees and their eligible dependents with comprehensive health and wellness benefits, including medical, dental, and vision coverage, mental health resources, and wellness programs. Additionally, we offer retirement savings programs, paid time off, parental leave, and other benefits designed to support our employees and their families.
+
+Employee Development and Engagement
+
+We believe that investing in our employees’ career development and maintaining high levels of engagement are essential to building and sustaining a high-performing workforce and a values-driven culture.
+
+•Professional Growth and Development. We are committed to helping our employees achieve their career goals through learning and development opportunities. We provide access to training programs, skill-building resources, mentorship, coaching and leadership development initiatives designed to help employees grow in their current roles and prepare for future opportunities. We also support internal mobility, encouraging employees to explore different roles and teams within Lyft to broaden their experience and advance their careers.
+
+•Employee Engagement and Feedback. We measure employee engagement through two surveys a year and other feedback mechanisms to understand our employees’ needs, concerns, and ideas for improvement. We use this feedback to inform decisions about our workplace policies, programs, and culture. Our leadership teams review engagement data and work to address areas of opportunity while building on our strengths. We believe that listening to our employees and acting on their feedback helps us create a work environment where people can perform at their best.
+
+•Performance Management. We maintain a performance management process designed to provide employees with clear expectations, regular feedback, and opportunities for recognition and advancement. Our managers are trained and equipped with resources to conduct fair and objective performance reviews, identify high performers, and support employees in reaching their full potential.
+
+Our employees' talent, dedication, and innovation are critical to achieving our purpose and delivering value to our riders, drivers, the communities we serve and shareholders.
+
+Corporate Information
+
+We were incorporated in 2007 as Bounder Web, Inc., a Delaware corporation. In 2008, we changed our name to Zimride, Inc. We founded Lyft in 2012 and changed our name to Lyft, Inc. in 2013 when we sold the assets related to our Zimride operations.
+
+Available Information
+
+Our website is located at www.lyft.com, and our investor relations website is located at investor.lyft.com. Copies of our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our investor relations website as soon as reasonably practicable after we file such material electronically with or furnish it to the Securities and Exchange Commission (the “SEC”). The SEC also maintains a website that contains our SEC filings at www.sec.gov.
+
+We announce material information to the public about us, our products and services and other matters through a variety of means, including filings with the SEC, press releases, public conference calls, webcasts, the investor relations section of our website (investor.lyft.com), our X accounts (@lyft and @davidrisher), our Chief Executive Officer’s LinkedIn account (linkedin.com/in/jdavidrisher) and our blogs (including: lyft.com/blog, lyft.com/hub and eng.lyft.com) in order to achieve broad, non-exclusionary distribution of information to the public and for complying with our disclosure obligations under Regulation FD. The contents of our websites and corporate reports mentioned herein are not incorporated by reference into this Annual Report on Form 10-K or in any other report or document we file with the SEC, and any references to our websites or the contents of our websites are intended to be inactive textual references only.

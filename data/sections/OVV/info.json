@@ -1,0 +1,43 @@
+{
+  "ticker": "OVV",
+  "accession_number": "0001193125-26-064309",
+  "filing_date": "2026-02-23",
+  "fiscal_year": 2025,
+  "full_text_words": 76100,
+  "sections": {
+    "item1": {
+      "words": 11668,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          11668,
+          7
+        ]
+      }
+    },
+    "item7": {
+      "words": 13091,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          13091,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 170,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 1086
+    }
+  },
+  "notes": [],
+  "human_capital_words": 928,
+  "human_capital_found": true,
+  "people_paragraph_words": 892
+}

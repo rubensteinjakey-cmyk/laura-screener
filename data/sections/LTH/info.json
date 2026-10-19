@@ -1,0 +1,43 @@
+{
+  "ticker": "LTH",
+  "accession_number": "0001869198-26-000010",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 59026,
+  "sections": {
+    "item1": {
+      "words": 5709,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5709,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 9070,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          9070,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 385,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 3,
+      "paragraphs_total": 324
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1228,
+  "human_capital_found": true,
+  "people_paragraph_words": 2135
+}

@@ -1,0 +1,43 @@
+{
+  "ticker": "QCOM",
+  "accession_number": "0000804328-25-000085",
+  "filing_date": "2025-11-05",
+  "fiscal_year": 2025,
+  "full_text_words": 57813,
+  "sections": {
+    "item1": {
+      "words": 8974,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          8974,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 5549,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          5549,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 109,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 182
+    }
+  },
+  "notes": [],
+  "human_capital_words": 621,
+  "human_capital_found": true,
+  "people_paragraph_words": 621
+}

@@ -1,0 +1,43 @@
+{
+  "ticker": "A",
+  "accession_number": "0001090872-25-000087",
+  "filing_date": "2025-12-22",
+  "fiscal_year": 2025,
+  "full_text_words": 75268,
+  "sections": {
+    "item1": {
+      "words": 10345,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          10345,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 17274,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          17274,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 234,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 370
+    }
+  },
+  "notes": [],
+  "human_capital_words": 693,
+  "human_capital_found": true,
+  "people_paragraph_words": 1240
+}

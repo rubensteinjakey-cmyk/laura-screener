@@ -1,0 +1,512 @@
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+You should read the following discussion in connection with our consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. Some of the statements in the following discussion are forward looking statements.
+
+All references to years, unless otherwise noted, refer to our fiscal year, which ends on December 31. For example, a reference to “2025” or “fiscal 2025” means the 12-month period that ended on December 31, 2025. All references to quarters, unless otherwise noted, refer to the quarters of our fiscal year.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995. You should not place undue reliance on these statements because they are subject to numerous uncertainties and factors relating to our operations and business environment, all of which are difficult to predict and many of which are beyond our control. These statements often include words such as “may,” “will,” “should,” “believe,” “expect,” “anticipate,” “intend,” “plan,” “estimate” or similar expressions. These statements are based on assumptions that we have made in light of our experience in the industry as well as our perceptions of historical trends, current conditions, expected future developments and other factors we believe are appropriate under the circumstances. As you read and consider this Annual Report on Form 10-K, you should understand that these statements are not guarantees of performance or results. They involve known and unknown risks, uncertainties and assumptions. Although we believe that these forward-looking statements are based on reasonable assumptions, you should be aware that many factors could affect our actual financial results or results of operations and could cause actual results to differ materially from those in the forward-looking statements. These factors include but are not limited to:
+
+•our ability to maintain and grow client demand for our services and solutions, including anticipating and incorporating the latest technologies, for instance, artificial intelligence (“AI”), including generative AI, agentic AI into our offerings;
+
+•use of AI technology presents competitive, operational, reputational and legal risks, and our use of AI technology may not be successful;
+
+•impact on client demand by the selling cycle and terms of our client contracts, including for our AI-related offerings;
+
+•our ability to attract and retain enough sufficiently trained employees to support our operations or any changes in the senior management team;
+
+•our ability to accurately estimate and/or manage costs;
+
+•our ability to adjust our pricing terms or effectively manage our asset utilization levels to meet the changing demands of our clients and potential clients;
+
+•cyber security incidents, data breaches, additional cybersecurity and privacy risks from growing use of AI, or other unauthorized disclosure of sensitive or confidential client and employee data;
+
+•reliance on third parties to deliver services and infrastructure for client critical services, and on third party data use rights for certain of our offerings;
+
+•employee wage increases;
+
+•failure to protect our intellectual property;
+
+•our dependence on a limited number of clients and our ability to withstand the loss of a significant client;
+
+•our ability to manage rapid infrastructure and personnel growth across countries, including losing key talent to competitors;
+
+•our ability to successfully consummate or integrate strategic acquisitions including the impact from the impairment of goodwill and other intangible assets, if any;
+
+•legal liability arising out of customer and third party contracts;
+
+•increasing competition in our industry, including from other providers and from internal resources of our clients;
+
+•our ability to make accurate estimates and assumptions in connection with the preparation of our consolidated financial statements;
+
+•challenges related to upgrading our enterprise resource planning system;
+
+•credit risk fluctuations in the market values of our investment and derivatives portfolios;
+
+•telecommunications or technology disruptions or breaches, natural or other disasters, medical epidemics or pandemics, or acts of violence or war;
+
+•challenges by applicable tax authorities to transfer pricing determinations or the introduction of new or unfavorable tax legislation, tariffs, including legal restrictions on repatriation of funds held abroad;
+
+•exposure to currency exchange rate fluctuations in the various currencies in which we do business including rising inflation, high interest rates and economic recessionary trends on currency exchange rates;
+
+•restrictions on immigration and work permits;
+
+•regulatory, legislative and judicial developments, including our ability to adhere to regulations or accreditation or licensing standards that govern our business;
+
+•our ability to service debt or obtain additional financing on competitive terms, or exposure to interest rate fluctuations that are not fully hedged through interest rate swaps; and
+
+•negative public reaction in the United States or elsewhere to offshore outsourcing.
+
+In particular, you should consider the numerous risks outlined in Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K. These and other risks could cause actual results to differ materially from those implied by forward-looking statements in this Annual Report on Form 10-K.
+
+The forward-looking statements made by us in this Annual Report on Form 10-K, or elsewhere, speak only as of the date on which they were made. New risks and uncertainties may occur from time to time, and it is impossible for us to predict those events or how they may affect us. We have no obligation to update any forward-looking statements in this Annual Report on Form 10-K after the date of this Annual Report on Form 10-K, except as required by federal securities laws.
+
+Executive Overview
+
+We are a global data and artificial intelligence (“AI”) company that offers services and solutions to reinvent client business models, drive better outcomes and unlock growth with speed. We harness the power of data, AI, and deep industry knowledge to transform businesses, including the world’s leading corporations in industries including insurance, healthcare and life sciences, banking and capital markets, retail, communications and media, and energy and infrastructure, among others.
+
+One of our key assets is our global delivery network, which includes highly trained industry and process specialists across the United States, the United Kingdom, Latin America, South Africa, Europe and Asia (primarily India and the Philippines). We have operations centers in India, the United States, the Philippines, South Africa, Colombia, Bulgaria, Romania, the United Kingdom, the Czech Republic, Mexico and the Republic of Ireland.
+
+In the first quarter of 2025, we implemented operational and structural changes to accelerate the execution of our data and AI strategy and align with how our management reviews financial information and makes operating decisions. The new operating model is comprised of Industry Market Units (“IMUs”) to focus on delivering higher value to clients leveraging our full suite of capabilities; and Strategic Growth Units to focus on rapidly advancing our operational, analytics, data engineering, and AI capabilities specific to our chosen industries. Our IMUs focus on managing customer relationships and delivering the “One EXL” value proposition to clients, maintaining a unified go-to-market approach and be integrally responsible for growth, profitability and client satisfaction.
+
+Accordingly, our new reportable segments, aligned to our IMUs, are as follows:
+
+•Insurance,
+
+•Healthcare and Life Sciences,
+
+•Banking, Capital Markets and Diversified Industries,
+
+•International Growth Markets
+
+The primary changes in our new reportable segments reflect 1) the integration of our former Analytics reportable segment as a core capability within each of our IMUs, ensuring alignment with the specialized needs of our clients across IMUs, 2) the reorganization of our former Emerging Business reportable segment into a Banking, Capital Markets and Diversified Industries reportable segment, excluding Life Sciences, which is now a part of the new Healthcare and Life Sciences reportable segment, and 3) the formation of International Growth Markets as a separate IMU to represent all our services and solutions offerings to clients in the United Kingdom, Europe, Middle East, Asia-Pacific and South Africa geographies across all industry verticals. The International Growth Markets IMU is helping strategically expand our footprint in markets outside of North America and drive focus on offerings and expansion in those markets in new and existing clients.
+
+In addition, our revenues by service type are now presented as data and AI-led solutions and services and digital operations solutions and services. Revenues attributable to geographical regions are now presented as North America (including the United States, Canada and Mexico), the United Kingdom and Europe, and Rest of World.
+
+We have recast our segment disclosures for all prior periods presented to conform to the way we internally manage and monitor segment level performance of our business.
+
+Our Business
+
+We provide data and AI-led solutions and services and digital operations solutions and services to our clients. We market and sell our solutions and services to existing and prospective clients through our sales and client management teams, which are aligned by our IMUs. Our sales and client management teams operate primarily from the United States, India, the United Kingdom, Ireland and Australia.
+
+Data and AI-led: Our data and AI-led revenue comes from AI-powered solutions and services in which we embed data and AI into client workflows, leveraging our depth of domain knowledge, analytics, data management and digital engineering expertise. Our digital and AI capabilities that drive data and technology-led transformation for our clients include generative AI, reinforcement learning, hyper automation, cloud data management, conversational AI, robotics, enterprise architecture development, integration platform as a service and AI for operations.
+
+Digital operations: Our digital operations revenue comes from our technology-enabled managed services that blend our deep domain expertise with industry-specific solutions and services that help clients run business functions with enhanced productivity, greater speed and improved accuracy. We apply deep industry expertise and tailored technology—whether our proprietary technology or client technology—to solve complex challenges and drive measurable outcomes. These digital operations deployments form the foundation for future client transformation opportunities to infuse AI into client workflows and unlock even greater value.
+
+Our reportable segments, aligned to our IMUs, which provide data and AI-led solutions and services and digital operations solutions and services, are described below:
+
+Insurance: We serve insurance brokers, reinsurers, and insurtech companies and provide services to insurers in the areas of property and casualty, life, disability, annuity, and retirement services.
+
+Our offerings include claims management, premium and benefit administration, agency management, account reconciliation, actuarial and risk analytics, policy research, digital marketing, new business acquisition, underwriting support, policy servicing, premium audit, surveys, billing and collection, commercial and residential survey, finance and accounting, and customer service using digital technology, AI, including agentic AI, generative AI, machine learning (“ML”) and advanced automation. We also combine our cloud-first digital insurance software solutions and industry expertise with agentic AI, generative AI, machine learning, advanced analytics, and platforms. This includes our Insurance Large Language Model (“LLM”), a specialized generative AI platform for claims, underwriting and subrogation, developed leveraging our deep experience and proprietary data in the insurance industry. Additionally, we provide third-party administration for life and annuity insurance through our LifePRO® and Life Digital Suite SaaS platforms and also offer subrogation services to property and casualty insurers using our Subrosource® BPaaS platform.
+
+Healthcare and Life Sciences: We serve U.S.-based healthcare payers, providers, pharmacy benefit managers (“PBMs”), and life sciences organizations by combining deep healthcare and life sciences domain expertise with data, analytics and AI-led insights and technology-enabled services that transform how care is delivered, managed and paid.
+
+We provide care management, utilization management, disease management, payment integrity, revenue optimization and customer engagement, commercial analytics and regulatory support services to improve healthcare outcomes, enhanced patient and provider experience, optimized healthcare spending and streamline healthcare administration processes by simplifying complex workflows.
+
+For healthcare payers, we offer payment integrity services, pre and post-pay auditing services, payment analytics, subrogation and claims recovery, care management and patient navigation solutions. For healthcare providers, we offer revenue cycle management, digital transformation, data-driven analytics and contact center solutions. For PBMs, we provide digital transformation, data and analytics and call center modernization. Our life sciences offerings combine domain expertise, data engineering, AI-driven insight generation, and digital operations to deliver outcomes across commercial, clinical, regulatory, and patient support functions. We leverage AI, analytics, and cloud-based solutions to enhance value-based care, optimize claims, and ensure regulatory compliance.
+
+Banking, Capital Markets, and Diversified Industries: Our Banking and Capital Markets and Diversified Industries group delivers comprehensive solutions across retail and commercial banking, credit card and payment services, fintech, wealth and retirement services, capital markets, utilities, retail and consumer packaged goods, communications, media and entertainment, travel and leisure, transportation and logistics, infrastructure and other business services industries.
+
+By integrating deep domain expertise with AI-driven decision-making, we enable financial institutions to innovate, enhance operational agility, and adapt to evolving market demands. We provide risk management solutions, marketing and customer analytics solutions to our clients, along with our integrated operations services that encompass the full range of banking operations, including digital lending solutions that improve underwriting and compliance, omni-channel marketing, digital onboarding, know your customer (“KYC”)/anti-money laundering (“AML”) compliance, collections, fraud prevention, and customer servicing, among others. Our industry-leading AI and automation-driven service offerings drive operational efficiency and foster innovation across the financial services and other industries.
+
+Our enterprise services and solutions include domain-specific operations, integrated finance and accounting services, customer experience management, back-office operations, and revenue enhancement, such as pricing and billing, enabling our clients to deliver enhanced operational efficiency, and high-quality customer experiences. For example, in the retail and consumer packaged goods sectors, we enable advanced supply chain performance through AI-driven analytics services supporting smarter merchandising, dynamic pricing, and accurate demand forecasting and for our clients in the utilities sector, we offer AI-enabled operations and solutions related to end-to-end customer life cycle management, including onboarding and terminations, engineering field operations, billing, and debt management.
+
+International Growth Markets: Our International Growth Markets (“IGM”) IMU is focused on strengthening our global footprint outside of North America. We ensure customized delivery while leveraging EXL’s global capabilities in data, AI, and digital operations to drive differentiated business outcomes for our clients in growth markets. This provides us with opportunities to leverage our investments, experience, and expertise from the North America market to expand our global client base, drive further growth, and bring us closer to our clients and partners across the world. IGM consists of dedicated teams servicing clients and localizing our global capabilities in insurance, life sciences, banking and capital markets, energy and infrastructure, retail, consumer goods, and travel industries in growth markets. Across all regions in which we operate, we combine deep domain experience with our data and AI expertise to help clients innovate, enhance operational agility, adapt to changing market demands, and drive better business transformation.
+
+Pricing: We charge for our services using various pricing models like time-and-material pricing, full-time-equivalent pricing, transaction-based pricing, outcome-based pricing, subscription-based pricing and other alternative or emerging pricing models. Outcome-based pricing arrangements are an example of a non-linear pricing model where our revenues from platforms and solutions and the services we provide are compensated based on our clients’ usage or savings rather than the efforts we deploy to provide these services. We continue to observe a shift in the industry pricing models toward transaction-based pricing, outcome-based pricing and other alternative pricing models. We believe this trend will continue and we use such alternative pricing models with some of our current clients and are seeking to move certain other clients from a full-time-equivalent pricing model to a transaction-based or other alternative pricing model. These alternative pricing models place the focus on operating efficiency in order to maintain or improve our gross margins.
+
+Revenues
+
+For fiscal 2025, we generated revenues of $2,087.7 million compared to revenues of $1,838.4 million for fiscal 2024, an increase of $249.3 million, or 13.6%.
+
+We serve clients mainly in the North America, and the United Kingdom & Europe, with these two regions generating 82.7% and 14.7%, respectively, of our total revenues for fiscal 2025 and 82.3% and 14.8%, respectively, of our total revenues for fiscal 2024.
+
+For fiscal 2025 and fiscal 2024, our total revenues from our top ten clients accounted for 34.0% and 33.2% of our total revenues, respectively. Although we continue to develop relationships with new clients to diversify our client base, we believe that the loss of any of our top ten clients could have a material adverse effect on our financial performance.
+
+Cost of Revenues
+
+Our cost of revenues primarily consists of:
+
+•employee costs, which include salary, bonus and other compensation expenses; retirement benefits, recruitment and training costs; employee health and life insurance; transport; rewards and recognition for certain employees; and non-cash stock-based compensation expense; outsourced/subcontractors costs;
+
+•costs relating to our facilities and communications network, which include telecommunication and IT costs; facilities and customer management support; operational expenses for our operations centers; lease cost; and
+
+•other costs which primarily include travel and costs relating to our direct marketing business.
+
+The most significant components of our cost of revenues are salaries and benefits (including stock-based compensation), retirement benefits, recruitment, training, transport, meals, rewards and recognition and employee health and life insurance. Salary levels, employee turnover rates and our ability to efficiently manage and utilize our employees significantly affect our cost of revenues. We make every effort to manage employee and capacity utilization and continuously monitor service levels and staffing requirements. Although we generally have been able to reallocate our employees as client demand has fluctuated, a contract termination or significant reduction in work assigned to us by a major client could cause us to experience a higher-than-expected number of unassigned employees, which would increase our cost of revenues as a percentage of revenues until we are able to reduce or reallocate our headcount. A significant increase in the turnover rate among our employees, particularly among the highly skilled workforce needed to execute certain services, would increase our recruiting and training costs and decrease our operating efficiency, productivity and profit margins. In addition, cost of revenues also includes non-cash amortization of stock-based compensation expense related to the grant of our equity awards to employees directly involved in providing services to our clients.
+
+We expect our cost of revenues to continue to increase as we continue to add professionals in our operations centers globally to service additional business and as wages continue to increase globally. In particular, we expect recruitment and training costs to continue to increase as we hire additional staff to service new clients and train existing staff to provide them with evolving skill sets. There is significant competition for professionals with skills necessary to perform the services we offer to our clients. As our existing competitors continue to grow, and as new competitors enter the market, we expect competition for skilled professionals in each of these areas to continue to increase, with corresponding increases in our cost of revenues to reflect increased compensation levels for such professionals. We also expect that we will continue to incur additional costs to monitor and improve operational efficiency of our hybrid working model, invest in information technology solutions, including adaption to evolving modes of seeking such solutions through cloud-based hosting arrangements and security measures to safeguard against information security risks. See Part I, Item 1A, “Risk Factors” under “Risks Related to Our Business––Employee wage increases may prevent us from sustaining our competitive advantage and may reduce our profit margin.” However, a significant portion of our client contracts include inflation-based adjustments to our billing rates year over year which partially offset such increase in cost of revenues.
+
+We generally experience a higher cost of revenues as a percentage of revenues during the initial 12 to 18 months in our long-term contracts due to upfront investments in infrastructure, resource hiring and training during migration. The cost of revenues as a percentage of revenues improves as we scale up, achieve operational efficiencies and complete the migration.
+
+Operating Expenses
+
+Selling, General and Administrative Expenses ("SG&A")
+
+Our General and Administrative expenses (“G&A”) comprise of expenses relating to salaries and benefits (including stock-based compensation), retirement benefits as well as costs related to recruitment, training and retention of senior management and other support personnel in enabling functions, telecommunications, utilities, travel and other miscellaneous administrative costs. G&A expenses also include acquisition-related costs, legal and professional fees (which represent the costs of third party legal, tax, accounting, immigration and other advisors), litigation claims, cost of technology solutions sought through evolving modes of cloud-based hosting arrangements, investment in product development, AI and other digital technologies, bad debt allowance and stock-based compensation expenses related to grant of our equity awards to members of our board of directors. We expect our G&A costs to increase as we continue to strengthen our support and enabling functions and invest in leadership development, performance management and training programs.
+
+Selling and marketing expenses primarily consist of salaries and benefits (including stock-based compensation), retirement benefits and other compensation expenses of sales and marketing and client management personnel, sales commission, travel and brand building, client events and conferences. We expect that sales and marketing expenses will continue to increase as we invest in our sales and client management functions to better serve our clients and in our branding.
+
+Depreciation and Amortization Expense
+
+Depreciation and amortization expense pertains to depreciation of our property and equipment, including network equipment, cabling, computers, office furniture and equipment, motor vehicles and leasehold improvements and amortization of intangible assets acquired in business combinations. As part of our ongoing evaluation of our business needs, we continually optimize our operations centers and expect depreciation to decrease on assets related to operations centers, such as office furniture and equipment and leasehold improvements. As our business continues to expand, we expect additional investments in digital technologies and equipment, including laptops, desktop computers, servers and other infrastructure, and increased reliance on hybrid working model, we expect increases in depreciation on assets-related to such investments. Property and equipment, if evaluated as being used differently than as originally intended are assessed for revision of their useful life, thereby revising their future depreciation to reflect the actual use of such property and equipment over the remaining shortened life. We expect amortization of intangible assets to increase further as we pursue strategic relationships and acquisitions.
+
+Foreign Exchange Gain, Net
+
+We report our financial results in U.S. dollars.
+
+Our revenues are primarily denominated in the U.S. dollar, however, a portion of our revenues are earned in the U.K. pound sterling representing 10.6% and 10.7% of our total revenues in fiscal 2025 and fiscal 2024, respectively. We also incur a significant portion of our expenses in the Indian rupee, the Philippine peso, the South African rand and the U.K. pound sterling, representing 31.1%, 8.4%, 3.3% and 3.1%, respectively, of our total expenses in fiscal 2025, compared to 29.7%, 8.2%, 3.5% and 2.8%, respectively, of our total expenses in fiscal 2024. The exchange rates among these currencies and the U.S. dollar have changed over the years and may fluctuate substantially in the future as well. The results of our operations could be substantially impacted as these currencies appreciate or depreciate against the U.S. dollar. See Part I, Item 1A, “Risk Factors” under “Risks Related to the International Nature of Our Business––Currency exchange rate fluctuations in the various currencies in which we do business, or the failure of our hedging strategies to mitigate such fluctuations, could have a material adverse effect on our results of operations,” as well as Note 2 - Summary of Significant Accounting Policies and Note 17 - Derivatives and Hedge Accounting to our consolidated financial statements under Part II, Item 8, “Financial Statements and Supplementary Data” and Part II, Item 7A, “Quantitative and Qualitative Disclosures About Market Risk-Components of Market Risk-Foreign Currency Risk.”
+
+Interest Expense
+
+Interest expense primarily consists of interest on our borrowings under our revolving credit facility, term loan facility, finance leases and notional interest implicit in the purchase of property and equipment.
+
+Other Income/(Expense), Net
+
+Other income/(expense), net primarily consists of gain/(loss) on sale and mark-to-market, dividend income and interest income on our short-term and long-term investments, cash equivalents, as applicable. Other income/(expense), net also consists of changes in fair value of contingent consideration related to business combinations, interest on refunds received from income tax authorities in India on completion of tax assessments, profit or loss on disposal of long-lived assets and components of net
+
+periodic benefit cost such as interest cost, expected return on plan assets, amortization of actuarial gain/(loss) and prior period service costs.
+
+Income Taxes
+
+We are subject to taxes in the countries we operate in. Our future tax liabilities could be adversely affected by any new unfavorable tax legislative and other changes in such countries. We continuously monitor such changes to assess and quantify the potential impacts on our consolidated financial statements.
+
+We periodically evaluate opportunities to distribute cash among our group entities to fund our operations in the United States and other countries, and as and when we decide to distribute, we may have to accrue additional taxes in accordance with local tax laws, rules and regulations in the relevant foreign jurisdictions.
+
+We recognize deferred tax assets and liabilities for temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss carry forwards. We determine if a valuation allowance is required on the basis of an assessment of whether it is more likely than not that a deferred tax asset will be realized.
+
+We currently benefit from corporate tax holidays in our qualified Philippines Economic Zone Authority operations centers in the Philippines. Our ability to utilize these tax holidays could be adversely affected by any new unfavorable tax legislative changes. We continuously monitor such changes to assess and quantify any potential impacts on our consolidated financial statements.
+
+In October 2021, the Organization for Economic Co-operation and Development (“OECD”) introduced the Pillar Two Framework imposing a global minimum tax rate of 15%. We have determined that the impact of the Pillar Two Framework did not have material impact on our consolidated financial statements.
+
+On July 4, 2025, the United States enacted new tax legislation known as the One Big Beautiful Bill Act (“OBBBA”), which effectively extends certain provisions of the 2017 Tax Cuts and Jobs Act, including adjustments to several provisions that were scheduled to sunset, phase out, or phase in. As a result of our election to expense research or experimental expenditures incurred in the United States and the related transition provisions, our U.S. cash taxes for 2025 will decrease, while there will be no significant impact on our effective tax rate.
+
+Critical Accounting Estimates
+
+The discussion and analysis of our financial condition and results of operations are based upon the consolidated financial statements included in this Annual Report on Form 10-K, which have been prepared in accordance with U.S. generally accepted accounting principles (“U.S. GAAP”). A summary of our significant accounting policies is included in Note 2 - Summary of Significant Accounting Policies to our consolidated financial statements under Part II, Item 8, “Financial Statements and Supplementary Data.”
+
+We consider the following accounting estimates to be the most critical to an understanding of our consolidated financial statements, as their application places the most significant demands on management’s judgment regarding matters that are inherently uncertain at the time an estimate is made. These accounting policies, estimates and the associated risks are set out below. Future events may not develop exactly as forecasted and estimates routinely require adjustment.
+
+Revenue Recognition
+
+Type of Contracts Requiring Judgment
+
+Revenues from payment integrity services having contingent fee arrangements are recognized by us at the point in time when a performance obligation is satisfied, which is when we identify an overpayment claim. In such contracts, our consideration is contingent upon the actual collections made by our customers and net of any subsequent retraction claims. Based on guidance on “variable consideration” in Accounting Standards Codification (“ASC”) Topic 606, Revenue from Contracts with Customers (“ASC Topic 606”), we use our historical experience and projections to determine the expected recoveries from our customers and recognize revenue based upon such expected recoveries. We believe that the expected value method is most appropriate for determining the variable consideration since we have a large number of contracts with similar nature of transactions/services. Any adjustment required due to change in estimates are recorded in the period in which such change is identified. The estimated amount of revenue to be collected from our customers are presented as contract assets within “Other Current Assets”.
+
+Revenues from fixed-price contracts are recognized considering costs incurred to date relative to total estimated costs at completion to measure progress towards satisfying the performance obligations. The use of this method requires significant judgment to estimate the stage of completion and/or cost required to complete the contracted scope of work, including assumptions and estimates relative to the length of time to complete the project and the nature and complexity of the work to be performed and resources engaged. We regularly monitor these estimates throughout the execution of the project and record changes in the period in which a change in an estimate is determined.
+
+Allowance for Expected Credit Losses
+
+We record accounts receivable net of allowances for expected credit losses. Allowances for credit losses are established through the evaluation of aging of accounts receivables, prior collection experience, current market conditions, forecasts about future economic conditions, customers’ financial condition and the amount of accounts receivable in dispute to estimate the collectability of these accounts receivable. Accounts receivable balances are written-off against the allowance for expected credit losses after all means of collection have been exhausted and the potential for recovery is considered remote.
+
+Business Combinations and Goodwill
+
+We account for all business combinations using the acquisition method of accounting as prescribed by ASC Topic 805, Business Combinations. The guidance requires the use of significant estimates and assumptions in determining the fair value of identifiable assets acquired and liabilities assumed, including intangible assets and contingent consideration, and allocation of purchase price over such assets and liabilities on the acquisition date. The significant estimates and assumptions include, but are not limited to, the timing and amount of future revenue and cash flows based on, among other things, discount rate reflecting the risk inherent in future cash flows, customer attrition rates and the long-term growth rate applied within the discounted cash flow model. This requires a high degree of our judgment and the need to involve fair value specialists to evaluate the reasonableness of our valuation methodology and the selection of inputs to the valuation.
+
+We also perform a quantitative assessment of goodwill impairment if, based on the qualitative factors assessed during the fourth quarter, we determine that it is more likely than not that the fair value of a reporting unit is less than its carrying amount. The significant estimates and assumptions include, the timing and amount of future revenue and cash flows, discount rate reflecting the risk inherent in future cash flows and the long-term growth rate applied within the discounted cash flow model.
+
+In the first quarter of 2025, we implemented operational and structural changes, which resulted in the realignment of our reporting segments. Refer to Note 3- Segment Information and Note 10- Goodwill and Other Intangible Assets to our consolidated financial statements for further details.
+
+Goodwill has been re-allocated to reporting units based on the relative fair value approach. We tested goodwill for impairment prior to the segment realignment and immediately thereafter, for events and conditions identified in accordance with the guidance in ASC Topic 350, Intangibles- Goodwill and Other. The fair value of our reporting units was calculated using a discounted cash flow model using estimated future cash flows. The results of our evaluation demonstrated that the fair value of each reporting unit exceeded its book value as of the date of the segment realignment.
+
+Stock-Based Compensation
+
+Under the fair value recognition provisions of ASC Topic 718, Compensation-Stock Compensation, cost is measured at the grant date based on the fair value of the award and is amortized on a straight-line basis over the requisite service periods of the awards, which is generally the vesting period.
+
+Determining the fair value of stock-based awards at the grant date requires significant judgment, including estimating the expected term over which the stock awards will be outstanding before they are exercised and the expected volatility of our stock.
+
+We grant performance-based restricted stock units (“PRSUs”) to executive officers and other specified employees. Generally, we grant PRSUs that cliff vest based on an aggregated revenue target (“PUs”) for a three-year period, while grants based on market conditions (“MUs”) are contingent on meeting or exceeding the total shareholder return relative to a group of peer companies, and are measured over a three-year performance period.
+
+The fair value of each PU is determined based on the market price of one share of our common stock on the day prior to the date of grant. The grant date fair value for the MUs is determined using a Monte Carlo simulation model. The Monte Carlo simulation model simulates a range of possible future stock prices and estimates the probabilities of the potential payouts. The Monte Carlo simulation model also involves the use of additional key assumptions, including dividend yield and risk-free interest rate. We periodically assess the reasonableness of our assumptions and update our estimates as required. If actual
+
+results differ significantly from our estimates, stock-based compensation expense and our results of operations could be materially affected.
+
+Stock-based compensation expense associated with our 2022 Employee Stock Purchase Plan is measured at fair-value using a Black-Scholes option-pricing model at commencement of each offering period and recognized over that offering period.
+
+Income Taxes
+
+We account for income tax using the asset and liability method. Under this method, income tax expense is recognized for the amount of taxes payable or refundable for the current year. In addition, deferred tax assets and liabilities are recognized in respect of future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their tax bases and operating losses carried forward, if any. Deferred tax assets and liabilities are measured using the anticipated tax rates for the years in which such temporary differences are expected to be recovered or settled. We recognize the effect of a change in tax rates on deferred tax assets and liabilities during the period in which the new tax rate was enacted or the change in tax status was filed or approved. Deferred tax assets are recognized in full, subject to a valuation allowance that reduces the amount recognized to that which is more likely than not to be realized. In assessing the likelihood of realization, we consider all available evidence for each jurisdiction including past operating results, estimates of future taxable income and the feasibility of tax planning strategies. With respect to any entity that benefits from a corporate tax holiday, deferred tax assets or liabilities for existing temporary differences are recorded only to the extent such temporary differences are expected to reverse following the expiration of the tax holiday.
+
+We recognize tax benefits from uncertain tax positions only if we believe that it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. We recognize interest and penalties related to uncertain tax positions as a component of the provision for income taxes. We have established adequate reserves to cover all uncertain tax positions.
+
+Employee Benefits
+
+The liability in respect of defined benefit plans is calculated annually by using the projected unit credit method and various actuarial assumptions including discount rates, mortality, expected return on assets, expected increase in the compensation rates and attrition rates. We evaluate these critical assumptions at least annually. If actual results differ significantly from our estimates, current service costs for defined benefit plans and our results of operations could be materially impacted.
+
+Effective November 21, 2025, the Government of India has consolidated multiple existing labor legislations into a unified framework comprising four labor codes collectively referred to as the new “Labor Codes”. The Labor Codes, among other things introduce changes, including a uniform definition of wages. These legislative changes have resulted in an increase in the projected benefit obligation, which has been recognized as prior service cost in other comprehensive income. Additionally, the Government of India is in the process of issuing rules and regulations and clarifying certain aspects of the Labor Codes. The issuance of rules and regulations, as well as the outcome of these clarifications, could impact our compensation and benefit expenses in India.
+
+Contingencies
+
+Loss contingencies are recorded as liabilities when a loss is considered probable and the amount can be reasonably estimated. When a material loss contingency is reasonably possible but not probable, we do not record a liability, but instead disclose the nature and the amount of the claim, and an estimate of the loss or range of loss, if such an estimate can be made. Significant judgment is required in the determination of both probability and whether an exposure is reasonably estimable. Our judgments are subjective and based on the information available from the status of the legal or regulatory proceedings, the merits of our defenses and consultation with in-house and outside legal counsel. As additional information becomes available, we reassess any potential liability related to any pending litigation and may revise our estimates. Such revisions in estimates of any potential liabilities could have a material impact on our results of operations, financial position and cash flows.
+
+Results of Operations
+
+For a discussion of our results of operations for fiscal 2023, including a year-to-year comparison between fiscal 2024 and 2023, refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for fiscal 2024, filed with the SEC on February 25, 2025.
+
+The following table summarizes our results of operations:
+
+(dollars in millions)
+
+Fiscal
+
+2025 | Percentage of Revenues, net | Fiscal
+
+2024 | Percentage of Revenues, net | Dollar Change | Percentage Change
+
+(A) | (B) | (C=A-B)
+
+Revenues, net | $ | 2,087.7 | 100.0 | % | $ | 1,838.4 | 100.0 | % | $ | 249.3 | 13.6 | %
+
+Cost of revenues (1)
+1,286.6 | 61.6 | % | 1,147.4 | 62.4 | % | 139.2 | 12.1 | %
+
+Gross profit (1)
+801.10 | 38.4 | % | 691.0 | 37.6 | % | 110.1 | 15.9 | %
+
+Operating expenses:
+
+General and administrative expenses | 255.3 | 12.2 | % | 225.7 | 12.3 | % | 29.6 | 13.1 | %
+
+Selling and marketing expenses | 172.9 | 8.3 | % | 146.5 | 8.0 | % | 26.4 | 18.0 | %
+
+Depreciation and amortization expense | 59.1 | 2.8 | % | 55.2 | 3.0 | % | 3.9 | 7.0 | %
+
+Total operating expenses | 487.3 | 23.3 | % | 427.4 | 23.2 | % | 59.9 | 14.0 | %
+
+Income from operations | 313.8 | 15.0 | % | 263.6 | 14.3 | % | 50.2 | 19.0 | %
+
+Foreign exchange gain, net | 2.8 | 0.1 | % | 0.9 | — | % | 1.9 | 220.9 | %
+
+Interest expense | (17.6) | (0.8) | % | (19.3) | (1.0) | % | 1.7 | (8.5) | %
+
+Other income, net | 16.0 | 0.8 | % | 16.1 | 0.9 | % | (0.1) | (0.2) | %
+
+Income before income tax expense and earnings from equity affiliates | 315.0 | 15.1 | % | 261.3 | 14.2 | % | 53.7 | 20.5 | %
+
+Income tax expense | 63.7 | 3.1 | % | 62.9 | 3.4 | % | 0.8 | 1.3 | %
+
+Income before earnings from equity affiliates | 251.3 | 12.0 | % | 198.4 | 10.8 | % | 52.9 | 26.7 | %
+
+Gain/(loss) from equity-method investment | (0.3) | — | % | (0.1) | — | % | (0.2) | 167.5 | %
+
+Net income | $ | 251.0 | 12.0 | % | $ | 198.3 | 10.8 | % | $ | 52.7 | 26.6 | %
+
+(1) Exclusive of depreciation and amortization expense.
+
+Due to rounding, the numbers presented in the tables included in this Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” may not add up precisely to the totals provided.
+
+Fiscal 2025 Compared to Fiscal 2024
+
+Revenues, net: The following table summarizes our revenues by reportable segments:
+
+Fiscal | Dollar Change | Percentage
+
+change | Percentage of Total Revenues for Fiscal
+
+2025 | 2024 | 2025 | 2024
+
+(dollars in millions)
+
+Insurance | $ | 710.6 | $ | 656.4 | $ | 54.2 | 8.3 | % | 34.0 | % | 35.7 | %
+
+Healthcare and Life Sciences | 532.5 | 430.7 | 101.8 | 23.7 | % | 25.5 | % | 23.4 | %
+
+Banking, Capital Markets and Diversified Industries | 482.4 | 426.7 | 55.7 | 13.0 | % | 23.1 | % | 23.2 | %
+
+International Growth Markets | 362.2 | 324.6 | 37.6 | 11.6 | % | 17.4 | % | 17.7 | %
+
+Revenues, net | $ | 2,087.7 | $ | 1,838.4 | $ | 249.3 | 13.6 | % | 100.0 | % | 100.0 | %
+
+Revenues for fiscal 2025 were up by $249.3 million, or 13.6%, compared to fiscal 2024, driven by the expansion of business from our existing clients across all reportable segments by 10.6% and revenue from new client wins, including revenue from our August 2024 acquisition of Incandescent Technologies, Inc. (“ITI Data”) by 3.0% during fiscal 2025.
+
+Revenue growth in Insurance by 8.3% was driven by the expansion of business from our existing clients by 7.5% and new clients by 0.8% during fiscal 2025, compared to fiscal 2024.
+
+Revenue growth in Healthcare and Life Sciences by 23.7% was driven by the expansion of business from our existing clients by 22.4% and new clients, including revenue from ITI Data, by 1.3% during fiscal 2025, compared to fiscal 2024.
+
+Revenue growth in Banking, Capital Markets and Diversified Industries by 13.0% was driven by the expansion of business from our existing clients by 5.6% and new clients, including revenue from ITI Data, by 7.4% during fiscal 2025, compared to fiscal 2024.
+
+Revenue growth in International Growth Markets by 11.6% was driven by the expansion of business from our existing clients by 8.0% and new clients, including revenue from ITI Data, by 3.9%, partially offset by a foreign exchange loss, net of hedging by 0.3% during fiscal 2025, compared to fiscal 2024.
+
+Cost of Revenues and Gross Margin: The following table sets forth cost of revenues and gross margin of our reportable segments:
+
+Cost of Revenues | Gross Margin
+
+Fiscal | Dollar Change | Percentage
+
+change | Fiscal | Percentage
+
+change
+
+2025 | 2024 | 2025 | 2024
+
+(dollars in millions)
+
+Insurance | $ | 453.8 | $ | 424.9 | $ | 28.9 | 6.8 | % | 36.1 | % | 35.3 | % | 0.8 | %
+
+Healthcare and Life Sciences | 300.2 | 243.2 | 57.0 | 23.5 | % | 43.6 | % | 43.6 | % | — | %
+
+Banking, Capital Markets and Diversified Industries | 298.8 | 268.6 | 30.2 | 11.2 | % | 38.1 | % | 37.1 | % | 1.0 | %
+
+International Growth Markets | 233.8 | 210.7 | 23.1 | 10.9 | % | 35.5 | % | 35.1 | % | 0.4 | %
+
+Total | $ | 1,286.6 | $ | 1,147.4 | $ | 139.2 | 12.1 | % | 38.4 | % | 37.6 | % | 0.8 | %
+
+Cost of revenues for fiscal 2025 increased by $139.2 million, or 12.1%, compared to fiscal 2024. The increase in cost of revenues was primarily due to increases in employee-related costs of $152.9 million on account of higher headcount and wage inflation, higher facilities, technology and other operating costs of $18.9 million, partially offset by lower mail and data expenses in our direct marketing business of $16.7 million and a foreign exchange gain, net of hedging of $15.9 million. Our gross margin for fiscal 2025 was 38.4%, compared to 37.6% for fiscal 2024, an increase of 80 basis points (“bps”) primarily driven by higher revenues and operational efficiencies, partially offset by increases in employee-related costs during fiscal 2025, compared to fiscal 2024.
+
+The increase in cost of revenues in Insurance by $28.9 million for fiscal 2025 was primarily due to increases in employee-related costs of $48.4 million on account of higher headcount and wage inflation, higher technology and facilities costs of $5.0 million, partially offset by lower mail and data expenses in our direct marketing business of $16.7 million, other operating
+
+costs of $2.3 million and a foreign exchange gain, net of hedging of $5.5 million. Gross margin in Insurance increased by 80 bps, primarily due to higher revenues and operational efficiencies during fiscal 2025, compared to fiscal 2024.
+
+The increase in cost of revenues in Healthcare and Life Sciences by $57.0 million for fiscal 2025 was primarily due to increases in employee-related costs of $53.4 million on account of higher headcount and wage inflation, including incremental costs related to the acquisition of ITI Data, higher facilities costs of $2.0 million, higher technology costs of $1.6 million and other operating costs of $3.7 million, partially offset by a foreign exchange gain, net of hedging of $3.7 million. Gross margin in Healthcare and Life Sciences remained flat during fiscal 2025, compared to fiscal 2024.
+
+The increase in cost of revenues in Banking, Capital Markets and Diversified Industries by $30.2 million for fiscal 2025 was primarily due to increases in employee-related costs of $28.9 million on account of higher headcount and wage inflation, including incremental costs related to the acquisition of ITI Data, higher technology costs of $2.2 million, higher facilities and other operating costs of $2.8 million, partially offset by a foreign exchange gain, net of hedging of $3.7 million. Gross margin in Banking, Capital Markets and Diversified Industries increased by 100 bps, primarily due to higher revenues and operational efficiencies during fiscal 2025, compared to fiscal 2024.
+
+The increase in cost of revenues in International Growth Markets by $23.1 million for fiscal 2025 was primarily due to increases in employee-related costs of $22.2 million on account of higher headcount and wage inflation, including incremental costs related to the acquisition of ITI Data, higher technology and other operating costs of $3.9 million, partially offset by a foreign exchange gain, net of hedging of $3.0 million. Gross margin in International Growth Markets increased by 40 bps, primarily due to higher revenues and operational efficiencies during fiscal 2025, compared to fiscal 2024.
+
+Selling, General and Administrative (“SG&A”) Expenses. SG&A expenses as a percentage of net revenues increased by 0.2% to 20.5% during fiscal 2025, compared to fiscal 2024.
+
+The increase in SG&A expenses by $56.0 million during fiscal 2025, compared to fiscal 2024 was primarily due to increases in employee-related costs of $52.9 million on account of higher headcount and wage inflation, including incremental costs related to the acquisition of ITI Data, increase in investments in digital and generative AI capabilities of $2.8 million, higher sales and marketing and other operating costs of $3.4 million. This increase in SG&A was partially offset by one-time restructuring and litigation settlement costs of $3.1 million incurred during fiscal 2024, compared to fiscal 2025.
+
+Depreciation and Amortization. Depreciation and amortization expenses as a percentage of net revenues decreased by 0.2% during fiscal 2025, compared to 2024.
+
+The increase in depreciation and amortization expense by 7.0% during fiscal 2025, compared to fiscal 2024 was primarily due to investments in infrastructure, technology assets and digital capabilities, partially offset by intangibles amortization expense.
+
+Income from Operations. The increase in income from operations by 19.0% during fiscal 2025, compared to fiscal 2024 was primarily due to higher revenues and gross margins, partially offset by higher SG&A expenses.
+
+Foreign Exchange Gain, net. We recorded a foreign exchange gain, net of $2.8 million for fiscal 2025, compared to a foreign exchange gain, net of $0.9 million for fiscal 2024. Foreign exchange gains and losses are primarily attributable to the movement of the U.S. dollar against the Indian rupee, the Philippine peso, the U.K. pound sterling and the South African rand during fiscal 2025, compared to fiscal 2024.
+
+Interest expense. The decrease in interest expense by $1.7 million during fiscal 2025, compared to fiscal 2024 was primarily due to a lower average effective interest rate during fiscal 2025, compared to fiscal 2024.
+
+Other Income, net.
+
+Fiscal | Dollar Change | Percentage
+
+change
+
+2025 | 2024
+
+(dollars in millions)
+
+Gain on sale and fair value mark-to-market on investments | $ | 8.3 | $ | 5.7 | $ | 2.6 | 47.3 | %
+
+Interest and dividend income | 9.6 | 9.9 | (0.3) | (2.8) | %
+
+Fair value changes of contingent consideration | (2.3) | 0.6 | (2.9)
+NM (1)
+
+Others, net | 0.4 | (0.1) | 0.5
+NM (1)
+
+Other income, net | $ | 16.0 | $ | 16.1 | $ | (0.1) | (0.2) | %
+
+(1) Not Meaningful
+
+Other income, net decreased marginally by $0.1 million during fiscal 2025, compared to fiscal 2024 due to changes in the fair value of contingent consideration related to our August 2024 acquisition of ITI Data of $2.3 million and reversal of contingent consideration liability of $0.6 million related to our June 2022 acquisition of Inbound Media Group, LLC during fiscal 2024, partially offset by higher yield on our investments and other income of $1.9 million, and reversal of certain contingent liabilities of $0.9 million that were no longer required in fiscal 2025.
+
+Income Tax Expense. The effective tax rate decreased from 24.1% for fiscal 2024 to 20.3% for fiscal 2025. We recorded income tax expense of $63.7 million and $62.9 million for fiscal 2025 and fiscal 2024, respectively. The increase in income tax expense was primarily as a result of higher profit and an increase in non-deductible expenses, partially offset by higher excess tax benefits and foreign derived intangible income deduction during fiscal 2025, compared to fiscal 2024.
+
+Net Income. The increase in net income by 26.6% during fiscal 2025, compared to fiscal 2024 was attributable to the aforementioned factors.
+
+Liquidity and Capital Resources
+
+Fiscal | Dollar Change | Percentage Change
+
+2025 | 2024
+
+(dollars in millions)
+
+Opening cash, cash equivalents and restricted cash | $ | 171.4 | $ | 145.4 | $ | 26.0 | 17.9 | %
+
+Net cash provided by operating activities | 350.7 | 268.5 | 82.2 | 30.6 | %
+
+Net cash used for investing activities | (49.2) | (119.1) | 69.9 | (58.6) | %
+
+Net cash used for financing activities | (312.8) | (119.1) | (193.7) | 162.6 | %
+
+Effect of exchange rate changes | 5.9 | (4.3) | 10.2 | (235.8) | %
+
+Closing cash, cash equivalents and restricted cash | $ | 166.0 | $ | 171.4 | $ | (5.4) | (3.2) | %
+
+As of December 31, 2025 and 2024, we had $328.4 million and $340.6 million, respectively, in cash, cash equivalents and short-term investments, of which $285.8 million and $296.0 million, respectively, is located in foreign jurisdictions that upon distribution may be subject to withholding and other taxes. We periodically evaluate opportunities to distribute cash among our group entities to fund our operations, expand our business and make strategic acquisitions in the United States and other geographies. As and when we decide to distribute, we may have to accrue additional taxes in accordance with local tax laws, rules and regulations in the relevant foreign jurisdictions. During 2025, some of our foreign subsidiaries repatriated $90.8 million (net of $5.6 million withholding taxes) to the United States.
+
+Operating Activities:
+
+Net cash provided by operating activities was $350.7 million for fiscal 2025, compared to $268.5 million for fiscal 2024, reflecting higher cash earnings and lower working capital needs. The major drivers contributing to the increase of $82.2 million year-over-year included the following:
+
+•Increase in cash earnings, including adjustments for non-cash and other items contributed higher cash flow of $66.8 million for fiscal 2025, compared to fiscal 2024. These adjustments include fair value changes in investments, unrealized foreign currency exchange (gain)/loss, net, stock-based employee compensation, depreciation and amortization of long-lived assets and intangibles acquired in business combinations, among others.
+
+•Changes in accounts receivable, including advance billings, contributed lower cash flow of $51.8 million in fiscal 2025, compared to the fiscal 2024. Our days sales outstanding were 60 days as of December 31, 2025, compared to 62 days as of December 31, 2024.
+
+•Payment of contingent consideration related to our December 2021 acquisition of Clairvoyant AI, Inc. (“Clairvoyant”) contributed to a higher cash payout of $11.0 million during fiscal 2024, whereas no such payment occurred during fiscal 2025.
+
+•Changes in other assets, accounts payables including other liabilities contributed to lower cash payout of $56.2 million for fiscal 2025, compared to fiscal 2024.
+
+Investing Activities: Net cash used for investing activities were $49.2 million for fiscal 2025, compared to $119.1 million for fiscal 2024. The decrease of $69.9 million was primarily due to higher proceeds from redemption of investments of $52.3 million during fiscal 2025, as compared to fiscal 2024 and net cash used for business acquisition of $24.3 million during fiscal 2024 whereas no such payment occurred during fiscal 2025. This was partially offset by higher cash paid for capital expenditures, including investments in infrastructure, technology assets and digital capabilities of $6.2 million during fiscal 2025, compared to fiscal 2024.
+
+Financing Activities: Net cash used for financing activities were $312.8 million for fiscal 2025, compared to $119.1 million for fiscal 2024. The increase of $193.7 million was primarily due to higher purchases of treasury stock of $120.6 million under our share repurchase programs and privately repurchased shares during fiscal 2025, compared to fiscal 2024 and lower net proceeds from borrowings of $78.1 million during fiscal 2025, compared to fiscal 2024. This was partially offset by payment of contingent consideration related to our December 2021 acquisition of Clairvoyant of $4.0 million during fiscal 2024 whereas no such payment occurred during fiscal 2025.
+
+We expect to use cash from operating activities to maintain and expand our business by making investments, primarily related to building new digital capabilities, including AI, and purchase telecommunications equipment and computer hardware and software in connection with managing client operations.
+
+We incurred $52.6 million of capital expenditure during fiscal 2025. We expect to incur total capital expenditures of between $50 million to $55 million in fiscal 2026, primarily to meet our growth requirements, including additions to our facilities and infrastructure, as well as investments in technology applications, product development and other, digital technologies.
+
+In connection with any tax assessment orders that have been issued, or may be issued against us or our subsidiaries, we may be required to deposit additional amounts with the relevant authorities with respect to such assessment orders. See Note 25 - Commitments and Contingencies to our consolidated financial statements under Part II, Item 8, “Financial Statements and Supplementary Data” for further information.
+
+We believe that our existing cash, cash equivalents and short-term investments and sources of liquidity will be sufficient to satisfy our cash requirements over the next 12 months. Our future cash requirements will depend on many factors, including our rate of revenue growth, our investments in strategic initiatives like acquisition of complementary businesses, capital expenditures and continued stock repurchases, including accelerated stock repurchases under our board-authorized stock repurchase program, which may require the use of significant cash resources and/or additional financing. We anticipate that we will continue to rely upon cash from operating activities to finance most of our above-mentioned requirements, although if we have significant growth through acquisitions, we may need to obtain additional financing.
+
+In the ordinary course of business, we enter into contracts and commitments that obligate us to make payments in the future. These obligations include borrowings, including interest obligations, purchase commitments, operating and finance lease commitments, employee benefit payments under gratuity plans, payments for contingent consideration and uncertain tax positions. See Note 16 - Fair Value Measurements - Fair Value of Contingent Consideration, Note 18 - Borrowings, Note 20 - Employee Benefit Plans, Note 21 - Leases, Note 22 - Income Taxes and Note 25 - Commitments and Contingencies to our consolidated financial statements under Part II, Item 8, “Financial Statements and Supplementary Data” for further information on material cash requirements from known contractual and other obligations.
+
+In the ordinary course of business, we provide standby letters of credit to third parties primarily for facility leases. As of December 31, 2025 and 2024, we had outstanding letters of credit of $1.6 million and $0.8 million, respectively, that were not recognized in our consolidated balance sheets. These are unlikely to have a current or future material effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. We had no other off-balance sheet arrangements or obligations.
+
+Financing Arrangements
+
+The following table summarizes our debt position:
+
+As of
+
+December 31, 2025 | December 31, 2024
+
+(dollars in millions)
+
+Revolving credit facility | Term loan facility | Total | Revolving credit facility | Term loan facility | Total
+
+Current portion of long-term borrowings | $ | — | $ | 5.0 | $ | 5.0 | $ | — | $ | 5.0 | $ | 5.0
+
+Unamortized debt issuance costs | — | (0.1) | (0.1) | — | (0.1) | (0.1)
+
+Total current portion of long-term borrowings
+— | 4.9 | 4.9 | — | 4.9 | 4.9
+
+Long-term borrowings
+205.0 | 88.8 | 293.8 | 190.0 | 93.8 | 283.8
+
+Unamortized debt issuance costs | — | — | — | — | (0.2) | (0.2)
+
+Total long-term borrowings
+205.0 | 88.8 | 293.8 | 190.0 | 93.6 | 283.6
+
+Total borrowings | $ | 205.0 | $ | 93.7 | $ | 298.7 | $ | 190.0 | $ | 98.5 | $ | 288.5
+
+Credit Agreement
+
+We held a $300.0 million revolving credit facility pursuant to our credit agreement (the “Credit Agreement”), dated as of November 21, 2017, with certain lenders and Citibank N.A. as Administrative Agent. The Credit agreement was amended and restated in April 2022 followed by the First Amendment to Amended and Restated Credit Agreement in August 2024 (the “2024 Credit Agreement”). Among other things, the 2024 Credit Agreement increased revolving credit commitments to $500.0 million and provided a new term loan facility of $100.0 million with an annual repayment amount of 5%. The increased revolving credit facility and the new term loan facility both mature on April 18, 2027.
+
+Under the 2024 Credit Agreement, obligations are guaranteed by our wholly-owned material domestic subsidiaries and secured by substantially all of our and our material domestic subsidiaries’ assets. The agreement includes a letter of credit sub-facility, permits voluntary prepayments without premium or penalty, and allows borrowings to be used for working capital, general corporate purposes, and permitted acquisitions.
+
+The 2024 Credit Agreement contains customary affirmative and negative covenants, including, but not limited to, restrictions on the ability to incur indebtedness, create liens, make certain investments, make certain dividends and distributions, enter into, or undertake, certain liquidations, mergers, consolidations or acquisitions and dispose of certain assets or subsidiaries. In addition, the 2024 Credit Agreement contains a covenant to not permit the interest coverage ratio or the total net leverage ratio for the four consecutive quarter period ending on the last day of each fiscal quarter, to be less than 3.0 to 1.0 or more than 3.5 to 1.0, respectively. We were in compliance with the financial covenants under the 2024 Credit Agreement.
+
+Under the 2024 Credit Agreement, obligations bear interest at a rate equal to either the specified prime rate (alternate base rate) or the adjusted secured overnight financing rate (SOFR), in each case plus an applicable margin tied to our total net leverage ratio. The applicable margin on the revolving credit facility ranges from 0% to 0.75% per annum on loans pegged to the specified prime rate and 0.88% to 1.75% per annum on loans pegged to the adjusted SOFR, while the margin on the term loan facility ranges from 0.13% to 1.00% per annum on loans pegged to the specified prime rate, and 1.13% to 2.00% per annum on loans pegged to the adjusted SOFR. The revolving credit commitments under the 2024 Credit Agreement are subject to a commitment fee which is also tied to our total net leverage ratio, and ranges from 0.13% to 0.28% per annum on the average daily amount by which the aggregate revolving commitments exceed the sum of outstanding revolving loans and letter of credit obligations.
+
+The effective interest rates of the revolving credit facility and the term loan facility are as follows:
+
+Year ended December 31,
+
+2025 | 2024
+
+Revolving credit facility | 5.7 | % | 6.3 | %
+
+Term loan facility | 5.7 | % | 6.5 | %
+
+Recent Accounting Pronouncements
+
+For a description of recent accounting pronouncements, see Note 2 - Summary of Significant Accounting Policies - Recent Accounting Pronouncements to our consolidated financial statements under Part II, Item 8, “Financial Statements and Supplementary Data.”

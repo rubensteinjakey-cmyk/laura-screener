@@ -1,0 +1,43 @@
+{
+  "ticker": "DVN",
+  "accession_number": "0001193125-26-056485",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "full_text_words": 50412,
+  "sections": {
+    "item1": {
+      "words": 5279,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5279,
+          7
+        ]
+      }
+    },
+    "item7": {
+      "words": 7941,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7941,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 882
+    }
+  },
+  "notes": [],
+  "human_capital_words": 2923,
+  "human_capital_found": true,
+  "people_paragraph_words": 1096
+}

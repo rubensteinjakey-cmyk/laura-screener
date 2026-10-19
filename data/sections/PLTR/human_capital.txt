@@ -1,0 +1,19 @@
+Our Team
+
+We employ a team of engineers, lawyers, philosophers, and social scientists to ensure that our company remains a leader in the field when it comes to privacy practices and software development.
+
+The Privacy and Civil Liberties Engineering team is responsible for ensuring a culture of responsibility around the development and use of our technology by leading the development of privacy-enhancing technologies, publishing research, consulting with policymakers, helping our customers implement data governance best practices, and facilitating company-wide dialogue on ethical issues. The team is supported by the Palantir Council of Advisors on Privacy and Civil Liberties, a group of independent experts in privacy law, policy, and ethics who help us to understand and address the implications of our work.
+
+Privacy-Enhancing Technologies
+
+•Granular Access Controls and Dynamic Data Minimization. Our platforms provide granular access restrictions with flexible permissions frameworks, such as role-, temporal-, and purpose-based access controls. These access control frameworks enable users to see only the specific information necessary for a defined task and only for the duration needed to complete it. Beyond access controls, organizations can also apply dynamic data minimization procedures such as pseudonymization, obfuscation, and encryption to adhere to compliance obligations while considering the context of specific workflows.
+
+•Sensitive Data Discovery and Management. Palantir’s software platforms enable users to securely integrate and analyze sensitive data. To ensure robust governance and to enforce data protection and compliance policies, our platforms also come with tools to detect and manage the use of such sensitive data.
+
+•Oversight and Auditability. Overseeing sensitive user actions within a system is critical to ensure that data is used appropriately and in compliance with applicable policies and regulations. Palantir’s software platforms enable our customers’ internal governance, compliance, or audit teams to easily understand the nature of such sensitive user actions. Our platforms also maintain audit logs and make them accessible to authorized users, allowing them to both investigate potential past misuse of systems and flag suspicious activity proactively.
+
+•Data Retention and Deletion. System administrators must be able to implement flexible and auditable retention policies and verify that data scheduled for deletion has truly been removed from the system. Our platforms allow organizations to ensure that out-of-date, expired, or irrelevant information is removed efficiently in order to improve data protection, governance, and compliance in accordance with applicable regulations.
+
+•Data Provenance. Providing users with well-curated, up-to-date data is critical for building trust in an organization’s data foundation. Our platforms automatically maintain complete records of both data provenance and all transformations applied to data in the system, allowing users to assess the reliability of the data and facilitate the review and correction of inaccuracies when necessary.
+
+•AI Governance. In order to build the trust necessary to use AI systems in production, organizations need tools to test, validate, govern, and maintain how AI is used to solve their challenges. Palantir builds technology to foster AI accountability, robust testing and evaluation, bias mitigation, responsibility and risk framework deployment, and governance for the full AI lifecycle.

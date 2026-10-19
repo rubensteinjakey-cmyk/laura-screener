@@ -1,0 +1,43 @@
+{
+  "ticker": "FIX",
+  "accession_number": "0001104659-26-017530",
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "full_text_words": 49659,
+  "sections": {
+    "item1": {
+      "words": 5197,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5197,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8053,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8053,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 61,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 485
+    }
+  },
+  "notes": [],
+  "human_capital_words": 862,
+  "human_capital_found": true,
+  "people_paragraph_words": 1562
+}

@@ -1,0 +1,45 @@
+{
+  "ticker": "PI",
+  "accession_number": "0001193125-26-042813",
+  "filing_date": "2026-02-09",
+  "fiscal_year": 2025,
+  "full_text_words": 46963,
+  "sections": {
+    "item1": {
+      "words": 4762,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4762,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6093,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6093,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 539
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 654
+}

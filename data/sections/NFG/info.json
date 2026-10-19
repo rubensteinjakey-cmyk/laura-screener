@@ -1,0 +1,43 @@
+{
+  "ticker": "NFG",
+  "accession_number": "0000070145-25-000039",
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "full_text_words": 71314,
+  "sections": {
+    "item1": {
+      "words": 4147,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4147,
+          51
+        ]
+      }
+    },
+    "item7": {
+      "words": 18621,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          18621,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 514
+    }
+  },
+  "notes": [],
+  "human_capital_words": 671,
+  "human_capital_found": true,
+  "people_paragraph_words": 637
+}

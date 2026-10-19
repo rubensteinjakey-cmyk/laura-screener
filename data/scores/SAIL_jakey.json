@@ -1,0 +1,199 @@
+{
+  "ticker": "SAIL",
+  "company_name": "SailPoint, Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0002030781-26-000003",
+  "filing_date": "2026-03-19",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:00:38",
+  "prompt_chars": 85853,
+  "filing_chars": 65843,
+  "filing_words_sent": 9249,
+  "approx_prompt_tokens": 21463,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Content marketing, blogs, bylines and an annual thought-leadership report produced to support sales",
+        "quote": "Our awareness and educational efforts focus on brand campaigns, digital and content marketing, public and analyst relations, social media engagement and influencer relations, and thought leadership such as our annual Horizons of Identity Security Report, market research, blogs, and bylines.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sales and Marketing > Marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work (marketing content) used only as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Sail-U early-career program with structured training for new staff",
+        "quote": "Our Sail-U program brings early career talent to our organization, where we provide them with the environment to learn and grow via structured training opportunities, engagement with leaders across the organization, and peer networking.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees, Culture, and Values",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Values-based leadership training for managers",
+        "quote": "Our leaders go through specific training to ensure they are leading their teams with our values at the forefront of the decisions they make.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees, Culture, and Values",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Annual Sailanthropitch program where employees vote to direct financial donations to charities",
+        "quote": "For more than seven years, we have run an annual “Sailanthropitch” program, where charities deliver a Shark-Tank-style presentation about their organization.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees, Culture, and Values",
+        "status": "current",
+        "indicators": "more than seven years running; no dollar amounts or participant numbers disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific named, ongoing community giving program with no disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "SailPoint Cares employee volunteering and giving program focused on STEM & tech, crew engagement and education",
+        "quote": "Our SailPoint Cares program, which started as an opportunity to bring cross-functional crew together in different regions, has grown significantly in recent years, providing opportunities for teams to get together and donate their time and resources to support good causes across three core pillars: STEM & tech, crew engagement, and education.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees, Culture, and Values",
+        "status": "current",
+        "indicators": "three core pillars; no participant, hour or dollar figures disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific named volunteering program, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Partnerships with Path Forward, SkillBridge and Code2College supporting returning caregivers, service members and students who lack access to STEM careers",
+        "quote": "We also forge partnerships to increase our impact—whether through Path Forward, which supports caregivers who are returning to the workforce, SkillBridge, which connects returning service members to job training opportunities, or Code2College, which enables students who might not normally have access or exposure to exploring a career in STEM to gain hands-on experience in a paid internship.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees, Culture, and Values",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education and workforce-reentry partnerships, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Customer support delivered in multiple languages through support partners",
+        "quote": "Our customer support organization has global capabilities, a deep expertise in our solutions, and, through select support partners, is able to deliver support in multiple languages.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Professional Services and Customer Support > Customer Support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: customer support in several languages, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Pay equity reviews conducted during merit planning",
+        "quote": "Our annual performance review process allows team members to engage in meaningful discussions with their managers about their performance and development goals, and we also conduct pay equity reviews during our merit planning process.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees, Culture, and Values",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal fairness practice with no disclosed figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: SailPoint sells identity security software and uses creative work only as a routine input (marketing content), and 'creative solutions' in its values is general language."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: there are several specific current programs, including employee training, the named Sailanthropitch and SailPoint Cares giving programs, and Code2College, SkillBridge and Path Forward partnerships, but none reports participants or dollars to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 2: the specific current activities, multilingual customer support and pay equity reviews, are limited in reach with no figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own innovation; the customers are large enterprises and governments, and there is no service or program enabling founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 (targeted) section was empty, so no MD&A paragraphs matched the theme terms. Excluded as traps or non-qualifying: 'Innovation' core value and 'innovative' language; 'state-of-the-art'-style technology claims; 'identity' meaning identity management; the 'foundation' and 'community' used for the product architecture and developer community; 'collaboration' among partners and system integrators; sales in more than 65 countries and 35% non-US revenue (international sales alone don't count); and customer 'education communications' (marketing). Employer awards and engagement-survey statistics (80% participation, 82% satisfaction) are recognition, not activities. Pay equity reviews (E8) are a borderline fit for Cross-cultural, but the score of 2 holds on E7 alone. Sailanthropitch donates to charities, not businesses, so it is not counted for Entrepreneurship. The E5 and E6 quotes run slightly over 40 words because they are kept as complete sentences.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"SAIL\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Content marketing, blogs, bylines and an annual thought-leadership report produced to support sales\",\"quote\":\"Our awareness and educational efforts focus on brand campaigns, digital and content marketing, public and analyst relations, social media engagement and influencer relations, and thought leadership such as our annual Horizons of Identity Security Report, market research, blogs, and bylines.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sales and Marketing > Marketing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work (marketing content) used only as a routine business input\"}}},{\"id\":\"E2\",\"activity\":\"Sail-U early-career program with structured training for new staff\",\"quote\":\"Our Sail-U program brings early career talent to our organization, where we provide them with the environment to learn and grow via structured training opportunities, engagement with leaders across the organization, and peer networking.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees, Culture, and Values\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Values-based leadership training for managers\",\"quote\":\"Our leaders go through specific training to ensure they are leading their teams with our values at the forefront of the decisions they make.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees, Culture, and Values\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E4\",\"activity\":\"Annual Sailanthropitch program where employees vote to direct financial donations to charities\",\"quote\":\"For more than seven years, we have run an annual “Sailanthropitch” program, where charities deliver a Shark-Tank-style presentation about their organization.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees, Culture, and Values\",\"status\":\"current\",\"indicators\":\"more than seven years running; no dollar amounts or participant numbers disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific named, ongoing community giving program with no disclosed reach\"}}},{\"id\":\"E5\",\"activity\":\"SailPoint Cares employee volunteering and giving program focused on STEM & tech, crew engagement and education\",\"quote\":\"Our SailPoint Cares program, which started as an opportunity to bring cross-functional crew together in different regions, has grown significantly in recent years, providing opportunities for teams to get together and donate their time and resources to support good causes across three core pillars: STEM & tech, crew engagement, and education.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees, Culture, and Values\",\"status\":\"current\",\"indicators\":\"three core pillars; no participant, hour or dollar figures disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific named volunteering program, reach not quantified\"}}},{\"id\":\"E6\",\"activity\":\"Partnerships with Path Forward, SkillBridge and Code2College supporting returning caregivers, service members and students who lack access to STEM careers\",\"quote\":\"We also forge partnerships to increase our impact—whether through Path Forward, which supports caregivers who are returning to the workforce, SkillBridge, which connects returning service members to job training opportunities, or Code2College, which enables students who might not normally have access or exposure to exploring a career in STEM to gain hands-on experience in a paid internship.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees, Culture, and Values\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education and workforce-reentry partnerships, reach not quantified\"}}},{\"id\":\"E7\",\"activity\":\"Customer support delivered in multiple languages through support partners\",\"quote\":\"Our customer support organization has global capabilities, a deep expertise in our solutions, and, through select support partners, is able to deliver support in multiple languages.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Professional Services and Customer Support > Customer Support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: customer support in several languages, reach not quantified\"}}},{\"id\":\"E8\",\"activity\":\"Pay equity reviews conducted during merit planning\",\"quote\":\"Our annual performance review process allows team members to engage in meaningful discussions with their managers about their performance and development goals, and we also conduct pay equity reviews during our merit planning process.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees, Culture, and Values\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific internal fairness practice with no disclosed figures\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: SailPoint sells identity security software and uses creative work only as a routine input (marketing content), and 'creative solutions' in its values is general language.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 2: there are several specific current programs, including employee training, the named Sailanthropitch and SailPoint Cares giving programs, and Code2College, SkillBridge and Path Forward partnerships, but none reports participants or dollars to show substantial reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\",\"E8\"],\"reason\":\"Level 2: the specific current activities, multilingual customer support and pay equity reviews, are limited in reach with no figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own innovation; the customers are large enterprises and governments, and there is no service or program enabling founders or small businesses.\"}},\"notes\":\"The Item 7 (targeted) section was empty, so no MD&A paragraphs matched the theme terms. Excluded as traps or non-qualifying: 'Innovation' core value and 'innovative' language; 'state-of-the-art'-style technology claims; 'identity' meaning identity management; the 'foundation' and 'community' used for the product architecture and developer community; 'collaboration' among partners and system integrators; sales in more than 65 countries and 35% non-US revenue (international sales alone don't count); and customer 'education communications' (marketing). Employer awards and engagement-survey statistics (80% participation, 82% satisfaction) are recognition, not activities. Pay equity reviews (E8) are a borderline fit for Cross-cultural, but the score of 2 holds on E7 alone. Sailanthropitch donates to charities, not businesses, so it is not counted for Entrepreneurship. The E5 and E6 quotes run slightly over 40 words because they are kept as complete sentences.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 27252,
+      "output_tokens": 5668,
+      "duration_ms": 49449
+    }
+  ]
+}

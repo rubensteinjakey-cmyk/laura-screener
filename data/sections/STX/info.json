@@ -1,0 +1,41 @@
+{
+  "ticker": "STX",
+  "accession_number": "0001137789-26-000159",
+  "filing_date": "2026-08-04",
+  "fiscal_year": 2026,
+  "full_text_words": 52080,
+  "sections": {
+    "item1": {
+      "words": 3772,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          3772
+        ]
+      }
+    },
+    "item7": {
+      "words": 4492,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          4492
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 199,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 205
+    }
+  },
+  "notes": [],
+  "human_capital_words": 480,
+  "human_capital_found": true,
+  "people_paragraph_words": 390
+}

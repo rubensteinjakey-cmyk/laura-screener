@@ -1,0 +1,43 @@
+{
+  "ticker": "CRM",
+  "accession_number": "0001108524-26-000060",
+  "filing_date": "2026-03-02",
+  "fiscal_year": 2026,
+  "full_text_words": 61163,
+  "sections": {
+    "item1": {
+      "words": 6193,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          6193,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8288,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8288,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 258
+    }
+  },
+  "notes": [],
+  "human_capital_words": 864,
+  "human_capital_found": true,
+  "people_paragraph_words": 2052
+}

@@ -1,0 +1,43 @@
+{
+  "ticker": "DXCM",
+  "accession_number": "0001093557-26-000027",
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "full_text_words": 83328,
+  "sections": {
+    "item1": {
+      "words": 15342,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          15342,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 5061,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          5061,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 158,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 2,
+      "paragraphs_total": 161
+    }
+  },
+  "notes": [],
+  "human_capital_words": 944,
+  "human_capital_found": true,
+  "people_paragraph_words": 1398
+}

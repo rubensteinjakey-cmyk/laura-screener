@@ -1,0 +1,43 @@
+{
+  "ticker": "SCCO",
+  "accession_number": "0001104659-26-021492",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "full_text_words": 107512,
+  "sections": {
+    "item1": {
+      "words": 8273,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          8273,
+          5
+        ]
+      }
+    },
+    "item7": {
+      "words": 13661,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          13661,
+          15
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 1221,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 19,
+      "paragraphs_total": 1816
+    }
+  },
+  "notes": [],
+  "human_capital_words": 4492,
+  "human_capital_found": true,
+  "people_paragraph_words": 2108
+}

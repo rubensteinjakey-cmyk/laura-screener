@@ -1,0 +1,45 @@
+{
+  "ticker": "MLI",
+  "accession_number": "0000089439-26-000008",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "full_text_words": 39799,
+  "sections": {
+    "item1": {
+      "words": 2267,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          2267,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 27632,
+      "source": "10-K (referenced section)",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          47,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 140,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 1245
+    }
+  },
+  "notes": [
+    "item7: 10-K section is only 47 words with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (27,578 words)"
+  ],
+  "human_capital_words": 427,
+  "human_capital_found": true,
+  "people_paragraph_words": 164
+}

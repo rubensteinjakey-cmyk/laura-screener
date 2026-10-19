@@ -1,0 +1,401 @@
+ITEM 1. BUSINESS
+
+Overview
+
+SailPoint, Inc. (together with its consolidated subsidiaries, as appropriate, “SailPoint,” the “Company,” “our,” or “we”) delivers solutions to enable adaptive identity security for the enterprise. We do this via the SailPoint Platform that unifies identity data across systems and identity types, including employee identities, non-employee identities, machine identities, and AI agents for real-time governance. Our SaaS and customer-hosted offerings leverage intelligent analytics to provide organizations with critical visibility into which identities currently have access to which resources, which identities should have access to those resources, and how that access is being used. Our solutions enable organizations to establish, control, and automate policies that help them define and maintain a robust security posture and achieve regulatory compliance. Powered by AI, our solutions enable organizations to overcome the scale and complexity of managing identities in real-time across dynamic, complex IT environments.
+
+The evolving threat landscape requires a more adaptive, context-aware identity security approach than ever before. The number of cyber attacks continues to increase at an accelerating rate, fueled in part by the adoption of AI by threat actors. This has lowered the barrier for sophisticated attacks and enabled threat actors to scale their efforts with unprecedented efficiency. The consequences are significant, and the attack surface has expanded dramatically with the rapid growth of non-human identities in recent years, which now vastly outnumber human identities. Every AI agent and automated process requires an identity to access data and systems, creating thousands of new potential targets for attackers that often operate outside of traditional security processes. These compromised identities, both human and non-human, enable attackers to access sensitive applications and data, presenting a significant and growing risk to organizations.
+
+A fundamental shift, driven by the proliferation of AI, is reshaping the IT environment and expanding the complexity of digital identities organizations must manage. This complexity arises from the convergence of three dimensions: the identities themselves, the systems and data they access, and the risk level of that access. Identities have expanded beyond human users to include a rapidly growing number of non-human identities like AI agents and machines. These identities require access to sensitive data distributed across complex multi-cloud environments, and how they access these resources has become increasingly dynamic. This new reality makes traditional, static security insufficient. Instead, an adaptive security layer is needed that understands the context between every identity, data asset, and access attempt. These challenges, compounded by a widening cybersecurity skills gap and increasing regulatory pressures, create a clear demand for more effective identity security solutions.
+
+We believe that providing this adaptive layer of identity security is fundamental to securing the modern enterprise. We pioneered the market for enterprise identity governance and have evolved our solutions to address these complex, converging dimensions of enterprise security. The SailPoint Platform is designed to deliver deep, rich, and real-time identity context, enabling organizations to effectively secure their business and data.
+
+During our 20-year history, we have continuously evolved our offerings to address the most pressing challenges in identity security. We offer multiple identity solutions to meet the diverse needs of our customers across a full range of deployment options. The SailPoint Identity Security Cloud is built on our unified platform and enables organizations to consume our identity solution as a SaaS offering. It delivers the critical elements needed to build, maintain, and scale a strong enterprise-class identity security environment. IdentityIQ is our customer-hosted identity security solution and meets the needs of organizations that are not able or ready to implement a SaaS solution.
+
+Together, our solutions address nearly all types of enterprise identities, including both human and non-human identities and their access to many types of enterprise resources, spanning data and applications. This enables smarter access decisions, improves business processes, and delivers a deeper understanding of identity and access across the enterprise.
+
+Our solutions are underpinned by several key differentiators:
+
+•The foundation: Deep identity context
+
+We map the complex relationships between different types of identities, including humans, machines, and AI agents and the applications, entitlements, and sensitive data they can access. This creates a single source of truth for identity, which we believe is the essential bedrock for building an effective security strategy.
+
+•The intelligence layer: AI-driven governance
+
+SailPoint enriches this foundational data with a powerful layer of artificial intelligence and decades of governance expertise. This transforms raw data into actionable security insights. Key capabilities include providing AI-driven recommendations to automate and improve access decisions.
+
+•The outcome: Real-time & adaptive identity security
+
+Building on the foundational context and AI-driven intelligence, SailPoint's vision is to deliver the next generation of identity security that not only manages identity but actively and autonomously defends the enterprise in real-time through advanced capabilities like securing modern AI and machine identities and integrating identity information directly with security operations.
+
+Our customers include many of the world’s largest and most complex organizations, including large enterprises across all major verticals and governments. Our go-to-market approach consists primarily of tailored customer engagement strategies by market segment, which we believe is critical to ensuring successful implementation and ongoing customer success. Most new customers purchase one of our SaaS suites. We focus on expanding our customer relationships over time with significant up-selling and cross-selling opportunities, including suite upgrades and additional products.
+
+Our Growth Strategy
+
+Drive New Customer Growth
+
+We believe we have a significant opportunity to accelerate the growth of our customer base as countless organizations still use a combination of legacy solutions and home-grown tools. We estimate that over 60% of organizations in our target market still have a fragmented identity experience or use a mostly manual process based on our internal research. To continue to grow our customer base, we intend to enhance our marketing efforts, increase our sales capacity and productivity, and expand and further leverage our use of channel partners.
+
+Expand Existing Customer Relationships
+
+Our customer base of approximately 3,235 organizations, as of January 31, 2026, provides significant expansion opportunities. The evolving threat landscape, increasing complexity of the IT environment, and number and scope of identities require a more comprehensive identity security approach than ever before. As our customers adopt new technologies such as AI, continue to add non-employee and machine identities, and implement more comprehensive identity security strategies, we see a substantial opportunity to increase our relationships with existing customers through the increased adoption of our solutions. We have invested in enhancing our solutions by organically and inorganically adding new capabilities, including securing and managing agents and machines, identity graphs for context, data access governance, and application onboarding and management.
+
+Continue to Leverage and Expand Network of Partners and Alliances
+
+Our go-to-market partners and alliances help us extend our reach, serve our customers more effectively, and expand our addressable market. We see a significant opportunity to increase the number of customers we can serve through our systems integrator and managed service provider ("MSP") partnerships. Additionally, our technology alliance partners help us extend our reach throughout a customer’s IT environment with integrations with products like Amazon Web Services ("AWS"), Proofpoint, SAP, and ServiceNow.
+
+Expand our Global Footprint
+
+Today, we offer our solutions in more than 65 countries. During the fiscal years ended January 31, 2026 and 2025, we generated 35% and 32%, respectively, of our revenue from outside of the United States. We believe there is a significant opportunity to deepen our existing global footprint and drive incremental sales and new client acquisitions in new territories by leveraging our existing relationships with global system integration and channel partners.
+
+Continue to Innovate and Expand Our Portfolio
+
+As a recognized leader and innovator in identity security, we actively work to define the future of the market and deliver the next generation of identity security. We have strategically expanded our pioneering portfolio with the recent launch of innovative capabilities: agent identity security, observability and insights, and universal privilege features. Our commitment to innovation is further demonstrated by our significant investment in AI. This dual-pronged strategy enhances our own solutions with intelligent capabilities while simultaneously empowering our customers to adopt and secure their own AI initiatives with confidence.
+
+Our Products
+
+Identity Security Cloud
+
+Identity Security Cloud is our cloud-based identity security solution, which allows organizations to centrally discover, manage, and secure all enterprise identity types, and the data and cloud infrastructure associated with them. This offering is built on the SailPoint Platform, our unified, extensible, multi-tenant SaaS platform. SailPoint Atlas is the intelligent foundation of the SailPoint Platform, engineered to unify identity, data, and security intelligence for comprehensive identity security. It provides the core services that connect every identity, entitlement, and risk signal across the enterprise. It powers Identity Security Cloud and its advanced capabilities by bringing together AI, automation, and a scalable architecture to centrally discover, manage, and secure all identity types across enterprise applications, data, and infrastructure.
+
+The SailPoint Platform enables Identity Security Cloud to unify several capabilities into a single pane of glass and is extensible to allow for the development of new capabilities and modules over time. Throughout our SaaS transformation, we were intentional in taking a longer and more expensive path, decomposing logic that held key intellectual property and rebuilding those same components in a new scalable micro-services-based architecture, to ensure our ability to maximize customer value into the future.
+
+The platform is designed to utilize AI to enable rapid development and easy integration into new capabilities, acquired technologies, and customer environments. After our significant investment, we have developed our Identity Security Cloud solution to meet the most stringent identity governance requirements and provide enterprise-grade service that meets our customers scalability, performance, availability, and security demands.
+
+Our Identity Security Cloud features a set of fully integrated capabilities, including:
+
+•Lifecycle Management: Automates the entire identity journey, from day one and beyond. We streamline access with Automated Provisioning based on user lifecycle events and roles, while our self-service portal allows users to request access with configurable approvals. To drive smarter, faster decisions, our platform provides AI-powered Access Recommendations based on peer group analysis and leverages generative AI to generate clear, easy-to-understand descriptions for technical entitlements. With our offerings, business users can actively change user access through automatic provisioning via a large library of direct connectors for thousands of applications such as Workday and SAP or synchronization with IT service management solutions such as ServiceNow.
+
+•Compliance Management: Supports the improvement of compliance and audit performance while lowering costs related to compliance professionals and regulatory expenses. It provides user friendly access certifications and automated policy management controls, such as segregation of duty violation reporting, that are designed to simplify and streamline audit processes across all applications and data. With built-in audit reporting and analytics, IT, business, and audit teams now have critical visibility into, and management over, all compliance activities in the organization.
+
+•Access Modeling: Enables customers to quickly create and implement enterprise roles to support a least privilege model, providing a smarter way to build, maintain, and optimize roles with continual adjustment of access across the organization. Through core features such as common access roles, role discovery and insights, and peer group analysis, our AI-based capability allows organizations to grant access on a strictly as-needed basis, developing effective access models that support appropriate business user access without compromising security.
+
+•Analytics: Leverages AI to turn vast quantities of data including attributes, roles, and history into actionable insights to make better decisions faster, spot risky access sooner, and improve overall business security. In addition to tracking, reporting, and gauging the value of an organization’s identity security program, this capability provides an audit trail
+
+and complete visibility into access changes and historical information on entitlements, roles, and governance. With our analytics offering, customers can view activity data at the application level, compare usage with peers, and discover identities with access anomalies.
+
+•Harbor Pilot suite of AI agents: Streamlines identity security operations by translating natural language into powerful actions. The Admin Search Agent enables administrators to ask complex questions and receive real-time insights about security risks and compliance within their environment. Similarly, the Documentation Agent allows any user to find precise answers instantly from a vast repository of documentation and policies. To accelerate automation, the Workflows Agent leverages simple prompts to expertly build sophisticated workflows, which administrators can then review and implement with ease.
+
+In addition to the core integrated capabilities, organizations can extend the value of our Identity Security Cloud with additional products, including:
+
+•SailPoint Agent Identity Security: Delivers comprehensive governance, compliance, and security outcomes for AI agents, enabling organizations to aggregate and discover identities from various platforms, assign ownership, and certify and govern those identities within a single platform. SailPoint Agent Identity Security (“AIS”) is designed to govern the new AI workforce from the ground up. With AIS, customers can gain the confidence to innovate, knowing that every identity, whether human, machine, or AI, is secured under one comprehensive identity platform.
+
+•Machine Identity Security ("MIS"): Enables organizations to achieve governance, compliance, and security outcomes for machine accounts. With MIS, organizations can discover, classify, assign, certify, and oversee ownership of service accounts, bots, and other machine accounts with minimal configuration adjustments and without extensive manual processes. MIS consolidates the securing of machine accounts to allow for full lifecycle coverage and reduces the risk of orphaned or unmanaged accounts. With an intuitive interface, MIS can assign human owners, periodically and consistently review configuration, and enhance compliance across the IT infrastructure while safeguarding critical systems.
+
+•SailPoint Observability & Insights: Enables enterprises to move from raw data to contextual insight, providing clarity into access relationships across the business. With advanced visualization, enriched metadata, and powerful analysis features, organizations can confidently govern identity access, reduce exposure, and respond faster to threats. SailPoint Observability & Insights delivers a continuous, interactive view of identities, entitlements, and access relationships. It helps organizations improve identity hygiene, spot risky access paths, and strengthen governance through graph visualization and contextual metadata. It bridges the gap between identity and security teams by providing clarity into who has access to what and how.
+
+•SailPoint Accelerated Application Management: An intelligent, scalable solution for application governance that gives enterprises immediate visibility into application landscapes and reduces reliance on application owners and IT teams without long implementation cycles.
+
+•Non-Employee Risk Management: Enables organizations to streamline the administration of non-employee identity lifecycles to enhance third-party security and data integrity and support regulatory compliance. Our Non-Employee Risk Management offering implements comprehensive risk-based identity access for all third-party non-employee identities, including contractors, partners, and vendors. SailPoint Non-Employee Risk Management extends advanced identity security controls to provide visibility and security into the complex and dynamic lifecycles of non-employee identities. The module features flexible workflows and customizable forms to streamline process and enable seamless collaboration between internal and external parties.
+
+•Data Access Security: Secures access to the growing amount of unstructured data stored in cloud storage systems to empower organizations to discover, govern, and secure crucial unstructured data and protect it from critical security risks. Designed as an integrated SaaS solution with Identity Security Cloud, our Data Access Security offering delivers enhanced intelligence on critical data to improve data security posture, reduce risk, and streamline compliance efforts. With this offering, security teams are able to proactively uncover and remediate hidden data risks with automated data discovery and classification, built-in governance workflows, and out-of-the-box governance policies, increasing their productivity and radically improving their visibility into pivotal organization data.
+
+•Password Management: Provides business users an intuitive, self-service experience for managing and resetting passwords from any device and from anywhere, reducing the reliance on IT and security staff, and enforcing greater
+
+password security. Our Password Management offering enforces consistent and secure password policies for all users across all systems from the cloud to the data center by detecting password changes initiated outside of the Identity Security Cloud and synchronizing them to maintain a stronger organization-wide password security posture. Offering a self-service model, business users are able to reset, change, or recover passwords, allowing them to stay connected and productive while enhancing the security of the broader organization.
+
+•Access Risk Management: Enables organizations to eliminate fraud, optimize compliance processes, and ensure audit readiness by unifying identity security controls and Separation of Duties monitoring across enterprise resource planning ("ERP") and other apps in the business ecosystem. Our offering effectively centralizes access risk governance by providing seamless GRC integration and extensive enterprise visibility to forecast and prevent Separation of Duties violations across an organization’s ERP systems such as SAP. With Access Risk Management, organizations can automate access reviews, document risk mitigation controls, oversee emergency access, conduct proactive risk simulations, and effortlessly maintain compliance to reduce audit deficiencies and breaches.
+
+•Cloud Infrastructure Entitlement Management ("CIEM"): Empowers organizations to extend identity security to their cloud infrastructure, including AWS, Google Cloud Platform, and Microsoft Azure, to ensure compliance and security throughout their entire technology ecosystem. CIEM enables customers to discover, manage, govern, and remediate enterprise cloud infrastructure access with a single approach, gaining deeper understanding of their cloud resources and better visibility into their business user’s cloud privileges. Leveraging AI, CIEM enables cloud resource entitlement permissioning, not only on an access level, but on an action level, determining a business users' ability to read, write, and administrate cloud data.
+
+•Privileged Task Automation: Enables organizations to automate and delegate the execution of repeatable privileged tasks. Privileged task automation (“PTA”) allows users to execute common privileged tasks without sharing privileged credentials or the need for a privileged session by providing a centralized repository, low-code automation, and out-of-the-box templates for privileged task workflows. With PTA, organizations can reduce their reliance on advanced privileged access capabilities and empower general IT staff to provide better service, accelerate adoption, and improve productivity.
+
+•SailPoint Application Onboarding: A capability for Identity Security Cloud that uses AI-driven recommendations to quickly apply core identity security functionality to enterprise applications.
+
+IdentityIQ
+
+IdentityIQ is our customer-hosted identity security solution providing large, complex customers, who are highly interested in data localization in territories where we do not host our cloud software, a unified and highly configurable identity security solution. While many organizations have migrated to a cloud hosted solution for the majority of their enterprise software needs, we recognize there is a limited set of customers who remain in need of a self-hosted solution and maintain our IdentityIQ solution to continue to provide service for those customers. IdentityIQ consistently applies business and security policies as well as role and risk models across applications and data on premises or hosted in the cloud. IdentityIQ allows organizations to empower users to request and gain access to enterprise applications and data while managing compliance using automated access certifications and policy management.
+
+Similar to our Identity Security Cloud offering, we package and price IdentityIQ into capabilities with unique functionality, including:
+
+•Lifecycle Manager
+
+•Compliance Manager
+
+•Connectors and Integrations: Provides organizations with the ability to connect to applications, mainframes, cloud infrastructure, and data sources from across a hybrid IT environment to centrally manage and control access, enforce consistent policies, and understand risks. Connectivity to additional mission-critical software and systems provides essential visibility into an organizations entire IT ecosystem and provides our IdentityIQ customers with the integrated functionality necessary to effectively address the vast number of applications incorporated into the modern enterprise stack.
+
+In addition to the core IdentityIQ capabilities, organizations can extend the value of the solutions with additional products, including:
+
+•File Access Manager: Secures access to the growing amount of data stored in file servers, collaboration portals, mailboxes, and cloud storage systems to equip organizations with the ability to quickly identify and mitigate compliance and data risks. File Access Manager helps organizations identify where sensitive data resides, who has access to it, and how they are using it—and then puts effective controls in place to secure it. By augmenting identity data from structured systems with data from unstructured data targets, organizations can more quickly identify and mitigate risks, spot compliance issues, and make the right decisions when granting or revoking access to sensitive data. Packaged and priced by target storage system, our File Access Manager product provides core capabilities such as data discovery and classification, policy controls, risk remediation, and compliance automation.
+
+•SailPoint AI: Proactively provides visibility at speed and scale to determine access needs and potential security breaches associated with risky access policy to optimize security management. Our SailPoint AI capability is built to provide our IdentityIQ customers with additional AI features, such as recommendations and role discovery, by leveraging elements of our platform to streamline management.
+
+Technology
+
+Our organization has invested significant time and effort to remain a pioneer in innovation, continually emphasizing sophisticated and differentiated solutions to provide the best outcome for our customers. Our team has been highly intentional in our approach in addressing customer needs and have leveraged our extensive knowledge in advanced technology to address these in a differentiated and optimized manner. As the regulatory conditions evolve, and the threat environment introduces new demands and requirements, we view our technology as fundamental to the competitive advantage we hold in the market and our ability to maintain this moat in the future.
+
+The SailPoint Platform
+
+SailPoint delivers a security platform engineered to unify identity, data, and security intelligence in real time. This integrated context is what enables adaptive identity with the ability to continuously adjust access and security decisions in response to threat signals, context, and business dynamics.
+
+At its core, our vision for the SailPoint Platform embodies six design principles that we believe define modern identity security:
+
+•Identity-first, data-first: Every access decision is informed by integrated identity and data context.
+
+•Unified Context: A single platform where human and digital identities, policies, and data all interconnect through one data model and one graph as needed.
+
+•AI as a Core Fabric: Machine learning drives entitlement classification, privilege definition, and informed decision making.
+
+•Just-in-time and real-time: Access is dynamic, as needed, and risk-aware, shifting away from static, standing privilege.
+
+•Security In-Line: Identity context flows directly into the security operations center for proactive detection and rapid response.
+
+•Robust extensibility: SailPoint’s robust extensibility layer uses event triggers, APIs, and shared signals to automate access decisions, enforce policy, detect issues early, and reduce identity risk across systems.
+
+SailPoint Atlas is the intelligent foundation of the SailPoint Platform, engineered to unify identity, data, and security intelligence for comprehensive identity security. It provides the core services that connect every identity, entitlement, and risk signal across the enterprise. It powers Identity Security Cloud and its advanced capabilities, enabling organizations to establish a robust and automated identity security posture.
+
+By leveraging a unified data model, advanced AI services, and a powerful policy engine, Atlas provides the identity context necessary to move from static controls to dynamic, adaptive governance. It fortifies enterprises by strengthening access
+
+controls with unique insights and simplifying governance, ensuring security, efficiency, and adaptability in a dynamic digital landscape. Common services include:
+
+•Connectivity: Connect the entire ecosystem with tens of thousands of integrations that extend identity context across hybrid environments, enabling centralized visibility, management, and control of access.
+
+•Extensibility: Extends identity security across the ecosystem with SailPoint’s extensible framework—connecting HR, ITSM, IaaS, and SIEM systems through APIs and event triggers to automate workflows, enhance visibility, and strengthen the security posture.
+
+•Data Model: Creates a connected data fabric that normalizes identity, entitlement, and risk data. This establishes a single source of truth for identity context, eliminating silos and powering AI-driven insights.
+
+•AI Services: Embeds AI and machine learning to analyze patterns, provide entitlement descriptions, detect anomalies, and drive intelligent access recommendations, continuously improving governance accuracy.
+
+•Workflow Infrastructure: Automates complex identity lifecycle processes, from onboarding to offboarding, through no-code, configurable workflows and adaptive, multi-step approvals.
+
+•Security Infrastructure: Enables dynamic, real-time coordination between identity and security ecosystems. By integrating with SIEM, SOAR, and other security tools, it facilitates automated, identity-centric threat response actions.
+
+•Privilege Infrastructure: Enables discovery and real-time control of privilege across all identities.
+
+•Policy Engine: Enables consistent, dynamic enforcement of intuitively defined rules and conditions in real time across a wide variety of features including SoD, access request and approval, certifications, non-employee risk management, and privilege access including just-in-time access.
+
+•Insights and Reporting: Turns identity data into actionable insights to make better decisions faster, spot risky access sooner, & maintain an optimized access model for better security.
+
+Unified Data Model
+
+The Identity Cube is a key element of our data layer, providing a 360-degree view on every identity. The Identity Cube provides a complete view of each identity, including attributes, entitlements, access rights, and risk scores. It is extensible by the customer to include data attributes that are relevant specifically to their organizations.
+
+In an on-premise deployment scenario, the Identity Cube is a part of every IdentityIQ installation. As user data and other attributes are aggregated from enterprise HR systems, directories, and the like, the Identity Cube is populated. From there, core life cycle functions such as provisioning new accounts for users can be accomplished. The Identity Cube is an integral part of the product, not an add-on or optional module.
+
+In a customer-hosted deployment scenario, the Identity Cube is also a part of every implementation and functions in the same way. The difference is architectural, with the Identity Security Cloud version of the Identity Cube being optimized for a multi-tenant, cloud native architecture. In addition, in the SaaS deployment scenario, there are additional data facilities available that, when combined with the Identity Cube, represent our unified data model.
+
+In both scenarios, the Identity Cube utilizes insights of the complex dependencies between identities, applications, data, and activities to create specialized data models that understand the effective access of an identity, patterns, and the potential risk level, whether in the cloud or customer-hosted. The connective, scalable, configurable, and automated nature of our Identity Security Cloud and IdentityIQ solutions allows us to secure identities for the most complex global organizations across all industries with AI-based security tools that provide comprehensive, scalable, and fast identity security to solve the needs of modern organizations.
+
+The operational data derived from the data layer is organized into structured tables that represent real-world entities and their relationships. SailPoint’s account correlation, orphan account management, and risk scoring capabilities allow security professionals and business managers to track who has access to what and how often they use it and to rectify risky or dated
+
+access. With the help of Identity Cube’s context and the data layer, operational and security systems can make informed decisions about access and perform key remediation and change requests on our identity platform via our standardized application program interfaces and software development kits.
+
+Both our Identity Security Cloud and IdentityIQ offering leverage highly advanced technology, AI, and ML to maximize the value received by our customers and streamline their operations to provide a stronger identity security posture. We at SailPoint recognize the critical opportunity AI represents to the most scaled and complex enterprise organizations and are committed to partnering with our customers to continue to provide solutions incorporating these advanced technologies to improve identity security at enterprise scale. Our AI based solutions process petabytes of data daily and are scalable, adaptable, and cost-efficient and provide customers with enhanced detection, improved accuracy and efficiency, and an enhanced user experience that enable them to make better decisions faster. Our innovation and experience in this space is demonstrated not only by recently developed products, but by a track record of successful AI-based offerings brought to market over the course of the last several years. Four major areas of capabilities form our AI layer as well as several distinct AI-based applications:
+
+•Recommendations: Our intelligent AI-based recommendations streamline account creation, access requests based on user roles and organizational policies, and access certifications. This functionality helps both requestors and approvers make better decisions and ensures access rights are regularly reviewed and validated, significantly reducing organizational risk.
+
+•Discovery: Our discovery capabilities automatically identifies and creates roles based on the actual access patterns of users, simplifying role creation and identifies access patterns to highlight potential security risks or misconfigurations. Launched in 2020, our Access Modeling offering based on the discovery engine significantly reduces the time required to build an organization’s access model, and just as importantly, keep it up to date through role and peer group discovery, low similarity outlier analysis, and common access creation.
+
+•Assistant: Our assistive technologies drive user engagement and seamless experiences with large language models. In 2023, we launched our generative AI entitlement descriptions, which address one of identity security’s pain points by automatically generating descriptions of application entitlements. Given the significant additional workload associated with description creation, many entitlements across the modern organization remain without a description, increasing the difficulty in determining the validity and necessity of requests or approvals.
+
+•Automation: Our automation capabilities streamline the onboarding of new applications by provisioning access and managing compliance related activities. This functionality significantly reduces the amount of time required to onboard the “long tail” of applications onto the Identity platform, accelerating ROI, decreasing time to value for customers, and improving security posture at the same time.
+
+Our AI layer utilizes a combination of open-source models that have been customized for our use cases, proprietary models, and third-party models hosted by third-party subprocessors. To mitigate potential risks of inaccuracy and algorithmic hallucinations resulting from our use of AI, we employ our ML platform to evaluate trained models against benchmark and real customer data prior to deployment and to monitor model predictions. We also incorporate human-in-the-loop into our processes, including with entitlement descriptions, to detect incorrect predictions and improve the model.
+
+Extensibility and Low-Code/No-Code Automation
+
+Our solutions provide flexible low-code workflows and no-code forms to extend our products. Customers have used our interactive drag-and-drop workflows to create processes that are executed millions of times a month to meet the unique needs of their business processes. For customers who need deeper customization, or bespoke integrations with other enterprise systems, our offerings provide a robust set of application programming interfaces ("APIs") and software development kits (“SDKs”), supported by a vibrant developer community and Developer Relations team. Customers can browse community-contributed extensions and add them to their existing solution.
+
+Connector Library and Ecosystem
+
+Our solutions offer connectivity to over 1,200 applications through their extensive connector library. In addition, customers have used this same library to connect to over 25,000 custom applications. Our solutions leverage AI technology to automatically map application data models to the SailPoint Identity Cube, dramatically reducing the “long tail” of application integration efforts that typically hinder identity deployments.
+
+Multitenant SaaS Architecture
+
+Our microservices-based SaaS model, coupled with our low-code/no-code capabilities and our abstracted SDKs means that customers can customize the Identity Security Cloud while always running the latest code—without the need to test new versions or re-implement changes. Competitors who have deployed single-tenant models still require customers to schedule upgrade windows and delay code pushes, which drives total cost of ownership.
+
+Customers
+
+We have a diverse global customer base with approximately 3,235 organizations in more than 65 countries as of January 31, 2026. Our customers include leading organizations in a diverse set of industries including financial services, media, energy and utilities, technology, life sciences, and healthcare, as well as government agencies and public universities and represent 53% of the Fortune 500 and 29% of the Forbes Global 2000.
+
+Our business is not dependent on any particular customer, and no customer accounted for more than 10% of our revenues for the year ended January 31, 2026, 2025, and 2024.
+
+Research and Development
+
+Innovation is one of our core values, and it is at the heart of how we think and do business. We believe ongoing and timely development of new products and features is imperative to maintaining our competitive position. We have taken a global approach to building a robust research and development team, with engineers and team members located in the United States as well as internationally across India, Mexico, Israel, the United Kingdom, and Canada. Along with our global approach, we also staff our research and development team with both experienced industry engineers and the next generation of talent well versed in advanced technology and AI development. As of the year ended January 31, 2026, 2025, and 2024, our research and development expenses totaled approximately $223.0 million, $169.7 million, and $180.8 million, respectively. Additionally, we have been, and will continue to be, deliberate and programmatic in leveraging technology acquisitions.
+
+Sales and Marketing
+
+Sales
+
+We sell our solutions primarily through our direct sales organization, which is comprised of field and digital sales personnel, as well as through channel partners. Our sales force is structured by geography, customer size, status (customer or prospect), and industry verticals including healthcare, public sector, and government. Each segment is managed by specialized teams equipped with tailored strategies to meet unique customer needs. The sales team focuses on complex, high-value deals, often involving multi-layered decision-making processes. We service the market through a global sales force, utilizing both direct and indirect selling motions to maximize reach and effectiveness. Our direct sales teams engage with customers to deliver comprehensive identity security solutions, while our channel partners expand our market presence and provide additional value through localized expertise and support. Multiple routes to market enable us to effectively penetrate diverse markets and address varying customer needs.
+
+Our market segmentation strategy is designed to align our selling capacity with the highest-value market opportunities. We focus on targeting segments that align with our ideal customer profiles, allowing us to deploy resources efficiently and effectively. This strategic alignment ensures that we concentrate our efforts on opportunities where our solutions provide the greatest impact, enhancing both customer satisfaction and our sales efficiency.
+
+As part of our selling engagements, we employ a consultative, playbook-based selling approach that emphasizes understanding the unique value our solutions bring to each customer. Our sales process includes developing thorough business cases and proofs of value, providing customers with a clear and prescriptive path to successful implementation. This method is supported by overlay resources, including technical specialists and forward deployed engineers who assist in the sales process, ensuring that our solutions are presented with the necessary technical depth and clarity.
+
+Identity security is regarded as essential business infrastructure and critical for securing complex identity environments. Customers initially invest in SailPoint to address their most pressing identity security use cases and expand their deployment over time to cover additional identity populations and use cases. This approach ensures that our solutions are integral to customers’ security strategies, fostering long-term relationships and continuous growth.
+
+Partners constitute an essential part of our selling model. We have established a model designed to create zero conflict, and typically include our partners in all of our training and enablement efforts. As a result, our indirect sales model, executed through our global and regional system integrators, technology partners, MSPs, and value-added resellers, is a key factor in our overall success.
+
+This integrated approach highlights our commitment to understanding and addressing the specific needs of our customers, delivering high-value identity security solutions, and continuously expanding our market presence through both direct and indirect channels.
+
+Marketing
+
+Our marketing charter is to be an AI-first, data-driven, and customer-obsessed team that relentlessly accelerates our growth and innovation. Our strategy is focused on the following core areas: driving strong global brand awareness and differentiation for us, leveraging digital and AI marketing tools to engage potential buyers and create a strong and targeted pipeline for our sales force, and helping our customers accelerate their adoption and success as their trusted partner. Our data-driven digital approach to marketing is tightly aligned to the needs of our addressable market and provides agility to leverage market opportunities in a targeted and timely fashion.
+
+Our marketing engine starts with developing a unique value proposition and differentiated messaging for our solutions to drive broad awareness, followed by activating demand and creating pipeline, all the way to accelerating adoption and time-to-value for our customers and driving renewals and advocacy:
+
+•Our awareness and educational efforts focus on brand campaigns, digital and content marketing, public and analyst relations, social media engagement and influencer relations, and thought leadership such as our annual Horizons of Identity Security Report, market research, blogs, and bylines.
+
+•Our pipeline generation and maturation efforts focus on efficiently engaging targeted accounts and maturing them through their buyer’s journey. Our programs include digital campaigns and webinars, Account Based Marketing (ABM), virtual/physical events such as Navigate and other conferences, and executive roundtables. We also work closely with our key partners to develop joint solutions, run joint go-to-market motions, and extend the reach to a broader spectrum of the targeted accounts and audience that our partners may have strong relationships with.
+
+•Our customer engagement efforts include customer onboarding and education communications, customer reference development, executive advisory boards, and community development and engagement.
+
+Our marketing programs are executed with a combination of centralized global initiatives and regional specific programs tailored to three major geographies: (i) the Americas, (ii) EMEA, and (iii) Asia-Pacific (“APAC”). Our typical audience includes IT and security professionals, including Chief Information Officers, Chief Information Security Officers ("CISOs"), and key identity decision makers, and has recently expanded to include key lines of business decision makers in finance, legal, HR, and accounting as identity security has become a greater strategic imperative. With the expansion of digital identities for agents and machines, we are also targeting new personas such as application owners and data and AI leaders.
+
+Every year we host our flagship user conference, Navigate, followed by a global conference roadshow to demonstrate our strong commitment to enabling our global customers to succeed, while also serving as an opportunity to create pipeline for new sales to prospective customers and additional sales to existing customers. In an effort to extend our thought leadership in the space, we also participate in several industry events, including RSA and Black Hat.
+
+Professional Services and Customer Support
+
+Professional Services
+
+We are focused on ensuring that our professional services partners, who perform most of the implementations for our customers, can implement our solutions successfully by developing and creating best practices. We provide “expert services” to partners and customers for complex implementation assistance. In certain cases, we lead direct customer implementations. We believe that our investment in professional services and in our partners drives increased adoption of our solutions.
+
+Customer Success Management
+
+Our customer success strategy centers around our investment in, and ownership of, the post-sale experience for our customers. Every customer and MSP has access to our team of Customer Success Managers (“CSMs”), whose goal is to help customers, and the partners that support them, achieve their desired return on investment and business results. Through proactive and regular engagements, the CSM team endeavors to keep every customer satisfied and help them use their SailPoint products or services optimally. When necessary, the CSM coordinates cross-departmental resources to remove any barrier to success. In addition, our customer success team utilizes customer data to identify and present any cross-sell or up-sell solutions aligned to a customer’s business objectives, thereby contributing to revenue expansion and increased product penetration. By proactively managing customer relationships, our CSM team nurtures client advocates, who become a powerful asset in closing new business.
+
+Customer Support
+
+Our customer support organization includes experienced, trained engineers who provide 24x7x365 support for critical issues. Customers receive contractual response times, telephonic support, and access to online support portals. Our customer support organization has global capabilities, a deep expertise in our solutions, and, through select support partners, is able to deliver support in multiple languages.
+
+Alliances and Strategic Relationships
+
+As a core part of our strategy, we have cultivated strong relationships with partners to help us increase our reach. We have developed a large partner network consisting of technology partners, system integrators, value-added resellers, and MSPs. In the year ended January 31, 2026, greater than 90% of our new customer transactions involved our partner network. We believe that our extensive partnership network enables us to provide the most complete identity security solution to our customers.
+
+Technology Partners
+
+The SailPoint Technology Alliance Program is a technology partnering network that leverages familiar standards and methods that make it easy to share identity context and configure identity-specific policies across disparate systems. Program offerings include access to SailPoint SDKs and APIs, developer support, and cloud-based certification services. The program comprises over 130 technology and implementation partners.
+
+We have partnered with industry leaders across a spectrum of technologies that enable organizations to integrate their entire security, mobility, cloud, and applications infrastructure into our platform so that breaches can be better identified, mitigated, and contained and operations can be streamlined. Solutions from companies such as AWS, Palo Alto Networks (CyberArk), Proofpoint, SAP, and ServiceNow that are plugged into our open identity platform through APIs provide our customers value-added capabilities to build an identity-aware enterprise.
+
+System Integrators
+
+We partner with many large and global system integrators including Accenture, Capgemini, Deloitte, KPMG, and PwC, as well as many regional system integrators. The focus of our system integrators program is to deliver pipeline growth and bookings, to help partners drive self-sufficiency, and to foster transparency and collaboration through shared assets and resources. We have implemented joint business controls and metrics that provide a platform for discussion and partnership development and help us optimize our program and unified value proposition.
+
+Value-Added Resellers
+
+Value-added resellers, such as CDW, GuidePoint, NetBR, Optiv, and Softcat, bring product expertise and implementation best practices to our customers globally. They provide vertical expertise and technical advice in addition to reselling or bundling our software. Many of our reseller partners have been trained to demonstrate and promote our identity platform. Our reseller channel ranges from large companies to regional resellers in our markets and territories. Our reseller program is designed to scale growth, help generate new opportunities, optimize customer experience, and increase profitability as well as sales efficiency.
+
+Managed Security Service Providers
+
+We partner with a growing number of MSPs, including Accenture, Simeio, Kommando, and MajorKey, to expand the reach of our direct sales organization. Our MSP channel augments our reach in market segments and territories. Our MSP partners offer our solutions, both packaged with a managed service and without. While this channel represents a small portion of our new annual recurring revenue ("ARR") today, we believe continuing to build out this channel will be a driver of growth.
+
+Employees, Culture, and Values
+
+Our core values are more than words on our website. They are a constant reminder that what we do for our customers is important, but how we do things is also critical. We call that doing things “the SailPoint way.”
+
+We strive to incorporate our “Four I” core values throughout the entire employee life cycle:
+
+•Innovation: We develop creative solutions to real customer challenges;
+
+•Integrity: We deliver on the commitments we make;
+
+•Impact: We measure and reward results, not activity; and
+
+•Individuals: We value every person.
+
+As an organization that continues to rapidly grow and evolve, we look for feedback from our crew to stay on course. Our annual “Crew’s Views” global employee engagement survey gives us the data we need to focus on areas where we can make the most impact. Over each of the last four years that we conducted the survey, employee participation exceeded 80% and overall team member satisfaction exceeded 82%. Externally, we’ve been recognized as an employer of choice for parents and millennials. Since November 2021, we’ve been a certified “Great Place to Work,” and we’ve been listed as a Best Workplace in Texas six years in a row. We’ve also been noted as a Best Workplace in Technology the past three years and have been featured on several other “Best Places to Work” lists, including Fortune, Built In, and Glassdoor.
+
+As we work to execute our growth strategy, we continue to invest in human capital resources that will sustain and fuel that growth. As of January 31, 2026, we had a total of 3,229 employees. While most organizations post-pandemic have reverted to requiring mandatory days in-office, we recognize that there’s no perfect one-size fits all solution. We have realized many benefits in allowing crew to continue working remotely, so we seek to provide them with flexibility and empower team leaders to get their crew members together when it makes sense. This approach supports crew wellbeing and reflects our commitment to providing an environment for all our team members to succeed and thrive.
+
+Our training and development efforts, built around our core values, are another key part of our human capital strategy. Our leaders go through specific training to ensure they are leading their teams with our values at the forefront of the decisions they make. Our annual performance review process allows team members to engage in meaningful discussions with their managers about their performance and development goals, and we also conduct pay equity reviews during our merit planning process. Additionally, our managers assess the growth potential of each team member through a standardized evaluation process, which provides actionable outputs to help develop and retain our high-potential employees. Through these and other training efforts, we support the development of our crew members in a way that promotes our growth and innovation.
+
+Our philanthropy committee comes up with innovative opportunities for crew to give back to the communities in which we work. For more than seven years, we have run an annual “Sailanthropitch” program, where charities deliver a Shark-Tank-style presentation about their organization. Crew members cast their votes for the organizations they connect to the most, and each organization walks away with a financial donation tied to the percentage of votes they received. Our SailPoint Cares program, which started as an opportunity to bring cross-functional crew together in different regions, has grown significantly in recent years, providing opportunities for teams to get together and donate their time and resources to support good causes across three core pillars: STEM & tech, crew engagement, and education. We also forge partnerships to increase our impact—whether through Path Forward, which supports caregivers who are returning to the workforce, SkillBridge, which connects returning service members to job training opportunities, or Code2College, which enables students who might not normally have access or exposure to exploring a career in STEM to gain hands-on experience in a paid internship.
+
+While we always seek the best talent to join SailPoint, we are also committed to growing talent. Our Sail-U program brings early career talent to our organization, where we provide them with the environment to learn and grow via structured training opportunities, engagement with leaders across the organization, and peer networking. We also offer a wealth of on-demand resources via our company intranet, The Dock, to support growth and development and drive performance.
+
+Offering a competitive compensation and benefits package is another critical part of our effort to attract and retain top talent. In addition to competitive base salaries, we offer team members comprehensive health, welfare, income protection and long-term savings benefits, incentive equity compensation, and incentive cash plans for eligible team members. Total compensation is designed to align with SailPoint’s business objectives and financial goals, and pay is differentiated for individuals based on relevant experience, impact, relative internal value and company performance. Variable compensation delivers pay aligned with company and individual performance, with more pay at risk at more senior levels. Leadership regularly discusses compensation and benefits strategies with the compensation and nominating committee of our board of directors (our "Board").
+
+Competition
+
+We operate in a highly competitive market characterized by constant change and innovation. Our competitors include large public companies, such as IBM, Microsoft, and Oracle that offer identity solutions within their product portfolios, and identity centric solution providers, including Palo Alto Networks (CyberArk), Okta, and One Identity. There are also a number of smaller scale, regional, or specialist identity security solution providers that we compete with in certain situations, in addition to emerging technologies that leverage AI and agentic AI in an effort to compete in this market. We believe the principal competitive factors in our market include:
+
+•Comprehensiveness of visibility to which identities have access to what across the IT environment;
+
+•Reliability and effectiveness in defining and implementing identity security policies;
+
+•Flexibility to deploy identity security and administration as a SaaS or customer-hosted solution;
+
+•Adherence to government and industry regulations and standards;
+
+•Comprehensiveness and interoperability of the solution with other IT and security solutions;
+
+•Enterprise security, scalability, and performance;
+
+•Ability to innovate, including the ability to leverage AI, and respond to customer needs rapidly;
+
+•Quality and responsiveness of support organizations;
+
+•Total cost of ownership;
+
+•Ease of use; and
+
+•Customer experience.
+
+Some of our competitors have significantly greater financial, technical, and sales and marketing resources, as well as greater name recognition, in some cases within particular geographic regions, and more extensive geographic presence than we do. See Part I, Item 1A, “Risk Factors—Risks Related to Our Business and Industry—We face intense competition in our market, both from larger, well-established companies and from emerging companies and technologies, and we may lack sufficient financial and other resources to maintain and improve our competitive position.” However, we believe we compete favorably with our competitors based on all the factors above.
+
+Intellectual Property
+
+Our success depends in part on our ability to protect our intellectual property. We rely on copyrights and trade secret laws, confidentiality procedures, employment proprietary information, and inventions assignment agreements, trademarks, and to protect our intellectual property rights. We also license software from third parties for integration into our solutions, including open source software and other software available on commercially reasonable terms.
+
+We control access to and use of our solutions and other confidential information through the use of internal and external controls, including contractual protections with employees, contractors, customers, and partners, and our software is protected by U.S. and international copyright and trade secret laws. As of January 31, 2026, we had 80 issued patents and 22 patent applications pending in the United States and no issued patents or patent applications pending internationally, in each
+
+case relating to certain aspects of our technology. Also as of January 31, 2026, the expiration dates of our issued patents ranged from 2026 to 2044. See Part I, Item 1A, “Risk Factors—Risks Related to Our Technology and Our Intellectual Property Rights—If we fail to obtain, maintain, protect, defend, or adequately enforce our intellectual property or proprietary rights, our competitive position could be impaired and we may lose valuable assets, generate reduced revenue, and incur costly litigation to protect our rights” for information regarding potential risks associated with our intellectual property and our ability to protect it.
+
+Legal Proceedings
+
+We are not currently a party to, nor is our property currently subject to, any material legal proceedings other than ordinary routine litigation incidental to the business, and we are not aware of any such proceedings contemplated by governmental authorities.
+
+Facilities
+
+Our corporate headquarters in Austin, Texas, consists of approximately 165,000 square feet of space under a lease that expires in April 2029. We also have additional office space under traditional leases in Pune, India; Tel Aviv, Israel; and London, United Kingdom and under coworking arrangements in various locations in North and South America, Europe, and Asia.
+
+We believe that our facilities are adequate for our current needs and anticipate that suitable additional space will be readily available to accommodate any foreseeable expansion of our operations.
+
+Government Regulations
+
+We are subject to a wide variety of laws, rules, and regulations in the United States and abroad that involve matters central to our business, including those relating to data privacy and security. Many of these laws, rules, and regulations are continually evolving, and we expect that we will continue to become subject to new laws, rules, regulations, industry standards, contractual requirements, and other obligations in the United States, the European Union ("EU"), the United Kingdom (the "UK"), and other jurisdictions. A failure to comply with them could result in civil and criminal liabilities and enforcement actions, which could include fines, as well as claims for damages by customers and other affected individuals, damage to our reputation, and loss of goodwill (both in relation to existing customers and prospective customers), any of which could adversely affect our business, operating results, financial performance, and prospects. See Part I, Item 1A, “Risk Factors—Risks Related to Laws and Regulations” for a discussion of our regulatory risks.
+
+Compliance and Certifications
+
+We are committed to protecting critical business information belonging to SailPoint and the customers and partners we serve. In support of this commitment, we adhere to and maintain a number of security and privacy related certifications, attestations, and governance frameworks, which include the following:
+
+•Information Security Management System (ISMS) in alignment with ISO/IEC 27001;
+
+•Privacy Management System (PIMS) in accordance with ISO/IEC 27701;
+
+•Controls defined in ISO/IEC 27017:2015 for cloud service security and ISO/IEC 27018:2019;
+
+•Certification with the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the UK Extension to the EU-U.S. Data Privacy Framework;
+
+•Product assessments that include SOC 1 Type 2 reports and SOC 2 Type 2 reports;
+
+•C5 (Cloud Computing Compliance Criteria Catalogue) Type 2 report;
+
+•TISAX® (Trusted Information Security Assessment Exchange) Assessment Level AL3 and Assessment Level AL2.5;
+
+•CSA STAR Level 2 certification under the Cloud Security Alliance’s Security, Trust, Assurance, and Risk (STAR) program;
+
+•Assessment under Australia’s Information Security Registered Assessors Program (IRAP) at a PROTECTED level;
+
+•U.S. FedRAMP® (Federal Risk and Authorization Management Program) Moderate ATO (Authority to Operate) for our SaaS-based solution, Identity Security Cloud;
+
+•GovRAMP™ (Government Risk and Authorization Management Program) authorization; and
+
+•Common Criteria (CC) certification.
+
+Collectively, these certifications, attestations, and governance frameworks demonstrate our continued investment in maintaining robust security controls, meeting evolving regulatory expectations, and strengthening the trust placed in us by customers, partners, and investors.
+
+Corporate Information
+
+Our principal executive offices are located at 11120 Four Points Drive, Suite 100, Austin, Texas 78726, and our telephone number at that address is (512) 346-2000. Our website address is www.sailpoint.com. Information contained on, or that can be accessed through, our website does not constitute part of this Annual Report and inclusions of our website address in this Annual Report are inactive textual references only.
+
+The SailPoint design logo and our other registered or common law trademarks, service marks, or trade names appearing in this Annual Report are the property of SailPoint Technologies, Inc., our wholly-owned subsidiary. Other trademarks and trade names referred to in this Annual Report are the property of their respective owners.
+
+Available Information
+
+Our website is located at https://www.sailpoint.com, and our investor relations website is located at https://investors.sailpoint.com. The information posted on our website is not incorporated into this Annual Report. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are available free of charge on our investor relations website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the SEC. You may also access all of our public filings through the SEC’s website at https://www.sec.gov.
+
+Investors and other interested parties should note that we use our media and investor relations website and our social media channels to publish important information about us, including information that may be deemed material to investors. We encourage investors and other interested parties to review the information we may publish through our media and investor relations website and the social media channels listed on our media and investor relations website, in addition to our SEC filings, press releases, conference calls, and webcasts.

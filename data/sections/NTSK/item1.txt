@@ -1,0 +1,431 @@
+Item 1. Business.
+
+Overview
+
+We are redefining security and networking for the era of cloud and artificial intelligence ("AI").
+
+The cloud and AI have completely revolutionized work. We are more dispersed, more productive, and more automated than ever before, and the rate of change is only accelerating. Not since the internet has there been such a transformative tectonic shift. But, with it has come collateral damage—traditional security and networking are now broken.
+
+We founded Netskope to address this revolution. We built Netskope One, our unified, cloud-native platform from the ground up to solve the challenge of securing and accelerating the digital interactions of enterprises in this new era. Organizations rely on our Netskope One platform to provide profound contextual intelligence into their data and digital interactions, securing them with precision, without sacrificing the digital experience. We leverage our patented technologies to enable dynamic, granular context-aware policies that allow us to protect sensitive data, stop threats, support regulatory compliance, and elevate the digital experience.
+
+Organizations today operate in a digital landscape that is heterogeneous and highly connected. It is comprised of globally dispersed users and non-human entities such as devices, applications, automated systems and AI agents that interact with each other and a plethora of managed and unmanaged Software-as-a-Service ("SaaS") applications, websites, AI, private applications, and other ecosystem applications across data centers and private and public clouds. With this new digital landscape, enterprises need a security and networking platform that can handle these far more complex, distributed, and dynamic sets of connections—all with more advanced security measures—to keep the organization, its people, and its data safe.
+
+Legacy appliance-based and first-generation cloud security solutions were designed for a legacy internet and data footprint, where simple rules-based threat detection and block-or-allow policies were sufficient. Moreover, traditional corporate networks were not designed to support the scale, flexibility, performance, and advanced security that is essential in the cloud and AI era. This frustrates users and creates an untenable situation for organizations, forcing them to trade performance for security, or vice versa. In many cases, users may be allowed to directly access an application without security to avoid a bad user experience. The fragmented nature of these legacy solutions, and the way they were architected, fundamentally limits their ability to address the complex and continuously evolving security and networking challenges that are the new reality for organizations. These tradeoffs hurt security, limit resilience and performance, create greater regulatory risk, and increase operational costs.
+
+Architecture is critical when addressing these challenges. Our Netskope One platform uses a unique architecture built from the ground up as a unified platform with a converged security, network, and analytics technology stack that runs on our NewEdge global private cloud network ("NewEdge network") to deliver highly secure and performant digital interactions.
+
+Our Netskope One platform deeply understands the dynamic "language" of the modern internet. This means enabling real-time contextual visibility into, and control over, an organization's traffic. For example, our Netskope One platform sees if a user is entering sensitive corporate data into a prompt of a personal instance of an application such as Google Gemini or ChatGPT and then coaches or re-directs them towards the corporate instance—in real-time. This sophisticated contextual awareness is critical for safely enabling the widespread adoption of cloud and AI tools that drive business innovation and productivity today.
+
+Our Netskope One platform leverages our proprietary AI models to detect, classify, track, and control sensitive data no matter where it is or how it is being used, stop threats no matter where they originate, and improve the digital experience globally whether a human or non-human entity is involved. We solve organizations' security versus performance tradeoff challenges with our NewEdge network, which is comprised of more than 125 full-compute edge data centers in 80 regions, with all of our capabilities available for every customer in every data center. Architected to deliver advanced security capabilities as close to the end user as possible, our NewEdge network greatly reduces the need to re-route traffic back and forth between data centers and provides a seamless, resilient user experience across locations and devices. This enables blazing fast traffic on-ramps and processing and optimized access to critical business applications and content.
+
+Industry Background
+
+Cloud and AI are Transforming the Internet. Powered by the cloud and AI, modern advancements have transformed how and where we access information, communicate, collaborate, interact with services, and even create new experiences, making the internet more powerful, adaptive, and responsive, and more essential to modern business than ever before. Organizations are embracing the use of cloud and AI, as users work flexibly from any device or location and increasingly interconnected "non-human entities" such as internet of things ("IoT")/operational technology ("OT") devices, factory floors, applications, robots, and AI agents are deployed—or they risk falling behind. The challenge is security—organizations must have very granular visibility and context of the modern digital landscape so they can enable its use but must also do so securely and with a great end user experience. This requires a real-time, deep understanding of the contextual parameters of each digital interaction to enable more granular levels of dynamic and comprehensive control—a necessity for organizations modernizing their security while prioritizing business adoption of new technologies.
+
+Protecting Data—the Lifeblood of Modern Business—Has Never Been More Difficult, or More Important. The vast amount of data an organization has and creates is often one of its greatest assets and competitive differentiators. It is mission critical for organizations to classify and protect this data. The challenge is that this growing amount of sensitive data is no longer maintained in secure, centralized corporate systems. Data now resides across digital environments, including corporate managed and unmanaged decentralized cloud services, the web, AI, SaaS applications, Infrastructure-as-a-Service ("IaaS"), Platform-as-a-Service ("PaaS"), private applications, endpoints, on-premises networks, databases, data lakes, data warehouses, email, and other IT systems. Organizational data has become a highly sought after prize for cybercriminals, and organizations face relentless, sophisticated cyber threats that try to steal it. Organizations therefore must adopt proactive, vigilant security measures to safeguard the diverse, valuable, and increasingly vulnerable data essential to their operations.
+
+Modern Business Needs Fast, Secure, and Resilient Performance that Far Exceeds the Capability of Existing Network Architectures. Digitally-native Generation Z and Millennials, who according to the U.S. Department of Labor now comprise a majority of the workforce, generally expect seamless and always available access to data and applications from any device, whether they are in an office, branch, manufacturing floor, their home, working from a coffee shop or anywhere else. Extended enterprises need to provide ubiquitous access to their globally distributed business partners, suppliers, contractors, and acquired businesses. With this new paradigm, an organization's network needs to handle a far more complex, distributed, and dynamic set of connections that require more advanced security measures. This problem is exacerbated by the increasing use of the open internet as a corporate network, where digital interactions traverse a growing number of disparate networks and clouds that can be unreliable, uncontrollable, unpredictable, and inefficient. This results in reduced security and resilience, greater regulatory risk, and increased operational costs. Organizations need a more agile, resilient, and intelligent network infrastructure to overcome these drawbacks.
+
+Cyber Risk Is One of the Greatest Challenges Organizations Face. Beyond the continuing growth in the number of attackers and ever-increasing speed and sophistication at which they operate, the risk of cyber attacks has increased due to the size and complexity of the attack surface, which has expanded to include public cloud, SaaS, AI, and private applications across disparate devices and locations that extend far beyond the traditional corporate perimeter. Moreover, cyber threats now extend beyond traditional attacks—focused on financial gain or espionage—to more sophisticated attacks where nation-states engage in digital warfare to damage critical infrastructure, disrupt communications channels, erode trust in information systems, undermine economic stability, challenge the safety of nations, and reshape the geopolitical landscape. Organizations also face significant and increasing compliance risk from a constantly evolving regulatory landscape governing data use, privacy, and the use of AI, including the European Union ("EU")'s General Data Protection Regulation ("GDPR"), Health Insurance Portability and Accountability Act of 1996 ("HIPAA"), EU-US Data Privacy Framework, Australia Privacy Act, Canada Privacy Act, Brazil's General Data Protection Law, California Consumer Privacy Act, and the EU AI Act. Therefore, organizations need modern, comprehensive, and proactive security solutions to protect an ever-growing attack surface against increasingly sophisticated cyber threats and data breaches.
+
+Limitations of Legacy Systems. Appliance-centric and first generation cloud security solutions were not built to address the challenges of the modern digital landscape, preventing organizations from fully embracing cloud and AI in a safe, resilient, and performant way. Legacy systems suffer from a number of fundamental architectural shortcomings, including:
+
+•
+Inability to Provide Real-time Granular Inspection and Control of Digital Activity, Forcing Organizations to Block Essential Applications or Allow Them to be Used and Accept the Risks. Many legacy security systems are not capable of understanding the dynamic, data-rich, and interactive language of the modern internet. As a result, they lack real-time granular visibility and context of each interaction, and cannot go beyond rigid and rudimentary controls such as blocking or
+
+allowing based on basic application access rules, device posture, or common activity types. This leads to undesirable consequences.
+
+•
+Lacking a Unified, Comprehensive Approach to Data Security. Massive volumes of data and new data sharing behaviors unlocked by cloud, SaaS, and AI have increased the risk of data leakage. At the same time, many organizations today rely on a myriad of disparate point solutions for data security, each intended for a specific digital environment. In addition, these security tools are often built to inspect either data-at-rest or data-in-motion, but few tools adequately do both. The emergence of agentic AI tools is expected to only exacerbate this problem.
+
+•
+Cannot Apply Advanced Security and Networking Controls at Scale Without Degrading Performance. When advanced security controls and networking configurations are applied at scale when using legacy systems, there is often a significant degradation in performance for both human and non-human entities. Organizations thus can face a dilemma: they must either disable these advanced security measures entirely or activate them only selectively. This leads to inconsistent security protocols, decreased productivity for users and systems, and an increased susceptibility to data breaches and cyber threats.
+
+•
+Siloed, Cumbersome, and Closed Security and Networking Infrastructure. Organizations are burdened with a plethora of disparate security and networking appliances and cloud tools, each requiring separate management consoles, policies, and configurations. Even when all of these are sourced from a single vendor, they are often fragmented and inefficient. Instead of receiving the seamless single console, policy framework, and network experience they hope for, organizations get only a "platform" that is unintegrated, complex, costly to deploy, difficult to operate, and many times designed to be closed in order to lock-in customers.
+
+Our Revolutionary Approach
+
+Our Netskope One platform is architected from the ground up to address the limitations of existing solutions and help customers modernize security and networking for the cloud and AI era. Our platform simplifies administration, integrates with and enhances existing investments, protects people, non-human entities, and data from pervasive threats, enables tool and capabilities consolidation without requiring complete system overhauls, and balances the historically conflicting needs of networking and security.
+
+Thanks to the differentiated architecture of our Netskope One platform, which includes context-based security, our NewEdge network—one of the world's largest and most connected global private security cloud networks—and our ability to deliver market-leading security, network, and analytics products efficiently to wherever users, devices, applications, and data live, organizations no longer need to compromise between security and network performance.
+
+•
+Deeply Understands the Language of the Modern Internet. The modern digital landscape of cloud and AI is comprised of dynamic, highly interactive applications powered by a layer of Application Programming Interfaces (“APIs”) and protocols, such as Model Context Protocol ("MCP"), and Agent2Agent, using JavaScript Object Notation-based data encoding that contain granular information about the digital interaction. Our patented technologies and our Zero Trust Engine were built from the ground up to operate at this layer, enabling us to inspect, analyze, and control traffic in real-time and at high speed. We leverage this profound contextual intelligence to understand and control more than 100 different activity types across thousands of cloud, SaaS, and AI applications, over a billion websites, and countless data lakes, stores, and private applications. This contextual intelligence and control goes far beyond basic application access rules, device posture, and common activities (e.g., upload or download).
+
+•
+Unified Approach to Data Security. Our Netskope One platform's unified platform approach enables organizations to discover, classify, and protect data, while providing the appropriate level of access based on context in real-time. Unlike vendors that focus on only a single facet of data security, or platform vendors with limited data security capabilities, the Netskope One platform:
+
+o
+Provides real-time and complete data visibility and control across the digital landscape.
+
+o
+Extends across structured and unstructured data in-motion, in-use, and at-rest..
+
+o
+Delivers highly differentiated contextual awareness (including how, with whom or what, where, and when) this data is being used to deliver granular, least-privileged access to data, greatly reducing the risk of data leakage and breaches.
+
+o
+Offers precise data discovery and classification capabilities—with over 3,000 data identifiers, support for over 2,000 file types, and over 40 regulatory and compliance templates—enabling distinction of sensitive data from the sea of information in an organization's environment.
+
+o
+Applies an array of proprietary AI and machine learning ("ML") models that augment traditional data loss prevention ("DLP") policies and controls, including data classification and real-time user coaching with situation-specific guidance on how they can handle data safely.
+
+•
+Ability to Apply Advanced Security Controls at Scale while Accelerating Performance. Our NewEdge network provides the foundation for delivering our converged security, networking, and analytics capabilities. The NewEdge network is purpose-built, leveraging bare metal servers with vendor-agnostic hardware, each offering full compute at the edge and capabilities for in-region traffic processing for all products in our Netskope One platform. Each of our NewEdge network data centers are available to all customers and capable of running all of our products. Our NewEdge network leverages an extensive interconnection strategy, featuring over 10,000 network adjacencies to over 700 unique autonomous system numbers. This strategy uses premium transit and comprehensive peering with Internet Service Providers and leading web, content delivery, cloud, and SaaS providers. The private cloud architecture of our NewEdge network enables advanced integrations that further extend this interconnection strategy directly to our customers.
+
+•
+Converged Security, Networking, and Analytics Platform at the Global Edge. Our Netskope One platform converges security, networking, analytics, and AI security capabilities into a single unified, cloud-native architecture. This integration resolves the traditional conflict between security and networking teams, where it was believed that high performance could only be achieved at the expense of security efficacy, or vice versa.
+
+•
+AI is Foundational to our Platform. At the heart of our Netskope One platform lies a deep commitment to AI, brought to life by Netskope AI Labs. The Netskope AI Labs' innovations manifest in our Netskope One platform's ability to secure AI usage and enable organizations to take advantage of generative and agentic AI safely. We refer to our suite of AI innovations across the platform as SkopeAI.
+
+Key Benefits for Our Customers
+
+Key benefits of our Netskope One platform include:
+
+•
+Accelerates and Secures Organizations' Adoption of Cloud and AI. Our platform empowers organizations to confidently embrace cloud and AI. It enables the inspection and implementation of real-time, granular, and contextual security controls across the digital landscape. Our platform also facilitates the swift and secure integration of advanced AI applications by enabling customers to deploy sophisticated global security policies that promote access to generative AI and agentic AI applications, while stopping sensitive data leaks and threats.
+
+•
+Significantly Reduces Risks for Organizations.
+
+o
+Enabling a True Zero Trust Architecture. Our Netskope One platform enables a true least-privilege architecture, enhancing detection, investigation, prevention, and response capabilities. Data is seamlessly shared within our platform and integrated with third-party solutions, providing enhanced security efficacy and a comprehensive security ecosystem.
+
+o
+Reducing Risks for the Extended Enterprise. Netskope One Private Access and our Zero Trust Engine extend zero trust principles to external parties to provide granular control and visibility into third-party access, even with unmanaged devices.
+
+•
+Enables a Fast, Resilient Experience for All Digital Interactions. Our NewEdge network is designed to be ultrafast, highly elastic, built for scale, and capable of providing cloud-delivered security and networking services directly where the users (human and non-human entities) and workplaces are, without performance trade-offs.
+
+•
+Enables Hybrid and Remote Work and Helps Customers Attract and Retain Talent. Our Netskope One platform provides full visibility from device to application, enabling IT and network teams to quickly diagnose and resolve traffic performance issues—oftentimes before they happen—allowing organizations to scale operations and support a distributed workforce through hybrid and remote work arrangements.
+
+•
+Reduces Cost and Complexity and Addresses Cybersecurity Talent Shortages by Enabling Organizations to Do More with Less. We simplify security, networking, analytics, and AI security for organizations by integrating fragmented point solutions into a unified cloud-native platform. By reducing reliance on legacy hardware appliances, sunsetting legacy data centers, and streamlining and thinning the on-premises footprint, organizations benefit from lower deployment and operational costs while enhancing efficiency. Our Netskope One platform reduces the operational burden on security and networking teams by automating routine security tasks and providing highly actionable, context-rich insights. With our Netskope One platform, organizations can streamline their security and networking operations, enabling fewer staff to manage complex hybrid and cloud environments effectively.
+
+•
+Enables an Open Ecosystem for the Benefit of the IT Industry and Customers. Netskope Cloud Exchange ("NCE") champions an open ecosystem by offering seamless integration with hundreds of cloud services, IT platforms, and third-party applications. Our comprehensive suite includes more than 100 pre-built integrations, many of which can operate across multiple systems right out of the box, allowing businesses to employ best-of-breed solutions from different IT vendors, providing flexibility while prioritizing security. NCE's open architecture also promotes and supports open industry standards, allowing organizations to quickly scale and leverage their investments without being locked into proprietary solutions.
+
+Our Growth Strategies
+
+We are executing a disciplined, multi-pronged approach to drive new customer acquisition worldwide and expand and upsell our solutions across our installed base. Key elements of our growth strategies include:
+
+•
+Win New Customers. We are executing a disciplined approach to expanding our presence across major accounts, enterprises, and the mid-market.
+
+•
+Expand within Existing Customers. We drive growth within our existing customer base by expanding the adoption of our Netskope One platform through product cross-sell and by expanding deployments across additional customer business units, use cases, and geographies.
+
+•
+Broaden Reach into the Public Sector. We are investing in the acquisition of public sector customers to capture additional revenue streams and diversify our customer base, including U.S. federal government agencies, supported by our recent FedRAMP High Authorization. In addition, we maintain an extensive portfolio of third-party assessments and certifications for government sectors worldwide, including SSAE-18/SOC-2 Type 2, HIPAA/HITECH, CSA STAR Level 2, and ISO 27001/27017/27018 for international markets. We also hold certifications in Germany (C5), UK (Cyber Essentials), Australia (IRAP), Canada (Protective-B), and Spain (Esquema Nacional de Seguridad). We have also self-certified under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. Data Privacy Framework (UK Extension to the EU-U.S. DPF), and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF). These assessments demonstrate our commitment to security and compliance across various industries and geographies to further penetrate new customer categories.
+
+•
+Grow our International Footprint. We have strategically invested in and expanded our international presence, particularly in Europe, the Middle East and Africa ("EMEA"), and Asia Pacific and Japan ("APJ"). We also intend to continue growing our customer base through additional investments in new key regions, including Southeast Asia, Japan, Latin America, and the broader European and Middle Eastern regions.
+
+•
+Expand our Domestic Footprint. We have built a substantial business internationally over the years, and we are now even more focused on increasing the size of our Americas salesforce to drive increased growth, especially in the United States. Our go-to-market strategy prioritizes comprehensive sales, solutions engineering, and channel enablement, equipping our teams to accelerate customer acquisition and platform adoption.
+
+•
+Grow our Partner Ecosystem. Our partner ecosystem enhances the distribution of our platform and expands our go-to-market reach. We continue to expand our channel partnerships with value added resellers ("VARs"), distributors, technology alliance partners, system integrators, managed service providers ("MSPs"), and global telecommunications service providers to continue to grow efficiently.
+
+•
+Enhance our Platform Capabilities through Strategic M&A. When we evaluate companies externally, we look for great technical teams who fit our culture of collaboration, innovation, and putting customers first. We prioritize those who, like us, have architected and built their technology leveraging modern methods so that it can ultimately be seamlessly integrated to support our unified platform strategy. When we acquire a company for its technology and talent, we have a dedicated team and process to relentlessly focus on integrating the technology into our platform in a holistic fashion.
+
+Our Products and Platform
+
+Our Netskope One platform is our comprehensive solution that integrates security, networking, analytics, and AI security products into a single, unified platform.
+
+Security. Our platform is designed to address the complex and rapidly evolving needs of modern organizations by providing a robust suite of security products. These products include the following:
+
+•
+Cloud Inline Security: Provides real-time inline data protection and threat defense for an organization's cloud and SaaS traffic of any type, inclusive of corporate and shadow usage, with the ability to decode application context and control application activities, continuously inspecting and securing traffic from users, devices, IoT/OT, applications, and AI to cloud services, while accelerating performance.
+
+•
+Cloud Access Security Broker ("CASB"): Delivers comprehensive and adaptive visibility and security controls for cloud and SaaS in an out-of-band manner, including access control, threat, and data protection. Our CASB can combine its out-of-band capabilities such as data and threat detection and inventory, remediating controls, and event log analysis, with our real-time preventive controls for human and non-human entities across the digital landscape for all cloud-based services and applications. Our CASB also features dedicated connectors to applications such as Perplexity AI, Microsoft Power
+
+Automate, Google Gemini, Cursor AI, Google AI Assistant, MS365 Copilot, and AWS Bedrock that allow for a far higher and more granular set of controls.
+
+•
+Data Loss Prevention ("DLP"): A comprehensive and advanced DLP solution that discovers and secures sensitive data across web, cloud, AI, private applications, networks, email services, endpoints, users, and devices. Our DLP solution includes four products: Inline, Endpoint, Email, and Non-Web.
+
+•
+Threat Protection: This provides high-efficacy threat detection and blocking for advanced malware (such as ransomware), phishing, and other threats. It uses a comprehensive, multi-engine approach with anti-malware, intrusion prevention, and multistage sandboxing with deobfuscation and recursive file unpacking, machine learning for risky malware file types, detonation, and MITRE ATT&CK analysis for over 30 file types, patient zero protection and alerts, and sandbox and retrohunt APIs. All of them are enhanced with curated threat intelligence from threat sources that include millions of indicators from our Netskope One platform and Netskope Threat Labs and are updated multiple times per hour.
+
+•
+Next-Gen Secure Web Gateway ("Next-Gen SWG"): Our Next-Gen SWG goes well beyond traditional SWGs, which only provide web filtering and basic TLS decryption. Our Next-Gen SWG performs high-performance, highly resilient transport layer security ("TLS") decryption and incorporates cloud inline security and threat protection capabilities to prevent malware, detect advanced threats, filter websites by category, protect data, and secure the web, applications, AI, and cloud services within a single-pass architecture for users, non-human entities, and more, irrespective of location.
+
+•
+Private Access / Zero Trust Network Access ("ZTNA"): With Private Access, enterprises can fully replace their legacy virtual private network (“VPN”) with a cloud-based, remote access solution that we believe offers superior performance and tighter security based on zero trust principles. Leveraging identity, risk, and context scoring for each interaction's originator (managed or unmanaged user devices, IoT/OT devices, and more), Private Access extends and enforces adaptive access. Netskope Private Access also features a new AI agent that gives administrators automated insight into their ZTNA deployments, providing automated segmentation policy recommendations and auditing of existing policies for vulnerabilities or optimization.
+
+•
+Remote Browser Isolation ("RBI"): RBI isolates risky and uncategorized websites by downloading and assembling web pages into a cloud-based container and mapping them into safe images that are presented to end-users, delivering seamless, safe viewing of websites, and isolating end-user devices from potentially malicious website code.
+
+•
+SaaS Security Posture Management ("SSPM"): SSPM is designed to continuously monitor and harden critical SaaS applications by removing risky integrations and implementing enhanced security settings and entitlement controls, all in alignment to industry security benchmarks and customer specific best practices. SSPM also reduces misconfiguration-related security and compliance risks.
+
+•
+Data Security Posture Management ("DSPM"): DSPM automates data security and governance by empowering security and compliance teams to automatically discover and classify data, provide access governance, and monitor risky data use for structured, unstructured, and semi-structured data in the cloud and on-premises, including data lakes and data warehouses. This also includes data lineage capabilities by providing visibility and analytics to help organizations track and assess the provenance of data everywhere it rests, moves, and is used.
+
+•
+Enterprise Browser: Enterprise Browser streamlines the security of how unmanaged devices and the extended enterprise connect to the web, applications, AI, and other corporate resources. It seamlessly integrates and leverages all other products in the Netskope One platform to deliver a secure and performant end user experience globally. This is a crucial difference from "standalone" enterprise browser tools, because organizations can rely on seamless, secure access to web sites and applications for unmanaged devices and temporary workers, and can also prevent data leakage to applications and unmanaged devices by consistently applying adaptive policy controls.
+
+Networking. Our platform incorporates a range of networking products that enhance performance, resilience, connectivity, and security. These include the following:
+
+•
+Firewall-as-a-Service ("FWaaS"): Delivers FWaaS for egress traffic, controlling, and protecting traffic from layer 3-7 for all ports and protocols. FWaaS traffic is inspected by our threat and data protection capabilities and is secured by comprehensive domain name system ("DNS") security.
+
+•
+IoT/OT Intelligence: Provides visibility into connected devices across enterprise networks and branch offices, securing IoT and OT devices through context-driven classification, risk assessment, network segmentation, and access control.
+
+•
+Software-Defined Wide Area Network ("SD-WAN"): Provides secure, reliable connectivity for each branch, cloud, remote user, or IoT/OT device, delivering consistent performance and unified policy enforcement.
+
+•
+Dedicated Egress Internal Protocol ("IP"): Provides organizations with unique, static IP addresses for their outbound traffic, allowing organizations to ensure their cloud- or AI-bound traffic originates from a consistent, allowlist-friendly IP address and to exert stricter security control using conditional access policies.
+
+•
+Cloud Packet Stream: Extends comprehensive visibility and analysis by mirroring customer traffic from our Netskope One platform so that it can be ingested directly by customer tools or exported into third-party vendor solutions for deeper analysis. This enables compliance, threat hunting, and performance monitoring use cases.
+
+•
+DNS-as-a-Service "DNSaaS": DNSaaS enables customers to point their DNS traffic to Netskope for DNS resolution, and subsequently protect users with DNS content filtering to filter DNS traffic based on business categories in addition to the DNS security support based on their company policies and industry best practices.
+
+Analytics. Our platform also empowers organizations with rich insights into user activity, data movement, and security events across the web, cloud, SaaS, AI, private applications, and other environments. It also offers enhanced visibility into performance metrics and capabilities to detect, troubleshoot, and address performance degradation for human and machine-machine interactions. These products include:
+
+•
+Advanced Analytics ("Advanced Analytics"): Advanced Analytics allows customers to build custom queries and visualizations for Netskope-generated data, including event and signal correlations and risk identification, and to understand how their risk is being managed. It provides visibility and insights, among other things, into user activity, data movement, and security events across the web, cloud, SaaS, AI, private applications and other environments. Advanced Analytics also enables organizations to generate customized reports and dashboards for a variety of use cases including compliance, threat protection, and data protection.
+
+•
+User and Entity Behavior Analytics ("UEBA"): UEBA detects insider threats by analyzing traffic and user behaviors across the web, cloud, SaaS, AI applications, endpoint processes, data stores, data warehouses, data lakes, private applications, shadow IT, and public-facing custom applications, applying AI/ML and statistical analysis to spot anomalous activities and implement dynamic user trust score based on inline access control.
+
+•
+Digital Experience Management ("DEM"): DEM offers enhanced visibility into performance metrics for human and non-human entities, and includes telemetry and tools to detect, troubleshoot, and address sources of performance degradation, whether these are related to the customer environment, the network interconnect, or the infrastructure.
+
+•
+Data Lineage ("Data Lineage"): Data Lineage builds upon our superior data security controls by enabling teams to track and visualize the movement of sensitive data across their entire organization, through various levels of origin, usage, and access— including visibility into when that data propagates or evolves.
+
+AI Security. Our platform has long been capable of enabling the safe adoption of AI, but we recently introduced a new suite of products designed to help customers stay ahead of emerging AI security challenges through every step of their AI journey, from safe generative AI ("GenAI") usage to securing private large language models ("LLMs") to governing agentic communications. These products include the following:
+
+•
+AI Gateway ("AI Gateway"): Provides visibility, access, and runtime control into non-user traffic that organizations want to inspect in their own deployments (without needing to send it to the Netskope cloud).
+
+•
+Agentic Broker: Extends our existing AI visibility and security controls to public MCP-based communications.
+
+•
+AI Guardrails: Extends Netskope data and threat protection capabilities to stop AI-specific threats and provide thorough content moderation to govern AI-specific threats (e.g. prompt injection/jailbreaking) and inappropriate content (e.g. hate speech, crimes, or sensitive data requests), all through a single, unified view of incidents.
+
+•
+AI Red Teaming: Complements AI Gateway by stress-testing AI models to ensure production-readiness of an organization's private LLMs with adversarial prompts to discover and proactively resolve vulnerabilities.
+
+Our dedication to AI/ML manifests in various critical areas of our platform, including:
+
+•
+AI Operations: We harness AI for workflow automation, application health monitoring, root cause analysis, and adaptive incident prioritization.
+
+•
+Behavioral Analysis: AI-driven detection and statistical modeling identify anomalous behaviors linked to malicious insiders, compromised accounts, brute-force attacks, and data exfiltration.
+
+•
+Cloud Security: Our ML models classify cloud applications, assess risks, and evaluate connection reliability to enhance overall cloud security.
+
+•
+Data Security: We leverage natural language processing ("NLP"), LLMs and computer vision techniques to accurately and efficiently identify sensitive documents and images.
+
+•
+GenAI for Security: We utilize GenAI technologies to provide policy recommendations, answer routine queries, and optimize internal processes, documentation, and workflows.
+
+•
+IoT/OT and Device Intelligence: AI-powered classification and dynamic device grouping enable advanced anomaly detection using multiple ML techniques.
+
+•
+SD-WAN: AI/ML-driven anomaly detection for wide-area network ("WAN") access.
+
+•
+Threat Detection: We enhance malware and phishing URL detection by using ML methods that complement signature, heuristics, and sandbox techniques.
+
+•
+Web Security: NLP and computer vision models enable scalable, intelligent website content filtering and categorization.
+
+Our platform is continually evolving, with ongoing innovation and new products being added to the platform. We are committed to staying at the forefront of security, networking, analytics, AI, and technology by providing a platform that meets the ever-changing needs of our customers. Our focus on innovation allows us to provide cutting-edge solutions that help businesses navigate the complexities of the digital world.
+
+Netskope NewEdge Network
+
+Underpinning its network performance advantages, the efficient processing of traffic within our NewEdge network data centers is achieved by security and networking functions implemented as scalable microservices. These microservices operate independently, while efficiently sharing resources, and their architecture enables intelligent, scalable, and high-performance traffic processing while incorporating rich context and performing deep inspection. Our NewEdge network also leverages a single-pass design that is designed to minimize the performance impact of multi-layered traffic processing and achieve the lowest possible latency, supporting a superior end-to-end user, device, and application experience. Our NewEdge network is backed by a latency guarantee of 10 milliseconds for non-decrypted traffic, 50 milliseconds for decrypted traffic inspection, and 99.999% uptime.
+
+From a network and service resilience perspective, our NewEdge network implements a layered approach beginning with its extensive global footprint of data centers positioned strategically at the edge, as close to users, devices, and sites as possible. Our infrastructure plans are intended to ensure consistent availability of abundant capacity, adding resources in regions well ahead of anticipated demand, and prioritizing adding new data centers in existing regions (where possible) to maximize resilience and capacity rather than expanding existing facilities. Regardless of which data center traffic egresses from, NewEdge Localization Zones ensure
+
+that end users always receive local content, in the appropriate local language, without running into legacy issues with geo-fencing or blocking. In addition to positively impacting the overall digital experience, this is important for resilience, as well as compliance with data sovereignty regulations important for networking and security teams.
+
+To achieve our overall resilience objectives, we implement proactive measures such as Auto Failout, which is designed to automatically remove data centers from service if performance degradation is detected. Additionally, our innovative NewEdge Traffic Management technology connects users or non-human entities to the "nearest" data center based on the best performance, determined by round-trip time latency measurements. This system maintains awareness of nearby data centers so that during a service impairment event, connections can automatically shift to the next best-performing data center within seconds and without manual intervention. In addition, we leverage AI/ML to optimize access and performance of applications throughout our entire network and to troubleshoot network availability.
+
+Our convergence of networking and security also extends to branch and multi-cloud environments through our Netskope One Gateway ("Netskope One Gateway"), forming a new thin, lightweight on-premises network edge. Our Netskope One Gateway, available in physical, virtual, cloud, or client form factors, consolidates SD-WAN and a range of local network services such as routing, WiFi, 5G, firewall, intrusion prevention system ("IPS"), IoT/OT intelligence, DEM, and Edge Compute, along with a seamless on-ramp to our Netskope One platform, into one simple, zero-touch provisioned device. This microservices-based architecture is designed to eliminate the need for disparate network and security appliances at each location, reducing complexity and cost at scale. Netskope One Gateway software also runs as a service within our NewEdge network to optimize transcontinental site-to-site and site-to-cloud traffic. Combining our SD-WAN product at the network edge with our Security Service Edge ("SSE") offering enables organizations to achieve a true Secure Access Services Edge ("SASE") architecture that converges security and networking in a single platform, delivering secure and optimized connectivity for users and applications, regardless of their location.
+
+Sales and Marketing
+
+Sales
+
+Our sales strategy is built on a disciplined categorization of our customer base and strong focus on customer success that drives recurring revenue growth worldwide. Our customers fall into three main categories:
+
+•
+Major Accounts, which are customers with 40,000 or more employees;
+
+•
+Enterprises, which are customers with 2,000 to 39,999 employees; and
+
+•
+Mid-Market, which are customers with fewer than 2,000 employees.
+
+Our land-and-expand approach is core to our sales strategy. We typically establish an initial foothold with a customer through two or more products. Our platform's unified architecture, ease of deployment, and broad coverage of modern security, networking, analytics, and AI security use cases simplify expansion efforts, making it easier for our sales and customer success teams to increase user count, add new products, address new use cases, and deepen customer adoption of our platform over time. We also maintain continuous customer engagement through our direct sales force, channel partners, and global customer success team to support the expansion.
+
+Marketing
+
+Our marketing strategy is designed to grow our brand awareness, generate a robust opportunity pipeline, showcase our technological and platform leadership, and ultimately drive organizations to evaluate us, as we have a high win rate once organizations try our Netskope One platform. Our digital-first, account-based approach targets key decision-makers in IT, security, and networking—ensuring that our message is both consistent and compelling across global and regional markets. We employ a wide range of digital programs, including search engine marketing, online and social media initiatives, and content syndication. We host online virtual events focused on key industry topics, such as SASE Week and Data Security Converged, to reach thousands of professionals wherever they are.
+
+We focus our marketing efforts across the entire customer's journey with content designed to educate and help professionals evaluate solutions. Our approach to content includes producing our own Security Visionaries Podcast, creating use case demo videos, and writing educational books such as The Cyber Savvy Board Room. We also run large-scale events, including the global SASE
+
+Summit, which spans over 30 cities worldwide and provides a platform for industry leaders, customers, and partners to engage with our latest innovations. We also engage in regional events that target specific industries or customer personas, as well as large tradeshows such as the RSA Conference, AWS re:Invent, and Black Hat.
+
+Partnerships and Strategic Relationships
+
+We collaborate with a variety of technology and ecosystem partners through direct partnership and our NCE. NCE offers customers a powerful and simple integration tool to leverage their IT investments, offering seamless integration with hundreds of IT platforms, cloud services and third-party application partners.
+
+We have also forged strong technology partnerships with leading companies such as Amazon, CrowdStrike, Google, MetTel, Microsoft, Okta, and Telstra. These relationships provide significant value to our joint customers through bi-directional integrations. Each partnership includes well-established go-to-market strategies, agreed-upon business objectives, and commitments such as bi-directional referral programs and cloud marketplace initiatives where applicable.
+
+Our partner ecosystem encompasses premier VARs, distributors, technology alliance partners, global system integrators, service providers, MSPs, and global telecommunications service providers, allowing us to serve a diverse range of accounts from large multinationals to mid-market enterprises around the world.
+
+Research and Development
+
+Our research and development team is responsible for the design, development, testing, operation, and quality of our platform. This investment has resulted in over 270 patents related to AI/ML, anomaly detection, cloud risk, cloud application classification, cloud security, data protection, encryption, inline inspection, IoT, networking, private application access and control, posture management, threat protection, and user and entity behavior and analytics. Our research and development team includes our Netskope AI Labs team, whose contributions have led to over 50 AI/ML patents granted and over 190 AI/ML models deployed. Our research and development leadership team is located in Santa Clara, California, supported by our Centers of Excellence located across the Americas, Europe, and Asia.
+
+Threat Research
+
+Our Netskope Threat Labs team discovers, analyzes, and designs defenses against the latest web, cloud, and AI threats affecting organizations. With original research and in-depth analysis of web, cloud, and AI-related threats—including cloud phishing, AI-generated phishing, scams, deepfakes, malware, ransomware, command and control, data exfiltration, and data exposure—Netskope Threat Labs protects organizations from malicious actors and contributes to the global security community with research, advice, and best practices.
+
+Researchers, engineers, and data scientists on the team have collaborated to develop patented and AI-powered solutions in several key areas, including a phishing detection system designed to find fake login pages, multiple engines using static and dynamic analysis to detect evasive and targeted malware threats, and an innovative behavioral analytics platform that can identify hidden threats, including compromised devices, compromised accounts, and insider threats. Led by renowned security researchers, distinguished engineers, and principal architects with experience founding and leading companies in Silicon Valley and around the world, Netskope Threat Labs is based in our Santa Clara headquarters with team members worldwide. The researchers are regular presenters and volunteers at top security conferences, including DEF CON, Black Hat, and RSA Conference.
+
+Competition
+
+We face competition from large, well-known companies that offer security, networking, analytics, and/or AI security within their product portfolios, and vendors with whom we have not traditionally competed but who may either introduce new products or incorporate features into existing products that compete with our platform and products. We consider the following types of companies our competitors or potential competitors:
+
+•
+Independent IT security vendors, which offer a mix of network and/or security products;
+
+•
+Large networking and other vendors that offer security appliances and/or incorporate security capabilities into their networking products and other services;
+
+•
+Companies with point solutions that compete with some of the features of our platform and products, such as proxy, firewall, CASB, sandboxing and advanced threat protection, DLP, encryption, load balancing, and VPN; and
+
+•
+Other providers of IT security services that offer, or may leverage related technologies to introduce, products that compete with or are alternatives to our platform and products.
+
+Our primary competitors include companies such as Broadcom, Cisco, Fortinet, Palo Alto Networks, and Zscaler.
+
+The principal competitive factors in the markets in which we operate include:
+
+•
+Delivering security from cloud with zero trust principles, regardless of location;
+
+•
+Platform extensibility, effectiveness, simplicity, and ability to integrate with security and networking ecosystems;
+
+•
+Reliability, availability, and scalability of the platform;
+
+•
+Rapid deployment and delivery of new capabilities;
+
+•
+Comprehensive approach to securing and accelerating performance across the digital landscape;
+
+•
+Price, total cost of ownership, and cost savings;
+
+•
+Brand awareness, reputation, and customer trust;
+
+•
+Strength of sales, marketing, and channel partnerships; and
+
+•
+Quality of customer support and ease of deployment.
+
+We believe we are well-positioned against our competitors based on these factors. However, many of our competitors have substantially greater financial, technical, and operational resources, larger sales and marketing teams, broader distribution networks, and established brand recognition. As competition intensifies, we must continue to innovate, execute on our go-to-market strategy, and expand our customer base to maintain and grow our market position.
+
+Our Customers
+
+Our customers rely on us to protect their sensitive data, stop threats, accelerate their digital interactions, and deliver significantly higher operational simplicity. They include some of the largest and most complex organizations around the world and across industries. As of January 31, 2026, we had 4,733 customers, which represented a 21% year-over-year increase from 3,913 customers as of January 31, 2025. As of January 31, 2026, approximately one-third of the Fortune 100 and approximately 19% of the Forbes Global 2000 were our customers. Furthermore, as of January 31, 2026, we had 1,531 customers with ARR over $100,000, representing 86% of our total ARR. This reflects a 22% year-over-year increase from 1,254 as of January 31, 2025.
+
+Employees and Human Capital Resources
+
+As of January 31, 2026, we had 3,281 employees. We also engage contractors and consultants. None of our employees are represented by a labor union or covered under a collective bargaining agreement other than mandatory collective bargaining and works councils in various EU and Latin American countries. We have not experienced any work stoppages due to employee disputes, and we consider our relationship with our employees to be good.
+
+Our human capital resources objectives include, as applicable, identifying, recruiting, retaining, incentivizing, and integrating our existing and new employees. The principal purposes of our equity incentive plans are to attract, retain, and reward personnel through the granting of share-based compensation awards in order to increase stockholder value and the success of our company by motivating such individuals to perform to the best of their abilities and achieve our objectives.
+
+Culture
+
+For us, culture is paramount. We recognize that facing the rapidly escalating security and networking challenges of today demands more than just technology—it requires a unified team deeply committed to core values. This is why we employ a core philosophy of GRIT: Guts, Resolve, Integrity, and Tenacity. GRIT is not just an acronym; it permeates every aspect of how we operate.
+
+GRIT embodies our:
+
+•
+Guts to proactively and boldly confront and solve evolving cybersecurity, networking, and IT challenges, to implement robust defenses, and create an exceptional user experience.
+
+•
+Resolve in our ability to withstand setbacks, learn from failures, and keep pushing forward in the face of adversity.
+
+•
+Integrity in how we conduct ourselves, with a steadfast commitment to ethical practices and "doing it the right way."
+
+•
+Tenacity in our relentless pursuit of progress—never settling, always striving to break new ground, and inspiring those around us to rise to every challenge with unwavering determination.
+
+At the heart of our success are seven foundational cultural traits that guide how we innovate, collaborate, and deliver exceptional value to our customers, partners, team members, families, communities, and investors every day:
+
+Be Collaborative and Transparent
+
+Every one of our team members works hard, and we work together. Our company leadership is clear, open, honest, and transparent.
+
+Cut the Bureaucracy
+
+We have no place for politics or bureaucracy. Accountability matters, everyone rolls up their sleeves, and the best ideas win.
+
+Make it Happen
+
+Whether it is a customer need, a new industry innovation, or enabling our best partners, we make it happen. No excuses. It is in our DNA.
+
+Put Customers First
+
+The success of our customers means more to us than anything else. We earn their trust by being in the trenches with them. Their success is our top priority—and we always have their back.
+
+Innovate Boldly
+
+We challenge the status quo to deliver cutting-edge solutions. By pushing boundaries and embracing fresh ideas, we drive innovation without compromise.
+
+Strengthen our Communities
+
+We give back by sharing our time, energy, and resources to improve the places where we live and work. Supporting our communities is a core part of who we are.
+
+Cultivate Belonging
+
+We intentionally create an inclusive environment where everyone feels valued and heard. A sense of belonging fosters creativity, openness, and trust across our people, customers, partners, and products.
+
+Intellectual Property
+
+Our success depends in part upon our ability to protect and use our core technology and intellectual property rights. We rely on a combination of patents, copyrights, trademarks, trade secrets, know-how, contractual provisions, and confidentiality procedures to protect our intellectual property rights. As of January 31, 2026, we had over 270 issued patents and over 100 pending patent applications in the United States and abroad. These patents and patent applications seek to protect our proprietary inventions relevant to our business. Our issued patents are scheduled to expire between 2026 and 2045 and cover various aspects of our platform and products. In addition, we have registered "Netskope" as a trademark in the United States and other jurisdictions, and we have filed other trademark applications in the United States. We are also the registered holder of a variety of domestic and international domain names that include "Netskope"—including "Netskope.com"—and also many variations.
+
+In addition to the protection provided by our intellectual property rights, we enter into proprietary information and invention assignment agreements or similar agreements with our employees, consultants, and contractors. We further control the use of our proprietary technology and intellectual property rights through provisions in our subscription agreements
+
+Government Regulation
+
+Our business activities are subject to various federal, state, local, and foreign laws, rules, and regulations. Compliance with these laws, rules, and regulations has not had, and is not expected to have, a material effect on our capital expenditures, results of operations, or competitive position as compared to prior periods. Nevertheless, compliance with existing or future governmental regulations applicable to our business or to our customers, including, but not limited to, those pertaining to global trade, anti-corruption, anti-bribery, anti-money laundering, business acquisitions, consumer and data protection, privacy, business resiliency, employment, labor, use of AI and ML, and taxes, could have a material impact on our business in subsequent periods. For more information on the potential impacts of government regulations affecting our business, see the section titled "Risk Factors—Risks Related to Laws and Regulations."
+
+Available Information
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statement, and all amendments to these filings, are available free of charge from our investor relations website (https://investors.netskope.com/financials/sec-filings) as soon as reasonably practicable following our filing with or furnishing to the Securities and Exchange Commission ("SEC") of any of these reports. The SEC’s website (https://www.sec.gov) contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC.
+
+We use our investor relations page on our website (https://www.netskope.com), press releases, public conference calls, and social media as means of disclosing material non-public information and for complying with our disclosure obligations under Regulation FD. The information disclosed by the foregoing channels could be deemed to be material information. As such we encourage investors, the media, and others to follow the channels listed above and to review the information disclosed through such channels. Any updates to the list of disclosure channels through which we will announce information will be posted on the investor relations page on our website.
+
+The contents of any website referred to above are not incorporated into this Annual Report on Form 10-K or in any other report or document we file.

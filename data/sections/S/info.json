@@ -1,0 +1,43 @@
+{
+  "ticker": "S",
+  "accession_number": "0001583708-26-000020",
+  "filing_date": "2026-03-19",
+  "fiscal_year": 2026,
+  "full_text_words": 70575,
+  "sections": {
+    "item1": {
+      "words": 10309,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          10309,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 7640,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          7640,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 263
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1018,
+  "human_capital_found": true,
+  "people_paragraph_words": 1284
+}

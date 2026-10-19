@@ -1,0 +1,45 @@
+{
+  "ticker": "SAIL",
+  "accession_number": "0002030781-26-000003",
+  "filing_date": "2026-03-19",
+  "fiscal_year": 2026,
+  "full_text_words": 75171,
+  "sections": {
+    "item1": {
+      "words": 9249,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          9249,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 12250,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 3,
+        "lengths": [
+          12250,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 388
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 1569
+}
