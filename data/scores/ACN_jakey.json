@@ -1,0 +1,135 @@
+{
+  "ticker": "ACN",
+  "company_name": "Accenture",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001467373-26-000049",
+  "filing_date": "2026-10-16",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:20:54",
+  "prompt_chars": 52957,
+  "filing_chars": 32954,
+  "filing_words_sent": 4749,
+  "approx_prompt_tokens": 13239,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Song unit sells marketing, design and digital-product services to clients as part of customer-growth consulting",
+        "quote": "Song – helps clients reinvent how they grow by focusing on the end-to-end customer agenda—bringing together customer growth strategy, marketing, sales, service, commerce, design, digital products, AI and data to create customer-led growth.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Reinvention Services > Reinvention Partners",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: marketing and design are bundled into commercial growth consulting, and the filing does not describe original creative work or support for creators"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Company-wide learning and professional development for employees through a digital learning platform",
+        "quote": "During fiscal 2026, we invested approximately $1.0 billion in learning and professional development.",
+        "source_doc": "10-K",
+        "section": "Item 1 > People",
+        "status": "current",
+        "indicators": "$1.0 billion; 46 million training hours",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap applies to employee-only activity)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Accenture LearnVantage, an education business within the network of businesses",
+        "quote": "The network currently includes businesses focused on areas such as operational technology security (through our acquisition of Dragos), AI and decision intelligence (through our acquisition of Faculty), capital projects (through the launch of Accenture Construct), data centers (through our majority acquisition of DLB), education (through Accenture LearnVantage)",
+        "source_doc": "10-K",
+        "section": "Item 1 > Reinvention Services > Network of Businesses",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "education_business",
+            "criterion": "level 2: specific current education business, but no revenue, learner or customer figures show its reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Accenture Ventures invests in and partners with growth-stage enterprise technology companies",
+        "quote": "Accenture Ventures partners with and invests in growth-stage companies that create innovative enterprise technologies.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Innovation and Intellectual Property",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: strategic venture investing presented as part of the company's own innovation approach, not a program aimed at barriers founders or small businesses face"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only creative-adjacent activity is marketing and design bundled into commercial consulting (Song); the filing gives no revenue or description of original creative work, so I chose the lower level."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: large employee development ($1.0 billion, 46 million training hours) plus a named education business (LearnVantage) with no reach figures, so it does not reach level 3."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the People section is well over 150 words and describes no employee networks, accessibility, multilingual access for underserved customers or community-connecting programs; global offices and foreign language fluency fall under the international-operations trap."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: Accenture Ventures is framed as the company's own innovation strategy, and mid-market solutions are not a small-business enabling program, so no specific enabling service is shown."
+      }
+    },
+    "notes": "The Item 7 excerpt has no qualifying activity; 'technology and data foundations' is not a foundation in the philanthropic sense. Song is borderline for Creativity: it is a named unit offering marketing and design, but the filing gives no revenue and no description of creative output, so it was scored at the lower level. The Communications, Media & Technology group serves publishers, studios and gaming clients, but this is consulting for creative-industry clients rather than creating or enabling creative work, so it was not counted. LearnVantage's share of the network of businesses (about 6% of revenue combined) is not disclosed. The Talent unit's client 'learning' services are part of consulting and were not counted separately. Employee learning partnerships with educational institutions are covered under E2. The planned $1.0 billion AI safety investment is not relevant to any theme. The filing has no diversity, inclusion, accessibility or community-investment discussion.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ACN\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Song unit sells marketing, design and digital-product services to clients as part of customer-growth consulting\",\"quote\":\"Song – helps clients reinvent how they grow by focusing on the end-to-end customer agenda—bringing together customer growth strategy, marketing, sales, service, commerce, design, digital products, AI and data to create customer-led growth.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Reinvention Services > Reinvention Partners\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: marketing and design are bundled into commercial growth consulting, and the filing does not describe original creative work or support for creators\"}}},{\"id\":\"E2\",\"activity\":\"Company-wide learning and professional development for employees through a digital learning platform\",\"quote\":\"During fiscal 2026, we invested approximately $1.0 billion in learning and professional development.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > People\",\"status\":\"current\",\"indicators\":\"$1.0 billion; 46 million training hours\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap applies to employee-only activity)\"}}},{\"id\":\"E3\",\"activity\":\"Accenture LearnVantage, an education business within the network of businesses\",\"quote\":\"The network currently includes businesses focused on areas such as operational technology security (through our acquisition of Dragos), AI and decision intelligence (through our acquisition of Faculty), capital projects (through the launch of Accenture Construct), data centers (through our majority acquisition of DLB), education (through Accenture LearnVantage)\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Reinvention Services > Network of Businesses\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"education_business\",\"criterion\":\"level 2: specific current education business, but no revenue, learner or customer figures show its reach\"}}},{\"id\":\"E4\",\"activity\":\"Accenture Ventures invests in and partners with growth-stage enterprise technology companies\",\"quote\":\"Accenture Ventures partners with and invests in growth-stage companies that create innovative enterprise technologies.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Innovation and Intellectual Property\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: strategic venture investing presented as part of the company's own innovation approach, not a program aimed at barriers founders or small businesses face\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the only creative-adjacent activity is marketing and design bundled into commercial consulting (Song); the filing gives no revenue or description of original creative work, so I chose the lower level.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\"],\"reason\":\"Level 2: large employee development ($1.0 billion, 46 million training hours) plus a named education business (LearnVantage) with no reach figures, so it does not reach level 3.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the People section is well over 150 words and describes no employee networks, accessibility, multilingual access for underserved customers or community-connecting programs; global offices and foreign language fluency fall under the international-operations trap.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: Accenture Ventures is framed as the company's own innovation strategy, and mid-market solutions are not a small-business enabling program, so no specific enabling service is shown.\"}},\"notes\":\"The Item 7 excerpt has no qualifying activity; 'technology and data foundations' is not a foundation in the philanthropic sense. Song is borderline for Creativity: it is a named unit offering marketing and design, but the filing gives no revenue and no description of creative output, so it was scored at the lower level. The Communications, Media & Technology group serves publishers, studios and gaming clients, but this is consulting for creative-industry clients rather than creating or enabling creative work, so it was not counted. LearnVantage's share of the network of businesses (about 6% of revenue combined) is not disclosed. The Talent unit's client 'learning' services are part of consulting and were not counted separately. Employee learning partnerships with educational institutions are covered under E2. The planned $1.0 billion AI safety investment is not relevant to any theme. The filing has no diversity, inclusion, accessibility or community-investment discussion.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 18480,
+      "output_tokens": 5660,
+      "duration_ms": 53674
+    }
+  ]
+}

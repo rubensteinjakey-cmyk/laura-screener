@@ -1,0 +1,85 @@
+{
+  "ticker": "SWKS",
+  "company_name": "Skyworks Solutions",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000004127-25-000085",
+  "filing_date": "2025-11-07",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:11:30",
+  "prompt_chars": 48588,
+  "filing_chars": 28575,
+  "filing_words_sent": 3992,
+  "approx_prompt_tokens": 12147,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee skill development through project assignments, formal training, mentorship and recognition, described only in general terms",
+        "quote": "In addition, we believe that developing our employees’ skill sets and decision-making abilities—through challenging project assignments, formal training, mentorship, and recognition—is key not only to our employees’ job satisfaction and our retention efforts, but also to maintaining a strong leadership pipeline.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 1: general belief statement about employee development with no named program, participants or spending"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers analog and mixed-signal semiconductors with no creative activity, since 'design' means chip design and 'entertainment and gaming' is only an end-market for components."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the Employees section (over 150 words) mentions training and mentorship only as a general belief statement, with no named program, figures or external education or community investment."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the workforce section is long enough to judge but describes no inclusion practices, accessibility or customer-access activity, and global operations and geographic workforce splits do not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the filing shows only the company's own innovation and R&D, resting on general language, with large OEM customers and no service enabling founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Entrepreneurship was set at 1 rather than 0 because the level-1 ladder explicitly covers the company's own innovation ($785.5 million R&D in fiscal 2025), and no enabling activity exists. Workforce figures are geographic and functional only (for example, 54% in Mexico), not demographic or inclusion activity. Indicative final score: 0 + 6 + 0 + 3 = 9/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\n  \"ticker\": \"SWKS\",\n  \"sector\": \"Information Technology\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Item 1\", \"Item 7 (targeted)\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Employee skill development through project assignments, formal training, mentorship and recognition, described only in general terms\",\n      \"quote\": \"In addition, we believe that developing our employees’ skill sets and decision-making abilities—through challenging project assignments, formal training, mentorship, and recognition—is key not only to our employees’ job satisfaction and our retention efforts, but also to maintaining a strong leadership pipeline.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Employees\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\n          \"kind\": \"employee_development\",\n          \"criterion\": \"level 1: general belief statement about employee development with no named program, participants or spending\"\n        }\n      }\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\n      \"score\": 0,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 0: the business description covers analog and mixed-signal semiconductors with no creative activity, since 'design' means chip design and 'entertainment and gaming' is only an end-market for components.\"\n    },\n    \"community\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [\"E1\"],\n      \"reason\": \"Level 1: the Employees section (over 150 words) mentions training and mentorship only as a general belief statement, with no named program, figures or external education or community investment.\"\n    },\n    \"cross_cultural\": {\n      \"score\": 0,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 0: the workforce section is long enough to judge but describes no inclusion practices, accessibility or customer-access activity, and global operations and geographic workforce splits do not count.\"\n    },\n    \"entrepreneurship\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 1: the filing shows only the company's own innovation and R&D, resting on general language, with large OEM customers and no service enabling founders or small businesses.\"\n    }\n  },\n  \"notes\": \"The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Entrepreneurship was set at 1 rather than 0 because the level-1 ladder explicitly covers the company's own innovation ($785.5 million R&D in fiscal 2025), and no enabling activity exists. Workforce figures are geographic and functional only (for example, 54% in Mexico), not demographic or inclusion activity. Indicative final score: 0 + 6 + 0 + 3 = 9/100.\"\n}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16808,
+      "output_tokens": 3364,
+      "duration_ms": 34408
+    }
+  ]
+}

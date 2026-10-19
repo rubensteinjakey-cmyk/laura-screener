@@ -1,0 +1,118 @@
+{
+  "ticker": "UGI",
+  "company_name": "UGI Corp",
+  "sector": "Utilities",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000884614-25-000053",
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:14:08",
+  "prompt_chars": 115554,
+  "filing_chars": 95565,
+  "filing_words_sent": 13863,
+  "approx_prompt_tokens": 28888,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Tuition reimbursement, online learning access and leadership development for employees",
+        "quote": "We invest in our employees’ future through several ways, including tuition reimbursement programs, access to LinkedIn Learning’s online courses, and leadership development.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Retention and Development > Building a Strong Talent Pipeline",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Enterprise-wide leadership training sessions for employees during the fiscal year",
+        "quote": "Throughout Fiscal 2025, the Company conducted enterprise-wide leadership training sessions focused on breakthrough thinking to strengthen the Company’s culture and drive superior performance across its domestic and international business units.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent Retention and Development > Building a Strong Talent Pipeline",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Voluntary employee resource groups (BOLD, VET, WIN) open to all employees, with cultural awareness and veteran-perspective programming",
+        "quote": "Our employee resource groups are voluntary employee-led, self-directed groups that play a vital role in helping UGI cultivate an inclusive environment and promote employee engagement.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > UGI’s Employee Resource Groups",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers energy distribution, midstream and propane in detail and shows no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: the only scored activities are employee development (tuition reimbursement, online learning, leadership training), so Community is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 2: named employee resource groups are a specific current internal practice, but no membership or reach figures are disclosed."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the filing only mentions small-business customers, such as restaurants buying small-bulk LPG, and describes no specific enabling service or program."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Human Capital section is well over 150 words, so Community and Cross-cultural coverage is sufficient. No second look is triggered, even though the filing points to Sustainability Reports that are not incorporated by reference. Trap terms excluded: 'safety is our foundation', 'standing in the community' (board criteria), 'joint venture' (Pine Run Midstream; RNG project offerings), and 'diversified businesses'/'diverse mix' of supply. Emergency training of first responders and communities is mentioned only generally ('where appropriate', varies by business unit) with no program detail. It was not scored, and it would not change the Community level. PA Gas Utility changed its weather normalization rider to address concerns about its impact on low-income customers as part of a regulatory rate settlement. This was treated as a regulatory outcome, not a customer-access program. Board and management diversity statements are general language only. ESG 'Social Responsibility' pillar language is a commitment statement and scores at most 1. Portfolio changes in the year: Italy LPG business divested, Austria divestiture agreement announced, Hawaii propane business sold.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"UGI\",\"sector\":\"Utilities\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Tuition reimbursement, online learning access and leadership development for employees\",\"quote\":\"We invest in our employees’ future through several ways, including tuition reimbursement programs, access to LinkedIn Learning’s online courses, and leadership development.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Retention and Development > Building a Strong Talent Pipeline\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Enterprise-wide leadership training sessions for employees during the fiscal year\",\"quote\":\"Throughout Fiscal 2025, the Company conducted enterprise-wide leadership training sessions focused on breakthrough thinking to strengthen the Company’s culture and drive superior performance across its domestic and international business units.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent Retention and Development > Building a Strong Talent Pipeline\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Voluntary employee resource groups (BOLD, VET, WIN) open to all employees, with cultural awareness and veteran-perspective programming\",\"quote\":\"Our employee resource groups are voluntary employee-led, self-directed groups that play a vital role in helping UGI cultivate an inclusive environment and promote employee engagement.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > UGI’s Employee Resource Groups\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers energy distribution, midstream and propane in detail and shows no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: the only scored activities are employee development (tuition reimbursement, online learning, leadership training), so Community is capped at 2.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 2: named employee resource groups are a specific current internal practice, but no membership or reach figures are disclosed.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: the filing only mentions small-business customers, such as restaurants buying small-bulk LPG, and describes no specific enabling service or program.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Human Capital section is well over 150 words, so Community and Cross-cultural coverage is sufficient. No second look is triggered, even though the filing points to Sustainability Reports that are not incorporated by reference. Trap terms excluded: 'safety is our foundation', 'standing in the community' (board criteria), 'joint venture' (Pine Run Midstream; RNG project offerings), and 'diversified businesses'/'diverse mix' of supply. Emergency training of first responders and communities is mentioned only generally ('where appropriate', varies by business unit) with no program detail. It was not scored, and it would not change the Community level. PA Gas Utility changed its weather normalization rider to address concerns about its impact on low-income customers as part of a regulatory rate settlement. This was treated as a regulatory outcome, not a customer-access program. Board and management diversity statements are general language only. ESG 'Social Responsibility' pillar language is a commitment statement and scores at most 1. Portfolio changes in the year: Italy LPG business divested, Austria divestiture agreement announced, Hawaii propane business sold.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 38691,
+      "output_tokens": 2888,
+      "duration_ms": 28656
+    }
+  ]
+}

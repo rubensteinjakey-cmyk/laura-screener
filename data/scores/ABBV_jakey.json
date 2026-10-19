@@ -1,0 +1,166 @@
+{
+  "ticker": "ABBV",
+  "company_name": "AbbVie",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001551152-26-000008",
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:10:01",
+  "prompt_chars": 91384,
+  "filing_chars": 71394,
+  "filing_words_sent": 10205,
+  "approx_prompt_tokens": 22846,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Year-long self-directed leadership education program for employees",
+        "quote": "AbbVie's Learn, Develop, Perform program offers year-long, self-directed leadership education, supplemented with tools and resources, and leverages leaders as role models and teachers.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Attracting and Developing Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Formal multi-year development programs for graduate and post-doctoral hires",
+        "quote": "In addition, a foundational success factor to AbbVie's leadership pipeline is the company's Professional Development Programs, which attract graduates, postgraduates and post-doctoral talent to participate in formal development programs lasting up to three years, with the objective of strengthening functional and leadership capabilities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Attracting and Developing Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Self-nomination mentorship program pairing employee mentors and mentees",
+        "quote": "One of AbbVie's mentorship programs allows employees to self-nominate as mentors or mentees and facilitates meaningful relationships supporting employees’ career and development goals.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Attracting and Developing Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Annual merit-based college and vocational scholarship for children of employees, funded through the AbbVie Foundation",
+        "quote": "In addition, the AbbVie Employee Assistance Fund (a part of the AbbVie Foundation) supports two programs for global employees: the AbbVie Possibilities Scholarship for children of employees, which is an annual merit-based scholarship for use at accredited colleges, universities or vocational-technical schools",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Attracting and Developing Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current scholarship program, limited in reach (restricted to employees' children, no figures)"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee Resource Groups that build community and connections",
+        "quote": "AbbVie's Employee Resource Groups also help the company nurture an inclusive culture for all by building community and creating connections.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Diversity & Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Annual pay equity analyses",
+        "quote": "Further, AbbVie is committed to pay equity and conducts pay equity analyses annually.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Diversity & Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal practice, limited in reach"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers biopharmaceuticals, aesthetics and eye care products and shows no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: the filing shows employee development programs and a scholarship limited to employees' children with no reach figures, which matches specific activity limited in reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: the filing shows Employee Resource Groups and annual pay equity analyses, but discloses no membership or reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests on general language only, namely the company's own innovation, with no small-business or founder enabling service."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Several items were excluded as traps or non-qualifying: Aesthetics products (Botox Cosmetic, Juvederm) are medical and cosmetic products, not creative work. Partnerships with academic institutions are R&D collaborations, not community education. The Employee Relief Program is employee financial assistance, not community investment. Patient support programs are described only in one general sentence. 'Innovation' and 'joint ventures' are traps. The scholarship (E4) is tagged external_education because recipients are outside the workforce, but it is restricted to employees' children and discloses no figures, so it stays at level 2. 'Embracing diversity and inclusion' and 'serving the community' in the culture section are value statements and were not scored above 1.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ABBV\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Year-long self-directed leadership education program for employees\",\"quote\":\"AbbVie's Learn, Develop, Perform program offers year-long, self-directed leadership education, supplemented with tools and resources, and leverages leaders as role models and teachers.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Attracting and Developing Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Formal multi-year development programs for graduate and post-doctoral hires\",\"quote\":\"In addition, a foundational success factor to AbbVie's leadership pipeline is the company's Professional Development Programs, which attract graduates, postgraduates and post-doctoral talent to participate in formal development programs lasting up to three years, with the objective of strengthening functional and leadership capabilities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Attracting and Developing Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Self-nomination mentorship program pairing employee mentors and mentees\",\"quote\":\"One of AbbVie's mentorship programs allows employees to self-nominate as mentors or mentees and facilitates meaningful relationships supporting employees’ career and development goals.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Attracting and Developing Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E4\",\"activity\":\"Annual merit-based college and vocational scholarship for children of employees, funded through the AbbVie Foundation\",\"quote\":\"In addition, the AbbVie Employee Assistance Fund (a part of the AbbVie Foundation) supports two programs for global employees: the AbbVie Possibilities Scholarship for children of employees, which is an annual merit-based scholarship for use at accredited colleges, universities or vocational-technical schools\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Attracting and Developing Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current scholarship program, limited in reach (restricted to employees' children, no figures)\"}}},{\"id\":\"E5\",\"activity\":\"Employee Resource Groups that build community and connections\",\"quote\":\"AbbVie's Employee Resource Groups also help the company nurture an inclusive culture for all by building community and creating connections.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Diversity & Inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E6\",\"activity\":\"Annual pay equity analyses\",\"quote\":\"Further, AbbVie is committed to pay equity and conducts pay equity analyses annually.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Diversity & Inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal practice, limited in reach\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers biopharmaceuticals, aesthetics and eye care products and shows no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: the filing shows employee development programs and a scholarship limited to employees' children with no reach figures, which matches specific activity limited in reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\"],\"reason\":\"Level 2: the filing shows Employee Resource Groups and annual pay equity analyses, but discloses no membership or reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests on general language only, namely the company's own innovation, with no small-business or founder enabling service.\"}},\"notes\":\"The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Several items were excluded as traps or non-qualifying: Aesthetics products (Botox Cosmetic, Juvederm) are medical and cosmetic products, not creative work. Partnerships with academic institutions are R&D collaborations, not community education. The Employee Relief Program is employee financial assistance, not community investment. Patient support programs are described only in one general sentence. 'Innovation' and 'joint ventures' are traps. The scholarship (E4) is tagged external_education because recipients are outside the workforce, but it is restricted to employees' children and discloses no figures, so it stays at level 2. 'Embracing diversity and inclusion' and 'serving the community' in the culture section are value statements and were not scored above 1.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 30273,
+      "output_tokens": 4167,
+      "duration_ms": 34571
+    }
+  ]
+}

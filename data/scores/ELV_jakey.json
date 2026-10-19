@@ -1,0 +1,134 @@
+{
+  "ticker": "ELV",
+  "company_name": "Elevance Health",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001156039-26-000013",
+  "filing_date": "2026-02-06",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:24:08",
+  "prompt_chars": 121746,
+  "filing_chars": 101748,
+  "filing_words_sent": 14589,
+  "approx_prompt_tokens": 30436,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company-wide training and development programs for associates",
+        "quote": "In 2025, we invested a significant amount in human capital development, averaging approximately 26 hours of training and development per associate.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development and Retention",
+        "status": "current",
+        "indicators": "approximately 26 hours of training and development per associate",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Voluntary associate-led Business Resource Groups open to all associates",
+        "quote": "In addition, in 2025, over 20% of our U.S. workforce participated in our Business Resource Groups, or BRGs, which provide associates meaningful opportunities to connect, collaborate and grow.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Culture, Engagement and Inclusion",
+        "status": "current",
+        "indicators": "over 20% of our U.S. workforce",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 3: employee networks with participation figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Annual gender and race pay equity review of U.S. associates",
+        "quote": "In 2025, we completed a rigorous gender and race pay equity review of our U.S. associates using an industry-leading third-party platform.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Fair Pay",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusive workplace practice, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Medicare Advantage Special Needs Plans tailored to people with disabilities and low-income dual-eligible members",
+        "quote": "In addition, our Medicare Advantage SNPs provide tailored benefits to special needs individuals who are institutionalized or have severe or disabling chronic conditions and to dual-eligible customers, who are low-income seniors and persons under age 65 with disabilities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Product and Service Descriptions > Health Benefits > Medicare Plans",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current service built for underserved customers and people with disabilities, no reach figures for this line"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description of a health insurer and pharmacy/health services company is sufficient to judge and shows no creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only specific measured activity is employee training and development, so Community is capped at 2; community-organization language is general."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 3: Business Resource Groups with a disclosed participation figure (over 20% of the U.S. workforce), supported by pay equity reviews and disability-focused SNP plans."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests on general language only; the filing mentions employer products for smaller employee bases and its own innovation, but no specific service that enables founders or small businesses."
+      }
+    },
+    "notes": "Medicaid and other state-sponsored programs serve low-income people and people with disabilities and are a large business. No Medicaid-specific membership or revenue figure appears in the provided text. The 32% figure covers all U.S. government agencies (Medicare, FEP and others), so level 4 customer access was not assigned; when torn, the lower level was chosen. Several items were not scored as Community investment: the social determinants of health program, the Food as Medicine strategy and work with community organizations. They are member health services or general statements with no grants, dollars or participant numbers. Patient education in care management falls under the 'educating customers' trap. Workforce demographics are referred to the annual Impact Report and were not scored. The values statement and the 'committed to ensuring that all people... can receive individualized care' language is a claim only. The executive title changed from 'Chief Talent & Diversity Officer' to 'Chief Talent Officer', but practices disclosed (BRGs, pay equity) are scored regardless of label. Traps ignored: 'joint venture' (Mosaic Health), 'foundation of our strategy', 'community engagement requirements' (OBBBA Medicaid rules), 'Student Health' (customer type, not education), 'diversified mix' and 'diversification'. Medicare Part D exit in 2026 is planned and does not affect scores.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ELV\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Company-wide training and development programs for associates\",\"quote\":\"In 2025, we invested a significant amount in human capital development, averaging approximately 26 hours of training and development per associate.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development and Retention\",\"status\":\"current\",\"indicators\":\"approximately 26 hours of training and development per associate\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Voluntary associate-led Business Resource Groups open to all associates\",\"quote\":\"In addition, in 2025, over 20% of our U.S. workforce participated in our Business Resource Groups, or BRGs, which provide associates meaningful opportunities to connect, collaborate and grow.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Culture, Engagement and Inclusion\",\"status\":\"current\",\"indicators\":\"over 20% of our U.S. workforce\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 3: employee networks with participation figures\"}}},{\"id\":\"E3\",\"activity\":\"Annual gender and race pay equity review of U.S. associates\",\"quote\":\"In 2025, we completed a rigorous gender and race pay equity review of our U.S. associates using an industry-leading third-party platform.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Fair Pay\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusive workplace practice, limited reach\"}}},{\"id\":\"E4\",\"activity\":\"Medicare Advantage Special Needs Plans tailored to people with disabilities and low-income dual-eligible members\",\"quote\":\"In addition, our Medicare Advantage SNPs provide tailored benefits to special needs individuals who are institutionalized or have severe or disabling chronic conditions and to dual-eligible customers, who are low-income seniors and persons under age 65 with disabilities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Product and Service Descriptions > Health Benefits > Medicare Plans\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current service built for underserved customers and people with disabilities, no reach figures for this line\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description of a health insurer and pharmacy/health services company is sufficient to judge and shows no creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only specific measured activity is employee training and development, so Community is capped at 2; community-organization language is general.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 3: Business Resource Groups with a disclosed participation figure (over 20% of the U.S. workforce), supported by pay equity reviews and disability-focused SNP plans.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests on general language only; the filing mentions employer products for smaller employee bases and its own innovation, but no specific service that enables founders or small businesses.\"}},\"notes\":\"Medicaid and other state-sponsored programs serve low-income people and people with disabilities and are a large business. No Medicaid-specific membership or revenue figure appears in the provided text. The 32% figure covers all U.S. government agencies (Medicare, FEP and others), so level 4 customer access was not assigned; when torn, the lower level was chosen. Several items were not scored as Community investment: the social determinants of health program, the Food as Medicine strategy and work with community organizations. They are member health services or general statements with no grants, dollars or participant numbers. Patient education in care management falls under the 'educating customers' trap. Workforce demographics are referred to the annual Impact Report and were not scored. The values statement and the 'committed to ensuring that all people... can receive individualized care' language is a claim only. The executive title changed from 'Chief Talent & Diversity Officer' to 'Chief Talent Officer', but practices disclosed (BRGs, pay equity) are scored regardless of label. Traps ignored: 'joint venture' (Mosaic Health), 'foundation of our strategy', 'community engagement requirements' (OBBBA Medicaid rules), 'Student Health' (customer type, not education), 'diversified mix' and 'diversification'. Medicare Part D exit in 2026 is planned and does not affect scores.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 39201,
+      "output_tokens": 4402,
+      "duration_ms": 39511
+    }
+  ]
+}

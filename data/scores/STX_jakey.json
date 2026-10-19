@@ -1,0 +1,168 @@
+{
+  "ticker": "STX",
+  "company_name": "Seagate Technology",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001137789-26-000159",
+  "filing_date": "2026-08-04",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:15:26",
+  "prompt_chars": 48820,
+  "filing_chars": 28808,
+  "filing_words_sent": 3971,
+  "approx_prompt_tokens": 12205,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Branded retail storage products sold to casual users, gamers and creative professionals",
+        "quote": "Our retail channel primarily serves casual users, gamers and creative professionals through branded storage products sold directly to retailers or through our distribution partners.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 1: general-purpose storage marketed partly to creative professionals, with no creator-specific product or figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Mentoring, coaching, technical and leadership training for employees",
+        "quote": "We also provide mentoring, coaching, technical and leadership training, on-the-job learning and other professional development opportunities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee volunteer STEM educational programming for students and local community partnerships",
+        "quote": "During fiscal year 2026, these efforts included educational programming for students, environmental cleanup and tree-planting activities, and community partnerships across our global locations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Community Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education and community activity, with no reach figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Voluntary employee-led Employee Resource Groups supported by company leaders",
+        "quote": "Our ERGs operate through 32 chapters across eight countries and are supported by Seagate leaders.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Culture of Inclusion",
+        "status": "current",
+        "indicators": "32 chapters across eight countries",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with chapter counts but no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Company recognition of cultural and heritage events across global locations",
+        "quote": "We also recognize cultural and heritage events across our global locations to reflect the diverse backgrounds and experiences of our employees and strengthen connections across our workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Culture of Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal cultural practice, limited in disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Company's own research and development in storage technology",
+        "quote": "Research and development (“R&D”) is central to our long-term growth strategy.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Research and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: the company's own innovation only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: general-purpose storage is sold to creative professionals among several customer groups, with no creator-specific product line or figures, so the lower level was chosen when torn."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: employee development plus specific current STEM education and community partnerships, with no participant or dollar figures to support level 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: employee resource groups (32 chapters, eight countries, no membership figures) and cultural heritage events; coverage is insufficient under condition 2 because the inclusion discussion is under about 150 words."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: only the company's own innovation and R&D, with no small-business or founder enabling service."
+      }
+    },
+    "notes": "The Item 7 excerpt covers only liquidity and contains no theme-relevant activity. 'Creative workflows' in the Edge IoT product description refers to the same consumer storage activity as E1 and is not counted separately. The following are not counted: 'content delivery', 'create ... data', product and chip 'design', patent 'licensing', 'foundation' meaning technology base, and health and safety training (compliance). The filing points to a Sustainability Report for sustainability information only. The cross-cultural 'insufficient' coverage (word-count condition 2) triggers the second look. The 25,000 employees in Asia figure is location data and is not scored. Cross-cultural was held at 2 rather than 3 because chapter counts are not membership figures. Entrepreneurship was scored 1 for own innovation per the level-1 ladder text, even though 'innovation' is listed as a trap for enabling evidence.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"STX\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Branded retail storage products sold to casual users, gamers and creative professionals\",\"quote\":\"Our retail channel primarily serves casual users, gamers and creative professionals through branded storage products sold directly to retailers or through our distribution partners.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 1: general-purpose storage marketed partly to creative professionals, with no creator-specific product or figures\"}}},{\"id\":\"E2\",\"activity\":\"Mentoring, coaching, technical and leadership training for employees\",\"quote\":\"We also provide mentoring, coaching, technical and leadership training, on-the-job learning and other professional development opportunities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Employee volunteer STEM educational programming for students and local community partnerships\",\"quote\":\"During fiscal year 2026, these efforts included educational programming for students, environmental cleanup and tree-planting activities, and community partnerships across our global locations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Community Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education and community activity, with no reach figures disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Voluntary employee-led Employee Resource Groups supported by company leaders\",\"quote\":\"Our ERGs operate through 32 chapters across eight countries and are supported by Seagate leaders.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Culture of Inclusion\",\"status\":\"current\",\"indicators\":\"32 chapters across eight countries\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with chapter counts but no membership figures\"}}},{\"id\":\"E5\",\"activity\":\"Company recognition of cultural and heritage events across global locations\",\"quote\":\"We also recognize cultural and heritage events across our global locations to reflect the diverse backgrounds and experiences of our employees and strengthen connections across our workforce.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Culture of Inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal cultural practice, limited in disclosed reach\"}}},{\"id\":\"E6\",\"activity\":\"Company's own research and development in storage technology\",\"quote\":\"Research and development (“R&D”) is central to our long-term growth strategy.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Research and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: the company's own innovation only\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: general-purpose storage is sold to creative professionals among several customer groups, with no creator-specific product line or figures, so the lower level was chosen when torn.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\"],\"reason\":\"Level 2: employee development plus specific current STEM education and community partnerships, with no participant or dollar figures to support level 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E4\",\"E5\"],\"reason\":\"Level 2: employee resource groups (32 chapters, eight countries, no membership figures) and cultural heritage events; coverage is insufficient under condition 2 because the inclusion discussion is under about 150 words.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: only the company's own innovation and R&D, with no small-business or founder enabling service.\"}},\"notes\":\"The Item 7 excerpt covers only liquidity and contains no theme-relevant activity. 'Creative workflows' in the Edge IoT product description refers to the same consumer storage activity as E1 and is not counted separately. The following are not counted: 'content delivery', 'create ... data', product and chip 'design', patent 'licensing', 'foundation' meaning technology base, and health and safety training (compliance). The filing points to a Sustainability Report for sustainability information only. The cross-cultural 'insufficient' coverage (word-count condition 2) triggers the second look. The 25,000 employees in Asia figure is location data and is not scored. Cross-cultural was held at 2 rather than 3 because chapter counts are not membership figures. Entrepreneurship was scored 1 for own innovation per the level-1 ladder text, even though 'innovation' is listed as a trap for enabling evidence.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16751,
+      "output_tokens": 4835,
+      "duration_ms": 46122
+    }
+  ]
+}

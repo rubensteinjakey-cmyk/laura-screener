@@ -1,0 +1,214 @@
+{
+  "ticker": "WSM",
+  "company_name": "Williams-Sonoma, Inc.",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000719955-26-000059",
+  "filing_date": "2026-03-26",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:04:41",
+  "prompt_chars": 41594,
+  "filing_chars": 21579,
+  "filing_words_sent": 3165,
+  "approx_prompt_tokens": 10398,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "West Elm sells a curated selection of goods handcrafted by makers around the world",
+        "quote": "West Elm creates unique, modern and affordable home décor and curates a selection of goods that are crafted by makers from across the world.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business > West Elm",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current activity paying and selling the work of independent makers, limited disclosed scale"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "GreenRow brand works with a network of artisan makers to produce its collection",
+        "quote": "The brand works with a world-class network of makers to create a collection of vibrant, vintage-inspired pieces, responsibly sourced and designed to last.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business > GreenRow",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current activity working with artisan makers, limited disclosed scale"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Williams Sonoma brand retails a large selection of cookbooks",
+        "quote": "Williams Sonoma products offer everything for cooking, dining and entertaining, including: cookware, tools, electrics, cutlery, tabletop and bar, food, outdoor, furniture and a vast library of cookbooks.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business > Williams Sonoma",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: sells authored creative works (cookbooks) as one minor product category, no revenue disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "In-house teams design the company's proprietary products",
+        "quote": "Our in-house teams design our proprietary products and work with our talented suppliers to bring high-quality, lasting products to market through our high-touch multi-channel platform.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Competition and Seasonality",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: in-house product design as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "In-person and online learning and professional development courses for associates",
+        "quote": "We offer in-person and online learning, as well as professional development courses, such as goal setting and leadership training.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Values > People First > Talent Development and Career Mobility",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Advisor Program pairing associates with leaders for career guidance",
+        "quote": "Our Advisor Program matches associates and leaders from across the Company to form advisor/advisee relationships, providing associates with career guidance and support in working through career aspirations and development goals.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Values > People First > Talent Development and Career Mobility",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: named employee mentoring program (cap)"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Paid Community Involvement Time for eligible associates to volunteer",
+        "quote": "We support our communities through our associates’ time and leadership, and we provide eight hours of paid Community Involvement Time each year to eligible associates.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Values > People First > Community Involvement",
+        "status": "current",
+        "indicators": "eight hours",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: named volunteering benefit, no participation or dollar figures showing reach"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Curated in-person volunteer events supporting local and national nonprofit partners",
+        "quote": "Additionally, we provide opportunities for associates to volunteer their time and talents with curated in-person events that support our local and national nonprofit partners.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Values > People First > Community Involvement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: nonprofit partnership volunteering, limited disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Anonymous employee reporting hotline available in multiple languages",
+        "quote": "Our human resources department maintains an open-door policy for associates to report concerns, and we provide an anonymous reporting hotline, which is available in multiple languages and managed by an independent company.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Values > People First > Associate Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: multilingual reporting hotline is largely compliance infrastructure, minimal inclusion practice"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: specific current activities enabling makers and selling authored cookbooks, limited in disclosed scale. Core in-house design (E4) is a routine input, worth at most 1."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6",
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 2: employee development plus volunteering time and nonprofit-partner events, with no participant or dollar figures showing substantial reach."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E9"
+        ],
+        "reason": "Level 1: the human capital section is ample, but the only related practice is a multilingual compliance hotline, and international stores and franchises do not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language (the founder's small-business origin story), with no specific program enabling founders or small businesses."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so no MD&A paragraphs mentioned theme terms. Franchise agreements with third parties in Mexico, South Korea, India and the Philippines (90 locations) were not counted for Entrepreneurship or Cross-cultural, because international operations alone don't count and they are not described as enabling small businesses. Matching donations to nonprofits and paid volunteer time also appear in the benefits list. They are not recorded separately, because the only quotable text is a list fragment and the volunteering time is already covered by E7. Creativity is close to the 1/2 boundary: the 'makers' (E1, E2) and cookbook sales (E3) are judged enabling, but scale is undisclosed. Cross-cultural is close to the 1/2 boundary, and the lower level was chosen.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"WSM\",\"sector\":\"Consumer Discretionary\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"West Elm sells a curated selection of goods handcrafted by makers around the world\",\"quote\":\"West Elm creates unique, modern and affordable home décor and curates a selection of goods that are crafted by makers from across the world.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business > West Elm\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current activity paying and selling the work of independent makers, limited disclosed scale\"}}},{\"id\":\"E2\",\"activity\":\"GreenRow brand works with a network of artisan makers to produce its collection\",\"quote\":\"The brand works with a world-class network of makers to create a collection of vibrant, vintage-inspired pieces, responsibly sourced and designed to last.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business > GreenRow\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current activity working with artisan makers, limited disclosed scale\"}}},{\"id\":\"E3\",\"activity\":\"Williams Sonoma brand retails a large selection of cookbooks\",\"quote\":\"Williams Sonoma products offer everything for cooking, dining and entertaining, including: cookware, tools, electrics, cutlery, tabletop and bar, food, outdoor, furniture and a vast library of cookbooks.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business > Williams Sonoma\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: sells authored creative works (cookbooks) as one minor product category, no revenue disclosed\"}}},{\"id\":\"E4\",\"activity\":\"In-house teams design the company's proprietary products\",\"quote\":\"Our in-house teams design our proprietary products and work with our talented suppliers to bring high-quality, lasting products to market through our high-touch multi-channel platform.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Competition and Seasonality\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: in-house product design as a routine business input\"}}},{\"id\":\"E5\",\"activity\":\"In-person and online learning and professional development courses for associates\",\"quote\":\"We offer in-person and online learning, as well as professional development courses, such as goal setting and leadership training.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Values > People First > Talent Development and Career Mobility\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E6\",\"activity\":\"Advisor Program pairing associates with leaders for career guidance\",\"quote\":\"Our Advisor Program matches associates and leaders from across the Company to form advisor/advisee relationships, providing associates with career guidance and support in working through career aspirations and development goals.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Values > People First > Talent Development and Career Mobility\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: named employee mentoring program (cap)\"}}},{\"id\":\"E7\",\"activity\":\"Paid Community Involvement Time for eligible associates to volunteer\",\"quote\":\"We support our communities through our associates’ time and leadership, and we provide eight hours of paid Community Involvement Time each year to eligible associates.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Values > People First > Community Involvement\",\"status\":\"current\",\"indicators\":\"eight hours\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: named volunteering benefit, no participation or dollar figures showing reach\"}}},{\"id\":\"E8\",\"activity\":\"Curated in-person volunteer events supporting local and national nonprofit partners\",\"quote\":\"Additionally, we provide opportunities for associates to volunteer their time and talents with curated in-person events that support our local and national nonprofit partners.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Values > People First > Community Involvement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: nonprofit partnership volunteering, limited disclosed reach\"}}},{\"id\":\"E9\",\"activity\":\"Anonymous employee reporting hotline available in multiple languages\",\"quote\":\"Our human resources department maintains an open-door policy for associates to report concerns, and we provide an anonymous reporting hotline, which is available in multiple languages and managed by an independent company.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Values > People First > Associate Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 1: multilingual reporting hotline is largely compliance infrastructure, minimal inclusion practice\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: specific current activities enabling makers and selling authored cookbooks, limited in disclosed scale. Core in-house design (E4) is a routine input, worth at most 1.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\",\"E7\",\"E8\"],\"reason\":\"Level 2: employee development plus volunteering time and nonprofit-partner events, with no participant or dollar figures showing substantial reach.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E9\"],\"reason\":\"Level 1: the human capital section is ample, but the only related practice is a multilingual compliance hotline, and international stores and franchises do not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language (the founder's small-business origin story), with no specific program enabling founders or small businesses.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so no MD&A paragraphs mentioned theme terms. Franchise agreements with third parties in Mexico, South Korea, India and the Philippines (90 locations) were not counted for Entrepreneurship or Cross-cultural, because international operations alone don't count and they are not described as enabling small businesses. Matching donations to nonprofits and paid volunteer time also appear in the benefits list. They are not recorded separately, because the only quotable text is a list fragment and the volunteering time is already covered by E7. Creativity is close to the 1/2 boundary: the 'makers' (E1, E2) and cookbook sales (E3) are judged enabling, but scale is undisclosed. Cross-cultural is close to the 1/2 boundary, and the lower level was chosen.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 14861,
+      "output_tokens": 5414,
+      "duration_ms": 49806
+    }
+  ]
+}

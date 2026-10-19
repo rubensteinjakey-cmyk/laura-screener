@@ -1,0 +1,85 @@
+{
+  "ticker": "PR",
+  "company_name": "Permian Resources",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001658566-26-000035",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:18:39",
+  "prompt_chars": 88553,
+  "filing_chars": 68559,
+  "filing_words_sent": 10435,
+  "approx_prompt_tokens": 22138,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Regular safety training sessions and monthly safety meetings for field employees",
+        "quote": "Through frequent training sessions and monthly safety meetings, we equip our field employees with the knowledge and tools to mitigate risks and uphold our strong safety culture.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 1: workplace safety training, treated as compliance-type training under the lower-level rule"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers oil and gas acquisition, development and production in full and shows no creative activity."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only specific training described is field safety training (compliance-type), and the reference to career-growth programs is general language with no specific program, so the lower level applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests on general language only, a statement valuing employees with 'different skillsets, experiences and interests', with no specific practice, network or customer-access activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description shows no service or program enabling founders or small businesses; 'empower our employees to be innovators' is a trap term and does not count."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs mentioned the theme terms. The Human Capital Resources section runs about 330 words and covers employees, benefits, workforce composition and safety, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. 'Community' appears only in regulatory contexts (e.g., Emergency Planning and Community Right-to-Know Act) and in a general safety statement; neither qualifies. Disability plans are listed as standard benefits and were not treated as an inclusion practice. Indicative final score: 0 + 6 + 4 + 0 = 10/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\n  \"ticker\": \"PR\",\n  \"sector\": \"Energy\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Item 1\", \"Item 7 (targeted)\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Regular safety training sessions and monthly safety meetings for field employees\",\n      \"quote\": \"Through frequent training sessions and monthly safety meetings, we equip our field employees with the knowledge and tools to mitigate risks and uphold our strong safety culture.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Human Capital Resources\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\n          \"kind\": \"employee_development\",\n          \"criterion\": \"level 1: workplace safety training, treated as compliance-type training under the lower-level rule\"\n        }\n      }\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\n      \"score\": 0,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 0: the business description covers oil and gas acquisition, development and production in full and shows no creative activity.\"\n    },\n    \"community\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [\"E1\"],\n      \"reason\": \"Level 1: the only specific training described is field safety training (compliance-type), and the reference to career-growth programs is general language with no specific program, so the lower level applies.\"\n    },\n    \"cross_cultural\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 1: this rests on general language only, a statement valuing employees with 'different skillsets, experiences and interests', with no specific practice, network or customer-access activity.\"\n    },\n    \"entrepreneurship\": {\n      \"score\": 0,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 0: the business description shows no service or program enabling founders or small businesses; 'empower our employees to be innovators' is a trap term and does not count.\"\n    }\n  },\n  \"notes\": \"The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs mentioned the theme terms. The Human Capital Resources section runs about 330 words and covers employees, benefits, workforce composition and safety, so Community and Cross-cultural coverage is marked sufficient and no second look is triggered. 'Community' appears only in regulatory contexts (e.g., Emergency Planning and Community Right-to-Know Act) and in a general safety statement; neither qualifies. Disability plans are listed as standard benefits and were not treated as an inclusion practice. Indicative final score: 0 + 6 + 4 + 0 = 10/100.\"\n}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 29640,
+      "output_tokens": 2087,
+      "duration_ms": 21872
+    }
+  ]
+}

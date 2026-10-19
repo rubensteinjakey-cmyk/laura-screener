@@ -1,0 +1,134 @@
+{
+  "ticker": "QCOM",
+  "company_name": "Qualcomm",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000804328-25-000085",
+  "filing_date": "2025-11-05",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:12:21",
+  "prompt_chars": 84062,
+  "filing_chars": 64059,
+  "filing_words_sent": 9083,
+  "approx_prompt_tokens": 21015,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Training, rotational assignments and talent development programs for employees",
+        "quote": "We deliver numerous training opportunities, provide rotational assignment opportunities, focus on continuous learning and development and have implemented what we believe are industry-leading methodologies to manage performance, provide feedback and develop talent.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee-led Giving Committees award grants to local organizations, funded mainly by the Qualcomm Foundation",
+        "quote": "In our offices around the world, our employee-led Giving Committees select local organizations to support, often in the form of grants that are primarily funded by the Qualcomm Foundation (which was established to support charitable giving and volunteerism).",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Building Connections - With Each Other and our Communities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community grant activity, no reach figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Charitable match program for employee donations",
+        "quote": "Additionally, employees can enhance their contributions to qualified charitable organizations of their choice by utilizing our charitable match program.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Building Connections - With Each Other and our Communities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current giving program, no reach figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Qualcomm Ventures makes strategic investments in early-stage companies to expand opportunities for Qualcomm's own technologies",
+        "quote": "QSI makes strategic investments primarily through our Qualcomm Ventures arm that are focused on expanding or opening new opportunities for our technologies as well as supporting the design and introduction of new products and services (or enhancing existing products or services).",
+        "source_doc": "10-K",
+        "section": "Item 1 > Operating Segments > QSI Segment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: strategic corporate investing aimed at the company's own technologies, not a program aimed at founders' barriers"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers chips, connectivity and patent licensing in detail but shows no creating or enabling of creative work; 'design' here means engineering, 'licensing' means patents, and GPU and multimedia components are engineering inputs."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: the filing describes specific current community investment (Foundation-funded Giving Committee grants and a charitable match) plus employee development, but gives no participants or dollar figures, so it does not reach level 3."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the Human Capital section is substantial but describes no employee networks, accessibility, multilingual or underserved-customer programs, and operating in 38 countries or selling entry-level devices into emerging regions does not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 1: the only related activity is Qualcomm Ventures' strategic investing in early-stage companies to advance Qualcomm's own technologies, with no named program aimed at founders' or small businesses' barriers."
+      }
+    },
+    "notes": "Item 7 excerpt about 'educating participants in the wireless industry and governments' concerns advocacy for Qualcomm's licensing programs and is a trap, so it was not scored. Patent licensing (QTL), 'design' meaning chip and RF design, 'state-of-the-art'-type language, and AI model references are traps and were not scored. Community is held at 2 because the grant and match programs have no disclosed dollars or reach; the volunteer-collaboration sentence was not quoted because it is split by a page break. Tuition assistance, adoption and surrogacy assistance, and family care appear only in a general benefits list without any inclusion framing, so they were not scored for Cross-cultural. The filing points to a Corporate Responsibility Report on qualcomm.com for sustainability, sourcing, citizenship and responsible AI. It does not point there specifically for inclusion, and it has a full Human Capital section, so Cross-cultural coverage was marked sufficient under the strict definition. Qualcomm Ventures' early-stage investments were treated as own-innovation strategic investing rather than enabling founders, because the filing frames them as serving Qualcomm's technologies.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"QCOM\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Training, rotational assignments and talent development programs for employees\",\"quote\":\"We deliver numerous training opportunities, provide rotational assignment opportunities, focus on continuous learning and development and have implemented what we believe are industry-leading methodologies to manage performance, provide feedback and develop talent.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Employee-led Giving Committees award grants to local organizations, funded mainly by the Qualcomm Foundation\",\"quote\":\"In our offices around the world, our employee-led Giving Committees select local organizations to support, often in the form of grants that are primarily funded by the Qualcomm Foundation (which was established to support charitable giving and volunteerism).\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Building Connections - With Each Other and our Communities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community grant activity, no reach figures disclosed\"}}},{\"id\":\"E3\",\"activity\":\"Charitable match program for employee donations\",\"quote\":\"Additionally, employees can enhance their contributions to qualified charitable organizations of their choice by utilizing our charitable match program.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Building Connections - With Each Other and our Communities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current giving program, no reach figures disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Qualcomm Ventures makes strategic investments in early-stage companies to expand opportunities for Qualcomm's own technologies\",\"quote\":\"QSI makes strategic investments primarily through our Qualcomm Ventures arm that are focused on expanding or opening new opportunities for our technologies as well as supporting the design and introduction of new products and services (or enhancing existing products or services).\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Operating Segments > QSI Segment\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: strategic corporate investing aimed at the company's own technologies, not a program aimed at founders' barriers\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers chips, connectivity and patent licensing in detail but shows no creating or enabling of creative work; 'design' here means engineering, 'licensing' means patents, and GPU and multimedia components are engineering inputs.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: the filing describes specific current community investment (Foundation-funded Giving Committee grants and a charitable match) plus employee development, but gives no participants or dollar figures, so it does not reach level 3.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the Human Capital section is substantial but describes no employee networks, accessibility, multilingual or underserved-customer programs, and operating in 38 countries or selling entry-level devices into emerging regions does not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 1: the only related activity is Qualcomm Ventures' strategic investing in early-stage companies to advance Qualcomm's own technologies, with no named program aimed at founders' or small businesses' barriers.\"}},\"notes\":\"Item 7 excerpt about 'educating participants in the wireless industry and governments' concerns advocacy for Qualcomm's licensing programs and is a trap, so it was not scored. Patent licensing (QTL), 'design' meaning chip and RF design, 'state-of-the-art'-type language, and AI model references are traps and were not scored. Community is held at 2 because the grant and match programs have no disclosed dollars or reach; the volunteer-collaboration sentence was not quoted because it is split by a page break. Tuition assistance, adoption and surrogacy assistance, and family care appear only in a general benefits list without any inclusion framing, so they were not scored for Cross-cultural. The filing points to a Corporate Responsibility Report on qualcomm.com for sustainability, sourcing, citizenship and responsible AI. It does not point there specifically for inclusion, and it has a full Human Capital section, so Cross-cultural coverage was marked sufficient under the strict definition. Qualcomm Ventures' early-stage investments were treated as own-innovation strategic investing rather than enabling founders, because the filing frames them as serving Qualcomm's technologies.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 27462,
+      "output_tokens": 4984,
+      "duration_ms": 49592
+    }
+  ]
+}

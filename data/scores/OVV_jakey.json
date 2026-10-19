@@ -1,0 +1,118 @@
+{
+  "ticker": "OVV",
+  "company_name": "Ovintiv",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-064309",
+  "filing_date": "2026-02-23",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:18:16",
+  "prompt_chars": 98187,
+  "filing_chars": 78202,
+  "filing_words_sent": 11838,
+  "approx_prompt_tokens": 24546,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee skills development through job rotations, mentoring, formal learning programs and instructor-led workshops",
+        "quote": "Opportunities are provided for Ovintiv’s employees to further develop leadership, technical and business skills through on-the-job work experiences and job rotations, development opportunities, networking and mentoring, as well as formal learning programs and instructor led workshops.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Employee Development and Retention",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "New graduate and intern hiring program in technical and professional disciplines",
+        "quote": "The Company also offers new graduate and intern opportunities in both technical and professional disciplines to support the recruitment of top talent, hiring an average of 13 new graduates and 44 interns per year over the past three years.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Employee Development and Retention",
+        "status": "current",
+        "indicators": "13 new graduates and 44 interns per year",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap); framed as recruitment of talent into the company, not external education"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee networking group (Leveraging Inclusion, Networking and Knowledge) open to all employees",
+        "quote": "Ovintiv has an employee networking group called Leveraging Inclusion, Networking and Knowledge, which helps provide opportunities for all employees to engage, collaborate, learn and grow, in addition to fostering an environment where diverse perspectives are celebrated.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Inclusive Workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee network with no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers oil and natural gas exploration and production and shows no creative activity; 'design' references are engineering (casing and well design)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: only employee development activities are described, so the score is capped at 2; community contributions appear only as general language."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 2: a single named employee networking group with no membership or reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own innovation and AI-driven efficiency, with no service or program enabling founders or small businesses."
+      }
+    },
+    "notes": "Item 7 excerpt references a 'social commitment framework' and 'positive contributions to the communities where it operates' without specific programs, so it is treated as general language. The filing points to an annual Sustainability Report and sustainability.ovintiv.com, but Item 1 itself has a Human Capital section above 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Indigenous consultation (Blueberry River First Nation agreement) is a regulatory process, not a company program, and is not scored. Safety training is compliance training and reserves-evaluator training is narrow internal training; neither changes the Community score. The interns figure reflects recruitment into the company, so it is tagged employee_development rather than external_education.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"OVV\",\"sector\":\"Energy\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee skills development through job rotations, mentoring, formal learning programs and instructor-led workshops\",\"quote\":\"Opportunities are provided for Ovintiv’s employees to further develop leadership, technical and business skills through on-the-job work experiences and job rotations, development opportunities, networking and mentoring, as well as formal learning programs and instructor led workshops.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Employee Development and Retention\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"New graduate and intern hiring program in technical and professional disciplines\",\"quote\":\"The Company also offers new graduate and intern opportunities in both technical and professional disciplines to support the recruitment of top talent, hiring an average of 13 new graduates and 44 interns per year over the past three years.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Employee Development and Retention\",\"status\":\"current\",\"indicators\":\"13 new graduates and 44 interns per year\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap); framed as recruitment of talent into the company, not external education\"}}},{\"id\":\"E3\",\"activity\":\"Employee networking group (Leveraging Inclusion, Networking and Knowledge) open to all employees\",\"quote\":\"Ovintiv has an employee networking group called Leveraging Inclusion, Networking and Knowledge, which helps provide opportunities for all employees to engage, collaborate, learn and grow, in addition to fostering an environment where diverse perspectives are celebrated.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Inclusive Workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee network with no figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers oil and natural gas exploration and production and shows no creative activity; 'design' references are engineering (casing and well design).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: only employee development activities are described, so the score is capped at 2; community contributions appear only as general language.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 2: a single named employee networking group with no membership or reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own innovation and AI-driven efficiency, with no service or program enabling founders or small businesses.\"}},\"notes\":\"Item 7 excerpt references a 'social commitment framework' and 'positive contributions to the communities where it operates' without specific programs, so it is treated as general language. The filing points to an annual Sustainability Report and sustainability.ovintiv.com, but Item 1 itself has a Human Capital section above 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Indigenous consultation (Blueberry River First Nation agreement) is a regulatory process, not a company program, and is not scored. Safety training is compliance training and reserves-evaluator training is narrow internal training; neither changes the Community score. The interns figure reflects recruitment into the company, so it is tagged employee_development rather than external_education.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 34120,
+      "output_tokens": 2162,
+      "duration_ms": 22093
+    }
+  ]
+}

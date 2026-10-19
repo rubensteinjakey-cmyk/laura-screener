@@ -1,0 +1,184 @@
+{
+  "ticker": "ROKU",
+  "company_name": "Roku, Inc.",
+  "sector": "Communication Services",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-008114",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:17:52",
+  "prompt_chars": 63425,
+  "filing_chars": 43420,
+  "filing_words_sent": 6535,
+  "approx_prompt_tokens": 15856,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Operates The Roku Channel, a free ad-supported service that licenses and distributes a large library of films and TV shows, including Roku Originals",
+        "quote": "Viewers can stream a broad variety of 80,000+ movies and TV shows, including Roku Originals, for free.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Platform Segment > The Roku Channel",
+        "status": "current",
+        "indicators": "80,000+ movies and TV shows",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 4: licensing and distributing creators' film and TV work through an owned service in the reported Platform segment, with a disclosed library size"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Produces original programming (Roku Originals) alongside licensed third-party content",
+        "quote": "The foundation of our content strategy for The Roku Channel is third-party licensed content and, to a smaller extent, our original programming, Roku Originals.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Platform Segment > The Roku Channel",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "creates",
+            "criterion": "level 2: specific current creation of original film/TV content, described as a smaller part of the content strategy"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Runs a streaming platform where content partners publish apps to distribute and monetize their streaming content",
+        "quote": "Our significant scale, ability to reach highly engaged viewers, tools that enable seamless signups, and marketing/discovery features make us an attractive platform to content partners.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Platform Segment > Platform Revenue",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 4: distribution and monetization platform for content publishers is central to the reported Platform segment"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Social Impact program in which employees work with educational and workforce development organizations to give young people industry insight and hands-on experience",
+        "quote": "Purposeful investments in developing future talent across our industry are made through our Social Impact program.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: named external education program with no participant or dollar figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Learning and Growth team provides onboarding, training, 1:1 leadership coaching and on-demand skill development for employees",
+        "quote": "Our Learning and Growth team provides our employees with the training and development needed to support our strategic priorities and growth.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Inclusion Strategy team supports employee resource groups and inclusion programs",
+        "quote": "Our Inclusion Strategy team partners across Roku to advance inclusion through strategic programs, support our employee resource groups, expand talent communities, and amplify our employer brand story.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee resource groups with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Roku Ads Manager partner integration that lets small and medium-sized businesses repurpose social media content for TV ads, lowering production cost",
+        "quote": "We also have a partner integration with Roku Ads Manager to enable SMBs to efficiently repurpose social media content for TV streaming, reducing production costs and complexity to make advertising on TV more accessible.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Business Growth > Advertising Innovation",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific self-service tool aimed at the cost barrier small businesses face in TV advertising, with no reach figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 4,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E3",
+          "E2"
+        ],
+        "reason": "Level 4: licensing, distributing and enabling monetization of film/TV content is a major part of the reported Platform segment, with a disclosed library of 80,000+ titles; it is not scored 5 because revenue rests mainly on advertising and devices rather than the creative work itself, and when torn the lower level applies."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: a named external Social Impact education program and employee training are described, but no participant or dollar figures show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 2: employee resource groups supported by an Inclusion Strategy team, with no membership figures; international expansion is excluded by the rubric."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7"
+        ],
+        "reason": "Level 2: a specific Roku Ads Manager integration lowers TV-advertising production costs for small and medium-sized businesses, with no disclosed reach."
+      }
+    },
+    "notes": "The Item 7 (targeted) section was empty, so all evidence comes from Item 1. Several items were left out under the rubric's traps or limits. 'Entrepreneurial, execution-focused culture' is a culture claim and scores at most 1. Partnerships with Shopify and others on action ads are advertiser tools, not small-business enabling. Roku City 'original storytelling' is an ad product, which falls under the brand-marketing storytelling trap. 'Inclusive content' and storytelling that represents audiences from different backgrounds is general language with no specific program. The Platform segment's reach (more than 90 million Streaming Households, 145.6 billion Streaming Hours) is disclosed in other paragraphs, so it supports the Creativity level 4 judgment but is not cited as an indicator. Howdy (nearly 10,000 hours) and Frndly TV (more than 50 live channels) are further owned content-distribution services under the same Creativity activity and were not recorded separately.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ROKU\",\"sector\":\"Communication Services\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Operates The Roku Channel, a free ad-supported service that licenses and distributes a large library of films and TV shows, including Roku Originals\",\"quote\":\"Viewers can stream a broad variety of 80,000+ movies and TV shows, including Roku Originals, for free.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Platform Segment > The Roku Channel\",\"status\":\"current\",\"indicators\":\"80,000+ movies and TV shows\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 4: licensing and distributing creators' film and TV work through an owned service in the reported Platform segment, with a disclosed library size\"}}},{\"id\":\"E2\",\"activity\":\"Produces original programming (Roku Originals) alongside licensed third-party content\",\"quote\":\"The foundation of our content strategy for The Roku Channel is third-party licensed content and, to a smaller extent, our original programming, Roku Originals.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Platform Segment > The Roku Channel\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"creates\",\"criterion\":\"level 2: specific current creation of original film/TV content, described as a smaller part of the content strategy\"}}},{\"id\":\"E3\",\"activity\":\"Runs a streaming platform where content partners publish apps to distribute and monetize their streaming content\",\"quote\":\"Our significant scale, ability to reach highly engaged viewers, tools that enable seamless signups, and marketing/discovery features make us an attractive platform to content partners.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Platform Segment > Platform Revenue\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 4: distribution and monetization platform for content publishers is central to the reported Platform segment\"}}},{\"id\":\"E4\",\"activity\":\"Social Impact program in which employees work with educational and workforce development organizations to give young people industry insight and hands-on experience\",\"quote\":\"Purposeful investments in developing future talent across our industry are made through our Social Impact program.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: named external education program with no participant or dollar figures\"}}},{\"id\":\"E5\",\"activity\":\"Learning and Growth team provides onboarding, training, 1:1 leadership coaching and on-demand skill development for employees\",\"quote\":\"Our Learning and Growth team provides our employees with the training and development needed to support our strategic priorities and growth.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E6\",\"activity\":\"Inclusion Strategy team supports employee resource groups and inclusion programs\",\"quote\":\"Our Inclusion Strategy team partners across Roku to advance inclusion through strategic programs, support our employee resource groups, expand talent communities, and amplify our employer brand story.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee resource groups with no membership figures\"}}},{\"id\":\"E7\",\"activity\":\"Roku Ads Manager partner integration that lets small and medium-sized businesses repurpose social media content for TV ads, lowering production cost\",\"quote\":\"We also have a partner integration with Roku Ads Manager to enable SMBs to efficiently repurpose social media content for TV streaming, reducing production costs and complexity to make advertising on TV more accessible.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Business Growth > Advertising Innovation\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific self-service tool aimed at the cost barrier small businesses face in TV advertising, with no reach figures\"}}}],\"themes\":{\"creativity\":{\"score\":4,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E3\",\"E2\"],\"reason\":\"Level 4: licensing, distributing and enabling monetization of film/TV content is a major part of the reported Platform segment, with a disclosed library of 80,000+ titles; it is not scored 5 because revenue rests mainly on advertising and devices rather than the creative work itself, and when torn the lower level applies.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\",\"E5\"],\"reason\":\"Level 2: a named external Social Impact education program and employee training are described, but no participant or dollar figures show substantial reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 2: employee resource groups supported by an Inclusion Strategy team, with no membership figures; international expansion is excluded by the rubric.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\"],\"reason\":\"Level 2: a specific Roku Ads Manager integration lowers TV-advertising production costs for small and medium-sized businesses, with no disclosed reach.\"}},\"notes\":\"The Item 7 (targeted) section was empty, so all evidence comes from Item 1. Several items were left out under the rubric's traps or limits. 'Entrepreneurial, execution-focused culture' is a culture claim and scores at most 1. Partnerships with Shopify and others on action ads are advertiser tools, not small-business enabling. Roku City 'original storytelling' is an ad product, which falls under the brand-marketing storytelling trap. 'Inclusive content' and storytelling that represents audiences from different backgrounds is general language with no specific program. The Platform segment's reach (more than 90 million Streaming Households, 145.6 billion Streaming Hours) is disclosed in other paragraphs, so it supports the Creativity level 4 judgment but is not cited as an indicator. Howdy (nearly 10,000 hours) and Frndly TV (more than 50 live channels) are further owned content-distribution services under the same Creativity activity and were not recorded separately.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 21004,
+      "output_tokens": 6100,
+      "duration_ms": 55686
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "ticker": "NTSK",
+  "company_name": "Netskope, Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-135011",
+  "filing_date": "2026-03-31",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:21:26",
+  "prompt_chars": 79238,
+  "filing_chars": 59229,
+  "filing_words_sent": 8298,
+  "approx_prompt_tokens": 19809,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Produces marketing content (a podcast, demo videos and educational books) to support selling its security platform",
+        "quote": "Our approach to content includes producing our own Security Visionaries Podcast, creating use case demo videos, and writing educational books such as The Cyber Savvy Board Room.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sales and Marketing > Marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used only as a routine business input (marketing content)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the business is cybersecurity and networking software, and creative work appears only as marketing content (a podcast, videos and books), which is a routine business input."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only; the human capital and culture sections give a value statement ('Strengthen our Communities') but describe no specific employee development, external education or community investment activity."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only; the culture section's 'Cultivate Belonging' value statement describes no specific inclusion practice, accessibility feature or community program."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only; the filing shows only the company's own innovation and enterprise/mid-market customers, with no service or program that enables founders or small businesses."
+      }
+    },
+    "notes": "Final score = 7 + 6 + 4 + 3 = 20/100. Coverage is marked sufficient for Community and Cross-cultural because the filing has an Employees and Human Capital Resources section plus a Culture section, together well over 150 words. That discussion is mostly values language (GRIT, seven cultural traits), and it does not point to a sustainability report. Excluded as traps or non-qualifying: (1) Netskope Threat Labs 'contributes to the global security community', and its researchers are 'presenters and volunteers at top security conferences', which is professional/industry community activity, not external education or community investment. (2) NewEdge Localization Zones serve 'local content, in the appropriate local language', which is a network/geo-routing feature for resilience and data sovereignty, not an inclusion or multilingual-access program. It was considered and judged below level 2 when torn. (3) International expansion (EMEA, APJ, Latin America) is international operations only. (4) Item 7 'educate potential customers' is marketing. (5) 'Mid-Market' customers (fewer than 2,000 employees) are not small-business enabling. (6) Threat Labs leaders' 'experience founding... companies' and 'Innovate Boldly' are own innovation or entrepreneurial culture. (7) 'Design' in R&D refers to engineering.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"NTSK\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Produces marketing content (a podcast, demo videos and educational books) to support selling its security platform\",\"quote\":\"Our approach to content includes producing our own Security Visionaries Podcast, creating use case demo videos, and writing educational books such as The Cyber Savvy Board Room.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sales and Marketing > Marketing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used only as a routine business input (marketing content)\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the business is cybersecurity and networking software, and creative work appears only as marketing content (a podcast, videos and books), which is a routine business input.\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only; the human capital and culture sections give a value statement ('Strengthen our Communities') but describe no specific employee development, external education or community investment activity.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only; the culture section's 'Cultivate Belonging' value statement describes no specific inclusion practice, accessibility feature or community program.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only; the filing shows only the company's own innovation and enterprise/mid-market customers, with no service or program that enables founders or small businesses.\"}},\"notes\":\"Final score = 7 + 6 + 4 + 3 = 20/100. Coverage is marked sufficient for Community and Cross-cultural because the filing has an Employees and Human Capital Resources section plus a Culture section, together well over 150 words. That discussion is mostly values language (GRIT, seven cultural traits), and it does not point to a sustainability report. Excluded as traps or non-qualifying: (1) Netskope Threat Labs 'contributes to the global security community', and its researchers are 'presenters and volunteers at top security conferences', which is professional/industry community activity, not external education or community investment. (2) NewEdge Localization Zones serve 'local content, in the appropriate local language', which is a network/geo-routing feature for resilience and data sovereignty, not an inclusion or multilingual-access program. It was considered and judged below level 2 when torn. (3) International expansion (EMEA, APJ, Latin America) is international operations only. (4) Item 7 'educate potential customers' is marketing. (5) 'Mid-Market' customers (fewer than 2,000 employees) are not small-business enabling. (6) Threat Labs leaders' 'experience founding... companies' and 'Innovate Boldly' are own innovation or entrepreneurial culture. (7) 'Design' in R&D refers to engineering.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 26200,
+      "output_tokens": 2959,
+      "duration_ms": 30889
+    }
+  ]
+}

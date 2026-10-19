@@ -1,0 +1,219 @@
+{
+  "ticker": "M",
+  "company_name": "Macy's",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-021721",
+  "filing_date": "2026-03-27",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:19:27",
+  "prompt_chars": 41616,
+  "filing_chars": 21618,
+  "filing_words_sent": 3106,
+  "approx_prompt_tokens": 10404,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Develops and sells a portfolio of company-owned private label apparel and home brands",
+        "quote": "We maintain a portfolio of private label brands across all three nameplates that help differentiate assortment and support margin and value propositions.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Merchandise",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: product design used as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Company-wide LinkedIn Learning catalog made available to all employees",
+        "quote": "In 2025, the LinkedIn Learning catalog was made available to all Macy’s, Inc. colleagues.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Learning & Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Executive and leadership development programs for newly hired recent college graduates",
+        "quote": "Macy's Executive Development Program and Bloomingdale's Leadership Development Program offer immersive, hands-on learning experiences for recent college graduates from top universities across the U.S. to jump-start a career in retail, with specialization in technology, stores, merchandising and supply chain.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Learning & Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Internships for college students and a Bloomingdale's early immersion program aimed at career exposure and inclusivity",
+        "quote": "Macy's and Bloomingdale's offer internships for college students and Bloomingdale's offers an early immersion program focused on providing experiential learning and career exposure to foster inclusivity.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Learning & Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, limited/undisclosed reach"
+          },
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion-oriented program with no figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Bluemercury Shooting Stars six-month employee mentorship program",
+        "quote": "Bluemercury's Shooting Stars is a six-month mentorship program that empowers mentees to own their journey by creating a development plan, becoming an inclusive leader and leveraging resources to support their career aspirations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Learning & Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Rolling out enhanced education for store colleagues to support customer experience",
+        "quote": "We are supporting our omnichannel customer experience by investing in colleagues that includes rolling out enhanced education, a tiered approach to staffing and events and dedicated colleagues for specific merchandise areas.",
+        "source_doc": "10-K",
+        "section": "Item 7 > Customer Experience",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Colleague resource groups offered as an employee voice and engagement venue",
+        "quote": "The Company gathers colleague feedback at key times throughout the colleague lifecycle from onboarding to offboarding and provides regular venues for colleagues to ask questions and share their opinions, such as Ask Me Anything sessions, town halls and colleague resource groups.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Culture & Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee resource groups with no figures"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Disclosure of workforce ethnic and gender composition",
+        "quote": "Macy's and Bloomingdale's workforce, on a combined basis, is comprised of approximately 66% ethnically diverse colleagues (with 30% at the director and above levels) and 72% female colleagues.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Number of Employees",
+        "status": "current",
+        "indicators": "66%, 30%, 72%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Partnership with the RISE industry initiative supporting workers in private-brand supply-chain factories",
+        "quote": "In 2025, we directly added 4 new factories to the program and another 8 with industry peers for a total of 67 since the program began in 2022.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Corporate Responsibility",
+        "status": "current",
+        "indicators": "4 new factories, 8 with industry peers, total of 67",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community partnership, limited reach (factory counts, no people reached or dollars, activities not described)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the company is a merchandise retailer whose only creative involvement is routine product design for private label brands, with branded events used as marketing."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E9"
+        ],
+        "reason": "Level 2: mostly employee development plus internships and a RISE supply-chain partnership whose reach in people or dollars is not disclosed, so no external activity reaches substantial measured reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E7"
+        ],
+        "reason": "Level 2: colleague resource groups and an inclusivity-focused early immersion program with no figures, while the demographic statistics count as disclosure only."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description is complete and shows no service, program or tool enabling founders or small businesses, since the retail media network serves brand partners generally."
+      }
+    },
+    "notes": "The Mission Every One social purpose and the 'commitment to our customers, communities and employees' are general language only. Internships and the early immersion program have no participant figures, and the immersion program's audience is not stated, so it was scored conservatively. RISE factory counts (4, 8, 67) measure factories, not people reached, and the program's activities are not described, so it was held at level 2. The WWF water collaboration is environmental and was not scored. Bloomingdale's licensed partnerships in Dubai and Kuwait are international operations and do not count for Cross-cultural.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"M\",\"sector\":\"Consumer Discretionary\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Develops and sells a portfolio of company-owned private label apparel and home brands\",\"quote\":\"We maintain a portfolio of private label brands across all three nameplates that help differentiate assortment and support margin and value propositions.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Merchandise\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: product design used as a routine business input\"}}},{\"id\":\"E2\",\"activity\":\"Company-wide LinkedIn Learning catalog made available to all employees\",\"quote\":\"In 2025, the LinkedIn Learning catalog was made available to all Macy’s, Inc. colleagues.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Learning & Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Executive and leadership development programs for newly hired recent college graduates\",\"quote\":\"Macy's Executive Development Program and Bloomingdale's Leadership Development Program offer immersive, hands-on learning experiences for recent college graduates from top universities across the U.S. to jump-start a career in retail, with specialization in technology, stores, merchandising and supply chain.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Learning & Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E4\",\"activity\":\"Internships for college students and a Bloomingdale's early immersion program aimed at career exposure and inclusivity\",\"quote\":\"Macy's and Bloomingdale's offer internships for college students and Bloomingdale's offers an early immersion program focused on providing experiential learning and career exposure to foster inclusivity.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Learning & Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, limited/undisclosed reach\"},\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion-oriented program with no figures\"}}},{\"id\":\"E5\",\"activity\":\"Bluemercury Shooting Stars six-month employee mentorship program\",\"quote\":\"Bluemercury's Shooting Stars is a six-month mentorship program that empowers mentees to own their journey by creating a development plan, becoming an inclusive leader and leveraging resources to support their career aspirations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Learning & Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E6\",\"activity\":\"Rolling out enhanced education for store colleagues to support customer experience\",\"quote\":\"We are supporting our omnichannel customer experience by investing in colleagues that includes rolling out enhanced education, a tiered approach to staffing and events and dedicated colleagues for specific merchandise areas.\",\"source_doc\":\"10-K\",\"section\":\"Item 7 > Customer Experience\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E7\",\"activity\":\"Colleague resource groups offered as an employee voice and engagement venue\",\"quote\":\"The Company gathers colleague feedback at key times throughout the colleague lifecycle from onboarding to offboarding and provides regular venues for colleagues to ask questions and share their opinions, such as Ask Me Anything sessions, town halls and colleague resource groups.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Culture & Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee resource groups with no figures\"}}},{\"id\":\"E8\",\"activity\":\"Disclosure of workforce ethnic and gender composition\",\"quote\":\"Macy's and Bloomingdale's workforce, on a combined basis, is comprised of approximately 66% ethnically diverse colleagues (with 30% at the director and above levels) and 72% female colleagues.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Resources > Number of Employees\",\"status\":\"current\",\"indicators\":\"66%, 30%, 72%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E9\",\"activity\":\"Partnership with the RISE industry initiative supporting workers in private-brand supply-chain factories\",\"quote\":\"In 2025, we directly added 4 new factories to the program and another 8 with industry peers for a total of 67 since the program began in 2022.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Corporate Responsibility\",\"status\":\"current\",\"indicators\":\"4 new factories, 8 with industry peers, total of 67\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community partnership, limited reach (factory counts, no people reached or dollars, activities not described)\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the company is a merchandise retailer whose only creative involvement is routine product design for private label brands, with branded events used as marketing.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\",\"E6\",\"E9\"],\"reason\":\"Level 2: mostly employee development plus internships and a RISE supply-chain partnership whose reach in people or dollars is not disclosed, so no external activity reaches substantial measured reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\",\"E7\"],\"reason\":\"Level 2: colleague resource groups and an inclusivity-focused early immersion program with no figures, while the demographic statistics count as disclosure only.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description is complete and shows no service, program or tool enabling founders or small businesses, since the retail media network serves brand partners generally.\"}},\"notes\":\"The Mission Every One social purpose and the 'commitment to our customers, communities and employees' are general language only. Internships and the early immersion program have no participant figures, and the immersion program's audience is not stated, so it was scored conservatively. RISE factory counts (4, 8, 67) measure factories, not people reached, and the program's activities are not described, so it was held at level 2. The WWF water collaboration is environmental and was not scored. Bloomingdale's licensed partnerships in Dubai and Kuwait are international operations and do not count for Cross-cultural.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 15278,
+      "output_tokens": 5371,
+      "duration_ms": 47319
+    }
+  ]
+}

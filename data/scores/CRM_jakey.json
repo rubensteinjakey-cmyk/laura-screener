@@ -1,0 +1,183 @@
+{
+  "ticker": "CRM",
+  "company_name": "Salesforce",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001108524-26-000060",
+  "filing_date": "2026-03-02",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:05:35",
+  "prompt_chars": 63739,
+  "filing_chars": 43735,
+  "filing_words_sent": 6193,
+  "approx_prompt_tokens": 15934,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Original programming on the Salesforce+ streaming service, used as a marketing activity",
+        "quote": "live events and original programming on our Salesforce+ streaming service, which includes discussions about the future of technology in the AI-first, work anywhere world and educational content to learn new skills and pursue new career opportunities",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sales and Marketing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative content produced as a routine marketing input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee talent development through the Career Connect internal talent marketplace and the Trailhead learning platform",
+        "quote": "Our internal talent marketplace, Career Connect, facilitates internal mobility and structured career development plans, while our global learning platform, Trailhead, provides personalized, role-specific content.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent and Career Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee donation matching to eligible nonprofit organizations",
+        "quote": "We also match up to $10,000 of donations, per employee, to eligible nonprofit organizations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Total Rewards",
+        "status": "current",
+        "indicators": "up to $10,000 of donations, per employee",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, with a per-employee cap but no total dollars or reach disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Employee volunteering program with paid volunteer time off",
+        "quote": "Employees receive seven paid days of volunteer time off each year to support causes that are personal to them.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Employee Engagement and Satisfaction",
+        "status": "current",
+        "indicators": "seven paid days of volunteer time off each year",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current volunteering program, with no hours or participation figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "In-person and online certification courses for customers and partners",
+        "quote": "In addition, we provide advanced education, including in-person and online courses, to certify our customers and partners on architecting, administering, deploying and developing our service offerings.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Customer Service and Support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external skills education, with no participant figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Starter Suite, an all-in-one business software product built for small and medium-size businesses",
+        "quote": "We offer Starter Suite, an all-in-one, easy-to-use solution for small and medium-size businesses that brings sales, service, marketing and commerce together.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Other Salesforce Offerings > Salesforce Starter",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: business software built for small businesses, with no user or revenue figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "AppExchange marketplace where independent software vendors and third-party developers market and sell their applications",
+        "quote": "These applications can be marketed and sold on the AppExchange, our enterprise cloud marketplace, or sold directly by software vendors.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Business and Growth Strategy > Leverage our partner ecosystem",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: seller marketplace for independent software vendors, with no seller counts disclosed"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the only creative work is original Salesforce+ programming used as a routine marketing input, while the core CRM, data and AI software does not create or enable creative work as the rubric defines it."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: specific current activities (employee development, donation matching, paid volunteer time off and customer/partner certification courses) with no reach figures such as participants or total dollars, so substantial reach is not shown."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 1 based on general language only (equality values and equal-opportunity compliance boilerplate); coverage is insufficient under condition 3, because the filing refers readers to its Stakeholder Impact Report for workforce information and describes no specific inclusion activities itself."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 2: specific current enabling offerings (Starter Suite small-business software and the AppExchange seller marketplace), but no figures on users, sellers or revenue."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. Cross-cultural coverage is insufficient (condition 3: the filing refers to the Stakeholder Impact Report at salesforce.com, which is on the main domain), so this triggers the automated second look. Excluded as traps or non-qualifying: Trailhead described as free resources to help companies learn our systems and reduce attrition, and Salesforce+ educational content listed under marketing (both educating customers as marketing); AI generation of marketing 'content' and product descriptions ('content' trap); 'collaboration' as a product feature; strategic investments in technology startups (the company's own financial and strategic investing, not a program aimed at founder barriers); 'innovation' language; 'foundation' used as a metaphor. The 'community of tens of millions of Trailblazers' is a user and developer community figure, not tied to a specific education or community-investment program, so it was not used as an indicator. The E7 marketplace serves ISVs whose size is not disclosed. E5 certification courses are part of professional services with no revenue disclosed, so they were tagged external_education at level 2 rather than education_business.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"CRM\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Original programming on the Salesforce+ streaming service, used as a marketing activity\",\"quote\":\"live events and original programming on our Salesforce+ streaming service, which includes discussions about the future of technology in the AI-first, work anywhere world and educational content to learn new skills and pursue new career opportunities\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Sales and Marketing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative content produced as a routine marketing input\"}}},{\"id\":\"E2\",\"activity\":\"Employee talent development through the Career Connect internal talent marketplace and the Trailhead learning platform\",\"quote\":\"Our internal talent marketplace, Career Connect, facilitates internal mobility and structured career development plans, while our global learning platform, Trailhead, provides personalized, role-specific content.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent and Career Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Employee donation matching to eligible nonprofit organizations\",\"quote\":\"We also match up to $10,000 of donations, per employee, to eligible nonprofit organizations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Total Rewards\",\"status\":\"current\",\"indicators\":\"up to $10,000 of donations, per employee\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, with a per-employee cap but no total dollars or reach disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Employee volunteering program with paid volunteer time off\",\"quote\":\"Employees receive seven paid days of volunteer time off each year to support causes that are personal to them.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Employee Engagement and Satisfaction\",\"status\":\"current\",\"indicators\":\"seven paid days of volunteer time off each year\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current volunteering program, with no hours or participation figures\"}}},{\"id\":\"E5\",\"activity\":\"In-person and online certification courses for customers and partners\",\"quote\":\"In addition, we provide advanced education, including in-person and online courses, to certify our customers and partners on architecting, administering, deploying and developing our service offerings.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Customer Service and Support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external skills education, with no participant figures\"}}},{\"id\":\"E6\",\"activity\":\"Starter Suite, an all-in-one business software product built for small and medium-size businesses\",\"quote\":\"We offer Starter Suite, an all-in-one, easy-to-use solution for small and medium-size businesses that brings sales, service, marketing and commerce together.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Other Salesforce Offerings > Salesforce Starter\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: business software built for small businesses, with no user or revenue figures\"}}},{\"id\":\"E7\",\"activity\":\"AppExchange marketplace where independent software vendors and third-party developers market and sell their applications\",\"quote\":\"These applications can be marketed and sold on the AppExchange, our enterprise cloud marketplace, or sold directly by software vendors.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Business and Growth Strategy > Leverage our partner ecosystem\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: seller marketplace for independent software vendors, with no seller counts disclosed\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the only creative work is original Salesforce+ programming used as a routine marketing input, while the core CRM, data and AI software does not create or enable creative work as the rubric defines it.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 2: specific current activities (employee development, donation matching, paid volunteer time off and customer/partner certification courses) with no reach figures such as participants or total dollars, so substantial reach is not shown.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 1 based on general language only (equality values and equal-opportunity compliance boilerplate); coverage is insufficient under condition 3, because the filing refers readers to its Stakeholder Impact Report for workforce information and describes no specific inclusion activities itself.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\",\"E7\"],\"reason\":\"Level 2: specific current enabling offerings (Starter Suite small-business software and the AppExchange seller marketplace), but no figures on users, sellers or revenue.\"}},\"notes\":\"The Item 7 (targeted) excerpt was empty, so scoring rests on Item 1 only. Cross-cultural coverage is insufficient (condition 3: the filing refers to the Stakeholder Impact Report at salesforce.com, which is on the main domain), so this triggers the automated second look. Excluded as traps or non-qualifying: Trailhead described as free resources to help companies learn our systems and reduce attrition, and Salesforce+ educational content listed under marketing (both educating customers as marketing); AI generation of marketing 'content' and product descriptions ('content' trap); 'collaboration' as a product feature; strategic investments in technology startups (the company's own financial and strategic investing, not a program aimed at founder barriers); 'innovation' language; 'foundation' used as a metaphor. The 'community of tens of millions of Trailblazers' is a user and developer community figure, not tied to a specific education or community-investment program, so it was not used as an indicator. The E7 marketplace serves ISVs whose size is not disclosed. E5 certification courses are part of professional services with no revenue disclosed, so they were tagged external_education at level 2 rather than education_business.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20642,
+      "output_tokens": 6076,
+      "duration_ms": 52323
+    }
+  ]
+}

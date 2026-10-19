@@ -1,0 +1,85 @@
+{
+  "ticker": "RS",
+  "company_name": "Reliance, Inc.",
+  "sector": "Materials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001104659-26-020651",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T13:07:34",
+  "prompt_chars": 56452,
+  "filing_chars": 36458,
+  "filing_words_sent": 5317,
+  "approx_prompt_tokens": 14113,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sells metal in small quantities with quick delivery mainly to small machine shops and fabricators (ordinary customer relationship)",
+        "quote": "Although we have many large original equipment manufacturer customers, most of our sales are to small machine shops and fabricators, in small quantities with frequent and often just-in-time deliveries, ensuring as-needed logistics and helping them manage their working capital and credit needs more efficiently.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service or program"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers metals processing and distribution only, with no creative activity ('state-of-the-art' is a trap term)."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only ('invest in talent management initiatives', valuing 'the communities in which we operate') plus safety and defensive-driving training, which is treated as safety/compliance training rather than qualifying development or external programs."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 3: the human capital section has no inclusion, accessibility or demographic content, and the filing points to the website 'ESG' section for its programs without describing any specific activities itself (international sales and 'diversity of products' do not count)."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the company serves small machine shops and fabricators as ordinary customers but describes no specific program or tool aimed at barriers to starting or growing a business."
+      }
+    },
+    "notes": "The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Training mentioned in the filing (safety assessments and training; mandatory defensive driving training for commercial drivers; video-based driver coaching) is safety/compliance-oriented and was not scored as employee development. When torn, the lower level was chosen. 'Collaboration' in Item 1 refers to internal coordination among the company's own businesses, not external partnerships. Cross-cultural is marked insufficient because the filing refers readers to the website ESG section, which should trigger the automated second look using a company-hosted sustainability report.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"RS\",\"sector\":\"Materials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sells metal in small quantities with quick delivery mainly to small machine shops and fabricators (ordinary customer relationship)\",\"quote\":\"Although we have many large original equipment manufacturer customers, most of our sales are to small machine shops and fabricators, in small quantities with frequent and often just-in-time deliveries, ensuring as-needed logistics and helping them manage their working capital and credit needs more efficiently.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service or program\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers metals processing and distribution only, with no creative activity ('state-of-the-art' is a trap term).\"},\"community\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only ('invest in talent management initiatives', valuing 'the communities in which we operate') plus safety and defensive-driving training, which is treated as safety/compliance training rather than qualifying development or external programs.\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 3: the human capital section has no inclusion, accessibility or demographic content, and the filing points to the website 'ESG' section for its programs without describing any specific activities itself (international sales and 'diversity of products' do not count).\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the company serves small machine shops and fabricators as ordinary customers but describes no specific program or tool aimed at barriers to starting or growing a business.\"}},\"notes\":\"The Item 7 (targeted) excerpt was empty, so no MD&A paragraphs matched the theme terms. Training mentioned in the filing (safety assessments and training; mandatory defensive driving training for commercial drivers; video-based driver coaching) is safety/compliance-oriented and was not scored as employee development. When torn, the lower level was chosen. 'Collaboration' in Item 1 refers to internal coordination among the company's own businesses, not external partnerships. Cross-cultural is marked insufficient because the filing refers readers to the website ESG section, which should trigger the automated second look using a company-hosted sustainability report.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 19151,
+      "output_tokens": 2857,
+      "duration_ms": 28646
+    }
+  ]
+}

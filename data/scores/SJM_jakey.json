@@ -1,0 +1,182 @@
+{
+  "ticker": "SJM",
+  "company_name": "J.M. Smucker Company (The)",
+  "sector": "Consumer Staples",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000091419-26-000050",
+  "filing_date": "2026-06-09",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T13:22:17",
+  "prompt_chars": 58062,
+  "filing_chars": 38048,
+  "filing_words_sent": 5684,
+  "approx_prompt_tokens": 14515,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company donated more than $9 million to named charitable partners during the year",
+        "quote": "This past year we donated more than $9 million to key partners, including American Red Cross®, Feeding America®, Greater Good Charities, Military Family Advisory Network, Canine Assistants, and the Akron Canton Regional Foodbank.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Community",
+        "status": "current",
+        "indicators": "more than $9 million",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with substantial reach shown by dollar indicator and named partners"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Named childhood literacy program with Akron Children's Hospital that gives books to children at well visits",
+        "quote": "We continue to partner with Akron Children’s Hospital in support of the Smucker’s Berry Good Reading Program, which provides books to children during annual well visits.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Career",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education program, named but with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Ongoing support of Boys & Girls Clubs of America and other youth development partners",
+        "quote": "We also continue to support our long-time partners including the Boys & Girls Clubs of America®, among others, which offer programming focused on childhood growth and development.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Career",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community partnership, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Company Matching Gift Program matching employee donations to charities",
+        "quote": "One way we do this is through our Company Matching Gift Program, which gives employees the opportunity to donate to partner charities and have their donation matched by the Company, dollar-for-dollar, from a minimum of $1 up to a maximum of $2,500 per calendar year per employee.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Community",
+        "status": "current",
+        "indicators": "$1 minimum, $2,500 maximum per calendar year per employee",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: named ongoing matching-gift program, total reach not disclosed"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Online training and professional development hours for employees",
+        "quote": "Through these tools and resources, in 2026, we coordinated over 22,700 hours of professional development training for our employees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Career",
+        "status": "current",
+        "indicators": "over 22,700 hours",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Leadership development series for people managers built with Case Western Reserve University",
+        "quote": "Our best-in-class “Discovering the Art of Leadership” series, developed in collaboration with Case Western Reserve University, teaches our people managers how to effectively lead teams and develop employees.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Career",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Employee resource groups open to all employees as members or allies",
+        "quote": "We have established employee resource groups, which are employee-led groups that represent a unique community and welcome all employees to join as either a member or ally.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Community",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests on general description only; the company is a packaged food maker whose only creative involvement is routine use of brand slogans and package designs as trademarks."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 3: community investment with substantial reach shown by indicators (more than $9 million donated to named partners), plus named external literacy and youth programs and employee development."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7"
+        ],
+        "reason": "Level 2: employee resource groups are a specific current internal practice, but no membership or other reach figures are disclosed."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description is sufficient and shows no program or service that enables founders or small businesses."
+      }
+    },
+    "notes": "Several items were excluded as rubric traps or non-qualifying. 'Discovering the Art of Leadership' is management training, not creative work. The Dunkin' Licenses are trademark licensing with royalties to a brand owner, not payments to creators. The 'innovation' language refers to the company's own product innovation and was treated as a trap; when torn between 0 and 1 for Entrepreneurship, the lower level was taken. In Item 7, 'food accessibility' appears only in a regulatory risk list and is not a program. Some activities were mentioned but not recorded separately. The donation of a roughly 19,000 sq ft building and over 30 acres to the Akron Canton Regional Foodbank has no stated date, and that partner is already within E1. Milk-Bone funding for Canine Assistants is also covered by E1. Inclusive benefits (domestic partner insurance coverage, a floating holiday for personal beliefs, an annual pay equity analysis) and tuition assistance would only reinforce levels already reached. The statement about a workforce that 'reflects the consumers we serve' is general language. The 10-K points to the 2025 Corporate Impact Report, but coverage is sufficient because the 10-K itself describes specific activities.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"SJM\",\"sector\":\"Consumer Staples\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Company donated more than $9 million to named charitable partners during the year\",\"quote\":\"This past year we donated more than $9 million to key partners, including American Red Cross®, Feeding America®, Greater Good Charities, Military Family Advisory Network, Canine Assistants, and the Akron Canton Regional Foodbank.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Community\",\"status\":\"current\",\"indicators\":\"more than $9 million\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with substantial reach shown by dollar indicator and named partners\"}}},{\"id\":\"E2\",\"activity\":\"Named childhood literacy program with Akron Children's Hospital that gives books to children at well visits\",\"quote\":\"We continue to partner with Akron Children’s Hospital in support of the Smucker’s Berry Good Reading Program, which provides books to children during annual well visits.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Career\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education program, named but with no reach figures\"}}},{\"id\":\"E3\",\"activity\":\"Ongoing support of Boys & Girls Clubs of America and other youth development partners\",\"quote\":\"We also continue to support our long-time partners including the Boys & Girls Clubs of America®, among others, which offer programming focused on childhood growth and development.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Career\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community partnership, no reach figures\"}}},{\"id\":\"E4\",\"activity\":\"Company Matching Gift Program matching employee donations to charities\",\"quote\":\"One way we do this is through our Company Matching Gift Program, which gives employees the opportunity to donate to partner charities and have their donation matched by the Company, dollar-for-dollar, from a minimum of $1 up to a maximum of $2,500 per calendar year per employee.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Community\",\"status\":\"current\",\"indicators\":\"$1 minimum, $2,500 maximum per calendar year per employee\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: named ongoing matching-gift program, total reach not disclosed\"}}},{\"id\":\"E5\",\"activity\":\"Online training and professional development hours for employees\",\"quote\":\"Through these tools and resources, in 2026, we coordinated over 22,700 hours of professional development training for our employees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Career\",\"status\":\"current\",\"indicators\":\"over 22,700 hours\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E6\",\"activity\":\"Leadership development series for people managers built with Case Western Reserve University\",\"quote\":\"Our best-in-class “Discovering the Art of Leadership” series, developed in collaboration with Case Western Reserve University, teaches our people managers how to effectively lead teams and develop employees.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Career\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E7\",\"activity\":\"Employee resource groups open to all employees as members or allies\",\"quote\":\"We have established employee resource groups, which are employee-led groups that represent a unique community and welcome all employees to join as either a member or ally.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Community\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests on general description only; the company is a packaged food maker whose only creative involvement is routine use of brand slogans and package designs as trademarks.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 3: community investment with substantial reach shown by indicators (more than $9 million donated to named partners), plus named external literacy and youth programs and employee development.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\"],\"reason\":\"Level 2: employee resource groups are a specific current internal practice, but no membership or other reach figures are disclosed.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description is sufficient and shows no program or service that enables founders or small businesses.\"}},\"notes\":\"Several items were excluded as rubric traps or non-qualifying. 'Discovering the Art of Leadership' is management training, not creative work. The Dunkin' Licenses are trademark licensing with royalties to a brand owner, not payments to creators. The 'innovation' language refers to the company's own product innovation and was treated as a trap; when torn between 0 and 1 for Entrepreneurship, the lower level was taken. In Item 7, 'food accessibility' appears only in a regulatory risk list and is not a program. Some activities were mentioned but not recorded separately. The donation of a roughly 19,000 sq ft building and over 30 acres to the Akron Canton Regional Foodbank has no stated date, and that partner is already within E1. Milk-Bone funding for Canine Assistants is also covered by E1. Inclusive benefits (domestic partner insurance coverage, a floating holiday for personal beliefs, an annual pay equity analysis) and tuition assistance would only reinforce levels already reached. The statement about a workforce that 'reflects the consumers we serve' is general language. The 10-K points to the 2025 Corporate Impact Report, but coverage is sufficient because the 10-K itself describes specific activities.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20447,
+      "output_tokens": 5331,
+      "duration_ms": 49219
+    }
+  ]
+}
