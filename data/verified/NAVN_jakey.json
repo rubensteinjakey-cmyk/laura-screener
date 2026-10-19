@@ -1,0 +1,125 @@
+{
+  "ticker": "NAVN",
+  "company_name": "Navan, Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-04-02",
+  "fiscal_year": 2026,
+  "accession_number": "0001628280-26-023250",
+  "scored_at": "2026-10-19T01:19:59",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers a travel, payments and expense platform with no creative activity, and 'design', 'content' and 'content marketing' appear only in trap senses.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1 on general language only ('invested substantial time and resources in building our team'), and coverage is insufficient under condition 2 because the Human Capital section discusses no training, development or community activity, so the relevant discussion is well under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1 on general language only ('invested substantial time and resources in building our team'), and coverage is insufficient under condition 2 because the Human Capital section discusses no training, development or community activity, so the relevant discussion is well under about 150 words."
+    },
+    "cross_cultural": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0 because the filing shows no qualifying activity (international operations, localized support and a 'diverse' customer base don't count), and coverage is insufficient under condition 2 because the Human Capital section contains essentially no discussion of inclusion, accessibility or employee networks, well under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 0 because the filing shows no qualifying activity (international operations, localized support and a 'diverse' customer base don't count), and coverage is insufficient under condition 2 because the Human Capital section contains essentially no discussion of inclusion, accessibility or employee networks, well under about 150 words."
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: the company serves small and medium-sized businesses through a self-serve T&E product, but it describes no specific program or tool aimed at barriers to starting or growing a business.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 0,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 9.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Self-serve, product-led onboarding of mostly smaller companies that have no existing travel and expense system",
+      "quote": "In fact, since launching our new self-serve offering in March 2022, thousands of customers have joined our platform through our website, with minimal sales touchpoints.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Sales & Marketing > Sales",
+      "status": "current",
+      "indicators": "thousands of customers",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: small-business customers served by general T&E software, with no specific service aimed at barriers to starting or growing a business"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Both Community and Cross-cultural are marked insufficient, so this company should get the automated second look using a sustainability report from navan.com. The ~3,700-employee Human Capital section covers only headcount, union status and talent retention. The following terms were excluded as traps: 'foundation' in Item 7 means platform foundation; 'train' refers to AI virtual-agent training; customer-success 'education' and 'in-product customer education' are adoption marketing; 'design' refers to UI and product design; 'content' means supplier fare and seat content and content marketing; 'diverse' describes the customer base and revenue geography; acquisitions in Germany, India and Italy and multi-currency services are international operations only. Smaller unmanaged customers in the product-led growth strategy are the same activity as E1 and are counted once.",
+  "quote_check_status": "passed",
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
+  "human_capital_words": 163,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
+}

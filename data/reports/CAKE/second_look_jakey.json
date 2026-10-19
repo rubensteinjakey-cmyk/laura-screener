@@ -1,0 +1,15 @@
+{
+  "ticker": "CAKE",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T01:25:00",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['foxrc.com', 'iamaflowerchild.com', 'northitalia.com', 'thecheesecakefactory.com']",
+    "search suggested 1 candidate(s)",
+    "rejected (domain doesn't contain the company's brand name from thecheesecakefactory.com): https://thecheesecakefactory-nomnom-drupal-prod.s3.amazonaws.com/s3fs-public/2025-05/2024-csr-report-the-cheesecake-factory.pdf"
+  ]
+}

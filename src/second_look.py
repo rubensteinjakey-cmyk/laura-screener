@@ -196,9 +196,11 @@ def chapters_from_outline(reader):
         if isinstance(item, list):
             continue
         try:
-            top.append((item.title, reader.get_destination_page_number(item)))
+            page = reader.get_destination_page_number(item)
         except Exception:
-            pass
+            continue
+        if isinstance(page, int):  # some bookmarks point nowhere
+            top.append((item.title, page))
     top.sort(key=lambda x: x[1])
     return _ranges(top, len(reader.pages))
 

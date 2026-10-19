@@ -1,0 +1,371 @@
+{
+  "ticker": "NVDA",
+  "company_name": "Nvidia",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2026,
+  "accession_number": "0001045810-26-000021",
+  "scored_at": "2026-10-19T01:18:30",
+  "themes": {
+    "creativity": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "kinds": [
+        "enables"
+      ],
+      "reason": "Level 3: enabling creative work through named creator-facing product lines (Professional Visualization GPUs, Omniverse, GeForce for creators) is a real but minor part of the business; no creative-specific revenue, users or customers are disclosed, so level 4 is not met.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E5",
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E5",
+        "E6"
+      ],
+      "kinds": [
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 2: employee development plus a named external training program (Deep Learning Institute) with no participant or dollar figures, so substantial external reach for level 3 is not shown.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5"
+      ],
+      "valid_evidence_ids": [
+        "SL-E1",
+        "SL-E2",
+        "SL-E3",
+        "SL-E4",
+        "SL-E5"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: The report describes specific current internal practices. These are 10 named community resource groups open to all employees (including LGBTQ+, disability, Asian Pacific Islander and other groups), a global allyship training program, CRG mentoring, and an inclusive-practices guide for managers. No CRG membership figures are disclosed. The only reach figure is CRG mentoring for about 1,200 employees, which is modest against roughly 42,000 staff. There is no customer-access or connecting-communities activity. Torn between 2 and 3, so the lower level applies.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "score_from_10k": 1,
+      "rescored_from_report": true
+    },
+    "entrepreneurship": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E7"
+      ],
+      "kinds": [
+        "enabling"
+      ],
+      "reason": "Level 2: a named startup program (Inception) reaching tens of thousands of startups, but the filing does not say what enabling support it provides, so between levels 2 and 3 the lower level is chosen.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 3,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 2
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 47.0,
+  "original_10k_scores": {
+    "creativity": 3,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 2
+  },
+  "original_10k_final": 43.0,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Sells workstation GPUs and software (Professional Visualization market) that artists use for creative work such as film visual effects",
+      "quote": "Professional artists, architects and designers use NVIDIA partner products accelerated with our GPUs and software platform for a range of creative, engineering, and design use cases, such as creating visual effects in movies or designing buildings and products.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Company",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: creator-facing product line (Professional Visualization, one of four named target markets) that is a real but minor part of the business"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Omniverse 3D design collaboration software for artists, designers and creators",
+      "quote": "Omniverse is real-time 3D design collaboration and virtual world simulation software that empowers artists, designers, and creators to connect and collaborate in leading design applications.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Business Strategies > Extending our technology and platform leadership in computer graphics",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: named creative software product enabling artists and creators"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "GeForce PC GPUs sold to live streamers, broadcasters, artists and creators",
+      "quote": "In addition to serving the growing number of gamers, the market for PC GPUs is expanding because of the growing population of live streamers, broadcasters, artists, and creators.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Company",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 2: creator customer group for consumer GPUs, no figures disclosed"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Developer program supporting development of game titles optimized for NVIDIA platforms",
+      "quote": "Our developer program supports the development of AI frameworks, SDKs, and APIs for software applications and game titles that are optimized for our platforms.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Sales and Marketing",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 2: specific support for game creation, limited disclosed reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Deep Learning Institute provides in-person and online AI training to external developers worldwide",
+      "quote": "Our Deep Learning Institute provides in-person and online training for developers in industries and organizations around the world to build AI and accelerated computing applications that leverage our platforms.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Sales and Marketing",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: named external skills program, but no participant or dollar figures and framed as platform promotion"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Employee development through on-the-job training and tuition reimbursement",
+      "quote": "We invest in employee development through on-the-job trainings and tuition reimbursement programs.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Inception program working with startups",
+      "quote": "We evangelize AI through partnerships with hundreds of universities and tens of thousands of startups through our Inception program.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Business Strategies > Extending our technology and platform leadership in AI",
+      "status": "current",
+      "indicators": "tens of thousands of startups",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "enabling",
+          "criterion": "level 2: named startup program, but the filing does not describe what support it gives and frames it as AI evangelism"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Ten community resource groups open to all employees, including groups for Arab, Asian Pacific Islander, Black, Hispanic-Latino, LGBTQ+, disabled, veteran, South Asian and women employees",
+      "quote": "We support 10 community resource groups (CRGs), which are open to all employees: Arabs & Allies Network, Asian Pacific Islanders & Allies, Black NVIDIAN Network, Early Career Network, Hispanic-Latino Network, NV Pride (LGBTQ+ employees and allies), NVIDIA Disabilities Network, Veterans@NVIDIA, South Asians & Allies, and Women in Technology.",
+      "source_doc": "sustainability_report",
+      "section": "Our People > Community Resource Groups",
+      "status": "current",
+      "indicators": "10 community resource groups (no membership figures disclosed)",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no membership figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E2",
+      "activity": "Employee-run global allyship program that trains staff to support peers",
+      "quote": "The global program trains NVIDIANs to show up as allies for their peers, leading to a sense of belonging across the company.",
+      "source_doc": "sustainability_report",
+      "section": "Our People > Allyship",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific internal inclusion program, no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E3",
+      "activity": "Mentoring for community resource group participants, focused on women, early-career staff and employees from underrepresented groups",
+      "quote": "CRG participants experience mentoring in a one-on-one relationship or a group setting, reaching approximately 1,200 employees across the company. Specialized focuses include women, early career, and employees from traditionally underrepresented groups to ensure widespread readiness for future advancement.",
+      "source_doc": "sustainability_report",
+      "section": "Our People > Mentorship",
+      "status": "current",
+      "indicators": "approximately 1,200 employees",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific internal practice with modest reach (about 1,200 of roughly 42,000 employees)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E4",
+      "activity": "Resource guide giving managers practical steps for an inclusive employee experience",
+      "quote": "We provide managers with a resource guide that provides them with practical actions to create an inclusive employee experience.",
+      "source_doc": "sustainability_report",
+      "section": "Our People > Leadership",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific internal inclusion practice, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E5",
+      "activity": "General statement about keeping an inclusive culture, using employee listening systems",
+      "quote": "We also utilize employee listening systems to gather feedback and maintain an inclusive culture where hiring and promotions are based on merit.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Management",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 1: general inclusion language only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Cross-cultural coverage is insufficient, so a second look using the sustainability report is triggered. The Item 7 excerpt only discusses open-source foundation models and has no qualifying activity. Excluded as traps: 'foundation' models and 'foundational' CUDA; 'training' meaning AI model training; chip 'design' and co-design; IP 'license and development agreements'; supply chain and sales in Asia and the Middle East; 'innovation' language. The Deep Learning Institute and the university partnerships appear under Sales and Marketing and AI evangelism, which is close to the 'educating customers as marketing' trap, so DLI was given no more than level 2 and the 'hundreds of universities' partnerships were not scored separately. The Graphics segment (GeForce and RTX workstation GPUs) is a reported segment, but no revenue is given in the provided text and it is mostly gaming, which is consumption rather than creation, so Creativity is not scored at 4. The 7.5 million CUDA developers relate to NVIDIA's own platform ecosystem and were not counted for Entrepreneurship.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 174,
+  "score_source": "10-K + sustainability report",
+  "report_url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://images.nvidia.com/aem-dam/Solutions/documents/NVIDIA-Sustainability-Report-Fiscal-Year-2026.pdf",
+    "found_on": "",
+    "report_year": 2026,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
+}

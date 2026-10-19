@@ -1,0 +1,137 @@
+{
+  "ticker": "DT",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T01:26:28",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "report_url": "https://assets.dynatrace.com/global/company/esg/dynatrace-2025-sustainability-report.pdf",
+  "report_year": 2025,
+  "report_pdf": "report_2025.pdf",
+  "domain_note": "",
+  "report_link_found_on": "",
+  "status": "scored",
+  "report_text_file": "report_2025_chapters.txt",
+  "chapters": [
+    "AND COMMUNITY",
+    "engagement"
+  ],
+  "chapter_method": "printed table of contents",
+  "prompt_chars": 70321,
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Voluntary employee resource groups open to all employees, including groups for Black, Latino, women, veteran, caregiver, people-of-color and allyship communities",
+        "quote": "Our employee resource groups play a strategic role in advancing an inclusive and supportive workforce.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Sustainability > Human Capital Management > Supporting an inclusive environment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Global Culture Party for employees across offices celebrating heritage and promoting cultural awareness",
+        "quote": "A Global Culture Party  brought together over 1,100 employees across 18 office locations and one virtual event, celebrating heritage and promoting cultural awareness.",
+        "source_doc": "sustainability_report",
+        "section": "People, culture, and community > Investing in people and building the future > Fostering belonging across a distributed workforce",
+        "status": "current",
+        "indicators": "over 1,100 employees; 18 office locations; one virtual event",
+        "themes": {
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific internal cross-cultural event with participant figures, limited to employees"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Name pronunciation tools that let employees share how to pronounce their names",
+        "quote": "Name Pronunciation Tools enable employees to share the correct pronunciation of their names, promoting respectful communication, and reducing bias in global collaboration.",
+        "source_doc": "sustainability_report",
+        "section": "People, culture, and community > Inclusion in action > Tools that promote inclusion and cultural awareness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusive workplace tool, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Global observance and heritage calendars used for inclusive planning",
+        "quote": "Global Observance and Heritage Calendars provide visibility into cultural observances across regions, supporting inclusive planning and recognition of global heritage moments.",
+        "source_doc": "sustainability_report",
+        "section": "People, culture, and community > Inclusion in action > Tools that promote inclusion and cultural awareness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal practice, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Disclosure of workforce gender data",
+        "quote": "32.1%  of our new hires in FY25 were women.",
+        "source_doc": "sustainability_report",
+        "section": "People, culture, and community > Employee demographic data",
+        "status": "current",
+        "indicators": "32.1%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: several specific current internal practices. These are seven named ERGs (no membership figures), name pronunciation tools, heritage calendars and a Global Culture Party. Only the party reports a figure (over 1,100 employees), and it is a single internal event rather than an ongoing program with measured reach. I was torn between 2 and 3, so I chose the lower level. There is no customer-access or external community-connecting activity. Demographics (E5) are context only."
+      }
+    },
+    "notes": "The 10-K gave only brief ERG language, so the sustainability report (December 2025, covering FY25) was added. ERG list is as of November 30, 2025. The Global Culture Party and other figures relate to FY25, while the 10-K covers fiscal 2026. They are treated as current per instructions, but they are not confirmed in the 10-K itself. Global Culture Celebrations (report tools list) appear to be the same activity as the Global Culture Party, so they are counted once in E2. Quotes from the report join lines across line breaks. The double space after 'Party' and after '32.1%' is kept as it appears in the source."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"evidence\": [{\"id\": \"E1\", \"activity\": \"Voluntary employee resource groups open to all employees, including groups for Black, Latino, women, veteran, caregiver, people-of-color and allyship communities\", \"quote\": \"Our employee resource groups play a strategic role in advancing an inclusive and supportive workforce.\", \"source_doc\": \"10-K\", \"section\": \"Item 1 > Sustainability > Human Capital Management > Supporting an inclusive environment\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: employee networks with no membership figures\"}}}, {\"id\": \"E2\", \"activity\": \"Global Culture Party for employees across offices celebrating heritage and promoting cultural awareness\", \"quote\": \"A Global Culture Party  brought together over 1,100 employees across 18 office locations and one virtual event, celebrating heritage and promoting cultural awareness.\", \"source_doc\": \"sustainability_report\", \"section\": \"People, culture, and community > Investing in people and building the future > Fostering belonging across a distributed workforce\", \"status\": \"current\", \"indicators\": \"over 1,100 employees; 18 office locations; one virtual event\", \"themes\": {\"cross_cultural\": {\"kind\": \"connecting_communities\", \"criterion\": \"level 2: specific internal cross-cultural event with participant figures, limited to employees\"}}}, {\"id\": \"E3\", \"activity\": \"Name pronunciation tools that let employees share how to pronounce their names\", \"quote\": \"Name Pronunciation Tools enable employees to share the correct pronunciation of their names, promoting respectful communication, and reducing bias in global collaboration.\", \"source_doc\": \"sustainability_report\", \"section\": \"People, culture, and community > Inclusion in action > Tools that promote inclusion and cultural awareness\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific inclusive workplace tool, no reach figures\"}}}, {\"id\": \"E4\", \"activity\": \"Global observance and heritage calendars used for inclusive planning\", \"quote\": \"Global Observance and Heritage Calendars provide visibility into cultural observances across regions, supporting inclusive planning and recognition of global heritage moments.\", \"source_doc\": \"sustainability_report\", \"section\": \"People, culture, and community > Inclusion in action > Tools that promote inclusion and cultural awareness\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific internal practice, no reach figures\"}}}, {\"id\": \"E5\", \"activity\": \"Disclosure of workforce gender data\", \"quote\": \"32.1%  of our new hires in FY25 were women.\", \"source_doc\": \"sustainability_report\", \"section\": \"People, culture, and community > Employee demographic data\", \"status\": \"current\", \"indicators\": \"32.1%\", \"themes\": {\"cross_cultural\": {\"kind\": \"demographics_only\", \"criterion\": \"level 1: demographic statistics only\"}}}], \"themes\": {\"cross_cultural\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E2\", \"E3\", \"E4\"], \"reason\": \"Level 2: several specific current internal practices. These are seven named ERGs (no membership figures), name pronunciation tools, heritage calendars and a Global Culture Party. Only the party reports a figure (over 1,100 employees), and it is a single internal event rather than an ongoing program with measured reach. I was torn between 2 and 3, so I chose the lower level. There is no customer-access or external community-connecting activity. Demographics (E5) are context only.\"}}, \"notes\": \"The 10-K gave only brief ERG language, so the sustainability report (December 2025, covering FY25) was added. ERG list is as of November 30, 2025. The Global Culture Party and other figures relate to FY25, while the 10-K covers fiscal 2026. They are treated as current per instructions, but they are not confirmed in the 10-K itself. Global Culture Celebrations (report tools list) appear to be the same activity as the Global Culture Party, so they are counted once in E2. Quotes from the report join lines across line breaks. The double space after 'Party' and after '32.1%' is kept as it appears in the source.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 24273,
+      "output_tokens": 3339,
+      "duration_ms": 32121
+    }
+  ],
+  "log": [
+    "company domains found in 10-K: ['dynatrace.com']",
+    "search suggested 2 candidate(s)",
+    "accepted https://assets.dynatrace.com/global/company/esg/dynatrace-2025-sustainability-report.pdf (year 2025, 54 pages)",
+    "chapters via printed table of contents: ['AND COMMUNITY', 'engagement']"
+  ]
+}

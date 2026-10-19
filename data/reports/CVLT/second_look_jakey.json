@@ -1,0 +1,17 @@
+{
+  "ticker": "CVLT",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T01:25:54",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['commvault.com']",
+    "search suggested 3 candidate(s)",
+    "rejected (download/read failed: 403 Client Error: Forbidden for url: https://ir.commvault.com/static-files/4f9b99e4-bc68-46b7-9ec1-5d74bc5e4dad): https://ir.commvault.com/static-files/4f9b99e4-bc68-46b7-9ec1-5d74bc5e4dad",
+    "rejected (download/read failed: 404 Client Error: Not Found for url: https://www.commvault.com/404): https://www.commvault.com/download-pdf/538499",
+    "rejected (download/read failed: 404 Client Error: Not Found for url: https://www.commvault.com/404): https://www.commvault.com/download-pdf/518977"
+  ]
+}

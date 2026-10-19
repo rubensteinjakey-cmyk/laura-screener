@@ -1,0 +1,18 @@
+{
+  "ticker": "PBF",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T01:34:53",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['pbfenergy.com']",
+    "search suggested 4 candidate(s)",
+    "rejected (only 5 pages, not a report): https://www.pbfenergy.com/wp-content/uploads/2026/08/2025-PBF-Energy-Sustainability-Data-Supplement.pdf",
+    "rejected (no usable table of contents / chapters): https://www.pbfenergy.com/wp-content/uploads/2025/09/2024-PBF-Sustainability-Report.pdf",
+    "rejected (no usable table of contents / chapters): https://www.pbfenergy.com/wp-content/uploads/2025/09/2025-PBF-TCFD-Report.pdf",
+    "rejected (only 2 pages, not a report): https://www.pbfenergy.com/wp-content/uploads/2026/01/2024-PBF-Sustainability-Data-Supplement.pdf"
+  ]
+}

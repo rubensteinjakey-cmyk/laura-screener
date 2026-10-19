@@ -1,0 +1,155 @@
+{
+  "ticker": "PBF",
+  "company_name": "PBF Energy",
+  "sector": "Energy",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-12",
+  "fiscal_year": 2025,
+  "accession_number": "0001534504-26-000010",
+  "scored_at": "2026-10-19T01:02:54",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers only petroleum refining and logistics, with no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 1: the human capital section offers only general language about training and about community, educational and volunteer engagement, plus compliance safety training, with no named programs or figures.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 1: there is only one general sentence promoting inclusion and diversity; coverage is insufficient under condition 2 because the relevant discussion is under about 150 words.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1: there is only one general sentence promoting inclusion and diversity; coverage is insufficient under condition 2 because the relevant discussion is under about 150 words."
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing describes refining and logistics sales to large customers and shows no small-business or founder activity of any kind.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 10.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Training and development programs for employees, with expertise shared across refinery sites (no named program or figures)",
+      "quote": "To support the advancement of our employees, we offer rigorous training and development programs and encourage the sharing of expertise across our sites.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Employees and Human Capital > Development and Retention",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 1: general description of employee training with no named program, scale or figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "General statement that the company promotes inclusion and diversity and offers employees community engagement through educational, philanthropic and volunteer activities",
+      "quote": "We actively promote inclusion and diversity in our workforce at each of our locations and provide our employees with opportunities to give back through engagement in our local communities through supportive educational programs, philanthropic and volunteer activities.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Employees and Human Capital > Development and Retention",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 1: general language about community engagement with no named program, participants or dollars"
+        },
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 1: general statement promoting inclusion and diversity with no specific practice described"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The targeted Item 7 excerpt was empty, so no MD&A paragraphs mention the theme terms. Safety training under OSHA is compliance training and was not counted. Cross-cultural coverage is insufficient, which triggers the automated second look using a sustainability report. Implied total: 0 + 6 + 4 + 0 = 10/100.",
+  "quote_check_status": "passed",
+  "flags": [
+    "coverage insufficient (cross_cultural); second look: no report found"
+  ],
+  "human_capital_words": 0,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "cross_cultural"
+    ]
+  }
+}

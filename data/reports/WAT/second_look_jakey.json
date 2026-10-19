@@ -1,0 +1,16 @@
+{
+  "ticker": "WAT",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T01:35:50",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['waters.com']",
+    "search suggested 2 candidate(s)",
+    "rejected (download/read failed: HTTPSConnectionPool(host='www.waters.com', port=443): Max retries exceeded with url: /content/dam/waters/en/library/corporate/esg-reports/2025/2025-sustainability-report.pdf (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))): https://www.waters.com/content/dam/waters/en/library/corporate/esg-reports/2025/2025-sustainability-report.pdf",
+    "rejected (download/read failed: HTTPSConnectionPool(host='www.waters.com', port=443): Max retries exceeded with url: /content/dam/waters/en/library/corporate/esg-reports/2024-waters-sustainability-report.pdf (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))): https://www.waters.com/content/dam/waters/en/library/corporate/esg-reports/2024-waters-sustainability-report.pdf"
+  ]
+}

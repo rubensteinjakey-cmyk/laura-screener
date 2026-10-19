@@ -1,0 +1,98 @@
+{
+  "ticker": "KDP",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T01:28:32",
+  "themes_rescored": [
+    "community",
+    "cross_cultural"
+  ],
+  "report_url": "https://www.keurigdrpepper.com/wp-content/uploads/2026/06/impact-report.pdf",
+  "report_year": 2026,
+  "report_pdf": "report_2026.pdf",
+  "domain_note": "report is not on the company's main domain (keurig.com); quick human check: https://www.keurigdrpepper.com/wp-content/uploads/2026/06/impact-report.pdf",
+  "report_link_found_on": "",
+  "status": "scored",
+  "report_text_file": "report_2026_chapters.txt",
+  "chapters": [
+    "Consumer Health & Well-Being",
+    "Employee Health, Safety & Well-Being"
+  ],
+  "chapter_method": "printed table of contents",
+  "prompt_chars": 52793,
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee volunteering and community engagement program measured in hours",
+        "quote": "Nearly doubled employee volunteerism and community engagement to more than 13,500 hours",
+        "source_doc": "sustainability_report",
+        "section": "Employee Health, Safety & Well-Being > Key Highlights",
+        "status": "current",
+        "indicators": "13,500 hours",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment (volunteering with a figure), limited in reach; no named program, dollars or beneficiaries disclosed"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "General statement that the workforce should reflect the company's consumers and customers",
+        "quote": "We believe that to best innovate and deliver for our consumers and customers, our workforce should represent them.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Resources > Our Culture",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 1: general statement only; no specific inclusion practice, network or access program described"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the report discloses current employee volunteering of more than 13,500 hours. This is community investment with a figure. Its reach is modest relative to about 30,600 employees, and there is no named program, dollar amount or beneficiary count, so it does not reach level 3. The 10-K describes compensation, benefits and safety but no employee training or external education."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: the only material is general language. The 10-K says the workforce should represent consumers and mentions a 'culture of well-being and inclusiveness' in benefits; the report mentions a Newsweek 'Culture, Belonging and Community' recognition. No employee networks, accessibility features, multilingual services or community-connecting programs are described."
+      }
+    },
+    "notes": "The report text supplied contains only key-highlight pages for the Consumer Health and Employee chapters, with no detailed community, education or inclusion programs. Item 7 (targeted) was empty. KDP's seven listed impact areas do not include community investment or inclusion as a standalone area. Coverage is marked sufficient for both themes because the 10-K Human Capital section exceeds about 150 words and describes specific practices. Awards and recognitions (Forbes, Fortune, Newsweek) and the 82% engagement figure are not counted as activities. Benefits for adoption, childbirth and eldercare were treated as general employee benefits, not as a cross-cultural inclusion practice."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "```json\n{\"evidence\": [{\"id\": \"E1\", \"activity\": \"Employee volunteering and community engagement program measured in hours\", \"quote\": \"Nearly doubled employee volunteerism and community engagement to more than 13,500 hours\", \"source_doc\": \"sustainability_report\", \"section\": \"Employee Health, Safety & Well-Being > Key Highlights\", \"status\": \"current\", \"indicators\": \"13,500 hours\", \"themes\": {\"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2: specific current community investment (volunteering with a figure), limited in reach; no named program, dollars or beneficiaries disclosed\"}}}, {\"id\": \"E2\", \"activity\": \"General statement that the workforce should reflect the company's consumers and customers\", \"quote\": \"We believe that to best innovate and deliver for our consumers and customers, our workforce should represent them.\", \"source_doc\": \"10-K\", \"section\": \"Item 1 > Human Capital Resources > Our Culture\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 1: general statement only; no specific inclusion practice, network or access program described\"}}}],\n \"themes\": {\"community\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\"], \"reason\": \"Level 2: the report discloses current employee volunteering of more than 13,500 hours. This is community investment with a figure. Its reach is modest relative to about 30,600 employees, and there is no named program, dollar amount or beneficiary count, so it does not reach level 3. The 10-K describes compensation, benefits and safety but no employee training or external education.\"}, \"cross_cultural\": {\"score\": 1, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E2\"], \"reason\": \"Level 1: the only material is general language. The 10-K says the workforce should represent consumers and mentions a 'culture of well-being and inclusiveness' in benefits; the report mentions a Newsweek 'Culture, Belonging and Community' recognition. No employee networks, accessibility features, multilingual services or community-connecting programs are described.\"}},\n \"notes\": \"The report text supplied contains only key-highlight pages for the Consumer Health and Employee chapters, with no detailed community, education or inclusion programs. Item 7 (targeted) was empty. KDP's seven listed impact areas do not include community investment or inclusion as a standalone area. Coverage is marked sufficient for both themes because the 10-K Human Capital section exceeds about 150 words and describes specific practices. Awards and recognitions (Forbes, Fortune, Newsweek) and the 82% engagement figure are not counted as activities. Benefits for adoption, childbirth and eldercare were treated as general employee benefits, not as a cross-cultural inclusion practice.\"}\n```",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 18826,
+      "output_tokens": 1887,
+      "duration_ms": 19928
+    }
+  ],
+  "log": [
+    "company domains found in 10-K: ['keurig.com', 'keurigdrpepper.com']",
+    "search suggested 4 candidate(s)",
+    "accepted https://www.keurigdrpepper.com/wp-content/uploads/2026/06/impact-report.pdf (year 2026, 50 pages)",
+    "chapters via printed table of contents: ['Consumer Health & Well-Being', 'Employee Health, Safety & Well-Being']"
+  ]
+}

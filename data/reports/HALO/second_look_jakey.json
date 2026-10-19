@@ -1,0 +1,16 @@
+{
+  "ticker": "HALO",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T01:27:37",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['halozyme.com']",
+    "search suggested 2 candidate(s)",
+    "rejected (no usable table of contents / chapters): https://halozyme.com/wp-content/uploads/Halozyme-ESG-Key-Data-and-Metric-Disclosures-2025-final.pdf",
+    "rejected (download/read failed: 404 Client Error: Not Found for url: https://halozyme.com/wp-content/uploads/HALO-ESG-2024-FINAL-v1.pdf): https://halozyme.com/wp-content/uploads/HALO-ESG-2024-FINAL-v1.pdf"
+  ]
+}
