@@ -1,0 +1,45 @@
+{
+  "ticker": "BMNR",
+  "accession_number": "0001493152-25-024679",
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "full_text_words": 31131,
+  "sections": {
+    "item1": {
+      "words": 2140,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          2140,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 4274,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          4274,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 417
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 28
+}

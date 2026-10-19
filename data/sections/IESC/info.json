@@ -1,0 +1,43 @@
+{
+  "ticker": "IESC",
+  "accession_number": "0001048268-25-000174",
+  "filing_date": "2025-11-21",
+  "fiscal_year": 2025,
+  "full_text_words": 47793,
+  "sections": {
+    "item1": {
+      "words": 6373,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          6373,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 9417,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          9417,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 68,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 252
+    }
+  },
+  "notes": [],
+  "human_capital_words": 838,
+  "human_capital_found": true,
+  "people_paragraph_words": 991
+}

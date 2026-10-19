@@ -1,0 +1,43 @@
+{
+  "ticker": "EAT",
+  "accession_number": "0000703351-26-000029",
+  "filing_date": "2026-08-19",
+  "fiscal_year": 2026,
+  "full_text_words": 35066,
+  "sections": {
+    "item1": {
+      "words": 3947,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          3947,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 4740,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          4740,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 114,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 298
+    }
+  },
+  "notes": [],
+  "human_capital_words": 565,
+  "human_capital_found": true,
+  "people_paragraph_words": 1534
+}

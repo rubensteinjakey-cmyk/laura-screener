@@ -1,0 +1,43 @@
+{
+  "ticker": "CRBG",
+  "accession_number": "0001889539-26-000022",
+  "filing_date": "2026-02-11",
+  "fiscal_year": 2025,
+  "full_text_words": 154348,
+  "sections": {
+    "item1": {
+      "words": 25008,
+      "source": "10-K",
+      "candidates": {
+        "starts": 37,
+        "ends": 27,
+        "lengths": [
+          25008,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 33627,
+      "source": "10-K",
+      "candidates": {
+        "starts": 71,
+        "ends": 103,
+        "lengths": [
+          33627,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 2386
+    }
+  },
+  "notes": [],
+  "human_capital_words": 3,
+  "human_capital_found": true,
+  "people_paragraph_words": 2718
+}

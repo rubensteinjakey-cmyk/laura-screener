@@ -1,0 +1,43 @@
+{
+  "ticker": "COF",
+  "accession_number": "0000927628-26-000024",
+  "filing_date": "2026-02-19",
+  "fiscal_year": 2025,
+  "full_text_words": 132935,
+  "sections": {
+    "item1": {
+      "words": 12581,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          12581,
+          21
+        ]
+      }
+    },
+    "item7": {
+      "words": 35033,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          35033,
+          62
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 401,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 10,
+      "paragraphs_total": 1827
+    }
+  },
+  "notes": [],
+  "human_capital_words": 877,
+  "human_capital_found": true,
+  "people_paragraph_words": 806
+}

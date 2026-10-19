@@ -1,0 +1,43 @@
+{
+  "ticker": "WDC",
+  "accession_number": "0001628280-26-057139",
+  "filing_date": "2026-08-14",
+  "fiscal_year": 2026,
+  "full_text_words": 55040,
+  "sections": {
+    "item1": {
+      "words": 4014,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4014,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 6735,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          6735,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 199
+    }
+  },
+  "notes": [],
+  "human_capital_words": 720,
+  "human_capital_found": true,
+  "people_paragraph_words": 909
+}

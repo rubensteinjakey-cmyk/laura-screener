@@ -1,0 +1,45 @@
+{
+  "ticker": "KYMR",
+  "accession_number": "0001193125-26-073395",
+  "filing_date": "2026-02-26",
+  "fiscal_year": 2025,
+  "full_text_words": 98803,
+  "sections": {
+    "item1": {
+      "words": 19525,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          19525,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 9285,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          9285,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 16,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 452
+    }
+  },
+  "notes": [
+    "Human Capital subsection not found in Item 1"
+  ],
+  "human_capital_words": 0,
+  "human_capital_found": false,
+  "people_paragraph_words": 1422
+}

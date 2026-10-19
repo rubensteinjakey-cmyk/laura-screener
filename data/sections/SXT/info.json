@@ -1,0 +1,43 @@
+{
+  "ticker": "SXT",
+  "accession_number": "0001140361-26-005311",
+  "filing_date": "2026-02-13",
+  "fiscal_year": 2025,
+  "full_text_words": 38590,
+  "sections": {
+    "item1": {
+      "words": 4204,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4204,
+          40
+        ]
+      }
+    },
+    "item7": {
+      "words": 4497,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          4497,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 356
+    }
+  },
+  "notes": [],
+  "human_capital_words": 1268,
+  "human_capital_found": true,
+  "people_paragraph_words": 701
+}

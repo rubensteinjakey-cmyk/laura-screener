@@ -1,0 +1,43 @@
+{
+  "ticker": "CVX",
+  "accession_number": "0000093410-26-000078",
+  "filing_date": "2026-02-24",
+  "fiscal_year": 2025,
+  "full_text_words": 75392,
+  "sections": {
+    "item1": {
+      "words": 12179,
+      "source": "10-K",
+      "candidates": {
+        "starts": 1,
+        "ends": 1,
+        "lengths": [
+          12179
+        ]
+      }
+    },
+    "item7": {
+      "words": 15400,
+      "source": "10-K (referenced section)",
+      "candidates": {
+        "starts": 1,
+        "ends": 2,
+        "lengths": [
+          35
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 209,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 691
+    }
+  },
+  "notes": [
+    "item7: 10-K section is only 35 words with 0 cross-reference phrase(s); used the referenced section elsewhere in the 10-K (15,358 words)"
+  ],
+  "human_capital_words": 11411,
+  "human_capital_found": true,
+  "people_paragraph_words": 465
+}

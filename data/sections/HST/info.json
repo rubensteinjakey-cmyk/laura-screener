@@ -1,0 +1,43 @@
+{
+  "ticker": "HST",
+  "accession_number": "0001070750-26-000054",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "full_text_words": 75179,
+  "sections": {
+    "item1": {
+      "words": 9435,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          9435,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 20385,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          20385,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 661
+    }
+  },
+  "notes": [],
+  "human_capital_words": 715,
+  "human_capital_found": true,
+  "people_paragraph_words": 848
+}

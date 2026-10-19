@@ -1,0 +1,43 @@
+{
+  "ticker": "MSFT",
+  "accession_number": "0001193125-26-323660",
+  "filing_date": "2026-07-29",
+  "fiscal_year": 2026,
+  "full_text_words": 48584,
+  "sections": {
+    "item1": {
+      "words": 6069,
+      "source": "10-K",
+      "candidates": {
+        "starts": 13,
+        "ends": 17,
+        "lengths": [
+          6069,
+          8
+        ]
+      }
+    },
+    "item7": {
+      "words": 7759,
+      "source": "10-K",
+      "candidates": {
+        "starts": 17,
+        "ends": 44,
+        "lengths": [
+          7759,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 73,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 1,
+      "paragraphs_total": 609
+    }
+  },
+  "notes": [],
+  "human_capital_words": 397,
+  "human_capital_found": true,
+  "people_paragraph_words": 845
+}

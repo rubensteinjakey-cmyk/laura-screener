@@ -1,0 +1,43 @@
+{
+  "ticker": "CBC",
+  "accession_number": "0001628280-26-021067",
+  "filing_date": "2026-03-25",
+  "fiscal_year": 2025,
+  "full_text_words": 86282,
+  "sections": {
+    "item1": {
+      "words": 12446,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          12446,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 19085,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          19085,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 930,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 13,
+      "paragraphs_total": 949
+    }
+  },
+  "notes": [],
+  "human_capital_words": 289,
+  "human_capital_found": true,
+  "people_paragraph_words": 3001
+}

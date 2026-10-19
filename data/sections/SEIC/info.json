@@ -1,0 +1,43 @@
+{
+  "ticker": "SEIC",
+  "accession_number": "0000350894-26-000013",
+  "filing_date": "2026-02-23",
+  "fiscal_year": 2025,
+  "full_text_words": 53000,
+  "sections": {
+    "item1": {
+      "words": 4838,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          4838,
+          3
+        ]
+      }
+    },
+    "item7": {
+      "words": 8502,
+      "source": "10-K",
+      "candidates": {
+        "starts": 2,
+        "ends": 4,
+        "lengths": [
+          8502,
+          13
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 235,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 3,
+      "paragraphs_total": 389
+    }
+  },
+  "notes": [],
+  "human_capital_words": 109,
+  "human_capital_found": true,
+  "people_paragraph_words": 806
+}
