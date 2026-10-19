@@ -1,0 +1,99 @@
+{
+  "ticker": "ALAB",
+  "company_name": "Astera Labs, Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-02-20",
+  "fiscal_year": 2025,
+  "accession_number": "0001736297-26-000010",
+  "scored_at": "2026-10-19T00:09:16",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: Item 1 fully describes the business (semiconductor connectivity ICs, boards, modules and embedded software), and it shows no creative activity; 'design' refers only to chip, board and product engineering, which is a listed trap.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0 with insufficient coverage under condition 2: the only people discussion is the Human Capital section of about 140 words (headcount, no union, recruiting/retention objectives, equity incentives), and it describes no employee training, external education or community investment.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 0 with insufficient coverage under condition 2: the only people discussion is the Human Capital section of about 140 words (headcount, no union, recruiting/retention objectives, equity incentives), and it describes no employee training, external education or community investment."
+    },
+    "cross_cultural": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0 with insufficient coverage under condition 2: the Human Capital discussion is under about 150 words and contains no inclusion, accessibility or community-connecting activity; regional headcount and international R&D offices are international operations, which do not count.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 0 with insufficient coverage under condition 2: the Human Capital discussion is under about 150 words and contains no inclusion, accessibility or community-connecting activity; regional headcount and international R&D offices are international operations, which do not count."
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: customers are hyperscalers, AI accelerator vendors and system OEMs, and there is no small-business or founder enabling service; the company's own 'innovation' language is a listed trap, so the lower level is chosen.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 0,
+    "cross_cultural": 0,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 0.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [],
+  "notes": "The Item 7 excerpt contains only non-GAAP boilerplate; its 'analyst community' wording is a trap and does not count. Interop Lab collaboration with customers and suppliers is commercial interoperability testing, not community or education ('collaboration' in a business sense is a trap). Ecosystem 'collaboration' with design partners and EDA tool providers is likewise commercial. Community and Cross-cultural coverage is insufficient because the Human Capital section is about 140 words, so this company triggers the automated second look for a sustainability report on a company-owned domain. Entrepreneurship: the ladder lists own innovation at level 1 but the traps list says 'innovation' does not count; resolved to the lower level (0) under the tie-break rule. Final score on the 10-K alone: 0/100.",
+  "quote_check_status": "passed",
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
+  "human_capital_words": 145,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
+}

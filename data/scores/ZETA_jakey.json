@@ -1,0 +1,119 @@
+{
+  "ticker": "ZETA",
+  "company_name": "Zeta Global Holdings Corp.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-068598",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:11:38",
+  "prompt_chars": 53685,
+  "filing_chars": 33664,
+  "filing_words_sent": 4751,
+  "approx_prompt_tokens": 13421,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Marketing platform lets enterprise users build GenAI workflows that generate marketing campaigns and creative",
+        "quote": "Enable ZMP users to create GenAI agents and workflows, which chain discrete tasks together for automations, including the creation of campaigns, creative, audiences, experiences, data onboarding processes, and analysis of analytics.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Overview > 2. AI-Native Infrastructure at Enterprise Scale",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: marketing creative produced as a routine business input for brand campaigns, not original creative work or tools for artists or creators"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Seven employee-led groups open to all employees",
+        "quote": "We currently have seven employee-led groups at Zeta, which foster a culture of inclusion and support.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Inclusion and Belonging",
+        "status": "current",
+        "indicators": "seven employee-led groups",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership or reach figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "In-house development of new data and AI products",
+        "quote": "With over 500 data scientists and engineers, we continue to believe we are well positioned to quickly develop new products and take full advantage of the shift to digital marketing.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Growth Strategies > Continue to innovate and develop new products",
+        "status": "current",
+        "indicators": "over 500 data scientists and engineers",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: the company's own innovation, not enabling outside founders or small businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: creative work appears only as marketing campaigns and creative that enterprise brands produce as a routine business input; no original creative work, tools for creators, or support for artists is described."
+      },
+      "community": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language ('provide every employee with the tools, resources, forums, and platforms'); the Human Capital section describes no specific training, external education or community investment, and the Item 7 'training and educating' of users is a sales model, which is excluded as customer education."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 2: seven employee-led groups are a specific current internal practice, but no membership or reach figures are given."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: only the company's own product innovation is described; customers are large enterprises, and there is no service enabling founders or small businesses."
+      }
+    },
+    "notes": "Item 7 mentions 'training and educating new and existing users on our platform capabilities' as part of a hunter/farmer sales model. This is customer education for sales purposes, a listed Community trap, so it is not scored. The ZMP 'creative' and the 'content creation' experts are marketing content, scored as uses_as_input only. The DISQUS trademark is mentioned without any description of an operating creator or community product, so it is not scored. International offices and employees in India, the EU and the UK do not count for Cross-cultural.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\n  \"ticker\": \"ZETA\",\n  \"sector\": \"Information Technology\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Item 1\", \"Item 7 (targeted)\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Marketing platform lets enterprise users build GenAI workflows that generate marketing campaigns and creative\",\n      \"quote\": \"Enable ZMP users to create GenAI agents and workflows, which chain discrete tasks together for automations, including the creation of campaigns, creative, audiences, experiences, data onboarding processes, and analysis of analytics.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Overview > 2. AI-Native Infrastructure at Enterprise Scale\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"creativity\": {\n          \"kind\": \"uses_as_input\",\n          \"criterion\": \"level 1: marketing creative produced as a routine business input for brand campaigns, not original creative work or tools for artists or creators\"\n        }\n      }\n    },\n    {\n      \"id\": \"E2\",\n      \"activity\": \"Seven employee-led groups open to all employees\",\n      \"quote\": \"We currently have seven employee-led groups at Zeta, which foster a culture of inclusion and support.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Human Capital > Inclusion and Belonging\",\n      \"status\": \"current\",\n      \"indicators\": \"seven employee-led groups\",\n      \"themes\": {\n        \"cross_cultural\": {\n          \"kind\": \"internal_practice\",\n          \"criterion\": \"level 2: employee networks with no membership or reach figures\"\n        }\n      }\n    },\n    {\n      \"id\": \"E3\",\n      \"activity\": \"In-house development of new data and AI products\",\n      \"quote\": \"With over 500 data scientists and engineers, we continue to believe we are well positioned to quickly develop new products and take full advantage of the shift to digital marketing.\",\n      \"source_doc\": \"10-K\",\n      \"section\": \"Item 1 > Our Growth Strategies > Continue to innovate and develop new products\",\n      \"status\": \"current\",\n      \"indicators\": \"over 500 data scientists and engineers\",\n      \"themes\": {\n        \"entrepreneurship\": {\n          \"kind\": \"own_innovation\",\n          \"criterion\": \"level 1: the company's own innovation, not enabling outside founders or small businesses\"\n        }\n      }\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [\"E1\"],\n      \"reason\": \"Level 1: creative work appears only as marketing campaigns and creative that enterprise brands produce as a routine business input; no original creative work, tools for creators, or support for artists is described.\"\n    },\n    \"community\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [],\n      \"reason\": \"Level 1: rests only on general language ('provide every employee with the tools, resources, forums, and platforms'); the Human Capital section describes no specific training, external education or community investment, and the Item 7 'training and educating' of users is a sales model, which is excluded as customer education.\"\n    },\n    \"cross_cultural\": {\n      \"score\": 2,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [\"E2\"],\n      \"reason\": \"Level 2: seven employee-led groups are a specific current internal practice, but no membership or reach figures are given.\"\n    },\n    \"entrepreneurship\": {\n      \"score\": 1,\n      \"coverage\": \"sufficient\",\n      \"evidence_ids\": [\"E3\"],\n      \"reason\": \"Level 1: only the company's own product innovation is described; customers are large enterprises, and there is no service enabling founders or small businesses.\"\n    }\n  },\n  \"notes\": \"Item 7 mentions 'training and educating new and existing users on our platform capabilities' as part of a hunter/farmer sales model. This is customer education for sales purposes, a listed Community trap, so it is not scored. The ZMP 'creative' and the 'content creation' experts are marketing content, scored as uses_as_input only. The DISQUS trademark is mentioned without any description of an operating creator or community product, so it is not scored. International offices and employees in India, the EU and the UK do not count for Cross-cultural.\"\n}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 18284,
+      "output_tokens": 3114,
+      "duration_ms": 31071
+    }
+  ]
+}

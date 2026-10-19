@@ -1,0 +1,101 @@
+{
+  "ticker": "EXPD",
+  "company_name": "Expeditors International",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001193125-26-071569",
+  "filing_date": "2026-02-25",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:13:53",
+  "prompt_chars": 82157,
+  "filing_chars": 62149,
+  "filing_words_sent": 8963,
+  "approx_prompt_tokens": 20539,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Professional development for employees through performance reviews, training, certifications, supervisory skills and succession planning",
+        "quote": "As a knowledge-based organization we focus on employees’ professional development through regular performance reviews and training, including mandatory trainings related to compliance; ethics, health and security; specific certifications where required to perform certain duties; supervising skills and development of succession plans of key employees and leaders.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Opportunities for employees and positive work environment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Teaching employees to use AI tools, with groups building their own agents",
+        "quote": "We are dedicated to teaching our employees how to best utilize AI technologies, with groups creating their own agents and using tools in various areas of our business to gain efficiency and improve effectiveness.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Global Logistics and Supply Chain Technology",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing fully describes a logistics, freight forwarding and customs brokerage business with no creative activity, and 'designed' and 'built' refer only to technology."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: only employee development is described (training, mentoring, succession planning, AI upskilling), with no external education or community investment, so the cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language, namely equal-opportunity and anti-discrimination policy boilerplate and a 'multi-cultural' workforce arising from local hiring in international offices, with no specific inclusion program, network or customer-access activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is fully described and shows no service enabling founders or small businesses; small competitors are mentioned only as competitors and 'innovation' is a trap term."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. The Management Trainee program appears only in an executive biography referring to 2004; its current operation is not confirmed, so it was not recorded. Employee-led Green Teams are environmental sustainability activities, not community investment or education, and were not scored. 'Joint venture' (a local licensing structure), shipping 'high fashion' goods, and 'collaboration' in technology development are traps or non-qualifying uses. Human capital discussion is well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"EXPD\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Professional development for employees through performance reviews, training, certifications, supervisory skills and succession planning\",\"quote\":\"As a knowledge-based organization we focus on employees’ professional development through regular performance reviews and training, including mandatory trainings related to compliance; ethics, health and security; specific certifications where required to perform certain duties; supervising skills and development of succession plans of key employees and leaders.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Opportunities for employees and positive work environment\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Teaching employees to use AI tools, with groups building their own agents\",\"quote\":\"We are dedicated to teaching our employees how to best utilize AI technologies, with groups creating their own agents and using tools in various areas of our business to gain efficiency and improve effectiveness.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Global Logistics and Supply Chain Technology\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing fully describes a logistics, freight forwarding and customs brokerage business with no creative activity, and 'designed' and 'built' refer only to technology.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: only employee development is described (training, mentoring, succession planning, AI upskilling), with no external education or community investment, so the cap of 2 applies.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language, namely equal-opportunity and anti-discrimination policy boilerplate and a 'multi-cultural' workforce arising from local hiring in international offices, with no specific inclusion program, network or customer-access activity.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is fully described and shows no service enabling founders or small businesses; small competitors are mentioned only as competitors and 'innovation' is a trap term.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so no MD&A paragraphs matched the theme terms. The Management Trainee program appears only in an executive biography referring to 2004; its current operation is not confirmed, so it was not recorded. Employee-led Green Teams are environmental sustainability activities, not community investment or education, and were not scored. 'Joint venture' (a local licensing structure), shipping 'high fashion' goods, and 'collaboration' in technology development are traps or non-qualifying uses. Human capital discussion is well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 26376,
+      "output_tokens": 2730,
+      "duration_ms": 27169
+    }
+  ]
+}

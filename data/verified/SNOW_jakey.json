@@ -1,0 +1,137 @@
+{
+  "ticker": "SNOW",
+  "company_name": "Snowflake Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-03-20",
+  "fiscal_year": 2026,
+  "accession_number": "0001640147-26-000008",
+  "scored_at": "2026-10-19T00:12:16",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers a cloud data and AI platform at length and shows no creative activity. The Media and Entertainment vertical, the 'design' of software, 'state-of-the-art' models and the 'creative skills of our personnel' are traps or routine inputs, not creative work.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 1: the human capital section gives only general language about 'structured career development' with no specific program, and it describes no external education or community investment.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests on general language only. The value statement 'Embrace Each Other's Differences' is the sole relevant content, with no employee networks, accessibility or multilingual customer-access practices described. Programming-language choice, AI translation functions and global regions don't count.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "enabling"
+      ],
+      "reason": "Level 2: a specific current named startup program (Powered by Snowflake Start Up) plus Snowflake Ventures investments, with no figures on the number of startups helped or the dollars invested.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 2
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 16.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "General career development and growth opportunities for employees",
+      "quote": "Beyond financial rewards, we invest in our human capital through structured career development and growth opportunities.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital Resources > Total Rewards and Talent Management",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 1: general language about employee development with no named program or specifics"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Named startup program (Powered by Snowflake Start Up program) and venture investments (Snowflake Ventures) in partner companies building on the platform",
+      "quote": "Additionally, with Snowflake Ventures, we continue to invest in key partners that are innovating with the AI Data Cloud, and many partners in our Powered by Snowflake Start Up program are building next-generation data-intensive applications.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Partnerships",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "enabling",
+          "criterion": "level 2: specific current named startup program and venture financing aimed at helping young companies grow, with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Item 7 targeted excerpt was empty, so scoring rests on Item 1 only. The Human Capital Resources section runs well over 150 words and is not pointed elsewhere, so Community and Cross-cultural coverage is sufficient and no second look is triggered. The startup program and Snowflake Ventures are framed as ecosystem and consumption drivers ('invest in key partners'), so E2 is scored conservatively at 2. The Snowflake Marketplace and the Native Application program let companies in general monetize data and apps, but are not aimed at small businesses or founders, so they were not scored for Entrepreneurship. 'Snowflake Partner Network', 'partnerships' and 'collaboration' mean commercial alliances or product features, not community partnerships (trap). 'Data science model training' and 'train AI models' are AI training (trap). The 2020 ESPP is a compensation benefit, not development.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 421,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

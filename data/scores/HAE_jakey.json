@@ -1,0 +1,117 @@
+{
+  "ticker": "HAE",
+  "company_name": "Haemonetics",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000313143-26-000050",
+  "filing_date": "2026-05-20",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T00:03:31",
+  "prompt_chars": 98343,
+  "filing_chars": 78349,
+  "filing_words_sent": 11277,
+  "approx_prompt_tokens": 24585,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Leadership development sessions for managers",
+        "quote": "Manager development sessions focused on developing core leadership competencies, including performance management training, coaching and feedback and building trust;",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Continuous improvement training for employees through an internal learning management platform",
+        "quote": "Continuous improvement training for employees, including through our internal learning management platform, to promote individual development, strengthen our culture and drive compliance and quality across our organization;",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Tuition reimbursement for eligible U.S. and Canadian employees",
+        "quote": "Tuition reimbursement programs that provide eligible U.S. and Canadian employees with the opportunity to be reimbursed (up to a set dollar limit) for tuition and certain other expenses associated with degree programs, certifications and continuing education courses that relate to their work at the Company;",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers medical devices and software for plasma, blood center and hospital customers and shows no creative activity, since 'design' refers only to engineering and product design."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: the filing describes only employee development, namely manager development, continuous improvement training and tuition reimbursement, with no external education or community investment, so the score is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests only on general language ('committed to providing an inclusive environment where the contributions of every individual are valued'), and the Human Capital section describes no specific inclusion practice, accessibility feature or community program."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing shows no small-business customers and no enabling service or program, and its R&D 'innovation' language falls under the trap list (choosing the lower level when torn against the level-1 'own innovation' wording)."
+      }
+    },
+    "notes": "The Item 7 (targeted) section provided was empty, so no MD&A paragraphs matched the theme terms. Several items were excluded. Customer training and support on plasma equipment is product support, which falls under the 'educating customers' trap. Code of Conduct and health and safety training are compliance training. Educational and research grants are mentioned only in an Anti-Kickback legal context, not as a company activity. Sales in about 90 countries and staff in 17 other countries are international operations, which do not count for Cross-cultural. Patent licensing and 'design' as engineering are traps for Creativity. The Human Capital section is well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"HAE\",\"sector\":\"Health Care\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Leadership development sessions for managers\",\"quote\":\"Manager development sessions focused on developing core leadership competencies, including performance management training, coaching and feedback and building trust;\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Continuous improvement training for employees through an internal learning management platform\",\"quote\":\"Continuous improvement training for employees, including through our internal learning management platform, to promote individual development, strengthen our culture and drive compliance and quality across our organization;\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Tuition reimbursement for eligible U.S. and Canadian employees\",\"quote\":\"Tuition reimbursement programs that provide eligible U.S. and Canadian employees with the opportunity to be reimbursed (up to a set dollar limit) for tuition and certain other expenses associated with degree programs, certifications and continuing education courses that relate to their work at the Company;\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers medical devices and software for plasma, blood center and hospital customers and shows no creative activity, since 'design' refers only to engineering and product design.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: the filing describes only employee development, namely manager development, continuous improvement training and tuition reimbursement, with no external education or community investment, so the score is capped at 2.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests only on general language ('committed to providing an inclusive environment where the contributions of every individual are valued'), and the Human Capital section describes no specific inclusion practice, accessibility feature or community program.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing shows no small-business customers and no enabling service or program, and its R&D 'innovation' language falls under the trap list (choosing the lower level when torn against the level-1 'own innovation' wording).\"}},\"notes\":\"The Item 7 (targeted) section provided was empty, so no MD&A paragraphs matched the theme terms. Several items were excluded. Customer training and support on plasma equipment is product support, which falls under the 'educating customers' trap. Code of Conduct and health and safety training are compliance training. Educational and research grants are mentioned only in an Anti-Kickback legal context, not as a company activity. Sales in about 90 countries and staff in 17 other countries are international operations, which do not count for Cross-cultural. Patent licensing and 'design' as engineering are traps for Creativity. The Human Capital section is well over 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 31527,
+      "output_tokens": 2660,
+      "duration_ms": 25739
+    }
+  ]
+}

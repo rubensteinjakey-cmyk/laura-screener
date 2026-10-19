@@ -1,0 +1,168 @@
+{
+  "ticker": "AMD",
+  "company_name": "Advanced Micro Devices",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000002488-26-000018",
+  "filing_date": "2026-02-04",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:01:54",
+  "prompt_chars": 80355,
+  "filing_chars": 60339,
+  "filing_words_sent": 8715,
+  "approx_prompt_tokens": 20088,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sells professional graphics cards for creative work and AI-driven content creation on workstations",
+        "quote": "In 2025, we launched our Radeon AI PRO R9000 Series of graphics cards, intended for local AI inference and creative workloads enabling professionals to accelerate AI-driven content creation and advanced visualization tasks directly on their workstation.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Client and Gaming Segment > Gaming Business > Professional GPUs",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current product enabling others' creative work, limited disclosed scale or reach"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Sells desktop processors marketed for content creation",
+        "quote": "In 2025, we launched processors for gaming and content creation with Ryzen 9 9950X3D and Ryzen 9 9900X3D.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Client and Gaming Segment > Client Products > Desktop CPUs",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current product line supporting content creation, no revenue or user figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Leadership and specialized development programs plus tuition reimbursement for employees",
+        "quote": "Our manager and leadership development programs are highly rated, and we provide specialized development programs for our employees as well as educational assistance in the form of tuition reimbursement for eligible employees to continue their university education or achieve advanced certifications.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Enterprise-wide employee mentoring program",
+        "quote": "We have an enterprise-wide mentoring program where employees have the opportunity to learn from experienced colleagues, develop new skills, and build their professional networks.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Voluntary Employee Resource Groups under the company's diversity and inclusion program",
+        "quote": "Employee Resource Groups (ERGs) encourage employee engagement and play an important role in our culture.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Diversity, Belonging and Inclusion (DB&I)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Sells to small and medium businesses through the reseller (VAR) channel",
+        "quote": "Large multi-nationals and regional accounts are the core of our OEM partners’ business; however, we are increasingly focused on the VAR channel, which resells OEM systems to the mid-market and the small and medium business (SMB) segments.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Customers > Original Equipment Manufacturers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: specific current products that enable creative work (professional GPUs and processors for content creation), with no revenue, user or customer figures showing substantial scale; the choice between levels 2 and 3 was resolved to the lower level."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: the filing shows only employee development (development programs, tuition reimbursement and mentoring), so the score is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 2: the filing shows employee resource groups with no membership or other figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: the filing shows small and medium business customers reached through resellers, with no specific service enabling founders or small businesses."
+      }
+    },
+    "notes": "Chips for game consoles and gaming hardware were not counted as creative enablement, because they are for playing games, not making them. Chip, CAD and logic 'design', 'design tools', developer software stacks and patent cross-licensing were treated as traps. The Item 7 mention of Radeon AI PRO 9700 GPUs 'for gamers, creators and developers' is part of the same professional/creator GPU activity as E1 and was not counted again. The 2025 expansion of mentoring for engineers overlaps with E4 and was not counted separately. 'Inclusive benefits' is mentioned with no detail and was not counted as a separate activity. Co-marketing 'training' for customers is marketing, and open-source contributions are industry collaboration, not community education; neither was counted. 'Founded in 1969 as a Silicon Valley start-up' and 'culture of innovation' are traps for Entrepreneurship. Indicative total from the theme scores: 14 + 12 + 8 + 3 = 37/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"AMD\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sells professional graphics cards for creative work and AI-driven content creation on workstations\",\"quote\":\"In 2025, we launched our Radeon AI PRO R9000 Series of graphics cards, intended for local AI inference and creative workloads enabling professionals to accelerate AI-driven content creation and advanced visualization tasks directly on their workstation.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Client and Gaming Segment > Gaming Business > Professional GPUs\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current product enabling others' creative work, limited disclosed scale or reach\"}}},{\"id\":\"E2\",\"activity\":\"Sells desktop processors marketed for content creation\",\"quote\":\"In 2025, we launched processors for gaming and content creation with Ryzen 9 9950X3D and Ryzen 9 9900X3D.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Client and Gaming Segment > Client Products > Desktop CPUs\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current product line supporting content creation, no revenue or user figures disclosed\"}}},{\"id\":\"E3\",\"activity\":\"Leadership and specialized development programs plus tuition reimbursement for employees\",\"quote\":\"Our manager and leadership development programs are highly rated, and we provide specialized development programs for our employees as well as educational assistance in the form of tuition reimbursement for eligible employees to continue their university education or achieve advanced certifications.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E4\",\"activity\":\"Enterprise-wide employee mentoring program\",\"quote\":\"We have an enterprise-wide mentoring program where employees have the opportunity to learn from experienced colleagues, develop new skills, and build their professional networks.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E5\",\"activity\":\"Voluntary Employee Resource Groups under the company's diversity and inclusion program\",\"quote\":\"Employee Resource Groups (ERGs) encourage employee engagement and play an important role in our culture.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Diversity, Belonging and Inclusion (DB&I)\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E6\",\"activity\":\"Sells to small and medium businesses through the reseller (VAR) channel\",\"quote\":\"Large multi-nationals and regional accounts are the core of our OEM partners’ business; however, we are increasingly focused on the VAR channel, which resells OEM systems to the mid-market and the small and medium business (SMB) segments.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Customers > Original Equipment Manufacturers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: specific current products that enable creative work (professional GPUs and processors for content creation), with no revenue, user or customer figures showing substantial scale; the choice between levels 2 and 3 was resolved to the lower level.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\"],\"reason\":\"Level 2: the filing shows only employee development (development programs, tuition reimbursement and mentoring), so the score is capped at 2.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 2: the filing shows employee resource groups with no membership or other figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: the filing shows small and medium business customers reached through resellers, with no specific service enabling founders or small businesses.\"}},\"notes\":\"Chips for game consoles and gaming hardware were not counted as creative enablement, because they are for playing games, not making them. Chip, CAD and logic 'design', 'design tools', developer software stacks and patent cross-licensing were treated as traps. The Item 7 mention of Radeon AI PRO 9700 GPUs 'for gamers, creators and developers' is part of the same professional/creator GPU activity as E1 and was not counted again. The 2025 expansion of mentoring for engineers overlaps with E4 and was not counted separately. 'Inclusive benefits' is mentioned with no detail and was not counted as a separate activity. Co-marketing 'training' for customers is marketing, and open-source contributions are industry collaboration, not community education; neither was counted. 'Founded in 1969 as a Silicon Valley start-up' and 'culture of innovation' are traps for Entrepreneurship. Indicative total from the theme scores: 14 + 12 + 8 + 3 = 37/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 27489,
+      "output_tokens": 4758,
+      "duration_ms": 43159
+    }
+  ]
+}

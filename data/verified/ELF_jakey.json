@@ -1,0 +1,125 @@
+{
+  "ticker": "ELF",
+  "company_name": "e.l.f. Beauty",
+  "sector": "Consumer Staples",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-05-21",
+  "fiscal_year": 2026,
+  "accession_number": "0001600033-26-000020",
+  "scored_at": "2026-10-19T00:12:59",
+  "themes": {
+    "creativity": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: rests on general language only; the business sells mass-market cosmetics and skin care, and its creative work (design patents on packaging and brushes, a $399.8 million marketing engine) is a routine business input rather than creating or enabling others' creative work.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1 on general language only ('attracting, recruiting, developing, and retaining the best talent', 'employer of choice... in our local communities'); coverage is insufficient under condition 3 because the filing refers to its Impact Report on its website for People goals and strategy and itself describes no specific training, mentoring, external education or community investment (the engagement survey and annual equity awards are not development or community activities).",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1 on general language only ('attracting, recruiting, developing, and retaining the best talent', 'employer of choice... in our local communities'); coverage is insufficient under condition 3 because the filing refers to its Impact Report on its website for People goals and strategy and itself describes no specific training, mentoring, external education or community investment (the engagement survey and annual equity awards are not development or community activities)."
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "demographics_only"
+      ],
+      "reason": "Level 1: only equal-opportunity language and workforce demographic statistics (E1), with 'inclusive, accessible' used as labels for affordable pricing; coverage is insufficient under condition 3 because the filing points to its Impact Report for People and describes no specific inclusion activity such as employee networks, accessibility features or multilingual services.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "coverage_reason_ai": "Level 1: only equal-opportunity language and workforce demographic statistics (E1), with 'inclusive, accessible' used as labels for affordable pricing; coverage is insufficient under condition 3 because the filing points to its Impact Report for People and describes no specific inclusion activity such as employee networks, accessibility features or multilingual services."
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1 on general language only: the filing describes the company's own innovation and mentions small independent companies only as competitors, with no service or program enabling founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 1,
+    "community": 1,
+    "cross_cultural": 1,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 20.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Discloses self-identified gender, age and race/ethnicity statistics for the board, executives and employees",
+      "quote": "While it is our policy to not make our nomination or employment decisions on the basis of legally protected characteristics, the following table provides certain statistics of our Board and our team as of March 31, 2026:",
+      "source_doc": "10-K",
+      "section": "Item 1 > Social Impact and Commitments > People: Our People Power Our Performance",
+      "status": "current",
+      "indicators": "Female 72% of all employees; Asian 18% of all employees; Hispanic or LatinX 19% of all employees",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: workforce demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The Keys Soulcare brand was transferred to Alicia Keys in May 2026 and is no longer in the portfolio (past). The rhode brand was founded by Hailey Rhode Bieber, but it is an acquired brand rather than a program enabling founders. 'Accessible' and 'inclusive' in the filing mainly refer to low prices (an average of about $7 versus $30 for prestige brands); broad affordability was not counted as targeted customer access for underserved or cross-cultural groups. The Item 7 excerpt only repeats the Item 1 overview. Community and Cross-cultural are marked insufficient, which triggers the automated second look using the Impact Report at elfbeauty.com/impact.",
+  "quote_check_status": "passed",
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no report found"
+  ],
+  "human_capital_words": 0,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": {
+    "status": "no report found",
+    "report_url": "",
+    "found_on": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
+}

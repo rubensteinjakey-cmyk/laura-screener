@@ -1,0 +1,250 @@
+{
+  "ticker": "PCTY",
+  "company_name": "Paylocity",
+  "sector": "Industrials",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "filing_date": "2026-08-05",
+  "fiscal_year": 2026,
+  "accession_number": "0001591698-26-000069",
+  "scored_at": "2026-10-19T00:08:23",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description covers HR, finance and IT software in full and shows no creative work being created or enabled.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "kinds": [
+        "community_investment",
+        "education_business",
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 2: a named community investment program (PCTY Gives), a dependents' scholarship, a Learning product module and employee training are all specific and current, but none is shown with indicators of substantial reach.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2"
+      ],
+      "kinds": [
+        "customer_access",
+        "internal_practice"
+      ],
+      "reason": "Level 2: named employee resource groups with no membership figures, plus a bias-reducing candidate masking feature, are specific current activities with limited disclosed reach.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E7"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: the company serves businesses with 10 to 5,000 employees (about 150 on average) but describes no specific service aimed at barriers to starting or growing a business.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "final_score": 23.0,
+  "original_10k_scores": null,
+  "original_10k_final": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Named employee resource groups for employees",
+      "quote": "We also support a number of employee resource groups (“ERGs”), including PCTY Equality, PCTY OneWorld, PCTY Sheroes, PCTY Sustainability, and PCTY Mental Health.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Culture & Engagement",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: employee networks with no membership figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Recruiting software with candidate masking to reduce bias in hiring",
+      "quote": "Clients can reach candidates through online job postings and mobile-friendly application methods, reduce bias through candidate masking capabilities, simplify screening and background check processes, coordinate interviews through scheduling tools and calendar integrations and communicate with candidates through email, text messaging and video interviews.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Products > Talent > Recruiting",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: specific product feature that reduces barriers for candidates, limited in reach with no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Training and leadership development programs for the company's own employees",
+      "quote": "We invest in employee development through a variety of training programs, including role-specific development initiatives for operations team members, sales training programs, and leadership development programs for new and first-time managers.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > Learning & Development",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "PCTY Gives program of employee volunteering, charitable contributions and grants",
+      "quote": "Through our PCTY Gives program, we support charitable organizations and communities through employee volunteerism, charitable contributions, grant programs, and other community-focused initiatives.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > PCTY Gives",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: named community investment program, limited reach with no dollars or participant figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Scholarship program giving higher education tuition help to employees' dependents",
+      "quote": "To support the dependents of Paylocity employees, the Peter J. McGrail Scholarship Program provides higher education tuition assistance for selected recipients.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Human Capital > PCTY Gives",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: named scholarship program for people outside the workforce, limited reach with no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Learning module that lets client organizations deliver and track employee training",
+      "quote": "Our Learning tools enable clients to assign, deliver, and track employee training across a variety of topics and delivery methods, including on-demand courses, webinars and mobile learning.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Products > Talent > Learning",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "education_business",
+          "criterion": "level 2: education product module, one of many, with no disclosed revenue or users"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Sells HCM software to businesses with 10 to 5,000 employees",
+      "quote": "Our clients typically have between 10 to 5,000 employees.",
+      "source_doc": "10-K",
+      "section": "Item 1 > Our Strategy > Grow Our Client Base",
+      "status": "current",
+      "indicators": "10 to 5,000 employees; approximately 44,400 clients",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: business customers with no specific program aimed at barriers to starting or growing a business"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Final score: 0 + 12 + 8 + 3 = 23 / 100. Creativity: the Video tools (leadership announcements, onboarding) and user-generated training content are routine internal business communication, not creative work. 'State-of-the-art time clocks' is a listed trap. 'Technological and creative skills of our personnel' refers to software development. Creativity was scored 0; 1 was considered, and the lower level was chosen when torn. Community: the national nonprofit partnerships (Girls Who Code, American Red Cross, NAMI) and Elevate Your Passions donations sit inside the PCTY Gives paragraph, so they are treated as part of E4 to avoid double counting. No dollars or participant counts are disclosed, so Community does not reach 3. Client training and the annual client conference are 'educating customers' and were not scored. The Community employee-engagement product is workplace communication, not community investment. Cross-cultural: the Global Payroll service in over 100 countries is international operations and does not count. The parental, adoption and fertility benefits were not scored as inclusive practice because they are ambiguous. Item 7 excerpt: 'financial community' is a trap and contains no qualifying activity. Entrepreneurship: the filing never frames clients as small businesses or founders, and 'innovation' language is a trap.",
+  "quote_check_status": "passed",
+  "flags": [],
+  "human_capital_words": 697,
+  "score_source": "10-K",
+  "report_url": "",
+  "report_link_found_on": "",
+  "second_look": null
+}

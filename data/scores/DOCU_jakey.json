@@ -1,0 +1,166 @@
+{
+  "ticker": "DOCU",
+  "company_name": "Docusign",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001261333-26-000021",
+  "filing_date": "2026-03-18",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T00:09:55",
+  "prompt_chars": 65827,
+  "filing_chars": 45824,
+  "filing_words_sent": 6657,
+  "approx_prompt_tokens": 16456,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Docusign Foundation awards grants under its Agreements for Good strategy (Climate & Environment, Data Privacy & Security, Future of Work)",
+        "quote": "To date, we have awarded $5 million in grants through the Docusign Foundation.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Engagement with our Communities",
+        "status": "current",
+        "indicators": "$5 million in grants",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named grant program with dollars disclosed"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Docusign Impact program gives employees paid time off to volunteer in their communities",
+        "quote": "Through our Docusign Impact program, we encourage our employees to take action in their own communities by volunteering.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Engagement with our Communities",
+        "status": "current",
+        "indicators": "up to 24 hours of paid time off a year",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing volunteering program with figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Company matching of employee donations to qualifying nonprofits",
+        "quote": "To date, we have mobilized $25 million in employee donations and company match, supporting approximately 10,700 organizations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Engagement with our Communities",
+        "status": "current",
+        "indicators": "$25 million; approximately 10,700 organizations",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with dollars and number of organizations supported"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Docusign for Nonprofits program offers products to charitable organizations at a discount",
+        "quote": "As a company, we ensure that thousands of charitable organizations have the opportunity to use our products at a discount every year.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Engagement with our Communities",
+        "status": "current",
+        "indicators": "thousands of charitable organizations",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: named, ongoing program supporting nonprofits"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Career development coursework, frameworks and education assistance for employees",
+        "quote": "We offer a number of resources to eligible employees to foster engagement and encourage career development, including career development coursework, frameworks and education assistance.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Talent and Career Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Serves small and medium-sized businesses and individual entrepreneurs as customers of its general agreement software",
+        "quote": "Docusign serves Fortune 500 enterprises, government institutions, small and medium-sized businesses, individual entrepreneurs, and consumers handling personal agreements.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers e-signature and agreement-management software in detail and shows no creative activity. \"Create agreements\", \"design\" of products and \"encouraging innovation and creativity\" among employees are not creative work under the rubric."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 3: named community-investment programs with disclosed reach are present (Foundation grants of $5 million, the Docusign Impact volunteering program, and an employee match of $25 million supporting approximately 10,700 organizations), but these are not described as central to strategy, so level 4 does not apply."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, resting on general language only: the Human Capital section exceeds 150 words but offers only general statements (\"every individual brings unique perspectives and experiences\"), with no employee networks, accessibility features, multilingual services or programs for underserved groups. International operations and a \"diverse customer base\" do not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: very small businesses and individual entrepreneurs are customers of horizontal agreement software (with free and self-serve versions), but no specific enabling service aimed at founders' barriers is described."
+      }
+    },
+    "notes": "Final score = 0 + 18 + 4 + 3 = 25/100. The volunteering figure '140,000 hours' sits in the same paragraph as E2 but is split by a page break ('To date, our / Docusign, Inc. | 2026 Form 10-K | 11 / employees have volunteered'), so it was not used as a quoted indicator. Environmental nonprofit partnerships (Forest Stewardship Council, Wildlife Conservation Society) are mentioned without specifics and were not recorded separately. The developer ecosystem, Docusign Discover conference and App Center are commercial partner programs, not community education or creator enablement. Customer Success 'training' is customer onboarding and was not counted. International revenue and EU eIDAS offerings are market expansion, not cross-cultural activity. Item 7 excerpts repeat Item 1 content and add no new activities.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DOCU\",\"sector\":\"Information Technology\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Docusign Foundation awards grants under its Agreements for Good strategy (Climate & Environment, Data Privacy & Security, Future of Work)\",\"quote\":\"To date, we have awarded $5 million in grants through the Docusign Foundation.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Engagement with our Communities\",\"status\":\"current\",\"indicators\":\"$5 million in grants\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named grant program with dollars disclosed\"}}},{\"id\":\"E2\",\"activity\":\"Docusign Impact program gives employees paid time off to volunteer in their communities\",\"quote\":\"Through our Docusign Impact program, we encourage our employees to take action in their own communities by volunteering.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Engagement with our Communities\",\"status\":\"current\",\"indicators\":\"up to 24 hours of paid time off a year\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing volunteering program with figures\"}}},{\"id\":\"E3\",\"activity\":\"Company matching of employee donations to qualifying nonprofits\",\"quote\":\"To date, we have mobilized $25 million in employee donations and company match, supporting approximately 10,700 organizations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Engagement with our Communities\",\"status\":\"current\",\"indicators\":\"$25 million; approximately 10,700 organizations\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with dollars and number of organizations supported\"}}},{\"id\":\"E4\",\"activity\":\"Docusign for Nonprofits program offers products to charitable organizations at a discount\",\"quote\":\"As a company, we ensure that thousands of charitable organizations have the opportunity to use our products at a discount every year.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Engagement with our Communities\",\"status\":\"current\",\"indicators\":\"thousands of charitable organizations\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2-3: named, ongoing program supporting nonprofits\"}}},{\"id\":\"E5\",\"activity\":\"Career development coursework, frameworks and education assistance for employees\",\"quote\":\"We offer a number of resources to eligible employees to foster engagement and encourage career development, including career development coursework, frameworks and education assistance.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Talent and Career Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E6\",\"activity\":\"Serves small and medium-sized businesses and individual entrepreneurs as customers of its general agreement software\",\"quote\":\"Docusign serves Fortune 500 enterprises, government institutions, small and medium-sized businesses, individual entrepreneurs, and consumers handling personal agreements.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers e-signature and agreement-management software in detail and shows no creative activity. \\\"Create agreements\\\", \\\"design\\\" of products and \\\"encouraging innovation and creativity\\\" among employees are not creative work under the rubric.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 3: named community-investment programs with disclosed reach are present (Foundation grants of $5 million, the Docusign Impact volunteering program, and an employee match of $25 million supporting approximately 10,700 organizations), but these are not described as central to strategy, so level 4 does not apply.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, resting on general language only: the Human Capital section exceeds 150 words but offers only general statements (\\\"every individual brings unique perspectives and experiences\\\"), with no employee networks, accessibility features, multilingual services or programs for underserved groups. International operations and a \\\"diverse customer base\\\" do not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: very small businesses and individual entrepreneurs are customers of horizontal agreement software (with free and self-serve versions), but no specific enabling service aimed at founders' barriers is described.\"}},\"notes\":\"Final score = 0 + 18 + 4 + 3 = 25/100. The volunteering figure '140,000 hours' sits in the same paragraph as E2 but is split by a page break ('To date, our / Docusign, Inc. | 2026 Form 10-K | 11 / employees have volunteered'), so it was not used as a quoted indicator. Environmental nonprofit partnerships (Forest Stewardship Council, Wildlife Conservation Society) are mentioned without specifics and were not recorded separately. The developer ecosystem, Docusign Discover conference and App Center are commercial partner programs, not community education or creator enablement. Customer Success 'training' is customer onboarding and was not counted. International revenue and EU eIDAS offerings are market expansion, not cross-cultural activity. Item 7 excerpts repeat Item 1 content and add no new activities.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 21823,
+      "output_tokens": 4273,
+      "duration_ms": 38099
+    }
+  ]
+}

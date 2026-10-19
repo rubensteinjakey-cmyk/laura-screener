@@ -1,0 +1,167 @@
+{
+  "ticker": "VRNS",
+  "company_name": "Varonis Systems, Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-005450",
+  "filing_date": "2026-02-04",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:04:54",
+  "prompt_chars": 62862,
+  "filing_chars": 42846,
+  "filing_words_sent": 6037,
+  "approx_prompt_tokens": 15715,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee training and certification programs, including new-hire bootcamps",
+        "quote": "Employee training and education includes online certification, in person certification and new hire training bootcamps.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital Resources > Create Opportunities for Growth and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Internal mentoring program pairing seasoned employees with new managers",
+        "quote": "We have established an internal mentoring program in which seasoned employees' mentor new managers based on defined goals.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital Resources > Create Opportunities for Growth and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee-led volunteer programs with partner organizations teaching life skills, coding, basic IT skills and financial literacy",
+        "quote": "We partner with several organizations providing life skills trainings, coding and basic IT skills, financial literacy and more.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital Resources > Promote Community Outreach and Support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, limited reach (no participants or dollars disclosed)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Corporate matching of employee charitable donations and paid volunteering time",
+        "quote": "We also provide corporate matching of employee charitable donations and flexible volunteering during work time, letting our employees know that we support the charitable efforts that matter to them.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital Resources > Promote Community Outreach and Support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach (no dollars or hours disclosed)"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee-led Employee Resource Groups",
+        "quote": "We have Employee Resource Groups, led by our employees, designed to foster connection, understanding and support.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Employees and Human Capital Resources > Promote Sense of Belonging",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Platform sold to organizations including small and mid-sized businesses",
+        "quote": "Our platform is used by organizations ranging from small and mid-sized businesses to large multinational enterprises with hundreds of thousands of employees and petabytes of data.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers a data security platform with no creative activity; 'data created', 'content marketing' and software licensing are traps."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: specific current external education and community investment (employee-led skills programs with partner organizations, donation matching) plus employee development, but no participants or dollars are disclosed to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 2: Employee Resource Groups exist but no membership or other figures are disclosed; 'promoting diversity and inclusion' is general language and global operations across 95+ countries do not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: small and mid-sized businesses are among the customers, but there is no specific enabling service, and the company focuses on larger enterprises."
+      }
+    },
+    "notes": "Marketing 'customer education', webinars and training programs are treated as educating customers as marketing (trap), not external education. Code of conduct trainings are compliance training and are not counted. 'Foundation' refers to platform architecture. The Item 7 excerpts mention education only as a customer industry and as a sales and marketing expense line. Self-hosted and on-premises products have an announced end-of-life of December 31, 2026, which is not relevant to the themes. Community programs are described as employee-led volunteering with no reach figures, so they stay at level 2.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"VRNS\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee training and certification programs, including new-hire bootcamps\",\"quote\":\"Employee training and education includes online certification, in person certification and new hire training bootcamps.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital Resources > Create Opportunities for Growth and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Internal mentoring program pairing seasoned employees with new managers\",\"quote\":\"We have established an internal mentoring program in which seasoned employees' mentor new managers based on defined goals.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital Resources > Create Opportunities for Growth and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Employee-led volunteer programs with partner organizations teaching life skills, coding, basic IT skills and financial literacy\",\"quote\":\"We partner with several organizations providing life skills trainings, coding and basic IT skills, financial literacy and more.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital Resources > Promote Community Outreach and Support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, limited reach (no participants or dollars disclosed)\"}}},{\"id\":\"E4\",\"activity\":\"Corporate matching of employee charitable donations and paid volunteering time\",\"quote\":\"We also provide corporate matching of employee charitable donations and flexible volunteering during work time, letting our employees know that we support the charitable efforts that matter to them.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital Resources > Promote Community Outreach and Support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach (no dollars or hours disclosed)\"}}},{\"id\":\"E5\",\"activity\":\"Employee-led Employee Resource Groups\",\"quote\":\"We have Employee Resource Groups, led by our employees, designed to foster connection, understanding and support.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Employees and Human Capital Resources > Promote Sense of Belonging\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E6\",\"activity\":\"Platform sold to organizations including small and mid-sized businesses\",\"quote\":\"Our platform is used by organizations ranging from small and mid-sized businesses to large multinational enterprises with hundreds of thousands of employees and petabytes of data.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers a data security platform with no creative activity; 'data created', 'content marketing' and software licensing are traps.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: specific current external education and community investment (employee-led skills programs with partner organizations, donation matching) plus employee development, but no participants or dollars are disclosed to show substantial reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 2: Employee Resource Groups exist but no membership or other figures are disclosed; 'promoting diversity and inclusion' is general language and global operations across 95+ countries do not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: small and mid-sized businesses are among the customers, but there is no specific enabling service, and the company focuses on larger enterprises.\"}},\"notes\":\"Marketing 'customer education', webinars and training programs are treated as educating customers as marketing (trap), not external education. Code of conduct trainings are compliance training and are not counted. 'Foundation' refers to platform architecture. The Item 7 excerpts mention education only as a customer industry and as a sales and marketing expense line. Self-hosted and on-premises products have an announced end-of-life of December 31, 2026, which is not relevant to the themes. Community programs are described as employee-led volunteering with no reach figures, so they stay at level 2.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20403,
+      "output_tokens": 2779,
+      "duration_ms": 25498
+    }
+  ]
+}

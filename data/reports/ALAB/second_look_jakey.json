@@ -1,0 +1,15 @@
+{
+  "ticker": "ALAB",
+  "run_id": "jakey",
+  "model": "claude-opus-5-5",
+  "done_at": "2026-10-19T00:13:55",
+  "themes_rescored": [
+    "community",
+    "cross_cultural"
+  ],
+  "status": "no report found",
+  "log": [
+    "company domains found in 10-K: ['amazon.com', 'gcs-web.com']",
+    "search suggested 0 candidate(s)"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "ticker": "DDOG",
+  "company_name": "Datadog",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-008819",
+  "filing_date": "2026-02-18",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:01:09",
+  "prompt_chars": 60045,
+  "filing_chars": 40043,
+  "filing_words_sent": 5642,
+  "approx_prompt_tokens": 15011,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Platform Marketplace where customers can access products built by Datadog's partners",
+        "quote": "Our platform consists of products that can be used individually or as a unified solution, and includes a Marketplace where customers can access products built by our partners on top of the Datadog platform.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Platform",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: a partner product marketplace, but the filing does not say it targets founders or small businesses or removes barriers to starting or growing a venture"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers observability and security software in detail and shows no creating or enabling of creative work; 'product designers' as platform users and 'creative skills of our personnel' are not creative activity."
+      },
+      "community": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 2: the Human Capital Management discussion is under about 150 words and describes no employee development, external education or community investment; product training at marketing events is a trap ('educating customers' as marketing)."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 2: the workforce discussion is under about 150 words and gives only geographic employee distribution (international operations), which does not count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the filing shows serving 'organizations of all sizes', its own innovation, and a partner Marketplace, but no specific enabling program for founders or small businesses."
+      }
+    },
+    "notes": "Community and Cross-cultural are marked insufficient because the Human Capital Management section is about 90 words and gives only headcount, geographic split and labor-law compliance. That triggers the automated second look, which should rescore these themes using the 10-K plus the company's sustainability report. The phrases 'foster community', 'development and operations community/communities' and 'community initiatives' appear only in sales and marketing context, so they were not counted. 'Collaboration' refers to product features for customer teams, not to Community-theme collaboration. 'Diversify their infrastructure' and international expansion are traps for Cross-cultural. The Marketplace was recorded for transparency only and does not meet the 'enabling' criterion as described.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DDOG\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Platform Marketplace where customers can access products built by Datadog's partners\",\"quote\":\"Our platform consists of products that can be used individually or as a unified solution, and includes a Marketplace where customers can access products built by our partners on top of the Datadog platform.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Platform\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: a partner product marketplace, but the filing does not say it targets founders or small businesses or removes barriers to starting or growing a venture\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers observability and security software in detail and shows no creating or enabling of creative work; 'product designers' as platform users and 'creative skills of our personnel' are not creative activity.\"},\"community\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 2: the Human Capital Management discussion is under about 150 words and describes no employee development, external education or community investment; product training at marketing events is a trap ('educating customers' as marketing).\"},\"cross_cultural\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 2: the workforce discussion is under about 150 words and gives only geographic employee distribution (international operations), which does not count.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the filing shows serving 'organizations of all sizes', its own innovation, and a partner Marketplace, but no specific enabling program for founders or small businesses.\"}},\"notes\":\"Community and Cross-cultural are marked insufficient because the Human Capital Management section is about 90 words and gives only headcount, geographic split and labor-law compliance. That triggers the automated second look, which should rescore these themes using the 10-K plus the company's sustainability report. The phrases 'foster community', 'development and operations community/communities' and 'community initiatives' appear only in sales and marketing context, so they were not counted. 'Collaboration' refers to product features for customer teams, not to Community-theme collaboration. 'Diversify their infrastructure' and international expansion are traps for Cross-cultural. The Marketplace was recorded for transparency only and does not meet the 'enabling' criterion as described.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 19742,
+      "output_tokens": 2018,
+      "duration_ms": 35129
+    }
+  ]
+}

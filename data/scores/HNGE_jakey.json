@@ -1,0 +1,85 @@
+{
+  "ticker": "HNGE",
+  "company_name": "Hinge Health, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001628280-26-013808",
+  "filing_date": "2026-03-03",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:10:26",
+  "prompt_chars": 97411,
+  "filing_chars": 77409,
+  "filing_words_sent": 11546,
+  "approx_prompt_tokens": 24352,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Global digital MSK care program offered in several countries with content localized through culturally relevant translations",
+        "quote": "Our global program content is localized with culturally relevant translations.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Our Programs > Global",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current multilingual product access, limited reach with no member figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description of a digital MSK care platform shows no activity that creates or enables creative work."
+      },
+      "community": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 2: the only workforce and people discussion ('Our People') is under about 150 words, it describes no training or community programs, and the filing has no community section."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: a specific current customer-access activity (a global program localized with culturally relevant translations) with no reach figures disclosed."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: clients are employers, health plans and government payers, with no service enabling founders or small businesses; the company's own innovation and R&D language is a trap and does not count."
+      }
+    },
+    "notes": "The Item 7 targeted excerpt was empty, so there were no MD&A matches. Community coverage is insufficient, which triggers the automated sustainability-report second look. Member health education (educational content, health coaching, fall-prevention and prevention-program education) is treated as part of the clinical service, not qualifying external education or an education business. That reading is lower when torn, and a reviewer may revisit it. 'Driving health equity' and 'consistent care regardless of income level or geography' are claims with no separate practice behind them, so they add nothing above E1. The global program reached 6 countries (Canada, France, Germany, Ireland, the Netherlands, UK) as of 2025. That figure is in the Growth Strategy paragraph, not next to the quote, so it was not used as an indicator. Expansion to non-U.S. employers and to Medicare and Medicaid is planned and was not scored. Trap terms excluded: 'foundation of our programs', 'collaboration' and 'partners' meaning commercial distribution and data-sharing arrangements, 'innovation', 'design' as product engineering, and 'state of the art' in regulatory text. Women's pelvic health and fall prevention for adults 65+ are clinical product lines and were not counted as cross-cultural inclusion. Computed total: 0 + 0 + 8 + 0 = 8/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"HNGE\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Global digital MSK care program offered in several countries with content localized through culturally relevant translations\",\"quote\":\"Our global program content is localized with culturally relevant translations.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Our Programs > Global\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current multilingual product access, limited reach with no member figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description of a digital MSK care platform shows no activity that creates or enables creative work.\"},\"community\":{\"score\":0,\"coverage\":\"insufficient\",\"evidence_ids\":[],\"reason\":\"Level 0 with insufficient coverage under condition 2: the only workforce and people discussion ('Our People') is under about 150 words, it describes no training or community programs, and the filing has no community section.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: a specific current customer-access activity (a global program localized with culturally relevant translations) with no reach figures disclosed.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: clients are employers, health plans and government payers, with no service enabling founders or small businesses; the company's own innovation and R&D language is a trap and does not count.\"}},\"notes\":\"The Item 7 targeted excerpt was empty, so there were no MD&A matches. Community coverage is insufficient, which triggers the automated sustainability-report second look. Member health education (educational content, health coaching, fall-prevention and prevention-program education) is treated as part of the clinical service, not qualifying external education or an education business. That reading is lower when torn, and a reviewer may revisit it. 'Driving health equity' and 'consistent care regardless of income level or geography' are claims with no separate practice behind them, so they add nothing above E1. The global program reached 6 countries (Canada, France, Germany, Ireland, the Netherlands, UK) as of 2025. That figure is in the Growth Strategy paragraph, not next to the quote, so it was not used as an indicator. Expansion to non-U.S. employers and to Medicare and Medicaid is planned and was not scored. Trap terms excluded: 'foundation of our programs', 'collaboration' and 'partners' meaning commercial distribution and data-sharing arrangements, 'innovation', 'design' as product engineering, and 'state of the art' in regulatory text. Women's pelvic health and fall prevention for adults 65+ are clinical product lines and were not counted as cross-cultural inclusion. Computed total: 0 + 0 + 8 + 0 = 8/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 30994,
+      "output_tokens": 2806,
+      "duration_ms": 30895
+    }
+  ]
+}

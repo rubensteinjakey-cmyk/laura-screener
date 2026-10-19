@@ -1,0 +1,167 @@
+{
+  "ticker": "HPQ",
+  "company_name": "HP Inc.",
+  "sector": "Information Technology",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0000047217-25-000071",
+  "filing_date": "2025-12-10",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:06:22",
+  "prompt_chars": 47194,
+  "filing_chars": 27193,
+  "filing_words_sent": 3882,
+  "approx_prompt_tokens": 11798,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Internal and external development programs for employees to build technical and digital skills",
+        "quote": "We also support employees through an extensive portfolio of internal and external development programs designed to accelerate career growth and enhance technical and digital capabilities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Named Degree Assistance Program funding employees' higher academic education",
+        "quote": "In addition to skill development resources, HP also offers formal education assistance through our Degree Assistance Program which provides employees with the opportunity to participate in higher academic education.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Talent Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Business Resource Groups and inclusion programs for employees",
+        "quote": "Programs, strategic partnerships, and Business Resource Groups are key components of our strategy to attract, develop, and retain talent and provide the foundation for a positive culture of inclusion and respect.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Annual pay equity reviews with independent third-party experts",
+        "quote": "Since 2016, we also have reviewed employees’ compensation with independent third-party experts to support equitable pay practices.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital > Pay Equity",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal practice, limited reach shown"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Sells printing products to home business and micro business customers",
+        "quote": "Home Printing Solutions delivers innovative and security enhanced printing products, supplies, services and solutions for the home, home business and micro business customers.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Printing",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: small-business customers with no specific enabling service"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Internal business incubation projects",
+        "quote": "Corporate Investments includes certain business incubation projects and investments in digital enablement.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Corporate Investments",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: company's own innovation"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general mission language ('enable people to bring their ideas to life') and routine in-house design, because the filing does not describe printing, graphics or workstation products as serving artists or creators."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: only employee development is described (development programs and the Degree Assistance Program), with no external education or community investment, so the score is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: specific current internal practices (Business Resource Groups, third-party pay equity reviews) with no membership or reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 1: the filing shows only SMB, home-business and micro-business customers plus the company's own incubation projects, with no specific program that enables founders."
+      }
+    },
+    "notes": "The Item 7 (targeted) section was empty, so no MD&A paragraphs matched theme terms. 'Accessibility of our products' in the Competition section refers to distribution availability, not disability access, so it was not counted. 'Graphics Solutions' and 'publishing environments' describe commercial and industrial print equipment and were not framed as enabling creative work; they were scored at the lower level under the when-torn rule. The 10-K points to the Sustainable Impact Report for its sustainability strategy, but it also describes specific human capital activities in more than 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Illustrative total: 7 + 12 + 8 + 3 = 30/100.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"HPQ\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Internal and external development programs for employees to build technical and digital skills\",\"quote\":\"We also support employees through an extensive portfolio of internal and external development programs designed to accelerate career growth and enhance technical and digital capabilities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Named Degree Assistance Program funding employees' higher academic education\",\"quote\":\"In addition to skill development resources, HP also offers formal education assistance through our Degree Assistance Program which provides employees with the opportunity to participate in higher academic education.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Talent Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Business Resource Groups and inclusion programs for employees\",\"quote\":\"Programs, strategic partnerships, and Business Resource Groups are key components of our strategy to attract, develop, and retain talent and provide the foundation for a positive culture of inclusion and respect.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E4\",\"activity\":\"Annual pay equity reviews with independent third-party experts\",\"quote\":\"Since 2016, we also have reviewed employees’ compensation with independent third-party experts to support equitable pay practices.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital > Pay Equity\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal practice, limited reach shown\"}}},{\"id\":\"E5\",\"activity\":\"Sells printing products to home business and micro business customers\",\"quote\":\"Home Printing Solutions delivers innovative and security enhanced printing products, supplies, services and solutions for the home, home business and micro business customers.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Printing\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: small-business customers with no specific enabling service\"}}},{\"id\":\"E6\",\"activity\":\"Internal business incubation projects\",\"quote\":\"Corporate Investments includes certain business incubation projects and investments in digital enablement.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Corporate Investments\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: company's own innovation\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general mission language ('enable people to bring their ideas to life') and routine in-house design, because the filing does not describe printing, graphics or workstation products as serving artists or creators.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: only employee development is described (development programs and the Degree Assistance Program), with no external education or community investment, so the score is capped at 2.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\"],\"reason\":\"Level 2: specific current internal practices (Business Resource Groups, third-party pay equity reviews) with no membership or reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\"],\"reason\":\"Level 1: the filing shows only SMB, home-business and micro-business customers plus the company's own incubation projects, with no specific program that enables founders.\"}},\"notes\":\"The Item 7 (targeted) section was empty, so no MD&A paragraphs matched theme terms. 'Accessibility of our products' in the Competition section refers to distribution availability, not disability access, so it was not counted. 'Graphics Solutions' and 'publishing environments' describe commercial and industrial print equipment and were not framed as enabling creative work; they were scored at the lower level under the when-torn rule. The 10-K points to the Sustainable Impact Report for its sustainability strategy, but it also describes specific human capital activities in more than 150 words, so Community and Cross-cultural coverage is sufficient and no second look is triggered. Illustrative total: 7 + 12 + 8 + 3 = 30/100.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 16260,
+      "output_tokens": 3462,
+      "duration_ms": 32854
+    }
+  ]
+}

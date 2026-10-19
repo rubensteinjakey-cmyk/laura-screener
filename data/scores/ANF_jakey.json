@@ -1,0 +1,151 @@
+{
+  "ticker": "ANF",
+  "company_name": "Abercrombie & Fitch",
+  "sector": "Consumer Discretionary",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001018840-26-000012",
+  "filing_date": "2026-03-26",
+  "fiscal_year": 2026,
+  "scored_at": "2026-10-19T00:11:06",
+  "prompt_chars": 57125,
+  "filing_chars": 37112,
+  "filing_words_sent": 5317,
+  "approx_prompt_tokens": 14281,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Partners with influencers, celebrities, brand representatives and athletes to market its apparel brands",
+        "quote": "Our brands have strong global followings on key social media platforms, and the Company also partners with brand representatives, influencers, celebrities, and athletes to market its products and communicate its brands’ identities.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Customer Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used only as a routine marketing input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Structured development programs, online skill platforms and coaching for its own associates",
+        "quote": "This includes structured development programs, access to online skill development platforms, stretch assignments, internal career pathing, self-awareness exercises, and active coaching.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Fostering associate development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Charitable support to community organizations through cash donations, volunteering and in-kind support, plus a paid volunteer day for associates",
+        "quote": "The Company provides support to global organizations in the form of cash donations, volunteerism, and in-kind support.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Encouraging community involvement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited or undisclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Associate resource groups open to all associates",
+        "quote": "The Company follows core principles to embed a sense of community into our organization and promote inclusion and belonging, including having a workforce that reflects the communities we serve, building a leadership team that reflects the values of our workforce, welcoming all associates to participate in any of our associate resource groups",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management > Aiming to create a culture of belonging",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee resource groups with no figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Brand websites offered in various local languages",
+        "quote": "The Company operates desktop and mobile websites for its brands globally, which are available in various local languages.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Overview of Operations > Digital Operations",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: multilingual customer-facing service, limited or undisclosed reach"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the filing describes an apparel retailer whose product design and influencer marketing are routine business inputs, with no creating or enabling of others' creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: the filing shows employee development and specific community giving and volunteering, but discloses no figures, named programs or participant numbers that would show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: the filing shows associate resource groups without membership figures and websites in local languages, which are specific activities with no measured reach."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is described in full, and there is no enabling program for founders or small businesses; franchise, wholesale and licensing arrangements are commercial distribution channels, not services that address barriers to starting a business."
+      }
+    },
+    "notes": "The Item 7 (targeted) section was empty, so no MD&A excerpts matched the theme terms. The E4 quote is about 52 words because the associate-resource-group clause sits at the end of one long sentence; only the final list item ('and driving fairness through our compensation and benefits offerings') was dropped, which does not change the meaning. The corporate purpose and 'welcoming and inclusive' culture language are claims only and were not scored. Trademark licensing and licensed collegiate/sports apparel are brand licensing arrangements, not payments to creators, so they were not counted for Creativity. Adoption and fertility benefits and paid parental leave were not counted as inclusive practices, because the filing does not frame them that way. Community partners 'with a focus on ... inclusion' are part of the giving program in E3 and were not counted separately for Cross-cultural. No dollar amounts, participant numbers or volunteer-hour figures are disclosed for community programs.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ANF\",\"sector\":\"Consumer Discretionary\",\"fiscal_year\":2026,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Partners with influencers, celebrities, brand representatives and athletes to market its apparel brands\",\"quote\":\"Our brands have strong global followings on key social media platforms, and the Company also partners with brand representatives, influencers, celebrities, and athletes to market its products and communicate its brands’ identities.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Customer Engagement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used only as a routine marketing input\"}}},{\"id\":\"E2\",\"activity\":\"Structured development programs, online skill platforms and coaching for its own associates\",\"quote\":\"This includes structured development programs, access to online skill development platforms, stretch assignments, internal career pathing, self-awareness exercises, and active coaching.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Fostering associate development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E3\",\"activity\":\"Charitable support to community organizations through cash donations, volunteering and in-kind support, plus a paid volunteer day for associates\",\"quote\":\"The Company provides support to global organizations in the form of cash donations, volunteerism, and in-kind support.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Encouraging community involvement\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited or undisclosed reach\"}}},{\"id\":\"E4\",\"activity\":\"Associate resource groups open to all associates\",\"quote\":\"The Company follows core principles to embed a sense of community into our organization and promote inclusion and belonging, including having a workforce that reflects the communities we serve, building a leadership team that reflects the values of our workforce, welcoming all associates to participate in any of our associate resource groups\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management > Aiming to create a culture of belonging\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee resource groups with no figures\"}}},{\"id\":\"E5\",\"activity\":\"Brand websites offered in various local languages\",\"quote\":\"The Company operates desktop and mobile websites for its brands globally, which are available in various local languages.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Overview of Operations > Digital Operations\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: multilingual customer-facing service, limited or undisclosed reach\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the filing describes an apparel retailer whose product design and influencer marketing are routine business inputs, with no creating or enabling of others' creative work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\"],\"reason\":\"Level 2: the filing shows employee development and specific community giving and volunteering, but discloses no figures, named programs or participant numbers that would show substantial reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\",\"E5\"],\"reason\":\"Level 2: the filing shows associate resource groups without membership figures and websites in local languages, which are specific activities with no measured reach.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is described in full, and there is no enabling program for founders or small businesses; franchise, wholesale and licensing arrangements are commercial distribution channels, not services that address barriers to starting a business.\"}},\"notes\":\"The Item 7 (targeted) section was empty, so no MD&A excerpts matched the theme terms. The E4 quote is about 52 words because the associate-resource-group clause sits at the end of one long sentence; only the final list item ('and driving fairness through our compensation and benefits offerings') was dropped, which does not change the meaning. The corporate purpose and 'welcoming and inclusive' culture language are claims only and were not scored. Trademark licensing and licensed collegiate/sports apparel are brand licensing arrangements, not payments to creators, so they were not counted for Creativity. Adoption and fertility benefits and paid parental leave were not counted as inclusive practices, because the filing does not frame them that way. Community partners 'with a focus on ... inclusion' are part of the giving program in E3 and were not counted separately for Cross-cultural. No dollar amounts, participant numbers or volunteer-hour figures are disclosed for community programs.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 20058,
+      "output_tokens": 4234,
+      "duration_ms": 38727
+    }
+  ]
+}

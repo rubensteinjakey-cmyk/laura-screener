@@ -1,0 +1,118 @@
+{
+  "ticker": "NTRA",
+  "company_name": "Natera, Inc.",
+  "sector": "Health Care",
+  "run_id": "jakey",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "sections": [
+    "item1",
+    "item7_targeted"
+  ],
+  "accession_number": "0001104659-26-020881",
+  "filing_date": "2026-02-27",
+  "fiscal_year": 2025,
+  "scored_at": "2026-10-19T00:08:53",
+  "prompt_chars": 134069,
+  "filing_chars": 114073,
+  "filing_words_sent": 17022,
+  "approx_prompt_tokens": 33517,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee evaluation process and initiatives to develop employees, leaders and managers",
+        "quote": "Our employee evaluation process helps us to support developing employees as well as identify and cultivate high performers, and we have various initiatives underway to further develop leaders and managers.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee resource groups that build connection and an inclusive culture, including groups supporting veterans and belonging",
+        "quote": "We have a growing number of employee resource groups, or ERGs, which offer opportunities for our employees to build connection and create a supportive and inclusive culture of belonging and awareness, which we believe positively impacts our workplace.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Disclosure of workforce gender and minority representation",
+        "quote": "Based on self-identification data, in 2025, women comprised approximately 64.2% of our global workforce, approximately 65.7% of global new hires, and approximately 63.8% of internal promotions.",
+        "source_doc": "10-K",
+        "section": "Item 1 > Human Capital Management",
+        "status": "current",
+        "indicators": "64.2%, 65.7%, 63.8%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers molecular diagnostic tests only, and shows no creative activity; 'design' refers to assay and test design."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: the only qualifying activity is employee development, so Community is capped at 2."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: the filing describes employee resource groups without membership figures, plus demographic statistics."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing describes the business fully and shows no service enabling founders or small businesses; 'innovation' mentions are a trap and do not count."
+      }
+    },
+    "notes": "Several items were deliberately not counted. Patient educational initiatives, genetic counselor sessions and provider clinical education were treated as customer or marketing education, which is a trap. Patient financial assistance programs for hardship patients, mobile phlebotomy and Horizon pan-ethnic carrier screening are access and product features. They are not specific programs for underserved, immigrant or cultural communities, so they were not scored as Cross-cultural customer_access, choosing the lower level where torn. Research collaborations with universities, NCI and nonprofits are clinical-evidence partnerships, not community investment. Leadership roundtables and expanded personal development training launched in 2025 are additional employee development and do not change the capped level. The 2024 engagement survey (92% participation) is not a development activity. Constellation lab licensing is not a small-business enabling program. A sustainability report is referenced at natera.com/sustainability, but no second look is needed because all themes are sufficient.",
+    "sections_read": [
+      "Item 1",
+      "Item 7 (targeted)"
+    ]
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"NTRA\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Item 1\",\"Item 7 (targeted)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee evaluation process and initiatives to develop employees, leaders and managers\",\"quote\":\"Our employee evaluation process helps us to support developing employees as well as identify and cultivate high performers, and we have various initiatives underway to further develop leaders and managers.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Employee resource groups that build connection and an inclusive culture, including groups supporting veterans and belonging\",\"quote\":\"We have a growing number of employee resource groups, or ERGs, which offer opportunities for our employees to build connection and create a supportive and inclusive culture of belonging and awareness, which we believe positively impacts our workplace.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E3\",\"activity\":\"Disclosure of workforce gender and minority representation\",\"quote\":\"Based on self-identification data, in 2025, women comprised approximately 64.2% of our global workforce, approximately 65.7% of global new hires, and approximately 63.8% of internal promotions.\",\"source_doc\":\"10-K\",\"section\":\"Item 1 > Human Capital Management\",\"status\":\"current\",\"indicators\":\"64.2%, 65.7%, 63.8%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers molecular diagnostic tests only, and shows no creative activity; 'design' refers to assay and test design.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: the only qualifying activity is employee development, so Community is capped at 2.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\"],\"reason\":\"Level 2: the filing describes employee resource groups without membership figures, plus demographic statistics.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the filing describes the business fully and shows no service enabling founders or small businesses; 'innovation' mentions are a trap and do not count.\"}},\"notes\":\"Several items were deliberately not counted. Patient educational initiatives, genetic counselor sessions and provider clinical education were treated as customer or marketing education, which is a trap. Patient financial assistance programs for hardship patients, mobile phlebotomy and Horizon pan-ethnic carrier screening are access and product features. They are not specific programs for underserved, immigrant or cultural communities, so they were not scored as Cross-cultural customer_access, choosing the lower level where torn. Research collaborations with universities, NCI and nonprofits are clinical-evidence partnerships, not community investment. Leadership roundtables and expanded personal development training launched in 2025 are additional employee development and do not change the capped level. The 2024 engagement survey (92% participation) is not a development activity. Constellation lab licensing is not a small-business enabling program. A sustainability report is referenced at natera.com/sustainability, but no second look is needed because all themes are sufficient.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 43090,
+      "output_tokens": 2930,
+      "duration_ms": 28526
+    }
+  ]
+}
