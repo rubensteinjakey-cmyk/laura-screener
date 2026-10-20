@@ -3,6 +3,20 @@
 Dated record of scoring decisions, newest first. Each one names where it
 lives in the code or config.
 
+## Oct 20, 2026: shortlist cut to the top 30% of each sector
+
+Oct 20: shortlist cut from top 40% to top 30% per sector to narrow the list
+(103 to 69 companies).
+
+- Still at least 2 per sector, ties with the last spot included.
+- Where: `shortlist_pct: 0.30` in `config.yaml`, applied in `src/rank.py`.
+- Repo count: 70, not 69. With Arxis added, Industrials has 17 companies;
+  30% of 17 = 5.1, rounded up to 6, so Lyft (26) is the 6th spot. With 16
+  companies (no Arxis), 30% = 4.8, rounded up to 5. Every other sector
+  matches: IT 19, Health Care 17, Energy 7, Consumer Discretionary 5,
+  Financials 4, Materials 3, Consumer Staples 3, Communication Services 2,
+  Utilities 2, Real Estate 2.
+
 ## Oct 20, 2026: Arxis (ARXS) is scored from its S-1
 
 Arxis IPO'd in April 2026 and has not filed a 10-K yet, so it is scored from

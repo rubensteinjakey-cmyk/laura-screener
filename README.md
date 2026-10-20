@@ -196,7 +196,7 @@ python src/overlap_check.py --a maya --b maya_repeat
   The 10-K-only and full-report scores are both kept in `results.csv`. Reports not on the company's
   main domain are listed in `needs_human.csv` for a quick check. A human can
   supply a report link in `data/reports/manual_urls.csv` (`ticker,url`).
-- **Shortlist**: the top 40% of each sector (`shortlist_pct`), at least 2 per
+- **Shortlist**: the top 30% of each sector (`shortlist_pct`; 40% until Oct 20), at least 2 per
   sector (`shortlist_min_per_sector`), ties included.
 - **No 10-K?** Companies that file a 20-F or 40-F (foreign companies), or
   whose latest 10-K is more than 18 months old, are skipped and listed in

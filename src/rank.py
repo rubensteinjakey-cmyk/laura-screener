@@ -55,7 +55,8 @@ def rank_sector(results, pct, min_n):
         r["sector_rank"] = 1 + sum(1 for o in results if o["final_score"] > r["final_score"])
         r["sector_percentile"] = round(
             100 * sum(1 for o in results if o["final_score"] <= r["final_score"]) / n)
-    k = min(n, max(min_n, math.ceil(pct * n)))
+    # round first so float noise (e.g. 0.3 * 20 = 6.000000000000001) can't add a spot
+    k = min(n, max(min_n, math.ceil(round(pct * n, 9))))
     cutoff = results[k - 1]["final_score"] if results else 0
     for r in results:
         r["in_shortlist"] = r["final_score"] >= cutoff  # ties with the last spot are in
@@ -83,7 +84,7 @@ def theme_cell(r, th):
 
 def main():
     cfg = load_config()
-    pct = float(cfg.get("shortlist_pct", 0.40))
+    pct = float(cfg.get("shortlist_pct", 0.30))
     min_n = int(cfg.get("shortlist_min_per_sector", 2))
     merged = read_json(OUTPUT / "merged.json")
     by_sector = defaultdict(list)

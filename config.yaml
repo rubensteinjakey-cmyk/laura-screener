@@ -47,7 +47,7 @@ claude_timeout_seconds: 900
 # Shortlist (rank.py): the top share of each sector by final score gets
 # in_shortlist = true. Ties with the last spot are included, and every
 # sector keeps at least shortlist_min_per_sector companies.
-shortlist_pct: 0.40
+shortlist_pct: 0.30   # was 0.40 until Oct 20 (see DECISIONS.md)
 shortlist_min_per_sector: 2
 
 # How much a sustainability-report rescore counts (verify.py). For each theme
