@@ -1757,7 +1757,7 @@ Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultura
 - Flags: coverage insufficient (community, cross_cultural); second look: no report found
 - AI notes: The Item 7 (targeted) section provided was empty, so no MD&A paragraphs matched the theme terms. The human capital section is about 115 words. Community and Cross-cultural are marked insufficient, which triggers the automated second look for a company-hosted sustainability report. Several pivotal studies are past or discontinued (DAZZLE was discontinued; GLEAM and GLIMMER missed their endpoints), but none affects theme scoring. The VETi wearable headset's 'identity security' use is a trap term and was not counted. The company has no product revenue, and all candidates are investigational.
 
-## Industrials (16 companies)
+## Industrials (17 companies)
 
 **Shortlist (7):** Automatic Data Processing (ADP, 32.0), EXL Service (EXLS, 30.0), Paycom (PAYC, 30.0), Genpact (G, 29.0), Paychex (PAYX, 29.0), Lyft, Inc. (LYFT, 26.0), Paylocity (PCTY, 23.0)
 
@@ -1778,7 +1778,8 @@ Scores: Creativity 0 (sufficient) · Community 0 (insufficient) · Cross-cultura
 | 10 | Matson, Inc. (MATX) | **16.0** | 0 | 2 | 1 | 0 |  |  |
 | 14 | MSC Industrial Direct (MSM) | **15.0** | 0 | 2 | 0 | 1 |  |  |
 | 15 | Sterling Infrastructure (STRL) | **10.0** | 0 | 1 | 1 | 0 |  |  |
-| 16 | Mueller Industries (MLI) | **0.0** | 0 | 0 | 0 | 0 |  |  |
+| 16 | Arxis, Inc. (ARXS) | **9.0** | 0 | 1* | 0* | 1 |  | insufficient coverage, 2 note(s) |
+| 17 | Mueller Industries (MLI) | **0.0** | 0 | 0 | 0 | 0 |  |  |
 
 ### 1. Automatic Data Processing (ADP): 32.0/100 · shortlist
 10-K filed 2026-08-05 (fiscal 2026) · source: 10-K
@@ -1992,7 +1993,19 @@ Scores: Creativity 0 (sufficient) · Community 1 (sufficient) · Cross-cultural 
 - **Entrepreneurship: 0/5** (sufficient): Level 0: the filing fully describes the business and shows no enabling program for founders or small businesses; small local contractors appear only as competitors, which is a trap.
 - AI notes: Sustainability and 'The Sterling Way' language about caring for people and communities is a mission statement only. The strategy section mentions 'developing talent and trades people', but it is general and gives no named program, participants or external reach. The filing says public transportation contracts impose 'requirements regarding labor relations and subcontracting with designated classes of disadvantaged businesses'. This is presented as a government contract requirement, not a company program, so it was not scored for Entrepreneurship or Cross-cultural; when torn, the lower level was picked. Joint venture arrangements are a trap and were not scored. The Item 7 excerpt repeats the Item 1 overview word for word and adds no new activities. The planned downsizing of the Texas heavy highway business (expected complete 2026) does not affect the theme scores.
 
-### 16. Mueller Industries (MLI): 0.0/100
+### 16. Arxis, Inc. (ARXS): 9.0/100
+S-1 filed 2026-10-13 (fiscal 2025) · source: S-1 (no 10-K yet)
+
+Scores: Creativity 0 (sufficient) · Community 1 (insufficient) · Cross-cultural 0 (insufficient) · Entrepreneurship 1 (sufficient) → **9.0**
+
+- **Creativity: 0/5** (sufficient): Level 0: the Business section fully describes a maker of engineered electronic and mechanical components, and 'design' there means engineering design (a trap), so it shows no creative activity.
+- **Community: 1/5** (insufficient): Level 1, resting only on general language ('significant emphasis on talent development') with no specific program; coverage is insufficient under condition 2 because the whole Human Capital Resources section is only about 150 words and its development-related portion is about 80 words.
+- **Cross-cultural: 0/5** (insufficient): Level 0: no qualifying activity, since the only related content is workforce geography (73% U.S., 19% Europe, 8% other) and union coverage, and international operations alone do not count; coverage is insufficient under condition 2 because the Human Capital Resources section is only about 150 words and has no inclusion discussion.
+- **Entrepreneurship: 1/5** (sufficient): Level 1, resting only on general language: the filing mentions an internal 'entrepreneurial spirit' and 'entrepreneurial approach' (trap terms), acquisitions, and small private companies only as competitors, with no enabling service for founders or small businesses.
+- Flags: Scored from the Oct 13, 2026 S-1 because Arxis has not filed its first 10-K. Rescore when the 10-K is filed.; coverage insufficient (community, cross_cultural); second look: no report found
+- AI notes: Source is an S-1 (filed 2026-10-13) treated as the 10-K. Human capital figures are as of September 30, 2026, and segment figures cover FY2025 and 1H2026. The targeted MD&A excerpt was empty, meaning no MD&A paragraphs matched the theme terms. Trap terms were excluded: 'design' and 'designed-in' (engineering), 'foundational proprietary technologies', 'cutting-edge' and 'innovative', 'entrepreneurial spirit', 'collaboration' (engineer-to-engineer selling), 'diversified customer base', and 'small, privately held companies' (competitors). Community and Cross-cultural are marked insufficient because the human capital discussion sits right at the roughly 150-word threshold. This is borderline, so a human should confirm. These insufficient markings trigger the automated sustainability-report second look. As a newly registering controlled company, ARXS may have no report, in which case the team should review it before ranking it last. No qualifying current activity was found, so the evidence list is empty.
+
+### 17. Mueller Industries (MLI): 0.0/100
 10-K filed 2026-02-25 (fiscal 2025) · source: 10-K
 
 Scores: Creativity 0 (sufficient) · Community 0 (sufficient) · Cross-cultural 0 (sufficient) · Entrepreneurship 0 (sufficient) → **0.0**

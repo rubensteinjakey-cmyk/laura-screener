@@ -3,6 +3,29 @@
 Dated record of scoring decisions, newest first. Each one names where it
 lives in the code or config.
 
+## Oct 20, 2026: Arxis (ARXS) is scored from its S-1
+
+Arxis IPO'd in April 2026 and has not filed a 10-K yet, so it is scored from
+its most recent S-1, filed Oct 13, 2026 (accession 0001193125-26-419718). The
+S-1 counts at full weight, like a 10-K, because it is also a legally binding
+SEC filing.
+
+- Where: `form_overrides.csv` (download), the S-1 headings in
+  `src/extract.py` ("Business" to "Management"; "Management's Discussion and
+  Analysis" to "Business"; Risk Factors cut as usual), and a note in the
+  scoring prompt (`src/score.py`) that the text is an S-1 to be treated like a
+  10-K. Same rubric, model setting, quote/figure checks and second-look rule.
+- Source label: "S-1 (no 10-K yet)". Note on the result: scored from the
+  Oct 13, 2026 S-1 because Arxis has not filed its first 10-K. Rescore when
+  the 10-K is filed (remove the row from `form_overrides.csv`, delete
+  `data/filings/ARXS`, `data/sections/ARXS`, `data/scores/ARXS_*` and rerun).
+- Sector: Industrials (aerospace & defense components), a draft assignment
+  to confirm.
+- Result: 9/100 (Creativity 0, Community 1, Cross-cultural 0,
+  Entrepreneurship 1), no evidence records; Community and Cross-cultural
+  coverage insufficient and no sustainability report found. Rank 16 of 17 in
+  Industrials, not on the shortlist (still 103 companies).
+
 ## Oct 19, 2026: sustainability-report evidence counts at half weight
 
 Sustainability-report evidence counts at half weight (10-K is a legally

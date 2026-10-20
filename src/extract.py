@@ -93,6 +93,13 @@ HEADINGS = {
     "item1_end":   re.compile(PREFIX + r"1\s*a(?![a-z0-9])", re.I),
     "item7_start": re.compile(PREFIX + r"7(?![0-9a-z])", re.I),
     "item7_end":   re.compile(PREFIX + r"(?:7\s*a|8)(?![a-z0-9])", re.I),
+    # S-1 (registration statement): headings have no "Item" numbers. Business
+    # runs to "Management" (the officers section); MD&A runs to "Business".
+    # Whole-line matches, so "Business Combinations" etc. don't count.
+    "s1_item1_start": re.compile(r"^business\.?\s*$", re.I),
+    "s1_item1_end":   re.compile(r"^management\.?\s*$", re.I),
+    "s1_item7_start": re.compile(r"^management['’]s discussion and analysis\b", re.I),
+    "s1_item7_end":   re.compile(r"^business\.?\s*$", re.I),
 }
 # Lines like "Item 1. Business, page 5" inside a cross-reference index are
 # fine to match; the "longest real content" rule below sorts them out.
@@ -338,15 +345,31 @@ def extract_company(sec, company, force=False):
     text = html_to_text((FILINGS / t / "primary.htm").read_bytes())
     (out / "full_10k.txt").write_text(text, encoding="utf-8")
 
+    form = meta.get("form", "10-K")
+    is_s1 = form.startswith("S-1")
     info = {"ticker": t, "accession_number": meta["accession_number"],
             "filing_date": meta["filing_date"], "fiscal_year": meta["fiscal_year"],
+            "form": form, "source_label": meta.get("source_label", form),
+            "source_note": meta.get("source_note", ""),
             "full_text_words": word_count(text), "sections": {}, "notes": []}
     ex13_text = None
 
     for which in ("item1", "item7"):
-        section, cand = find_section(text, f"{which}_start", f"{which}_end")
-        source = "10-K"
-        is_xref, wc, hits = looks_like_cross_reference(section) if section else (True, 0, 0)
+        if is_s1:
+            # S-1 (team-approved substitute for a missing 10-K): the
+            # "Business" and "Management's Discussion and Analysis" sections
+            section, cand = find_section(text, f"s1_{which}_start", f"s1_{which}_end")
+            source = "S-1"
+            if word_count(section) < 300:
+                note = f"{which}: S-1 section not found ({word_count(section)} words)"
+                info["notes"].append(note + "; could not locate")
+                flag_human(t, "extract", f"{which}: S-1 section not found", note)
+                log("extract", f"{t}: {note}")
+            is_xref, wc, hits = False, 0, 0
+        else:
+            section, cand = find_section(text, f"{which}_start", f"{which}_end")
+            source = "10-K"
+            is_xref, wc, hits = looks_like_cross_reference(section) if section else (True, 0, 0)
 
         if is_xref:
             note = (f"{which}: 10-K section is {'missing' if not section else f'only {wc} words'}"

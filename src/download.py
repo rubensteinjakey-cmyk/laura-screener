@@ -13,6 +13,7 @@ from datetime import date
 from bs4 import BeautifulSoup
 
 from common import (FILINGS, ROOT, Sec, add_batch_args, clear_human_flags, flag_human,
+                    form_overrides,
                     load_config, log, read_json, select_companies, write_json)
 
 TICKER_MAP_URL = "https://www.sec.gov/files/company_tickers.json"
@@ -117,14 +118,27 @@ def download_company(sec, cik_map, company):
         return
 
     sub, table = filings_table(sec, cik)
-    filing, is_amendment = pick_10k(table)
+    override = form_overrides().get(t)
+    if override:
+        # team-approved substitute filing (e.g. an S-1): no 10-K checks
+        filing = next((r for r in table if r["accessionNumber"] == override["accession"]), None)
+        if not filing or filing["form"] != override["form"]:
+            log("download", f"{t}: form_overrides.csv names {override['form']} "
+                            f"{override['accession']}, not found on EDGAR")
+            flag_human(t, "download", "form override not found on EDGAR", override["accession"])
+            return
+        is_amendment = False
+        log("download", f"{t}: using {filing['form']} filed {filing['filingDate']} "
+                        f"from form_overrides.csv ({override['reason']})")
+    else:
+        filing, is_amendment = pick_10k(table)
     foreign = sorted({r["form"] for r in table} & FOREIGN_FORMS)
     if not filing and foreign:
         log("download", f"{t}: files {'/'.join(foreign)} (foreign company), no 10-K - skipped")
         flag_human(t, "download", f"files {'/'.join(foreign)} instead of a 10-K (foreign "
                    "company); skipped, no other form substituted", sub.get("name", ""))
         return
-    if filing:
+    if filing and not override:
         age = (date.today() - date.fromisoformat(filing["filingDate"])).days / 30.44
         if age > MAX_AGE_MONTHS:
             log("download", f"{t}: latest 10-K is from {filing['filingDate']} "
@@ -165,11 +179,15 @@ def download_company(sec, cik_map, company):
         "cik": cik,
         "sec_name": sub.get("name", ""),
         "form": filing["form"],
+        "source_label": override["source_label"] if override else filing["form"],
+        "source_note": override["reason"] if override else "",
         "is_amendment": is_amendment,
         "accession_number": acc,
         "filing_date": filing["filingDate"],
         "period_of_report": report_date,
-        "fiscal_year": int(report_date[:4]) if report_date else None,
+        "fiscal_year": (int(report_date[:4]) if report_date else
+                        int(override["fiscal_year"]) if override and override.get("fiscal_year")
+                        else None),
         "primary_document": doc,
         "primary_url": ARCHIVE_URL.format(cik=cik, acc=acc_nodash, doc=doc),
         "documents": documents,

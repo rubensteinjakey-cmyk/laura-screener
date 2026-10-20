@@ -46,7 +46,7 @@ import re
 
 from ai import THEMES
 from common import (REPORTS, SCORES, SECTIONS, VERIFIED, VERIFY_AGAINST,
-                    clear_human_flags, flag_human, load_config, log, read_json,
+                    clear_human_flags, flag_human, form_overrides, load_config, log, read_json,
                     write_json)
 
 RUBRIC_VERSION = "2.1"
@@ -295,7 +295,9 @@ def verify_record(rec, run_id, report_weight=0.5):
 
     original = {th: themes[th]["score"] for th in THEMES}
     full_report = None  # theme scores if the report counted in full
-    score_source, report_url, second = "10-K", "", None
+    # "10-K", or e.g. "S-1 (no 10-K yet)" for a team-approved substitute filing
+    base_source = rec.get("source_label", "10-K")
+    score_source, report_url, second = base_source, "", None
     all_ev = list(ev.values())
 
     # ---- second look (sustainability report)
@@ -326,12 +328,17 @@ def verify_record(rec, run_id, report_weight=0.5):
             full_report = {th: themes[th].get("score_from_report", themes[th]["score"])
                            for th in THEMES}
             all_ev += list(sl_ev.values())
-            score_source = ("10-K + sustainability report" if report_weight == 1 else
-                            "10-K + sustainability report (half weight)" if report_weight == 0.5 else
-                            f"10-K + sustainability report ({report_weight:g} weight)")
+            score_source = (f"{base_source} + sustainability report" if report_weight == 1 else
+                            f"{base_source} + sustainability report (half weight)"
+                            if report_weight == 0.5 else
+                            f"{base_source} + sustainability report ({report_weight:g} weight)")
             report_url = sl.get("report_url", "")
             if sl.get("domain_note"):
                 flags.append(sl["domain_note"])
+
+    override = form_overrides().get(t)
+    if override and override.get("reason"):
+        flags.append(override["reason"])  # e.g. why an S-1 was used
 
     # ---- flags for humans
     failed_ev = [e for e in all_ev if not e["verified"]]
@@ -373,6 +380,7 @@ def verify_record(rec, run_id, report_weight=0.5):
         "filing_date": rec["filing_date"],
         "fiscal_year": rec["fiscal_year"],
         "accession_number": rec["accession_number"],
+        "form": rec.get("form", "10-K"),
         "scored_at": rec["scored_at"],
         "themes": themes,
         "scores": scores,

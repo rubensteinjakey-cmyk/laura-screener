@@ -29,6 +29,9 @@ LOGS = ROOT / "logs"
 SECTION_LABELS = {"item1": "Item 1", "item7": "Item 7",
                   "item7_targeted": "Item 7 (targeted)"}
 VERIFY_AGAINST = {"item1": "item1", "item7": "item7", "item7_targeted": "item7"}
+# The same sections when the filing is an S-1 (form_overrides.csv)
+S1_SECTION_LABELS = {"item1": "S-1 Business", "item7": "S-1 MD&A",
+                     "item7_targeted": "S-1 MD&A (targeted)"}
 
 for d in (FILINGS, SECTIONS, SCORES, VERIFIED, REPORTS, OUTPUT, LOGS):
     d.mkdir(parents=True, exist_ok=True)
@@ -195,3 +198,15 @@ class Sec:
             print(f"  request failed ({msg}); retrying in {backoff}s: {url}")
             time.sleep(backoff)
         raise RuntimeError(f"Gave up after {tries} tries: {url}")
+
+
+def form_overrides():
+    """Optional form_overrides.csv (ticker,form,accession,fiscal_year,source_label,reason):
+    a team-approved filing to use instead of a 10-K, e.g. the S-1 of a company
+    that IPO'd and has not filed its first 10-K yet."""
+    path = ROOT / "form_overrides.csv"
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8-sig") as f:
+        return {r["ticker"].strip().upper(): r for r in csv.DictReader(f)
+                if r.get("ticker") and r.get("accession")}

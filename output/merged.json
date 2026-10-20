@@ -4,9 +4,7 @@
     "item1",
     "item7_targeted"
   ],
-  "missing": [
-    "ARXS"
-  ],
+  "missing": [],
   "results": {
     "AAPL": {
       "ticker": "AAPL",
@@ -22,6 +20,7 @@
       "filing_date": "2025-10-31",
       "fiscal_year": 2025,
       "accession_number": "0000320193-25-000079",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:01:15",
       "themes": {
         "creativity": {
@@ -208,6 +207,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0001551152-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:10:01",
       "themes": {
         "creativity": {
@@ -432,6 +432,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0001559720-26-000004",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:16:31",
       "themes": {
         "creativity": {
@@ -642,6 +643,7 @@
       "filing_date": "2026-10-16",
       "fiscal_year": 2026,
       "accession_number": "0001467373-26-000049",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:20:54",
       "themes": {
         "creativity": {
@@ -828,6 +830,7 @@
       "filing_date": "2026-01-15",
       "fiscal_year": 2025,
       "accession_number": "0000796343-26-000003",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:45:44",
       "themes": {
         "creativity": {
@@ -1080,6 +1083,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0000007084-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:10:55",
       "themes": {
         "creativity": {
@@ -1241,6 +1245,7 @@
       "filing_date": "2026-08-05",
       "fiscal_year": 2026,
       "accession_number": "0000008670-26-000030",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:01:52",
       "themes": {
         "creativity": {
@@ -1469,6 +1474,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0001736297-26-000010",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:09:16",
       "themes": {
         "creativity": {
@@ -1570,6 +1576,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-068925",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:02:41",
       "themes": {
         "creativity": {
@@ -1730,6 +1737,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-065627",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:27:11",
       "themes": {
         "creativity": {
@@ -1890,6 +1898,7 @@
       "filing_date": "2026-02-04",
       "fiscal_year": 2025,
       "accession_number": "0000002488-26-000018",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:01:54",
       "themes": {
         "creativity": {
@@ -2121,6 +2130,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-008665",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:26:40",
       "themes": {
         "creativity": {
@@ -2293,6 +2303,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001723128-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:08:43",
       "themes": {
         "creativity": {
@@ -2500,6 +2511,7 @@
       "filing_date": "2026-03-26",
       "fiscal_year": 2026,
       "accession_number": "0001018840-26-000012",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:11:06",
       "themes": {
         "creativity": {
@@ -2708,6 +2720,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001841666-26-000015",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:14:44",
       "themes": {
         "creativity": {
@@ -2908,6 +2921,7 @@
       "filing_date": "2026-02-05",
       "fiscal_year": 2025,
       "accession_number": "0001433195-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:02:02",
       "themes": {
         "creativity": {
@@ -3148,6 +3162,109 @@
       "report_link_found_on": "",
       "second_look": null
     },
+    "ARXS": {
+      "ticker": "ARXS",
+      "company_name": "Arxis, Inc.",
+      "sector": "Industrials",
+      "run_id": "jakey",
+      "rubric_version": "2.1",
+      "model": "claude-opus-5-5",
+      "sections": [
+        "item1",
+        "item7_targeted"
+      ],
+      "filing_date": "2026-10-13",
+      "fiscal_year": 2025,
+      "accession_number": "0001193125-26-419718",
+      "form": "S-1",
+      "scored_at": "2026-10-20T21:17:08",
+      "themes": {
+        "creativity": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: the Business section fully describes a maker of engineered electronic and mechanical components, and 'design' there means engineering design (a trap), so it shows no creative activity.",
+          "flags": [],
+          "coverage_trigger": ""
+        },
+        "community": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "insufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 1, resting only on general language ('significant emphasis on talent development') with no specific program; coverage is insufficient under condition 2 because the whole Human Capital Resources section is only about 150 words and its development-related portion is about 80 words.",
+          "flags": [],
+          "coverage_trigger": "ai",
+          "coverage_reason_ai": "Level 1, resting only on general language ('significant emphasis on talent development') with no specific program; coverage is insufficient under condition 2 because the whole Human Capital Resources section is only about 150 words and its development-related portion is about 80 words."
+        },
+        "cross_cultural": {
+          "ai_score": 0,
+          "score": 0,
+          "coverage": "insufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 0: no qualifying activity, since the only related content is workforce geography (73% U.S., 19% Europe, 8% other) and union coverage, and international operations alone do not count; coverage is insufficient under condition 2 because the Human Capital Resources section is only about 150 words and has no inclusion discussion.",
+          "flags": [],
+          "coverage_trigger": "ai",
+          "coverage_reason_ai": "Level 0: no qualifying activity, since the only related content is workforce geography (73% U.S., 19% Europe, 8% other) and union coverage, and international operations alone do not count; coverage is insufficient under condition 2 because the Human Capital Resources section is only about 150 words and has no inclusion discussion."
+        },
+        "entrepreneurship": {
+          "ai_score": 1,
+          "score": 1,
+          "coverage": "sufficient",
+          "evidence_ids": [],
+          "valid_evidence_ids": [],
+          "kinds": [],
+          "reason": "Level 1, resting only on general language: the filing mentions an internal 'entrepreneurial spirit' and 'entrepreneurial approach' (trap terms), acquisitions, and small private companies only as competitors, with no enabling service for founders or small businesses.",
+          "flags": [],
+          "coverage_trigger": ""
+        }
+      },
+      "scores": {
+        "creativity": 0,
+        "community": 1,
+        "cross_cultural": 0,
+        "entrepreneurship": 1
+      },
+      "coverage": {
+        "creativity": "sufficient",
+        "community": "insufficient",
+        "cross_cultural": "insufficient",
+        "entrepreneurship": "sufficient"
+      },
+      "final_score": 9.0,
+      "original_10k_scores": null,
+      "original_10k_final": null,
+      "full_report_scores": null,
+      "full_report_final": null,
+      "evidence": [],
+      "notes": "Source is an S-1 (filed 2026-10-13) treated as the 10-K. Human capital figures are as of September 30, 2026, and segment figures cover FY2025 and 1H2026. The targeted MD&A excerpt was empty, meaning no MD&A paragraphs matched the theme terms. Trap terms were excluded: 'design' and 'designed-in' (engineering), 'foundational proprietary technologies', 'cutting-edge' and 'innovative', 'entrepreneurial spirit', 'collaboration' (engineer-to-engineer selling), 'diversified customer base', and 'small, privately held companies' (competitors). Community and Cross-cultural are marked insufficient because the human capital discussion sits right at the roughly 150-word threshold. This is borderline, so a human should confirm. These insufficient markings trigger the automated sustainability-report second look. As a newly registering controlled company, ARXS may have no report, in which case the team should review it before ranking it last. No qualifying current activity was found, so the evidence list is empty.",
+      "quote_check_status": "passed",
+      "flags": [
+        "Scored from the Oct 13, 2026 S-1 because Arxis has not filed its first 10-K. Rescore when the 10-K is filed.",
+        "coverage insufficient (community, cross_cultural); second look: no report found"
+      ],
+      "human_capital_words": 156,
+      "score_source": "S-1 (no 10-K yet)",
+      "report_url": "",
+      "report_link_found_on": "",
+      "second_look": {
+        "status": "no report found",
+        "report_url": "",
+        "found_on": "",
+        "report_year": null,
+        "themes": [
+          "community",
+          "cross_cultural"
+        ]
+      }
+    },
     "AVTR": {
       "ticker": "AVTR",
       "company_name": "Avantor",
@@ -3162,6 +3279,7 @@
       "filing_date": "2026-02-11",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-007118",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:59:59",
       "themes": {
         "creativity": {
@@ -3344,6 +3462,7 @@
       "filing_date": "2025-12-22",
       "fiscal_year": 2025,
       "accession_number": "0001090872-25-000087",
+      "form": "10-K",
       "scored_at": "2026-10-19T12:58:42",
       "themes": {
         "creativity": {
@@ -3544,6 +3663,7 @@
       "filing_date": "2026-03-18",
       "fiscal_year": 2026,
       "accession_number": "0000764478-26-000009",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:43:22",
       "themes": {
         "creativity": {
@@ -3818,6 +3938,7 @@
       "filing_date": "2026-02-06",
       "fiscal_year": 2025,
       "accession_number": "0000875045-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:08:05",
       "themes": {
         "creativity": {
@@ -4019,6 +4140,7 @@
       "filing_date": "2025-11-21",
       "fiscal_year": 2025,
       "accession_number": "0001493152-25-024679",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:09:48",
       "themes": {
         "creativity": {
@@ -4122,6 +4244,7 @@
       "filing_date": "2026-03-09",
       "fiscal_year": 2026,
       "accession_number": "0001193125-26-098466",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:07:06",
       "themes": {
         "creativity": {
@@ -4435,6 +4558,7 @@
       "filing_date": "2026-08-11",
       "fiscal_year": 2026,
       "accession_number": "0000721371-26-000038",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:43:46",
       "themes": {
         "creativity": {
@@ -4595,6 +4719,7 @@
       "filing_date": "2026-03-03",
       "fiscal_year": 2025,
       "accession_number": "0002019410-26-000016",
+      "form": "10-K",
       "scored_at": "2026-10-19T12:56:14",
       "themes": {
         "creativity": {
@@ -4683,6 +4808,7 @@
       "filing_date": "2026-02-23",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-018643",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:04:46",
       "themes": {
         "creativity": {
@@ -4922,6 +5048,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001579091-26-000018",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:42:27",
       "themes": {
         "creativity": {
@@ -5128,6 +5255,7 @@
       "filing_date": "2026-03-25",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-021067",
+      "form": "10-K",
       "scored_at": "2026-10-19T17:59:19",
       "themes": {
         "creativity": {
@@ -5314,6 +5442,7 @@
       "filing_date": "2026-02-18",
       "fiscal_year": 2025,
       "accession_number": "0000215466-26-000004",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:43:07",
       "themes": {
         "creativity": {
@@ -5517,6 +5646,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001868275-26-000032",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:13:56",
       "themes": {
         "creativity": {
@@ -5725,6 +5855,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001324404-26-000007",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:47:16",
       "themes": {
         "creativity": {
@@ -5976,6 +6107,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001562762-26-000020",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:48:05",
       "themes": {
         "creativity": {
@@ -6147,6 +6279,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001486159-26-000005",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:50:11",
       "themes": {
         "creativity": {
@@ -6283,6 +6416,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001739940-26-000006",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:46:50",
       "themes": {
         "creativity": {
@@ -6512,6 +6646,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0001071739-26-000049",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:35:34",
       "themes": {
         "creativity": {
@@ -6741,6 +6876,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0000927628-26-000024",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:43:10",
       "themes": {
         "creativity": {
@@ -6923,6 +7059,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0001163165-26-000009",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:24:41",
       "themes": {
         "creativity": {
@@ -7108,6 +7245,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-011091",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:33:59",
       "themes": {
         "creativity": {
@@ -7235,6 +7373,7 @@
       "filing_date": "2026-02-11",
       "fiscal_year": 2025,
       "accession_number": "0001889539-26-000022",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:44:34",
       "themes": {
         "creativity": {
@@ -7576,6 +7715,7 @@
       "filing_date": "2026-02-18",
       "fiscal_year": 2025,
       "accession_number": "0001100682-26-000022",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:09:35",
       "themes": {
         "creativity": {
@@ -7762,6 +7902,7 @@
       "filing_date": "2026-03-02",
       "fiscal_year": 2026,
       "accession_number": "0001108524-26-000060",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:05:35",
       "themes": {
         "creativity": {
@@ -8023,6 +8164,7 @@
       "filing_date": "2026-03-05",
       "fiscal_year": 2026,
       "accession_number": "0001535527-26-000010",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:50:42",
       "themes": {
         "creativity": {
@@ -8256,6 +8398,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0001755672-26-000004",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:09:26",
       "themes": {
         "creativity": {
@@ -8417,6 +8560,7 @@
       "filing_date": "2026-02-18",
       "fiscal_year": 2025,
       "accession_number": "0001376139-26-000014",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:02:26",
       "themes": {
         "creativity": {
@@ -8621,6 +8765,7 @@
       "filing_date": "2026-05-11",
       "fiscal_year": 2026,
       "accession_number": "0001169561-26-000017",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:15:47",
       "themes": {
         "creativity": {
@@ -8793,6 +8938,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0000093410-26-000078",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:47:17",
       "themes": {
         "creativity": {
@@ -8932,6 +9078,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0001467623-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:07:00",
       "themes": {
         "creativity": {
@@ -9118,6 +9265,7 @@
       "filing_date": "2026-02-18",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-008819",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:01:09",
       "themes": {
         "creativity": {
@@ -9245,6 +9393,7 @@
       "filing_date": "2026-05-22",
       "fiscal_year": 2026,
       "accession_number": "0001628280-26-037664",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:11:03",
       "themes": {
         "creativity": {
@@ -9459,6 +9608,7 @@
       "filing_date": "2026-03-16",
       "fiscal_year": 2026,
       "accession_number": "0001571996-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:32:13",
       "themes": {
         "creativity": {
@@ -9623,6 +9773,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001915657-26-000016",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:33:25",
       "themes": {
         "creativity": {
@@ -9805,6 +9956,7 @@
       "filing_date": "2026-05-19",
       "fiscal_year": 2026,
       "accession_number": "0001516513-26-000025",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:06:31",
       "themes": {
         "creativity": {
@@ -9990,6 +10142,7 @@
       "filing_date": "2026-03-18",
       "fiscal_year": 2026,
       "accession_number": "0001261333-26-000021",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:09:55",
       "themes": {
         "creativity": {
@@ -10214,6 +10367,7 @@
       "filing_date": "2026-05-20",
       "fiscal_year": 2026,
       "accession_number": "0001773383-26-000019",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:59:15",
       "themes": {
         "creativity": {
@@ -10523,6 +10677,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-012494",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:00:19",
       "themes": {
         "creativity": {
@@ -10807,6 +10962,7 @@
       "filing_date": "2026-02-11",
       "fiscal_year": 2025,
       "accession_number": "0000927066-26-000012",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:46:17",
       "themes": {
         "creativity": {
@@ -11055,6 +11211,7 @@
       "filing_date": "2026-02-18",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-056485",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:23:28",
       "themes": {
         "creativity": {
@@ -11223,6 +11380,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0001093557-26-000027",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:03:50",
       "themes": {
         "creativity": {
@@ -11423,6 +11581,7 @@
       "filing_date": "2026-08-19",
       "fiscal_year": 2026,
       "accession_number": "0000703351-26-000029",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:14:44",
       "themes": {
         "creativity": {
@@ -11630,6 +11789,7 @@
       "filing_date": "2026-05-21",
       "fiscal_year": 2026,
       "accession_number": "0001600033-26-000020",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:12:59",
       "themes": {
         "creativity": {
@@ -11757,6 +11917,7 @@
       "filing_date": "2026-02-06",
       "fiscal_year": 2025,
       "accession_number": "0001156039-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:24:08",
       "themes": {
         "creativity": {
@@ -11939,6 +12100,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0000821189-26-000054",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:46:35",
       "themes": {
         "creativity": {
@@ -12117,6 +12279,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0001370637-26-000019",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:49:39",
       "themes": {
         "creativity": {
@@ -12510,6 +12673,7 @@
       "filing_date": "2026-02-10",
       "fiscal_year": 2026,
       "accession_number": "0000939767-26-000021",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:08:28",
       "themes": {
         "creativity": {
@@ -12732,6 +12896,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001297989-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:13:38",
       "themes": {
         "creativity": {
@@ -12939,6 +13104,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-071569",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:13:53",
       "themes": {
         "creativity": {
@@ -13074,6 +13240,7 @@
       "filing_date": "2025-10-22",
       "fiscal_year": 2025,
       "accession_number": "0001628280-25-045769",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:15:17",
       "themes": {
         "creativity": {
@@ -13256,6 +13423,7 @@
       "filing_date": "2025-11-25",
       "fiscal_year": 2025,
       "accession_number": "0001048695-25-000157",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:45:05",
       "themes": {
         "creativity": {
@@ -13417,6 +13585,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-017530",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:10:26",
       "themes": {
         "creativity": {
@@ -13542,6 +13711,7 @@
       "filing_date": "2026-02-13",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-051382",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:05:49",
       "themes": {
         "creativity": {
@@ -13681,6 +13851,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001262039-26-000007",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:58:11",
       "themes": {
         "creativity": {
@@ -13934,6 +14105,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0001576280-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:18:55",
       "themes": {
         "creativity": {
@@ -14073,6 +14245,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0001123360-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:02:45",
       "themes": {
         "creativity": {
@@ -14217,6 +14390,7 @@
       "filing_date": "2026-03-17",
       "fiscal_year": 2026,
       "accession_number": "0001628280-26-018731",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:00:33",
       "themes": {
         "creativity": {
@@ -14331,6 +14505,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001398659-26-000004",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:14:00",
       "themes": {
         "creativity": {
@@ -14519,6 +14694,7 @@
       "filing_date": "2026-05-20",
       "fiscal_year": 2026,
       "accession_number": "0000313143-26-000050",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:03:31",
       "themes": {
         "creativity": {
@@ -14675,6 +14851,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0001159036-26-000024",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:24:56",
       "themes": {
         "creativity": {
@@ -14868,6 +15045,7 @@
       "filing_date": "2026-03-03",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-013808",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:10:26",
       "themes": {
         "creativity": {
@@ -14993,6 +15171,7 @@
       "filing_date": "2025-12-18",
       "fiscal_year": 2025,
       "accession_number": "0001645590-25-000130",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:04:06",
       "themes": {
         "creativity": {
@@ -15196,6 +15375,7 @@
       "filing_date": "2025-12-10",
       "fiscal_year": 2025,
       "accession_number": "0000047217-25-000071",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:06:22",
       "themes": {
         "creativity": {
@@ -15424,6 +15604,7 @@
       "filing_date": "2026-08-14",
       "fiscal_year": 2026,
       "accession_number": "0000012659-26-000026",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:10:13",
       "themes": {
         "creativity": {
@@ -15610,6 +15791,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001070750-26-000054",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:07:57",
       "themes": {
         "creativity": {
@@ -15999,6 +16181,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0000049071-26-000009",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:52:31",
       "themes": {
         "creativity": {
@@ -16224,6 +16407,7 @@
       "filing_date": "2025-11-21",
       "fiscal_year": 2025,
       "accession_number": "0001048268-25-000174",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:15:44",
       "themes": {
         "creativity": {
@@ -16359,6 +16543,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0001110803-26-000024",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:43:15",
       "themes": {
         "creativity": {
@@ -16609,6 +16794,7 @@
       "filing_date": "2026-02-10",
       "fiscal_year": 2025,
       "accession_number": "0000879169-26-000010",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:19:27",
       "themes": {
         "creativity": {
@@ -16792,6 +16978,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-020113",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:02:32",
       "themes": {
         "creativity": {
@@ -16971,6 +17158,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-018899",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:03:22",
       "themes": {
         "creativity": {
@@ -17085,6 +17273,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-008322",
+      "form": "10-K",
       "scored_at": "2026-10-19T12:59:47",
       "themes": {
         "creativity": {
@@ -17263,6 +17452,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001822993-26-000022",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:36:10",
       "themes": {
         "creativity": {
@@ -17487,6 +17677,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001418135-26-000016",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:13:18",
       "themes": {
         "creativity": {
@@ -17708,6 +17899,7 @@
       "filing_date": "2026-04-15",
       "fiscal_year": 2026,
       "accession_number": "0001170010-26-000021",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:17:12",
       "themes": {
         "creativity": {
@@ -17918,6 +18110,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001692787-26-000048",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:44:32",
       "themes": {
         "creativity": {
@@ -18053,6 +18246,7 @@
       "filing_date": "2026-03-31",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-134887",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:45:28",
       "themes": {
         "creativity": {
@@ -18180,6 +18374,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-073395",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:42:31",
       "themes": {
         "creativity": {
@@ -18294,6 +18489,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0000886163-26-000006",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:06:40",
       "themes": {
         "creativity": {
@@ -18480,6 +18676,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0000059478-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:03:18",
       "themes": {
         "creativity": {
@@ -18568,6 +18765,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-073498",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:01:46",
       "themes": {
         "creativity": {
@@ -18722,6 +18920,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001869198-26-000010",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:26:01",
       "themes": {
         "creativity": {
@@ -18951,6 +19150,7 @@
       "filing_date": "2026-02-11",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-006960",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:14:39",
       "themes": {
         "creativity": {
@@ -19090,6 +19290,7 @@
       "filing_date": "2026-02-04",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-037138",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:34:43",
       "themes": {
         "creativity": {
@@ -19361,6 +19562,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-020944",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:43:31",
       "themes": {
         "creativity": {
@@ -19475,6 +19677,7 @@
       "filing_date": "2026-05-08",
       "fiscal_year": 2026,
       "accession_number": "0000927653-26-000069",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:44:48",
       "themes": {
         "creativity": {
@@ -19696,6 +19899,7 @@
       "filing_date": "2026-02-10",
       "fiscal_year": 2025,
       "accession_number": "0001668397-26-000006",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:10:47",
       "themes": {
         "creativity": {
@@ -19986,6 +20190,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0001099219-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:09:32",
       "themes": {
         "creativity": {
@@ -20168,6 +20373,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0000089439-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:16:55",
       "themes": {
         "creativity": {
@@ -20256,6 +20462,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-020831",
+      "form": "10-K",
       "scored_at": "2026-10-19T12:57:55",
       "themes": {
         "creativity": {
@@ -20437,6 +20644,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0000764180-26-000017",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:23:05",
       "themes": {
         "creativity": {
@@ -20644,6 +20852,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001510295-26-000009",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:36:18",
       "themes": {
         "creativity": {
@@ -20851,6 +21060,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0000310158-26-000063",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:12:02",
       "themes": {
         "creativity": {
@@ -21094,6 +21304,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0001682852-26-000033",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:58:33",
       "themes": {
         "creativity": {
@@ -21318,6 +21529,7 @@
       "filing_date": "2026-03-11",
       "fiscal_year": 2026,
       "accession_number": "0001835632-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:05:18",
       "themes": {
         "creativity": {
@@ -21649,6 +21861,7 @@
       "filing_date": "2026-07-29",
       "fiscal_year": 2026,
       "accession_number": "0001193125-26-323660",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:00:40",
       "themes": {
         "creativity": {
@@ -21857,6 +22070,7 @@
       "filing_date": "2025-10-23",
       "fiscal_year": 2025,
       "accession_number": "0001003078-25-000123",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:01:08",
       "themes": {
         "creativity": {
@@ -22017,6 +22231,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0000891103-26-000025",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:04:57",
       "themes": {
         "creativity": {
@@ -22222,6 +22437,7 @@
       "filing_date": "2026-02-06",
       "fiscal_year": 2025,
       "accession_number": "0001037646-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:02:13",
       "themes": {
         "creativity": {
@@ -22386,6 +22602,7 @@
       "filing_date": "2026-10-09",
       "fiscal_year": 2026,
       "accession_number": "0000723125-26-000023",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:10:58",
       "themes": {
         "creativity": {
@@ -22590,6 +22807,7 @@
       "filing_date": "2026-01-29",
       "fiscal_year": 2025,
       "accession_number": "0001288469-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:05:23",
       "themes": {
         "creativity": {
@@ -22723,6 +22941,7 @@
       "filing_date": "2026-03-27",
       "fiscal_year": 2026,
       "accession_number": "0001628280-26-021721",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:19:27",
       "themes": {
         "creativity": {
@@ -23019,6 +23238,7 @@
       "filing_date": "2026-04-02",
       "fiscal_year": 2026,
       "accession_number": "0001628280-26-023250",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:19:59",
       "themes": {
         "creativity": {
@@ -23146,6 +23366,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0001164727-26-000010",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:22:51",
       "themes": {
         "creativity": {
@@ -23339,6 +23560,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0001282637-26-000005",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:12:03",
       "themes": {
         "creativity": {
@@ -23453,6 +23675,7 @@
       "filing_date": "2025-11-21",
       "fiscal_year": 2025,
       "accession_number": "0000070145-25-000039",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:25:14",
       "themes": {
         "creativity": {
@@ -23685,6 +23908,7 @@
       "filing_date": "2026-01-29",
       "fiscal_year": 2025,
       "accession_number": "0001373715-26-000007",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:42:29",
       "themes": {
         "creativity": {
@@ -23820,6 +24044,7 @@
       "filing_date": "2026-06-05",
       "fiscal_year": 2026,
       "accession_number": "0001193125-26-259683",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:13:14",
       "themes": {
         "creativity": {
@@ -24013,6 +24238,7 @@
       "filing_date": "2026-09-18",
       "fiscal_year": 2026,
       "accession_number": "0001193125-26-394793",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:03:52",
       "themes": {
         "creativity": {
@@ -24152,6 +24378,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-020881",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:08:53",
       "themes": {
         "creativity": {
@@ -24313,6 +24540,7 @@
       "filing_date": "2026-03-31",
       "fiscal_year": 2026,
       "accession_number": "0001193125-26-135011",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:21:26",
       "themes": {
         "creativity": {
@@ -24427,6 +24655,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-071575",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:19:59",
       "themes": {
         "creativity": {
@@ -24551,6 +24780,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2026,
       "accession_number": "0001045810-26-000021",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:18:30",
       "themes": {
         "creativity": {
@@ -24931,6 +25161,7 @@
       "filing_date": "2026-03-05",
       "fiscal_year": 2026,
       "accession_number": "0001660134-26-000020",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:59:29",
       "themes": {
         "creativity": {
@@ -25180,6 +25411,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0000029989-26-000006",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:23:47",
       "themes": {
         "creativity": {
@@ -25341,6 +25573,7 @@
       "filing_date": "2026-02-13",
       "fiscal_year": 2025,
       "accession_number": "0001568651-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:10:20",
       "themes": {
         "creativity": {
@@ -25527,6 +25760,7 @@
       "filing_date": "2026-02-23",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-064309",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:18:16",
       "themes": {
         "creativity": {
@@ -25687,6 +25921,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-012830",
+      "form": "10-K",
       "scored_at": "2026-10-19T17:57:32",
       "themes": {
         "creativity": {
@@ -25814,6 +26049,7 @@
       "filing_date": "2026-09-10",
       "fiscal_year": 2026,
       "accession_number": "0001327567-26-000023",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:38:25",
       "themes": {
         "creativity": {
@@ -26064,6 +26300,7 @@
       "filing_date": "2026-02-19",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-059372",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:31:42",
       "themes": {
         "creativity": {
@@ -26293,6 +26530,7 @@
       "filing_date": "2026-07-17",
       "fiscal_year": 2026,
       "accession_number": "0001193125-26-307785",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:42:10",
       "themes": {
         "creativity": {
@@ -26498,6 +26736,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0001534504-26-000010",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:02:54",
       "themes": {
         "creativity": {
@@ -26655,6 +26894,7 @@
       "filing_date": "2026-08-05",
       "fiscal_year": 2026,
       "accession_number": "0001591698-26-000069",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:08:23",
       "themes": {
         "creativity": {
@@ -26907,6 +27147,7 @@
       "filing_date": "2026-02-09",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-042813",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:12:58",
       "themes": {
         "creativity": {
@@ -27067,6 +27308,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0001321655-26-000011",
+      "form": "10-K",
       "scored_at": "2026-10-19T12:59:10",
       "themes": {
         "creativity": {
@@ -27155,6 +27397,7 @@
       "filing_date": "2026-02-06",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-005939",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:20:34",
       "themes": {
         "creativity": {
@@ -27316,6 +27559,7 @@
       "filing_date": "2026-03-02",
       "fiscal_year": 2025,
       "accession_number": "0002082866-26-000018",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:05:59",
       "themes": {
         "creativity": {
@@ -27570,6 +27814,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001658566-26-000035",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:18:39",
       "themes": {
         "creativity": {
@@ -27684,6 +27929,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0001534701-26-000006",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:37:47",
       "themes": {
         "creativity": {
@@ -27809,6 +28055,7 @@
       "filing_date": "2025-11-21",
       "fiscal_year": 2025,
       "accession_number": "0001193125-25-291326",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:15:54",
       "themes": {
         "creativity": {
@@ -27959,6 +28206,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-019696",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:45:32",
       "themes": {
         "creativity": {
@@ -28095,6 +28343,7 @@
       "filing_date": "2026-03-25",
       "fiscal_year": 2026,
       "accession_number": "0001474432-26-000027",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:03:04",
       "themes": {
         "creativity": {
@@ -28301,6 +28550,7 @@
       "filing_date": "2025-11-05",
       "fiscal_year": 2025,
       "accession_number": "0000804328-25-000085",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:12:21",
       "themes": {
         "creativity": {
@@ -28483,6 +28733,7 @@
       "filing_date": "2026-02-20",
       "fiscal_year": 2025,
       "accession_number": "0001107843-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:12:25",
       "themes": {
         "creativity": {
@@ -28783,6 +29034,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0002041385-26-000023",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:13:16",
       "themes": {
         "creativity": {
@@ -28922,6 +29174,7 @@
       "filing_date": "2026-03-19",
       "fiscal_year": 2026,
       "accession_number": "0001943896-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:57:20",
       "themes": {
         "creativity": {
@@ -29058,6 +29311,7 @@
       "filing_date": "2026-02-06",
       "fiscal_year": 2025,
       "accession_number": "0001713445-26-000022",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:03:59",
       "themes": {
         "creativity": {
@@ -29311,6 +29565,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-076528",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:07:26",
       "themes": {
         "creativity": {
@@ -29450,6 +29705,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001384905-26-000021",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:36:47",
       "themes": {
         "creativity": {
@@ -29614,6 +29870,7 @@
       "filing_date": "2026-02-13",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-008114",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:17:52",
       "themes": {
         "creativity": {
@@ -29868,6 +30125,7 @@
       "filing_date": "2026-02-11",
       "fiscal_year": 2025,
       "accession_number": "0001802768-26-000003",
+      "form": "10-K",
       "scored_at": "2026-10-19T15:46:14",
       "themes": {
         "creativity": {
@@ -30207,6 +30465,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-020651",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:07:34",
       "themes": {
         "creativity": {
@@ -30332,6 +30591,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0000031791-26-000012",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:07:38",
       "themes": {
         "creativity": {
@@ -30557,6 +30817,7 @@
       "filing_date": "2026-03-16",
       "fiscal_year": 2026,
       "accession_number": "0001571123-26-000029",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:46:54",
       "themes": {
         "creativity": {
@@ -30783,6 +31044,7 @@
       "filing_date": "2026-03-19",
       "fiscal_year": 2026,
       "accession_number": "0002030781-26-000003",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:00:38",
       "themes": {
         "creativity": {
@@ -31055,6 +31317,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-021492",
+      "form": "10-K",
       "scored_at": "2026-10-19T12:57:27",
       "themes": {
         "creativity": {
@@ -31403,6 +31666,7 @@
       "filing_date": "2026-02-23",
       "fiscal_year": 2025,
       "accession_number": "0000350894-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-19T17:58:42",
       "themes": {
         "creativity": {
@@ -31551,6 +31815,7 @@
       "filing_date": "2026-06-09",
       "fiscal_year": 2026,
       "accession_number": "0000091419-26-000050",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:22:17",
       "themes": {
         "creativity": {
@@ -31797,6 +32062,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0000893538-26-000032",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:37:19",
       "themes": {
         "creativity": {
@@ -31958,6 +32224,7 @@
       "filing_date": "2026-08-17",
       "fiscal_year": 2026,
       "accession_number": "0001628280-26-057406",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:11:40",
       "themes": {
         "creativity": {
@@ -32118,6 +32385,7 @@
       "filing_date": "2026-03-20",
       "fiscal_year": 2026,
       "accession_number": "0001640147-26-000008",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:12:16",
       "themes": {
         "creativity": {
@@ -32257,6 +32525,7 @@
       "filing_date": "2026-01-27",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-003598",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:10:20",
       "themes": {
         "creativity": {
@@ -32442,6 +32711,7 @@
       "filing_date": "2026-03-02",
       "fiscal_year": 2025,
       "accession_number": "0001957132-26-000015",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:13:25",
       "themes": {
         "creativity": {
@@ -32556,6 +32826,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-021395",
+      "form": "10-K",
       "scored_at": "2026-10-19T17:56:43",
       "themes": {
         "creativity": {
@@ -32670,6 +32941,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0000874238-26-000024",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:43:31",
       "themes": {
         "creativity": {
@@ -32784,6 +33056,7 @@
       "filing_date": "2026-08-04",
       "fiscal_year": 2026,
       "accession_number": "0001137789-26-000159",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:15:26",
       "themes": {
         "creativity": {
@@ -33118,6 +33391,7 @@
       "filing_date": "2025-11-07",
       "fiscal_year": 2025,
       "accession_number": "0000004127-25-000085",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:11:30",
       "themes": {
         "creativity": {
@@ -33232,6 +33506,7 @@
       "filing_date": "2026-02-13",
       "fiscal_year": 2025,
       "accession_number": "0001140361-26-005311",
+      "form": "10-K",
       "scored_at": "2026-10-19T17:58:10",
       "themes": {
         "creativity": {
@@ -33377,6 +33652,7 @@
       "filing_date": "2026-03-19",
       "fiscal_year": 2026,
       "accession_number": "0001583708-26-000020",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:07:04",
       "themes": {
         "creativity": {
@@ -33541,6 +33817,7 @@
       "filing_date": "2026-02-27",
       "fiscal_year": 2025,
       "accession_number": "0001437749-26-006133",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:05:58",
       "themes": {
         "creativity": {
@@ -33680,6 +33957,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0000070318-26-000012",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:44:33",
       "themes": {
         "creativity": {
@@ -33887,6 +34165,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0000097745-26-000018",
+      "form": "10-K",
       "scored_at": "2026-10-19T17:59:54",
       "themes": {
         "creativity": {
@@ -34093,6 +34372,7 @@
       "filing_date": "2026-02-24",
       "fiscal_year": 2025,
       "accession_number": "0001447669-26-000021",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:01:00",
       "themes": {
         "creativity": {
@@ -34282,6 +34562,7 @@
       "filing_date": "2025-11-17",
       "fiscal_year": 2025,
       "accession_number": "0001581280-25-000025",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:07:33",
       "themes": {
         "creativity": {
@@ -34503,6 +34784,7 @@
       "filing_date": "2026-02-13",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-007822",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:04:27",
       "themes": {
         "creativity": {
@@ -34591,6 +34873,7 @@
       "filing_date": "2025-11-21",
       "fiscal_year": 2025,
       "accession_number": "0000884614-25-000053",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:14:08",
       "themes": {
         "creativity": {
@@ -34751,6 +35034,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-077057",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:44:03",
       "themes": {
         "creativity": {
@@ -34937,6 +35221,7 @@
       "filing_date": "2026-03-20",
       "fiscal_year": 2026,
       "accession_number": "0001393052-26-000014",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:58:43",
       "themes": {
         "creativity": {
@@ -35089,6 +35374,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-011499",
+      "form": "10-K",
       "scored_at": "2026-10-18T23:32:46",
       "themes": {
         "creativity": {
@@ -35294,6 +35580,7 @@
       "filing_date": "2026-02-09",
       "fiscal_year": 2025,
       "accession_number": "0000899689-26-000009",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:15:15",
       "themes": {
         "creativity": {
@@ -35449,6 +35736,7 @@
       "filing_date": "2026-02-04",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-005450",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:04:54",
       "themes": {
         "creativity": {
@@ -35678,6 +35966,7 @@
       "filing_date": "2026-03-20",
       "fiscal_year": 2026,
       "accession_number": "0001856437-26-000004",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:21:13",
       "themes": {
         "creativity": {
@@ -35931,6 +36220,7 @@
       "filing_date": "2026-02-26",
       "fiscal_year": 2025,
       "accession_number": "0001792044-26-000013",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:16:24",
       "themes": {
         "creativity": {
@@ -36088,6 +36378,7 @@
       "filing_date": "2026-02-23",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-062604",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:12:46",
       "themes": {
         "creativity": {
@@ -36306,6 +36597,7 @@
       "filing_date": "2026-03-06",
       "fiscal_year": 2026,
       "accession_number": "0001327811-26-000014",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:11:37",
       "themes": {
         "creativity": {
@@ -36577,6 +36869,7 @@
       "filing_date": "2026-08-14",
       "fiscal_year": 2026,
       "accession_number": "0001628280-26-057139",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:08:54",
       "themes": {
         "creativity": {
@@ -36844,6 +37137,7 @@
       "filing_date": "2026-03-26",
       "fiscal_year": 2026,
       "accession_number": "0000719955-26-000059",
+      "form": "10-K",
       "scored_at": "2026-10-19T13:04:41",
       "themes": {
         "creativity": {
@@ -37133,6 +37427,7 @@
       "filing_date": "2026-02-17",
       "fiscal_year": 2025,
       "accession_number": "0000105770-26-000010",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:45:58",
       "themes": {
         "creativity": {
@@ -37297,6 +37592,7 @@
       "filing_date": "2026-02-23",
       "fiscal_year": 2025,
       "accession_number": "0001104659-26-018541",
+      "form": "10-K",
       "scored_at": "2026-10-19T18:12:51",
       "themes": {
         "creativity": {
@@ -37564,6 +37860,7 @@
       "filing_date": "2026-02-18",
       "fiscal_year": 2025,
       "accession_number": "0000034088-26-000045",
+      "form": "10-K",
       "scored_at": "2026-10-19T17:57:08",
       "themes": {
         "creativity": {
@@ -37728,6 +38025,7 @@
       "filing_date": "2026-02-12",
       "fiscal_year": 2025,
       "accession_number": "0001628280-26-007668",
+      "form": "10-K",
       "scored_at": "2026-10-19T01:09:03",
       "themes": {
         "creativity": {
@@ -37973,6 +38271,7 @@
       "filing_date": "2026-02-25",
       "fiscal_year": 2025,
       "accession_number": "0001193125-26-068598",
+      "form": "10-K",
       "scored_at": "2026-10-19T00:11:38",
       "themes": {
         "creativity": {
@@ -38137,6 +38436,7 @@
       "filing_date": "2026-09-03",
       "fiscal_year": 2026,
       "accession_number": "0001713683-26-000157",
+      "form": "10-K",
       "scored_at": "2026-10-19T04:45:12",
       "themes": {
         "creativity": {

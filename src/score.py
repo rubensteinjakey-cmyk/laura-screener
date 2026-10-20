@@ -20,7 +20,7 @@ import argparse
 from datetime import datetime
 
 from ai import THEMES, ClaudeError, check_reply, parse_json_reply, run_claude
-from common import (ROOT, SCORES, SECTION_LABELS, SECTIONS, add_batch_args,
+from common import (ROOT, S1_SECTION_LABELS, SCORES, SECTION_LABELS, SECTIONS, add_batch_args,
                     clear_human_flags, flag_human, load_config, log, read_json,
                     select_companies, write_json)
 
@@ -31,7 +31,7 @@ PROMPT = """Score this company against the rubric below. Read the whole rubric c
 </rubric>
 
 Company: {company_name} (ticker {ticker}), sector: {sector}, fiscal year: {fiscal_year}
-Sections provided: {sections_list}
+Sections provided: {sections_list}{form_note}
 
 Instructions:
 - Use ONLY the filing text below. Ignore anything you know about the company from elsewhere.
@@ -50,6 +50,14 @@ Instructions:
 """
 
 RUBRIC_VERSION = "2.1"
+
+S1_NOTE = (
+    "\n\nThis company has not filed a 10-K yet, so the text below comes from its "
+    "{form} registration statement (filed {filing_date}): its \"Business\" and "
+    "\"Management's Discussion and Analysis\" sections. Treat it exactly as you would "
+    "a 10-K. Wherever the rubric or these instructions say \"10-K\", read it as this "
+    "filing; \"source_doc\": \"10-K\" means this filing. In \"section\", use e.g. "
+    "\"S-1 Business > Human Capital Resources\".")
 MIN_ITEM1_WORDS = 300  # below this, Item 1 extraction failed
 
 TARGETED_NOTE = (
@@ -62,19 +70,24 @@ RETRY_NOTE = """
 IMPORTANT: your previous reply could not be used ({error}). Reply again with ONLY the JSON object in the exact format, nothing else."""
 
 
-def build_prompt(company, sections, fiscal_year):
+def build_prompt(company, sections, fiscal_year, info=None):
     rubric = (ROOT / "rubric.md").read_text(encoding="utf-8")
+    form = (info or {}).get("form", "10-K")
+    labels = S1_SECTION_LABELS if form.startswith("S-1") else SECTION_LABELS
     parts = []
     for s in sections:
         txt = (SECTIONS / company["ticker"] / f"{s}.txt").read_text(encoding="utf-8")
-        parts.append(f'<filing_section name="{SECTION_LABELS[s]}">\n{txt.strip()}\n</filing_section>')
+        parts.append(f'<filing_section name="{labels[s]}">\n{txt.strip()}\n</filing_section>')
     filing_text = "\n\n".join(parts)
-    names = [SECTION_LABELS[s] for s in sections]
+    names = [labels[s] for s in sections]
+    form_note = (S1_NOTE.format(form=form, filing_date=info["filing_date"])
+                 if form.startswith("S-1") else "")
     prompt = PROMPT.format(
         rubric=rubric, company_name=company["company_name"], ticker=company["ticker"],
         sector=company["sector"], fiscal_year=fiscal_year, sections_list=", ".join(names),
         sections_json=str(names).replace("'", '"'), filing_text=filing_text,
-        targeted_note=TARGETED_NOTE if "item7_targeted" in sections else "")
+        targeted_note=TARGETED_NOTE if "item7_targeted" in sections else "",
+        form_note=form_note)
     return prompt, len(filing_text)
 
 
@@ -126,7 +139,7 @@ def score_company(company, cfg, sections, run_id):
                    "; ".join(info.get("notes", []))[:300])
         return
 
-    prompt, filing_chars = build_prompt(company, sections, info["fiscal_year"])
+    prompt, filing_chars = build_prompt(company, sections, info["fiscal_year"], info)
     log("score", f"{t}: sending {len(prompt):,} characters "
                  f"(~{len(prompt) // 4:,} tokens; filing text {filing_chars:,} chars) "
                  f"to {cfg['model']}")
@@ -147,6 +160,9 @@ def score_company(company, cfg, sections, run_id):
         "effort": cfg.get("effort"),
         "sections": sections,
         "accession_number": info["accession_number"],
+        "form": info.get("form", "10-K"),
+        "source_label": info.get("source_label", "10-K"),
+        "source_note": info.get("source_note", ""),
         "filing_date": info["filing_date"],
         "fiscal_year": info["fiscal_year"],
         "scored_at": datetime.now().isoformat(timespec="seconds"),

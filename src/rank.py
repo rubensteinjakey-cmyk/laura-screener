@@ -24,7 +24,7 @@ import math
 from collections import defaultdict
 
 from ai import THEMES
-from common import (OUTPUT, SECTION_LABELS, load_companies, load_config,
+from common import (OUTPUT, S1_SECTION_LABELS, SECTION_LABELS, load_companies, load_config,
                     read_json, read_needs_human)
 
 THEME_LABELS = {"creativity": "Creativity", "community": "Community",
@@ -62,8 +62,9 @@ def rank_sector(results, pct, min_n):
     return results
 
 
-def sections_text(sections):
-    return " + ".join(SECTION_LABELS[s] for s in sections)
+def sections_text(sections, form="10-K"):
+    labels = S1_SECTION_LABELS if form.startswith("S-1") else SECTION_LABELS
+    return " + ".join(labels[s] for s in sections)
 
 
 def strongest_evidence(r, theme, k=2):
@@ -100,7 +101,7 @@ def main():
                     "ticker": r["ticker"], "company_name": r["company_name"],
                     "sector": sector, "filing_date": r["filing_date"],
                     "fiscal_year": r["fiscal_year"],
-                    "sections_read": sections_text(r["sections"]),
+                    "sections_read": sections_text(r["sections"], r.get("form", "10-K")),
                     **{t: r["scores"][t] for t in THEMES},
                     **{f"{t}_coverage": r["coverage"][t] for t in THEMES},
                     "final_score": r["final_score"], "sector_rank": r["sector_rank"],
@@ -160,7 +161,7 @@ def main():
             flags = []
             if r["quote_check_status"] == "failed":
                 flags.append("quote check failed")
-            if r["score_source"] != "10-K":
+            if "sustainability report" in r["score_source"]:
                 flags.append("rescored with report")
             if any(r["coverage"][t] == "insufficient" for t in THEMES):
                 flags.append("insufficient coverage")
@@ -174,7 +175,7 @@ def main():
         for r in rows:
             md += [f"### {r['sector_rank']}. {r['company_name']} ({r['ticker']}): "
                    f"{r['final_score']}/100" + (" · shortlist" if r["in_shortlist"] else ""),
-                   f"10-K filed {r['filing_date']} (fiscal {r['fiscal_year']}) · "
+                   f"{r.get('form', '10-K')} filed {r['filing_date']} (fiscal {r['fiscal_year']}) · "
                    f"source: {r['score_source']}"
                    + (f" · report: {r['report_url']}" if r["report_url"] else "")
                    + (f" (link found on {r['report_link_found_on']})" if r.get("report_link_found_on") else ""), ""]

@@ -200,7 +200,12 @@ python src/overlap_check.py --a maya --b maya_repeat
   sector (`shortlist_min_per_sector`), ties included.
 - **No 10-K?** Companies that file a 20-F or 40-F (foreign companies), or
   whose latest 10-K is more than 18 months old, are skipped and listed in
-  `needs_human.csv`. No other form is substituted.
+  `needs_human.csv`. No other form is substituted, unless the team approves
+  one in `form_overrides.csv` (`ticker,form,accession,fiscal_year,source_label,reason`).
+  Arxis (ARXS) is scored from its Oct 13, 2026 S-1 this way: the extractor
+  takes the S-1's "Business" and "Management's Discussion and Analysis"
+  sections, and everything else (rubric, model, checks, second look) is the
+  same. See `DECISIONS.md`.
 - **Ticker moved to a new company?** If the SEC lists no 10-K for a ticker
   (e.g. XOM after its 2026 holding-company reorganization), add the old
   company's CIK to `cik_overrides.csv` (`ticker,cik,reason`).

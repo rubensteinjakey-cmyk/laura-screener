@@ -1,0 +1,46 @@
+{
+  "ticker": "ARXS",
+  "accession_number": "0001193125-26-419718",
+  "filing_date": "2026-10-13",
+  "fiscal_year": 2025,
+  "form": "S-1",
+  "source_label": "S-1 (no 10-K yet)",
+  "source_note": "Scored from the Oct 13, 2026 S-1 because Arxis has not filed its first 10-K. Rescore when the 10-K is filed.",
+  "full_text_words": 125603,
+  "sections": {
+    "item1": {
+      "words": 5259,
+      "source": "S-1",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          5259,
+          1
+        ]
+      }
+    },
+    "item7": {
+      "words": 14761,
+      "source": "S-1",
+      "candidates": {
+        "starts": 2,
+        "ends": 2,
+        "lengths": [
+          14761,
+          11
+        ]
+      }
+    },
+    "item7_targeted": {
+      "words": 0,
+      "source": "paragraphs of item7 with target terms",
+      "paragraphs_kept": 0,
+      "paragraphs_total": 1623
+    }
+  },
+  "notes": [],
+  "human_capital_words": 156,
+  "human_capital_found": true,
+  "people_paragraph_words": 188
+}
