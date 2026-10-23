@@ -47,6 +47,8 @@ as the US run, with these differences:
   outside knowledge) and subtracts `red_flag_penalty: 10` points (floor 0).
   A red flag never forces a Fail on its own. Final score = alignment score
   (composite 0-100) minus the red-flag penalty.
+  "Rights finding" red flags are a judgment call, so each one is also listed
+  in `output/global/needs_human.csv` for a quick human check.
 - **Pass/Fail.** Ranked only within country-sector. Pass = top half of the
   country-sector by final score, ties included (cutoff = ceil(n / 2), n =
   scored companies in the group, same safe rounding as the shortlist rule).

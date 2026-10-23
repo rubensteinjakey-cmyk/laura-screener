@@ -1,0 +1,266 @@
+{
+  "ticker": "SIKA.SW",
+  "company_name": "Sika",
+  "country": "Switzerland",
+  "sector": "Materials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.sika.com/dam/dms/corporate/media/glo-ar-25-annual-report.pdf",
+  "english": true,
+  "words_sent": 39707,
+  "prompt_chars": 304166,
+  "approx_prompt_tokens": 76041,
+  "scored_at": "2026-10-23T03:22:49",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "In-house corporate design: a visual language and brand system used across platforms",
+        "quote": "To develop the brand, a visual language and system was created to unify the user experience across all platforms.",
+        "source_doc": "filing",
+        "section": "Annual report > Sika Purpose & Brand > Corporate Identity",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used only as a routine business input (brand design)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Community engagement projects supporting local communities",
+        "quote": "The company supports communities through engagement projects.",
+        "source_doc": "filing",
+        "section": "Annual report > Value Creation for All Stakeholders > Society & Communities",
+        "status": "current",
+        "indicators": ">690 engagement projects",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community investment, but no dollars, participants or program description to show substantial reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Company-wide employee training",
+        "quote": "In 2025, each employee received an average of 14.0 hours of training (2024: 14.7).",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Equal Treatment and Opportunities > Training and Skills Development (Metrics)",
+        "status": "current",
+        "indicators": "14.0 hours of training per employee; more than 33,000 employees",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Sika Business School and academies providing sales, professional skills and functional training to staff",
+        "quote": "Along with the talent management and leadership training portfolio, the Sika Business School offers sales training, professional skills training, and support to Sika academies in the areas of procurement, operations, and sustainability.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Equal Treatment and Opportunities > Learning and Development Activities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "University project sponsorships and internship/traineeship opportunities for students",
+        "quote": "As a project sponsor of several universities, Sika engages in a lively dialogue with young talent and offers a wide range of internship and traineeship opportunities for a variety of different academic backgrounds, including chemistry, business studies, industrial engineering, chemical engineering, civil engineering, architecture, and material sciences.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Equal Treatment and Opportunities > Age Repartition",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education activity with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Application and safety training for customers and product users, including free online courses",
+        "quote": "To ensure safe and effective product use, Sika provides customers and product users with comprehensive training opportunities.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Substances of Concern > Training for Customers and Product Users",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external training for outside users, limited disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Technical training and guidance for customers delivered in local languages via Service Centers",
+        "quote": "By maintaining a strong local presence, Sika’s technical teams deliver training and guidance in local languages, ensuring clear communication and understanding throughout the technical application process.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Substances of Concern > Training for Customers and Product Users",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: customer support in several languages"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Women of Sika employee committee in North America",
+        "quote": "In North America, Sika’s business-sponsored Women of Sika (WoS) Committee continues to meet and work, in dedicated sub-committees, on specific topics, such as communication, recruiting, networking, and training.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee network with no figures"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Women in Salesforce program developing women new to construction/sales through cross-country immersion",
+        "quote": "In Latin America, Sika’s Women in Salesforce program continues. It seeks to develop women with little experience in construction and/or sales through a commercial training curriculum where participants are given the opportunity to learn Sika’s business while being immersed in another country and culture.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: named inclusion program with no participant figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Plant in Argentina fully operated and managed by women, with women-designed workwear",
+        "quote": "In Argentina, Sika has opened a new plant, the first one to be 100% operated and managed by women.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality",
+        "status": "current",
+        "indicators": "100%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusion practice, limited reach (single site)"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Diversity training for people managers (USA) and all employees (Canada)",
+        "quote": "In the USA, “Leading Diverse Teams” training for all people managers has been rolled out this year, emphasizing gender and generational dynamics, while Canada has offered training to all employees on the topic of diversity in the workplace.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusion practice with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Global employee engagement survey offered in many languages",
+        "quote": "Available in more than 30 languages, employees are invited to share their perception on key topics related to employee engagement, such as work environment, relations with superiors and team members, and diversity and inclusion.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Working Conditions > Global Employee Engagement Survey",
+        "status": "current",
+        "indicators": "more than 30 languages",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: multilingual access for employees, limited reach evidence"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: Sika sells construction and industrial chemicals; creative work appears only as routine in-house brand/product design, with no creating or enabling of creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: extensive employee development plus external activities (>690 community engagement projects, university sponsorships, customer training) that lack dollars, participant numbers or program detail to show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11",
+          "E12"
+        ],
+        "reason": "Level 2: specific current inclusion practices (Women of Sika committee, Women in Salesforce, diversity training, multilingual survey and customer training) with no membership or participant figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: based on general language only, the filing shows its own innovation, start-up collaborations for R&D and an 'entrepreneurial spirit' culture, with no service enabling founders or small businesses."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "quote": "Discrimination and sexual harassment cases, which continue to represent a material share of substantiated matters.",
+        "section": "Annual report > Sustainability Report > Business Integrity > Metrics",
+        "explanation": "Sika's internal compliance process substantiated 12 discrimination and sexual harassment cases in 2025; the text states none were discrimination, so these were harassment. These are internal whistleblower findings, not a regulatory fine or legal settlement. Flagged for human review to decide whether it meets the threshold."
+      }
+    ],
+    "notes": "Customer training (E6) is product-application and safety training, not marketing, but is borderline. The 'Sika Cares program' is named only in a stakeholder table with no description, so it was not scored separately. 'Affected communities' (S3) is classified as immaterial, and the report points to the website for details. Disability inclusion is described only through definitions, with no activities. Planned items, not scored: a new Sika HR academy launching in 2026 and a Human Rights Policy adopted from 2026. TfS Academy supplier training (300+ courses, 11 languages) is a third-party platform Sika relies on, so it was not credited. Antitrust: two investigations are ongoing, and the UK, Turkey and USA investigations were closed in 2025. Neither is a rubric red-flag category. A supplier audit found excessive working hours (up to 68 hours/week); the corrective action was closed. This is not a serious human-rights abuse. Gender demographics (24.8% women, 17.6% of senior management) are disclosure only. R1 is internal compliance substantiations, with no external fine or settlement disclosed, and is flagged for human judgement."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"SIKA.SW\",\"sector\":\"Materials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"In-house corporate design: a visual language and brand system used across platforms\",\"quote\":\"To develop the brand, a visual language and system was created to unify the user experience across all platforms.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sika Purpose & Brand > Corporate Identity\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used only as a routine business input (brand design)\"}}},{\"id\":\"E2\",\"activity\":\"Community engagement projects supporting local communities\",\"quote\":\"The company supports communities through engagement projects.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Value Creation for All Stakeholders > Society & Communities\",\"status\":\"current\",\"indicators\":\">690 engagement projects\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community investment, but no dollars, participants or program description to show substantial reach\"}}},{\"id\":\"E3\",\"activity\":\"Company-wide employee training\",\"quote\":\"In 2025, each employee received an average of 14.0 hours of training (2024: 14.7).\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Equal Treatment and Opportunities > Training and Skills Development (Metrics)\",\"status\":\"current\",\"indicators\":\"14.0 hours of training per employee; more than 33,000 employees\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E4\",\"activity\":\"Sika Business School and academies providing sales, professional skills and functional training to staff\",\"quote\":\"Along with the talent management and leadership training portfolio, the Sika Business School offers sales training, professional skills training, and support to Sika academies in the areas of procurement, operations, and sustainability.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Equal Treatment and Opportunities > Learning and Development Activities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E5\",\"activity\":\"University project sponsorships and internship/traineeship opportunities for students\",\"quote\":\"As a project sponsor of several universities, Sika engages in a lively dialogue with young talent and offers a wide range of internship and traineeship opportunities for a variety of different academic backgrounds, including chemistry, business studies, industrial engineering, chemical engineering, civil engineering, architecture, and material sciences.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Equal Treatment and Opportunities > Age Repartition\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education activity with no reach figures\"}}},{\"id\":\"E6\",\"activity\":\"Application and safety training for customers and product users, including free online courses\",\"quote\":\"To ensure safe and effective product use, Sika provides customers and product users with comprehensive training opportunities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Substances of Concern > Training for Customers and Product Users\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external training for outside users, limited disclosed reach\"}}},{\"id\":\"E7\",\"activity\":\"Technical training and guidance for customers delivered in local languages via Service Centers\",\"quote\":\"By maintaining a strong local presence, Sika’s technical teams deliver training and guidance in local languages, ensuring clear communication and understanding throughout the technical application process.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Substances of Concern > Training for Customers and Product Users\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: customer support in several languages\"}}},{\"id\":\"E8\",\"activity\":\"Women of Sika employee committee in North America\",\"quote\":\"In North America, Sika’s business-sponsored Women of Sika (WoS) Committee continues to meet and work, in dedicated sub-committees, on specific topics, such as communication, recruiting, networking, and training.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee network with no figures\"}}},{\"id\":\"E9\",\"activity\":\"Women in Salesforce program developing women new to construction/sales through cross-country immersion\",\"quote\":\"In Latin America, Sika’s Women in Salesforce program continues. It seeks to develop women with little experience in construction and/or sales through a commercial training curriculum where participants are given the opportunity to learn Sika’s business while being immersed in another country and culture.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: named inclusion program with no participant figures\"}}},{\"id\":\"E10\",\"activity\":\"Plant in Argentina fully operated and managed by women, with women-designed workwear\",\"quote\":\"In Argentina, Sika has opened a new plant, the first one to be 100% operated and managed by women.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality\",\"status\":\"current\",\"indicators\":\"100%\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific inclusion practice, limited reach (single site)\"}}},{\"id\":\"E11\",\"activity\":\"Diversity training for people managers (USA) and all employees (Canada)\",\"quote\":\"In the USA, “Leading Diverse Teams” training for all people managers has been rolled out this year, emphasizing gender and generational dynamics, while Canada has offered training to all employees on the topic of diversity in the workplace.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Equal Treatment and Opportunities > Gender Diversity and Equality\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific inclusion practice with no reach figures\"}}},{\"id\":\"E12\",\"activity\":\"Global employee engagement survey offered in many languages\",\"quote\":\"Available in more than 30 languages, employees are invited to share their perception on key topics related to employee engagement, such as work environment, relations with superiors and team members, and diversity and inclusion.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Working Conditions > Global Employee Engagement Survey\",\"status\":\"current\",\"indicators\":\"more than 30 languages\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: multilingual access for employees, limited reach evidence\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: Sika sells construction and industrial chemicals; creative work appears only as routine in-house brand/product design, with no creating or enabling of creative work.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 2: extensive employee development plus external activities (>690 community engagement projects, university sponsorships, customer training) that lack dollars, participant numbers or program detail to show substantial reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\",\"E8\",\"E9\",\"E10\",\"E11\",\"E12\"],\"reason\":\"Level 2: specific current inclusion practices (Women of Sika committee, Women in Salesforce, diversity training, multilingual survey and customer training) with no membership or participant figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: based on general language only, the filing shows its own innovation, start-up collaborations for R&D and an 'entrepreneurial spirit' culture, with no service enabling founders or small businesses.\"}},\"notes\":\"Customer training (E6) is product-application and safety training, not marketing, but is borderline. The 'Sika Cares program' is named only in a stakeholder table with no description, so it was not scored separately. 'Affected communities' (S3) is classified as immaterial, and the report points to the website for details. Disability inclusion is described only through definitions, with no activities. Planned items, not scored: a new Sika HR academy launching in 2026 and a Human Rights Policy adopted from 2026. TfS Academy supplier training (300+ courses, 11 languages) is a third-party platform Sika relies on, so it was not credited. Antitrust: two investigations are ongoing, and the UK, Turkey and USA investigations were closed in 2025. Neither is a rubric red-flag category. A supplier audit found excessive working hours (up to 68 hours/week); the corrective action was closed. This is not a serious human-rights abuse. Gender demographics (24.8% women, 17.6% of senior management) are disclosure only. R1 is internal compliance substantiations, with no external fine or settlement disclosed, and is flagged for human judgement.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"quote\":\"Discrimination and sexual harassment cases, which continue to represent a material share of substantiated matters.\",\"section\":\"Annual report > Sustainability Report > Business Integrity > Metrics\",\"explanation\":\"Sika's internal compliance process substantiated 12 discrimination and sexual harassment cases in 2025; the text states none were discrimination, so these were harassment. These are internal whistleblower findings, not a regulatory fine or legal settlement. Flagged for human review to decide whether it meets the threshold.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 108041,
+      "output_tokens": 8164,
+      "duration_ms": 72185
+    }
+  ]
+}

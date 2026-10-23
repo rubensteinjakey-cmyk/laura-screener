@@ -25,7 +25,7 @@ from pypdf import PdfReader
 
 from ai import ClaudeError, check_reply, parse_json_reply, run_claude
 from common import ROOT, load_config, log, read_json, write_json
-from global_common import (G_DOCS, G_REPORTS, G_SECTIONS, G_VERIFIED, gclear, gflag,
+from global_common import (G_DOCS, G_MANUAL, G_REPORTS, G_SECTIONS, G_VERIFIED, gclear, gflag,
                            load_global_companies)
 from score import ask_claude
 from second_look import (IR_FILE_HOSTS, MIN_REPORT_PAGES, SECOND_LOOK_THEMES, fetch_pdf,
@@ -88,9 +88,15 @@ def own_domain(t):
     counts = {}
     for h in hosts:
         d = registered_domain(h)
-        if d not in ("sec.gov", "xbrl.org", "fasb.org", "w3.org"):
+        if d not in ("sec.gov", "xbrl.org", "fasb.org", "w3.org", "adr.com"):
             counts[d] = counts.get(d, 0) + 1
-    return max(counts, key=counts.get) if counts else ""
+    # prefer a domain that carries the company's name (genmab.com), not the
+    # one mentioned most (e.g. a share depositary's site)
+    name = re.sub(r"[^a-z0-9]", "", read_json(G_DOCS / t / "meta.json")["company_name"].lower())
+    named = [d for d in counts if len(d.split(".")[0]) >= 3 and
+             (d.split(".")[0] in name or name[:6] in d.split(".")[0])]
+    pool = named or list(counts)
+    return max(pool, key=counts.get) if pool else ""
 
 
 def find_report(company, cfg, lines):
@@ -100,6 +106,16 @@ def find_report(company, cfg, lines):
     if not dom:
         return None
     ar_url = read_json(G_DOCS / t / "meta.json").get("url", "")
+    manual = G_MANUAL / f"{t}_sustainability.pdf"
+    if manual.exists():  # a teammate saved it by hand (site blocked the download)
+        reader = PdfReader(str(manual))
+        text, chapters, method = relevant_text(reader)
+        if text:
+            year = max([int(y) for y in re.findall(r"20[2-3]\d", " ".join(
+                (reader.pages[i].extract_text() or "") for i in range(min(3, len(reader.pages)))))]
+                or [None])
+            lines.append(f"using manual PDF {manual.name}")
+            return f"manual:{manual.name}", year, text, chapters, method, True
     reply, _ = run_claude(SEARCH_PROMPT.format(company_name=company["company_name"], ticker=t,
                                                country=company["country"], domain=dom,
                                                min_year=MIN_YEAR), cfg, tools="WebSearch")
@@ -173,7 +189,9 @@ def second_look(company, cfg, run_id, themes):
         record.update(status="no standalone report found", log=lines)
         write_json(out_path, record)
         gflag(t, step, "no standalone sustainability report found (scored on the annual "
-                       "report alone)", " | ".join(lines)[:500])
+                       "report alone)", (" | ".join(lines)
+                                         + f" | if one exists, save it as data/global/manual/"
+                                           f"{t}_sustainability.pdf and rerun")[:700])
         log(STEP, f"{t}: no standalone report found")
         return
     url, year, text, chapters, method, on_main = found

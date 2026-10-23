@@ -111,6 +111,10 @@ def verify_record(rec, run_id, cfg):
         gflag(t, step, "red flag quote failed (flag removed)",
               f"{r['id']} {r['flag']}: {str(r.get('quote'))[:250]}")
 
+    for r in kept:
+        if r["flag"] == "rights_finding":  # judgment call: always a quick human check
+            gflag(t, step, "rights-finding red flag - quick check",
+                  f"{r['id']}: {str(r.get('quote'))[:250]} | AI: {str(r.get('explanation'))[:250]}")
     failed_ev = [e for e in all_ev if not e["verified"]]
     for e in failed_ev:
         gflag(t, step, e["problem"], f"{e['id']} ({e['source_doc']}): {str(e.get('quote'))[:300]}")
