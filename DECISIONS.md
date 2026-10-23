@@ -27,6 +27,12 @@ or a fine or settlement for one, during the reporting period."
   standalone sustainability report as `{ticker}_sustainability.pdf`, e.g.
   `GMAB_sustainability.pdf`). The next run picks them up; a sustainability
   PDF redoes the second look (half weight).
+- Report hosts (Oct 23, clarifying the website rule): a PDF on a host other
+  than the company's own or brand-name domain (an IR file service like
+  q4cdn, or a document host such as ipaper or a company CDN) is accepted
+  only if the code finds the link on a page of the company's own website.
+  It is always listed in needs_human.csv for a quick check. (Sydbank's and
+  Demant's annual reports are hosted this way.)
 
 ## Oct 23, 2026: global sleeve values screen ("Rooted Capital", 70 companies)
 

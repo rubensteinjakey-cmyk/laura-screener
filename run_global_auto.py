@@ -65,12 +65,18 @@ def next_reset(text):
 
 def run_country(country):
     """Run one country; return (limit_hit, output_text)."""
-    proc = subprocess.run([sys.executable, "-u", str(ROOT / "run_global.py"),
-                           "--country", country], cwd=ROOT, capture_output=True, text=True)
-    out = "\n".join(l for l in (proc.stdout + proc.stderr).split("\n")
-                    if l.strip() and not NOISE.search(l))
+    proc = subprocess.Popen([sys.executable, "-u", str(ROOT / "run_global.py"),
+                             "--country", country], cwd=ROOT, stdout=subprocess.PIPE,
+                            stderr=subprocess.STDOUT, text=True)
+    kept = []
     with open(LOG, "a", encoding="utf-8") as f:
-        f.write(out + "\n")
+        for line in proc.stdout:  # written as it comes, so a crash loses nothing
+            if line.strip() and not NOISE.search(line):
+                f.write(line)
+                f.flush()
+                kept.append(line)
+    proc.wait()
+    out = "".join(kept)
     return bool(LIMIT.search(out)), out
 
 

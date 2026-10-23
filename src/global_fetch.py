@@ -40,11 +40,12 @@ from common import Sec, load_config, log, write_json
 from download import ARCHIVE_URL, INDEX_URL, filings_table, parse_filing_index, ticker_to_cik
 from global_common import (G_DOCS, G_MANUAL, add_global_args, gclear, gflag, manual_pdf,
                            load_global_companies, skipped)
-from second_look import IR_FILE_HOSTS, link_on_page, registered_domain
+from second_look import link_on_page, registered_domain
 
 logging.getLogger("pypdf").setLevel(logging.ERROR)  # font warnings are noise here
 
 STEP = "global_fetch"
+RETRY = False
 MIN_FISCAL_YEAR = 2025
 MIN_AR_PAGES = 30
 MAX_AR_BYTES = 200_000_000
@@ -56,7 +57,7 @@ Use web search. Rules:
 - Prefer the official ENGLISH version. If the company publishes only a local-language version, give that.
 - The full annual report, not a summary, presentation, sustainability report, 20-F or financial statements alone.
 - Only links on the company's own website, or on an investor-relations file service (for example q4cdn.com) that the company's own website links to. No third-party sites (stock exchanges, data aggregators, news).
-- "found_on": the company web page that links to the PDF, if you know it.
+- "found_on": the company web page that links to the PDF. Always give it; it is REQUIRED when the PDF is not on the company's own domain (document hosts such as ipaper or a CDN).
 - "website": the company's official website home page.
 
 Reply with ONLY this JSON, nothing else:
@@ -178,10 +179,11 @@ def find_annual_report(company, cfg, log_lines):
         ok, on_main = domain_ok(url, own)
         found_on = ""
         if not ok:
+            # Another host (an IR file service like q4cdn, or a document host
+            # like ipaper / a company CDN): accepted ONLY if the code finds the
+            # link on a page of the company's own website (always flagged for
+            # a quick human check, since it isn't on the main domain).
             host = registered_domain(urlparse(url).hostname or "")
-            if host not in IR_FILE_HOSTS:
-                log_lines.append(f"rejected (not on {own} or a brand-name domain): {url}")
-                continue
             if not page or not domain_ok(page, own)[0]:
                 log_lines.append(f"rejected (on file service {host}, no company page given): {url}")
                 continue
@@ -242,6 +244,12 @@ def fetch_company(sec, cik_map, company, cfg):
     meta_path = folder / "meta.json"
     if meta_path.exists():
         log(STEP, f"{t}: already fetched, skipping")
+        return
+    if (folder / "fetch_log.txt").exists() and not manual_pdf(t) and not RETRY:
+        # an earlier try failed (e.g. the site blocked the download): wait for
+        # a teammate's PDF in data/global/manual/ instead of searching again
+        log(STEP, f"{t}: earlier fetch failed; waiting for data/global/manual/{t}.pdf "
+                  "(use --retry to search again)")
         return
     skip = skipped().get(t.upper())
     if skip:
@@ -319,7 +327,10 @@ def main():
     cfg = load_config()
     p = argparse.ArgumentParser(description=__doc__)
     add_global_args(p)
+    p.add_argument("--retry", action="store_true", help="search again for companies that failed")
     args = p.parse_args()
+    global RETRY
+    RETRY = args.retry
     sec = Sec(cfg)
     cik_map = ticker_to_cik(sec)
     for c in load_global_companies(args.country, args.tickers):
