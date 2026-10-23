@@ -1,0 +1,19 @@
+{
+  "ticker": "O39.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "",
+  "fiscal_year": 2025,
+  "url": "https://www.ocbc.com/iwov-resources/sg/ocbc/gbc/pdf/investors/annual-reports/2025/2025-annual-report-en.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 7061
+  },
+  "notes": [
+    "TOC fallback (no usable table of contents): keyword paragraphs across the whole report; skipped 193 of 276 pages (risk, number pages, financial statements from page 97)"
+  ],
+  "people_words": 1911,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "words_sent": 7072
+}

@@ -4,25 +4,25 @@
 
 **36 companies not scored yet (waiting for a document; see needs_human.csv). Groups with unscored companies are marked provisional.**
 
-## Denmark · Financials (1 of 4 scored; Pass/Fail provisional)
+## Denmark · Financials (1 of 4 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Danske Bank (DANSKE.CO) | **32** | 32 | - | 0 | 3 | 2 | 2 | Pass |
+| 1 | Danske Bank (DANSKE.CO) | **32** | 32 | - | 0 | 3 | 2 | 2 | Provisional |
 
 - **Danske Bank**: Annual report 2025
   - Leadership development programme for employees, expanded in 2025 and made digitally accessible to all staff: "Our leadership development programme was expanded to build stronger leadership capabilities for strategic execution, seeing a 50% increase in participation, and we digitalised content from the programme to offer full digital accessibility for all employees."
   - Graduate, apprenticeship and reskilling programmes for early-career employees: "Early-career employees are supported through dedicated graduate and apprenticeship programmes and reskilling programmes, all of which helps us to cultivate a diverse pipeline of future skills."
 
-## Denmark · Health Care (5 of 6 scored; Pass/Fail provisional)
+## Denmark · Health Care (5 of 6 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Demant (DEMANT.CO) | **31** | 31 | - | 0 | 2 | 4 | 1 | Pass |
-| 2 | Lundbeck (HLUN-B.CO) | **29** | 29 | - | 0 | 3 | 2 | 1 | Pass |
-| 3 | Bavarian Nordic (BAVA.CO) | **27** | 27 | - | 0 | 2 | 3 | 1 | Pass |
-| 4 | Zealand Pharma (ZEAL.CO) | **23** | 23 | - | 0 | 2 | 2 | 1 | Fail |
-| 5 | Genmab (GMAB) | **0** | 0 | - | 0 | 0* | 0* | 0 | Fail |
+| 1 | Demant (DEMANT.CO) | **31** | 31 | - | 0 | 2 | 4 | 1 | Provisional |
+| 2 | Lundbeck (HLUN-B.CO) | **29** | 29 | - | 0 | 3 | 2 | 1 | Provisional |
+| 3 | Bavarian Nordic (BAVA.CO) | **27** | 27 | - | 0 | 2 | 3 | 1 | Provisional |
+| 4 | Zealand Pharma (ZEAL.CO) | **23** | 23 | - | 0 | 2 | 2 | 1 | Provisional |
+| 5 | Genmab (GMAB) | **0** | 0 | - | 0 | 0* | 0* | 0 | Provisional |
 
 - **Demant**: Annual report 2025
   - Core business sells hearing aids (assistive technology) and runs clinics that test and fit people with hearing loss, a disability, so they can communicate and take part in daily life: "In 2025, 1.6 million people were tested for hearing loss in our clinics, and we improved more than 12.1 million lives with Demant’s hearing aids."
@@ -38,23 +38,23 @@
   - Funding support and clinical trial collaboration with patient organizations for rare diseases: "At Zealand Pharma, we have longstanding relationships with patient organizations, including Congenital Hyperinsulinism International and The Oley Foundation, and engage with them through initiatives such as funding support and clinical trial collaboration."
 - **Genmab**: 20-F 2025
 
-## Denmark · Industrials (1 of 4 scored; Pass/Fail provisional)
+## Denmark · Industrials (1 of 4 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Vestas Wind Systems (VWS.CO) | **26** | 26 | - | 0 | 2 | 2 | 2 | Pass |
+| 1 | Vestas Wind Systems (VWS.CO) | **26** | 26 | - | 0 | 2 | 2 | 2 | Provisional |
 
 - **Vestas Wind Systems**: Annual report 2025
   - Local community projects near wind farm projects, which reached a cumulative community-beneficiary target during the year: "During 2025, we achieved our previous target of 35,000 community beneficiaries and replaced this target with a target to conduct social due diligence on all projects in scope annually."
   - Technical training, capacity building and entrepreneurship courses for community members near Vestas projects (e.g. farmers in Australia): "Our Social Due Diligence process advanced toward full annual coverage, and global initiatives supported technical training, capacity building, and entrepreneurship in communities connected to our projects."
 
-## Indonesia · Communication Services (3 of 4 scored; Pass/Fail provisional)
+## Indonesia · Communication Services (3 of 4 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Elang Mahkota Teknologi (EMTK.JK) | **57** | 57 | - | 4 | 2 | 2 | 3 | Pass |
-| 2 | Telkom Indonesia (TLK) | **53** | 53 | - | 3 | 3 | 2 | 2 | Pass |
-| 3 | Indoritel (DNET.JK) | **22** | 22 | - | 0 | 2 | 1 | 2 | Fail |
+| 1 | Elang Mahkota Teknologi (EMTK.JK) | **57** | 57 | - | 4 | 2 | 2 | 3 | Provisional |
+| 2 | Telkom Indonesia (TLK) | **53** | 53 | - | 3 | 3 | 2 | 2 | Provisional |
+| 3 | Indoritel (DNET.JK) | **22** | 22 | - | 0 | 2 | 1 | 2 | Provisional |
 
 - **Elang Mahkota Teknologi**: Annual report 2025 (non-English source)
   - Operates leading free-to-air TV networks (SCTV, Indosiar, MOJI, Mentari TV) that produce and broadcast entertainment programming: "Meski Indonesia telah beralih penuh ke siaran digital (ASO), EMTEK tetap mempertahankan kepemimpinannya dengan pangsa pemirsa 38,1% pada akhir 2025." (English: "Although Indonesia has fully switched to digital broadcasting (ASO), EMTEK maintained its leadership with a 38.1% audience share at the end of 2025.")
@@ -66,12 +66,12 @@
   - Training and competency development programs for the company's own employees: "Sepanjang tahun 2025, Perseroan telah memfasilitasi karyawan dengan berbagai pelatihan sebagai berikut:" (English: "Throughout 2025, the Company facilitated employees with various training programs as follows:")
   - Indomaret (associate) scholarships for children of the East Kalimantan Dayak Fellowship in Samarinda: "Pemberian beasiswa kepada putra-putri Persekutuan Dayak Kalimantan Timur (PDKT) di Lamin Bakuda Kota Samarinda." (English: "Provision of scholarships for students of the East Kalimantan Dayak Fellowship (PDKT) at Lamin Bakuda, Samarinda City.")
 
-## Indonesia · Consumer Staples (2 of 6 scored; Pass/Fail provisional)
+## Indonesia · Consumer Staples (2 of 6 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Astra Agro Lestari (AALI.JK) | **35** | 35 | - | 0 | 3 | 2 | 3 | Pass |
-| 2 | Gudang Garam (GGRM.JK) | **29** | 39 | tobacco | 2 | 3 | 1 | 1 | Fail |
+| 1 | Astra Agro Lestari (AALI.JK) | **35** | 35 | - | 0 | 3 | 2 | 3 | Provisional |
+| 2 | Gudang Garam (GGRM.JK) | **29** | 39 | tobacco | 2 | 3 | 1 | 1 | Provisional |
 
 - **Astra Agro Lestari**: Annual report 2025 (non-English source)
   - Village entrepreneurship programs, agricultural processing training, business mentoring and market access support for assisted village MSMEs under the Public Contribution Roadmap: "Pada 2025, melalui payung Public Contribution Roadmap, Perseroan melanjutkan dan memperluas program kewirausahaan desa, pelatihan pengolahan hasil pertanian, serta penguatan akses pasar bagi Usaha, Mikro, Kecil dan Menengah (UMKM) binaan." (English: "In 2025, under the Public Contribution Roadmap, the Company continued and expanded village entrepreneurship programs, agricultural processing training, and strengthening of market access for assisted micro, small and medium enterprises (MSMEs).")
@@ -81,13 +81,13 @@
   - Participates in and supports Kediri City's annual Kediri Nite Carnival cultural parade (and Kediri Half Marathon) as part of the city anniversary: "Perseroan turut berpartisipasi dalam perayaan hari jadi Kota Kediri yang meliputi Kediri Nite Carnival, sebuah parade budaya yang menampilkan kreativitas dan warisan budaya lokal yang diadakan setiap tahun, serta Kediri Half Marathon yang mendorong gaya hidup sehat dan menumbuhkan semangat kebersamaan di tengah masyarakat dan pengunjung." (English: "The Company took part in Kediri City's anniversary celebrations, which include the annual Kediri Nite Carnival, a cultural parade showcasing local creativity and heritage, as well as the Kediri Half Marathon, which promotes a healthy lifestyle while fostering community spirit among residents and visitors.")
   - RED FLAG (tobacco): "Sesuai dengan pasal 3 Anggaran Dasarnya, Perseroan bergerak di bidang industri rokok dan aktivitas lain yang terkait dengan industri rokok."
 
-## Singapore · Financials (3 of 5 scored; Pass/Fail provisional)
+## Singapore · Financials (3 of 5 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | UOB (U11.SI) | **53** | 53 | - | 3 | 3 | 2 | 2 | Pass |
-| 2 | DBS Group (D05.SI) | **49** | 49 | - | 1 | 4 | 3 | 2 | Pass |
-| 3 | Singapore Exchange (S68.SI) | **36** | 36 | - | 1 | 3 | 2 | 1 | Fail |
+| 1 | UOB (U11.SI) | **53** | 53 | - | 3 | 3 | 2 | 2 | Provisional |
+| 2 | DBS Group (D05.SI) | **49** | 49 | - | 1 | 4 | 3 | 2 | Provisional |
+| 3 | Singapore Exchange (S68.SI) | **36** | 36 | - | 1 | 3 | 2 | 1 | Provisional |
 
 - **UOB**: Annual report 2025
   - Runs the UOB Painting of the Year and UOB Art in Ink Awards, regional art competitions recognising artists: "Now in its 44th year, UOB POY remains Singapore’s longest running and one of Southeast Asia’s most prestigious art competitions, held across Singapore, Indonesia, Malaysia, Thailand and Vietnam, while AIIA celebrates the versatility of ink art in China and Hong Kong."
@@ -99,15 +99,15 @@
   - SGX Cares Bull Charge, an annual fundraising programme (Charity Run, Charity Futsal) supporting underprivileged children and families, persons with disabilities and seniors: "Over two decades, SGX Group has raised more than $52 million through SGX Cares Bull Charge, bringing together the financial community, Singapore-listed companies, business and technology partners to support the needs of underprivileged children and families, persons with disabilities and seniors."
   - SGX Academy financial literacy and investor education programmes, run with local tertiary institutions: "Over the past year, SGX Academy hosted over 170 events in financial literacy and investor education, reaching more than 22,000 participants – many of whom were young and first-time investors."
 
-## Switzerland · Health Care (5 of 6 scored; Pass/Fail provisional)
+## Switzerland · Health Care (5 of 6 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Straumann (STMN.SW) | **43** | 43 | - | 2 | 3 | 2 | 1 | Pass |
-| 2 | Sonova (SOON.SW) | **40** | 40 | - | 1 | 3 | 3 | 1 | Pass |
-| 3 | Galderma Group (GALD.SW) | **36** | 36 | - | 1 | 3 | 2 | 1 | Pass |
-| 4 | Sandoz Group (SDZ.SW) | **33** | 33 | - | 0 | 3 | 3 | 1 | Fail |
-| 5 | Alcon (ALC) | **22** | 22 | - | 0 | 2 | 1* | 2 | Fail |
+| 1 | Straumann (STMN.SW) | **43** | 43 | - | 2 | 3 | 2 | 1 | Provisional |
+| 2 | Sonova (SOON.SW) | **40** | 40 | - | 1 | 3 | 3 | 1 | Provisional |
+| 3 | Galderma Group (GALD.SW) | **36** | 36 | - | 1 | 3 | 2 | 1 | Provisional |
+| 4 | Sandoz Group (SDZ.SW) | **33** | 33 | - | 0 | 3 | 3 | 1 | Provisional |
+| 5 | Alcon (ALC) | **22** | 22 | - | 0 | 2 | 1* | 2 | Provisional |
 
 - **Straumann**: Annual report 2025
   - Global clinical education programme for dental professionals, run with partners ITI and ILAPEO, with a target share delivered in low- and middle-income countries: "In 2025, over 370 000 dental professionals were reached through approximately 10 700 educational activities worldwide, contributing to the availability of qualified care and the long-term strengthening of local healthcare systems."
@@ -147,13 +147,13 @@
   - Internal GROW and LEAD talent and leadership development programmes for employees: "In 2025, 90employees (previous year 100) took part in the internal development programmes GROW and LEAD, of these 23women(previous year 30)."
   - Vocational apprenticeship training for young people employed by the company: "Geberit employed 289apprentices at the end of 2025 (previous year 284)."
 
-## Switzerland · Materials (3 of 4 scored; Pass/Fail provisional)
+## Switzerland · Materials (3 of 4 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Givaudan (GIVN.SW) | **57** | 57 | - | 3 | 3 | 3 | 2 | Pass |
-| 2 | DSM-Firmenich (DSFIR.AS) | **53** | 53 | - | 3 | 3 | 2 | 2 | Pass |
-| 3 | Sika (SIKA.SW) | **30** | 30 | - | 1 | 2 | 2 | 1 | Fail |
+| 1 | Givaudan (GIVN.SW) | **57** | 57 | - | 3 | 3 | 3 | 2 | Provisional |
+| 2 | DSM-Firmenich (DSFIR.AS) | **53** | 53 | - | 3 | 3 | 2 | 2 | Provisional |
+| 3 | Sika (SIKA.SW) | **30** | 30 | - | 1 | 2 | 2 | 1 | Provisional |
 
 - **Givaudan**: Annual report 2025
   - Fine fragrance creative centre that co-creates fine fragrances with Chinese brands: "L’Appartement 125, our Fine Fragrance Creative Centre in Shanghai, connects Givaudan with Chinese brands to co-create the future of fine fragrances."
@@ -165,12 +165,12 @@
   - Company-wide employee training: "In 2025, each employee received an average of 14.0 hours of training (2024: 14.7)."
   - Sika Business School and internal academies offering sales, professional skills and functional training for employees: "Along with the talent management and leadership training portfolio, the Sika Business School offers sales training, professional skills training, and support to Sika academies in the areas of procurement, operations, and sustainability."
 
-## Taiwan · Financials (2 of 6 scored; Pass/Fail provisional)
+## Taiwan · Financials (2 of 6 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | E.SUN Financial Holding (2884.TW) | **46** | 46 | - | 1 | 3 | 3 | 3 | Pass |
-| 1 | Yuanta Financial Holding (2885.TW) | **46** | 46 | - | 2 | 3 | 2 | 2 | Pass |
+| 1 | E.SUN Financial Holding (2884.TW) | **46** | 46 | - | 1 | 3 | 3 | 3 | Provisional |
+| 1 | Yuanta Financial Holding (2885.TW) | **46** | 46 | - | 2 | 3 | 2 | 2 | Provisional |
 
 - **E.SUN Financial Holding**: Annual report 2025
   - E.SUN Golden Seed Project, which builds school libraries and donates books to students: "As of December 2025, the company has established 198 E.SUN Libraries, donated over 470,000 books, and benefited more than 170,000 students."
@@ -179,14 +179,14 @@
   - Yuanta Cultural and Educational Foundation runs a group-wide public welfare platform of charity, education and volunteer events: "A total of 5,069 volunteers participated in the events and the events benefited more than 770,000 participants."
   - Yuanta Dreams Take Flight Scholarship for students from rural and disadvantaged areas, run with Fu Jen Catholic University: "A total of 2,564 persons have been awarded the scholarship."
 
-## Taiwan · Information Technology (4 of 8 scored; Pass/Fail provisional)
+## Taiwan · Information Technology (4 of 8 scored; Provisional: no Pass/Fail until all are scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | ASUS (2357.TW) | **54** | 54 | - | 3 | 3 | 3 | 1 | Pass |
-| 2 | MediaTek (2454.TW) | **46** | 46 | - | 2 | 3 | 2 | 2 | Pass |
-| 3 | Largan Precision (3008.TW) | **25** | 25 | - | 0 | 3 | 1 | 1 | Fail |
-| 4 | Global Unichip Corp. (3443.TW) | **23** | 23 | - | 0 | 2 | 2 | 1 | Fail |
+| 1 | ASUS (2357.TW) | **54** | 54 | - | 3 | 3 | 3 | 1 | Provisional |
+| 2 | MediaTek (2454.TW) | **46** | 46 | - | 2 | 3 | 2 | 2 | Provisional |
+| 3 | Largan Precision (3008.TW) | **25** | 25 | - | 0 | 3 | 1 | 1 | Provisional |
+| 4 | Global Unichip Corp. (3443.TW) | **23** | 23 | - | 0 | 2 | 2 | 1 | Provisional |
 
 - **ASUS**: Annual report 2025
   - Heartfelt 99 student short-film contest co-organized with Taiwan PTS, with campus lecture tours and volunteer video workshops: "The Foundation also promotes image education through short film competitions, ASUS volunteer video workshops, and campus lecture tours."

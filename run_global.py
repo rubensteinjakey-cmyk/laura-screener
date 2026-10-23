@@ -2,7 +2,9 @@
 
   python run_global.py --country Denmark        one country at a time
   python run_global.py --tickers GMAB,SIKA.SW   or named companies
-  python run_global.py --rank                   Pass/Fail + outputs, once all are scored
+  python run_global.py --country Taiwan --retry  search again for failed downloads
+                                                (exchange filing site first)
+  python run_global.py --rank                   Pass/Fail + outputs
 
 Steps per company: fetch the 20-F / annual report -> extract sections ->
 score (AI) -> verify -> second look (only thin coverage) -> verify again.
@@ -31,6 +33,8 @@ def main():
     p.add_argument("--country", default="")
     p.add_argument("--tickers", default="")
     p.add_argument("--rank", action="store_true", help="only rank and write the outputs")
+    p.add_argument("--retry", action="store_true",
+                   help="search again for companies whose download failed")
     a = p.parse_args()
     if a.rank:
         step("global_rank.py")
@@ -39,7 +43,7 @@ def main():
           (["--tickers", a.tickers] if a.tickers else [])
     if not sel:
         sys.exit("Give --country or --tickers (one country at a time), or --rank.")
-    step("global_fetch.py", *sel)
+    step("global_fetch.py", *sel, *(["--retry"] if a.retry else []))
     step("global_extract.py", *sel)
     step("global_score.py", *sel)
     tick = []
@@ -48,7 +52,7 @@ def main():
     step("global_verify.py", *tick)
     step("global_second_look.py", *tick)
     step("global_verify.py", *tick)
-    print("\nDone for this batch. When every country is done: python run_global.py --rank")
+    print("\nDone for this batch. Then: python run_global.py --rank")
 
 
 if __name__ == "__main__":

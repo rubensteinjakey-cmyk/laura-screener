@@ -3,6 +3,48 @@
 Dated record of scoring decisions, newest first. Each one names where it
 lives in the code or config.
 
+## Oct 23, 2026: global screen: exchange filing sites, Provisional groups, TOC fallback
+
+Three team decisions before anyone saves PDFs by hand.
+
+1. **Official stock-exchange filing sites count as a source**, the same as
+   the company's own website (they are the official copies companies must
+   file, like EDGAR in the US). Tried first, before the company's site
+   (`src/exchange_filings.py`, called from `src/global_fetch.py`):
+   - Denmark: Nasdaq Copenhagen company announcements ("Annual Financial
+     Report" announcements; company confirmed by name and the Copenhagen
+     market).
+   - Switzerland: SIX Swiss Exchange. SIX keeps no archive of issuers' annual
+     reports to download from, so this is logged. Lonza also lists on SGX,
+     so its SGX filing is used (company confirmed by name).
+   - Taiwan: MOPS (Market Observation Post System), the shareholder-meeting
+     annual report by stock code, English version first. MOPS refuses fast
+     requests, so they are spaced 25 seconds apart.
+   - Indonesia: IDX (idx.co.id). Its bot check refuses automated requests,
+     so this is logged and the company's own site is tried next.
+   - Singapore: SGX company announcements (links.sgx.com). Claude's web
+     search suggests the announcement; the code confirms the SGX stock code
+     on the announcement page before downloading.
+   The same checks apply as for a company-site report (fiscal 2025 or later,
+   30+ pages, English preferred). If the exchange copy isn't in English, the
+   company's own site is still searched for an English version. The source is
+   logged in `meta.json` (`source_site`) and in the `source_site` and
+   `filing_used` columns of `results_global.csv`.
+2. **Incomplete country-sectors are "Provisional", not Pass/Fail.** A group
+   gets final Pass/Fail only once every company in it is scored or formally
+   excluded by the team (`global_skip.csv`, e.g. SWICH.AS). Until then
+   `values_result` = "Provisional" and `values_notes` says how many are
+   scored ("2 of 6 scored"). No company passes because its group is mostly
+   empty.
+3. **TOC fallback in the extractor.** If the table of contents can't be read
+   reliably (no usable chapters, or the chapters picked hold under 5,000
+   words, e.g. HMSP's chapter numbers read as page numbers), the company is
+   no longer skipped: the keyword-paragraph method runs across the whole
+   report, with the same word cap and exclusions (risk-heading pages, number
+   pages, and everything from the auditor's report / financial statements
+   on). Noted as "TOC fallback" in the flags. Any extract under 2,000 words
+   is flagged and not scored (it was 5,000 words of narrative before).
+
 ## Oct 23, 2026: global red flag 4 narrowed to outside findings
 
 Rule 4 now reads: "A discrimination, harassment, forced/child labor or

@@ -1,18 +1,21 @@
 """Global step 6: Pass/Fail within each country-sector and the output files.
-No AI usage. Run only once every company is scored (it refuses otherwise,
-unless --partial, which writes a clearly marked preview).
+No AI usage.
 
 Rank 1 = highest final score in the country-sector (ties share a rank).
 Pass = top half of the country-sector by final score, ties included:
 cutoff = ceil(n / 2) (same safe rounding as the US shortlist), n = scored
 companies in the group. Everyone else Fails. Companies not scored (e.g.
 global_skip.csv) get "Not scored" and don't count in n.
+A group gets final Pass/Fail only once every company in it is scored or
+formally excluded by the team (global_skip.csv). Until then every scored
+company in it is "Provisional" (rank shown, no Pass/Fail), with "k of n
+scored" in values_notes, so nobody passes because their group is mostly empty.
 third_component is still UNDECIDED (TODO): left blank.
 
 Writes output/global/: results_global.csv, evidence_global.csv,
 summary_global.md, needs_human.csv.
 
-Run:  python src/global_rank.py [--partial]
+Run:  python src/global_rank.py
 """
 
 import argparse
@@ -23,14 +26,14 @@ from collections import defaultdict
 
 from ai import THEMES
 from common import load_config, read_json
-from global_common import GOUT, G_VERIFIED, load_global_companies, read_gflags, skipped
+from global_common import GOUT, G_DOCS, G_VERIFIED, load_global_companies, read_gflags, skipped
 
 THEME_LABELS = {"creativity": "Creativity", "community": "Community",
                 "cross_cultural": "Cross-cultural", "entrepreneurship": "Entrepreneurship"}
 FIRST = ["country", "sector", "ticker", "company_name", "filing_used", "alignment_score",
          "red_flag_score", "third_component", "final_score", "country_sector_rank",
          "values_result", "values_notes"]
-EXTRA = (THEMES + [f"{t}_coverage" for t in THEMES]
+EXTRA = (["source_site"] + THEMES + [f"{t}_coverage" for t in THEMES]
          + ["red_flags", "score_source", "words_sent", "non_english_source",
             "original_filing_scores", "full_report_scores", "quote_check_status", "flags"])
 EVIDENCE_FIELDS = ["ticker", "id", "kind", "activity", "quote", "quote_en", "section",
@@ -51,6 +54,17 @@ def pass_fail(rows):
     return rows
 
 
+def group_results(rows, total):
+    """Rank the scored companies of one country-sector; Pass/Fail only when
+    all `total` companies (excluding formally excluded ones) are scored,
+    otherwise every one is "Provisional"."""
+    pass_fail(rows)
+    if len(rows) < total:
+        for r in rows:
+            r["result"] = "Provisional"
+    return rows
+
+
 def best_theme_note(r):
     scored = [(r["scores"][t], t) for t in THEMES if r["scores"][t] >= 2]
     if not scored:
@@ -62,6 +76,20 @@ def best_theme_note(r):
     return f"{THEME_LABELS[t]} {s:g}" + (f" from {act[:70].rstrip('.')}" if act else "")
 
 
+def source_site(t, r=None):
+    """Where the document came from (logged at fetch): SEC EDGAR, an official
+    exchange filing site, the company website, or a teammate's manual PDF."""
+    if r and r.get("source_site"):
+        return r["source_site"]
+    meta = G_DOCS / t / "meta.json"
+    if not meta.exists():
+        return ""
+    m = read_json(meta)
+    how = m.get("how", "")
+    return m.get("source_site") or ("SEC EDGAR" if "EDGAR" in how else "manual PDF"
+                                    if how.startswith("manual") else "company website")
+
+
 def fmt(x):
     return "" if x is None else (f"{x:g}" if isinstance(x, (int, float)) else x)
 
@@ -70,8 +98,6 @@ def main():
     cfg = load_config()
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--run-id", default=cfg.get("global_run_id", "global"))
-    p.add_argument("--partial", action="store_true",
-                   help="preview before every company is scored (marked PREVIEW)")
     args = p.parse_args()
     companies = load_global_companies()
     skip = skipped()
@@ -84,20 +110,20 @@ def main():
             results[c["ticker"]] = read_json(path)
         else:
             missing.append(c["ticker"])
-    # Ranked once every country has been run. Companies still waiting for a
-    # document (blocked download, unclear chapters...) are "Not scored" and
-    # don't count in n; their group's Pass/Fail is marked provisional.
-    groups = defaultdict(list)
-    for r in results.values():
-        groups[(r["country"], r["sector"])].append(r)
-    for g in groups.values():
-        pass_fail(g)
-
-    tag = ""
+    # Companies still waiting for a document (blocked download, unclear
+    # chapters...) are "Not scored". A group with any of them is Provisional:
+    # ranked among the scored companies, but no Pass/Fail yet.
     by_group = defaultdict(list)
     for c in companies:
         if c["ticker"].upper() not in skip:
             by_group[(c["country"], c["sector"])].append(c["ticker"])
+    groups = defaultdict(list)
+    for r in results.values():
+        groups[(r["country"], r["sector"])].append(r)
+    for key, g in groups.items():
+        group_results(g, len(by_group[key]))
+
+    tag = ""
     flags_by_t = defaultdict(list)
     for f in read_gflags():
         flags_by_t[f["ticker"]].append(f["reason"])
@@ -118,15 +144,20 @@ def main():
             grp = by_group[(r["country"], r["sector"])]
             n_scored = sum(1 for x in grp if x in results)
             rf = ", ".join(r["red_flag_kinds"]) or "none"
-            notes = (f"{'Top' if r['result'] == 'Pass' else 'Not in top'} half of "
-                     f"{r['country']} {r['sector']}; {best_theme_note(r)}; red flag: {rf}"
+            if r["result"] == "Provisional":
+                head = (f"{n_scored} of {len(grp)} scored in {r['country']} {r['sector']}; "
+                        f"Pass/Fail waits for the rest (rank {r['rank']} so far)")
+            else:
+                head = (f"{'Top' if r['result'] == 'Pass' else 'Not in top'} half of "
+                        f"{r['country']} {r['sector']}")
+            notes = (f"{head}; {best_theme_note(r)}; red flag: {rf}"
                      + ("; non-English source" if not r.get("english", True) else "")
-                     + (f"; {r['internal_note']}" if r.get("internal_note") else "")
-                     + (f"; PROVISIONAL: {n_scored} of {len(grp)} in this group scored"
-                        if n_scored < len(grp) else ""))
+                     + (f"; {r['internal_note']}" if r.get("internal_note") else ""))
             w.writerow({
                 **base,
-                "filing_used": f"{r['form']} {r.get('fiscal_year') or ''} {r.get('url', '')}".strip(),
+                "filing_used": f"{r['form']} {r.get('fiscal_year') or ''} ({source_site(t, r)}) "
+                               f"{r.get('url', '')}".strip(),
+                "source_site": source_site(t, r),
                 "alignment_score": fmt(r["alignment_score"]),
                 "red_flag_score": fmt(r["red_flag_score"]),
                 "final_score": fmt(r["final_score"]),
@@ -185,7 +216,8 @@ def main():
     for (country, sector), rows in sorted(groups.items()):
         total = len(by_group[(country, sector)])
         md += [f"## {country} · {sector} ({len(rows)} of {total} scored"
-               + ("; Pass/Fail provisional" if len(rows) < total else "") + ")", "",
+               + ("; Provisional: no Pass/Fail until all are scored" if len(rows) < total else "")
+               + ")", "",
                "| Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |",
                "|---|---|---|---|---|---|---|---|---|---|"]
         for r in rows:

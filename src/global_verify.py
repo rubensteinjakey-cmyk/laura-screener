@@ -154,6 +154,7 @@ def verify_record(rec, run_id, cfg):
     if still and second and second["status"] != "scored":
         flags.append(f"coverage insufficient ({', '.join(still)}); second look: {second['status']}")
     notes_extra = list(info.get("notes", []))
+    flags += [n for n in notes_extra if n.startswith("TOC fallback")]
 
     scores = {th: themes[th]["score"] for th in THEMES}
     alignment = final_score(scores)
@@ -164,6 +165,7 @@ def verify_record(rec, run_id, cfg):
         "model": rec["model"], "kind": rec["kind"], "form": rec["form"],
         "fiscal_year": rec.get("fiscal_year"), "url": rec.get("url", ""),
         "english": rec.get("english", True), "words_sent": rec["words_sent"],
+        "source_site": info.get("source_site", ""),
         "themes": themes, "scores": scores,
         "coverage": {th: themes[th]["coverage"] for th in THEMES},
         "alignment_score": alignment, "red_flags": kept, "red_flags_removed": removed,

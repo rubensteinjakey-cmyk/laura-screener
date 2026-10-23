@@ -219,14 +219,17 @@ half-weight rule; the differences are recorded in `DECISIONS.md` (Oct 23).
 
 ```
 python run_global.py --country Denmark     # one country at a time (resumable)
-python run_global.py --rank                # Pass/Fail + outputs, once every company is scored
+python run_global.py --country Taiwan --retry  # search again for failed downloads (exchange site first)
+python run_global.py --rank                # Pass/Fail (or Provisional) + outputs
 python run_global_auto.py                  # all countries; sleeps through a usage limit and resumes
 python run_global_auto.py --exit-on-limit  # cloud sessions: exits at a limit; status file gives the resume time
 ```
 
 - **Sources:** 20-F from SEC EDGAR for GMAB, ALC, TLK (Items 4, 5 targeted,
   6.D; Item 3.D Risk Factors skipped). Everyone else: the fiscal-2025 annual
-  report from the company's own website (`src/global_fetch.py`). If a site
+  report from the official exchange filing site (Nasdaq Copenhagen, MOPS,
+  IDX, SGX; `src/exchange_filings.py`) or the company's own website
+  (`src/global_fetch.py`); the source is logged in `source_site`. If a site
   blocks the download, the company is listed in
   `output/global/needs_human.csv`; save the PDF as
   `data/global/manual/{ticker}.pdf` and run the same command again.
@@ -234,13 +237,17 @@ python run_global_auto.py --exit-on-limit  # cloud sessions: exits at a limit; s
   bookmarks or printed contents page (overview/strategy, people,
   community/education/inclusion/sustainability) plus keyword paragraphs;
   risk chapters, financial statements and notes skipped; capped at
-  `global_max_words`.
+  `global_max_words`. If the contents can't be read reliably: "TOC
+  fallback", keyword paragraphs across the whole report. Under 2,000 words
+  is never scored.
 - **Red flags** (`src/global_verify.py`): tobacco, thermal coal, weapons,
   rights findings; each needs a verified quote and costs `red_flag_penalty`
   points (floor 0).
 - **Pass/Fail** (`src/global_rank.py`): top half of the country-sector by
-  final score, ties included. Not-scored companies (`global_skip.csv`) are
-  "Not scored". `third_component` is blank: TBD.
+  final score, ties included, once every company in the group is scored;
+  until then the group is "Provisional" ("2 of 6 scored"). Not-scored
+  companies are "Not scored"; formally excluded ones (`global_skip.csv`)
+  don't count. `third_component` is blank: TBD.
 - Outputs: `results_global.csv`, `evidence_global.csv`, `summary_global.md`,
   `needs_human.csv`.
 

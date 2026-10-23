@@ -5,7 +5,11 @@ usage (web search) for companies without a 20-F.
     with the same EDGAR code and User-Agent as the US run.
   - A PDF a teammate saved as data/global/manual/{ticker}.pdf: used as the
     annual report (for sites that block automated downloads).
-  - Everyone else: the latest annual report (fiscal 2025, published 2026)
+  - The official copy on the stock exchange's filing site (Oct 23 decision;
+    counts the same as the company's own site): Nasdaq Copenhagen, MOPS,
+    IDX, SGX; see exchange_filings.py. If that copy isn't in English, the
+    company's own site is still searched for an English version.
+  - Otherwise: the latest annual report (fiscal 2025, published 2026)
     from the company's own investor-relations website. Claude (web search
     only) suggests the company's website and PDF links; the CODE accepts a
     link only if
@@ -35,6 +39,7 @@ from urllib.parse import unquote, urljoin, urlparse
 import requests
 from pypdf import PdfReader
 
+import exchange_filings
 from ai import parse_json_reply, run_claude
 from common import Sec, load_config, log, read_json, write_json
 from download import ARCHIVE_URL, INDEX_URL, filings_table, parse_filing_index, ticker_to_cik
@@ -128,8 +133,9 @@ def report_year(url, reader):
     first = " ".join((reader.pages[i].extract_text() or "")
                      for i in range(min(3, len(reader.pages))))
     titled = re.findall(r"(?:annual\s+report|business\s+year|full[- ]year|fiscal\s+year|"
-                        r"financial\s+year)\s*(20[2-3]\d)|(20[2-3]\d)\s*(?:annual\s+report|"
-                        r"business\s+year)",
+                        r"financial\s+year|[åa]a?rsrapport|laporan\s+tahunan|gesch[äa]ftsbericht)"
+                        r"\s*(20[2-3]\d)|(20[2-3]\d)\s*(?:annual\s+report|business\s+year|"
+                        r"[åa]a?rsrapport|laporan\s+tahunan|年報|年度報告)",
                         unquote(urlparse(url).path).replace("-", " ").replace("_", " ")
                         + " " + first, re.I)
     titled = [int(a or b) for a, b in titled]
@@ -151,6 +157,8 @@ def report_year(url, reader):
 
 
 def download_pdf(url, cfg):
+    if url.startswith("https://doc.twse.com.tw/pdf/"):
+        return exchange_filings.mops_download(url)  # MOPS: rate-limited
     r = http_get(url, cfg, timeout=180, stream=True)
     r.raise_for_status()
     data = b""
@@ -303,6 +311,27 @@ def find_annual_report(company, cfg, log_lines):
     return None, {"reason": "no acceptable annual report found", "page": website}
 
 
+def find_exchange_report(company, cfg, log_lines):
+    """The annual report on the stock exchange's filing site. Returns
+    (pdf_bytes, info) or (None, {"site", "page", "blocked"})."""
+    cands, site, page, blocked = exchange_filings.candidates(
+        company, name_tokens(company["company_name"]), cfg, log_lines)
+    accepted = []
+    for c in cands:
+        data, info = try_pdf(c["url"], "", "", True, c["title"], log_lines)
+        if data is None:
+            blocked = blocked or info == "blocked"
+            continue
+        info.update(source_site=site, exchange_page=c["page"],
+                    exchange_name=c.get("exchange_name", ""))
+        accepted.append((data, info))
+        if info["english"]:
+            break
+    if accepted:
+        return next(((d, i) for d, i in accepted if i["english"]), accepted[0])
+    return None, {"site": site, "page": page, "blocked": blocked}
+
+
 def pick_20f(table):
     rows = [r for r in table if r["form"] == "20-F"]
     if not rows:
@@ -321,12 +350,14 @@ def fetch_company(sec, cik_map, company, cfg):
         return
     status_path = folder / "fetch_status.json"
     prev = read_json(status_path) if status_path.exists() else {}
-    if prev and not manual_pdf(t) and not RETRY and (
+    retry = RETRY and "exchange" not in prev  # --retry: once, with the exchange route
+    if prev and not manual_pdf(t) and not retry and (
             prev.get("reason") == "site blocked the download" or prev.get("attempts", 0) >= 2):
         # the site blocks downloads (or two searches found nothing): wait for a
         # teammate's PDF in data/global/manual/ instead of searching again
         log(STEP, f"{t}: earlier fetch failed ({prev.get('reason')}); waiting for "
-                  f"data/global/manual/{t}.pdf (use --retry to search again)")
+                  f"data/global/manual/{t}.pdf"
+                  + ("" if "exchange" in prev else " (use --retry to search again)"))
         return
     skip = skipped().get(t.upper())
     if skip:
@@ -355,7 +386,7 @@ def fetch_company(sec, cik_map, company, cfg):
                         fiscal_year=int(rd[:4]) if rd else None,
                         url=ARCHIVE_URL.format(cik=cik, acc=nodash, doc=doc),
                         documents=parse_filing_index(index_html, cik, nodash),
-                        english=True, how="SEC EDGAR (latest 20-F)")
+                        english=True, how="SEC EDGAR (latest 20-F)", source_site="SEC EDGAR")
             write_json(meta_path, meta)
             log(STEP, f"{t}: 20-F filed {f['filingDate']} (FY {meta['fiscal_year']}), "
                       f"{len(html):,} bytes")
@@ -370,43 +401,74 @@ def fetch_company(sec, cik_map, company, cfg):
         sample = "\n".join((reader.pages[i].extract_text() or "")
                            for i in range(min(len(reader.pages), 12)))
         meta.update(kind="annual_report", form="Annual report", url="", how="manual PDF",
+                    source_site=f"manual PDF ({manual.name})",
                     fiscal_year=report_year("", reader), pages=len(reader.pages),
                     english=is_english(sample))
         write_json(meta_path, meta)
         log(STEP, f"{t}: using manual PDF {manual.name} ({len(reader.pages)} pages)")
         return
 
-    # 3) annual report from the company's own website
-    data, info = find_annual_report(company, cfg, lines)
-    if data is None:
-        gflag(t, STEP, info["reason"],
-              f"page: {info.get('page') or 'unknown'}; save the PDF as data/global/manual/{t}.pdf"
-              f" | {' | '.join(lines)}"[:700])
-        log(STEP, f"{t}: {info['reason']} ({info.get('page', '')})")
-        (folder / "fetch_log.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
-        write_json(status_path, {"reason": info["reason"], "page": info.get("page", ""),
-                                 "attempts": prev.get("attempts", 0) + 1})
+    # 3) the official copy on the stock exchange's filing site
+    ex_data, ex = find_exchange_report(company, cfg, lines)
+    if ex_data is not None and ex["english"]:
+        save_report(folder, meta, ex_data, ex, lines, how=f"official exchange filing ({ex['source_site']})")
         return
+
+    # 4) annual report from the company's own website (also when the exchange
+    #    copy isn't in English, to look for an official English version)
+    data, info = find_annual_report(company, cfg, lines)
+    if data is not None and (info["english"] or ex_data is None):
+        info["source_site"] = "company website"
+        save_report(folder, meta, data, info, lines,
+                    how="company website (web search, checked by code)")
+        return
+    if ex_data is not None:
+        lines.append("no English version on the company's site: using the exchange copy")
+        save_report(folder, meta, ex_data, ex, lines, how=f"official exchange filing ({ex['source_site']})")
+        return
+    reason = info["reason"]
+    if ex.get("blocked") and reason != "site blocked the download":
+        reason = "site blocked the download"
+    pages = [p for p in (ex.get("page"), info.get("page")) if p]
+    where = "; ".join(dict.fromkeys(pages)) or "unknown"
+    gflag(t, STEP, reason,
+          f"page: {where}; save the PDF as data/global/manual/{t}.pdf"
+          f" | {' | '.join(lines)}"[:900])
+    log(STEP, f"{t}: {reason} ({where})")
+    (folder / "fetch_log.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    write_json(status_path, {"reason": reason, "page": where, "exchange": ex.get("site", ""),
+                             "attempts": prev.get("attempts", 0) + 1})
+
+
+def save_report(folder, meta, data, info, lines, how):
+    t = meta["ticker"]
     (folder / "annual_report.pdf").write_bytes(data)
+    exchange = how.startswith("official exchange")
     meta.update(kind="annual_report", form="Annual report", url=info["url"],
                 fiscal_year=info["year"], pages=info["pages"], english=info["english"],
                 found_on=info["found_on"], own_domain=info["own_domain"],
                 on_main_domain=info["on_main_domain"], title=info["title"],
-                how="company website (web search, checked by code)", log=lines)
-    if not info["on_main_domain"]:
+                source_site=info["source_site"], how=how, log=lines)
+    if exchange:
+        meta.update(exchange_page=info.get("exchange_page", ""),
+                    exchange_name=info.get("exchange_name", ""))
+    if not exchange and not info["on_main_domain"]:
         gflag(t, STEP, "report not on main domain - quick check",
               f"{info['url']} (company domain {info['own_domain']})"
               + (f"; link found on {info['found_on']}" if info["found_on"] else ""))
-    write_json(meta_path, meta)
+    write_json(folder / "meta.json", meta)
     log(STEP, f"{t}: annual report {info['year']} ({info['pages']} pages, "
-              f"{'English' if info['english'] else 'non-English'}) from {info['url']}")
+              f"{'English' if info['english'] else 'non-English'}) from {meta['source_site']}: "
+              f"{info['url']}")
 
 
 def main():
     cfg = load_config()
     p = argparse.ArgumentParser(description=__doc__)
     add_global_args(p)
-    p.add_argument("--retry", action="store_true", help="search again for companies that failed")
+    p.add_argument("--retry", action="store_true",
+                   help="search again (exchange filing site first, then the company's site) "
+                        "for companies that failed before the exchange route existed")
     args = p.parse_args()
     global RETRY, CFG
     RETRY = args.retry

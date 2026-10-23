@@ -1,0 +1,20 @@
+{
+  "ticker": "BBNI.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "",
+  "fiscal_year": 2025,
+  "url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR-2025-IND.pdf",
+  "english": false,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 38729
+  },
+  "notes": [
+    "TOC fallback (no usable table of contents): keyword paragraphs across the whole report; skipped 992 of 1602 pages (risk, number pages, financial statements from page 685)",
+    "non-English source"
+  ],
+  "people_words": 5773,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "words_sent": 38740
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "K71U.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "",
+  "fiscal_year": 2025,
+  "url": "https://www.keppelreit.com/file/investor-relations/publications/annual-reports/keppel-reit-ar25.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 9341
+  },
+  "notes": [
+    "TOC fallback (no usable table of contents): keyword paragraphs across the whole report; skipped 122 of 228 pages (risk, number pages, financial statements from page 112)"
+  ],
+  "people_words": 3834,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "words_sent": 9352
+}

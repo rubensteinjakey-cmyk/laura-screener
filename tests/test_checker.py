@@ -28,6 +28,7 @@ with an unrelated paragraph in between so "wrong paragraph" is far away.
 Run:  python tests/test_checker.py
 """
 
+import re
 import sys
 from pathlib import Path
 
@@ -152,6 +153,22 @@ def main():
     in_kinds, in_deducted, in_final = red_flag_result(in_kept, 30.0, 10)
     rf_kinds, rf_deducted, rf_final = red_flag_result(kept, 23.0, 10)
     zh = check_evidence(ZH_EVIDENCE, {"filing": GLOBAL_SOURCE}, default_doc="filing")
+    # 12. incomplete country-sector -> Provisional, never Pass
+    from global_rank import group_results
+    part = group_results([{"final_score": 46}, {"final_score": 46}], total=6)
+    full = group_results([{"final_score": 30}, {"final_score": 20}], total=2)
+    # 13. TOC fallback: keyword paragraphs from narrative pages only
+    from global_extract import extract_toc_fallback, short_extract_problem
+    narrative = ("Our foundation runs scholarships for students and supports small business "
+                 "owners in the community. " * 6).strip()
+    pages = ([narrative] * 6
+             + ["Risk Management\n" + narrative]
+             + [narrative] * 3
+             + ["Independent Auditor's Report\n" + narrative]
+             + ["Notes to the consolidated financial statements\n" + narrative] * 4)
+    finfo = {"notes": [], "people_words": 0}
+    (fsent, _), _ = extract_toc_fallback("TEST", pages, finfo, 40000, "no usable table of contents")
+    fb_pages = sorted({int(m) for m in re.findall(r"\[page (\d+)\]", fsent)})
     checks = [
         ("Correct record passes, score kept, figures kept",
          ev["E1"]["verified"] and not ev["E1"]["figures_removed"]
@@ -194,6 +211,14 @@ def main():
         ("10. Non-English quote checked in the original language (exact passes, altered fails)",
          zh["Z1"]["verified"] and not zh["Z1"]["figures_removed"]
          and not zh["Z2"]["verified"] and zh["Z2"]["problem"] == "quote_check_failed"),
+        ("12. Group with 2 of 6 scored is Provisional (no Pass); a complete group gets Pass/Fail",
+         [r["result"] for r in part] == ["Provisional", "Provisional"]
+         and [r["result"] for r in full] == ["Pass", "Fail"]),
+        ("13. TOC fallback: keyword paragraphs, skipping risk pages and financial statements",
+         fb_pages == [1, 2, 3, 4, 5, 6, 8, 9, 10]
+         and any(n.startswith("TOC fallback") for n in finfo["notes"])),
+        ("14. Under 2,000 words is never scored (HMSP's 564); 2,500 is",
+         short_extract_problem(564) != "" and short_extract_problem(2500) == ""),
     ]
     width = max(len(c[0]) for c in checks)
     for name, ok in checks:

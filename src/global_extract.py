@@ -16,8 +16,13 @@ Annual report (PDF), treated like the targeted MD&A:
   - risk chapters, financial statements and notes are skipped;
   - over global_max_words (~40,000), the lowest-relevance keyword paragraphs
     are dropped first (then the lowest-relevance chapter pages), and it's logged.
-  If no chapters can be found cleanly, the company goes in needs_human.csv
-  and is not scored.
+  TOC fallback: if the table of contents can't be read reliably (no usable
+  chapters, or the chapters picked hold under 5,000 words, e.g. chapter
+  numbers read as page numbers), the keyword-paragraph method runs across the
+  whole report instead, with the same word cap and the same exclusions (risk
+  pages, financial statements and notes, number pages). Noted as
+  "TOC fallback" in the flags.
+  Whatever the method, under 2,000 words sent = flagged and not scored.
 
 Writes data/global/sections/{ticker}/: sent.txt (exactly what the AI reads,
 and what quotes are checked against), info.json (words sent, chapters used,
@@ -42,7 +47,8 @@ from second_look import chapters_from_outline, chapters_from_toc_page
 logging.getLogger("pypdf").setLevel(logging.ERROR)  # font warnings are noise here
 
 STEP = "global_extract"
-MIN_NARRATIVE_WORDS = 5000  # less than this = not the full annual report
+MIN_CHAPTER_WORDS = 5000  # chapters picked hold less = contents not read reliably
+MIN_SCORED_WORDS = 2000   # less than this is never scored
 
 # ---------------------------------------------------------------- 20-F
 
@@ -269,6 +275,85 @@ def chapters_from_contents_page(reader):
     return out
 
 
+# Without a usable contents page, the excluded parts are found page by page:
+# a page whose heading is a risk section is skipped, and from the auditor's
+# report / primary financial statements onwards (in the back half) every page
+# is skipped.
+RISK_PAGE = re.compile(r"^\s*(?:[\d.]+\s*)?(?:enterprise\s+|principal\s+)?risks?\b|"
+                       r"risk\s+(?:management|factors|review|report|governance)|"
+                       r"manajemen\s+risiko|risiko\s+usaha|風險管理|風險因素", re.I | re.M)
+FIN_START = re.compile(r"independent\s+auditor'?s?['’]?\s*s?\s+report|report\s+of\s+the\s+"
+                       r"statutory\s+auditor|consolidated\s+(?:statements?\s+of\s+financial\s+"
+                       r"position|balance\s+sheets?|income\s+statements?)|notes\s+to\s+the\s+"
+                       r"(?:consolidated\s+)?financial\s+statements|laporan\s+(?:posisi\s+)?"
+                       r"keuangan\s+konsolidas|laporan\s+auditor\s+independen|會計師查核報告|"
+                       r"合併資產負債表|財務報表附註", re.I)
+
+
+def short_extract_problem(words):
+    """Under MIN_SCORED_WORDS is never scored (e.g. HMSP's 564 words)."""
+    if words >= MIN_SCORED_WORDS:
+        return ""
+    return (f"only {words:,} words of text picked (under {MIN_SCORED_WORDS:,}): too little "
+            "to score fairly. Probably not the full annual report (e.g. the financial report "
+            "alone); a teammate should check the document")
+
+
+def excluded_pages(pages):
+    """Pages left out without a contents page: risk-heading pages, number
+    pages, and everything from the financial statements on (back half)."""
+    n = len(pages)
+    head = lambda p: "\n".join(p.strip().split("\n")[:6])
+    fin_start = next((i for i in range(n // 3, n) if FIN_START.search(head(pages[i]))), n)
+    skip = set(range(fin_start, n))
+    skip |= {i for i in range(n) if RISK_PAGE.search(head(pages[i])) or page_is_numbers(pages[i])}
+    return skip, fin_start
+
+
+def keyword_paragraphs(pages, page_list):
+    kw = []
+    for p in page_list:
+        for para in paragraphs(pages[p]):
+            hits = len(GLOBAL_TERMS.findall(para))
+            if hits:
+                kw.append({"page": p, "text": para, "hits": hits, "words": word_count(para)})
+    return kw
+
+
+def cap_keyword_paragraphs(kw, budget):
+    """Drop the lowest-relevance keyword paragraphs until they fit the budget."""
+    words = sum(k["words"] for k in kw)
+    kw.sort(key=lambda k: (k["hits"] / max(k["words"], 1), k["hits"]))  # lowest first
+    dropped = 0
+    while kw and words > budget:
+        words -= kw.pop(0)["words"]
+        dropped += 1
+    kw.sort(key=lambda k: k["page"])
+    return kw, dropped
+
+
+def extract_toc_fallback(t, pages, info, max_words, why):
+    """Keyword paragraphs across the whole report (same cap and exclusions)."""
+    skip, fin_start = excluded_pages(pages)
+    kw = keyword_paragraphs(pages, [p for p in range(len(pages)) if p not in skip])
+    kw, dropped = cap_keyword_paragraphs(kw, max_words)
+    info["chapter_method"] = "TOC fallback: keyword paragraphs across the whole report"
+    info["chapters"] = []
+    info["notes"].append(f"TOC fallback ({why}): keyword paragraphs across the whole report; "
+                         f"skipped {len(skip)} of {len(pages)} pages (risk, number pages, "
+                         f"financial statements from page {fin_start + 1})")
+    if dropped:
+        info["notes"].append(f"over {max_words:,} words: dropped {dropped} lowest-relevance "
+                             "keyword paragraph(s)")
+    info["people_words"] = sum(k["words"] for k in kw if PEOPLE.search(k["text"]))
+    text = "\n\n".join(f"[page {k['page'] + 1}]\n{k['text']}" for k in kw)
+    info["sections"] = {"Annual report: keyword paragraphs (TOC fallback)": word_count(text)}
+    log(STEP, f"{t}: TOC fallback ({why})")
+    sent = (f'<section name="Annual report: keyword paragraphs from the whole report">\n'
+            f'{text}\n</section>')
+    return (sent, text), ""
+
+
 def extract_annual_report(t, folder, out, info, max_words):
     reader = PdfReader(str(folder / "annual_report.pdf"))
     n = len(reader.pages)
@@ -286,7 +371,7 @@ def extract_annual_report(t, folder, out, info, max_words):
     picked = [c for c in chapters if WANT.search(c["title"]) and not SKIP.search(c["title"])]
     skipped_ch = [c for c in chapters if SKIP.search(c["title"])]
     if not picked:
-        return None, "no usable table of contents (chapters can't be found cleanly)"
+        return extract_toc_fallback(t, pages, info, max_words, "no usable table of contents")
     info["chapter_method"] = method
     core_pages = sorted({p for c in picked for p in range(c["start"], c["end"])})
     skip_pages = {p for c in skipped_ch for p in range(c["start"], c["end"])}
@@ -295,6 +380,12 @@ def extract_annual_report(t, folder, out, info, max_words):
     info["chapters"] = [f"{c['title']} (pages {c['start'] + 1}-{c['end']})" for c in picked]
     info["chapters_skipped"] = sorted({c["title"] for c in skipped_ch})
     core_pages = [p for p in core_pages if p not in skip_pages and not page_is_numbers(pages[p])]
+    chapter_words = sum(word_count(pages[p]) for p in core_pages)
+    if chapter_words < MIN_CHAPTER_WORDS:
+        # e.g. chapter numbers read as page numbers: the contents page isn't reliable
+        return extract_toc_fallback(t, pages, info, max_words,
+                                    f"chapters from the {method} hold only "
+                                    f"{chapter_words:,} words")
     people_pages = {p for c in picked if PEOPLE.search(c["title"])
                     for p in range(c["start"], c["end"])}
     info["people_words"] = sum(word_count(pages[p]) for p in people_pages)
@@ -302,12 +393,7 @@ def extract_annual_report(t, folder, out, info, max_words):
     # keyword paragraphs from the rest (not skipped chapters, not number pages)
     rest = [p for p in range(n) if p not in core_pages and p not in skip_pages
             and not page_is_numbers(pages[p])]
-    kw = []
-    for p in rest:
-        for para in paragraphs(pages[p]):
-            hits = len(GLOBAL_TERMS.findall(para))
-            if hits:
-                kw.append({"page": p, "text": para, "hits": hits, "words": word_count(para)})
+    kw = keyword_paragraphs(pages, rest)
 
     core_words = sum(word_count(pages[p]) for p in core_pages)
     kw_words = sum(k["words"] for k in kw)
@@ -357,7 +443,9 @@ def extract_company(company, cfg, force=False):
     meta = read_json(meta_path)
     gclear(t, STEP)
     out.mkdir(parents=True, exist_ok=True)
+    (out / "failed.json").unlink(missing_ok=True)
     info = {"ticker": t, "kind": meta["kind"], "form": meta["form"],
+            "source_site": meta.get("source_site", ""),
             "fiscal_year": meta.get("fiscal_year"), "url": meta.get("url", ""),
             "english": meta.get("english", True), "sections": {}, "notes": [],
             "people_words": 0}
@@ -373,11 +461,10 @@ def extract_company(company, cfg, force=False):
         write_json(out / "failed.json", info)
         return
     sent, verify_text = res
-    if info["kind"] != "20-F" and word_count(sent) < MIN_NARRATIVE_WORDS:
-        problem = (f"only {word_count(sent):,} words of narrative text picked: either the "
-                   "document is the financial report alone, or its contents page couldn't be "
-                   "read correctly (a teammate should check the document and its chapters)")
-        gflag(t, STEP, "wrong document? too little narrative text; not scored", problem)
+    problem = short_extract_problem(word_count(sent))
+    if problem:
+        problem += f" ({info.get('url') or 'manual PDF'})"
+        gflag(t, STEP, "too little text to score; not scored", problem)
         log(STEP, f"{t}: {problem} - not scored")
         info["problem"] = problem
         write_json(out / "failed.json", info)

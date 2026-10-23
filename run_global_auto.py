@@ -4,6 +4,8 @@ Claude usage-limit stop.
   python run_global_auto.py                      Denmark, Switzerland, Taiwan,
                                                  Indonesia, Singapore, in order
   python run_global_auto.py --countries Taiwan,Singapore
+  python run_global_auto.py --retry              also retry failed downloads once
+                                                 (exchange filing site first)
 
 Each pass runs `run_global.py --country X` for every country (finished
 companies are skipped, so a pass only does what's left). If a pass hits the
@@ -63,10 +65,11 @@ def next_reset(text):
     return t
 
 
-def run_country(country):
+def run_country(country, retry=False):
     """Run one country; return (limit_hit, output_text)."""
     proc = subprocess.Popen([sys.executable, "-u", str(ROOT / "run_global.py"),
-                             "--country", country], cwd=ROOT, stdout=subprocess.PIPE,
+                             "--country", country] + (["--retry"] if retry else []),
+                            cwd=ROOT, stdout=subprocess.PIPE,
                             stderr=subprocess.STDOUT, text=True)
     kept = []
     with open(LOG, "a", encoding="utf-8") as f:
@@ -84,6 +87,8 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--countries", default=",".join(ORDER))
     p.add_argument("--max-passes", type=int, default=30)
+    p.add_argument("--retry", action="store_true",
+                   help="search again for failed downloads (exchange filing site first)")
     p.add_argument("--exit-on-limit", action="store_true",
                    help="exit (code 3) at a usage limit instead of sleeping; the status "
                         "file says when to resume")
@@ -94,7 +99,7 @@ def main():
         hit_text = ""
         for c in countries:
             note(f"pass {n}: {c}")
-            hit, out = run_country(c)
+            hit, out = run_country(c, a.retry)
             if hit:
                 hit_text = out
                 note(f"pass {n}: usage limit hit during {c}")
