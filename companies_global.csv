@@ -1,0 +1,71 @@
+country,sector,ticker,company_name
+Denmark,Financials,ALSYDB.CO,AL Sydbank A/S
+Denmark,Financials,DANS.VI,Danske Bank
+Denmark,Financials,DJUR.CO,Djurslands Bank A/S
+Denmark,Financials,JYSK.CO,Jyske Bank
+Denmark,Health Care,CHEMM.CO,ChemoMetec
+Denmark,Health Care,BAVA.CO,Bavarian Nordic
+Denmark,Health Care,GMAB,Genmab
+Denmark,Health Care,ZEAL.CO,Zealand Pharma
+Denmark,Health Care,DEMANT.CO,Demant
+Denmark,Health Care,HLUN-B.CO,Lundbeck
+Denmark,Industrials,NTG.CO,NTG Nordic Transport Group A/S
+Denmark,Industrials,MAERSK-B.CO,Maersk
+Denmark,Industrials,DNORD.CO,D/S Norden
+Denmark,Industrials,VWS.CO,Vestas Wind Systems
+Switzerland,Health Care,SOON.SW,Sonova
+Switzerland,Health Care,STMN.SW,Straumann
+Switzerland,Health Care,ALC,Alcon
+Switzerland,Health Care,GALD.SW,Galderma Group
+Switzerland,Health Care,LONN.SW,Lonza
+Switzerland,Health Care,SDZ.SW,Sandoz Group
+Switzerland,Industrials,BEAN.SW,BELIMO Holding
+Switzerland,Industrials,SCHN.SW,Schindler Group
+Switzerland,Industrials,ACLN.SW,Accelleron Industries
+Switzerland,Industrials,GEBN.SW,Geberit
+Switzerland,Materials,EMSN.SW,Ems-Chemie
+Switzerland,Materials,DSFIR.AS,DSM-Firmenich
+Switzerland,Materials,GIVN.SW,Givaudan
+Switzerland,Materials,SIKA.SW,Sika
+Taiwan,Financials,2887.TW,Taishin Financial Holdings
+Taiwan,Financials,2883.TW,KGI Financial Holding
+Taiwan,Financials,2881.TW,Fubon Financial
+Taiwan,Financials,2890.TW,Sinopac Financial Holdings
+Taiwan,Financials,2884.TW,E.SUN Bank
+Taiwan,Financials,2885.TW,Yuanta Financial Holding
+Taiwan,Information Technology,3443.TW,Global Unichip Corp.
+Taiwan,Information Technology,2408.TW,Nanya Technology
+Taiwan,Information Technology,3008.TW,Largan Precision
+Taiwan,Information Technology,2395.TW,Advantech
+Taiwan,Information Technology,2454.TW,MediaTek
+Taiwan,Information Technology,3481.TW,Innolux
+Taiwan,Information Technology,2357.TW,ASUS
+Taiwan,Information Technology,3034.TW,Novatek Microelectronics
+Indonesia,Communication Services,ISAT.JK,Indosat
+Indonesia,Communication Services,TLK,Telkom Indonesia
+Indonesia,Communication Services,DNET.JK,Indoritel
+Indonesia,Communication Services,EMTK.JK,Elang Mahkota Teknologi
+Indonesia,Consumer Staples,GGRM.JK,Gudang Garam
+Indonesia,Consumer Staples,UNVR.JK,Unilever Indonesia
+Indonesia,Consumer Staples,AALI.JK,Astra Agro Lestari
+Indonesia,Consumer Staples,INDF.JK,Indofood
+Indonesia,Consumer Staples,HMSP.JK,Sampoerna
+Indonesia,Consumer Staples,ICBP.JK,Indofood CBP
+Indonesia,Financials,BDMN.JK,Bank Danamon
+Indonesia,Financials,BBRI.JK,Bank Rakyat Indonesia
+Indonesia,Financials,BMRI.JK,Bank Mandiri
+Indonesia,Financials,BBNI.JK,Bank Negara Indonesia
+Singapore,Financials,SWICH.AS,SWI Capital Holding
+Singapore,Financials,O39.SI,OCBC Bank
+Singapore,Financials,D05.SI,DBS Group
+Singapore,Financials,U11.SI,UOB
+Singapore,Financials,S68.SI,Singapore Exchange
+Singapore,Financials,P15.SI,Pacific Century Regional Developments
+Singapore,Industrials,NS8U.SI,Hutchison Port Holdings Trust
+Singapore,Industrials,C6L.SI,Singapore Airlines
+Singapore,Industrials,S58.SI,SATS
+Singapore,Industrials,BN4.SI,Keppel
+Singapore,Real Estate,K71U.SI,Keppel REIT
+Singapore,Real Estate,C38U.SI,CapitaLand Integrated Commercial Trust
+Singapore,Real Estate,BUOU.SI,Frasers Logistics & Commercial Trust
+Singapore,Real Estate,A17U.SI,CapitaLand Ascendas REIT
