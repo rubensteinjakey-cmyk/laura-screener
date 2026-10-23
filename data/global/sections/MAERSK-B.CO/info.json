@@ -1,0 +1,37 @@
+{
+  "ticker": "MAERSK-B.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "Nasdaq Copenhagen company announcements",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/aa5bc3ccc5e259aa01dbe8bff4f0995b1",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 10415,
+    "Annual report: keyword paragraphs from the rest": 10534
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter from the Chair and the CEO (pages 3-3)",
+    "Sustainability summary (pages 5-5)",
+    "Strategy (pages 8-8)",
+    "Business model (pages 9-10)",
+    "Financial guidance and ESG targets (pages 24-24)",
+    "Segment overview (pages 25-25)",
+    "Social information (pages 85-97)"
+  ],
+  "chapters_skipped": [
+    "Appendix",
+    "Consolidated financial statements",
+    "Financial review",
+    "Independent Auditor’s Reports",
+    "Independent Auditor’s limited assurance",
+    "Parent company financial statements",
+    "Remuneration",
+    "Risk management",
+    "Shareholder information"
+  ],
+  "words_sent": 20969
+}

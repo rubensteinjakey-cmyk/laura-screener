@@ -1,0 +1,30 @@
+{
+  "ticker": "DJUR.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "Nasdaq Copenhagen company announcements",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/a610db5d4df88710ac547817939aacd8f",
+  "english": false,
+  "sections": {
+    "Annual report: selected chapters": 5520,
+    "Annual report: keyword paragraphs from the rest": 4664
+  },
+  "notes": [
+    "non-English source"
+  ],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Forretningsmodel og strategi (pages 6-14)",
+    "ESG hoved- og nøgletal (pages 29-29)"
+  ],
+  "chapters_skipped": [
+    "Note 32 Finansielle risici og risikostyring",
+    "Note 34 Renterisiko",
+    "Note 35 Kreditrisiko",
+    "Note 38 Følsomhed over for hver type af markedsrisiko",
+    "Risikoforhold og risikostyring"
+  ],
+  "words_sent": 10204
+}

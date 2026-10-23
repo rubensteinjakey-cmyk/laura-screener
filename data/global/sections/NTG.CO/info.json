@@ -1,0 +1,49 @@
+{
+  "ticker": "NTG.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "Nasdaq Copenhagen company announcements",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/a35279cd1e1c3779db793f83af61e92e8",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 15916,
+    "Annual report: keyword paragraphs from the rest": 2642
+  },
+  "notes": [],
+  "people_words": 5772,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "Letter to our stakeholders (pages 4-8)",
+    "NTG at a glance (pages 6-6)",
+    "Financial highlights (pages 7-7)",
+    "Five-year financial overview (pages 8-8)",
+    "Strategy and targets (pages 9-16)",
+    "Route ’27 strategy (pages 11-13)",
+    "Quarterly financial overview (pages 25-25)",
+    "Sustainability highlights 2025 (pages 40-42)",
+    "Strategy and business model (pages 44-48)",
+    "Sustainability governance (pages 51-53)",
+    "Social information (pages 76-89)",
+    "Own workforce (pages 77-87)"
+  ],
+  "chapters_skipped": [
+    "6.\tCapital and financial risks",
+    "6.4\tFinancial risks",
+    "8.1\tRemuneration of the Executive Management and the Board of Directors",
+    "8.4\tFees to auditors appointed at the Annual General Meeting",
+    "Balance sheet",
+    "Cash flow statement",
+    "Consolidated financial statements",
+    "Financial review",
+    "Income statement",
+    "Independent auditor’s limited assurance report on the sustainability statement",
+    "Independent auditor’s reports",
+    "Parent company financial statements",
+    "Risk management",
+    "Shareholder information",
+    "Statement of changes in equity",
+    "Statement of comprehensive income"
+  ],
+  "words_sent": 18578
+}

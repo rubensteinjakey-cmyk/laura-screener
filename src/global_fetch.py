@@ -159,6 +159,8 @@ def report_year(url, reader):
 def download_pdf(url, cfg):
     if url.startswith("https://doc.twse.com.tw/pdf/"):
         return exchange_filings.mops_download(url)  # MOPS: rate-limited
+    if url.endswith(exchange_filings.ESEF_MARK):
+        return exchange_filings.esef_pdf(url)  # official ESEF filing, printed to PDF
     r = http_get(url, cfg, timeout=180, stream=True)
     r.raise_for_status()
     data = b""

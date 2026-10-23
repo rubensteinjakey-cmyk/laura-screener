@@ -4,7 +4,10 @@ The copies companies are required to file with their stock exchange count the
 same as the company's own website (like EDGAR in the US):
 
   Denmark      Nasdaq Copenhagen company announcements (Nasdaq's news API;
-               the "Annual Financial Report" announcements and their PDFs)
+               the "Annual Financial Report" announcements and their PDFs).
+               If no annual-report PDF is attached, the official ESEF filing
+               (a zip holding the annual report as XHTML) is printed to PDF
+               with the pre-installed Chromium, e.g. D/S Norden.
   Switzerland  SIX Swiss Exchange. SIX keeps no archive of issuers' annual
                reports to download, so this is logged; a Swiss company that
                also lists on SGX (e.g. Lonza) is looked up there.
@@ -20,8 +23,14 @@ company name and the Copenhagen market (Nasdaq). Which site was used is
 logged in meta.json (source_site) and in results_global.csv.
 """
 
+import io
+import os
 import re
+import subprocess
+import tempfile
 import time
+import zipfile
+from pathlib import Path
 from datetime import date
 from urllib.parse import quote, unquote, urljoin
 
@@ -110,6 +119,19 @@ def nasdaq(company, tokens, log_lines):
                             "english": it.get("language") == "en",
                             "exchange_name": it.get("company", "")})
     out.sort(key=lambda c: not c["english"])  # English announcement first
+    esef = []
+    for it in items:
+        if str(it.get("published", ""))[:4] < "2026":
+            continue
+        for a in it.get("attachment") or []:
+            name = str(a.get("fileName", ""))
+            if re.search(r"20\d\d-\d\d-\d\d-[a-z]{2}\.zip$", name, re.I):
+                esef.append({"url": a.get("attachmentUrl", "") + ESEF_MARK,
+                             "page": it.get("messageUrl", page),
+                             "title": f"{it.get('company')}: ESEF annual report ({name})",
+                             "english": name.lower().endswith("-en.zip"),
+                             "exchange_name": it.get("company", "")})
+    esef.sort(key=lambda c: not c["english"])
     seen, uniq = set(), []
     for c in out:  # the same report attached twice under two names
         key = re.sub(r"[_\s-]*\d{8}", "", c["title"].lower())
@@ -117,8 +139,33 @@ def nasdaq(company, tokens, log_lines):
             seen.add(key)
             uniq.append(c)
     log_lines.append(f"Nasdaq Copenhagen ({items[0].get('company')}): "
-                     f"{len(uniq)} annual-report PDF(s) from 2026")
-    return uniq[:3], page
+                     f"{len(uniq)} annual-report PDF(s) from 2026"
+                     + (f", ESEF filing {esef[0]['title']} as a last resort" if esef else ""))
+    return uniq[:3] + esef[:1], page
+
+
+ESEF_MARK = "#esef"
+CHROMIUM = os.environ.get("CHROMIUM", "/opt/pw-browsers/chromium")
+
+
+def esef_pdf(url):
+    """The official ESEF filing (zip with the annual report as XHTML),
+    printed to PDF so it goes through the same checks and extraction."""
+    r = _get(url.replace(ESEF_MARK, ""), timeout=300)
+    r.raise_for_status()
+    with tempfile.TemporaryDirectory() as tmp:
+        zipfile.ZipFile(io.BytesIO(r.content)).extractall(tmp)
+        pages = sorted(Path(tmp).rglob("*.xhtml")) + sorted(Path(tmp).rglob("*.html"))
+        if not pages:
+            raise ValueError("ESEF zip has no XHTML report")
+        report = max(pages, key=lambda p: p.stat().st_size)
+        out = Path(tmp) / "report.pdf"
+        subprocess.run([CHROMIUM, "--headless", "--no-sandbox", "--disable-gpu",
+                        "--no-pdf-header-footer", f"--print-to-pdf={out}",
+                        report.as_uri()], capture_output=True, timeout=600)
+        if not out.exists():
+            raise ValueError("couldn't print the ESEF report to PDF")
+        return out.read_bytes()
 
 
 # -------------------------------------------------------------------- MOPS

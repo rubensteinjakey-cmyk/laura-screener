@@ -1,0 +1,34 @@
+{
+  "ticker": "ALSYDB.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "Nasdaq Copenhagen company announcements",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/a636006377807c5474acd3b1ab00500e5",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 9345,
+    "Annual report: keyword paragraphs from the rest": 5851
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Group Financial Highlights (pages 8-8)",
+    "Sustainability Reporting – contents (pages 38-38)",
+    "S – Social Information (pages 57-64)",
+    "Appendices – Sustainability Reporting (pages 69-75)",
+    "Sustainability Statement (pages 190-192)"
+  ],
+  "chapters_skipped": [
+    "Auditors’ Report",
+    "Balance Sheet",
+    "Cash Flow Statement",
+    "Financial Statements – contents",
+    "Income Statement",
+    "Risk Management and Internal Controls – Financial Reporting",
+    "Statement of Changes in Equity",
+    "Statement of Comprehensive Income"
+  ],
+  "words_sent": 15216
+}
