@@ -1,0 +1,62 @@
+{
+  "ticker": "GMAB",
+  "company_name": "Genmab",
+  "country": "Denmark",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "20-F",
+  "form": "20-F",
+  "fiscal_year": 2025,
+  "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000014/gmab-20251231_d2.htm",
+  "english": true,
+  "words_sent": 24493,
+  "prompt_chars": 187698,
+  "approx_prompt_tokens": 46924,
+  "scored_at": "2026-10-23T04:04:51",
+  "ai": {
+    "evidence": [],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description fully covers an antibody drug developer, and 'create' refers only to scientific antibody creation and 'licensing' to patent and technology licensing (both traps), so there is no creative activity."
+      },
+      "community": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 2: the only workforce discussion (Item 6.D Employees) is under about 150 words and covers headcount and confidentiality agreements, with no training, education or community programs."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage under condition 2: the only workforce discussion (Item 6.D Employees) is under about 150 words, and headcount by country reflects international operations, which does not count."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the filing shows no service enabling founders or small businesses; technology licensing goes to large pharma partners, and 'smaller or early-stage companies' appear only as competitors (a trap)."
+      }
+    },
+    "red_flags": [],
+    "notes": "No text from Item 5 (Operating and Financial Review) was included in the source provided, so no targeted MD&A paragraphs could be read. Item 6.D Employees is about 120 words and reports headcount (3,029 employees across Denmark, the Netherlands, the US, Japan, China, Germany, France and the UK), R&D versus administrative split, and confidentiality agreements. It describes no training, inclusion or community activity. This triggers the automated sustainability-report second look for Community and Cross-cultural. The company website given in the filing is www.genmab.com. For Entrepreneurship, the company's own drug innovation was weighed against level 1, but the rubric lists 'innovation' as a trap, so the lower level (0) was chosen under the when-torn rule. Legal proceedings (Chugai patent suits; AbbVie trade-secret claims) are intellectual-property matters and not rights findings. Discontinued program: acasunlimab development stopped in December 2025, which is not relevant to any theme."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\": \"GMAB\", \"sector\": \"Health Care\", \"fiscal_year\": 2025, \"sections_read\": [\"20-F Item 4: Information on the Company\", \"20-F Item 5: Operating and Financial Review (targeted paragraphs)\", \"20-F Item 6.D: Employees\"], \"evidence\": [], \"themes\": {\"creativity\": {\"score\": 0, \"coverage\": \"sufficient\", \"evidence_ids\": [], \"reason\": \"Level 0: the business description fully covers an antibody drug developer, and 'create' refers only to scientific antibody creation and 'licensing' to patent and technology licensing (both traps), so there is no creative activity.\"}, \"community\": {\"score\": 0, \"coverage\": \"insufficient\", \"evidence_ids\": [], \"reason\": \"Level 0 with insufficient coverage under condition 2: the only workforce discussion (Item 6.D Employees) is under about 150 words and covers headcount and confidentiality agreements, with no training, education or community programs.\"}, \"cross_cultural\": {\"score\": 0, \"coverage\": \"insufficient\", \"evidence_ids\": [], \"reason\": \"Level 0 with insufficient coverage under condition 2: the only workforce discussion (Item 6.D Employees) is under about 150 words, and headcount by country reflects international operations, which does not count.\"}, \"entrepreneurship\": {\"score\": 0, \"coverage\": \"sufficient\", \"evidence_ids\": [], \"reason\": \"Level 0: the filing shows no service enabling founders or small businesses; technology licensing goes to large pharma partners, and 'smaller or early-stage companies' appear only as competitors (a trap).\"}}, \"notes\": \"No text from Item 5 (Operating and Financial Review) was included in the source provided, so no targeted MD&A paragraphs could be read. Item 6.D Employees is about 120 words and reports headcount (3,029 employees across Denmark, the Netherlands, the US, Japan, China, Germany, France and the UK), R&D versus administrative split, and confidentiality agreements. It describes no training, inclusion or community activity. This triggers the automated sustainability-report second look for Community and Cross-cultural. The company website given in the filing is www.genmab.com. For Entrepreneurship, the company's own drug innovation was weighed against level 1, but the rubric lists 'innovation' as a trap, so the lower level (0) was chosen under the when-torn rule. Legal proceedings (Chugai patent suits; AbbVie trade-secret claims) are intellectual-property matters and not rights findings. Discontinued program: acasunlimab development stopped in December 2025, which is not relevant to any theme.\", \"red_flags\": []}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 62756,
+      "output_tokens": 1675,
+      "duration_ms": 18731
+    }
+  ]
+}

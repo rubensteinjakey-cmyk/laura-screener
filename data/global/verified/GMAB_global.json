@@ -1,0 +1,101 @@
+{
+  "ticker": "GMAB",
+  "company_name": "Genmab",
+  "country": "Denmark",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "20-F",
+  "form": "20-F",
+  "fiscal_year": 2025,
+  "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000014/gmab-20251231_d2.htm",
+  "english": true,
+  "words_sent": 24493,
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business description fully covers an antibody drug developer, and 'create' refers only to scientific antibody creation and 'licensing' to patent and technology licensing (both traps), so there is no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0 with insufficient coverage under condition 2: the only workforce discussion (Item 6.D Employees) is under about 150 words and covers headcount and confidentiality agreements, with no training, education or community programs.",
+      "flags": [],
+      "coverage_trigger": "ai"
+    },
+    "cross_cultural": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "insufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0 with insufficient coverage under condition 2: the only workforce discussion (Item 6.D Employees) is under about 150 words, and headcount by country reflects international operations, which does not count.",
+      "flags": [],
+      "coverage_trigger": "ai"
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the filing shows no service enabling founders or small businesses; technology licensing goes to large pharma partners, and 'smaller or early-stage companies' appear only as competitors (a trap).",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 0,
+    "cross_cultural": 0,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "insufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 0.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [],
+  "internal_note": "",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 0.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [],
+  "notes": "No text from Item 5 (Operating and Financial Review) was included in the source provided, so no targeted MD&A paragraphs could be read. Item 6.D Employees is about 120 words and reports headcount (3,029 employees across Denmark, the Netherlands, the US, Japan, China, Germany, France and the UK), R&D versus administrative split, and confidentiality agreements. It describes no training, inclusion or community activity. This triggers the automated sustainability-report second look for Community and Cross-cultural. The company website given in the filing is www.genmab.com. For Entrepreneurship, the company's own drug innovation was weighed against level 1, but the rubric lists 'innovation' as a trap, so the lower level (0) was chosen under the when-torn rule. Legal proceedings (Chugai patent suits; AbbVie trade-secret claims) are intellectual-property matters and not rights findings. Discontinued program: acasunlimab development stopped in December 2025, which is not relevant to any theme.",
+  "extract_notes": [],
+  "quote_check_status": "passed",
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no standalone report found"
+  ],
+  "people_words": 161,
+  "score_source": "20-F 2025",
+  "second_look": {
+    "status": "no standalone report found",
+    "report_url": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
+}

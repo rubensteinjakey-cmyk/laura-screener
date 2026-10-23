@@ -1,0 +1,298 @@
+{
+  "ticker": "D05.SI",
+  "company_name": "DBS Group",
+  "country": "Singapore",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.dbs.com/annualreports/2025/i/pdf/dbs-ar-2025.pdf",
+  "english": true,
+  "words_sent": 36346,
+  "prompt_chars": 266767,
+  "approx_prompt_tokens": 66691,
+  "scored_at": "2026-10-23T04:09:10",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "DBS Foundation programmes and partnerships supporting vulnerable communities across six Asian markets",
+        "quote": "In 2025, DBS Foundation’s programmes and partnerships to uplift the lives and livelihoods of vulnerable communities benefitted more than one million individuals across our six key markets in Asia.",
+        "source_doc": "filing",
+        "section": "Annual report > A driver of change for a better world > Sustaining our impact on the community",
+        "status": "current",
+        "indicators": "more than one million individuals; six key markets; 13 new multi-year programmes",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 4: very large, measured community commitment central to strategy (scorecard 'Fortify trust' area, Impact Beyond Banking pillar)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee volunteer movement (People of Purpose) supporting communities",
+        "quote": "Through our People of Purpose volunteer movement, DBS employees collectively contributed more than 300,000 hours to support communities across Asia.",
+        "source_doc": "filing",
+        "section": "Annual report > A driver of change for a better world > Sustaining our impact on the community",
+        "status": "current",
+        "indicators": "more than 300,000 hours",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: volunteering with measured hours"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "POSB Smart Buddy in-school savings and financial-habits programme run with the Ministry of Education",
+        "quote": "POSB engaged 320,000 students across 335 schools in 2025, up from 230,000 students across 253 schools in 2024.",
+        "source_doc": "filing",
+        "section": "Annual report > POSB Highlights in 2025 > POSB Smart Buddy Programme",
+        "status": "current",
+        "indicators": "320,000 students; 335 schools",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external financial-education programme with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Bank accounts set up for migrant workers and foreign domestic workers with the Ministry of Manpower",
+        "quote": "POSB remains the only bank to collaborate with the Ministry of Manpower to set up banking accounts for over 900,000 migrant workers and foreign domestic workers.",
+        "source_doc": "filing",
+        "section": "Annual report > POSB Highlights in 2025 > For seniors, special needs individuals and migrant workers",
+        "status": "current",
+        "indicators": "over 900,000 migrant workers and foreign domestic workers; 75% of Work Permit holders",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: service built for immigrant customers with substantial measured reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Migrant-worker ambassadors trained to run digital literacy workshops for fellow migrant workers",
+        "quote": "To enhance our engagement, we partnered with the Migrant Workers’ Centre and Centre for Domestic Employees to train more than 450 migrant and foreign domestic workers to serve as ambassadors assisting in conducting digital literacy workshops for more than 9,000 migrant workers.",
+        "source_doc": "filing",
+        "section": "Annual report > POSB Highlights in 2025 > For seniors, special needs individuals and migrant workers",
+        "status": "current",
+        "indicators": "more than 450 migrant and foreign domestic workers; more than 9,000 migrant workers",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: external digital-literacy education with participant numbers"
+          },
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: program for immigrant communities with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Regular financial literacy workshops for children and people with special needs, with SPED schools and social service agencies",
+        "quote": "We partnered community partners, SPED schools and social service agencies to organise regular financial literacy workshops for kids and those with special needs.",
+        "source_doc": "filing",
+        "section": "Annual report > POSB Highlights in 2025 > For seniors, special needs individuals and migrant workers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education, reach not quantified"
+          },
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: access program for people with disabilities, no figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "POSB PAssion Run for Kids charity race raising funds for children's programmes",
+        "quote": "The event raised some SGD 1.15 million for the POSB PAssion Kids Fund this year.",
+        "source_doc": "filing",
+        "section": "Annual report > POSB Highlights in 2025 > POSB PAssion Run for Kids",
+        "status": "current",
+        "indicators": "SGD 1.15 million; SGD 15.5 million; 1.3 million children; 290 programmes",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named community fundraising programme with dollars and beneficiaries"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "DBS Foundation contribution to IMDA's Digital for Life digital-inclusion movement",
+        "quote": "Through a renewed DBS Foundation collaboration with the Infocomm Media Development Authority (IMDA) which started in 2025, we contributed SGD 3 million, which includes the government’s dollar-for-dollar matching, to the Digital for Life movement.",
+        "source_doc": "filing",
+        "section": "Annual report > POSB Highlights in 2025 > Neighbours first, bankers second",
+        "status": "current",
+        "indicators": "SGD 3 million",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named partnership with dollars committed"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Impact Beyond Award grants to impact businesses tackling ageing needs",
+        "quote": "We awarded SGD 3 million to four winners of our inaugural Impact Beyond Award to scale their solutions.",
+        "source_doc": "filing",
+        "section": "Annual report > A driver of change for a better world > Redefining narratives around ageing in Asia",
+        "status": "current",
+        "indicators": "SGD 3 million; four winners",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: named grant programme helping impact businesses scale, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "ESG Ready Programme helping SMEs build sustainability capabilities, expanded to Taiwan",
+        "quote": "In addition, the ESG Ready Programme, which was earlier launched in partnership with Enterprise Singapore, garnered international recognition from the OECD as an exemplary use case.",
+        "source_doc": "filing",
+        "section": "Annual report > Our 2025 priorities > Fortify trust",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific advisory programme for SMEs, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Employee learning platform and courses",
+        "quote": "Collectively, about 1.3 million training modules were completed in 2025.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate governance > Compensation and Management Development Committee",
+        "status": "current",
+        "indicators": "1.3 million training modules; 10,000 curated courses",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "AI upskilling and reskilling of employees",
+        "quote": "Beyond equipping all employees with new skills to use AI confidently and responsibly, we identified over 11,000 employees for deeper upskilling or reskilling in roles significantly transformed by AI.",
+        "source_doc": "filing",
+        "section": "Annual report > A driver of change for a better world > Futureproofing our employees for the AI era",
+        "status": "current",
+        "indicators": "over 11,000 employees",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Design thinking used for front-end applications",
+        "quote": "We have also embraced design thinking to deliver customer-centric front-end applications.",
+        "source_doc": "filing",
+        "section": "Annual report > Who we are / Culture of innovation, nimbleness and agility",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: design used as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "Board Diversity Policy with female representation target",
+        "quote": "With the appointment of Ms Tan Su Shan to the Board in 2025, the Board achieved the 30% female representation target ahead of the 2030 timeline.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate governance > Board diversity",
+        "status": "current",
+        "indicators": "30%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: board demographic target only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E13"
+        ],
+        "reason": "Level 1: the bank shows no creating or enabling of creative work; design is used only as a routine business input."
+      },
+      "community": {
+        "score": 4,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E5",
+          "E7",
+          "E8",
+          "E11"
+        ],
+        "reason": "Level 4: very large, measured external community commitment (DBS Foundation reaching over one million people, 300,000 volunteer hours, 320,000 students in financial education) that sits in the bank's strategic scorecard."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 3: specific customer-access programmes for migrant workers with substantial measured reach (over 900,000 accounts, 9,000 workshop participants), not shown as a major business line."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 2: specific enabling programmes (Impact Beyond Award grants to four businesses, ESG Ready Programme) with limited reach; SME lending and deposits count only as serving."
+      }
+    },
+    "red_flags": [],
+    "notes": "The 'My Home, My Singapore' card game for seniors (DBS Foundation and SUSS partnership) was a health-oriented community activity and was not counted as creative work. The Garena co-branded gaming card and directors' outside arts roles (LaSalle, University of the Arts) are not company creative activities. SGD 500 million in unsecured MSME loans, SME banking, India Priority Sector Lending and SecureFX/GlobeSend tools were treated as serving small businesses, not enabling them. The 26 Businesses for Impact catalysed and the SGD 160 million committed since 2024 (part of up to SGD 1 billion over 10 years) support E1 and E9 but were not separately recorded to avoid double counting. People of Purpose literacy outreach to more than 100,000 people overlaps with E2. Group Audit carried out a 'Special Review of DBS Foundation as requested by the Board'; no findings are disclosed. Some source quotes contain line breaks or double spaces that were normalized to single spaces."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"D05.SI\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"DBS Foundation programmes and partnerships supporting vulnerable communities across six Asian markets\",\"quote\":\"In 2025, DBS Foundation’s programmes and partnerships to uplift the lives and livelihoods of vulnerable communities benefitted more than one million individuals across our six key markets in Asia.\",\"source_doc\":\"filing\",\"section\":\"Annual report > A driver of change for a better world > Sustaining our impact on the community\",\"status\":\"current\",\"indicators\":\"more than one million individuals; six key markets; 13 new multi-year programmes\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 4: very large, measured community commitment central to strategy (scorecard 'Fortify trust' area, Impact Beyond Banking pillar)\"}}},{\"id\":\"E2\",\"activity\":\"Employee volunteer movement (People of Purpose) supporting communities\",\"quote\":\"Through our People of Purpose volunteer movement, DBS employees collectively contributed more than 300,000 hours to support communities across Asia.\",\"source_doc\":\"filing\",\"section\":\"Annual report > A driver of change for a better world > Sustaining our impact on the community\",\"status\":\"current\",\"indicators\":\"more than 300,000 hours\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: volunteering with measured hours\"}}},{\"id\":\"E3\",\"activity\":\"POSB Smart Buddy in-school savings and financial-habits programme run with the Ministry of Education\",\"quote\":\"POSB engaged 320,000 students across 335 schools in 2025, up from 230,000 students across 253 schools in 2024.\",\"source_doc\":\"filing\",\"section\":\"Annual report > POSB Highlights in 2025 > POSB Smart Buddy Programme\",\"status\":\"current\",\"indicators\":\"320,000 students; 335 schools\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external financial-education programme with participant numbers\"}}},{\"id\":\"E4\",\"activity\":\"Bank accounts set up for migrant workers and foreign domestic workers with the Ministry of Manpower\",\"quote\":\"POSB remains the only bank to collaborate with the Ministry of Manpower to set up banking accounts for over 900,000 migrant workers and foreign domestic workers.\",\"source_doc\":\"filing\",\"section\":\"Annual report > POSB Highlights in 2025 > For seniors, special needs individuals and migrant workers\",\"status\":\"current\",\"indicators\":\"over 900,000 migrant workers and foreign domestic workers; 75% of Work Permit holders\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: service built for immigrant customers with substantial measured reach\"}}},{\"id\":\"E5\",\"activity\":\"Migrant-worker ambassadors trained to run digital literacy workshops for fellow migrant workers\",\"quote\":\"To enhance our engagement, we partnered with the Migrant Workers’ Centre and Centre for Domestic Employees to train more than 450 migrant and foreign domestic workers to serve as ambassadors assisting in conducting digital literacy workshops for more than 9,000 migrant workers.\",\"source_doc\":\"filing\",\"section\":\"Annual report > POSB Highlights in 2025 > For seniors, special needs individuals and migrant workers\",\"status\":\"current\",\"indicators\":\"more than 450 migrant and foreign domestic workers; more than 9,000 migrant workers\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: external digital-literacy education with participant numbers\"},\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: program for immigrant communities with participant numbers\"}}},{\"id\":\"E6\",\"activity\":\"Regular financial literacy workshops for children and people with special needs, with SPED schools and social service agencies\",\"quote\":\"We partnered community partners, SPED schools and social service agencies to organise regular financial literacy workshops for kids and those with special needs.\",\"source_doc\":\"filing\",\"section\":\"Annual report > POSB Highlights in 2025 > For seniors, special needs individuals and migrant workers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education, reach not quantified\"},\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: access program for people with disabilities, no figures\"}}},{\"id\":\"E7\",\"activity\":\"POSB PAssion Run for Kids charity race raising funds for children's programmes\",\"quote\":\"The event raised some SGD 1.15 million for the POSB PAssion Kids Fund this year.\",\"source_doc\":\"filing\",\"section\":\"Annual report > POSB Highlights in 2025 > POSB PAssion Run for Kids\",\"status\":\"current\",\"indicators\":\"SGD 1.15 million; SGD 15.5 million; 1.3 million children; 290 programmes\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named community fundraising programme with dollars and beneficiaries\"}}},{\"id\":\"E8\",\"activity\":\"DBS Foundation contribution to IMDA's Digital for Life digital-inclusion movement\",\"quote\":\"Through a renewed DBS Foundation collaboration with the Infocomm Media Development Authority (IMDA) which started in 2025, we contributed SGD 3 million, which includes the government’s dollar-for-dollar matching, to the Digital for Life movement.\",\"source_doc\":\"filing\",\"section\":\"Annual report > POSB Highlights in 2025 > Neighbours first, bankers second\",\"status\":\"current\",\"indicators\":\"SGD 3 million\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named partnership with dollars committed\"}}},{\"id\":\"E9\",\"activity\":\"Impact Beyond Award grants to impact businesses tackling ageing needs\",\"quote\":\"We awarded SGD 3 million to four winners of our inaugural Impact Beyond Award to scale their solutions.\",\"source_doc\":\"filing\",\"section\":\"Annual report > A driver of change for a better world > Redefining narratives around ageing in Asia\",\"status\":\"current\",\"indicators\":\"SGD 3 million; four winners\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: named grant programme helping impact businesses scale, limited reach\"}}},{\"id\":\"E10\",\"activity\":\"ESG Ready Programme helping SMEs build sustainability capabilities, expanded to Taiwan\",\"quote\":\"In addition, the ESG Ready Programme, which was earlier launched in partnership with Enterprise Singapore, garnered international recognition from the OECD as an exemplary use case.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our 2025 priorities > Fortify trust\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific advisory programme for SMEs, reach not quantified\"}}},{\"id\":\"E11\",\"activity\":\"Employee learning platform and courses\",\"quote\":\"Collectively, about 1.3 million training modules were completed in 2025.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate governance > Compensation and Management Development Committee\",\"status\":\"current\",\"indicators\":\"1.3 million training modules; 10,000 curated courses\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E12\",\"activity\":\"AI upskilling and reskilling of employees\",\"quote\":\"Beyond equipping all employees with new skills to use AI confidently and responsibly, we identified over 11,000 employees for deeper upskilling or reskilling in roles significantly transformed by AI.\",\"source_doc\":\"filing\",\"section\":\"Annual report > A driver of change for a better world > Futureproofing our employees for the AI era\",\"status\":\"current\",\"indicators\":\"over 11,000 employees\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E13\",\"activity\":\"Design thinking used for front-end applications\",\"quote\":\"We have also embraced design thinking to deliver customer-centric front-end applications.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Who we are / Culture of innovation, nimbleness and agility\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: design used as a routine business input\"}}},{\"id\":\"E14\",\"activity\":\"Board Diversity Policy with female representation target\",\"quote\":\"With the appointment of Ms Tan Su Shan to the Board in 2025, the Board achieved the 30% female representation target ahead of the 2030 timeline.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate governance > Board diversity\",\"status\":\"current\",\"indicators\":\"30%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: board demographic target only\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E13\"],\"reason\":\"Level 1: the bank shows no creating or enabling of creative work; design is used only as a routine business input.\"},\"community\":{\"score\":4,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E5\",\"E7\",\"E8\",\"E11\"],\"reason\":\"Level 4: very large, measured external community commitment (DBS Foundation reaching over one million people, 300,000 volunteer hours, 320,000 students in financial education) that sits in the bank's strategic scorecard.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 3: specific customer-access programmes for migrant workers with substantial measured reach (over 900,000 accounts, 9,000 workshop participants), not shown as a major business line.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E9\",\"E10\"],\"reason\":\"Level 2: specific enabling programmes (Impact Beyond Award grants to four businesses, ESG Ready Programme) with limited reach; SME lending and deposits count only as serving.\"}},\"notes\":\"The 'My Home, My Singapore' card game for seniors (DBS Foundation and SUSS partnership) was a health-oriented community activity and was not counted as creative work. The Garena co-branded gaming card and directors' outside arts roles (LaSalle, University of the Arts) are not company creative activities. SGD 500 million in unsecured MSME loans, SME banking, India Priority Sector Lending and SecureFX/GlobeSend tools were treated as serving small businesses, not enabling them. The 26 Businesses for Impact catalysed and the SGD 160 million committed since 2024 (part of up to SGD 1 billion over 10 years) support E1 and E9 but were not separately recorded to avoid double counting. People of Purpose literacy outreach to more than 100,000 people overlaps with E2. Group Audit carried out a 'Special Review of DBS Foundation as requested by the Board'; no findings are disclosed. Some source quotes contain line breaks or double spaces that were normalized to single spaces.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 97741,
+      "output_tokens": 11249,
+      "duration_ms": 95733
+    }
+  ]
+}
