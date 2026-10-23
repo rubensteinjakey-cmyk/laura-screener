@@ -1,0 +1,33 @@
+{
+  "ticker": "2883.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "MOPS",
+  "fiscal_year": 2025,
+  "url": "https://doc.twse.com.tw/pdf/2025_2883_20260612FE4_20261024_002419.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 8801,
+    "Annual report: keyword paragraphs from the rest": 18651
+  },
+  "notes": [],
+  "people_words": 1972,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "LETTER TO SHAREHOLDERS (pages 7-15)",
+    "Information of retire chairmen and presidents rehired as consultants (pages 32-32)",
+    "and Vice Presidents (pages 40-41)",
+    "CAPITAL OVERVIEW (pages 152-152)",
+    "Issuance of Employee Stock Options (ESO) (pages 162-162)",
+    "Employee Stock Options (pages 162-162)",
+    "Issuance of New Restricted Employee Shares (pages 163-165)"
+  ],
+  "chapters_skipped": [
+    "Employee Remuneration",
+    "Employees’ compensation and directors’ remuneration",
+    "Remuneration of Directors",
+    "Remuneration of Directors, Supervisors, President, Vice President and Consultant",
+    "Remuneration of the President and Vice President"
+  ],
+  "words_sent": 27472
+}

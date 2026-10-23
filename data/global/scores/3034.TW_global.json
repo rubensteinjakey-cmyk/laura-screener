@@ -1,0 +1,226 @@
+{
+  "ticker": "3034.TW",
+  "company_name": "Novatek Microelectronics",
+  "country": "Taiwan",
+  "sector": "Information Technology",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.novatek.com.tw/upload/website/_2025 Annual Report_e_26050614_856.pdf",
+  "english": true,
+  "words_sent": 20252,
+  "prompt_chars": 165074,
+  "approx_prompt_tokens": 41268,
+  "scored_at": "2026-10-23T17:05:14",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Corporate funding of local culture and performing arts, such as documentary production and hospital performances",
+        "quote": "In 2025, we invested a total of NT$3.05 million to actively support local culture and performing arts",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Corporate governance evaluation: improvement items (item 9)",
+        "status": "current",
+        "indicators": "NT$3.05 million",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current arts sponsorship, limited in scale"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Novatek Educational Foundation scholarships for science education and talent development",
+        "quote": "Promoted the cultivation of scientific education and talent development by offering scholarships totaling NT$5.31 million throughout the year.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation",
+        "status": "current",
+        "indicators": "NT$5.31 million",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external scholarship program with dollars disclosed"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Funded reading programs for rural elementary school students in Yunlin and Hualien",
+        "quote": "Promoted reading programs for students at elementary schools in rural areas of Yunlin and Hualien, with a total amount NT$2.56 million.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation",
+        "status": "current",
+        "indicators": "NT$2.56 million",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: external education program for disadvantaged students with dollars disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Paid corporate volunteer leave program with organized volunteer service sessions",
+        "quote": "Continued implementation of paid corporate volunteer leave and organized 22 sessions of corporate volunteer service throughout the year, contributing a total of 4,536 volunteer service hours.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation",
+        "status": "current",
+        "indicators": "22 sessions, 4,536 volunteer service hours",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: volunteering with numbers"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee-funded Novatek Social Caring Fund for charitable causes",
+        "quote": "Raised over NT$13.17 million for the “Novatek Social Caring Fund,” with a donation participation rate of 44.2%.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation",
+        "status": "current",
+        "indicators": "NT$13.17 million, 44.2%",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named community fund with dollars disclosed"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Industry mentor courses delivered with schools on semiconductor talent",
+        "quote": "Collaborated with 3 schools to promote industry mentor courses with 6 sessions on semiconductor talent cultivation and exchange.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > Friendly Workplace",
+        "status": "current",
+        "indicators": "3 schools, 6 sessions",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education partnership, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Company-wide professional development training for employees",
+        "quote": "In 2025, a total of 92 professional development courses were delivered worldwide (including 50 online courses).",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > Talent training and development",
+        "status": "current",
+        "indicators": "92 professional development courses, 50 online courses",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Foundation program supporting science education for girls at Hsinchu Girls' High School",
+        "quote": "Since 2024, the Foundation has been promoting the development of science education at Hsinchu Girls’ High School to foster female talent in science and technology on an ongoing basis.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > (7) Novatek Educational Foundation",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education program, no figures"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Employee volunteers give one-on-one companionship and activities to visually impaired students",
+        "quote": "Novatek volunteers provide one-on-one companionship to visually impaired students at Taichung School for the Visually Impaired, Taichung Huei-Ming School for Blind Children, and in the Changhua area, conducting local cultural exploration and food education activities.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Sustainable development implementation > (7) Novatek Educational Foundation",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific current program for people with disabilities, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Recurring gender-equality training for new hires and all employees",
+        "quote": "New personnels and all employees are scheduled annually and are regularly provided with promotional training courses related to gender-equality-friendly practices.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance > Human rights management > Discrimination and harassment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal inclusion practice, no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: a specific current arts and culture sponsorship of NT$3.05 million that is limited in scale, while the core business (display driver ICs and SoCs) is not creative."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 3: external education and community investment with substantial measured reach, including NT$5.31 million in scholarships, NT$2.56 million for rural reading programs, 4,536 volunteer hours and NT$13.17 million raised for the Social Caring Fund, though none of it is central to strategy."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 2: specific current activities with limited reach and no reach figures, namely volunteer support for visually impaired students and gender-equality training, beyond demographic disclosures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the filing shows only the company's own innovation and R&D, rests on general language, and has no specific program enabling founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "The Shareholder Letter also cites sponsorship of the documentary Beyond Beauty: Taiwan from Above III, Dr. Rednose hospital performances and visual storytelling camps for rural students; these are treated as part of the E1 cultural investment and not counted twice. The 2026 targets (cultural investment exceeding NTD 3 million, scholarships exceeding NT$4.8 million, 18 volunteer sessions) are planned and were not scored. Board gender balance (4 of 8 directors female) and the 18.90% female workforce are demographics only. Purchasing from local small farmers, sheltered workshops and social-innovation enterprises (procurement awards) was not counted as enabling entrepreneurship. Two items were noted but not scored separately: support for the employment of people with disabilities and gender-friendly areas, described only in a long list sentence. A director's outside roles at TEN Incubation and TEN Angel Investment are not company activities."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"3034.TW\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Corporate funding of local culture and performing arts, such as documentary production and hospital performances\",\"quote\":\"In 2025, we invested a total of NT$3.05 million to actively support local culture and performing arts\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Corporate governance evaluation: improvement items (item 9)\",\"status\":\"current\",\"indicators\":\"NT$3.05 million\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current arts sponsorship, limited in scale\"}}},{\"id\":\"E2\",\"activity\":\"Novatek Educational Foundation scholarships for science education and talent development\",\"quote\":\"Promoted the cultivation of scientific education and talent development by offering scholarships totaling NT$5.31 million throughout the year.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation\",\"status\":\"current\",\"indicators\":\"NT$5.31 million\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external scholarship program with dollars disclosed\"}}},{\"id\":\"E3\",\"activity\":\"Funded reading programs for rural elementary school students in Yunlin and Hualien\",\"quote\":\"Promoted reading programs for students at elementary schools in rural areas of Yunlin and Hualien, with a total amount NT$2.56 million.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation\",\"status\":\"current\",\"indicators\":\"NT$2.56 million\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: external education program for disadvantaged students with dollars disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Paid corporate volunteer leave program with organized volunteer service sessions\",\"quote\":\"Continued implementation of paid corporate volunteer leave and organized 22 sessions of corporate volunteer service throughout the year, contributing a total of 4,536 volunteer service hours.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation\",\"status\":\"current\",\"indicators\":\"22 sessions, 4,536 volunteer service hours\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: volunteering with numbers\"}}},{\"id\":\"E5\",\"activity\":\"Employee-funded Novatek Social Caring Fund for charitable causes\",\"quote\":\"Raised over NT$13.17 million for the “Novatek Social Caring Fund,” with a donation participation rate of 44.2%.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > Social Participation\",\"status\":\"current\",\"indicators\":\"NT$13.17 million, 44.2%\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named community fund with dollars disclosed\"}}},{\"id\":\"E6\",\"activity\":\"Industry mentor courses delivered with schools on semiconductor talent\",\"quote\":\"Collaborated with 3 schools to promote industry mentor courses with 6 sessions on semiconductor talent cultivation and exchange.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > Friendly Workplace\",\"status\":\"current\",\"indicators\":\"3 schools, 6 sessions\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education partnership, limited reach\"}}},{\"id\":\"E7\",\"activity\":\"Company-wide professional development training for employees\",\"quote\":\"In 2025, a total of 92 professional development courses were delivered worldwide (including 50 online courses).\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > Talent training and development\",\"status\":\"current\",\"indicators\":\"92 professional development courses, 50 online courses\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E8\",\"activity\":\"Foundation program supporting science education for girls at Hsinchu Girls' High School\",\"quote\":\"Since 2024, the Foundation has been promoting the development of science education at Hsinchu Girls’ High School to foster female talent in science and technology on an ongoing basis.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > (7) Novatek Educational Foundation\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education program, no figures\"}}},{\"id\":\"E9\",\"activity\":\"Employee volunteers give one-on-one companionship and activities to visually impaired students\",\"quote\":\"Novatek volunteers provide one-on-one companionship to visually impaired students at Taichung School for the Visually Impaired, Taichung Huei-Ming School for Blind Children, and in the Changhua area, conducting local cultural exploration and food education activities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Sustainable development implementation > (7) Novatek Educational Foundation\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 2: specific current program for people with disabilities, no reach figures\"}}},{\"id\":\"E10\",\"activity\":\"Recurring gender-equality training for new hires and all employees\",\"quote\":\"New personnels and all employees are scheduled annually and are regularly provided with promotional training courses related to gender-equality-friendly practices.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance > Human rights management > Discrimination and harassment\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific internal inclusion practice, no figures\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: a specific current arts and culture sponsorship of NT$3.05 million that is limited in scale, while the core business (display driver ICs and SoCs) is not creative.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\"],\"reason\":\"Level 3: external education and community investment with substantial measured reach, including NT$5.31 million in scholarships, NT$2.56 million for rural reading programs, 4,536 volunteer hours and NT$13.17 million raised for the Social Caring Fund, though none of it is central to strategy.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E9\",\"E10\"],\"reason\":\"Level 2: specific current activities with limited reach and no reach figures, namely volunteer support for visually impaired students and gender-equality training, beyond demographic disclosures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: the filing shows only the company's own innovation and R&D, rests on general language, and has no specific program enabling founders or small businesses.\"}},\"notes\":\"The Shareholder Letter also cites sponsorship of the documentary Beyond Beauty: Taiwan from Above III, Dr. Rednose hospital performances and visual storytelling camps for rural students; these are treated as part of the E1 cultural investment and not counted twice. The 2026 targets (cultural investment exceeding NTD 3 million, scholarships exceeding NT$4.8 million, 18 volunteer sessions) are planned and were not scored. Board gender balance (4 of 8 directors female) and the 18.90% female workforce are demographics only. Purchasing from local small farmers, sheltered workshops and social-innovation enterprises (procurement awards) was not counted as enabling entrepreneurship. Two items were noted but not scored separately: support for the employment of people with disabilities and gender-friendly areas, described only in a long list sentence. A director's outside roles at TEN Incubation and TEN Angel Investment are not company activities.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 57200,
+      "output_tokens": 7749,
+      "duration_ms": 69000
+    }
+  ]
+}

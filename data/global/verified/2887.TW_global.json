@@ -1,0 +1,595 @@
+{
+  "ticker": "2887.TW",
+  "company_name": "TS Financial Holding (formerly Taishin Financial Holdings)",
+  "country": "Taiwan",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://doc.twse.com.tw/pdf/2025_2887_20260612FE4_20261024_001741.pdf",
+  "english": true,
+  "words_sent": 23467,
+  "source_site": "MOPS",
+  "themes": {
+    "creativity": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7"
+      ],
+      "kinds": [
+        "enables"
+      ],
+      "reason": "Level 3: named, ongoing arts programs (Taishin Arts Award, concerts, exhibitions, lecture series) with disclosed figures, but not a major business line.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E8",
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E4",
+        "E6",
+        "E14",
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E8",
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E4",
+        "E6",
+        "E14",
+        "E7"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 3: external community investment and education with substantial measured reach (Power of Love NT$420 million to 2,008 NPOs, 1,200+ schools, 600 interns), not central to strategy.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E15",
+        "E16",
+        "E17",
+        "E18"
+      ],
+      "valid_evidence_ids": [
+        "E15",
+        "E16",
+        "E17",
+        "E18"
+      ],
+      "kinds": [
+        "customer_access",
+        "internal_practice"
+      ],
+      "reason": "Level 3: named accessibility program with numbers (nearly 4,000 ATMs upgraded) plus multilingual and disability-access services, not a major business line.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E20",
+        "E21",
+        "E22"
+      ],
+      "valid_evidence_ids": [
+        "E20",
+        "E21",
+        "E22"
+      ],
+      "kinds": [
+        "enabling",
+        "serving"
+      ],
+      "reason": "Level 2: venture capital financing of start-ups is a specific enabling service with no reach figures; SME lending itself counts only as serving.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 3,
+    "community": 3,
+    "cross_cultural": 3,
+    "entrepreneurship": 2
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 57.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [],
+  "internal_note": "",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 57.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Taishin Arts Award, run by the company-backed arts foundation, funds and recognises contemporary visual, performing and interdisciplinary artists",
+      "quote": "With a cumulative award prize of NT$3.5 million, the awards offer the largest sum in support of Taiwanese contemporary arts.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Arts and Culture Development > Taishin Arts Award",
+      "status": "current",
+      "indicators": "NT$3.5 million cumulative award prize; 209 judges; 359 shortlisted entries; 76 winners",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: named, ongoing arts program supporting artists with disclosed figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Friday Noon Concerts: free public concerts by invited artists at the company's headquarters",
+      "quote": "Over the past 19 years, it has successfully organized a cumulative total of 442 performances.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Arts and Culture Development > Community campaigns > Friday Noon Concerts",
+      "status": "current",
+      "indicators": "442 performances; 21 concerts",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: named, ongoing program presenting artists' work, with figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Regular art exhibitions in the TS Holdings Tower lobby, open to customers, employees and the community",
+      "quote": "Since the first exhibition in 2006, there have been 87 shows, and the venue has become a perfect gateway into arts for customers, employees, and the community.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Arts and Culture Development > Community campaigns > TS Holdings Tower Lobby Exhibitions",
+      "status": "current",
+      "indicators": "87 shows",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: ongoing exhibition program for artists with disclosed count"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "'Twelve Nights of Cross-Disciplinary Dialogue' public art lecture series with artists, curators and critics",
+      "quote": "As of December 2025, 10 lectures have been held, attracting 627 participants, with over 5,000 views of its written records and 140,000 views of its short video highlights.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Arts and Culture Development > Twelve Nights of Cross-Disciplinary Dialogue",
+      "status": "current",
+      "indicators": "10 lectures; 627 participants; over 5,000 views; 140,000 views",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 3: named arts-education program with participant numbers"
+        },
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: public education lecture series of limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "'Audible City Episode' outdoor theatre project produced with an artist troupe",
+      "quote": "The six outdoor theater performances drew a total of 1,011 attendees.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Arts and Culture Development > Art & Sustainability—2025 Audible City Episode",
+      "status": "current",
+      "indicators": "six outdoor theater performances; 1,011 attendees",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 2: specific commissioned performance project, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Free financial literacy courses designed for artists and creative teams",
+      "quote": "The courses were attended by approximately 140 art professionals to great acclaim.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Arts and Culture Development > Basic Financial Courses for Art Professionals",
+      "status": "current",
+      "indicators": "Four lectures; approximately 140 art professionals",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 2: direct support to artists, limited reach"
+        },
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: external skills program, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Employee arts courses covering art appreciation, theatre and arts films",
+      "quote": "A total of 19 employee arts courses took place in 2025.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Arts and Culture Development > Employee arts courses",
+      "status": "current",
+      "indicators": "19 employee arts courses; 1,034 employees",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 2: arts-education program for staff"
+        },
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E8",
+      "activity": "Taishin Charity Foundation 'Power of Love' public-vote grant program for non-profits",
+      "quote": "Over the past 16 years, a total of more than NT$420 million in charity funds has been used, benefiting 2,008 non-profit organizations and 6.56 million beneficiaries.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Charity and Welfare > The \"Power of Love\"",
+      "status": "current",
+      "indicators": "more than NT$420 million; 2,008 non-profit organizations; 6.56 million beneficiaries",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 3: named grant program with dollars and beneficiaries disclosed"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E9",
+      "activity": "Taishin Youth Foundation volunteer platform and annual Youth Volunteer Awards working with schools and charities",
+      "quote": "The foundation also has long-term relationships with the central government (the Ministry of Education and the Ministry of Health and Welfare) and 22 municipal governments, more than 1,200 middle schools, and close to 100 charitable organizations and local volunteering centers.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Charity and Welfare > Taishin Youth Volunteer Awards",
+      "status": "current",
+      "indicators": "1,830 youth service stories; 22 municipal governments; more than 1,200 middle schools; close to 100 charitable organizations",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 3: named youth program partnering with schools, with reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E10",
+      "activity": "Industry-academia internship program for university and vocational students",
+      "quote": "In 2025, about 600 students were recruited into an internship program.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Academic exchange",
+      "status": "current",
+      "indicators": "about 600 students",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 3: external internship program with participant numbers"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E11",
+      "activity": "Scholarships and summer internships for financially disadvantaged National Taiwan University students",
+      "quote": "As part of its commitment to the community and talent development, the Company offers scholarships and summer internships for National Taiwan University students from financially disadvantaged back-grounds.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Academic exchange",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: scholarship program, no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E12",
+      "activity": "Charity golf tournaments raising donations",
+      "quote": "Taishin has also hosted charity golf tournaments since 2011, with a total of 703 participants and more than NT$24.6 million raised in charitable donations.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Sports sponsorship",
+      "status": "current",
+      "indicators": "703 participants; more than NT$24.6 million",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific community fundraising with figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E13",
+      "activity": "Support for the Nantou County Youth Karate Team via customer donations",
+      "quote": "Taishin began supporting the Nantou County Youth Karate Team in 2005, calling upon customers through the PayEasy online platform to participate in small-amount and receipt donations, with cumulative donations exceeding NT$119.26 million.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate responsibility > Sports sponsorship",
+      "status": "current",
+      "indicators": "exceeding NT$119.26 million",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 3: ongoing youth sports support with dollar figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E14",
+      "activity": "Taishin University structured employee training and learning platform",
+      "quote": "By integrating Taishin University with the CTMS, the company is able to incorporate managerial skill training with general education and other relevant courses, so that each employee may study on their own in a systematically structured course design.",
+      "source_doc": "filing",
+      "section": "Annual report > Employees > Taishin University",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E15",
+      "activity": "Nationwide ATM upgrade adding enlarged-font and barrier-free cardless withdrawal for elderly and visually impaired customers",
+      "quote": "Taishin Bank has comprehensively upgraded nearly 4,000 ATMs nationwide, adding “enlarged font” and “barrier-free cardless withdrawal” features.",
+      "source_doc": "filing",
+      "section": "Annual report > Risk management > Emerging risks > Optimize financial services for the elderly and ensure inclusive finance",
+      "status": "current",
+      "indicators": "nearly 4,000 ATMs",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 3: named accessibility program with numbers"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E16",
+      "activity": "Multilingual ATM interface and accessible ATMs for visually impaired customers",
+      "quote": "The user interface was already available in Chinese and English, and a total of seven new languages including Japanese, Korean, Thai, Vietnamese, and Indonesian were added over time",
+      "source_doc": "filing",
+      "section": "Annual report > Operating Status > Business plans > ATM",
+      "status": "current",
+      "indicators": "seven new languages",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: service in several languages"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E17",
+      "activity": "Online lost-card reporting usable by cardholders with hearing or speech impairments",
+      "quote": "This feature enables cardholders with hearing or speech impairments to handle the process independently without having to make a phone call, thereby significantly improving financial inclusiveness.",
+      "source_doc": "filing",
+      "section": "Annual report > Operating Status > Credit card business > 2025",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: specific accessibility feature, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E18",
+      "activity": "Employee stress-relief workshop staffed by hired blind masseurs",
+      "quote": "Taishin Holdings hires blind masseurs and masseuses to help employees relieve work stress, creating a happy and healthy work environment while contributing towards charity.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate Governance Report > Employee rights and wellness",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: inclusion of people with disabilities, no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E19",
+      "activity": "English version of the bank app to widen access",
+      "quote": "At the same time, it is committed to advancing inclusive finance by developing an English version of the APP to deliver inclusive financial services.",
+      "source_doc": "filing",
+      "section": "Annual report > Operating Status > Digital Banking Business",
+      "status": "planned",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "context only: app under development"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E20",
+      "activity": "Venture capital subsidiaries invest in start-ups and link them to group financing and listing services",
+      "quote": "Venture capital companies first discover potential start-up companies, then commercial banks provide financing, and securities underwriters provide TWSE/TPEx listing services, so that the synergy and integration benefits of financial services can be brought into play.",
+      "source_doc": "filing",
+      "section": "Annual report > Operating Status > Taishin Venture Capital > Business scope > Financial integration",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "enabling",
+          "criterion": "level 2: specific start-up financing service, no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E21",
+      "activity": "Ordinary SME lending",
+      "quote": "The outstanding balance of SME loans reached NT$227 billion, an increase of NT$23.8 billion from 2024, representing a growth rate of 11.7%.",
+      "source_doc": "filing",
+      "section": "Annual report > Letter to Shareholders > Wholesale Banking Services",
+      "status": "current",
+      "indicators": "NT$227 billion; NT$23.8 billion; 11.7%",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: ordinary small-business lending"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E22",
+      "activity": "Standardised working-capital loan approval for micro enterprises",
+      "quote": "In terms of micro enterprise service, we have established standardized approval processes to efficiently assist businesses in obtaining operating working capital, thereby achieving inclusive finance.",
+      "source_doc": "filing",
+      "section": "Annual report > Operating Status > Business plans > Micro enterprise service",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: ordinary small-business lending process"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The company merged with Shin Kong Financial Holding (Shin Kong Life joined in July 2025), so headcounts and some figures reflect the combined group. The arts and charity programs run through affiliated foundations (Taishin Bank Foundation for Arts and Culture, Taishin Charity Foundation, Taishin Youth Foundation); these were credited as company activities. Several figures are cumulative over many years: Power of Love over 16 years, Arts Award over 23 years, karate donations since 2005. The 'Caring Taiwan' rice project (NT$ 46.06 million) was left out because the text does not show whether it is still operating. An arts sponsorship figure stated as 'close to over millions' is too vague to use. The English app is recorded as planned. Products for vulnerable groups (elderly, disabled, indigenous, young) are described as future intentions only. Board gender diversity and overseas service to 'the global Chinese community' were not scored. Large SME loan balances (NT$227 billion and NT$336 billion) count only as serving. The text states there was no human rights violation in 2025.",
+  "extract_notes": [
+    "TOC fallback (no usable table of contents): keyword paragraphs across the whole report; skipped 36 of 324 pages (risk, number pages, financial statements from page 325)"
+  ],
+  "quote_check_status": "passed",
+  "flags": [
+    "TOC fallback (no usable table of contents): keyword paragraphs across the whole report; skipped 36 of 324 pages (risk, number pages, financial statements from page 325)"
+  ],
+  "people_words": 3679,
+  "score_source": "Annual report 2025",
+  "second_look": null
+}

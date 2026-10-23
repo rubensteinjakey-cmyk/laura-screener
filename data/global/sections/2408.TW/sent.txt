@@ -1,0 +1,3872 @@
+<section name="Annual report: selected chapters">
+[page 4]
+ii 
+ 
+XI.Status of new shares issuance in connection with mergers and acquisitions ........ 143 
+XII. Implementation of the company’s capital allocation plans ................................. 143 
+D. Operations overview ......................................................................................... 144 
+I.Business content ....................................................................................................... 144 
+II.Market Status and the Overview of Sales and Production ...................................... 152 
+III.Information on employees in the most recent two years and up to the date of annual 
+report publication ................................................................................................. 156 
+IV .Environmental Expenses Information .................................................................... 156 
+V .Labor Relations ....................................................................................................... 157 
+VI.Information security management ......................................................................... 160 
+VII.Material Contracts ................................................................................................ 164 
+E. Financial Status, Operating Results and Risk Management ........................ 165 
+I.Analysis of financial status ....................................................................................... 165 
+II.Analysis of financial performance .......................................................................... 166 
+III.Analysis of cash flow ............................................................................................. 167 
+IV .Impact of Major Capital Expenditures in Most Recent Year ................................. 167 
+V .Most Recent Year Reinvestment Policy, Cause of Gain or Loss, Corrective Action, 
+and Future Investment Plan ................................................................................. 168 
+VI.Risk Management .................................................................................................. 168 
+VII.Other Important Matters ....................................................................................... 178 
+F. Other Special Notes ........................................................................................... 179 
+I. Information related to the Company’s Affiliates ..................................................... 179 
+II.Holding or disposal of stocks of the Company by subsidiaries in the past year and up 
+to the date of report .............................................................................................. 184 
+III.Other supplemental information ............................................................................ 187 
+IV .Corporate events with material impact on shareholders' equity or stock prices set 
+forth in Subparagraph 2, Paragraph 3, Article 36 of the Securities and Exchange 
+Act in the past year and up to the date of report .................................................. 187
+
+[page 5]
+A. Letter to Shareholders 
+I. 2025 Business Report 
+(I) Operations: 
+Nanya Technology Corporation’s (hereinafter referred to as “Nanya”) 
+consolidated revenue amounted to NT$66.59 billion in 2025, up approximately 95.1% 
+compared to the NT$34.13 billion in 2024. Benefiting from improvements to the 
+supply and demand structure in the global memory market, the Company successfully 
+turned a profit this year, with a net profit after tax of NT$6.61 billion for the year, a 
+net profit margin of 9.9%, and earnings per share of NT$2.13. 
+In response to the growing demand for high-end memory in the field of artificial 
+intelligence (AI), major memory manufacturers started adjusting their production 
+capacity allocations in the second quarter of 2025, announcing the termination of 
+plans to supply DDR4 and LPDDR4 RAM (EOL) and upgrading their production 
+capacity to produce high-bandwidth memory (HBM) and high-capacity DDR5 
+modules. 
+This move led to a significant increase in market prices. Nanya’s average selling 
+price in the third quarter increased by more than 40% compared to the previous 
+quarter, and sales volume also increased by more than 20%. In the fourth quarter, the 
+average selling price continued to rise by more than 30% compared to the third 
+quarter, and sales volume increased by about 10% quarter-on-quarter. Revenue for the 
+whole year saw significant growth. 
+The Company has been profitable since the third quarter of 2025. In particular, 
+the Company earned NT$1.56 billion in the third quarter alone, while fourth-quarter 
+profits surged to NT$11.09 billion. The Company has demonstrated strong profit 
+growth momentum, and operations are expected to continue to improve in the future. 
+(II) Operations Results in 2025 
+1. Business promotion and market deployment: The Company deepened 
+customer relationships and made strategic plans for a range of application fields 
+to ensure it would be able to satisfy long-term demand for AI-related 
+applications. 
+(1) Consumer electronics product applications 
+Includes TVs, network communications, SSD, digital cameras, set-top 
+boxes, and automobiles. It accounted for approximately 55% of revenue. 
+(2) Low-power product applications 
+Includes communication modules, multi-chip packages, handheld devices, 
+1
+
+[page 6]
+digital TVs, digital cameras, voice assistants, and smart watches, and also 
+increased shipments of in-vehicle products. It accounted for approximately 
+19% of revenue. 
+(3) Personal computers system applications 
+Focusing on the demand for DDR5 among PC manufacturers to develop 
+diverse sales channels and increase sales volume. It accounted for 
+approximately 21% of revenue. 
+(4) Data center and server applications 
+The growing demand for cloud data centers, the Company has increased 
+sales of server application modules (RDIMM) and captured the demand for 
+applications such as board management controllers (BMC) and network 
+interface controllers (NIC). It accounted for approximately 5% of revenue. 
+2. Results of second-generation 10 nm process technology (1B): The 1B process 
+technology accounts for about 1/4 of the total monthly wafer starts capacity, and 
+it can account for up to 40% of the total die output. Products related to 16Gb 
+DDR5, 8Gb DDR4 and 4Gb DDR4 have been mass-produced and shipped to 
+controller manufacturers. 
+3. Results of technology development 
+(1) 1B high-end product breakthroughs 
+ The 128Gb DDR5 RDIMM 5600/6400, developed using 1B and through 
+silicon via (TSV) process technologies, has passed functional testing. 
+ The speed of the 16Gb DDR5 mono-die has reached 7200 MT/s, enabling 
+it to meet the requirements of high-performance computing. 
+(2) 10nm third-generation (1C) process technology 
+The pilot product, 16Gb DDR5, entered trial production in the third quarter 
+of 2025. 
+(3) 10nm fourth-generation (1D) process technology 
+The pilot product is currently in the design phase, trial production is 
+expected to start in the second quarter of 2026. 
+(4) Customized products and strategic deployment 
+The design of ultra-high frequency bandwidth products is currently 
+ongoing. Furthermore, the Company will build logic base ICs through 
+strategic investments and collaborations, in order to integrate customized 
+2
+
+[page 7]
+ultra-high frequency bandwidth memory into the Company’s product lines. 
+It expected to contribute to revenue starting from 2026. 
+4. ESG and Sustainability 
+(1) A contract was signed in 2025 to purchase renewable electricity, in which an 
+additional 40 million kWh of green electricity will be purchased annually 
+starting from 2026. Annual green electricity consumption will reach more 
+than 87 million kWh, accounting for about 10% of the Company’s annual 
+electricity consumption. 
+(2) Nanya received the highest rating of “A List” in the climate change 
+questionnaire and water security questionnaire of the Carbon Disclooure 
+Project (CDP) in 2025. 
+(3) Nanya ranked among Clarivate’s Top 100 Global Innovators for the third 
+consecutive year in 2025, gaining recognition from an international 
+evaluation institution for achievements in technological innovation and 
+patent strategy. 
+(4) In 2025, the company was ranked among the top 5% in the Corporate 
+Governance Evaluation for the second consecutive year, and also won 
+several honors including the Corporate Sustainability Report Award 
+(Manufacturing) from the Taiwan Corporate Sustainability Awards (TCSA). 
+This is strong affirmation for the Company’s efforts in comprehensively 
+promoting ESG. 
+II. Industry Outlook 
+DRAM is a key component in making all electronic products smarter, and is also an 
+essential product in the development of AI. It is extensively used in data centers/servers, 
+smartphones, PCs, and consumer electronics. Research and forecasts indicate that the 
+annual growth rate in bit demand for DRAM from 2026 to 2029 will be approximately 
+16% to 20%. 
+AI driving growth in demand: Following the development of AI, cloud service 
+providers are continuing to invest in AI servers with a large amount of high-end DRAM 
+products (HBM, LPDDR5 and RDIMM) installed. Moreover, the application of edge 
+computing in terminal products (such as: AI PCs, AI mobile phones, and AI robots) will 
+also increase the amount of DRAM installed and drive demand growth. 
+Server applications: Cloud-based high-efficiency computing for AI continues to 
+drive demand for HBM and DDR5, consequently the demand for DRAM from AI 
+servers and general servers will rise, and is expected to continue to grow in 2026. 
+ 
+3
+
+[page 8]
+Smartphone applications: The demand for DRAM in mobile phones is expected 
+to remain flat, but high-end models are trending towards high-capacity DRAM, and the 
+rise of AI smartphones is also increasing the demand for high-capacity LPDRAM. 
+Personal computer applications: Overall PC shipments are expected to decline 
+slightly, but demand in the overall PC market is expected to grow slightly as operating 
+system upgrades lead to increased DRAM usage. 
+Other product applications: The market for network and communication 
+products remains stable. Strong consumer demand is for big-ticket items; small-ticket 
+items demand slows down. 
+Supply and demand analysis: The widespread application of AI has driven rapid 
+growth in the demand for DRAM. Major suppliers are reducing their DDR4/LPDDR4 
+production and gradually shifting their capacity to HBM and DDR5/LPDDR5. Capital 
+expenditures on DRAM are mainly focused on advanced processes and high-end 
+products. The overall supply of DRAM is relatively tight, and this situation is expected 
+to continue until 2027. 
+III. Business Plan for 2026 
+(I) Strategic Directions 
+1. Optimize existing capacity for profitability: Nanya will continue to optimize 
+the product portfolio (DDR4, LPDDR4, DDR5, etc.) to meet the requirements of 
+existing and potential customers and improve overall profitability. 
+2. Increase the proportion of high-performance products: Nanya will increase 
+shipments of server-class memory modules to support the requirements of data 
+centers and edge computing. 
+3. Accelerate the development of customized ultra-high frequency bandwidth 
+memory: Nanya will complete product validation in response to the rise of the 
+AI edge computing market. 
+4. Accelerate the construction of the new Fab 5A: The plant facilities and 
+cleanrooms at the new Fab 5A have been completed, and the installation of process 
+equipment is expected to begin in early 2027.  
+(II) Private Placement Update 
+In April 2026, the Comp any completed a private placement and raised 
+approximately NT$78.7 billion to support the operations and production equipment of 
+manufacturing advanced memory. Furthermore,  ① strengthen NTC and customers 
+partnership, ② build up win-win position in AI/CSP supply chain (e-SSD, Networking) 
+and ③ position NTC in AI value Chain. 
+ 
+4
+
+[page 9]
+(III) Key Points for Business Promotion 
+1. Strategically support the consumer electronics market: Nanya will expand 
+production of 20nm and 1Bnm DDR4 and increase production to respond to 
+demand from consumer electronics products such as digital TVs, network 
+communications, SSDs, digital cameras, set-top boxes, and automobiles to 
+improve profit margins. 
+2. Promote 1B products: Nanya will promote the application of 16Gb DDR5 in 
+the personal computer sector, provide overclocking solutions, and gradually 
+verify its application in solid-state drives, network communications, and server 
+modules to expand the applications of future products. 
+3. Maintain sales volume in the low-power market: ① Focus on mid- to high-
+end consumer products, such as in-vehicle, voice assistants, handheld devices, 
+smart watches, and digital TVs, with a particular focus on increasing the 
+proportion of in-vehicle applications. ② Deepen strategic cooperation with 
+customers in 5G communication applications. ③ Establish a strong presence 
+in key application markets such as digital cameras, multi-chip packaging, and 
+embedded stacked chip packaging. 
+4.  Optimize sales of niche products: Nanya will help satisfy the demand for 
+high-quality bare dies with the most optimized capacity allocation and continue 
+to expand into application areas such as digital TVs, network communications, 
+digital cameras, and storage devices. 
+5. Expand customization services: Nanya will launch a customized AI high-
+bandwidth memory production line. 
+(IV) Technology Development Plans 
+1. 1B process: Verification of the 16Gb DDR5 miniature version, 16Gb DDR4 
+and 8Gb/16Gb LPDDR4 is expected to be completed this year, and trial 
+production of 8Gb/16Gb LPDDR5 will also commence. 
+2. 1C/1D process: The pilot product (16Gb DDR5) using 1C process technology 
+is expected to complete verification in the second half of the year. The pilot 
+product (16Gb DDR5) using 1D process technology is expected commence trial 
+production in the second quarter of the year. 
+3. Customized product development: Nanya will jointly develop customized, 
+high-performance, low-power, ultra-high-bandwidth memory solutions with 
+partners, and be expected to increase revenue in the first half in 2027. 
+ 
+5
+
+[page 142]
+III. Dividend Policy and Implementation Status 
+(I) Dividend Policy 
+Whenever there are profits of the Company, it shall be used to pay all 
+outstanding taxes, recover the Company’s accumulated losses, and set aside 
+10% thereof in a legal reserve. However when the accumulated legal reserve 
+amounts to the paid-in capital, this shall not apply. Thereafter, the remaining 
+profit, if any, after set aside a special reserve  or reserves for certain 
+undistributed earnings for business purposes , shall collectively with any 
+undistributed surplus earnings from previous fiscal years, be included in a 
+surplus earning distribution plan submitted by the Board of Directors and be 
+authorized to distribute dividends paid in cash after a resolution has been 
+adopted by a majority vote at a meeting of the Board of Directors attended 
+by over two-thirds of the Directors; and in addition thereto a report of such 
+distribution shall be submitted to the shareholders’ meeting. The dividends 
+paid in stock shall be submitted for the approval in a shareholders’ meeting. 
+The Company belongs to a high -technology and capital intensive 
+industry and its operations are still experiencing significant growth. To 
+accommodate the long -term financial projection of the Company, the 
+Company adopts the policy that dividends shall be distributed appropriately 
+in accordance with the Company's budget of capital expenditures. In 
+principle, the stock dividends distributed by the Company shall not exceed 
+50% of the total distributable dividends of that year. 
+The Company will strive to maintain a stable dividend policy, and 
+mainly dividends will be distributed by cash. The target of our dividend 
+policy is approximately 40% of annual earnings after considering the 
+Company’s capital expenditure budget and other needs. 
+(II) Current Proposal to Distribute Profits 
+The Board of Directors on March 4 2026 approved the distribution of 
+NT$4,647,941,841 in cash dividends, and the dividends distribution will be 
+reported to 2026 Annual Shareholder’ Meeting. It will be handled according 
+to related regulations  after th e Board of Directors  approve the dividend 
+record date and distribution date. If the total outstanding shares may increase 
+as the Company issue private placement of common shares. The final cash 
+dividends per share may need to be adjusted accordingly. The Chairman was 
+authorized by the Board of Directors to handle the relevant matter. 
+(III)  Expect material change in dividend policy: N/A.  
+IV. The effects of the stock dividends proposed by the shareholders’ meeting on the 
+Company’s business performances and earnings per share: N/A. 
+ 
+138
+
+[page 144]
+VII. Status of Corporate Bonds:  
+ 
+Corporate Bond Type 1st domestic unsecured corporate bonds in 2024 
+(Green bond) 
+Issue date April 11, 2024 
+Denomination NT$1,000,000 
+Issuing and transaction location Taiwan 
+Issue price At par value 
+Total price NT$4,000,000,000 
+Coupon rate Fixed rate at 1.75% p.a. 
+Tenor 5 years, Maturity：April 11, 2029 
+Guarantee agency None 
+Consignee CTBC Bank Co., Ltd 
+Underwriting institution Yuanta Securities Co., Ltd as the lead underwriter 
+Certified lawyer AY Commercial Law Offices, Jerry Huang 
+CPA KPMG Certified Public Accountants, Hsin-Yi, Kuo 
+Repayment method 
+The Company will redeem 50% of the principal at 
+one year before maturity and redeem the rest 50% 
+at maturity for each tenor 
+Outstanding principal NT$4,000,000,000 
+Terms of redemption or advance 
+repayment None 
+Restrictive clause None 
+Name of credit rating agency, rating 
+date, rating of corporate bonds None 
+Additional 
+rights 
+As of the printing date of 
+this annual report, 
+converted amount of 
+(exchanged or subscribed) 
+ordinary shares, GDRs or 
+other securities 
+None 
+Issuance and conversion 
+(exchange or subscription) 
+method 
+None 
+Issuance and conversion, exchange or 
+subscription method, issuing condition 
+dilution, and impact on existing 
+shareholders’ equity 
+None 
+Transfer agent None 
+VIII.  Status of Preferred Stock: None 
+IX. Issuance of Global Depositary Receipts: None
+140
+
+[page 145]
+X. Status of Employee Stock Options Plan 
+(I) Disclose unexpired Employee Stock Options issued by the Company in 
+existence as of the date of publication of the annual report 
+April 23, 2026 
+ESOP granted 2025-1 2025-2 
+Approval date by the 
+securities & futures bureau 
+and total number of units 
+March 21, 2025 
+140,000 units 
+Issue (grant) date April 16, 2025 August 7, 2025 
+Number of options granted 135,600 units 4,400 units 
+Number of options 
+unissued 0 unit 0 unit 
+Percentage of shares 
+exercisable to outstanding 
+common shares 
+3.93% 0.13% 
+Option duration 6 years 
+Source of option shares Issuing new common shares 
+Vesting schedule 
+(%) 
+Upon 2 years from the issue date, available subscription 
+ratio for exercising: 50% (accumulated) 
+Upon 3 years from the issue date, available subscription 
+ratio for exercising: 75% (accumulated) 
+Upon 4 years from the issue date, available subscription 
+ratio for exercising: 100% (accumulated) 
+Shares exercised - - 
+Value of shares exercised - - 
+Shares unexercised 131,542 units 4,047 units 
+Exercise price per share NT$32.5 NT$41.9 
+Percentage of shares 
+unexercised to outstanding 
+common shares (%)  
+3.81% 0.12% 
+Impact to shareholders’ 
+equity 
+This will attract and retain 
+technology and specialized 
+talent required by the 
+company, encourage 
+employees and strengthen 
+their sense of belonging, 
+and maximize profits for 
+shareholders. Dilution to 
+shareholders’ equity is 
+3.78%. 
+This will attract and retain 
+technology and specialized 
+talent required by the 
+company, encourage 
+employees and strengthen 
+their sense of belonging, 
+and maximize profits for 
+shareholders. Dilution to 
+shareholders’ equity is 
+0.13%. 
+141
+
+[page 147]
+April 23, 2026 
+Note: The employee stock options were issued on April 16, 2025, and can be exercised according to the available subscription ratio after the expiration of 2 years. 
+XI. Status of new shares issuance in connection with mergers and acquisitions: None 
+XII.  Implementation of the company’s capital allocation plans:  
+(I) A description of the plans: 
+For the period as of the quarter preceding the date of publication of the annual report, with respect to each uncompleted 
+public issue or private placement of securities, and to such issues and placements that were completed in the most recent 3 
+years but have not yet fully yielded the planned benefits: N/A 
+(II) Status of implementation: 
+With respect to funds usage under the plans referred to in the preceding subparagraph, the annual report shall (for the period 
+as of the quarter preceding the date of publication of the annual report) analyze the status of implementation and compare 
+actual benefits with expected benefits: N/A 
+ 
+Title Name 
+Number 
+of 
+Options 
+Granted 
+% of 
+shares 
+exercisable 
+to 
+outstanding 
+common 
+shares 
+Shares exercised (Note) Shares unexercised 
+Shares 
+Exercised 
+Exercise 
+Price Per 
+Share 
+Value of 
+Shares 
+Exercised 
+% of shares 
+exercised to 
+outstanding 
+common 
+shares 
+Shares 
+Exercised 
+Exercise 
+Price Per 
+Share 
+Value of 
+Shares 
+Exercised 
+% of shares 
+exercised to 
+outstanding 
+common 
+shares 
+Employees 
+Senior Director 
+Senior Director 
+Senior Director 
+Senior Director 
+Director 
+Director 
+Director 
+Director 
+Director 
+Vice Director 
+Vice Director 
+Yao-Hsiung Kung 
+Hsu-Cheng Fan 
+Ray Hung 
+Owens Lin 
+Dong-Liung Yang 
+Jerry Huang 
+Aidan Hsu 
+Chiang-Lin Shih 
+Yu-Pi Lee 
+Wen Chang Cheng 
+Chang-Hua Yeh 
+2,392 
+units 0.0693% - - - - 2,392 
+units NT$32.5 NT$77,740 
+thousands 0.0693% 
+143
+
+[page 148]
+D. Operations overview 
+I. Business content 
+(I) Business scope 
+NTC is focused on becoming a key supplier in the global memory market 
+with outstanding product research and development capabilities and 
+competitive production cost advantage. We are committed to providing high 
+quality and advanced memory products and services. 
+Our main product lineup:  
+1. DRAM chips 
+(1)  DDR2 DRAM 
+—  Capacity: 512 Mb, 1Gb 
+—  Speed: 800 Mb/s, 1066 Mb/s 
+(2)  DDR3 DRAM 
+—  Capacity: 1Gb, 2Gb, 4Gb 
+—  Speed: 1600 Mb/s, 1866 Mb/s, 2133 Mb/s 
+(3)  DDR4 DRAM 
+—  Capacity: 4Gb, 8Gb, 16Gb(developing) 
+—  Speed: 2667 Mb/s, 2933Mb/s, 3200 Mb/s 
+(4)  DDR5 DRAM 
+—  Capacity: 16Gb 
+—  Speed: 4800Mb/s, 5600Mb/s, 6400 Mb/s, 7200 Mb/s (developing) 
+(5)  LPDDR2 
+—  Capacity: 1Gb, 2Gb, 4Gb 
+—  Speed: 1066 Mb/s 
+(6)  LPDDR3 
+—  Capacity: 4Gb, 8Gb 
+—  Speed: 1866 Mb/s, 2133 Mb/s 
+(7)  LPDDR4/4X 
+—  Capacity: 2Gb, 4Gb, 8Gb, 16Gb (developing) 
+—  Speed: 3733 Mb/s, 4267 Mb/s 
+(8)  LPDDR5/5X (developing) 
+—  Capacity: 8Gb, 16Gb 
+—  Speed: 7500 Mb/s, 8533 Mb/s 
+2. Wafer production services 
+In response to meeting market demand in the future, NTC continue 
+to develop products toward higher speed and lower power consumption.  
+Our business strategy focuses on the applications of consumer electronic, 
+mobile devices and servers, and we offer a comprehensive product lineup 
+for meeting market demand on low, medium and high capacity products. 
+Our product portfolio includes 512Mb/1Gb DDR2, 1Gb/2Gb/4Gb DDR3, 
+4Gb/8Gb/16Gb DDR4, 16Gb DDR5, 1Gb/2Gb/4Gb LPDDR2, 4Gb/8Gb 
+144
+
+[page 149]
+LPDDR3, 2 Gb/4Gb/8Gb/16Gb LPDDR4/4X, and 8Gb/16Gb 
+LPDDR5/5X. 
+3. Plans of developing new products and services 
+We will continue to optimize the application of low power products 
+on the basis of consumer application customers for our 20 nm products. 
+We will promote to high-end in-vehicle systems and  high-end TV sets . 
+With regard to sales of server products, besides maintaining relationships 
+with large customers, we will also expand across the world to medium and 
+small customers, such as regional data centers, to increase our sales 
+channels and customer base. 
+In 10nm second generation (1B) product  development, verification 
+of the 16Gb DDR 4 and 8Gb/16Gb LPDDR4 will be completed in 2026, 
+and trial production of 8Gb/16Gb LPDDR5, will also commence . The 
+pilot product (16Gb DDR5) based on 10nm third-generation (1C) process 
+technology commenced trial production in the third quarter of 2025 and is 
+expected to complete verification in the second half of 2026. The lead 
+product based on 10nm fourth -generation (1D) process technology will 
+commence pilot run in the second quarter of 2026. The customized product 
+development is expected to increase revenue in the first half in 2027. 
+(II) Industry Overview 
+1. DRAM industry current status and development 
+In response to the growing demand for high -end memory in the field 
+of artificial intelligence (AI), major memory manufacturers started 
+adjusting their production capacity allocations in the second quarter of 2025, 
+announcing the termination of plans to supply DDR4 and LPDDR4 RAM 
+(EOL) and upgrading their production capacity to produce high-bandwidth 
+memory (HBM) and high-capacity DDR5 modules. 
+AI driving growth in demand, following the development of AI, cloud 
+service providers are continuing to invest in AI servers with a large amount 
+of high -end DRAM products (HBM, LPDDR5 and RDIMM) installed. 
+Moreover, the application of edge computing in terminal products (such as: 
+AI PCs, AI mobile phones, and AI robots) will also increase the amount of 
+DRAM installed and drive demand growth. 
+2. Up-, mid-, and downstream DRAM industry supply chain 
+IC industry (including DRAM) is categorized as IC design, mask 
+making/wafer material in upstream area, IC production in midstream area, 
+IC packing and testing in downstream area. The whole industry system is 
+illustrated as below table. Our operations involve upstream DRAM design 
+and midstream DRAM manufacturing. 
+ 
+ 
+145
+
+[page 150]
+Upstream  Midstream  Downstream 
+         
+NTC         
+IC design  Mask Production 
+ 
+ NTC     
+ 
+     IC Manufacturing  IC Packaging  IC Testing 
+  Wafer Materials 
+ 
+      
+ 
+ 
+3. Product Development Trends 
+(1)  The main application trends: 
+A. Servers: Cloud-based high-efficiency computing for AI continues 
+to drive demand for HBM and DDR5, consequently the demand 
+for DRAM from AI servers and general servers will rise, and is 
+expected to continue to grow in 2026. 
+B. Mobile devices: The demand for DRAM in mobile phones is 
+expected to remain flat, but high-end models are trending towards 
+high-capacity DRAM, and the rise of AI smartphones is also 
+increasing the demand for high-capacity LPDRAM. 
+C. Personal computers: Overall PC shipments are expected to decline 
+slightly, but demand in the overall PC market is expected to grow 
+slightly as operating system upgrades lead to increased DRAM 
+usage. 
+D. Other product applications: The market for network and 
+communication products remains stable. Strong consumer demand 
+is for big-ticket items; small-ticket items demand slows down. 
+(2)  Performance requirements 
+A. High Density: 
+Following AI adopted in servers, PCs, and mobile phones in 
+2024, the demand for memory in related devices continued to grow. 
+Server manufacturers have begun to adopt 128GB/256GB memory 
+modules, personal computers are adopting 32GB/48GB memory 
+modules, and AI mobile phones have single -device capacity 
+requirements of up to 12GB/16GB, thus driving growth in the 
+demand for memory. 
+B. High Speed: 
+The requirements for calculations and instant response from 
+generative AI data models have raised data transmission speed 
+146
+
+[page 151]
+requirements, and the requirements for DRAM specifications have 
+also increased. The operating speed of basic specification products 
+is DDR4 -3200Mb/s, LPDDR4/X -4267Mb/s; data transmission 
+speed is expected to reach DDR5-6400Mb/s, LPDDR5X 8533Mb/s 
+and 9600Mb/s in 2026. 
+C. Low Power Consumption: 
+Low voltage and low energy consumption DRAM products 
+have become the main specifications for smartphones, personal 
+computers, consumer electronics, communication modules, the 
+Internet of Things, and automotive electronics due to the need to 
+reduce damage to the Earth through energy conservation and carbon 
+reduction. 
+D. Package specifications: 
+In response to diversity of application needs, DRAM 
+package specifications spectrum expanded including module for 
+PC/servers, PoP/uMCP/FBGA for smart phones, SiP (System in 
+Package) for digital TV  and 5G communication , MCP for 
+Mobile WiFi and eMCP for smart module. 
+4. Competition situation 
+The global DRAM industry is an oligopolistic market dominated by 
+three major manufacturers, and current capacity expansion is mainly used 
+for high -bandwidth memory (HBM) and high -capacity DDR5 modules 
+required for AI servers. Chinese manufacturers have bee n gradually 
+expanding their production capacity, but due to the U.S. government's ban 
+on U.S. equipment suppliers, we still need to observe the potential impact 
+on the overall market supply and demand. 
+(III) Technology and R&D Status 
+1. Development Strategy 
+(1) Innovative R&D 
+The Company has been focusing on innovative development of 
+specialty market, which includes consumer, low power and server segments. 
+Verification of the 16Gb DDR4 and 8Gb/16Gb LPDDR4 will be completed 
+in 2026, and trial production of 8Gb/16Gb LPDDR5, will also commence . 
+The pilot product (16Gb DDR5) based on 10nm third -generation (1C) 
+process technology commenced trial production in the third half of 2025 
+and is expected to complete verification in the second half of 2026. The lead 
+product based on 10nm fourth -generation (1D) process technology will 
+147
+
+[page 152]
+commence pilot run in the second quarter of 2026. The customized product 
+development is expected to increase revenue in the first half in 2027 . We 
+will continue to develop DRAM products with 10nm class process 
+technologies to provide comprehensive product lineup for fulfilling the 
+requirements by next-generation electronic devices. 
+(2) Differentiated management 
+The Company Strategically partnered with Piecemakers Technology, 
+Inc. in the end of 2024, combining the Company’s 10nm DRAM technology 
+with Piecemakers’ product design capabilities to jointly develop customized, 
+high-performance, low -power, ultra -high-bandwidth memory solutions.  
+The Company  establish a joint venture semiconductor design company 
+(MemoLead Technology Corporation) with Etron Technology, Inc. in the 
+second half of 2025, which leveraged the resources and technical expertise 
+of both parties  to develop c ustomized ultra-high-bandwidth memory and 
+meet the growing demands of edge AI applications . Cooperated with 
+Formosa Advanced Technologies Co., Ltd. to invest in the production of 3D 
+TSV and multi -chip stacking packages.  The 16Gb DDR5 shrink version 
+will be combined with TSV process technology to produce high-density and 
+high-value-added DRAM modules to meet the demand of the server market. 
+2. Annual R&D Expenses over the past 5 years (Based on Consolidated 
+Financial Statements Report) 
+Unit: NT$ thousands 
+Year 2025 2024 2023 2022 2021 
+R&D 
+Expenses 7,040,816 7,685,031 7,576,011 7,841,499 7,499,780 
+3. Successfully developed technologies and products 
+The Company has developed 16Mb, 64Mb, 128Mb, 256Mb, 512Mb, 
+1Gb, 2Gb, 4Gb DRAM, 8Gb DDR4 and 16Gb DDR5 products successfully. 
+DDR4 8Gb DRAM has also been launched to the market. Below are the 
+summaries: 
+(1) Successfully transfer 0.45μm, 0.36μm, and 0.32μm 16Mb DRAM design, 
+manufacturing process, and element analysis from OKI within 2 years 
+from setting up the 1st factory. Quickly achieve high yields in both wafer 
+and finished goods, and immediately adopt comp uter automated 
+production management. 
+(2) Successfully self-development 0.32μm 5V 16Mb EDO DRAM. 
+(3) Successfully finished design of 4 products, 0.32 μm 16Mb SDRAM, 
+0.28μm 16Mb (2M×8), 0.28 μm 64Mb SDRAM and 0.28 μm 16Mb 
+148
+
+[page 153]
+SDRAM (1Mb×16), within 2 years. 0.32μm SDRAM and 0.28μm 16Mb 
+SDRAM (1Mb×16) was the main products at that time. 
+(4) Successfully transfer 0.2 μm 64Mb and 0.175 μm 256Mb DRAM from 
+IBM. Self-develop 128Mb DRAM based on IBM technology platform, 
+quickly introduce to production line and achieve the desired yield. 
+(5) Successfully convert FAB-1 from stack technology process to trench 
+technology process. Successfully convert FAB-2 from 0.20μm 
+technology to 0.175μm technology within 8 months from start-up and 
+achieve the desired yield. 
+(6) Successfully shrink 64Mb and 128Mb DRAM to 0.175 μm technology. 
+As to the gross dies of 64Mb DRAM can exceed 1,100 ea per 8 -inch 
+wafer; it is very cost-competitive. 
+(7) Successfully create the combo design of 0.175 μm 128Mb and 256Mb 
+SDR/DDR. 
+(8) Successfully co-develop 0.14μm technology and products with IBM and 
+quickly implement into production line. 
+(9) Successfully design 0.175μm PC333 DDR product. Successfully develop 
+DDR400 with 0.14μm technology product to ensure the leading position 
+in DDR products. 
+(10) Successfully design 0.14 μm DDR1 128Mb specialty product and 
+implement into mass production. 
+(11) Successfully design 0.11 μm DDR1 256Mb and 512Mb products and 
+implement into mass production. 
+(12) Successfully design 0.11μm DDR2 400, 533, 667 and 800 products and 
+implement into mass production to ensure the leading position in DDR2 
+products. 
+(13) Successfully design 0.90μm DDR1 512Mb and DDR2 400, 533, 667 and 
+800 products and implement into mass production to ensure the leading 
+position in DDR2 products. 
+(14) Successfully develop 0.70μm DDR2 512Mb, DDR2 1Gb and DDR3 
+1Gb products. 
+(15) Converted to 42nm technology in the fourth quarter of 2010. 
+Successfully completed customer certification of 50nm DDR2 1Gb, 
+50nm DDR3 2Gb, and 42nm DDR3 2Gb and internal certification of 
+42nm DDR3 4Gb. 
+(16) Successfully began mass production of LPDDR memory products and 
+149
+
+[page 154]
+developed 30nm process for DDR3 2Gb in the second half of 2011. 
+(17) Completed the internal certification of 30nm DDR4 4Gb in the first half 
+of 2012, completed customer certification the same year, and also 
+completed internal certification and customer certification of LPDDR2 
+512 Mb. 
+(18) In the first half of 2013, finish low power product, LPDDR2 4Gb internal 
+and customer qualification and implement into mass production in Q2 of 
+2013. 
+(19) In the second half of 2013, completed the internal certification of 30nm 
+DDR4 4Gb. Provided customers with early DDR4 products for 
+certification, started developing LPDDR2 1Gb, and began internal 
+certification of LPDDR3 4Gb in the same year. 
+(20) In the first half of 2014, finish the internal and customer qualification of 
+LPDDR3 4Gb. In Q3 of 2014, start LPDDR3 4Gb mass production and 
+trigger 30nm shrink products design to improve the product 
+competitiveness. 
+(21) In second half of 2014, finish 30nm shrink product development and 
+implement to mass production, including 4Gb DDR3 and 1Gb LPDDR2. 
+(22) In first half of 2015, finish 30nm shrink product development and 
+implement to mass production, including 1/2/4Gb DDR3 consumer 
+products. In the second half of 2015, finish 30nm 4Gb DDR4 product 
+development and start to mass production. Finish internal qua lification 
+for 30nm shrink mobile products, including 2Gb LPDDR2 and 4Gb 
+LPDDR3 in Q4 of 2015. 
+(23) In the second half of 2016, completed internal certification, customer 
+certification, and mass production of 30nm 512Mb DDR2 consumer 
+shrink products. 
+(24) In the first half of 2017, finish 20nm 4Gb DDR3 consumer product 
+qualification and implement to mass production. 
+(25) In Q4 of 2017, finish 20nm 8Gb DDR4 product development, 
+qualification and implement to mass production. 
+(26) In Q3 of 2018, completed internal certification, customer certification, 
+and mass production of 20nm 4Gb DDR3 consumer products. 
+(27) Completed internal certification and mass production of 20nm 4Gb 
+LPDDR4 in Q1 of 2019 and 8Gb LPDDR4 in Q2 of 2019. 
+(28) In Q3 of 2019, completed internal certification and mass production of 
+20nm 8Gb LPDDR4X. 
+150
+
+[page 155]
+(29) In Q1 of 2020, completed internal certification and mass production of 
+20nm 2Gb LPDDR4/X. 
+(30) In Q2 of 2021, completed internal certification and mass production of 
+20nm 1Gb DDR3. 
+(31) In 2022, completed internal certification and mass production of 20nm 
+4Gb /8Gb LPDDR4 for automotive grade products. 
+(32) In Q1 o f 2023, Achieved ISO 26262 ASIL -B automotive functional 
+safety certification of 20nm LPDDR4/4X series low-power products. 
+(33) In Q3 of 2023, completed internal certification and mass production of 
+20nm 8Gb LPDDR4 X for automotive G2/G3 grade products  and 
+2Gb/4Gb LPDDR4 for automotive G1 grade products. 
+(34) In the end of 2024, completed customer certification and mass production 
+of 10nm second generation (1B) 8Gb DDR4 and16Gb DDR5. 
+(35) In Q1 of 2025, completed customer certification and mass production of 
+10nm second generation (1B) 4Gb DDR4. 
+(IV) Long-Term and Short-Term Sales Development Plan 
+1. Short-Term Sales Development Plan 
+(1) Strategically support the consumer electronics market: Nanya will 
+expand production of 20nm and 1Bnm DDR4 and increase production 
+to respond to demand from consumer electronics products such as 
+digital TVs, network communications, SSDs, digital cameras, se t-top 
+boxes, and automobiles to improve profit margins. 
+(2) Promote 1B products: Nanya will promote the application of 16Gb 
+DDR5 in the personal computer sector, provide overclocking solutions, 
+and gradually verify its application in solid -state drives, network 
+communications, and server modules to expand the appli cations of 
+future products. 
+(3) Maintain sales volume in the low-power market: ① Focus on mid- to 
+high-end consumer products, such as in -vehicle, voice assistants, 
+handheld devices, smart watches, and digital TVs, with a particular 
+focus on increasing the proportion of in -vehicle applications. ② 
+Deepen strategic cooperation with customers in 5G communication 
+applications. ③ Establish a strong presence in key application markets 
+such as digital cameras, multi -chip packaging, and embedded stacked 
+chip packaging. 
+(4) Optimize sales of niche products: Nanya  will help satisfy the demand 
+for high-quality bare dies with the most optimized capacity allocation 
+and continue to expand into application areas such as digital TVs, 
+151
+
+[page 156]
+network communications, digital cameras, and storage devices. 
+(5) Expand customization services: Nanya will launch a customized AI 
+high-bandwidth memory production line. 
+(6) Accelerate the construction of the new Fab 5A , the installation of 
+process equipment is expected to begin in early 2027. 
+2. Long-Term Sales Development Plan 
+(1) Besides promoting current product lines, we will continue to develop 
+1C/1D/1E and other process technologies and shrink current products 
+to enhance their competitiveness, and develop high-density, high-speed 
+product portfolio to meet customer demand in low, medium, and high 
+density markets. 
+(2) Accelerate the development and mass production  of customized ultra -
+high frequency bandwidth memory in response to the rise of the AI edge 
+computing market. 
+(3) Short-term acceleration of the expansion of new Fab 5A, and mid - to 
+long-term planning for new plant site selection and capacity. 
+II. Market Status and the Overview of Sales and Production 
+(I) Market Status 
+1. Sales Regions 
+The Company has a worldwide customer base. To provide the fast and 
+real time service, we set up a global sales network which includes the U.S., 
+Europe, Japan, China and Taiwan. We will continue expanding the customer 
+groups in all sale regions  and respond to diversifying market applications 
+and customization of products. 
+2. Market Share 
+The global market ’s main DRAM suppliers include Samsung, SK 
+hynix, Micron, CXMT and Nanya Technology Corporation . The market 
+share of the Company is approximately 1.4% in 2025. 
+3. DRAM Market Outlook 
+DRAM is a key component in making all electronic products smarter, 
+and is also an essential product in the development of AI. It is extensively 
+used in data centers/servers, smartphones, PCs, and consumer electronics. 
+Research and forecasts indicate that the annual growth rate in bit demand 
+for DRAM from 2026 to 2029 will be approximately 16% to 20%. 
+The widespread application of AI has driven rapid growth in the 
+demand for DRAM. Major suppliers are reducing their DDR4/LPDDR4 
+production and gradually shifting their capacity to HBM and 
+DDR5/LPDDR5. Capital expenditures on DRAM are mainly focused on 
+152
+
+[page 157]
+advanced processes and high-end products. The overall supply of DRAM is 
+relatively tight, and this situation is expected to continue until 2027. 
+4. Competitive Niche 
+There are diversified applications and many product specs in the 
+DRAM market, and our company is identified as a key supplier in the global 
+memory market. 
+5. Favorable and Unfavorable Factors Affecting Our Development 
+(1)  Favorable Factors 
+A. DRAM market structure already becomes an oligopoly. The market 
+is expected to remain steady and disciplined. 
+B. Focus on consumer and low power niche markets, and continue to 
+expand market shares in automotive, networking, customized 
+segments which require long-term and stable supply. 
+C. Develop and offer customers our complete product lines with 20nm 
+and our proprietary 10nm class technology. 
+D. With the strong support from Formosa Group, and its strict 
+production management system , strictly control  quality, cost and 
+delivery time. 
+(2)  Unfavorable Factors 
+A. The difficulties of develop DRAM advanced technology are high 
+and the investment amount become huge. 
+B. The market applications are diversified and new applications are 
+introduced at any time. 
+C. Continue to observe the capacity expansion progress of new entrants. 
+(3)  Response Measures 
+A. Develop 10nm class technology to remain competitive. 
+B. Work with strategic partners to jointly develop customized, high -
+performance, low-power, ultra-high-bandwidth memory solutions. 
+C. Combined with TSV process technology to produce high -density 
+DRAM modules to meet the demand of the server market. 
+D. With a high-quality customer service, we have established a close 
+strategic alliance with our chip vendors and customers to jointly 
+develop new generations of consumer electronics products and to                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+meet diverse needs.  
+ 
+153
+
+[page 158]
+E. To deeply root in consumer and low-power application markets, 
+and develop automotive, networking, industrial niche market 
+segments which require long-term and stable supply. 
+F. Collect market information, stay up-to-date on customer trends, and 
+flexibly adjust product portfolio to maintain steady operations. 
+(II) Key Applications of Primary Products and the Production Process 
+1. Important Applications of Primary Products 
+NTC’s primary products are DRAM (Dynamic Random Access 
+Memory) and other memory products. DRAM products are used to store 
+the data while data processing and have a wide range of applications, such 
+as mobile phones, servers, PC, consumer electronics and automotive 
+applications. 
+2. Production Process 
+The production of integrated circuits can divide into three stages: 
+making the silicon wafers, making the integrated circuits, and packing the 
+integrated circuits. Nanya focuses making of integrated circuits. The 
+process, which takes approximately one to two months from start to finish, 
+is very complicated and basically comprised several hundreds of different 
+steps. The circuits are printed on the wafer using layers of masks by 
+repeating processes including lithography, etching, oxidation, ion 
+implantation, and thin film several timers. Then, the wafers are sent to the 
+testing area to verify the functions of each IC. The wafer is then sent to the 
+packaging house for packaging and testing. 
+(III) Supply of Raw Materials 
+Raw materials include silicon wafers and chemicals such as photoresist, 
+special gases, and abrasives, and they are provided by the world’s leading 
+semiconductor material suppliers from Japan, the U.S. and Taiwan who 
+guarantee quality and stable supply. To diversify the risk of material supply, 
+the Company has alternative solution to ensure the supply chain will not be 
+interrupted by accidents. 
+We organize "open bids" through the procurement system of Formosa 
+Technology E -Market Place, and provide vendors with online inquiry, 
+quotation, negotiation, purchase order, delivery, and payment progress inquiry 
+functions. All information is encrypted via electronic certificates and protected 
+by a firewall to ensure the safety of all data being transferred. After the 
+computer opens all bids for a request for quotation, the vendor that bids the 
+lowest price with a delivery time and quality that meet require ments will be 
+given priority. 
+154
+</section>
+
+<section name="Annual report: keyword paragraphs from the rest of the report">
+[page 11]
+B. Corporate Governance 
+I. Directors and Management Team 
+(I) Directors              March 23, 2026 
+Title 
+Nationality/Place of 
+Incorporation 
+Name 
+Gender 
+Age 
+Date Elected 
+(In Office) 
+Term (Years) 
+Date First 
+Elected 
+Shareholding 
+when Elected 
+Current 
+Shareholding 
+Shares held by 
+spouse and 
+underage 
+children 
+Shareholding 
+by Nominee 
+Arrangement 
+Experience (Education) Director’s Current Position at 
+NTC and Other Companies 
+Executives or 
+Directors who are 
+Spouses or within 
+Two Degrees of 
+Kinship 
+Remarks (Note 1) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Title 
+Name 
+Relationship 
+Chairman 
+R.O.C 
+Nan Ya Plastics 
+Corp. 
+Representative: 
+Ming Jen, Tzou 
+(Note 2) 
+Male 
+Over 70 
+years old 
+2025.5.28 
+Three years 
+1995.2.17 
+2008.3.31 
+907,303,775 
+ 0 
+29.28  
+0.00 
+907,303,775 
+ 0 
+29.28  
+0.00 
+0 
+0 
+0.00 
+0.00 
+ 0 
+ 0 
+0.00 
+0.00 
+Chemical Engineering, 
+Provincial Taipei Institute of 
+Technology 
+Chairman, Nan Ya PCB Corp. 
+Director and President, Nan Ya 
+Plastics Corp. 
+N/A N/A N/A N/A 
+Director 
+R.O.C 
+Wen-Y uan, Wong 
+Male 
+Over 70 years old 
+2025.5.28 
+Three years 
+2006.08.28  4,000  0.00 4,000  0.00 127,648 0.00  0 0.00 
+Master degree in Industrial 
+Engineering and Bachelor 
+degree in Chemical Engineering, 
+University of Houston, Taxes, 
+U.S.A 
+Chairman, Formosa Taffeta Co., 
+Ltd. 
+Director, Formosa Plastics 
+Corp., Nan Ya Plastics Corp., 
+Formosa Chemicals & Fibre 
+Corp., Formosa Petrochemical 
+Corp., Nan Ya PCB Corp., 
+Formosa Sumco Technology 
+Corp. and Formosa Advanced 
+Technologies Co., Ltd. 
+N/A N/A N/A N/A 
+Director 
+R.O.C 
+Susan Wang 
+Female 
+61~70 years old 
+2025.5.28 
+Three years 
+2010.6.24  0  0.00 0  0.00  0 0.00  0 0.00 
+Bachelor degree in Economics, 
+Barnard College, Columbia 
+University, U.S.A 
+Chairman, Formosa 
+Environmental Technology 
+Corp. 
+Director, Formosa Plastics 
+Corp., Formosa Chemicals & 
+Fibre Corp. and Formosa Sumco 
+Technology Corp. 
+N/A N/A N/A N/A 
+Director 
+R.O.C 
+Nan Ya Plastics 
+Corp. 
+Representative: 
+Chia Chau, Wu 
+Male 
+Over 70 
+years old 
+2025.5.28 
+Three 
+years 
+1995.2.17 
+2004.5.12 
+907,303,775 
+ 957 
+29.28 
+0.00 
+907,303,775 
+957 
+29.28 
+ 0.00 
+0 
+0 
+0.00 
+0.00 
+ 0 
+ 0 
+0.00 
+0.00 
+Bachelor degree in Business 
+Administration, National 
+Chengchi University 
+Chairman, Nan Ya Plastics Corp.  
+Director, Nan Ya PCB Corp. and 
+NTC’s Subsidiaries 
+N/A N/A N/A N/A 
+Director 
+R.O.C 
+Nan Ya Plastics 
+Corp. 
+Representative: 
+Pei-Ing Lee 
+(Note 2) 
+Male 
+Over 70 years old 
+2025.5.28 
+Three years 
+1995.2.17 
+2004.5.12 
+907,303,775 
+1,265,098 
+29.28 
+0.04 
+907,303,775 
+1,265,098 
+29.28 
+ 0.04 
+0  
+571 
+0.00 
+0.00 
+0  
+571 
+0.00 
+0.00 
+Ph.D. in Chemical Engineering, 
+Syracuse University, USA 
+President, Nanya Technology 
+Corp. 
+Chairman, MemoLead 
+Technology Corporation 
+Independent Director, Powertech 
+Technology Inc. 
+Chairman, Director or President,  
+NTC’s Subsidiaries 
+N/A N/A N/A N/A 
+7
+
+[page 12]
+Title 
+Nationality/Place of 
+Incorporation 
+Name 
+Gender 
+Age 
+Date Elected 
+(In Office) 
+Term (Years) 
+Date First 
+Elected 
+Shareholding 
+when Elected 
+Current 
+Shareholding 
+Shares held by 
+spouse and 
+underage 
+children 
+Shareholding 
+by Nominee 
+Arrangement 
+Experience (Education) Director’s Current Position at 
+NTC and Other Companies 
+Executives or 
+Directors who are 
+Spouses or within 
+Two Degrees of 
+Kinship 
+Remarks (Note 1) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Title 
+Name 
+Relationship 
+Director 
+R.O.C 
+Lin-Chin Su 
+Male 
+61~70 years old 
+2025.5.28 
+Three years 
+2014.1.07    480,601  0.02    480,601  0.02  0 0.00  0 0.00 
+Ph.D. in Materials Science and 
+Engineering, University of Utah, 
+USA   
+Executive Vice President, Nanya 
+Technology Corp.
+
+[page 12]
+Director, CTBC Insurance Co., 
+Ltd. 
+Chairman, General Chamber of 
+Commerce of the Republic of 
+China 
+Chairman, Wish Education 
+Foundation 
+N/A N/A N/A N/A 
+Independent 
+Director 
+R.O.C 
+Ching-Chyi Lai 
+Male 
+Over 70 years old 
+2025.5.28 
+Three years 
+2016.6.22  0  0.00 0  0.00  0 0.00  0 0.00 Master degree in Public Finance, 
+National Chengchi University 
+Director, Taipei Foundation of 
+Finance 
+Convener, the Board of 
+Supervisors of the Shan Zhen 
+Mei ESG Alliance Association  
+Counselor, Taipei Teacher 
+Chang Center of the Teacher 
+Chang Foundation 
+N/A N/A N/A N/A 
+Independent 
+Director 
+R.O.C 
+Tain-Jy Chen 
+Male 
+Over 70 years old 
+2025.5.28 
+Three years 
+2022.5.26  0  0.00 0  0.00  0 0.00  0 0.00 
+Ph.D. in Economics, 
+Pennsylvania State University, 
+USA 
+Independent Director of Far 
+EasTone Telecommunications 
+Co., Ltd.
+
+[page 13]
+Title 
+Nationality/Place of 
+Incorporation 
+Name 
+Gender 
+Age 
+Date Elected 
+(In Office) 
+Term (Years) 
+Date First 
+Elected 
+Shareholding 
+when Elected 
+Current 
+Shareholding 
+Shares held by 
+spouse and 
+underage 
+children 
+Shareholding 
+by Nominee 
+Arrangement 
+Experience (Education) Director’s Current Position at 
+NTC and Other Companies 
+Executives or 
+Directors who are 
+Spouses or within 
+Two Degrees of 
+Kinship 
+Remarks (Note 1) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Shares 
+Percentage of 
+shares(%) 
+Title 
+Name 
+Relationship 
+Independent 
+Director 
+R.O.C 
+Ming-Ji Wu 
+Male 
+51~60 years old 
+2025.5.28 
+Three years 
+2025.5.28  0  0.00 0  0.00  0 0.00  0 0.00 
+Ph.D. in Technology 
+Management, National 
+Chengchi University 
+President of Digital Intelligence 
+development Org. of Walsin 
+Lihwa Corp.
+
+[page 14]
+Major shareholders of the institutional shareholders            April 23, 2026 
+Name of Institutional Shareholders Major shareholders of the institutional shareholders 
+Nan Ya Plastics Corp. 
+Chang Gung Medical Foundation (11.05%), Formosa Plastics Corp. 
+(9.88%), Formosa Chemicals & Fibre Corp. (5.21%), Chang Gung 
+University (4 .00%), Vanson International Investment Co., L td. (2.39%), 
+Formosa Petrochemical Corp. (2.26%), Chindwell International Investment 
+Corp. (1.86%) , Citibank Taiwan Limited In Custody for Macro System 
+Corp. (1.45%) , LGT Bank (Singapore) Ltd. (1. 37%), UBS AG-UBS AG 
+Singapore Branch (1.20%) 
+Major shareholders of the Company’s major institutional shareholders        April 23, 2026 
+Name of Institution Major shareholders of institution 
+Chang Gung Medical Foundation 
+Nan Ya Plastics Corp. ( 17.67%), Formosa Chemicals & Fibre Corp. 
+(13.61%), Formosa Plastics Corp. ( 13.06%), Wang Yung -Tsai (deceased, 
+11.05%), Wang Yung-Ching (deceased , 7.22%) 
+Formosa Plastics Corp. 
+Chang Gung Medical Foundation (9.44%), Formosa Chemicals & Fibre 
+Corp. (7.65%), UBS AG-UBS AG Singapore Branch (6.26%), Nan Ya 
+Plastics Corp. (4.63%), Chindwell International Investment Corp. (4.16%), 
+Vanson International Investment Co., Ltd. (3.05%), Formosa 
+Petrochemical Corp. (2.07%), Ming Chi University of Technology 
+(1.43%), Y uanta/P-shares Taiwan Top 50 ETF (1.26%), Grid Investors 
+Corp. (1.00%) 
+Formosa Chemicals & Fibre Corp. 
+Chang Gung Medical Foundation (18.58%), Chindwell International 
+Investment Corp. (6.35%), Vanson International Investment Co., Ltd. 
+(3.80%), Formosa Plastics Co rp. (3.39%), Nan Ya Plastics Corp. (2.40%), 
+Wen-Yuan, Wong (2.19%), Consolidated Power De velopment Corp.  
+(1.63%), Standard Chartered Bank (Taiwan) Ltd. In Custody for Genesis 
+Equity Group Inc. (1.51%), HSBC Bank (Taiwan) Limited In Custody for 
+Consolidated Power Development Corp. (1.4 5%), Bank of Taiwan In 
+Custody for Wang Jhan-Yang Social Welfare Fund (1.39%) 
+Chang Gung University 
+Chang Gung Medical Foundation (56.52%), Wang Yung-Ching (deceased, 
+13.06%), Chindwell International Investment Corp. (3. 86%), Nan Ya 
+Plastics Corp. (2.63%), Formosa Plastics Corp. (2.33%) 
+Vanson International Investment Co.,LTD. Landmark Capital Holdings Inc. (100%) 
+Formosa Petrochemical Corp. 
+Formosa Plastics Corp.  (28.56%), Formosa Chemicals & Fibre Corp.  
+(24.15%), Nan Ya Plastics Corp.  (23.11%), Chang Gung Medical 
+Foundation (5.79%), Formosa Taffeta Co., Ltd.  (3.83%), Standard 
+Chartered Bank (Taiwan) Ltd. In Custody for Genesis Equity Group Inc.  
+(0.60%), HSBC Bank (Taiwan) Limited In Custody for Power Unlimited 
+Corporation (0.51%), Standard Chartered Bank (Taiwan) Ltd. In Custody 
+for Central Capital Management Inc . (0.49%), HSBC Bank (Taiwan) 
+Limited In Custody for Pacific Light and Power Corporation (0.48%), Bank 
+of Taiwan in Custody for  Wang Chang -Gung Charitable Trust Fund  
+(0.44%) 
+Chindwell International Investment Corp. Everred Coporate, Inc. (100%) 
+Citibank Taiwan Limited In Custody for Macro 
+System Corp. Investment Account 
+LGT Bank (Singapore) Ltd. Investment Account 
+UBS AG-UBS AG Singapore Branch Investment Account 
+Note: If the institutional shareholder is not a company, the name and shareholding ratio of shareholders that must be disclosed 
+above is the name and ratio of contributions or donations from the investor or donor. Specified "deceased" if the donor has 
+passed away. 
+10
+
+[page 19]
+Diversity and independence of Board members: 
+1. Board diversity: 
+The “Corporate Governance Principles” of the Company  stipulate that the diversity 
+of Board members must b e given due consideration, and B oard members must have the 
+necessary knowledge, skill, and experience to perform their duties, including but not 
+limited to  gender, race, and nationality. In order to achieve the goal s of corporate 
+governance, the B oard as a whole shall have the following abilities: 1. Ability to make 
+operational judgment; 2. Ability to perform accounting and financial analysis; 3. Ability to 
+manage a business; 4. Ability to handle crisis management; 5. Knowledge of the industry; 
+6. An international market perspective; 7. Leadership; 8. Decision-making ability. 
+Currently the Board of Directors has 12 members, including 1 female Directors and 4 
+Directors who are concurrently employees (account ing for 8% and 33% of all D irectors, 
+respectively). The distribution of Directors by age is as follows: 1 Directors are 51-60 years 
+old, 5 Directors are 61-70 years old, and 6 Directors are over 70 years old. Less than 1/3 of 
+the Company’s Directors are female. This is due to the relatively few female professionals 
+in the tech industry. We will continue to seek professional female from other fields to serve 
+as Directors of the Company, and set the short-term goal for 1/4 of all Directors to be female 
+and the long -term goal to eventually achieve 1/3 . For information on the academic 
+background, experience, gender, professional qualification s, and work experience of each 
+Director as well as Board diversity, please refer to B. Corporate Governance Report I. (I) 
+Directors. The implementation of Board diversity is as follows:
+
+[page 21]
+(II) Management Team               March 23, 2026 
+Title 
+Nationality 
+Name 
+Gender 
+Date 
+Elected  
+(In Office) 
+Shareholding 
+Spouse's/ 
+minor's 
+Shareholding 
+Shareholding 
+by Nominee 
+Arrangement 
+Experience (Education) Current job position in other 
+companies 
+Managerial officer 
+who is a spouse or 
+a relative within 
+second degree 
+Remarks (Note 1) 
+Shares 
+(Share) 
+Percentage of 
+shares(%) 
+Shares 
+(Share) 
+Percentage of 
+shares(%) 
+Shares 
+(Share) 
+Percentage of 
+shares(%) 
+Title Name 
+Relationship 
+President 
+R.O.C 
+Pei-Ing Lee 
+Male 2015.10.6 1,265,098  0.04 571  0.00  0  0.00 Ph.D. in Chemical Engineering, 
+Syracuse University, USA 
+Chairman, MemoLead 
+Technology Corporation 
+Independent Director, 
+Powertech Technology Inc.
+
+[page 22]
+Title 
+Nationality 
+Name 
+Gender 
+Date 
+Elected  
+(In Office) 
+Shareholding 
+Spouse's/ 
+minor's 
+Shareholding 
+Shareholding 
+by Nominee 
+Arrangement 
+Experience (Education) Current job position in other 
+companies 
+Managerial officer 
+who is a spouse or 
+a relative within 
+second degree 
+Remarks (Note 1) 
+Shares 
+(Share) 
+Percentage of 
+shares(%) 
+Shares 
+(Share) 
+Percentage of 
+shares(%) 
+Shares 
+(Share) 
+Percentage of 
+shares(%) 
+Title Name 
+Relationship 
+Assistant 
+Vice 
+President 
+R.O.C 
+Rex Chen 
+Male 2017.12.20 26,000 0.00  0  0.00  0  0.00 Master degree in International 
+Business, Tamkang University 
+Chairman or Director, NTC’s 
+Subsidiaries N/A N/A N/A N/A 
+Assistant 
+Vice 
+President 
+R.O.C 
+Wooder Yang 
+Male 2023.11.01 0 0.00  0  0.00  0  0.00 
+Master degree in Electronic and 
+Computer Engineering, National 
+Taiwan University of Science and 
+Technology 
+N/A N/A N/A N/A N/A 
+Acting 
+Assistant 
+Vice President 
+R.O.C 
+Hank Huang 
+(Note 3) 
+Male 2026.2.1 10,000 0.00  0  0.00  0  0.00 
+Master degree in Materials 
+Engineering, Auburn University, 
+Alabama, USA 
+N/A N/A N/A N/A N/A 
+Acting Assistant 
+Vice President 
+R.O.C 
+Tracy M. Liu 
+(Note 3) 
+Female 
+2026.2.1 0 0.00  0  0.00  0  0.00 
+Master degree in Engineering 
+Management, George Washington 
+University, USA 
+Supervisor, PieceMakers 
+Technology Inc. and 
+MemoLead Technology 
+Corporation 
+N/A N/A N/A N/A 
+Corporate 
+Governance 
+Supervisor 
+R.O.C 
+Jason Tseng 
+Male 2023.11.8 0 0.00  0  0.00  0  0.00 
+Bachelor degree in industrial 
+management, National Cheng Kung 
+University 
+N/A N/A N/A N/A N/A 
+Finance 
+Officer 
+R.O.C 
+Philip Jao 
+Male 2017.3.9 0  0.00  0  0.00  0  0.00 
+Master degree in Business 
+Administration, University of Florida, 
+USA 
+Executive Master in Business 
+Administration, National Taiwan 
+University 
+N/A N/A N/A N/A N/A 
+18
+
+[page 34]
+Evaluation 
+cycle 
+Evaluation 
+period 
+Scope of 
+evaluation 
+Evaluation 
+method Evaluation items 
+Once a 
+year 
+October 1, 
+2024 to 
+September 
+30, 2025 
+Board of 
+Directors 
+Self-
+evaluation 
+by Board 
+members 
+Includes level of participation in 
+company operations, improving 
+the quality of Board decisions, 
+Board composition and structure, 
+selection and continuing education 
+of Directors, and internal control 
+system.
+
+[page 34]
+Individual 
+Directors 
+Member 
+Self-
+evaluation 
+by Board 
+members 
+Includes grasp of company goals 
+and missions, understanding of the 
+Director’s responsibilities, level of 
+participation in company 
+operations, internal relationship 
+management and communication, 
+Director’s specialty and continuing 
+education, and internal controls.
+
+[page 37]
+Contents of dissenting opinions, qualified opinions, or recommendations of 
+Independent Directors: None. 
+Resolutions of the Audit Committee: All attendants agreed to pass. 
+The Company’s handling of the opinions of the Audit Committee: 
+Matters discussed in the Audit Committee meeting were approved by all 
+Directors in attendance during the Board meeting on May 9, 2024. 
+August 7, 2025 
+4th meeting in 
+2025 
+1.To approve the Company’s financial statements for 
+the second quarter of 2025. 
+2. To approve to the establishment of a joint venture 
+semiconductor design company with Etron 
+Technology, Inc. 
+3. To approve 2025-2 employee stock options for 
+general employee. 
+－
+
+[page 44]
+✓ 
+The Company monitors changes in 
+shareholdings or pledged shares o f Directors, 
+managers, and discloses information on 
+shareholders with more than 5% of total 
+outstanding shares in quarterly financial 
+statements. Directors, managers, and shareholders 
+with 10% or more shares complete reporting 
+procedures on the website designated by the 
+competent authority of securities each month. 
+The personnel and property of the Company 
+has been separated definitely from other affiliates 
+without any abnormal transactions. 
+All transactions with affiliated enterprises are 
+conducted on a legitimate basis and at arm’s length. 
+We have also set a limit on the scope and amount 
+of endorsements and guarantees that can be 
+provided to other companies. 
+For banks, customers, and suppliers, we make 
+a comprehensive risk arrangement through 
+checking from computer and stop paying if any 
+problems from same supplier. 
+The Company has the internal prohibition 
+with the Company's property, confidential 
+information, or unable to obtain non -public 
+information in the market to acquire its own 
+illegitimate profits in the “Guidelines and 
+Regulations Rule” of the Company. 
+We established Personnel Management Rules 
+and Guidelines for the Prevention of Insider 
+Trading to prohibit insiders from illegally profiting 
+from trades based on information not yet disclosed 
+to the public, and we educate Directors and 
+employees. 
+Complies with 
+Article 19 of the 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies.
+
+[page 45]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+III. Composition and 
+responsibilities of 
+the Board of 
+Directors 
+(I) Have a diversity 
+policy and specific 
+management 
+objectives been 
+adopted for the 
+board and have 
+they been fully 
+implemented?
+
+[page 45]
+The “Corporate Governance Principles “of the 
+Company stipulate that the diversit y of B oard 
+members must b e given due consideration, and 
+Board members must have the necessary 
+knowledge, skill, and experience to perform their 
+duties, including but not limited to gender, race and 
+nationality. In order to achieve the goals of 
+corporate governance, the Board as a whole shall 
+have the following abilities 1. Business judgment. 
+2. Ability to perform accounting and financial 
+analysis. 3. Ability to manage a business. 4. Ability 
+to handle crisis management. 5. Knowledge of the 
+industry. 6. An international market perspective. 7. 
+Leadership. 8. Decision-making ability. 
+Currently the Board of Directors  has 12 
+members, including 4 Independent D irectors, 1 
+female Director, and 4 D irectors who are 
+concurrently employees (accounting for 33%, 8%, 
+and 33% of all  Directors, respect ively). The 
+distribution of D irectors by age is as follows: 1 
+Directors are 51-60 years old, 5 Directors are 61-70 
+years old, and 6 Directors are over 70 years old. The 
+Company sets the short -term goal for 1/4 of all 
+Directors to be female and the long -term goal to 
+eventually achieve 1/3 . Independent Directors are 
+following the Code of Practice for Independ ent 
+Directors of FSC. For information on the academic 
+background, experience, gender, professional 
+qualifications, and work experience of each 
+director as well as Bo ard diversity, please refer to 
+B. Corporate Governance I (I) Directors.
+
+[page 47]
+Complies with 
+Article 29 of the 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies. 
+IV. Does the public 
+company have a 
+suitable number of 
+competent 
+corporate 
+governance 
+personnel, and has 
+it appointed a 
+corporate 
+governance 
+supervisor 
+✓  1. The Board of Directors approved the 
+appointment of a corporate governance 
+supervisor on May 10,  2019. The corporate 
+governance supervisor is the highest level 
+manager of corporate governance affairs,  and 
+competent personnel are appointed to handle 
+corporate governance affairs.  The scope of 
+authority, includes convening Board meetings 
+and Shareholders’ meetings in accordance with 
+the law,  preparing proceedings for Board 
+meetings and Shareholders’ meetings, assisting 
+with the appointment and continuing education 
+of Directors, providing data required by 
+Complies with 
+Article 3-1 of the 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies.
+
+[page 48]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+responsible for 
+corporate 
+governance 
+matters (including 
+but not limited to 
+providing 
+information for 
+directors to 
+perform their 
+duties, assisting 
+directors with 
+regulatory 
+compliance, 
+handling matters 
+related to Board 
+meetings and 
+shareholders' 
+meetings, and 
+preparing 
+proceedings for 
+Board meetings 
+and shareholders' 
+meetings)? 
+Directors to perform their duties,  assisting 
+Directors with complying with the law,  
+reviewing the compliance of Independent 
+Directors’ qualifications, and handling matters 
+related to Director changes. 
+2. Key points of operations in 2025: 
+(1) Assist in the compliance of proceedings and 
+resolutions of Board meetings and 
+Shareholders’ meetings. 
+(2) Notify Directors of the agenda of Board 
+meetings 7 days in advance, convene 
+meetings, and provide meeting materials. 
+Remind Directors of agenda items with which 
+they have a conflict of interest, and complete 
+Board meeting minutes within 20 days after a 
+meeting. 
+(3) Provide assistance by arranging meetings if 
+Independent Directors need to meet with the 
+chief internal audit or CPA to understand the 
+Company’s business needs. 
+(4) Assist in providing Directors with the data 
+they need to perform their duties and arrange 
+continuing education for Directors. 
+(5) Report to the Board of Directors results of 
+whether Independent Directors had the 
+qualifications required by law at the time of 
+nomination, election, and during their term.
+
+[page 49]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+3. Continuing education of the corporate 
+governance supervisor in 2025:
+
+[page 49]
+Date of 
+continuing 
+education 
+Course name Organizer hours 
+2025.6.10 
+CDP Taiwan Launch 
+Event - Strengthening 
+Climate-Related 
+Disclosures to Enhance 
+Corporate Climate 
+Resilience  
+Taiwan 
+Stock 
+Exchange 
+Corporation 
+3 
+18 
+2025.7.9 
+2025 Cathay Sustainable 
+Finance and Climate 
+Change Summit 
+6 
+2025.7.23 
+Enterprise Risk 
+Management Issues and 
+Practices 
+Taiwan 
+Corporate 
+Governance 
+Association 
+3 
+2025.11.14 Overseas Investment, 
+Mergers, and Acquisitions Securities 
+and Futures 
+Institute 
+3 
+2025.11.14 
+Trump 2.0 Disrupting the 
+Global Economic Order - 
+Impact and Responses 
+3
+
+[page 50]
+(2)  Employee: Issues such as workplace safety, 
+employee benefits, human rights protection, 
+and employment relationships include 
+corporate announcements, human resources 
+service representatives, and regular meetings  
+(such as staff meetings and online personnel 
+meetings). A  variety of education and 
+training, irregular communication meetings, 
+employee relations department channels of 
+communication, company publications, 
+electronic platforms, questionnaires (such as 
+education and training satisfaction, catering 
+satisfaction) a nd other channels to 
+communicate with employees.
+
+[page 50]
+(3)  Client: Respond to customer -focused product 
+quality, after-sales service and other issues by 
+visiting customers, customer meetings, 
+maintenance services, dealer meetings, 
+regular technical support, customer education 
+and training, and customer satisfa ction 
+surveys. In addition, the website lists the sales 
+service line and e -mail address, and handles 
+customer complaints through the "customer 
+opinion response form" and "customer 
+complaint processing form".
+
+[page 51]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+compliance of manufacturers with 
+environmental protection, work safety, and 
+human rights standards. It conducts public 
+tendering through the Formosa Plastics 
+Network electronic trading platform 
+procurement contracting system, and regularly 
+organizes compan y briefing sessions to 
+strengthen the two -way Communication and 
+advocacy. In addition, it provides an instant 
+supplier information platform, regular face-to-
+face review reports or meetings, supplier 
+surveys, audits and guidance, and supplier 
+delivery stability and quality assessment.
+
+[page 51]
+(6)  Community: The Company gathers together 
+funds, supplies, and manpower inside and 
+outside the Company for community 
+involvement actions through the four themes:  
+talent cultivation,  environmental 
+conservation, good neighbor, and humanistic 
+care. Information is announced on the 
+company website to inform communities, and 
+we established a Charity Club to participate in 
+volunteer activities and organize donation 
+activities to provide support after a major 
+natural disaster occurs in Taiwan.  There is a 
+47
+
+[page 52]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+stakeholder contact person to provide a 
+communication channel for community 
+residents, and our fab has a management 
+office to handle communication with 
+communities. 
+(7)  Media: Communication methods include 
+press releases, quarterly press conferences, 
+the official company website, and interviews 
+with the spokesperson. 
+VI. Does the Company 
+appoint a 
+professional stock 
+agency to deal the 
+shareholders 
+affairs? 
+ ✓
+
+[page 54]
+(I) Employee rights and interests: 
+The Company keeps good relationships with 
+employees and pay attention for rights of 
+expressing opinions and suggestions. We set boxes 
+for employees to provide their opinions through 
+computer system. All are replied by designated 
+person, in order to smooth the communication 
+channels of employees’ opinions. the Company has 
+formulated the “Reporting Regulations”, “ prevent 
+sexual harassment in the workplace, grievances and 
+disciplinary Regulations ” and “Employee 
+Protection and Complaint Regulations” to establish 
+channels for stakeholders to report , appeal and 
+protection mechanisms . At the same time, 
+department heads attend regular supervisory board 
+meetings and labor-management meetings to fully 
+communicate with employees. We first listen to the 
+opinions of unions regarding major labor -
+management issues, and highest level supervisors  
+negotiate with the unions to reach an agreement, 
+ensuring harmonious labor relations and the 
+Company’s sustainable development. 
+(II) Care for employees: 
+In addition to providing industry -specific and 
+competitive salary levels,  the Company also 
+implemented the Employee Assistance Program 
+and provides comprehensive welfare measures 
+through WAKE Up actions from  Wellness”, 
+“Assistance”, “Kindness”, and “Exercise” to 
+achieve the goal of  “creating a happy workplace 
+and creating a group of happy technology people”. 
+With a view to taking care of employee physical 
+and mental health, the Company works with a 
+medical team at Chang Gung Hospital to provide 
+more frequent employee health examinations than 
+Complies with 
+Article 51-54 of the 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies.
+
+[page 59]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+the industry, the company pursues good business 
+performance and strives to achieve its mission to 
+“care for its employees, serve its customers, and 
+give back to shareholders.” To that end, it bears a 
+responsibility to properly care for its shareholders, 
+customers, suppliers, employees, and society. In 
+addition to complying with laws and the norms of 
+business ethics, the Company has maintained 
+international standards to enhance competitiveness; 
+created shareholders' rights; pay equal attention to 
+economic, e nvironmental and social aspects; 
+promote green construction and procure green or 
+energy-conserving materials and supplies; 
+conserve energy and reduce carbon emissions; pay 
+attention to social issues; invest in community or 
+social welfare actions suitable f or businesses, and 
+thus extend care for society. 
+(VI) Advanced studies of Directors :
+
+[page 59]
+Name 
+Date of 
+continuing 
+education 
+Course name Organizer Hours 
+Chia 
+Chau 
+Wu
+
+[page 60]
+Name 
+Date of 
+continuing 
+education 
+Course name Organizer Hours 
+Joseph 
+Wu 
+2025.2.13 
+39th TCCS Board 
+Meeting and CEO 
+Seminar 
+Taiwan 
+Institute for 
+Sustainable 
+Energy 
+2 
+9 
+2025.4.24 
+40th TCCS Board 
+Meeting and CEO 
+Seminar 
+2 
+2025.7.23 
+Enterprise Risk 
+Management 
+Issues and 
+Practices 
+Taiwan 
+Corporate 
+Governance 
+Association 
+3 
+2025.10.17 
+41th TCCS Board 
+Meeting and CEO 
+Seminar 
+Taiwan 
+Institute for 
+Sustainable 
+Energy 
+2 
+Shu-Po 
+Hsu 
+2025.6.4 
+The latest ESG 
+laws, regulations, 
+trends, impacts, 
+and responses 
+Taiwan 
+Corporate 
+Governance 
+Association 
+3 
+16 
+2025.7.23 
+Enterprise Risk 
+Management 
+Issues and 
+Practices 
+3 
+2025.10.30 
+The great future of 
+electrical power 
+systems 
+ITRI College 3 
+2025.11.18 
+Money laundering 
+prevention and 
+fraud protection 
+Securities and 
+Futures 
+Institute 
+3 
+The capabilities 
+and limitations of 
+AI: Survival rules 
+for enterprises in 
+the AI age 
+2 
+Development 
+trends and 
+cybersecurity risks 
+of digital assets 
+2 
+Tain-Jy 
+Chen 
+2025.7.4 
+Domestic and 
+international 
+development 
+trends of carbon 
+pricing 
+mechanisms 
+Securities 
+and Futures 
+Institute 
+3 
+6 
+2025.7.23 
+Enterprise Risk 
+Management 
+Issues and 
+Practices 
+Taiwan 
+Corporate 
+Governance 
+Association 
+3 
+Ming-Ji 
+Wu 
+2025.2.21 
+Stainless steel 
+business strategy 
+planning and 
+sustainable 
+development 
+Taiwan 
+Corporate 
+Governance 
+Association 
+2 
+7 2025.5.16 
+Digital 
+transformation 
+value creation - 
+Driving change 
+with data and 
+developing 
+opportunities for 
+the 
+industrialization of 
+AI 
+2 
+2025.7.23 
+Enterprise Risk 
+Management 
+Issues and 
+Practices 
+3
+
+[page 61]
+Name 
+Date of 
+continuing 
+education 
+Course name Organizer Hours 
+Ching-
+Chyi  
+Lai 
+2025.2.27 
+New business 
+opportunities in 
+quantum 
+technology: Key 
+technologies and 
+business 
+opportunities of 
+quantum 
+technology 
+Taipei 
+Foundation of 
+Finance 
+2 
+25 
+2025.7.9 
+2025 Cathay 
+Sustainable 
+Finance and 
+Climate Change 
+Summit 
+Taiwan Stock 
+Exchange 
+Corporation 
+6 
+2025.7.23 
+Enterprise Risk 
+Management 
+Issues and 
+Practices 
+Taiwan 
+Corporate 
+Governance 
+Association 
+3 
+2025.7.24 
+Corporate 
+governance - The 
+digital finance 
+revolution: The 
+principles of 
+stablecoins and the 
+application of 
+blockchains in 
+fintech 
+Taipei 
+Foundation of 
+Finance 
+2 
+2025. 8.29 
+Corporate 
+governance - The 
+digital finance 
+revolution: 
+Applications of 
+smart contracts and 
+non-fungible 
+tokens (NFTs) in 
+virtual assets 
+2 
+2025. 9.25 
+Corporate 
+governance - When 
+quantum 
+computing meets 
+financial 
+innovation 
+2 
+2025.10.30 
+Analysis of 
+corporate 
+transformation and 
+mergers and 
+acquisitions 
+Securities and 
+Futures 
+Institute 
+3 
+The great future of 
+electrical power 
+systems 
+ITRI College 3 
+2025.12.26 
+Corporate 
+governance - A 
+look ahead at 
+technology 
+industry trends and 
+business 
+opportunities in 
+2026 in the AI age 
+Taipei 
+Foundation of 
+Finance 
+2
+
+[page 67]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+(7) Creating a risk culture: Risk culture 
+construction: To establish a comprehensive 
+risk management culture, the Company ’s 
+Sustainable Development Committee, which 
+is subordinate to the Board of Directors, 
+reviews the Company ’s risk management 
+policy, strategies, and management approach, 
+and supervises the Company ’s 
+implementation of risk management matters 
+and plans. In accordance with the defined 
+scopes, organizations, duties, and risk 
+management procedures stipulated in the Risk 
+Management Regulations. The Company ’s 
+Risk Management Center  is headed by the 
+Executive Vice P resident. The Center 
+internalizes risk awareness in the management 
+hierarchy, and reviews risk management 
+performance and emerging risks on an annual 
+basis. We also included risk management 
+result in the annual performance evaluation of 
+management (president and supervisors 
+ranked assistant vice president and above), 
+through the objectives by top managers to 
+implement risk management measures and 
+comprehensively raise the Company's risk 
+awareness.  
+A. Innovation proposal rewards and product risk 
+management: A variety of incentives are 
+provided to encourage employees to make 
+innovation proposals and discover and 
+improve potential risks. Proposals are 
+evaluated and prizes are awarded based on 
+expected benefits, creativity, scope of 
+application, completeness, and quality 
+contribution. In addition, the Company 
+incorporates the concept of risk in the design
+
+[page 68]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+and development stage of new products, and 
+performs failure mode and effect analysis 
+(FEMA) to identify all potential risks, and 
+establish mitigation measures to ensure that 
+risks are minimized before new products go 
+into mass production. We set up a 24 -hour 
+reporting hotline, information security 
+hotline, whistleblower hotline, and 
+whistleblower mailbox to ensure that risks 
+are identified and addressed immediately, and 
+also deeply rooted the risk management 
+culture into the routine work of all employees 
+through various promotional methods, such 
+as TV walls, posters, and desktop wallpapers. 
+B. Assessment and financial incentive 
+mechanisms to promote risk management: 
+The Company ’s evaluation regulations 
+include employees ’ understanding and 
+implementation of risk management as an 
+evaluation item in quarterly work evaluations 
+and year-end evaluations, which serves as the 
+basis for performance ratings, promotion, 
+bonuses, and stock options, to ensure that risk 
+management measures are implemented . 
+Incentives are also linked to the Company ’s 
+key risks. For example, we have a zero -
+occupational injury  bonus system to 
+encourage managers and employees to take 
+preventive measures to avoid accidents, so as 
+to reduce hazard risks. Corresponding 
+bonuses are given when the annual target is 
+achieved. 
+C. Regular risk training to raise the risk 
+awareness of all employees: In addition to 
+arrangements are made for all Directors to 
+take corporate governance and risk
+
+[page 69]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+management courses offered by government-
+approved institutions every year, training 
+courses will also be arranged on the 
+framework and operational practices of risk 
+management, in order to ensure that they 
+have the professional abilities to oversee the 
+Company’s risk management operations. In 
+addition, the Company has also compiled 
+teaching materials on risk management, 
+adjusted the contents of the teaching 
+materials each year based on the 
+implementation status and results of risk 
+management, and assigns re ading materials 
+and training to employees through the 
+Company’s internal computer system, so that 
+employees can fully understand the 
+Company's risk management operations and 
+become aware of the risks in routine 
+operations. 
+D. Risk culture promotion activities: The 
+Company also irregularly organizes 
+management activities to raise employees ’ 
+risk awareness, such as the “Information 
+Security Month ” in 202 5, during which 
+online Q&A, “Cybersecurity Visual Creation 
+Awards”, “information security seminars ” 
+and “reading information security 
+regulations”, which have built employees ’ 
+consensus of information security and 
+created a culture in which all employees 
+participate in the prevention and 
+improvement of risks. 
+4. External audit of risk management: A third-party 
+verification agency is commissioned to conduct 
+external audits once every two years to 
+determine whether or not the Company ’s risk
+
+[page 70]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+management system was properly implemented. 
+The most recent verification was completed by 
+Association Française de Normalisation 
+(AFNOR) in May 2025, and a declaration of 
+compliance with ISO 31000 guidelines and 
+principles was obtained. 
+(VIII) Implementation of Customer Policy: 
+1.  Customer royalty will be helpful to expand the 
+business scope and strengthen the good 
+partnership with customers. Maintaining good 
+customer relationships help build customer 
+loyalty, and higher loyalty benefits business 
+scope expansion and maintaining par tnerships 
+with customers. Creating quality service is one 
+of the core values of the company. The 
+company’s goal is to maintain its service in 
+leading position among DRAM manufacturers, 
+and believes that maintaining the 
+aforementioned service objectives and attitudes 
+will help to enhance the existing customer 
+relationship and establish a reputation in the 
+industry, which will be beneficial to attracting 
+new customers. 
+2. Product design and test verification stage: In 
+order to improve the efficiency and frequency of 
+customer service and effectively build close 
+relationships with customers, the Field 
+Application Engineering Division provides 
+technical support to customers in Taiwan, China, 
+Southeast Asia, Europe, the United States, Japan 
+and South Korea, organizing irregular 
+technology exchange events to meet the 
+technical needs of customers. In 202 5, the 
+Division held a total of 114 events, providing 
+technical supports and assisting customers ’
+
+[page 71]
+Assessment item 
+Implementation status   (Note) Deviations from 
+Corporate 
+Governance Best-
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies 
+and reasons 
+Yes 
+No Explanation 
+engineering personne l to solve problems in 
+design and testing. In addition, through the 
+highly efficient, intensive, and high -quality 
+customer platform parameter measurement 
+service, of which 1,142 cases were completed in 
+2025, we assisted customers in understanding 
+the characteristics of their product platforms so 
+that the new product development progress and 
+verification cycles of customers were 
+significantly accelerated, reducing investment 
+risks and helping final  products to be launched 
+in a timely mann er in the demand market. We 
+also provide “customer product joint validation” 
+services, and help customers discover 
+compatibility issues during early stages of 
+product development and validation, so that they 
+can make improvements before mass 
+production. We completed a total of 28 joint 
+validation services in 2025. 
+3. Production and sales stag: NTC has obtained the 
+ISO 9001:2015 and IATF 16949:2016 quality 
+system certifications. The Quality Assurance 
+Division monitors and controls product quality 
+as well as implements improvements in order to 
+make sure that all production processes are fully 
+optimized. Moreover, the Division includes each 
+stage of the production process into a well 
+maintained and tightly controlled system, 
+manufacturing the products that meet customers' 
+requirements. The C ompany’s business staff 
+continuously communicates with the customer 
+through the weekly feedback of the customer’s 
+future demand forecast. The company’s 
+production and sales system converts into a 
+production plan after the head office aggregates 
+the needs of global business feedback.
+
+[page 86]
+C. Occupational Health and Saf ety: Employees are 
+our important assets. We provide employees with a 
+safe and healthy working environment through 
+continuous improvement, and raise their safety 
+culture awareness. We strengthen self-inspections 
+and reduce the occurrence of occupational 
+accidents among employees.
+
+[page 86]
+E. Human rights: We value basic human rights, 
+implemented a human rights culture and training, 
+82
+
+[page 87]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+established principles of risk mitigation and 
+compensation and created a working environment 
+that protects human rights.
+
+[page 87]
+B. Ethical Corporate Management: We will build a 
+sound corporate governance system, implement 
+various business ethics policies and risk 
+management mechanisms between suppliers, 
+customers, and stakeholders to maintain the  
+foundation of corporate sustainability and value 
+creation.
+
+[page 87]
+C. R&D and Innovation: Research and develop 
+advanced process technologies as well as design 
+new products of the next generation, make 
+forward-looking market plans while providing 
+customers with high value -added solutions, and 
+establish highly intelligent product lines to 
+enhance efficiency, in order to maintain 
+competitive advantages.
+
+[page 89]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+employees, Nanya has trained dedicated energy 
+management personnel in each unit to facilitate energy 
+management and the implementation of energy 
+conservation in each department. Currently, there are 
+110 qualified energy management personnel, and 4 13 
+employees completed training over the years. 
+Energy saving targets set by the Company for 
+2030: Cumulative energy saving from 2017 to 2030: 
+103,000 MWh/year. A total of NT$ 28.26 million was 
+invested and 30 energy-saving management plans were 
+completed in 202 5, saving 4,695 MWh/year. We 
+implemented 28 energy conservation plans (2 5 new 
+plans, 3 ongoing plans) in 2026, and expect to save 4,637 
+MWh/year. 
+2. Regarding the potential negative ESG impacts of raw 
+materials, the Company actively cooperates with 
+external stakeholders, prioritizes joint action in the best 
+solutions to minimize the impact, and does its best to 
+avoid using raw materials from biodive rsity areas in 
+Taiwan and overseas. Based on the Company's 
+Hazardous Substance Free Policy and Responsible 
+Mineral Procurement Policy, we comply with domestic 
+and international regulations or directives on restricted 
+substances, obtained additional third-party certification, 
+and increased the use of recycled raw materials, 
+improving our green product management and design 
+and innovation capabilities. 
+In the production process, the Company needs to 
+use monitor wafers to monitor process conditions. The 
+used monitor wafers can be reproduced and used 
+repeatedly; each monitor wafer can be repeatedly used 
+8-11 times (varies with the process used). This not only 
+reduces the cost of purchasing whole new monitor 
+wafers, but also reduces the amount of waste generated.
+
+[page 93]
+The Company not only complies with the Labor 
+Standards Act and other labor regulations to protect the 
+fundamental human rights of employees and  
+stakeholders, but also supports and complies with the UN 
+Guiding Principles on Business and Human Rights, 
+Universal Declaration of Human Rights, International Bill 
+of Human Rights, the first and second principles of the UN 
+Global Compact , and International Labor Organization ’s 
+Declaration on Fundamental Principles and Rights at 
+Work. The Company also align with the Responsible 
+Business Alliance (RBA) Code of Conduct and local laws 
+at each operating site to promote a humane working 
+environment and fulfill our responsibility for sustainable 
+business operations. (Please refer to VII.  Other important 
+information to facilitate better understanding of the 
+company’s promotion of sustainable development  for 
+Human Rights Policy of the Company.) 
+The Company’s Sustainable Development Committee 
+continues to promote sustainable development policies and 
+human rights protection measures in various aspects and 
+carries out risk assessment and management, thereby 
+creating an inclusive and friendly environ ment with 
+diversity. 
+The Company is committed to not employ children 
+under the age of 16. In addition, the Company will never 
+force labor or coerce any unwilling person to perform 
+labor. The terms of employment of all employees were 
+agreed to and signed by both parties under their free will. 
+The Company established personnel rules and 
+systems on this basis to protect the rights and interests of 
+employees, establish risk management and preventive 
+measures, and design multiple communication and 
+complaint channels, such as the workplace unlawful 
+infringement complaint hotline and mailbox, to create a 
+workplace with equality.
+
+[page 94]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+Diversity, Equity and Inclusion (DEI) are part of the 
+Company’s core strategy and play a crucial role in realizing 
+the corporate vision. Comprehensive strategy planning is 
+carried out on this basis and allow employees to understand 
+the importance of DEI, making it the cornerstone of all 
+actions of the Company. The Company has a DEI 
+Development Working Group that focuse s on promoting 
+diversity, increasing inclusion in the workplace 
+environment, and exerting social influence. The members 
+include representativ es from different levels to ensure 
+comprehensiveness and different perspectives. The 
+working group formulates strategies, monitors progress, 
+and work closely with other departments to ensure the 
+Company’s goals are achieved. The core values are 
+practiced in the company culture to realize DEI: Integrity, 
+accountability, innovation, and efficiency. For diversity, we 
+embrace representatives of all different identities and 
+backgrounds. For equity, we established a fair talent 
+screening and  recruitment process to provide everyone 
+with opportunities to improve their abilities and develop. 
+For inclusion, we created a workplace culture with a sense 
+of belonging and ensure everyone can fully participate and 
+voice their opinions. 
+(II) Has the Company 
+established and 
+implemented 
+reasonable employee 
+welfare measures 
+(include 
+salary/compensation, 
+leave, and other 
+benefits), and are 
+business performance 
+or results 
+appropriately 
+reflected in employee 
+salary/compensation? 
+✓
+
+[page 95]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+Approximately 27.7% of employees were female and 
+35% of managers were female in 2025. 
+(3) The Company’s holidays include two -day weekends, 
+national holidays, and other holidays specified by the 
+central competent authority. We also provide 
+employees with special leave, sick leave, etc., in 
+accordance with the Labor Standards Act, as well as 
+leave for new employees, mental health leave, honorary 
+leave for volunteering, bereavement leave for some 
+relatives of the third degree, 14 days of family care 
+leave, paid leave for health checkups, half pay for six 
+months of long -term sick leave, and other worker -
+friendly leave policies . (please refer to  D. Operations 
+overview V . Labor Relations). 
+2. Our employee salaries include base pay, various 
+allowances, and other compensation. Furthermore, we 
+also offer variable compensations based on employees’ 
+individual performance and attainment of 
+organizational goals (or profitability). In doing so, we 
+reward employees for their excellent performance and 
+share with them the profits we make as a group, 
+regardless of their gender. Pursuant to the Articles of 
+Incorporation, The Company shall appropriate 1% to  
+12% for employees’ compensation  from profit befor e 
+tax prior to deducting employees’ compensation.  
+Among them, the Company shall appropriate 0.3% to 
+3.6% for non-executive employees’ compensation 
+from profit before tax prior to deducting employees’ 
+compensation, if any, as employee bonuses. Please 
+refer to 5. Employee Bonuses and Directors ’ 
+Remuneration in C. Capital Overview for the 
+distribution of employee bonuses.
+
+[page 96]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+(III) Does the Company 
+provide employees 
+with a safe and 
+healthy working 
+environment, and 
+implement regular 
+safety and health 
+education for 
+employees? 
+✓
+
+[page 96]
+1. The safe and healthy work environment provided by the 
+Company to employees is described below: 
+(1) Operations of the Occupational Safety and Health 
+Committee: Senior executives, department heads, and 
+committee members (4 1.3% are labor representatives 
+in accordance with the law) participate in committee 
+operations. The committee reviews the attainment of 
+EHS management goals, safety and health issues, 
+hazards identification, and risk assessment and 
+management goals on a month ly basis. The safety and 
+health management plan, which involves all employees 
+and contains the occupational safety and health policy, 
+is formulated and implemented on the basis, and 
+complies with regulatory and health promotion 
+requirements. 
+(2)  Occupational accident prevention and management: 
+We have not let our guard down when it comes to 
+disaster prevention. We are constantly raising the safety 
+awareness of new employees and contractors, and have 
+implemented the following measures to prevent 
+occupational accidents: Implement process safety 
+management (PSM), HazOp analysis for potential 
+equipment risks, job safety analysis for operating risks, 
+safety and health education and training, and SWAT. 
+(3) Occupational safety and health management system: 
+We implemented and achieved the ISO 45001:2018  
+(the certification’s valid is from January 30,  2026 to 
+January 29, 202 9) and have set goals for hazards of 
+high risk operations according to the PDCA 
+management cycle to continue making improvements. 
+(4) Employee healthcare: We are working with the 
+medical team of Chang Gung Memorial Hospital to 
+provide employees with annual health examinations, 
+and follow-up and health management is carried out 
+for employees with abnormal results. For example, we 
+continue to track and manage the health of high risk 
+employees with high blood pressure, high blood 
+Complies with 
+Article 20 of the 
+Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed 
+Companies. 
+92
+
+[page 98]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+high risks such as chemical leakage, rescue of injured 
+personnel, and evacuation during an earthquake or fire 
+accident. In addition to training, we carry out regular 
+safety walk and talk (SWAT) to discuss the 
+improvement of workers' safety and unsafe behav iors 
+in depth, in order to improve safety in both operational 
+and environmental aspects. SWAT is carried out by 
+senior managers on site, the Safety and Health 
+Division and employees, and the head and employees 
+of each department, showing concern about workplace 
+health and safety. 
+4. Before the release of the guidelines on workplace 
+violence, the Company already had the "Workplace 
+Sexual Harassment Prevention, Grievance and 
+Disciplinary Policy" and "Nanya Employee Protection 
+and Complaint Regulations" in place; regarding the 
+improper t reatment of workers in the workplace, 
+relevant preventive measures and follow -up 
+investigations had been formulated. In addition, the 
+Company not only has counseling rooms, but also 
+collaborates with the Teacher Chang Foundation to 
+arrange on -site couns eling services. This provides a 
+space for employees to talk and receive counseling. In 
+2025, the on -site counseling services were used 65 
+times (65 hours in total). Workplace mental health 
+improvement seminars are also held regularly to 
+provide workers with relief channels. 
+(IV) Has the Company 
+established effective 
+career development 
+training programs 
+for employees? 
+✓
+
+[page 99]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+professional training system, and also links together 
+internal knowledge and creativity. Employees can 
+access, share, and create professional knowledge, 
+courses, and articles on our internal website, which also 
+provides a variety of learning resources and information 
+to help units learn, including information on external 
+training and lectures, specialized technology 
+communities, and discussions. 
+2. We planned a variety of on-the-job training and learning 
+channels to promote talent cultivation, lifelong learning, 
+and assist employees with career development, so as to 
+expand their scope of learning. Continuing education 
+and learning channels include : Online learning 
+multimedia center, language learning subsidies, on-the-
+job degree progra ms, and participation in external 
+courses.  
+3. Total employee training expenses was NT$ 20,310 
+thousand in 202 5, and averaged NT$ 5,303 per person. 
+Average training hours per person reached 65.1 hours. 
+Companies. 
+(V) Does the company 
+comply with the 
+relevant laws and 
+international 
+standards with 
+regards to customer 
+health and safety, 
+customer privacy, and 
+marketing and 
+labeling of products 
+and services, and 
+implement consumer 
+protection and 
+grievance policies? 
+✓
+
+[page 100]
+Item 
+Implementation status Deviations from 
+the Sustainable 
+Development 
+Best Practice 
+Principles for 
+TWSE/TPEx 
+Listed Companies 
+and the Reasons 
+Yes 
+No Summary description 
+promotional activities involve legal aspects, our units 
+will consult the legal and intellectual property 
+departments to avoid violating the law. Furthermore, we 
+established Personal Information Management 
+Procedures and strictly control the access and use of 
+personal information to protect customer privacy. 
+3. Our customer service process comprises four aspects: 
+(1) Product design: Strengthen technology exchanges 
+with customers. 
+(2) Testing and verification: Participate in customer 
+platform parameter measurement services. 
+(3) Manufacturing: Complete production, sales, and 
+product tracking and identification system, as well as 
+collaboration with global couriers. 
+(4) Product launch: Trouble-shooting and system control  
+progress. 
+(VI) Has the company 
+formulated supplier 
+management 
+policies requiring 
+suppliers to comply 
+with relevant 
+regulations on 
+issues such as 
+environmental 
+protection, 
+occupational safety 
+and health, or labor 
+rights, and what is 
+the status of their 
+implementation? 
+✓
+
+[page 103]
+VII. Other important information to facilitate better understanding of the company’s promotion of sustainable 
+development: 
+(1) Participation in external associations: 
+We are dedicated to our core business and different aspects of sustainable development 
+(environmental, social, and economic aspects), including industrial and economic development, 
+technological innovation and development, climate change, employee rights and interests, human rights, 
+and social engagement. We established the “Nanya Technology Corporation Guidelines for Participation 
+in Public Affairs” as the basis for establishing all policies for participating in related industries or joining 
+industry associations. This information is transparent and accessible by the public. We established a 
+Public Affairs Participation Team under the Sustainable Development Committee. The team is 
+responsible for making decisions regarding our participation in public affairs, and periodically assesses 
+and reviews the commercial value of participating in public affairs, as well as whether the policy 
+matches our business goals, corporate policy, and public policy, ensuring that it is in the interest of all 
+stakeholders. Important associations that we are participating in are as follows:
+
+[page 103]
+(III) Human Rights Policy: 
+Nanya Technology is committed to respecting and protecting the fundamental human rights of 
+all employees and stakeholders, including subsidiaries, customers, suppliers/contractors, joint 
+ventures, and any parties with whom we have business relationships. This c ommitment is based on 
+international human rights standards such as the UN Guiding Principles on Business and Human Rights 
+(UNGPs), the Universal Declaration of Human Rights, the International Bill of Human Rights, the first 
+and second principles of the UN Global Compact (UNGC), and the International Labor Organization's 
+Declaration on Fundamental Principles and Rights at Work. We also align with the Responsible 
+Business Alliance (RBA) Code of Conduct and local laws at each operating site to promote a humane 
+working environment and fulfill our responsibility for sustainable business operations. These 
+Guidelines consist of five sections, covering labor, health and safety, information security and privacy, 
+environment and sustainability, and management mechanisms and grievance procedures.
+
+[page 103]
+A. Labor Guidelines 
+1) Prohibition of Forced Labor  
+The use of forced labor, debt bondage, or involuntary imprisonment of workers is strictly  
+99
+
+[page 104]
+2) No Child Labor 
+Unless permitted by applicable laws, the Company is committed to not employing child labor. For 
+new employees under the age of 18, the HR department will confirm with the hiring unit that they 
+are not assigned to night shifts or work that may endanger their health or safety, such as overtime.
+
+[page 104]
+4) Anti-Discrimination and Anti-Harassment 
+The Company provides an equal and respectful work environment that values diversity and does 
+not tolerate any discrimination or harassment based on race, gender, age, religion, sexual 
+orientation, gender identity, disability, or any other characteristic protected by applicable laws.
+
+[page 104]
+5) Humane Treatment  
+The Company commits to clearly defining and communicating any disciplinary policies and 
+measures to employees. No employee shall be subjected to harsh or inhumane treatment, including 
+any form of sexual harassment, sexual abuse, corporal punishment, mental  or physical coercion, 
+or verbal abuse, nor shall there be any threats of such conduct.
+
+[page 105]
+environment. 
+8) Equal Pay for Equal Work 
+We practice equal pay for equal work to ensure that all workers—regardless of gender, nationality, 
+age, employment type, or work location —receive fair, reasonable, and non -discriminatory 
+compensation.
+
+[page 106]
+3) Hazardous Substance Free Management 
+The Company complies with relevant domestic and international regulations or directives on 
+restricted substances. We practice source management for any hazardous substances that may be 
+used or contained in processes, products, or packaging. This ensures th at hazardous substance 
+management aligns with environmental protection principles during production, safeguards user 
+rights, reduces ecological impacts, and strengthens the Company's ability to manage, design, and 
+innovate green products.
+
+[page 106]
+E. Management Mechanisms and Grievances 
+1) Management Mechanism 
+The Company regularly reviews and evaluates its human rights systems and practices, identifies 
+and audits human rights risks, and continuously implements improvements. The implementation 
+status of the human rights policy is disclosed in relevant reports, a nd the policy is updated on a 
+rolling basis in line with domestic and international laws and regulations.
+
+[page 106]
+2) Grievance Mechanism 
+The Company has established clear and secure grievance channels, and strictly prohibits any form 
+of retaliation against anyone who files a grievance or cooperates with an investigation so that 
+individuals can safely raise concerns over human rights issues or report potential violations. All 
+information will be kept strictly confidential and handled only by authorized units for investigation 
+and resolution. If a violation is confirmed, appropriate disciplinary, mitigation, and remedial 
+measures will be taken based on the severity of the case.
+
+[page 106]
+Grievance email: protection@ntc.com.tw 
+Grievance hotline: 02-2904-5858#1132 or 1136 
+Physical suggestion boxes provided 
+(IV) Human Rights Protection and Due Diligence 
+I. Nanya Technology is committed to protecting human rights by implementing human rights risk 
+assessments and management practices, while cultivating an inclusive, diverse, and welcoming 
+workplace. This human rights policy applies to all employees, subsidiari es, customers, suppliers, 
+joint ventures, and any individual with whom the Company maintains business relationships. As a 
+global citizen, Nanya Technology creates a harmonious and inclusive working environment 
+effectively through human rights due diligence processes.
+
+[page 106]
+II. Human Rights Due Diligence Procedures 
+(I) Human Rights Policies and Drafting/Revisions: Nanya Technology formulates its human rights 
+102
+
+[page 107]
+policies based on fundamental human rights principles, including the UN Guiding Principles on 
+Business & Human Rights, the Universal Declaration of Human Rights, the International Bill of 
+Human Rights, Principles 1 and 2 of the UN Global Compact, and the I nternational Labour 
+Organization's Declaration on Fundamental Principles and Rights at Work. These policies also take 
+into account the  Responsible Business Alliance (RBA) Terms and applicable local laws. The  
+Company remains attentive to global human rights  development trends and guidelines, evaluating 
+the need to revise its human rights policies or to incorporate human rights issues into its human 
+rights risk assessment criteria. 
+(II) Human Rights Risk Identification: Nanya Technology conducts an annual cyclical review based on 
+multiple sources, including the RBA labor and ethics management system, the Company's 
+workplace health and environmental policy, sustainable supply chain management system, and the 
+analysis of stakeholder survey results. Through this identification framework, Nanya Technology 
+regularly evaluates risk exposure by identifying labor and ethics -related hazards and risks within 
+relevant business operations, review ing workplace health and environmental management 
+information, auditing human rights practices throughout the sustainable supply chain, and taking 
+into account material risk issues of concern to stakeholders. 
+(III) Identifying Material Human Rights Risks: Nanya Technology regularly assesses stakeholders and 
+business units affected by human rights issues and conducts human rights risk assessment. 
+(IV) Formulating Mitigation and Compensation Measures: Nanya Technology formulates annual 
+guidance and improvement measures based on the assessment results, establishes future goals for 
+mitigating human rights risks, and evaluates the need to revise human right s management systems 
+and practices. 
+(V) Tracking Implementation Status and Outcomes: Approved and feasible management plans should 
+be assessed for effectiveness to ensure alignment with relevant products, activities, services, and 
+management goals. Appropriate additions or revisions should be made within operational systems, 
+and progress should be continuously tracked until the desired improvement objectives are achieved. 
+(VI) Due Diligence Report Disclosure: Nanya Technology regularly discloses the results of human rights 
+risk assessments and the effectiveness of management actions. 
+III. Human Rights Risk Identification 
+Target Humane rights issues Assessment tools  
+Employees 
+Freedom of choice in employment, young 
+workers, no discrimination, work hours, 
+wages and benefits, humane treatment, 
+freedom of association, occupational 
+health and safety, personal data 
+protection, workplace violation 
+RBA SAQ, RBA V AP, internal and 
+external audits, grievance channel, 
+Occupational Injury Report Form, 
+Department of Labor Annual Average 
+Frequency-Severity Indicator by Industry 
+(excluding commute-related incidents), 
+Health Examination Report Indicator 
+Suppliers 
+(including 
+joint 
+ventures) 
+Labor human rights, occupational health 
+and safety, personal data protection, 
+workplace violation 
+Supplier audits, independent third-party 
+verification 
+Responsible minerals procurement, 
+hazardous substances free 
+Inspection tools (CMRT/EMRT etc.), due 
+diligence, independent third-party 
+verification, compliance (testing) report
+
+[page 108]
+Target Humane rights issues Assessment tools  
+Communities 
+Water resources, air pollution, noise, 
+traffic issues 
+Government regulations, facility 
+wastewater discharge quality monitoring, 
+air quality monitoring, noise frequency 
+monitoring, traffic flows assessment and 
+monitoring 
+Customers Personal data protection and information 
+security 
+Annual risk assessment, internal audits, 
+and external independent verification 
+IV . Formulating Mitigation and Compensation Measures 
+Based on assessment results, Nanya Technology identifies material human rights issues, 
+formulates annual guidance and improvement measures and future human rights risk mitigation goals 
+for its Taiwan facilities, evaluates and revises its human rights management systems and procedures, 
+and actively promotes improvements across its suppliers. 
+Target 
+Material 
+human rights 
+issues 
+2025 mitigation measures 2025 compensation measures 
+Employees Occupational 
+health and 
+safety 
+Occupational 
+accidents 
+[Occupational Health and Safety 
+Management System] 
+(1) Hazard identification and risk 
+assessment: Regular and ad-hoc 
+reviews of hazard identification and 
+risk assessment results. We 
+conducted a total of 45 internal 
+audits in 2025, resulting in 11 
+corrective action requests. 
+(2) Proactive risk mitigation measures: 
+High-risk units actively develop and 
+propose safety and health 
+improvement action plans, reducing 
+medium- and high-level risks and 
+increasing opportunities for 
+systematic improvement. A total of 
+22 management plans were proposed 
+in 2025. 
+(3) Regular performance assessment 
+system: Environmental inspection 
+proposals submitted by the Safety 
+and Health department and 
+independent inspection proposals 
+submitted by each department 
+(independent inspection rate reached 
+94.8% in 2025, exceeding the annual 
+goal of 94.1%).
+
+[page 108]
+[Promoting and Establishing Safety 
+Culture] 
+(1) Safety Walk and Talk (SWAT): We 
+conducted 48 Safety Walk and Talks, 
+including on-site sessions led by 
+executive-level managers, as well as 
+sessions with employees led by the 
+Safety and Health department or 
+department managers.
+
+[page 109]
+Target 
+Material 
+human rights 
+issues 
+2025 mitigation measures 2025 compensation measures 
+Employees Occupational 
+health and 
+safety 
+Occupational 
+Health 
+Protection 
+All personnel: 
+To enhance health management 
+awareness, we organize the 
+following health promotion 
+activities: 
+(1) Hosting at least one health 
+promotion lecture per quarter. In 
+2025, we conducted 17 lectures, 
+with a total of 1,367 
+participants. 
+(2) Hosting annual weight-loss and 
+quit-smoking pledge events, 
+with a total of 500 participants. 
+(3) Providing employees with 
+relevant health information 
+regularly (via posters and 
+emails). 
+General compensation principles are as follows: 
+(1) Employees with abnormal health examination 
+results are continuously tracked and provided 
+with ongoing health management. Regular 
+medical consultations and health guidance are 
+also provided. 
+(2) An on-site clinic is established and doctor 
+visits are arranged to provide professional 
+medical and consulting services for 
+employees. 
+Engineers: 
+(1) Implementing programs for the 
+prevention of diseases related to 
+abnormal workloads. 
+(2) Identifying and assessing high-
+risk groups. 
+(3) Providing special health 
+examinations as well as health 
+management and health 
+promotion plans. 
+General compensation principles are as follows: 
+(1) Arranging doctor appointments and providing 
+health guidance. 
+(2) Advising the department manager and further 
+investigating the situation.
+
+[page 109]
+Workplace 
+violation 
+The following preventive measures are in place to 
+address workplace violations: 
+(1) We've implemented training to prevent 
+workplace violations, including bullying and 
+sexual harassment, achieving a 100% 
+completion rate in 2025. 
+(2) We've established a comprehensive grievance 
+procedure with confidential investigations 
+conducted by a dedicated taskforce. The 
+Grievance Review Committee will make 
+impartial final decisions on grievance cases. 
+0 case of sexual harassment in 2025 
+General compensation principles are as follows: 
+(1) Implementing measures such as adjusting job 
+duties or work environment as appropriate to 
+prevent the recurrence of workplace 
+violations against the complainant. 
+(2) Providing or referring the complainant to 
+consultation, medical or psychological 
+counseling, social welfare resources, and 
+other necessary services. 
+(3) A thorough investigation will be conducted 
+into the grievance case. If violations are 
+substantiated, appropriate disciplinary actions 
+and measures will be taken against the 
+perpetrator. If criminal offenses are involved, 
+we may also refer the case to the judicial 
+authorities for legal proceedings. 
+(4) We will continuously track, assess, and 
+monitor substantiated cases to prevent future 
+incidents of workplace violations. 
+(5) Retaliation against complainants, 
+whistleblowers, or individuals assisting with 
+investigations is strictly prohibited. Violators 
+will be subject to disciplinary action in 
+accordance with company management 
+regulations.
+
+[page 110]
+Target 
+Material 
+human rights 
+issues 
+2025 mitigation measures 2025 compensation measures 
+Suppliers 
+(including 
+joint 
+ventures) 
+Work hours, 
+wage and 
+benefits, 
+humane 
+treatment, 
+workplace 
+violation 
+To ensure the suppliers’ commitment to 
+sustainability, we implement the following 
+measures: 
+(1) We conducted sustainability risk assessments 
+for all Tier 1 suppliers, including Tier 1 
+suppliers of concern, encompassing a total of 
+355 suppliers with a 100% completion rate. 
+(2) We enforced audits on high-risk suppliers, 
+identifying a total of 94 non-conformances. 
+Nanya Technology assists these suppliers in 
+making improvements, achieving a 100% 
+remediation rate. 
+(3) We evaluate potential impacts across supplier 
+governance, social and environmental 
+aspects, and continuously encourage 
+suppliers to conduct risk management and 
+identification measures. 
+(4) We requested our joint venture Formosa 
+Advanced Technologies to promote human 
+rights due diligence and RBA V AP to 
+proactively identify and mitigate human 
+rights risks in order to prevent human rights 
+violations. Please refer to Formosa Advanced 
+Technologies’ Sustainability Report for the 
+disclosure of relevant due diligence findings. 
+https://www.fatc.com.tw/esg/download.php 
+0 human rights violations in 2025 
+General compensation principles are as follows: 
+Suppliers are required to make improvements 
+and comply with local regulations. 
+Responsible 
+minerals 
+procurement, 
+hazardous 
+substances 
+free 
+[Responsible Minerals Procurement 
+Management] 
+(1) Monitoring evolving trends in the 
+requirements of responsible mineral 
+procurement management and developing a 
+corresponding responsible mineral 
+procurement management list. 
+(2) Employing effective tools (CMRT/EMRT, 
+etc.) to conduct regular due diligence. 
+(3) Aiming for 0 deficiencies during independent 
+third-party verifications.
+
+[page 110]
+0 human rights violations and hazardous 
+substances incidents in 2025 
+General compensation principles are as follows: 
+Suppliers are required to make improvements 
+and comply with local regulations. 
+106
+
+[page 111]
+Target 
+Material 
+human rights 
+issues 
+2025 mitigation measures 2025 compensation measures 
+Communities
+
+[page 111]
+Air 
+pollution 
+Water 
+resource 
+Implementing the following measures to ensure 
+environmental sustainability: 
+(1) Discharging wastewater in compliance with regulatory 
+standards and continuously reducing discharge volumes: 
+A. Air pollution reduction:  
+Reducing volatile organic compounds emission. 
+According to third-party verification in 2025, which 
+results in a 82% reduction in volatile organic compounds 
+emission compared to 2024. 
+B. Water resource shortage: 
+(a) Diversifying water sources and enhancing storage: We 
+have constructed a water reservoir with a capacity of 
+43,000 metric tons and built 7 additional wells in our 
+facilities, providing a combined daily water supply of 
+5,500 metric tons. 
+(b) We collaborate with nearby Formosa Plastics Group 
+facilities to establish an emergency response 
+organization for water shortages, enabling mutual 
+sharing of water resources during emergencies within 
+the organization. 
+(c) Water conservation and rainwater/wastewater recycling: 
+Beyond rainwater reuse initiatives, we recycled a total 
+of 5,530,024 metric tons of wastewater in 2025. 
+(d) Establishing response measures aligned with 
+government-issued water situation lights. 
+C. Effluent quality maintenance: 
+(a) Collected wastewater is classified and directed to the 
+appropriate sewage facilities for treatment. Our 
+treatment efficiency has improved over the years. 
+(b) We have established a real-time effluent quality 
+monitoring system linked to the Environmental 
+Protection Department of the municipal government, 
+enabling joint monitoring to ensure effluent quality 
+remains within normal parameters. 
+(2) We conduct monthly environmental inspections. 
+(3) We collaborate with local communities to form an 
+Environmental Quality Supervision Committee. Feedback 
+from local stakeholders is gathered through quarterly 
+Nanlin Technology Park Management Committee 
+meetings. 
+0 complaints from communities in 2025 
+General compensation principles are as 
+follows: 
+(1) Paying close attention to the 
+evolutions of regulations and 
+adopting corresponding measures. 
+(2) Actively engaging with local 
+schools, organizations, and groups 
+to implement educational initiatives 
+such as environmental conservation.
+
+[page 111]
+Social 
+engagement 
+We commit to engaging in public affairs and caring for the 
+local communities, exerting social influence and promoting 
+community development through the following measures: 
+(1) Talent cultivation: We partner with schools to instill 
+ESG sustainability concepts in youths and promote 
+sustainability education to 1,387 students. 
+(2) Environmental conservation: We connect with diverse 
+non-profit organizations to raise environmental 
+awareness, maintain biodiversity, and move towards a 
+low-carbon society, with 598 employees participating in 
+5 environmental conservation events. 
+(3) Community harmony: We participate in neighborhood 
+(nearby community) public affairs to create a 
+harmonious and mutually beneficial living environment, 
+benefiting 16,433 people. 
+(4) Humanistic care: We integrate local resources to 
+promote local culture, with 454 employees participating 
+in cultural events in 2025.
+
+[page 112]
+Target 
+Material 
+human rights 
+issues 
+2025 mitigation measures 2025 compensation measures 
+Customers Personal data 
+protection 
+and 
+information 
+security 
+We implement the following information security 
+management measures to protect customers’ rights: 
+(1) We established the Confidential Information 
+Management Procedure and Personal Data 
+Management Rules, requiring all employees to read. 
+(2) We conduct monthly information security awareness 
+campaigns, and require employees to complete 
+information security training courses and pass relevant 
+assessments once every year to enhance personal data 
+protection awareness. The completion rate was 100% 
+in 2025. 
+(3) The Company's confidential information is archived in 
+the Document Control Center in accordance with 
+internal procedures and classified by confidentiality 
+level. Unauthorized disclosure of the Company's 
+confidential information is prohibited, and relevant 
+evaluation mechanisms have also been established. 
+(4) Metal detectors have been installed at entrances to 
+inspect information security-related items. 
+(5) We regularly apply for ISO 27001 international 
+information security management certification.
+
+[page 113]
+1. The Company’s Board of Directors passed the resolution on August 3, 2022 to 
+establish the Sustainable Development Committee, and established the 
+“Sustainable Development Committee Charter”. The powers of the Sustainable 
+Development Committee include reviewing the Company’s polici es, strategies, 
+and management approaches related to sustainable development and risk 
+management; supervising the Company’s implementation of GHG inventory and 
+verification planning, etc. Summary of key points reported to the Board of 
+Directors on August 7 and November 4, 2025 are as follows: 
+(1) Performance review of target management for the current year and formulation 
+of strategies and goals for the following year. 
+(2) 2024 GHG inventory and verification report for the Company and subsidiaries 
+in the consolidated financial statements. 
+(3) Released the 202 4 Task Force on Nature and Climate -related Financial 
+Disclosure Report. 
+(4) Progress report on the implementation of IFRS sustainability disclosure 
+standards. 
+2. The Company sets out from material topics of concern to stakeholders (15 topics 
+in total). The topics are then evaluated by internal business managers and 
+employees to select 10 topics related to company development. The topics are 
+converged into 5 main strategies, in order to ensure that the climate change topics 
+are aligned with corporate sustainability: 
+Strategy Content 
+Focus on 
+Development of 
+Low-carbon 
+Products 
+The Company and upstream/downstream partners have all 
+made protecting the green Earth our goal. We introduced Life 
+Cycle Analysis (LCA) and green design to help customers 
+develop advanced, high -performance and eco -friendly 
+products that help customers improve the energy efficiency of 
+their own product designs. 
+Strategy for 
+Green 
+Technology and 
+Production 
+The Company works to mitigate the impact of climate change 
+through (1) Process improvements, (2) End -of-pipe removal, 
+(3) improved energy efficiency, (4) Use of renewable energy, 
+as well as the setting of SBTs. 
+Adaptation to 
+Climate Change 
+Risks 
+The Company identified the risks and hazards derived from 
+climate change so that corresponding adaptation strategies and 
+response mechanisms could be put into place. We also carry 
+out defensive strategies and response drills to reduce impact 
+and damage from climate change. 
+Climate 
+Advocacy and 
+Education 
+The Company actively participated in domestic and overseas 
+sustainability initiatives and assessments. We also conducted 
+climate and low -carbon awareness education for 
+internal/external stakeholders (including employees, 
+suppliers, and society) so that our pursuit of  business 
+performance is complemented by balanced development in 
+ESG. 
+109
+
+[page 121]
+1. We comply with laws and pursue our business 
+objectives with integrity. Besides complying with the 
+Company Act and Securities and Exchange Act, we 
+uphold the corporate culture of "diligence" and the 
+business philosophy of integrity, fairness, 
+transparency, self-discipline, and responsibility. The 
+Ethical Corporate Management Best Practice 
+Principles established by the Board of Directors  on 
+November 10, 2014  is implemented by the 
+President's Office, which established various policies 
+on ethics, and good corporate governance and risk 
+management mechanisms to achieve sustainable 
+development. The Board of Directors and senio 
+executives active implement and super vise the 
+ethical corporate management policy.
+
+[page 121]
+2.(1) NTC has established the Codes of Ethical Conduct 
+and Employee Code of Conduct available on or 
+internet for all employees understanding of the 
+Company's resolve to implement ethical corporate 
+management, the related policies, complaint 
+channel, and th e consequences of committing 
+unethical conduct. In order to promote a culture of 
+awareness, we require all employees to be trained 
+periodically on our core values and passed the 
+qualification.
+
+[page 125]
+We promote the corporate spirit of "Diligence & 
+Frugality" through periodic courses, seminars, 
+company periodicals, and at various locations, instilling 
+employees with the concepts and attitude of integrity, 
+fairness, transparency, self -discipline, and 
+responsibility. We also offer training courses on ethical 
+corporate management, anti -corruption, and labor 
+morals. Educational training sessions were held on 
+topics related to ethical business practices, including 
+legal education, anti -corruption, and fraud p revention 
+in 202 5, which included Labour&Ethic policy, anti -
+corruption knowledge, prevention of insider trading, 
+promotion of the anti-trust laws, trade secrets training , 
+intellectual property and responsible business alliance; 
+a total of 2 8,112 participants received 22,832 hours of 
+training. Regulations relating to ethical corporate 
+management are irregularly promoted during offsite 
+strategy camps for senior managers, manager meetings, 
+or all-hands meetings.
+
+[page 131]
+(VIII) Implementation Status of the Internal Control System 
+1. Internal Control System Statement:  
+Nanya Technology Corp. 
+Internal Control System Statement 
+Date: March 4, 2026 
+The Company states the following with regard to its internal control system in 202 5, based on the 
+findings of a self-assessment: 
+I. The Company is fully aware that establishing, operating, and maintaining an internal control 
+system are the responsibility of its Board of Directors and management. The Company has 
+established such a system aimed at providing reasonable assurance of the ac hievement of 
+objectives in the effectiveness and efficiency of operations (including profits, performance, and 
+safeguard of asset security), reliability, timeliness, transparency, and regulatory compliance of 
+reporting, and compliance with applicable laws, regulations, and bylaws. 
+II. There are inherent limitations to even the most well designed internal control system. As such, 
+an effective internal control system can only reasonably ensure the achievement of the three 
+aforementioned goals. Moreover, the operating environment and situa tion may change and 
+impact the effectiveness of the internal control system. The internal control system of the 
+Company contains self -monitoring mechanisms, however, and the Company takes corrective 
+actions as soon as a deficiency is identified. 
+III. The Company judges the design and operating effectiveness of its internal control system based 
+on the criteria provided in the Regulations Governing the Establishment of Internal Control 
+Systems by Public Companies (hereinafter the “Regulations”). The inte rnal control system 
+judgment criteria adopted by the Regulations divide internal control into five elements based on 
+the process of management control: 1. Control environment, 2. Risk assessment, 3. Control 
+operation, 4. Information and communication, and 5. Monitoring. Each element further contains 
+several items. Please refer to the Regulations for details. 
+IV. The Company has evaluated the design and operating effectiveness of its internal control system 
+according to the aforesaid criteria. 
+V. Based on the findings of  the assessment mentioned in the preceding paragraph, the Company 
+believes that on December 31, 202 5, its internal control system (including its supervision and 
+management of subsidiaries), encompassing internal controls for understanding of the degree 
+of achievement of operational effectiveness and efficiency objectives, reliability, timeliness, 
+transparency, and regulatory compliance of reporting, and compliance of reporting, and 
+compliance with applicable laws, regulations, and bylaws, was effectively de signed and 
+operating, and reasonably assured the achievement of the above-stated objectives. 
+VI. This Statement will become a major part of the content of the Company's Annual Report and 
+Prospectus, and will be made public. Any falsehood, concealment, or other illegality in the 
+content made public will entail legal liability under Articles 20, 32, 171 , and 174 of the 
+Securities and Exchange Act. 
+VII. This statement has been passed by the Board of Directors Meeting of the Company held on  
+March 4, 2026, where 0 of t he 12 attending D irectors expressed dissenting opinions, and the 
+remainder all affirmed the content of this Statement.
+
+[page 160]
+IV. Environmental Expenses Information 
+The environmental capital expenditures i n 2025 totaled NT$153,959K, 
+and environmental expenses was NT$ 1,238,804K, amounting to 
+NT$1,392,763K, which is 2.09% of 2025 consolidated revenue. Environment-
+related capital expenditures mainly include wastewater recycling and pollution 
+prevention works, and the installation of exhaust treatment equipment for 
+process machinery in response to climate change, reducing PFCs emissions and 
+increasing the proportion of renewable energy (green electricity) used year by 
+year. 
+The Company  is committed to promoting environmental protection 
+management, formulating environmental and safety performance indicators, 
+promoting various waste reduction and resource reuse, greenhouse gas 
+reduction, autonomous reduction plan and other projects, in order to comply 
+with the trend of global environmental protection. The Company's 
+environmental protection certificate management, testing contents, and 
+reporting items were all handled according to law. There was no violation of 
+environmental prot ection regulations and no fines or losses due to 
+environmental pollution in 2025. 
+The Company ’s environmental protection measures in 202 5 are as 
+follows: 
+1. Won TCSA 2025 Corporate Sustainability Report Award, Top 100 
+Taiwanese Sustainable Manufacturing Companies and four Leadership 
+Year 2025 2024 As of March 31, 2026 
+Number of 
+employees 
+(Persons) 
+Indirect labor 2,078 2,020 2,165 
+R&D staff 1,190 1,098 1,254 
+Direct labor 567 575 567 
+Total shares 3,835 3,693 3,986 
+average age 38.86 38.81 39.31 
+average seniority 11.49 11.53 11.82 
+Academic 
+qualification (%) 
+Ph.D 1.30 1.22 1.26 
+Master 42.69 41.54 41.74 
+Bachelor 50.20 51.07 50.97 
+higher School 5.81 6.17 6.03 
+Under high school 0 0 0 
+156
+
+[page 161]
+V. Labor Relations 
+(I) The Company’s employee benefits, continuing education, training, retirement 
+system, and actual state of implementation, as well as labor -management 
+negotiations and measures for employee rights protection:
+
+[page 165]
+2. Information security policy: 
+Nanya Technology is committed to strengthening information security, 
+by complying with all legal and regulatory requirement and working closely 
+with employees and supply chain partners to protect the confidentiality, 
+integrity, and availability of information assets. This ensures the rights and 
+interests of our customers, shareholders, employees, and suppliers, while  
+upholding the Company’s social responsibility. 
+3. Specific management plans: 
+(1) Comprehensive defense-in-depth architecture: Formed by sensitive data 
+encryption, endpoint protection, and network gateway protection, which 
+are supported by network access control, document output management, 
+and e-mail protection mechanisms. We also installed metal detectors for 
+controlled information security products and issued company 
+smartphones for information security, so as to prevent external 
+cyberattacks and internal leaks. 
+(2) Established physical security measures: Electronic fence, access control, 
+system login identity authentication, password control, access right 
+control, and periodic vulnerability scanning. 
+(3) Strengthened endpoint security: Installed anti-virus software, updated 
+security patches, controlled USB access, and established a backup 
+mechanism to strengthen system security and lower the risk of system 
+vulnerabilities. 
+(4) Protection from the threat of external attacks: Installed an information 
+security system for detection and response, as well as web isolation and 
+e-mail safety mechanisms, thereby preventing computer viruses or 
+malware from affecting information system services or accessing 
+confidential data, as well as averting the theft of confidential data through 
+social engineering. 
+(5) Protection of trade secrets: We reviewed trade secrets and registered them 
+in the system and ensure that the Company's trade secrets are properly 
+protected. 
+(6) Established an independent R&D environment:  We independently 
+developed an information system and have an office with complete 
+security measures.  We also implemented a classified document 
+encryption and approval authorization mechanism to ensure the safety of 
+R&D results.
+
+[page 167]
+(9) In 2023,  we implemented an information security automated joint 
+defense and response system, and the automated response mechanism 
+resolves the issue with timeliness of response to information security 
+163
+
+[page 184]
+(2) Information of Affiliates: 
+December 31, 2025 
+Company Date of 
+Incorporation Address Paid-in Capital Major Business 
+Activities 
+Nanya Technology 
+Corporation, U.S.A. 
+("NTC USA") 
+1997.04 
+1735 Technology Drive,  
+Suite 400, San Jose, CA 95110, 
+USA 
+US$ 720,000 
+Sales of 
+semiconductor 
+products 
+Nanya Technology 
+Corporation Delaware 
+("NTC Delaware") 
+2008.10 245 Commerce Green Blvd., Suite 
+210, Sugar Land, TX 77478, USA US$ 1,100,000 
+Design of 
+semiconductor 
+products 
+Nanya Technology (HK) 
+Corporation Limited 
+("NTC HK") 
+2002.04 
+7th Floor, Citicorp Centre, 
+18 Whitfield Road, 
+Causeway Bay, Hong Kong 
+HK$ 15,366,000 
+Sales of 
+semiconductor 
+products 
+Nanya Technology 
+Japan 
+("NTC Japan") 
+2002.09 
+8F Moriden Building, 3-9-9 Mita, 
+Minato-ku,Tokyo, 108-0073, 
+Japan 
+JPY 70,000,000 
+Sales of 
+semiconductor 
+products 
+Nanya Technology 
+Europe GmbH 
+("NTC Europe") 
+2002.09 Pempelforter Strasse 50,  
+40211 Duesseldorf, Germany EUR 800,000 
+Sales of 
+semiconductor 
+products 
+Nanya Technology (SZ) 
+Corporation Limited 
+("NTC Shenzhen") 
+2006.08 
+201-209, 2F, Building 2,  
+Nanyou 4th Industrial Zone,  
+No. 1124, Nanshan Avenue, 
+Nanshan District, Shenzhen, 
+Guangdong Province, China 
+US$ 985,000 
+Sales of 
+semiconductor 
+products 
+Nanya Technology 
+International, Ltd. 
+("NTC International") 
+2018.11 
+Vistra Corporate Services Centre, 
+Wickhams Cay II, Road Town, 
+Tortola, VG 1110,  
+British Virgin Islands 
+US$ 1,300,000,000 
+General 
+investment 
+business 
+MemoLead Technology 
+Corporation 
+("MemoLead") 
+2025.08 
+11 F.-2, No. 93, Shuiyuan St.,  
+East Dist., Hsinchu City 300042, 
+Taiwan (R.O.C.) 
+NT$ 500,000,000 
+Design of 
+semiconductor 
+products 
+(3) Shareholder information of companies presumed to have a relationship 
+of control and subordination with the same shareholders: None 
+(4) Business Scope of Affiliates 
+The business operations of the Company’ s overall  affiliates 
+primarily focus on semiconductor research and development, design, 
+manufacturing, and sales. Among them, NTC USA, NTC HK, NTC 
+Japan, NTC Europe and NTC Shenzhen assist the parent company in 
+selling related products. NTC International engages in general 
+investment activities.
+
+[page 186]
+Company Title Name 
+Shareholding 
+Shares (Capital Contribution) % 
+NTC Shenzhen 
+Chairman Pei-Ing Lee － － 
+Director Lin-Chin Su － － 
+Director Rex Chen － － 
+Supervisor Hung-Chi Kuo － － 
+President Steve Pan － － 
+  Invested US$ 985,000 through Nanya 
+HK 100% 
+NTC International 
+Director Chia-Chau Wu － － 
+Director Pei-Ing Lee － － 
+  Nanya Technology Corporation 
+holds 1,300 shares 100% 
+MemoLead 
+Chairman 
+Nanya Technology Corporation  
+Pei-Ing Lee 36,048,000 shares 72.10% 
+Director 
+Nanya Technology Corporation  
+Joseph Wu Ditto Ditto 
+Director 
+Nanya Technology Corporation  
+Rex Chuang Ditto Ditto 
+Director 
+Nanya Technology Corporation  
+Chuan-Jen Chang Ditto Ditto 
+Director 
+Nanya Technology Corporation  
+Jackie Huang Ditto Ditto 
+Director 
+Intellect Rise Design, Inc. 
+Bor-Doou Rong 10,000,000 shares 20% 
+Director 
+Intellect Rise Design, Inc. 
+Teng-Wei Wang Ditto Ditto 
+Supervisor Tracy Liu 50,000 shares 0.1% 
+President Chuan-Jen Chang － －
+
+[page 187]
+(6) Operation Overview of Affiliates: 
+Note: 1.NTC USA, NTC HK, NTC Japan, NTC Europe, and NTC Shenzhen are product sales offices. NTC Delaware 
+is a product design center. NTC International engages in general investment activities. MemoLead is a 
+semiconductor design company. 
+2.Exchange rate used in the report
+</section>

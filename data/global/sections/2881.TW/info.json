@@ -1,0 +1,39 @@
+{
+  "ticker": "2881.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "MOPS",
+  "fiscal_year": 2025,
+  "url": "https://doc.twse.com.tw/pdf/2025_2881_20260612FE4_20261024_002816.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 39702,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 109 lowest-relevance keyword paragraph(s) and 63 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 330,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to Shareholders (pages 7-14)",
+    "Names of managers entitled to employee compensation and amount entitled (pages 50-50)",
+    "Performance of the Corporate Governance and Sustainability Committee (pages 82-83)",
+    "Employees’ restricted shares (pages 201-201)",
+    "Employee stock options (pages 201-201)",
+    "Business overview of the Company (pages 203-203)",
+    "Business Overview (pages 203-203)",
+    "Industry overview (pages 205-205)",
+    "Market and business overview (pages 207-207)",
+    "Business overview of Fubon Life (pages 208-216)",
+    "Business overview of Taipei Fubon Bank (including the subsidiary, Fubon Bank (China)) (pages 217-342)"
+  ],
+  "chapters_skipped": [
+    "Employees’ compensation and directors’ remuneration",
+    "Functionality of the Audit and Risk Management Committee",
+    "Operation of Remuneration and Nomination Committee",
+    "Remuneration to General Directors and Independent Directors",
+    "Remuneration to President and Executive VP"
+  ],
+  "words_sent": 39709
+}

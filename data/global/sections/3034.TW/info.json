@@ -1,0 +1,30 @@
+{
+  "ticker": "3034.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "company website",
+  "fiscal_year": 2025,
+  "url": "https://www.novatek.com.tw/upload/website/_2025 Annual Report_e_26050614_856.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 7997,
+    "Annual report: keyword paragraphs from the rest": 12235
+  },
+  "notes": [],
+  "people_words": 2951,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to the Shareholders (pages 4-7)",
+    "E. Status of Employee Stock Option Plan (pages 97-97)",
+    "F. Status of Employee Restricted Stock (pages 97-97)",
+    "B. Industry Overview (pages 110-121)",
+    "C. Employees (pages 122-127)"
+  ],
+  "chapters_skipped": [
+    "B. Remuneration for Directors, President, Vice Presidents, and Assistant Vice Presidents",
+    "C. Cash Flow Analysis",
+    "E. Changes in Independent Auditors",
+    "F. Risk Management"
+  ],
+  "words_sent": 20252
+}
