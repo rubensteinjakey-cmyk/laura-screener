@@ -7,3 +7,6 @@ logs/
 __pycache__/
 *.tmp
 .DS_Store
+data/global/docs/
+data/global/sections/*/full.txt
+data/global/reports/*/*.pdf

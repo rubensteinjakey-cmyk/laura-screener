@@ -54,3 +54,12 @@ shortlist_min_per_sector: 2
 # rescored in a second look: final = 10-K score + report_weight x
 # (report score - 10-K score). Team decision, Oct 19: 0.5 (see DECISIONS.md).
 report_weight: 0.5
+
+# ---- Global sleeve screen (run_global.py; companies_global.csv) ----
+# Each red flag with a verified quote subtracts this many points from the
+# alignment score (floor 0). See DECISIONS.md (Oct 23).
+red_flag_penalty: 10
+# Max words of annual-report text sent per company; above this the
+# lowest-relevance keyword paragraphs are dropped first (and logged).
+global_max_words: 40000
+global_run_id: global

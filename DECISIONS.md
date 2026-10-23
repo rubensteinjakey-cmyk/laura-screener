@@ -3,6 +3,59 @@
 Dated record of scoring decisions, newest first. Each one names where it
 lives in the code or config.
 
+## Oct 23, 2026: global sleeve values screen ("Rooted Capital", 70 companies)
+
+A second, separate run on 70 non-US companies (Denmark, Switzerland,
+Taiwan, Indonesia, Singapore). Input `companies_global.csv`, outputs in
+`output/global/`, run with `run_global.py`. The US results are untouched.
+Same rubric (v2.1), model setting, quote/figure checks and half-weight rule
+as the US run, with these differences:
+
+- **List edits.** DANS.VI changed to DANSKE.CO (Danske Bank, Copenhagen).
+  2884.TW renamed E.SUN Financial Holding (the listed parent; its annual
+  report is scored). SWICH.AS (SWI Capital Holding) stays on the list but is
+  not scored ("identity unclear: check ticker/name with the team"; in
+  `global_skip.csv` and `output/global/needs_human.csv`). Singapore
+  Financials is ranked on the other 5. DSFIR.AS stays under Switzerland
+  Materials (intended).
+- **Sources.** 20-F filers (confirmed on EDGAR: Genmab GMAB, Alcon ALC,
+  Telkom Indonesia TLK) use their latest 20-F: Item 4 in place of Item 1,
+  Item 5 as the MD&A (targeted paragraphs), Item 6.D for employees; Item 3.D
+  Risk Factors is skipped. Everyone else uses the latest annual report
+  (fiscal 2025, published 2026) from the company's own investor-relations
+  website (own or brand-name domain; an IR file service only if the
+  company's own site links to it). Blocked downloads go to needs_human.csv;
+  a PDF saved as `data/global/manual/{ticker}.pdf` is used instead.
+  English version when one exists; otherwise quotes stay in the original
+  language (that is what the code verifies), with an English translation in
+  a separate field and "non-English source" in the notes.
+- **Sections.** From the annual report's table of contents: business
+  overview / strategy, people / employees / human capital, and community /
+  education / inclusion / sustainability chapters, plus keyword paragraphs
+  from the rest. Risk sections, financial statements and notes are skipped.
+  Over ~40,000 words, the lowest-relevance keyword paragraphs are cut first.
+- **Weights.** Sustainability content inside the official annual report
+  (including EU-style sustainability statements) counts at full weight. A
+  separate, standalone sustainability report is used only in a second look,
+  with the same trigger and the same half weight as the US run. No
+  standalone report: scored on the annual report alone, no penalty, no bonus.
+- **Red flags.** Tobacco products as a core business; thermal coal mining or
+  coal-fired power as a significant business; weapons manufacturing; a
+  disclosed finding, fine or settlement in the reporting period for
+  discrimination, harassment, forced or child labor, or serious human-rights
+  abuses. Each needs a verified quote from the source document (never
+  outside knowledge) and subtracts `red_flag_penalty: 10` points (floor 0).
+  A red flag never forces a Fail on its own. Final score = alignment score
+  (composite 0-100) minus the red-flag penalty.
+- **Pass/Fail.** Ranked only within country-sector. Pass = top half of the
+  country-sector by final score, ties included (cutoff = ceil(n / 2), n =
+  scored companies in the group, same safe rounding as the shortlist rule).
+  Everyone else Fails; skipped companies are "Not scored". No overall
+  ranking and no 30% shortlist for this run.
+- **Third component: TBD (TODO).** The team sheet's "Third component (TBD)"
+  column is still undecided; `third_component` is left blank in
+  `results_global.csv`.
+
 ## Oct 20, 2026: shortlist cut to the top 30% of each sector
 
 Oct 20: shortlist cut from top 40% to top 30% per sector to narrow the list

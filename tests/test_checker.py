@@ -11,6 +11,10 @@ each one is caught:
   6. a REAL FIGURE taken from the WRONG PARAGRAPH (far from the quote)
   7. Community scored 3 with only employee_development evidence -> capped at 2
   8. Entrepreneurship scored 3 with only "serving" evidence -> capped at 1
+Global screen (Oct 23):
+  9. a RED FLAG whose quote is not in the source is removed (no penalty)
+ 10. an ORIGINAL-LANGUAGE (non-English) quote is checked word for word:
+     the exact Chinese quote passes, an altered one fails
 plus correct answers that must pass untouched (so the checker isn't just
 rejecting everything): a correct record, a score of 1 resting on general
 language with no evidence, and the "cap rule" when one of two cited quotes
@@ -27,6 +31,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 from verify import check_evidence, check_theme  # noqa: E402
+from global_verify import check_red_flags, red_flag_result  # noqa: E402
 
 FILLER = ("The Corporation is subject to an extensive regulatory framework applicable "
           "to bank holding companies, financial holding companies and banks. ") * 20
@@ -104,6 +109,28 @@ CASES = [
 ]
 
 
+# Global screen: red flags and a non-English source (MediaTek-style text)
+GLOBAL_SOURCE = """本公司持續推動STEM教育，2025年共有超過3,000名學生參與聯發科技舉辦的程式設計營隊。
+
+We sell cigarettes and other tobacco products in 30 markets, and tobacco is our core business.
+"""
+RED_FLAGS = [
+    {"id": "R1", "flag": "tobacco", "quote": "We sell cigarettes and other tobacco products in 30 markets"},
+    {"id": "R2", "flag": "weapons", "quote": "We manufacture munitions for national defense forces"},
+]
+ZH_EVIDENCE = [
+    {"id": "Z1", "activity": "STEM camps", "status": "current", "source_doc": "filing",
+     "section": "Annual report > Social engagement", "indicators": "3,000",
+     "quote": "2025年共有超過3,000名學生參與聯發科技舉辦的程式設計營隊",
+     "quote_en": "In 2025, more than 3,000 students joined MediaTek's coding camps",
+     "themes": {"community": {"kind": "external_education", "criterion": "level 3"}}},
+    {"id": "Z2", "activity": "STEM camps (altered)", "status": "current", "source_doc": "filing",
+     "section": "Annual report > Social engagement", "indicators": "",
+     "quote": "2025年共有超過5,000名學生參與聯發科技舉辦的程式設計營隊",
+     "themes": {"community": {"kind": "external_education", "criterion": "level 3"}}},
+]
+
+
 def has(r, text):
     return any(text in f for f in r["flags"])
 
@@ -111,6 +138,9 @@ def has(r, text):
 def main():
     ev = check_evidence(EVIDENCE, {"10-K": FILING})
     res = {name: check_theme(theme, ans, ev) for name, theme, ans in CASES}
+    kept, removed = check_red_flags(RED_FLAGS, {"filing": GLOBAL_SOURCE})
+    rf_kinds, rf_deducted, rf_final = red_flag_result(kept, 23.0, 10)
+    zh = check_evidence(ZH_EVIDENCE, {"filing": GLOBAL_SOURCE}, default_doc="filing")
     checks = [
         ("Correct record passes, score kept, figures kept",
          ev["E1"]["verified"] and not ev["E1"]["figures_removed"]
@@ -143,6 +173,13 @@ def main():
          res["cap_community"]["score"] == 2 and has(res["cap_community"], "cap:")),
         ("8. Entrepreneurship 3 with only 'serving' -> capped to 1",
          res["cap_entrepreneurship"]["score"] == 1 and has(res["cap_entrepreneurship"], "cap:")),
+        ("9. Red flag with no verified quote is removed; only the verified one costs points",
+         [r["id"] for r in kept] == ["R1"] and [r["id"] for r in removed] == ["R2"]
+         and rf_kinds == ["tobacco"] and rf_deducted == 10 and rf_final == 13.0),
+        ("   (red-flag penalty never goes below 0)", red_flag_result(kept, 4.0, 10)[2] == 0.0),
+        ("10. Non-English quote checked in the original language (exact passes, altered fails)",
+         zh["Z1"]["verified"] and not zh["Z1"]["figures_removed"]
+         and not zh["Z2"]["verified"] and zh["Z2"]["problem"] == "quote_check_failed"),
     ]
     width = max(len(c[0]) for c in checks)
     for name, ok in checks:

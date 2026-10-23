@@ -1,6 +1,6 @@
 country,sector,ticker,company_name
 Denmark,Financials,ALSYDB.CO,AL Sydbank A/S
-Denmark,Financials,DANS.VI,Danske Bank
+Denmark,Financials,DANSKE.CO,Danske Bank
 Denmark,Financials,DJUR.CO,Djurslands Bank A/S
 Denmark,Financials,JYSK.CO,Jyske Bank
 Denmark,Health Care,CHEMM.CO,ChemoMetec
@@ -31,7 +31,7 @@ Taiwan,Financials,2887.TW,Taishin Financial Holdings
 Taiwan,Financials,2883.TW,KGI Financial Holding
 Taiwan,Financials,2881.TW,Fubon Financial
 Taiwan,Financials,2890.TW,Sinopac Financial Holdings
-Taiwan,Financials,2884.TW,E.SUN Bank
+Taiwan,Financials,2884.TW,E.SUN Financial Holding
 Taiwan,Financials,2885.TW,Yuanta Financial Holding
 Taiwan,Information Technology,3443.TW,Global Unichip Corp.
 Taiwan,Information Technology,2408.TW,Nanya Technology

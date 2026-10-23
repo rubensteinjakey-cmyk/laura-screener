@@ -210,9 +210,44 @@ python src/overlap_check.py --a maya --b maya_repeat
   (e.g. XOM after its 2026 holding-company reorganization), add the old
   company's CIK to `cik_overrides.csv` (`ticker,cik,reason`).
 
+## Global sleeve screen (Rooted Capital)
+
+A separate run on 70 non-US companies (`companies_global.csv`: Denmark,
+Switzerland, Taiwan, Indonesia, Singapore). Outputs go to `output/global/`;
+the US files are never touched. Same rubric, model, quote/figure checks and
+half-weight rule; the differences are recorded in `DECISIONS.md` (Oct 23).
+
+```
+python run_global.py --country Denmark     # one country at a time (resumable)
+python run_global.py --rank                # Pass/Fail + outputs, once every company is scored
+```
+
+- **Sources:** 20-F from SEC EDGAR for GMAB, ALC, TLK (Items 4, 5 targeted,
+  6.D; Item 3.D Risk Factors skipped). Everyone else: the fiscal-2025 annual
+  report from the company's own website (`src/global_fetch.py`). If a site
+  blocks the download, the company is listed in
+  `output/global/needs_human.csv`; save the PDF as
+  `data/global/manual/{ticker}.pdf` and run the same command again.
+- **Sections** (`src/global_extract.py`): chapters picked from the PDF's
+  bookmarks or printed contents page (overview/strategy, people,
+  community/education/inclusion/sustainability) plus keyword paragraphs;
+  risk chapters, financial statements and notes skipped; capped at
+  `global_max_words`.
+- **Red flags** (`src/global_verify.py`): tobacco, thermal coal, weapons,
+  rights findings; each needs a verified quote and costs `red_flag_penalty`
+  points (floor 0).
+- **Pass/Fail** (`src/global_rank.py`): top half of the country-sector by
+  final score, ties included. Not-scored companies (`global_skip.csv`) are
+  "Not scored". `third_component` is blank: TBD.
+- Outputs: `results_global.csv`, `evidence_global.csv`, `summary_global.md`,
+  `needs_human.csv`.
+
 ## Open decisions (TODO)
 
 Decisions already made, with dates, are in `DECISIONS.md`.
+
+- [ ] **TODO: global screen "third component".** Still undecided; the
+      `third_component` column in `output/global/results_global.csv` is blank.
 
 These are **not decided yet**. The code is built so each can change without
 rewriting anything:
