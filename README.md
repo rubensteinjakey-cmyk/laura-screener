@@ -220,7 +220,8 @@ half-weight rule; the differences are recorded in `DECISIONS.md` (Oct 23).
 ```
 python run_global.py --country Denmark     # one country at a time (resumable)
 python run_global.py --rank                # Pass/Fail + outputs, once every company is scored
-nohup python run_global_auto.py > /dev/null 2>&1 &   # all countries, resumes by itself after a usage-limit reset
+python run_global_auto.py                  # all countries; sleeps through a usage limit and resumes
+python run_global_auto.py --exit-on-limit  # cloud sessions: exits at a limit; status file gives the resume time
 ```
 
 - **Sources:** 20-F from SEC EDGAR for GMAB, ALC, TLK (Items 4, 5 targeted,

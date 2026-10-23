@@ -36,7 +36,7 @@ import requests
 from pypdf import PdfReader
 
 from ai import parse_json_reply, run_claude
-from common import Sec, load_config, log, write_json
+from common import Sec, load_config, log, read_json, write_json
 from download import ARCHIVE_URL, INDEX_URL, filings_table, parse_filing_index, ticker_to_cik
 from global_common import (G_DOCS, G_MANUAL, add_global_args, gclear, gflag, manual_pdf,
                            load_global_companies, skipped)
@@ -193,6 +193,8 @@ def find_annual_report(company, cfg, log_lines):
                     continue
             except Exception as e:
                 log_lines.append(f"rejected (couldn't read company page {page}: {e}): {url}")
+                if re.search(r"40[13]|429|Forbidden", str(e), re.I):
+                    blocked.append(page)
                 continue
             found_on = page
         try:
@@ -245,11 +247,14 @@ def fetch_company(sec, cik_map, company, cfg):
     if meta_path.exists():
         log(STEP, f"{t}: already fetched, skipping")
         return
-    if (folder / "fetch_log.txt").exists() and not manual_pdf(t) and not RETRY:
-        # an earlier try failed (e.g. the site blocked the download): wait for
-        # a teammate's PDF in data/global/manual/ instead of searching again
-        log(STEP, f"{t}: earlier fetch failed; waiting for data/global/manual/{t}.pdf "
-                  "(use --retry to search again)")
+    status_path = folder / "fetch_status.json"
+    prev = read_json(status_path) if status_path.exists() else {}
+    if prev and not manual_pdf(t) and not RETRY and (
+            prev.get("reason") == "site blocked the download" or prev.get("attempts", 0) >= 2):
+        # the site blocks downloads (or two searches found nothing): wait for a
+        # teammate's PDF in data/global/manual/ instead of searching again
+        log(STEP, f"{t}: earlier fetch failed ({prev.get('reason')}); waiting for "
+                  f"data/global/manual/{t}.pdf (use --retry to search again)")
         return
     skip = skipped().get(t.upper())
     if skip:
@@ -307,6 +312,8 @@ def fetch_company(sec, cik_map, company, cfg):
               f" | {' | '.join(lines)}"[:700])
         log(STEP, f"{t}: {info['reason']} ({info.get('page', '')})")
         (folder / "fetch_log.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        write_json(status_path, {"reason": info["reason"], "page": info.get("page", ""),
+                                 "attempts": prev.get("attempts", 0) + 1})
         return
     (folder / "annual_report.pdf").write_bytes(data)
     meta.update(kind="annual_report", form="Annual report", url=info["url"],

@@ -84,6 +84,9 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--countries", default=",".join(ORDER))
     p.add_argument("--max-passes", type=int, default=30)
+    p.add_argument("--exit-on-limit", action="store_true",
+                   help="exit (code 3) at a usage limit instead of sleeping; the status "
+                        "file says when to resume")
     a = p.parse_args()
     countries = [c.strip() for c in a.countries.split(",") if c.strip()]
     for n in range(1, a.max_passes + 1):
@@ -103,6 +106,11 @@ def main():
         reset = next_reset(hit_text)
         wake = (reset + timedelta(minutes=5)) if reset else \
             datetime.now(timezone.utc) + timedelta(minutes=30)
+        if a.exit_on_limit:
+            # In the cloud session a long sleep doesn't survive an idle
+            # container: exit and let a scheduled resume start the next pass.
+            note(f"pass {n}: LIMIT; resume at {wake:%Y-%m-%d %H:%M} UTC")
+            sys.exit(3)
         note(f"pass {n}: sleeping until {wake:%Y-%m-%d %H:%M} UTC "
              f"({'limit resets ' + f'{reset:%H:%M}' if reset else 'reset time unknown'}), "
              "then resuming automatically")
