@@ -56,7 +56,7 @@ SEARCH_PROMPT = """Find the official ANNUAL REPORT for fiscal year 2025 (publish
 
 Use web search. Rules:
 - Prefer the official ENGLISH version. If the company publishes only a local-language version, give that.
-- The full annual report, not a summary, presentation, sustainability report, 20-F or financial statements alone.
+- The full annual report, not a summary, presentation, sustainability report, 20-F or financial statements alone. If the company publishes its annual report in several parts (e.g. "Business Report" / "Annual Review" + "Financial Report" + "Sustainability Report"), give the part that describes the business, strategy and people (the business report or annual review), NOT the financial report.
 - Only links on the company's own website, or on an investor-relations file service (for example q4cdn.com) that the company's own website links to. No third-party sites (stock exchanges, data aggregators, news).
 - "found_on": the company web page that links to the PDF. Always give it; it is REQUIRED when the PDF is not on the company's own domain (document hosts such as ipaper or a CDN).
 - "website": the company's official website home page.
@@ -133,9 +133,14 @@ def report_year(url, reader):
                         unquote(urlparse(url).path).replace("-", " ").replace("_", " ")
                         + " " + first, re.I)
     titled = [int(a or b) for a, b in titled]
+    titled = [y for y in titled if y <= date.today().year]
     if titled:
-        return max(y for y in titled if y <= date.today().year)
-    years = [int(y) for y in re.findall(r"(?<!\d)(20[2-3]\d)(?!\d)", urlparse(url).path)]
+        # the year named most often ("2025 Annual Report" on every page), not a
+        # stray date that happens to sit before a heading ("Mar 23, 2026 ANNUAL REPORT")
+        return max(set(titled), key=lambda y: (titled.count(y), y))
+    # skip upload-date folders like /2026_04_16/ or /2026/04/ (when it was posted)
+    years = [int(y) for y in re.findall(r"(?<!\d)(20[2-3]\d)(?![\d]|[-_/]\d{2}(?:[-_/]|$))",
+                                        urlparse(url).path)]
     if years:
         return max(years)
     found = []
