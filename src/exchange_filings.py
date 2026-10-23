@@ -177,14 +177,18 @@ def _mops(method, url, **kw):
         wait = _last_mops[0] + MOPS_WAIT - time.time()
         if wait > 0:
             time.sleep(wait)
-        r = requests.request(method, url, timeout=180, headers={"User-Agent": UA}, **kw)
+        try:
+            r = requests.request(method, url, timeout=180, headers={"User-Agent": UA}, **kw)
+        except requests.ConnectionError:  # MOPS sometimes drops the connection
+            _last_mops[0] = time.time() + MOPS_WAIT
+            continue
         _last_mops[0] = time.time()
         if r.content[:4] == b"%PDF":
             return r
         r.encoding = "big5"
         if "SECURITY REASONS" not in r.text[:3000]:
             return r
-    raise RuntimeError("MOPS kept refusing the request (rate limit)")
+    raise RuntimeError("MOPS kept refusing the request (rate limit or dropped connections)")
 
 
 def mops(company, log_lines):
