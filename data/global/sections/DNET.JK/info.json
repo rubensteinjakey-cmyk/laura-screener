@@ -1,0 +1,40 @@
+{
+  "ticker": "DNET.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.indoritel.co.id/storage/files/pdf/AR%20Indoritel%202025_%20ok%20_1777368195.pdf",
+  "english": false,
+  "sections": {
+    "Annual report: selected chapters": 19396,
+    "Annual report: keyword paragraphs from the rest": 17060
+  },
+  "notes": [
+    "non-English source"
+  ],
+  "people_words": 1619,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Performance Highlights (pages 5-6)",
+    "Sustainability Performance (pages 7-7)",
+    "Business Strategy (pages 8-10)",
+    "Financial Highlights (pages 11-12)",
+    "Stock Overview (pages 13-13)",
+    "2025 Event Highlights (pages 15-16)",
+    "About the Company (pages 43-44)",
+    "Culture (pages 47-48)",
+    "Employee Demographics (pages 69-70)",
+    "Management and/or Employees (pages 149-150)",
+    "About the Sustainability Report (pages 163-163)",
+    "Sustainability Strategy (pages 164-164)",
+    "Sustainability Values (pages 165-165)",
+    "Sustainability Governance (pages 169-180)",
+    "CSR Activities in 2025 (pages 181-193)"
+  ],
+  "chapters_skipped": [
+    "External Auditor",
+    "Financial Review",
+    "Risk Management System"
+  ],
+  "words_sent": 36476
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "AALI.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.astra-agro.co.id/wp-content/uploads/2026/03/AR-2025-AALI-web.pdf",
+  "english": false,
+  "sections": {
+    "Annual report: selected chapters": 3944,
+    "Annual report: keyword paragraphs from the rest": 10560
+  },
+  "notes": [
+    "non-English source"
+  ],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Corporate Social Responsibility06 (pages 18-20)",
+    "Performance Highlights01 (pages 21-30)"
+  ],
+  "chapters_skipped": [],
+  "words_sent": 14524
+}
