@@ -179,7 +179,7 @@ def _mops(method, url, **kw):
             time.sleep(wait)
         try:
             r = requests.request(method, url, timeout=180, headers={"User-Agent": UA}, **kw)
-        except requests.ConnectionError:  # MOPS sometimes drops the connection
+        except requests.RequestException:  # MOPS sometimes drops the connection
             _last_mops[0] = time.time() + MOPS_WAIT
             continue
         _last_mops[0] = time.time()
