@@ -249,7 +249,9 @@ python run_global_auto.py --exit-on-limit  # cloud sessions: exits at a limit; s
   companies are "Not scored"; formally excluded ones (`global_skip.csv`)
   don't count. `third_component` is blank: TBD.
 - Outputs: `results_global.csv`, `evidence_global.csv`, `summary_global.md`,
-  `needs_human.csv`.
+  `needs_human.csv` (only the companies still missing, each with the page to
+  download from and where to save the PDF), `review_notes_global.csv` (quick
+  checks on scored companies).
 
 ## Open decisions (TODO)
 

@@ -13,7 +13,9 @@ scored" in values_notes, so nobody passes because their group is mostly empty.
 third_component is still UNDECIDED (TODO): left blank.
 
 Writes output/global/: results_global.csv, evidence_global.csv,
-summary_global.md, needs_human.csv.
+summary_global.md, needs_human.csv (only the companies still missing, each with
+the page to download from), review_notes_global.csv (quick checks on scored
+companies).
 
 Run:  python src/global_rank.py
 """
@@ -22,6 +24,7 @@ import argparse
 import csv
 import json
 import math
+import re
 from collections import defaultdict
 
 from ai import THEMES
@@ -39,7 +42,21 @@ EXTRA = (["source_site"] + THEMES + [f"{t}_coverage" for t in THEMES]
 EVIDENCE_FIELDS = ["ticker", "id", "kind", "activity", "quote", "quote_en", "section",
                    "status", "indicators", "themes_or_flag", "source_doc", "verified",
                    "figures_removed"]
-NEEDS_FIELDS = ["ticker", "step", "reason", "details", "when", "who"]
+NEEDS_FIELDS = ["country", "sector", "ticker", "company_name", "reason", "download_page",
+                "save_as", "details"]
+NOTES_FIELDS = ["ticker", "step", "reason", "details", "when", "who"]
+
+
+def download_pages(flag, ticker):
+    """The page(s) a person can download the report from."""
+    m = re.search(r"page: (.*?); save the PDF", flag["details"])
+    if m:
+        return m.group(1).replace("; ", " ; ")
+    meta = G_DOCS / ticker / "meta.json"
+    if meta.exists():
+        m = read_json(meta)
+        return m.get("exchange_page") or m.get("url") or ""
+    return ""
 
 
 def pass_fail(rows):
@@ -200,10 +217,35 @@ def main():
                             "verified": e.get("verified")})
 
     flags = [f for f in read_gflags() if any(f["ticker"] == c["ticker"] for c in companies)]
+    # needs_human.csv: only what's still missing (not scored), one row per company
+    needs = []
+    for c in companies:
+        t = c["ticker"]
+        if t in results:
+            continue
+        mine = [f for f in flags if f["ticker"] == t]
+        main_flag = next((f for f in mine if f["step"] in ("global_fetch", "global_extract")),
+                         mine[0] if mine else {"reason": "not scored yet", "details": ""})
+        excluded = t.upper() in skip
+        needs.append({"country": c["country"], "sector": c["sector"], "ticker": t,
+                      "company_name": c["company_name"],
+                      "reason": skip.get(t.upper()) or main_flag["reason"],
+                      "download_page": "" if excluded else download_pages(main_flag, t),
+                      # an extraction problem isn't fixed by saving the same PDF again
+                      "save_as": "" if excluded or main_flag.get("step") == "global_extract"
+                      else f"data/global/manual/{t}.pdf",
+                      "details": ("formally excluded by the team (global_skip.csv)" if excluded
+                                  else re.sub(r"^page: .*?; save the PDF as \S+ \| ", "",
+                                              main_flag["details"])[:400])})
     with open(GOUT / f"needs_human{tag}.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=NEEDS_FIELDS)
         w.writeheader()
-        w.writerows(sorted(flags, key=lambda x: (x["ticker"], x["step"])))
+        w.writerows(needs)
+    notes = [f for f in flags if f["ticker"] in results]
+    with open(GOUT / f"review_notes_global{tag}.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=NOTES_FIELDS)
+        w.writeheader()
+        w.writerows(sorted(notes, key=lambda x: (x["ticker"], x["step"])))
 
     md = ["# Global sleeve values screen (Rooted Capital): summary", "",
           "> Values filter only. Pass = top half of the company's country-sector by final "
@@ -212,7 +254,7 @@ def main():
           f"{cfg.get('red_flag_penalty', 10)} per verified red flag. Third component: TBD.", ""]
     if missing:
         md += [f"**{len(missing)} companies not scored yet (waiting for a document; see "
-               "needs_human.csv). Groups with unscored companies are marked provisional.**", ""]
+               "needs_human.csv). Groups with unscored companies are Provisional (no Pass/Fail yet).**", ""]
     for (country, sector), rows in sorted(groups.items()):
         total = len(by_group[(country, sector)])
         md += [f"## {country} · {sector} ({len(rows)} of {total} scored"
@@ -249,7 +291,7 @@ def main():
     (GOUT / f"summary_global{tag}.md").write_text("\n".join(md) + "\n", encoding="utf-8")
     print(f"Wrote output/global/results_global{tag}.csv ({len(results)} scored, "
           f"{len(companies) - len(results)} not scored), evidence, summary, needs_human "
-          f"({len(flags)} rows)")
+          f"({len(needs)} rows), review notes ({len(notes)} rows)")
 
 
 if __name__ == "__main__":

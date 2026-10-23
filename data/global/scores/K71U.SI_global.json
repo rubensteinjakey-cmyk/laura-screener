@@ -1,0 +1,160 @@
+{
+  "ticker": "K71U.SI",
+  "company_name": "Keppel REIT",
+  "country": "Singapore",
+  "sector": "Real Estate",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.keppelreit.com/file/investor-relations/publications/annual-reports/keppel-reit-ar25.pdf",
+  "english": true,
+  "words_sent": 12499,
+  "prompt_chars": 107506,
+  "approx_prompt_tokens": 26876,
+  "scored_at": "2026-10-23T18:07:55",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Staff volunteering programme with community partners, including the Muscular Dystrophy Association (Singapore), run together with Keppel FM&I",
+        "quote": "Together with Keppel FM&I, the Manager contributed over 1,300 hours to community outreach initiatives in 2025 – surpassing Keppel FM&I’s annual target of 800 volunteer hours.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Letter to Stakeholders > Nurturing People and Supporting Communities",
+        "status": "current",
+        "indicators": "over 1,300 hours; annual target of 800 volunteer hours",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community volunteering activity, limited in reach (hours shared with the wider Keppel FM&I platform)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee training and upskilling programmes",
+        "quote": "In 2025, Keppel REIT employees attended an average of 39 hours of training per person, surpassing the target of 20 hours.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > People and Community > Human Capital Management > Performance and Progress",
+        "status": "current",
+        "indicators": "39 hours; target of 20 hours",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Training on unconscious bias and inclusive leadership for employees",
+        "quote": "As part of continued efforts to foster an inclusive workplace, training programmes on unconscious bias and inclusive leadership were also conducted.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > People and Community > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion practice, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Group-wide annual Global Inclusion Festival for employees",
+        "quote": "In addition to technical skills, Keppel’s Annual Global Inclusion Festival, held in October 2025 created opportunities for employees to have discussions on building an inclusive workplace and creating fairness at the workplace.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > People and Community > Human Capital Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion programme, no participation figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Disability access features across most portfolio buildings",
+        "quote": "While most buildings already feature disability access and direct links to public transport, the Manager continues to seek opportunities to further improve accessibility across other properties within the portfolio wherever feasible.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Environmental Stewardship > Accessibility",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current accessibility features, limited reach, no figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Disclosure of female representation on the Board",
+        "quote": "As at end-2025, female representation on the Board of Directors was 33.3%.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > People and Community > Diversity and inclusion",
+        "status": "current",
+        "indicators": "33.3%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a commercial office and retail REIT and shows no creative activity; a tenant such as BBC Studios and an architect-designed building are not the company's own creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: a specific current volunteering programme (over 1,300 hours, shared with Keppel FM&I) plus employee training, both limited in reach, with no substantial dollar or participant figures attributable to Keppel REIT."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: specific current inclusion training, an inclusion festival and building disability access, none with reach figures; the board gender statistics are demographics only."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is fully described and shows no service or programme enabling founders or small businesses; 'entrepreneurial leadership' in the board role is a trap term."
+      }
+    },
+    "red_flags": [],
+    "notes": "The volunteer hours are reported jointly with Keppel’s Fund Management & Investment platforms, so Keppel REIT's own share is unclear. The $300,000 Gardens by the Bay pledge and the OneMillionTrees support come from Keppel Care Foundation, the parent group's foundation, not from Keppel REIT, so they were not scored. MDAS volunteer outings (nine events, seven with MDAS) are part of E1 and were not counted separately. Tenant sustainability workshops and support for SIAS investor education are customer or investor education, so they were not scored. The report states zero discrimination incidents in 2025."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"K71U.SI\",\"sector\":\"Real Estate\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Staff volunteering programme with community partners, including the Muscular Dystrophy Association (Singapore), run together with Keppel FM&I\",\"quote\":\"Together with Keppel FM&I, the Manager contributed over 1,300 hours to community outreach initiatives in 2025 – surpassing Keppel FM&I’s annual target of 800 volunteer hours.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Letter to Stakeholders > Nurturing People and Supporting Communities\",\"status\":\"current\",\"indicators\":\"over 1,300 hours; annual target of 800 volunteer hours\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community volunteering activity, limited in reach (hours shared with the wider Keppel FM&I platform)\"}}},{\"id\":\"E2\",\"activity\":\"Employee training and upskilling programmes\",\"quote\":\"In 2025, Keppel REIT employees attended an average of 39 hours of training per person, surpassing the target of 20 hours.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > People and Community > Human Capital Management > Performance and Progress\",\"status\":\"current\",\"indicators\":\"39 hours; target of 20 hours\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Training on unconscious bias and inclusive leadership for employees\",\"quote\":\"As part of continued efforts to foster an inclusive workplace, training programmes on unconscious bias and inclusive leadership were also conducted.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > People and Community > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion practice, no reach figures\"}}},{\"id\":\"E4\",\"activity\":\"Group-wide annual Global Inclusion Festival for employees\",\"quote\":\"In addition to technical skills, Keppel’s Annual Global Inclusion Festival, held in October 2025 created opportunities for employees to have discussions on building an inclusive workplace and creating fairness at the workplace.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > People and Community > Human Capital Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion programme, no participation figures\"}}},{\"id\":\"E5\",\"activity\":\"Disability access features across most portfolio buildings\",\"quote\":\"While most buildings already feature disability access and direct links to public transport, the Manager continues to seek opportunities to further improve accessibility across other properties within the portfolio wherever feasible.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Environmental Stewardship > Accessibility\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current accessibility features, limited reach, no figures\"}}},{\"id\":\"E6\",\"activity\":\"Disclosure of female representation on the Board\",\"quote\":\"As at end-2025, female representation on the Board of Directors was 33.3%.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > People and Community > Diversity and inclusion\",\"status\":\"current\",\"indicators\":\"33.3%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes a commercial office and retail REIT and shows no creative activity; a tenant such as BBC Studios and an architect-designed building are not the company's own creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: a specific current volunteering programme (over 1,300 hours, shared with Keppel FM&I) plus employee training, both limited in reach, with no substantial dollar or participant figures attributable to Keppel REIT.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 2: specific current inclusion training, an inclusion festival and building disability access, none with reach figures; the board gender statistics are demographics only.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is fully described and shows no service or programme enabling founders or small businesses; 'entrepreneurial leadership' in the board role is a trap term.\"}},\"notes\":\"The volunteer hours are reported jointly with Keppel’s Fund Management & Investment platforms, so Keppel REIT's own share is unclear. The $300,000 Gardens by the Bay pledge and the OneMillionTrees support come from Keppel Care Foundation, the parent group's foundation, not from Keppel REIT, so they were not scored. MDAS volunteer outings (nine events, seven with MDAS) are part of E1 and were not counted separately. Tenant sustainability workshops and support for SIAS investor education are customer or investor education, so they were not scored. The report states zero discrimination incidents in 2025.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 41880,
+      "output_tokens": 4914,
+      "duration_ms": 45839
+    }
+  ]
+}

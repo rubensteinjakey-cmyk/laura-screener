@@ -1,0 +1,19 @@
+{
+  "ticker": "JYSK.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "Nasdaq Copenhagen company announcements",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/a11687649947912d72fafbdc8f0845e19",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 17866
+  },
+  "notes": [
+    "TOC fallback (no usable table of contents): keyword paragraphs across the whole report; skipped 32 of 264 pages (risk, number pages, financial statements from page 257, except 8 governance/sustainability page(s) after them)"
+  ],
+  "people_words": 7888,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "words_sent": 17877
+}

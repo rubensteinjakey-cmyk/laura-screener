@@ -1,0 +1,162 @@
+{
+  "ticker": "P15.SI",
+  "company_name": "Pacific Century Regional Developments",
+  "country": "Singapore",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/44JTWA0DH7EZYK4P/881221_PCRDL_Annual%20Report%202025.pdf",
+  "english": true,
+  "words_sent": 5136,
+  "prompt_chars": 56678,
+  "approx_prompt_tokens": 14169,
+  "scored_at": "2026-10-23T18:07:08",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Artiste management and live-event business at major associate PCCW (ViuTV), promoting artistes' solo performances",
+        "quote": "In 2025, PCCW’s artiste management and event business focused on promoting the solo performances of select artistes to amplify their appeal and maximise their potential.",
+        "source_doc": "filing",
+        "section": "Annual report > ViuTV – Nurturing talent and elevating the impact of its integrated entertainment ecosystem",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "creates",
+            "criterion": "level 2: specific current creative activity (artiste management, concerts, content) with no scale indicators disclosed"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Staff volunteering in the community at major associate PCCW",
+        "quote": "4,147 total volunteering hours",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Corporate Social Responsibility > PCCW's Shared Societal Value 2025 performance highlights",
+        "status": "current",
+        "indicators": "4,147 total volunteering hours",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community volunteering, limited reach relative to the business"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Digital literacy outreach sessions for the public run by major associate PCCW",
+        "quote": "Delivered 85 digital literacy outreach sessions",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Corporate Social Responsibility > PCCW's Shared Societal Value 2025 performance highlights",
+        "status": "current",
+        "indicators": "85 digital literacy outreach sessions",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, no participant numbers disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Support for 5G weather stations in schools by major associate PCCW",
+        "quote": "Provided support to 5G Weather Stations in 13 schools across Hong Kong and Macau",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > PCCW's Enhance Environmental Stewardship 2025 performance highlights",
+        "status": "current",
+        "indicators": "13 schools",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current school partnership, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Continuing professional education and e-learning courses for PCRD's own directors and staff",
+        "quote": "All employees with professional memberships attended relevant continuing professional education courses.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Employees, Training and Development > Performance",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Disclosure of PCRD workforce gender ratio and women in management",
+        "quote": "Diversity in terms of the ratio of female to male staff is 1.5:1 with 33% of management roles held by female staff.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Employees, Training and Development > Performance",
+        "status": "current",
+        "indicators": "1.5:1; 33%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: specific current creative activity (artiste management and entertainment content) exists only through associate PCCW, with no revenue, audience or other scale indicators disclosed, so the lower level is chosen."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 2: specific current external education and community activities at associate PCCW (volunteering hours, 85 digital literacy sessions, 13 schools) plus PCRD employee development, but reach is modest and attributable to an associate, so the lower level is chosen over 3."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: the report gives board and workforce gender/age demographics, diversity targets and general inclusion statements, with no specific current inclusion practice or access program described."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report describes an investment holding business with no service or program enabling founders or small businesses; 'entrepreneurial leadership' and 'innovation' are trap language."
+      }
+    },
+    "red_flags": [],
+    "notes": "PCRD is an investment holding company with very small own operations (revenue $2,976k); nearly all creative and community activity described belongs to its associated corporation PCCW, not to PCRD itself, which is a key reason lower levels were chosen when torn. AI workshops 'reaching over 15,000 customers' were not counted because they resemble customer education/marketing (trap). PCCW bullets on accessible digital services for vulnerable groups, 5G for underserved areas, inclusive leadership training and the 'Care for the Elderly Line' programme read as strategy/objective statements without performance figures, so they were treated as general language. ViuTV 'fostering cross-cultural exchange' and content 'fostering cross-cultural understanding' are general claims and were not scored above 1. PCRD's own community statement (donations, sponsorships in Singapore) is general commitment language with no figures. Planned group concerts at ViuTV are recorded as planned only."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"P15.SI\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Artiste management and live-event business at major associate PCCW (ViuTV), promoting artistes' solo performances\",\"quote\":\"In 2025, PCCW’s artiste management and event business focused on promoting the solo performances of select artistes to amplify their appeal and maximise their potential.\",\"source_doc\":\"filing\",\"section\":\"Annual report > ViuTV – Nurturing talent and elevating the impact of its integrated entertainment ecosystem\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"creates\",\"criterion\":\"level 2: specific current creative activity (artiste management, concerts, content) with no scale indicators disclosed\"}}},{\"id\":\"E2\",\"activity\":\"Staff volunteering in the community at major associate PCCW\",\"quote\":\"4,147 total volunteering hours\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Corporate Social Responsibility > PCCW's Shared Societal Value 2025 performance highlights\",\"status\":\"current\",\"indicators\":\"4,147 total volunteering hours\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community volunteering, limited reach relative to the business\"}}},{\"id\":\"E3\",\"activity\":\"Digital literacy outreach sessions for the public run by major associate PCCW\",\"quote\":\"Delivered 85 digital literacy outreach sessions\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Corporate Social Responsibility > PCCW's Shared Societal Value 2025 performance highlights\",\"status\":\"current\",\"indicators\":\"85 digital literacy outreach sessions\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, no participant numbers disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Support for 5G weather stations in schools by major associate PCCW\",\"quote\":\"Provided support to 5G Weather Stations in 13 schools across Hong Kong and Macau\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > PCCW's Enhance Environmental Stewardship 2025 performance highlights\",\"status\":\"current\",\"indicators\":\"13 schools\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current school partnership, limited reach\"}}},{\"id\":\"E5\",\"activity\":\"Continuing professional education and e-learning courses for PCRD's own directors and staff\",\"quote\":\"All employees with professional memberships attended relevant continuing professional education courses.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Employees, Training and Development > Performance\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E6\",\"activity\":\"Disclosure of PCRD workforce gender ratio and women in management\",\"quote\":\"Diversity in terms of the ratio of female to male staff is 1.5:1 with 33% of management roles held by female staff.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Employees, Training and Development > Performance\",\"status\":\"current\",\"indicators\":\"1.5:1; 33%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: specific current creative activity (artiste management and entertainment content) exists only through associate PCCW, with no revenue, audience or other scale indicators disclosed, so the lower level is chosen.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 2: specific current external education and community activities at associate PCCW (volunteering hours, 85 digital literacy sessions, 13 schools) plus PCRD employee development, but reach is modest and attributable to an associate, so the lower level is chosen over 3.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: the report gives board and workforce gender/age demographics, diversity targets and general inclusion statements, with no specific current inclusion practice or access program described.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report describes an investment holding business with no service or program enabling founders or small businesses; 'entrepreneurial leadership' and 'innovation' are trap language.\"}},\"notes\":\"PCRD is an investment holding company with very small own operations (revenue $2,976k); nearly all creative and community activity described belongs to its associated corporation PCCW, not to PCRD itself, which is a key reason lower levels were chosen when torn. AI workshops 'reaching over 15,000 customers' were not counted because they resemble customer education/marketing (trap). PCCW bullets on accessible digital services for vulnerable groups, 5G for underserved areas, inclusive leadership training and the 'Care for the Elderly Line' programme read as strategy/objective statements without performance figures, so they were treated as general language. ViuTV 'fostering cross-cultural exchange' and content 'fostering cross-cultural understanding' are general claims and were not scored above 1. PCRD's own community statement (donations, sponsorships in Singapore) is general commitment language with no figures. Planned group concerts at ViuTV are recorded as planned only.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 21345,
+      "output_tokens": 4938,
+      "duration_ms": 45930
+    }
+  ]
+}
