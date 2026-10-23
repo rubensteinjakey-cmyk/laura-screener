@@ -1,0 +1,271 @@
+{
+  "ticker": "ALSYDB.CO",
+  "company_name": "AL Sydbank A/S",
+  "country": "Denmark",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/a636006377807c5474acd3b1ab00500e5",
+  "english": true,
+  "words_sent": 15216,
+  "prompt_chars": 121454,
+  "approx_prompt_tokens": 30363,
+  "scored_at": "2026-10-23T16:09:23",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employees visit schools nationwide during Money Week to teach financial literacy classes",
+        "quote": "During this week employees from AL Sydbank visit schools throughout the country to teach classes in financial literacy.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > AL Sydbank’s employees > Focus on personal finances during Money Week",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education program, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Public 'Stop svindlerne' events teaching people to protect themselves against financial fraud",
+        "quote": "AL Sydbank organises “Stop svindlerne” (Stop the fraudsters) events regularly where participants can learn how to protect themselves against financial fraud.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > Fighting crime > Efforts to combat IT fraud",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current public education events, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Sponsorships of clubs, associations, students and unions nationwide, mainly team and grassroots sports",
+        "quote": "AL Sydbank supports via sponsorships small and large clubs and associations, students and unions across the country – primarily within team sports and grassroot sports.",
+        "source_doc": "filing",
+        "section": "Annual report > Business model > Local presence > Local support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community sponsorships, no figures disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Donations to charitable cultural, popular and educational purposes through several affiliated foundations",
+        "quote": "AL Sydbank makes donations to charitable cultural, popular and educational purposes via the charitable foundations the Sydbank Foundation, Arbejdernes Landsbanks Fond, Trelleborg Fonden, Den Jyske Sparekasses Støttefonde, Jelling Sparekasses Fond, Fonden for Sparekassen Farsø as well as Fonden for Sparekassen i Skals.",
+        "source_doc": "filing",
+        "section": "Annual report > Business model > Local presence > Local support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current charitable giving via foundations, amounts not disclosed"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Proposed donation to the Sydbank Foundation, subject to the annual general meeting",
+        "quote": "The Board of Directors will propose to the annual general meeting that a dividend of DKK 25 per share, totalling DKK 2,145m, be distributed and that DKK 18m be donated to the Sydbank Foundation.",
+        "source_doc": "filing",
+        "section": "Annual report > Financial review > Proposed dividend",
+        "status": "planned",
+        "indicators": "DKK 18m",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "context only: proposed donation not yet made"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Dedicated Sunflower phone line where trained staff assist customers with special needs",
+        "quote": "For instance, in 2025 we set up a special Sunflower line where customers are assisted by employees who are mindful that these customers have special needs.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > Digitalisation",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current accessibility service, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Digital banking platforms adapted for visually and hearing impaired customers",
+        "quote": "We have also developed our digital platforms so that greater consideration is given to the visually impaired and the hearing impaired.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > Digitalisation",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current accessibility features, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Free cash deposits and withdrawals for all retail clients with a NemKonto account",
+        "quote": "This also means that all retail clients with a NemKonto account at our bank have the possibility to deposit and withdraw money free of charge.",
+        "source_doc": "filing",
+        "section": "Annual report > Business model > The Bank’s customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current basic-banking access measure, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Joined the Sunflower programme for persons with invisible disabilities",
+        "quote": "AL Sydbank has also joined the Sunflower programme – an international initiative to make it easier for persons with invisible disabilities to discreetly signal that they might need extra assistance or time.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > AL Sydbank’s employees > Life phases and hidden disabilities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current disability-inclusion practice, no figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Workplace aids for employees with special needs",
+        "quote": "In addition the health and safety manual contains a description of various aids for employees with special needs.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > Well-being and security for employees",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current accessible-workplace practice, no figures"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Gender balance target for management positions met in 2025",
+        "quote": "AL Sydbank’s overall objective is to achieve an equal gender balance among all managers and in 2025 we achieved the subtarget that the underrepresented gender will account for at least 35% of all employees in management positions in 2025.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > Diversity",
+        "status": "current",
+        "indicators": "35%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: representation target and statistics only"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Competence mapping and talent development initiative for employees",
+        "quote": "In 2025 determined efforts were made at AL Sydbank to identify employees’ competences and build the foundations for talent development.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > AL Sydbank’s employees > Talent development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Regional trust-building communication project with additional adviser training",
+        "quote": "Advisers receive additional training in customer contact in order to strengthen their relationship with customers and ensure that advice is based on trust, understanding and being present.",
+        "source_doc": "filing",
+        "section": "Annual report > S – Social Information > Trust-building communication as a strategic project",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development (regional project in Kolding and South Jutland)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests only on general language, a passing reference to donations for 'cultural' purposes, with no specific creative activity, while sponsorships are mainly in sports."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E12",
+          "E13"
+        ],
+        "reason": "Level 2: specific current external education (Money Week, fraud-awareness events) and community sponsorships and donations exist, but no participant numbers or amounts are disclosed for current activities."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 2: specific current accessibility measures (Sunflower line, digital accessibility, free NemKonto access, disability inclusion), with no reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: this rests only on general language about supporting the Danish corporate sector and serving corporate clients, focused on medium-sized and large businesses, with no specific enabling program for founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "AL Sydbank is a 2025 merger of three banks, so several targets and figures refer to the former Sydbank. The DKK 18m donation to the Sydbank Foundation is only a proposal to the AGM, so it is recorded as planned and does not raise the score. The sikkerklikker.dk anti-fraud tool was designed in 2023 and its current use is not described, so it is noted only here. Money Week is a sector program organised by Finance Denmark and no participant numbers are given. Mandatory compliance training (99.4 completion) is excluded as compliance training. The bank reports no complaints regarding discrimination in 2025. The thermal coal and oil sand exclusion in investments is a policy, not a red flag. The Board diversity policy and gender targets are treated as demographics and targets only."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ALSYDB.CO\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employees visit schools nationwide during Money Week to teach financial literacy classes\",\"quote\":\"During this week employees from AL Sydbank visit schools throughout the country to teach classes in financial literacy.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > AL Sydbank’s employees > Focus on personal finances during Money Week\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education program, reach not quantified\"}}},{\"id\":\"E2\",\"activity\":\"Public 'Stop svindlerne' events teaching people to protect themselves against financial fraud\",\"quote\":\"AL Sydbank organises “Stop svindlerne” (Stop the fraudsters) events regularly where participants can learn how to protect themselves against financial fraud.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > Fighting crime > Efforts to combat IT fraud\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current public education events, reach not quantified\"}}},{\"id\":\"E3\",\"activity\":\"Sponsorships of clubs, associations, students and unions nationwide, mainly team and grassroots sports\",\"quote\":\"AL Sydbank supports via sponsorships small and large clubs and associations, students and unions across the country – primarily within team sports and grassroot sports.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business model > Local presence > Local support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community sponsorships, no figures disclosed\"}}},{\"id\":\"E4\",\"activity\":\"Donations to charitable cultural, popular and educational purposes through several affiliated foundations\",\"quote\":\"AL Sydbank makes donations to charitable cultural, popular and educational purposes via the charitable foundations the Sydbank Foundation, Arbejdernes Landsbanks Fond, Trelleborg Fonden, Den Jyske Sparekasses Støttefonde, Jelling Sparekasses Fond, Fonden for Sparekassen Farsø as well as Fonden for Sparekassen i Skals.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business model > Local presence > Local support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current charitable giving via foundations, amounts not disclosed\"}}},{\"id\":\"E5\",\"activity\":\"Proposed donation to the Sydbank Foundation, subject to the annual general meeting\",\"quote\":\"The Board of Directors will propose to the annual general meeting that a dividend of DKK 25 per share, totalling DKK 2,145m, be distributed and that DKK 18m be donated to the Sydbank Foundation.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Financial review > Proposed dividend\",\"status\":\"planned\",\"indicators\":\"DKK 18m\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"context only: proposed donation not yet made\"}}},{\"id\":\"E6\",\"activity\":\"Dedicated Sunflower phone line where trained staff assist customers with special needs\",\"quote\":\"For instance, in 2025 we set up a special Sunflower line where customers are assisted by employees who are mindful that these customers have special needs.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > Digitalisation\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current accessibility service, reach not quantified\"}}},{\"id\":\"E7\",\"activity\":\"Digital banking platforms adapted for visually and hearing impaired customers\",\"quote\":\"We have also developed our digital platforms so that greater consideration is given to the visually impaired and the hearing impaired.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > Digitalisation\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current accessibility features, reach not quantified\"}}},{\"id\":\"E8\",\"activity\":\"Free cash deposits and withdrawals for all retail clients with a NemKonto account\",\"quote\":\"This also means that all retail clients with a NemKonto account at our bank have the possibility to deposit and withdraw money free of charge.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business model > The Bank’s customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current basic-banking access measure, reach not quantified\"}}},{\"id\":\"E9\",\"activity\":\"Joined the Sunflower programme for persons with invisible disabilities\",\"quote\":\"AL Sydbank has also joined the Sunflower programme – an international initiative to make it easier for persons with invisible disabilities to discreetly signal that they might need extra assistance or time.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > AL Sydbank’s employees > Life phases and hidden disabilities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current disability-inclusion practice, no figures\"}}},{\"id\":\"E10\",\"activity\":\"Workplace aids for employees with special needs\",\"quote\":\"In addition the health and safety manual contains a description of various aids for employees with special needs.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > Well-being and security for employees\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current accessible-workplace practice, no figures\"}}},{\"id\":\"E11\",\"activity\":\"Gender balance target for management positions met in 2025\",\"quote\":\"AL Sydbank’s overall objective is to achieve an equal gender balance among all managers and in 2025 we achieved the subtarget that the underrepresented gender will account for at least 35% of all employees in management positions in 2025.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > Diversity\",\"status\":\"current\",\"indicators\":\"35%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: representation target and statistics only\"}}},{\"id\":\"E12\",\"activity\":\"Competence mapping and talent development initiative for employees\",\"quote\":\"In 2025 determined efforts were made at AL Sydbank to identify employees’ competences and build the foundations for talent development.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > AL Sydbank’s employees > Talent development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development\"}}},{\"id\":\"E13\",\"activity\":\"Regional trust-building communication project with additional adviser training\",\"quote\":\"Advisers receive additional training in customer contact in order to strengthen their relationship with customers and ensure that advice is based on trust, understanding and being present.\",\"source_doc\":\"filing\",\"section\":\"Annual report > S – Social Information > Trust-building communication as a strategic project\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development (regional project in Kolding and South Jutland)\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests only on general language, a passing reference to donations for 'cultural' purposes, with no specific creative activity, while sponsorships are mainly in sports.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E12\",\"E13\"],\"reason\":\"Level 2: specific current external education (Money Week, fraud-awareness events) and community sponsorships and donations exist, but no participant numbers or amounts are disclosed for current activities.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\",\"E7\",\"E8\",\"E9\",\"E10\"],\"reason\":\"Level 2: specific current accessibility measures (Sunflower line, digital accessibility, free NemKonto access, disability inclusion), with no reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: this rests only on general language about supporting the Danish corporate sector and serving corporate clients, focused on medium-sized and large businesses, with no specific enabling program for founders or small businesses.\"}},\"notes\":\"AL Sydbank is a 2025 merger of three banks, so several targets and figures refer to the former Sydbank. The DKK 18m donation to the Sydbank Foundation is only a proposal to the AGM, so it is recorded as planned and does not raise the score. The sikkerklikker.dk anti-fraud tool was designed in 2023 and its current use is not described, so it is noted only here. Money Week is a sector program organised by Finance Denmark and no participant numbers are given. Mandatory compliance training (99.4 completion) is excluded as compliance training. The bank reports no complaints regarding discrimination in 2025. The thermal coal and oil sand exclusion in investments is a policy, not a red flag. The Board diversity policy and gender targets are treated as demographics and targets only.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 45616,
+      "output_tokens": 8459,
+      "duration_ms": 70548
+    }
+  ]
+}

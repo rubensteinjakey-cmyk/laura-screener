@@ -1,0 +1,326 @@
+{
+  "ticker": "MAERSK-B.CO",
+  "company_name": "Maersk",
+  "country": "Denmark",
+  "sector": "Industrials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/aa5bc3ccc5e259aa01dbe8bff4f0995b1",
+  "english": true,
+  "words_sent": 20969,
+  "source_site": "Nasdaq Copenhagen company announcements",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the report fully describes an integrated logistics business with no creative activity (the anniversary container colour redesign is brand marketing, a trap).",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 2: several specific current community investments and an external guideline plus employee training, but no participant or dollar figures showing substantial reach.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E7",
+        "E8",
+        "E9"
+      ],
+      "valid_evidence_ids": [
+        "E7",
+        "E8",
+        "E9"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific current practices such as a whistleblower channel in 73 languages and a new Culture and Inclusion team, limited in reach.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: rests only on general language (an 'empowering people to trade' citizenship priority); no specific enabling programme for founders or small businesses is described.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 23.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [
+    {
+      "id": "R1",
+      "flag": "rights_finding",
+      "found_by": "internal",
+      "case_type": "discrimination",
+      "quote": "Three cases of discrimination on protected grounds were confirmed, resulting in dismissals and written warnings.",
+      "section": "Annual report > Governance information > Business ethics > Performance data",
+      "explanation": "Three discrimination cases were confirmed through the company's own whistleblower and investigation process. These are internal findings, not by a court, regulator or outside body, so they cost no points.",
+      "source_doc": "filing",
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "internal_note": "Discloses internally substantiated discrimination cases; not a red flag under the rule.",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 23.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "'Leading With Care' programme training frontline operational leaders in a people and safety-first approach",
+      "quote": "More than 15,000 safety and security Gemba walks were conducted by leaders across our business segments, and our ‘Leading With Care’ programme trained frontline operational leaders in a people and safety-first approach that embeds safety and a continuous focus on learning into everyday decisions.",
+      "source_doc": "filing",
+      "section": "Annual report > Social information > Safety and security > Key actions > Safety culture",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Donations to local initiatives and the LA Fire Department Foundation after the Los Angeles wildfires",
+      "quote": "This included donations to local initiatives supporting impacted business and workers, and to the LA Fire Department Foundation.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability > Citizenship",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community investment, limited reach, no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "APM Terminals sponsored construction of a swimming pool for students at a school in Vietnam",
+      "quote": "In Vietnam, APM Terminals sponsored the construction of a swimming pool for students at Doan Duc Thai school in Cat Hai District",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability > Citizenship",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community investment, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Partnership with Nigerian climate-tech start-up GIVO to create a community waste management system",
+      "quote": "On the environmental front, one example in 2025 was a partnership with Garbage In Value Out (GIVO), a climate tech start-up in Nigeria that reduces plastic waste and promotes circularity.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability > Citizenship",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community partnership, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Annual Go Green campaign with employee volunteer events in local communities",
+      "quote": "The theme for 2025 was ‘Green Every Day’, and initiatives at local offices and sites focused on for example energy and water conservation, waste segregation and reforestation, with on- and off-site volunteer events carrying out trash clean-ups and recycling competitions.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability > Citizenship",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: named volunteering campaign without participant figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Co-created an EV Deployment Guideline with Smart Freight Center to share learnings with SME truckers",
+      "quote": "Together with SFC, Maersk also supported and co-created an EV Deployment Guideline to be openly shared with SME truckers to take advantage of the learnings made by Maersk in own early technology investment and deployments and build confidence to make the energy transition with their own fleets.",
+      "source_doc": "filing",
+      "section": "Annual report > Environment > Climate change > Partnering for change",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific knowledge-sharing resource for external parties, reach not disclosed"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Whistleblower mechanism available in many languages for employees and external stakeholders",
+      "quote": "To make the whistleblower programme accessible to everyone, including employees and external stakeholders, and to reflect the global nature of our business, the mechanism is available in 73 languages via phone hotlines and in 20 languages through the online reporting portal.",
+      "source_doc": "filing",
+      "section": "Annual report > Governance information > Responsible business conduct > Grievance and remedy",
+      "status": "current",
+      "indicators": "73 languages (phone hotlines); 20 languages (online portal)",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific multilingual access practice, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E8",
+      "activity": "Code of Conduct published in multiple languages",
+      "quote": "The Code of Conduct is publicly available on Maersk.com, in 17 languages.",
+      "source_doc": "filing",
+      "section": "Annual report > Governance information > Business ethics > Policies and approach",
+      "status": "current",
+      "indicators": "17 languages",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: multilingual access to core policy, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E9",
+      "activity": "Established a dedicated Culture and Inclusion team",
+      "quote": "In 2025, we established a Culture and Inclusion team to drive our continued efforts.",
+      "source_doc": "filing",
+      "section": "Annual report > Social information > People and culture > Evolving our commitment to excellence and inclusion",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current internal inclusion function, no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E10",
+      "activity": "DE&I KPIs and targets for women in management and target nationalities in executive leadership, now expired",
+      "quote": "By the end of 2025, our KPIs and targets expired.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability > Social > Diversity, equity and inclusion",
+      "status": "past",
+      "indicators": "targets 40% women in management and 30% target nationalities; landed at 36% and 19%",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "context only: past programme, does not raise score"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "DE&I KPIs/targets (women in management, target nationalities) expired at end of 2025 and IROs were amended to focus on equal treatment; recorded as past (E10) and not scored. A Culture and Inclusion team was established in 2025. The LET humanitarian relief (logistics hub in Amman, food transport in South Sudan) was not recorded because the source sentence is broken by a PDF hyphenation. The EV Deployment Guideline for SME truckers (E6) is 'to be openly shared'. It was not counted for Entrepreneurship because it addresses fleet energy transition, not barriers to starting or growing a business. The GIVO start-up partnership is a community/environment partnership, not an enabling programme. 165+ nationalities is demographics only. E3 quote ends at the dash before a hyphenated line break; the clause is a complete thought.",
+  "extract_notes": [],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 12626,
+  "score_source": "Annual report 2025",
+  "second_look": null
+}
