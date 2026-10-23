@@ -1,0 +1,97 @@
+{
+  "ticker": "BUOU.SI",
+  "company_name": "Frasers Logistics & Commercial Trust",
+  "country": "Singapore",
+  "sector": "Real Estate",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/531D1L1A4ZGIBBAO/870400_FLCT%20-%20Annual%20Report%202025.pdf",
+  "english": true,
+  "words_sent": 13632,
+  "prompt_chars": 114878,
+  "approx_prompt_tokens": 28719,
+  "scored_at": "2026-10-23T17:34:26",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee-led community initiatives, including partnerships with the Red Cross and Lion Befrienders",
+        "quote": "Multiple employee-led community initiatives including partnerships with Red Cross and Lion Befrienders",
+        "source_doc": "filing",
+        "section": "Annual report > ESG highlights > FY2025 key sustainability highlights",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community partnerships, limited reach and no figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Board Diversity Policy with a gender representation target and disclosed board gender makeup",
+        "quote": "In progress – As at 30 September 2025, the Board has 1 female director, representing 20% of the Board.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate governance report > Board diversity policy, targets, timelines and progress",
+        "status": "current",
+        "indicators": "1 female director, 20% of the Board",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: board demographic statistics and diversity targets only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a logistics and commercial property REIT and shows no activity that creates or enables creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: named community partnerships with the Red Cross and Lion Befrienders with no reach figures; coverage is insufficient under condition 2 because the community and people discussion is under about 150 words (ESG highlights bullet and framework labels), and the report refers readers to the separate FY2025 ESG Report."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: only board diversity statistics and targets plus general code-of-conduct and 'inclusive community' framework language, with no specific inclusion or access activity."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is leasing property to local and multinational tenants, with no service or program that enables founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "The report describes an industrial/logistics and office REIT across Australia, Germany, Singapore, the UK and the Netherlands. People and community content is limited to ESG highlights and framework descriptions. The report points to a separate FY2025 ESG Report (www.frasersproperty.com/reits/flct/who-we-are/sustainability) for detail, so Community should get the automated second look. Compensation-framework mentions of leadership development and learning and development are general language and were not recorded as activities. Code of Business Conduct language encouraging respect for ethnicity and culture is policy only. A director's other directorships (e.g., Thai Beverage) relate to other companies and are not FLCT business activities."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"BUOU.SI\",\"sector\":\"Real Estate\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee-led community initiatives, including partnerships with the Red Cross and Lion Befrienders\",\"quote\":\"Multiple employee-led community initiatives including partnerships with Red Cross and Lion Befrienders\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG highlights > FY2025 key sustainability highlights\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community partnerships, limited reach and no figures\"}}},{\"id\":\"E2\",\"activity\":\"Board Diversity Policy with a gender representation target and disclosed board gender makeup\",\"quote\":\"In progress – As at 30 September 2025, the Board has 1 female director, representing 20% of the Board.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate governance report > Board diversity policy, targets, timelines and progress\",\"status\":\"current\",\"indicators\":\"1 female director, 20% of the Board\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: board demographic statistics and diversity targets only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes a logistics and commercial property REIT and shows no activity that creates or enables creative work.\"},\"community\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: named community partnerships with the Red Cross and Lion Befrienders with no reach figures; coverage is insufficient under condition 2 because the community and people discussion is under about 150 words (ESG highlights bullet and framework labels), and the report refers readers to the separate FY2025 ESG Report.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: only board diversity statistics and targets plus general code-of-conduct and 'inclusive community' framework language, with no specific inclusion or access activity.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is leasing property to local and multinational tenants, with no service or program that enables founders or small businesses.\"}},\"notes\":\"The report describes an industrial/logistics and office REIT across Australia, Germany, Singapore, the UK and the Netherlands. People and community content is limited to ESG highlights and framework descriptions. The report points to a separate FY2025 ESG Report (www.frasersproperty.com/reits/flct/who-we-are/sustainability) for detail, so Community should get the automated second look. Compensation-framework mentions of leadership development and learning and development are general language and were not recorded as activities. Code of Business Conduct language encouraging respect for ethnicity and culture is policy only. A director's other directorships (e.g., Thai Beverage) relate to other companies and are not FLCT business activities.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 45001,
+      "output_tokens": 2830,
+      "duration_ms": 29197
+    }
+  ]
+}

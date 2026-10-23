@@ -1,0 +1,22 @@
+{
+  "ticker": "P15.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/44JTWA0DH7EZYK4P/881221_PCRDL_Annual%20Report%202025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 5125
+  },
+  "notes": [
+    "TOC fallback (chapters from the printed contents page hold only 1,362 words): keyword paragraphs across the whole report; skipped 35 of 120 pages (risk, number pages, financial statements from page 41, except 49 governance/sustainability page(s) after them)"
+  ],
+  "people_words": 1745,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "chapters_skipped": [
+    "Financial Statements"
+  ],
+  "words_sent": 5136
+}

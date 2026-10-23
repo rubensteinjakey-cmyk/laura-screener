@@ -1,0 +1,358 @@
+{
+  "ticker": "S58.SI",
+  "company_name": "SATS",
+  "country": "Singapore",
+  "sector": "Industrials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2026,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/KDUEMRFCNK9XYXB6/895114_SATS_Annual_Report_FY2026.pdf",
+  "english": true,
+  "words_sent": 7344,
+  "prompt_chars": 73263,
+  "approx_prompt_tokens": 18315,
+  "scored_at": "2026-10-23T17:31:42",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Refreshed airport lounges to include interior design elements from local artists and students",
+        "quote": "The refreshed lounges will feature private pods, dining service and travel-friendly amenities, alongside a curated showcase of Singapore hawker dishes and interior design elements from local artists and students.",
+        "source_doc": "filing",
+        "section": "Annual report > Infrastructure Investments > Passenger-facing infrastructure",
+        "status": "planned",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used as a routine input (lounge interior design); planned, recorded for context only"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Culinary and product innovation teams and chefs develop menus for inflight and food services",
+        "quote": "Our culinary and product innovation teams translate menu concepts into meals that can be produced consistently across markets, while our community of chefs across the network brings cultural depth and diversity to the offering.",
+        "source_doc": "filing",
+        "section": "Annual report > Synergistic Growth Through Non-Aviation",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: menu design as a routine business input"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "SATS Foundation funds registered charity programmes in Singapore, mainly food security",
+        "quote": "SATS Foundation supported more than 22 IPC-registered programmes in Singapore during the year, with a significant proportion directed towards food security initiatives.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > Caring for Community",
+        "status": "current",
+        "indicators": "more than 22 IPC-registered programmes",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named foundation programme with number of programmes supported"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Employee volunteering through SATS Foundation programmes",
+        "quote": "Employee volunteerism remained strong, with approximately 900 volunteer hours recorded in FY2026, of which 76% supported food security programmes, followed by initiatives benefitting the elderly and youth.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > Caring for Community",
+        "status": "current",
+        "indicators": "approximately 900 volunteer hours; 76%",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: volunteering with numbers"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "AISATS Morning Nutrition Programme providing daily nutrition to rural government school children",
+        "quote": "The Morning Nutrition Programme reached 35,000 government school children across rural Karnataka with daily fortified nutrition and milk, improving attendance and classroom engagement.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > India",
+        "status": "current",
+        "indicators": "35,000 government school children",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named programme with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "AISATS Family Strengthening programmes for vulnerable children",
+        "quote": "Family Strengthening programmes supported 202 vulnerable children across Alibaug, Hyderabad and Bengaluru through integrated interventions covering health, nutrition and livelihood stability.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > India",
+        "status": "current",
+        "indicators": "202 vulnerable children",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: named programme with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "AISATS support for girls to continue primary education",
+        "quote": "In India, AISATS supported 80 girls in higher primary education, providing resources to reduce dropout rates and encourage continued schooling.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > India",
+        "status": "current",
+        "indicators": "80 girls",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: external education support, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "AISATS support for children with disabilities through therapy, assistive devices and caregiver training",
+        "quote": "The organisation also extended support to 90 children with hearing, sight and other disabilities, enabling access to therapy, assistive devices and specialised caregiver training to promote independence and inclusion.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > India",
+        "status": "current",
+        "indicators": "90 children",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: community programme, limited reach"
+          },
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific programme removing barriers for people with disabilities, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Youth Outreach Programme with Singapore Airlines introducing students to aviation careers",
+        "quote": "Through a collaboration with Singapore Airlines, we co-organised a Youth Outreach Programme conducted twice annually, introducing students to the aviation ecosystem and exposing them to career pathways across ground handling, food solutions and airport operations.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > Youth Outreach Programme",
+        "status": "current",
+        "indicators": "over 300 students annually",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education programme with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Scholarships and financial assistance for students through partnerships with educational institutions",
+        "quote": "We also partnered with three educational institutions to provide scholarships and financial assistance to students pursuing their academic goals.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > Empowering Community",
+        "status": "current",
+        "indicators": "three educational institutions",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: scholarships, limited disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "SATS Foundation Education Awards bursaries for employees' children and young people",
+        "quote": "The SATS Foundation Education Awards honour the dedication of our employees by supporting the aspirations of their children and young people across our community.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities, Empowering Futures",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: named bursary programme, no figures"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "AISATS water purification systems improving safe drinking water access in remote areas of India",
+        "quote": "AISATS partnered with cross-sector partners on an initiative in India to deploy advanced water purification systems at Indian Army forward locations, improving access to safe drinking water for personnel and communities in some of the country’s most remote and demanding operating conditions.",
+        "source_doc": "filing",
+        "section": "Annual report > Caring for Our Communities > India",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community initiative, no figures"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Built to Lead flagship leadership programme for people managers",
+        "quote": "Our flagship programme, Built to Lead (BTL), serves as the foundational leadership programme for people managers.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Governance Report > Leadership development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "ELEVATE global mobility programme of short-term international assignments for high-potential staff",
+        "quote": "Under ELEVATE, selected high-potential employees undertake short-term international assignments with specific business projects and objectives.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Governance Report > Leadership development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Group-wide Workplace Inclusion eLearning programme",
+        "quote": "In FY2026, we launched a group-wide Workplace Inclusion eLearning programme to establish a common baseline of inclusive practices, achieving a 95% completion rate across our global workforce.",
+        "source_doc": "filing",
+        "section": "Annual report > People > Building a Global Culture as OneSATS",
+        "status": "current",
+        "indicators": "95% completion rate",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion practice across the workforce"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "SATS Network of WoMen, a regional employee network piloted in selected EMEA markets",
+        "quote": "In EMEA, we also introduced the SATS Network of WoMen, a regional initiative across all genders to foster personal empowerment, professional development and community building.",
+        "source_doc": "filing",
+        "section": "Annual report > People > Building a Global Culture as OneSATS",
+        "status": "current",
+        "indicators": "120 inaugural members",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee network, regional pilot with limited membership"
+          }
+        }
+      },
+      {
+        "id": "E17",
+        "activity": "Board ethnicity statistics",
+        "quote": "Seven out of 10 Directors (70%) are of Asian ethnicity, while three Directors (30%) are of Caucasian descent.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Governance Report > Board Diversity Targets, Timelines and Progress > Ethnicity",
+        "status": "current",
+        "indicators": "70%; 30%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E18",
+        "activity": "SG Hub innovation centre trialling autonomous vehicles and new operating concepts",
+        "quote": "SG Hub serves as our innovation and system design centre, where new operating concepts are validated in live operations before scaling across the network.",
+        "source_doc": "filing",
+        "section": "Annual report > SG Hub",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: company's own innovation"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 1: creative work appears only as a routine input, such as menu development and lounge interior design (the lounge item is still planned), in an aviation services and catering business."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11",
+          "E12",
+          "E13",
+          "E14"
+        ],
+        "reason": "Level 3: external education and community investment with substantial reach shown by indicators, including 35,000 school children fed, more than 22 IPC programmes, over 300 students per year in youth outreach, and about 900 volunteer hours, though not central to strategy."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E15",
+          "E16",
+          "E8"
+        ],
+        "reason": "Level 2: specific current activities with limited reach, namely a group-wide inclusion eLearning, a regional employee network pilot with 120 members, and disability support for 90 children; board ethnicity data is demographics only."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E18"
+        ],
+        "reason": "Level 1: only the company's own innovation is described, with no service or programme that enables founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "Several community programmes (E5-E8, E12) are run by AISATS, an Indian joint venture, which the report presents as part of SATS's community work. The SATS Network of WoMen is described as 'piloted in selected EMEA markets' (page 24) and as a regional initiative with 120 inaugural members; a Group-wide rollout is only planned. Cross-cultural was torn between levels 2 and 3 and set to the lower level under the tie-break rule. The 1,800 families helped after the Hong Kong fire appear only in a stats call-out with no full sentence to quote, so no record was created. The board missed its 35% female representation target (30% actual). The report refers to a separate Sustainability Report 2026 and ESG Databook for more metrics, but coverage is sufficient on every theme without them."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"S58.SI\",\"sector\":\"Industrials\",\"fiscal_year\":2026,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Refreshed airport lounges to include interior design elements from local artists and students\",\"quote\":\"The refreshed lounges will feature private pods, dining service and travel-friendly amenities, alongside a curated showcase of Singapore hawker dishes and interior design elements from local artists and students.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Infrastructure Investments > Passenger-facing infrastructure\",\"status\":\"planned\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used as a routine input (lounge interior design); planned, recorded for context only\"}}},{\"id\":\"E2\",\"activity\":\"Culinary and product innovation teams and chefs develop menus for inflight and food services\",\"quote\":\"Our culinary and product innovation teams translate menu concepts into meals that can be produced consistently across markets, while our community of chefs across the network brings cultural depth and diversity to the offering.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Synergistic Growth Through Non-Aviation\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: menu design as a routine business input\"}}},{\"id\":\"E3\",\"activity\":\"SATS Foundation funds registered charity programmes in Singapore, mainly food security\",\"quote\":\"SATS Foundation supported more than 22 IPC-registered programmes in Singapore during the year, with a significant proportion directed towards food security initiatives.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > Caring for Community\",\"status\":\"current\",\"indicators\":\"more than 22 IPC-registered programmes\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named foundation programme with number of programmes supported\"}}},{\"id\":\"E4\",\"activity\":\"Employee volunteering through SATS Foundation programmes\",\"quote\":\"Employee volunteerism remained strong, with approximately 900 volunteer hours recorded in FY2026, of which 76% supported food security programmes, followed by initiatives benefitting the elderly and youth.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > Caring for Community\",\"status\":\"current\",\"indicators\":\"approximately 900 volunteer hours; 76%\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2-3: volunteering with numbers\"}}},{\"id\":\"E5\",\"activity\":\"AISATS Morning Nutrition Programme providing daily nutrition to rural government school children\",\"quote\":\"The Morning Nutrition Programme reached 35,000 government school children across rural Karnataka with daily fortified nutrition and milk, improving attendance and classroom engagement.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > India\",\"status\":\"current\",\"indicators\":\"35,000 government school children\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named programme with participant numbers\"}}},{\"id\":\"E6\",\"activity\":\"AISATS Family Strengthening programmes for vulnerable children\",\"quote\":\"Family Strengthening programmes supported 202 vulnerable children across Alibaug, Hyderabad and Bengaluru through integrated interventions covering health, nutrition and livelihood stability.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > India\",\"status\":\"current\",\"indicators\":\"202 vulnerable children\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2-3: named programme with participant numbers\"}}},{\"id\":\"E7\",\"activity\":\"AISATS support for girls to continue primary education\",\"quote\":\"In India, AISATS supported 80 girls in higher primary education, providing resources to reduce dropout rates and encourage continued schooling.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > India\",\"status\":\"current\",\"indicators\":\"80 girls\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: external education support, limited reach\"}}},{\"id\":\"E8\",\"activity\":\"AISATS support for children with disabilities through therapy, assistive devices and caregiver training\",\"quote\":\"The organisation also extended support to 90 children with hearing, sight and other disabilities, enabling access to therapy, assistive devices and specialised caregiver training to promote independence and inclusion.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > India\",\"status\":\"current\",\"indicators\":\"90 children\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: community programme, limited reach\"},\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 2: specific programme removing barriers for people with disabilities, limited reach\"}}},{\"id\":\"E9\",\"activity\":\"Youth Outreach Programme with Singapore Airlines introducing students to aviation careers\",\"quote\":\"Through a collaboration with Singapore Airlines, we co-organised a Youth Outreach Programme conducted twice annually, introducing students to the aviation ecosystem and exposing them to career pathways across ground handling, food solutions and airport operations.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > Youth Outreach Programme\",\"status\":\"current\",\"indicators\":\"over 300 students annually\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education programme with participant numbers\"}}},{\"id\":\"E10\",\"activity\":\"Scholarships and financial assistance for students through partnerships with educational institutions\",\"quote\":\"We also partnered with three educational institutions to provide scholarships and financial assistance to students pursuing their academic goals.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > Empowering Community\",\"status\":\"current\",\"indicators\":\"three educational institutions\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: scholarships, limited disclosed reach\"}}},{\"id\":\"E11\",\"activity\":\"SATS Foundation Education Awards bursaries for employees' children and young people\",\"quote\":\"The SATS Foundation Education Awards honour the dedication of our employees by supporting the aspirations of their children and young people across our community.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities, Empowering Futures\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: named bursary programme, no figures\"}}},{\"id\":\"E12\",\"activity\":\"AISATS water purification systems improving safe drinking water access in remote areas of India\",\"quote\":\"AISATS partnered with cross-sector partners on an initiative in India to deploy advanced water purification systems at Indian Army forward locations, improving access to safe drinking water for personnel and communities in some of the country’s most remote and demanding operating conditions.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Caring for Our Communities > India\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community initiative, no figures\"}}},{\"id\":\"E13\",\"activity\":\"Built to Lead flagship leadership programme for people managers\",\"quote\":\"Our flagship programme, Built to Lead (BTL), serves as the foundational leadership programme for people managers.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Governance Report > Leadership development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development\"}}},{\"id\":\"E14\",\"activity\":\"ELEVATE global mobility programme of short-term international assignments for high-potential staff\",\"quote\":\"Under ELEVATE, selected high-potential employees undertake short-term international assignments with specific business projects and objectives.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Governance Report > Leadership development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development\"}}},{\"id\":\"E15\",\"activity\":\"Group-wide Workplace Inclusion eLearning programme\",\"quote\":\"In FY2026, we launched a group-wide Workplace Inclusion eLearning programme to establish a common baseline of inclusive practices, achieving a 95% completion rate across our global workforce.\",\"source_doc\":\"filing\",\"section\":\"Annual report > People > Building a Global Culture as OneSATS\",\"status\":\"current\",\"indicators\":\"95% completion rate\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion practice across the workforce\"}}},{\"id\":\"E16\",\"activity\":\"SATS Network of WoMen, a regional employee network piloted in selected EMEA markets\",\"quote\":\"In EMEA, we also introduced the SATS Network of WoMen, a regional initiative across all genders to foster personal empowerment, professional development and community building.\",\"source_doc\":\"filing\",\"section\":\"Annual report > People > Building a Global Culture as OneSATS\",\"status\":\"current\",\"indicators\":\"120 inaugural members\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee network, regional pilot with limited membership\"}}},{\"id\":\"E17\",\"activity\":\"Board ethnicity statistics\",\"quote\":\"Seven out of 10 Directors (70%) are of Asian ethnicity, while three Directors (30%) are of Caucasian descent.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Governance Report > Board Diversity Targets, Timelines and Progress > Ethnicity\",\"status\":\"current\",\"indicators\":\"70%; 30%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E18\",\"activity\":\"SG Hub innovation centre trialling autonomous vehicles and new operating concepts\",\"quote\":\"SG Hub serves as our innovation and system design centre, where new operating concepts are validated in live operations before scaling across the network.\",\"source_doc\":\"filing\",\"section\":\"Annual report > SG Hub\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: company's own innovation\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 1: creative work appears only as a routine input, such as menu development and lounge interior design (the lounge item is still planned), in an aviation services and catering business.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\",\"E10\",\"E11\",\"E12\",\"E13\",\"E14\"],\"reason\":\"Level 3: external education and community investment with substantial reach shown by indicators, including 35,000 school children fed, more than 22 IPC programmes, over 300 students per year in youth outreach, and about 900 volunteer hours, though not central to strategy.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E15\",\"E16\",\"E8\"],\"reason\":\"Level 2: specific current activities with limited reach, namely a group-wide inclusion eLearning, a regional employee network pilot with 120 members, and disability support for 90 children; board ethnicity data is demographics only.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E18\"],\"reason\":\"Level 1: only the company's own innovation is described, with no service or programme that enables founders or small businesses.\"}},\"notes\":\"Several community programmes (E5-E8, E12) are run by AISATS, an Indian joint venture, which the report presents as part of SATS's community work. The SATS Network of WoMen is described as 'piloted in selected EMEA markets' (page 24) and as a regional initiative with 120 inaugural members; a Group-wide rollout is only planned. Cross-cultural was torn between levels 2 and 3 and set to the lower level under the tie-break rule. The 1,800 families helped after the Hong Kong fire appear only in a stats call-out with no full sentence to quote, so no record was created. The board missed its 35% female representation target (30% actual). The report refers to a separate Sustainability Report 2026 and ESG Databook for more metrics, but coverage is sufficient on every theme without them.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 26002,
+      "output_tokens": 8200,
+      "duration_ms": 67260
+    }
+  ]
+}

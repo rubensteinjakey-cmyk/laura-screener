@@ -1,0 +1,113 @@
+{
+  "ticker": "A17U.SI",
+  "company_name": "CapitaLand Ascendas REIT",
+  "country": "Singapore",
+  "sector": "Real Estate",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/VLMUR6L61OAEVKHB/881419_CLAR%20-%20AR%202025.pdf",
+  "english": true,
+  "words_sent": 5086,
+  "prompt_chars": 54918,
+  "approx_prompt_tokens": 13729,
+  "scored_at": "2026-10-23T17:34:58",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Training provided to the Manager's employees",
+        "quote": "24.8 hours of training per employee on average",
+        "source_doc": "filing",
+        "section": "Annual report > Environmental, Social and Governance Recognition > Social Highlights",
+        "status": "current",
+        "indicators": "24.8 hours of training per employee on average",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee volunteering in the community",
+        "quote": "164 volunteering hours by employees",
+        "source_doc": "filing",
+        "section": "Annual report > Environmental, Social and Governance Recognition > Social Highlights",
+        "status": "current",
+        "indicators": "164 volunteering hours",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current activity, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Board diversity policy with gender targets for female directors",
+        "quote": "To have at least 25% and 30% female Directors on the Board during the period leading up to 2025 and 2030.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Governance > Board Diversity > Diversity Targets, Plans and Timelines",
+        "status": "current",
+        "indicators": "25% and 30% female Directors",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: board composition targets and demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers industrial, logistics and business-space property ownership with no creative activity; 'artist's impression' renderings, interior refurbishment and media tenants are not creating or enabling creative work."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: employee training and 164 employee volunteering hours are specific current activities of limited reach; coverage is insufficient under condition 2 because the people and community discussion in the source is under about 150 words."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 1: the source shows only board diversity policy, targets and gender statistics and no inclusion practice; coverage is insufficient under condition 1 because there is no human capital, workforce or community section beyond a brief highlights box."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the REIT leases space to corporate tenants, and the only start-up mention describes the location of properties near start-up companies, with no enabling service or small-business customer base disclosed."
+      }
+    },
+    "red_flags": [],
+    "notes": "Source is keyword paragraphs only, and workforce and community content is limited to a highlights box, so Community and Cross-cultural should receive the second look using the sponsor/REIT sustainability report. The lift added 'to improve accessibility between floors' is general building circulation, not disability-specific access, so it was not scored. The sponsor's Net Zero commitment and 'committed to being a responsible REIT' wording is general claim language. Director continuing-education, BCMS training and anti-fraud training are board, compliance or governance items and were not scored."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"A17U.SI\",\"sector\":\"Real Estate\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Training provided to the Manager's employees\",\"quote\":\"24.8 hours of training per employee on average\",\"source_doc\":\"filing\",\"section\":\"Annual report > Environmental, Social and Governance Recognition > Social Highlights\",\"status\":\"current\",\"indicators\":\"24.8 hours of training per employee on average\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Employee volunteering in the community\",\"quote\":\"164 volunteering hours by employees\",\"source_doc\":\"filing\",\"section\":\"Annual report > Environmental, Social and Governance Recognition > Social Highlights\",\"status\":\"current\",\"indicators\":\"164 volunteering hours\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current activity, limited in reach\"}}},{\"id\":\"E3\",\"activity\":\"Board diversity policy with gender targets for female directors\",\"quote\":\"To have at least 25% and 30% female Directors on the Board during the period leading up to 2025 and 2030.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Governance > Board Diversity > Diversity Targets, Plans and Timelines\",\"status\":\"current\",\"indicators\":\"25% and 30% female Directors\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: board composition targets and demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers industrial, logistics and business-space property ownership with no creative activity; 'artist's impression' renderings, interior refurbishment and media tenants are not creating or enabling creative work.\"},\"community\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: employee training and 164 employee volunteering hours are specific current activities of limited reach; coverage is insufficient under condition 2 because the people and community discussion in the source is under about 150 words.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 1: the source shows only board diversity policy, targets and gender statistics and no inclusion practice; coverage is insufficient under condition 1 because there is no human capital, workforce or community section beyond a brief highlights box.\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the REIT leases space to corporate tenants, and the only start-up mention describes the location of properties near start-up companies, with no enabling service or small-business customer base disclosed.\"}},\"notes\":\"Source is keyword paragraphs only, and workforce and community content is limited to a highlights box, so Community and Cross-cultural should receive the second look using the sponsor/REIT sustainability report. The lift added 'to improve accessibility between floors' is general building circulation, not disability-specific access, so it was not scored. The sponsor's Net Zero commitment and 'committed to being a responsible REIT' wording is general claim language. Director continuing-education, BCMS training and anti-fraud training are board, compliance or governance items and were not scored.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 21748,
+      "output_tokens": 2911,
+      "duration_ms": 31136
+    }
+  ]
+}

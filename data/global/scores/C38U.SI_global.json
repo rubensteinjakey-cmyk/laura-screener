@@ -1,0 +1,160 @@
+{
+  "ticker": "C38U.SI",
+  "company_name": "CapitaLand Integrated Commercial Trust",
+  "country": "Singapore",
+  "sector": "Real Estate",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/PY3VCKEQ8KS6R716/878885_2_CICT%20AR%202025_Final.pdf",
+  "english": true,
+  "words_sent": 8649,
+  "prompt_chars": 75814,
+  "approx_prompt_tokens": 18953,
+  "scored_at": "2026-10-23T17:33:56",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Operates the ION Art Gallery, an art exhibition space within its ION Orchard mall",
+        "quote": "In addition, ION Orchard offers unique and multi-sensory experiences via the ION Art Gallery and ION Sky.",
+        "source_doc": "filing",
+        "section": "Annual report > Property Details > ION Orchard",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current creative venue showcasing art, limited disclosed scale or reach"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Employee volunteering under the company's social good programme",
+        "quote": "908 Volunteer Hours by Employees",
+        "source_doc": "filing",
+        "section": "Annual report > ESG Highlights > Fostering Positive Change through Social Good",
+        "status": "current",
+        "indicators": "908",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current volunteering activity with a figure, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee training programme",
+        "quote": "~24 Training Hours per Employee",
+        "source_doc": "filing",
+        "section": "Annual report > ESG Highlights",
+        "status": "current",
+        "indicators": "~24",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Properties built to and certified under Singapore's BCA Universal Design Mark for accessible, inclusive design (e.g. Westgate, CapitaGreen, Bedok Mall, Capital Tower)",
+        "quote": "BCA Universal Design Mark Platinum",
+        "source_doc": "filing",
+        "section": "Annual report > Property Details > Westgate > Property Information",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current accessibility practice in properties, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Disclosure of female representation in senior management",
+        "quote": "54% Female Representation in Senior Management Level",
+        "source_doc": "filing",
+        "section": "Annual report > ESG Highlights",
+        "status": "current",
+        "indicators": "54%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Planned conversion of Capital Tower Level 9 into a community space (a workplace mental wellness centre with TOUCH Community Services and CapitaLand Hope Foundation)",
+        "quote": "From 3Q 2026, Capital Tower, a Grade A office building, will undergo an approximately S$25 million AEI, which will reposition Level 9 into a community space and create a higher-yielding F&B space with a multi-tenanted retail pavilion on Level 1.",
+        "source_doc": "filing",
+        "section": "Annual report > Continued momentum into 2026",
+        "status": "planned",
+        "indicators": "S$25 million (total AEI cost, including F&B works)",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "planned: recorded for context only, does not raise score"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: a specific current creative activity (the ION Art Gallery) with no disclosed scale or reach; the rest of the business is commercial property leasing."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: employee volunteering of limited reach (908 hours) plus employee training; coverage is insufficient under condition 2 (people and community discussion under about 150 words, consisting of highlight metrics only)."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "insufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 2: a specific current accessibility practice (Universal Design Mark certified properties) with no reach figures; coverage is insufficient under condition 2 (workforce and inclusion discussion under about 150 words, excluding board composition)."
+      },
+      "entrepreneurship": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the leasing business is fully described, and it shows no small-business enabling programme or even explicit small-business customers."
+      }
+    },
+    "red_flags": [],
+    "notes": "The report defers people and community detail to the Sustainability Report 2025 ('More information will be published in CICT's Sustainability Report 2025 by end-April 2026'). Community and Cross-cultural are therefore insufficient and should get the automated second look. Several relevant activities are planned or under way and were not scored: the Capital Tower Level 9 community/mental wellness space with TOUCH Community Services and CapitaLand Hope Foundation (3Q 2026 to 4Q 2027); the Keat Hong Community Club sheltered bridge at Lot One (completion 1Q 2027); and the accessible changing room in the ongoing Tampines Mall AEI. Board gender, age and tenure diversity disclosures are governance demographics and were not scored as inclusion practice. The Chairman's Caritas board seat is a personal commitment, not company activity. The many 'Artist's impression' captions are architectural renderings and do not count as creative activity."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"C38U.SI\",\"sector\":\"Real Estate\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Operates the ION Art Gallery, an art exhibition space within its ION Orchard mall\",\"quote\":\"In addition, ION Orchard offers unique and multi-sensory experiences via the ION Art Gallery and ION Sky.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Property Details > ION Orchard\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current creative venue showcasing art, limited disclosed scale or reach\"}}},{\"id\":\"E2\",\"activity\":\"Employee volunteering under the company's social good programme\",\"quote\":\"908 Volunteer Hours by Employees\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG Highlights > Fostering Positive Change through Social Good\",\"status\":\"current\",\"indicators\":\"908\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current volunteering activity with a figure, limited in reach\"}}},{\"id\":\"E3\",\"activity\":\"Employee training programme\",\"quote\":\"~24 Training Hours per Employee\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG Highlights\",\"status\":\"current\",\"indicators\":\"~24\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E4\",\"activity\":\"Properties built to and certified under Singapore's BCA Universal Design Mark for accessible, inclusive design (e.g. Westgate, CapitaGreen, Bedok Mall, Capital Tower)\",\"quote\":\"BCA Universal Design Mark Platinum\",\"source_doc\":\"filing\",\"section\":\"Annual report > Property Details > Westgate > Property Information\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current accessibility practice in properties, no reach figures\"}}},{\"id\":\"E5\",\"activity\":\"Disclosure of female representation in senior management\",\"quote\":\"54% Female Representation in Senior Management Level\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG Highlights\",\"status\":\"current\",\"indicators\":\"54%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E6\",\"activity\":\"Planned conversion of Capital Tower Level 9 into a community space (a workplace mental wellness centre with TOUCH Community Services and CapitaLand Hope Foundation)\",\"quote\":\"From 3Q 2026, Capital Tower, a Grade A office building, will undergo an approximately S$25 million AEI, which will reposition Level 9 into a community space and create a higher-yielding F&B space with a multi-tenanted retail pavilion on Level 1.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Continued momentum into 2026\",\"status\":\"planned\",\"indicators\":\"S$25 million (total AEI cost, including F&B works)\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"planned: recorded for context only, does not raise score\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: a specific current creative activity (the ION Art Gallery) with no disclosed scale or reach; the rest of the business is commercial property leasing.\"},\"community\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E2\",\"E3\"],\"reason\":\"Level 2: employee volunteering of limited reach (908 hours) plus employee training; coverage is insufficient under condition 2 (people and community discussion under about 150 words, consisting of highlight metrics only).\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"insufficient\",\"evidence_ids\":[\"E4\"],\"reason\":\"Level 2: a specific current accessibility practice (Universal Design Mark certified properties) with no reach figures; coverage is insufficient under condition 2 (workforce and inclusion discussion under about 150 words, excluding board composition).\"},\"entrepreneurship\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the leasing business is fully described, and it shows no small-business enabling programme or even explicit small-business customers.\"}},\"notes\":\"The report defers people and community detail to the Sustainability Report 2025 ('More information will be published in CICT's Sustainability Report 2025 by end-April 2026'). Community and Cross-cultural are therefore insufficient and should get the automated second look. Several relevant activities are planned or under way and were not scored: the Capital Tower Level 9 community/mental wellness space with TOUCH Community Services and CapitaLand Hope Foundation (3Q 2026 to 4Q 2027); the Keat Hong Community Club sheltered bridge at Lot One (completion 1Q 2027); and the accessible changing room in the ongoing Tampines Mall AEI. Board gender, age and tenure diversity disclosures are governance demographics and were not scored as inclusion practice. The Chairman's Caritas board seat is a personal commitment, not company activity. The many 'Artist's impression' captions are architectural renderings and do not count as creative activity.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 31748,
+      "output_tokens": 5317,
+      "duration_ms": 48780
+    }
+  ]
+}

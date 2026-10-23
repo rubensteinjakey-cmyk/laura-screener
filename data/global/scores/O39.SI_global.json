@@ -1,0 +1,344 @@
+{
+  "ticker": "O39.SI",
+  "company_name": "OCBC Bank",
+  "country": "Singapore",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.ocbc.com/iwov-resources/sg/ocbc/gbc/pdf/investors/annual-reports/2025/2025-annual-report-en.pdf",
+  "english": true,
+  "words_sent": 7072,
+  "prompt_chars": 71317,
+  "approx_prompt_tokens": 17829,
+  "scored_at": "2026-10-23T17:28:11",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "OCBC SeniorCare programme supporting seniors' health, wealth, literacy and lifestyle needs",
+        "quote": "With over $2 million invested to support more than 180,000 seniors, the programme helps seniors manage their health, wealth, literacy and lifestyle needs with confidence.",
+        "source_doc": "filing",
+        "section": "Annual report > Group CEO statement > Investing in People, Communities and Sustainability",
+        "status": "current",
+        "indicators": "over $2 million; more than 180,000 seniors",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education/community program with dollars and participants"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Dialect-speaking branch ambassadors for seniors and accessible app text resizing",
+        "quote": "We introduced OCBC CARE Ambassadors in selected branches to assist seniors in familiar dialects and enhanced digital accessibility with smart text resizing on the OCBC mobile app.",
+        "source_doc": "filing",
+        "section": "Annual report > Group CEO statement > Investing in People, Communities and Sustainability",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: multilingual/dialect service and accessibility feature, limited reach disclosed"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Pay-to-wallet remittance feature aimed at the unbanked and Singapore's foreign workforce",
+        "quote": "Expanded the OCBC app’s pay-to-wallet feature to cover 10 leading digital wallets across Asia, improving remittance speed, cost and accessibility especially for the region’s unbanked population and Singapore’s foreign workforce",
+        "source_doc": "filing",
+        "section": "Annual report > 2025 Sustainability Highlights > Bringing Impact to Communities",
+        "status": "current",
+        "indicators": "10 leading digital wallets",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: service built for immigrant workers and underserved customers, reach not disclosed"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "OCBC-SDSC SwimTogether water safety programme for persons with disabilities, fully funded by OCBC",
+        "quote": "Fully funded by OCBC, the programme supports 100 participants across 800 classes led by trained coaches and OCBC staff volunteers.",
+        "source_doc": "filing",
+        "section": "Annual report > Helping Where it Matters > Singapore > OCBC-SDSC SwimTogether Programme",
+        "status": "current",
+        "indicators": "100 participants; 800 classes",
+        "themes": {
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 3: named accessibility/inclusion program for persons with disabilities with participant numbers"
+          },
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: funded community program with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee volunteering program across markets",
+        "quote": "17,681 Volunteers 82,182 Hours Contributed 616,521 Individuals Impacted",
+        "source_doc": "filing",
+        "section": "Annual report > Paying it Forward",
+        "status": "current",
+        "indicators": "17,681 Volunteers; 82,182 Hours Contributed; 616,521 Individuals Impacted",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: volunteering with measured volunteers, hours and people reached"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "OCBC Ignite early talent programme for polytechnic students",
+        "quote": "Since the launch of OCBC Ignite in 2024, we have welcomed more than 300 students across all 5 local polytechnics into the programme, further contributing to the goal of boosting participation of polytechnic graduates in the financial sector in Singapore.",
+        "source_doc": "filing",
+        "section": "Annual report > Our People > Early talent pathways",
+        "status": "current",
+        "indicators": "more than 300 students; 5 local polytechnics",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Five-year tuition programme for underprivileged children at The Hut Singapore",
+        "quote": "A five year tuition programme was introduced for underprivileged children at The Hut Singapore, providing them with long-term, sustained academic support.",
+        "source_doc": "filing",
+        "section": "Annual report > Bringing Impact to Communities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education program, reach not disclosed"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Ramadan food package distribution to families in need in Indonesia",
+        "quote": "In celebration of OCBC Indonesia’s 84th anniversary and the month of Ramadan, the teams in Indonesia and OCBC Syariah distributed 1,000 food packages to families in need across Jakarta, Banten, and West Java.",
+        "source_doc": "filing",
+        "section": "Annual report > Helping Where it Matters > Indonesia > Ramadan Food Distribution",
+        "status": "current",
+        "indicators": "1,000 food packages",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community activity, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Branch-funded medical equipment donation for rural communities in Malaysia",
+        "quote": "Together with Klinik Kesihatan Bukit Pelandok in Port Dickson, the OCBC Seremban branch funded RM19,352 worth of essential medical equipment to strengthen healthcare services for rural communities.",
+        "source_doc": "filing",
+        "section": "Annual report > Helping Where it Matters > Malaysia > OCBC Seremban medical equipment donation",
+        "status": "current",
+        "indicators": "RM19,352",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community investment, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Coaching for Growth programme with ICF-trained internal coaches",
+        "quote": "As of December 2025, our community of 52 ICF-trained coaches has inspired and guided more than 300 employees, empowering them to grow with confidence and unlock their fullest personal and professional potential.",
+        "source_doc": "filing",
+        "section": "Annual report > Our People > Coaching",
+        "status": "current",
+        "indicators": "52 ICF-trained coaches; more than 300 employees",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "AI, Digital and Data training for employees",
+        "quote": "In the past three years, around three in five employees have participated in training programmes related to AI, Digital and Data.",
+        "source_doc": "filing",
+        "section": "Annual report > Tech Shift > Workforce capabilities",
+        "status": "current",
+        "indicators": "around three in five employees",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Cyber Certification Pathway 2.0 upskilling employees into cybersecurity roles",
+        "quote": "Over 200 graduates from key markets including Singapore, Malaysia, Mainland China and Hong Kong have completed the programme",
+        "source_doc": "filing",
+        "section": "Annual report > 2025 Sustainability Highlights > Conducting Our Business Responsibly",
+        "status": "current",
+        "indicators": "Over 200 graduates",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "'Life in a Snapshot' photography and storytelling programme for seniors with dementia, ending in a public artwork showcase",
+        "quote": "OCBC volunteers delved into in-depth conversations with the seniors and continued to engage them over six months to hold a public showcase featuring artwork reflecting stories from their lives.",
+        "source_doc": "filing",
+        "section": "Annual report > Helping Where it Matters > Hong Kong > Life in a Snapshot",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: single small arts/storytelling community program, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "Women Unlimited programme supporting women entrepreneurs across four markets",
+        "quote": "Our Women Unlimited programme now extends across Singapore, Indonesia, Hong Kong and Malaysia, with a goal to support 10,000 women entrepreneurs by 2030.",
+        "source_doc": "filing",
+        "section": "Annual report > Group CEO statement > SME programmes",
+        "status": "current",
+        "indicators": "10,000 women entrepreneurs by 2030 (target, not achieved reach)",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: named program for underserved founders; reach to date not disclosed"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Serial Entrepreneur programme supporting founders of multiple small businesses",
+        "quote": "The Serial Entrepreneur programme, which supports founders who own multiple small businesses, was also expanded in 2025 across our core markets.",
+        "source_doc": "filing",
+        "section": "Annual report > Group CEO statement > SME programmes",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: named founder program, reach not disclosed"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "OCBC SME Start-ESG Programme giving SMEs grant-funded assessment, expert advice and loan access",
+        "quote": "The Programme helps SMEs obtain a baseline measurement of their sustainability metrics with a grant from EnterpriseSG, expert advice on sustainability practices and access to sustainability-linked loans (SLLs) from OCBC.",
+        "source_doc": "filing",
+        "section": "Annual report > Global Commercial Banking > Supporting SMEs",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: named advisory/grant-supported SME program, reach not disclosed"
+          }
+        }
+      },
+      {
+        "id": "E17",
+        "activity": "Singpass authentication to ease cross-border business account opening",
+        "quote": "To reduce friction for cross-border business formation, we became the first bank to enable Singpass authentication for Singaporeans opening business accounts in Malaysia.",
+        "source_doc": "filing",
+        "section": "Annual report > Global Commercial Banking > Johor",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: tool reducing barriers to business formation, reach not disclosed"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E13"
+        ],
+        "reason": "Level 2: the core business is banking with no creative activity, and the only specific creative activity is one small arts/storytelling community programme."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11",
+          "E12"
+        ],
+        "reason": "Level 3: external education and community investment with substantial measured reach (SeniorCare over $2 million and 180,000 seniors, Ignite 300+ students, 17,681 volunteers), but not shown to be central to strategy at level 4 scale."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 3: a named inclusion programme for persons with disabilities with participant figures, plus customer-access services for seniors, the unbanked and foreign workers; access is not shown as a major measured business line."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E14",
+          "E15",
+          "E16",
+          "E17"
+        ],
+        "reason": "Level 2: several named enabling programmes for founders and SMEs, but no disclosed count of businesses actually helped (the 10,000 figure is a 2030 target)."
+      }
+    },
+    "red_flags": [],
+    "notes": "OCBC SeniorCare is cited once for Community (E1): the report gives 'more than 180,000 seniors' (framed elsewhere as over three years) and separately 'more than 100,000 seniors' reached to date, so the 180,000 figure may be a multi-year target. The Women Unlimited 10,000 figure is a 2030 goal and was not treated as current reach. Total donations of $3.87m (65% community) appear in a stats panel without a quotable sentence and were not used as an indicator. The Marriott partnership supporting 12,000 SME suppliers with working capital was treated as ordinary SME financing (serving) and not scored. The Punggol Digital District presence is planned. Board gender-diversity targets are governance disclosures and were not scored. Required cyber security training was excluded as compliance training. The creativity level 2 rests on one small programme; a reviewer may view it as level 1."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"O39.SI\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"OCBC SeniorCare programme supporting seniors' health, wealth, literacy and lifestyle needs\",\"quote\":\"With over $2 million invested to support more than 180,000 seniors, the programme helps seniors manage their health, wealth, literacy and lifestyle needs with confidence.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Group CEO statement > Investing in People, Communities and Sustainability\",\"status\":\"current\",\"indicators\":\"over $2 million; more than 180,000 seniors\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education/community program with dollars and participants\"}}},{\"id\":\"E2\",\"activity\":\"Dialect-speaking branch ambassadors for seniors and accessible app text resizing\",\"quote\":\"We introduced OCBC CARE Ambassadors in selected branches to assist seniors in familiar dialects and enhanced digital accessibility with smart text resizing on the OCBC mobile app.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Group CEO statement > Investing in People, Communities and Sustainability\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: multilingual/dialect service and accessibility feature, limited reach disclosed\"}}},{\"id\":\"E3\",\"activity\":\"Pay-to-wallet remittance feature aimed at the unbanked and Singapore's foreign workforce\",\"quote\":\"Expanded the OCBC app’s pay-to-wallet feature to cover 10 leading digital wallets across Asia, improving remittance speed, cost and accessibility especially for the region’s unbanked population and Singapore’s foreign workforce\",\"source_doc\":\"filing\",\"section\":\"Annual report > 2025 Sustainability Highlights > Bringing Impact to Communities\",\"status\":\"current\",\"indicators\":\"10 leading digital wallets\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: service built for immigrant workers and underserved customers, reach not disclosed\"}}},{\"id\":\"E4\",\"activity\":\"OCBC-SDSC SwimTogether water safety programme for persons with disabilities, fully funded by OCBC\",\"quote\":\"Fully funded by OCBC, the programme supports 100 participants across 800 classes led by trained coaches and OCBC staff volunteers.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Helping Where it Matters > Singapore > OCBC-SDSC SwimTogether Programme\",\"status\":\"current\",\"indicators\":\"100 participants; 800 classes\",\"themes\":{\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 3: named accessibility/inclusion program for persons with disabilities with participant numbers\"},\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2-3: funded community program with participant numbers\"}}},{\"id\":\"E5\",\"activity\":\"Employee volunteering program across markets\",\"quote\":\"17,681 Volunteers 82,182 Hours Contributed 616,521 Individuals Impacted\",\"source_doc\":\"filing\",\"section\":\"Annual report > Paying it Forward\",\"status\":\"current\",\"indicators\":\"17,681 Volunteers; 82,182 Hours Contributed; 616,521 Individuals Impacted\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: volunteering with measured volunteers, hours and people reached\"}}},{\"id\":\"E6\",\"activity\":\"OCBC Ignite early talent programme for polytechnic students\",\"quote\":\"Since the launch of OCBC Ignite in 2024, we have welcomed more than 300 students across all 5 local polytechnics into the programme, further contributing to the goal of boosting participation of polytechnic graduates in the financial sector in Singapore.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our People > Early talent pathways\",\"status\":\"current\",\"indicators\":\"more than 300 students; 5 local polytechnics\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with participant numbers\"}}},{\"id\":\"E7\",\"activity\":\"Five-year tuition programme for underprivileged children at The Hut Singapore\",\"quote\":\"A five year tuition programme was introduced for underprivileged children at The Hut Singapore, providing them with long-term, sustained academic support.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Bringing Impact to Communities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education program, reach not disclosed\"}}},{\"id\":\"E8\",\"activity\":\"Ramadan food package distribution to families in need in Indonesia\",\"quote\":\"In celebration of OCBC Indonesia’s 84th anniversary and the month of Ramadan, the teams in Indonesia and OCBC Syariah distributed 1,000 food packages to families in need across Jakarta, Banten, and West Java.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Helping Where it Matters > Indonesia > Ramadan Food Distribution\",\"status\":\"current\",\"indicators\":\"1,000 food packages\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community activity, limited reach\"}}},{\"id\":\"E9\",\"activity\":\"Branch-funded medical equipment donation for rural communities in Malaysia\",\"quote\":\"Together with Klinik Kesihatan Bukit Pelandok in Port Dickson, the OCBC Seremban branch funded RM19,352 worth of essential medical equipment to strengthen healthcare services for rural communities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Helping Where it Matters > Malaysia > OCBC Seremban medical equipment donation\",\"status\":\"current\",\"indicators\":\"RM19,352\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community investment, limited reach\"}}},{\"id\":\"E10\",\"activity\":\"Coaching for Growth programme with ICF-trained internal coaches\",\"quote\":\"As of December 2025, our community of 52 ICF-trained coaches has inspired and guided more than 300 employees, empowering them to grow with confidence and unlock their fullest personal and professional potential.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our People > Coaching\",\"status\":\"current\",\"indicators\":\"52 ICF-trained coaches; more than 300 employees\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development\"}}},{\"id\":\"E11\",\"activity\":\"AI, Digital and Data training for employees\",\"quote\":\"In the past three years, around three in five employees have participated in training programmes related to AI, Digital and Data.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tech Shift > Workforce capabilities\",\"status\":\"current\",\"indicators\":\"around three in five employees\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development\"}}},{\"id\":\"E12\",\"activity\":\"Cyber Certification Pathway 2.0 upskilling employees into cybersecurity roles\",\"quote\":\"Over 200 graduates from key markets including Singapore, Malaysia, Mainland China and Hong Kong have completed the programme\",\"source_doc\":\"filing\",\"section\":\"Annual report > 2025 Sustainability Highlights > Conducting Our Business Responsibly\",\"status\":\"current\",\"indicators\":\"Over 200 graduates\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development\"}}},{\"id\":\"E13\",\"activity\":\"'Life in a Snapshot' photography and storytelling programme for seniors with dementia, ending in a public artwork showcase\",\"quote\":\"OCBC volunteers delved into in-depth conversations with the seniors and continued to engage them over six months to hold a public showcase featuring artwork reflecting stories from their lives.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Helping Where it Matters > Hong Kong > Life in a Snapshot\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: single small arts/storytelling community program, limited reach\"}}},{\"id\":\"E14\",\"activity\":\"Women Unlimited programme supporting women entrepreneurs across four markets\",\"quote\":\"Our Women Unlimited programme now extends across Singapore, Indonesia, Hong Kong and Malaysia, with a goal to support 10,000 women entrepreneurs by 2030.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Group CEO statement > SME programmes\",\"status\":\"current\",\"indicators\":\"10,000 women entrepreneurs by 2030 (target, not achieved reach)\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: named program for underserved founders; reach to date not disclosed\"}}},{\"id\":\"E15\",\"activity\":\"Serial Entrepreneur programme supporting founders of multiple small businesses\",\"quote\":\"The Serial Entrepreneur programme, which supports founders who own multiple small businesses, was also expanded in 2025 across our core markets.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Group CEO statement > SME programmes\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: named founder program, reach not disclosed\"}}},{\"id\":\"E16\",\"activity\":\"OCBC SME Start-ESG Programme giving SMEs grant-funded assessment, expert advice and loan access\",\"quote\":\"The Programme helps SMEs obtain a baseline measurement of their sustainability metrics with a grant from EnterpriseSG, expert advice on sustainability practices and access to sustainability-linked loans (SLLs) from OCBC.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Global Commercial Banking > Supporting SMEs\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: named advisory/grant-supported SME program, reach not disclosed\"}}},{\"id\":\"E17\",\"activity\":\"Singpass authentication to ease cross-border business account opening\",\"quote\":\"To reduce friction for cross-border business formation, we became the first bank to enable Singpass authentication for Singaporeans opening business accounts in Malaysia.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Global Commercial Banking > Johor\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: tool reducing barriers to business formation, reach not disclosed\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E13\"],\"reason\":\"Level 2: the core business is banking with no creative activity, and the only specific creative activity is one small arts/storytelling community programme.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\",\"E10\",\"E11\",\"E12\"],\"reason\":\"Level 3: external education and community investment with substantial measured reach (SeniorCare over $2 million and 180,000 seniors, Ignite 300+ students, 17,681 volunteers), but not shown to be central to strategy at level 4 scale.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 3: a named inclusion programme for persons with disabilities with participant figures, plus customer-access services for seniors, the unbanked and foreign workers; access is not shown as a major measured business line.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E14\",\"E15\",\"E16\",\"E17\"],\"reason\":\"Level 2: several named enabling programmes for founders and SMEs, but no disclosed count of businesses actually helped (the 10,000 figure is a 2030 target).\"}},\"notes\":\"OCBC SeniorCare is cited once for Community (E1): the report gives 'more than 180,000 seniors' (framed elsewhere as over three years) and separately 'more than 100,000 seniors' reached to date, so the 180,000 figure may be a multi-year target. The Women Unlimited 10,000 figure is a 2030 goal and was not treated as current reach. Total donations of $3.87m (65% community) appear in a stats panel without a quotable sentence and were not used as an indicator. The Marriott partnership supporting 12,000 SME suppliers with working capital was treated as ordinary SME financing (serving) and not scored. The Punggol Digital District presence is planned. Board gender-diversity targets are governance disclosures and were not scored. Required cyber security training was excluded as compliance training. The creativity level 2 rests on one small programme; a reviewer may view it as level 1.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 26766,
+      "output_tokens": 10312,
+      "duration_ms": 86798
+    }
+  ]
+}

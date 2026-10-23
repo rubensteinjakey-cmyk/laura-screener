@@ -7,17 +7,17 @@
   "url": "https://www.sampoerna.com/content/dam/pmicom/affiliates/sampoerna/docs/annua-report-and-sustainability-report-2025.pdf",
   "english": false,
   "sections": {
-    "Annual report: keyword paragraphs (TOC fallback)": 23117
+    "Annual report: keyword paragraphs (TOC fallback)": 39674
   },
   "notes": [
-    "TOC fallback (chapters from the printed contents page hold only 601 words): keyword paragraphs across the whole report; skipped 209 of 491 pages (risk, number pages, financial statements from page 284)",
+    "TOC fallback (chapters from the printed contents page hold only 601 words): keyword paragraphs across the whole report; skipped 98 of 491 pages (risk, number pages, financial statements from page 284, except 114 governance/sustainability page(s) after them)",
     "non-English source"
   ],
-  "people_words": 6574,
+  "people_words": 13378,
   "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
   "chapters": [],
   "chapters_skipped": [
     "Laporan Keuangan 2025"
   ],
-  "words_sent": 23128
+  "words_sent": 39685
 }

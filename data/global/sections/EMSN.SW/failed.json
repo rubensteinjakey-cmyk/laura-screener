@@ -29,5 +29,5 @@
     "the Consolidated Financial Statements",
     "the Financial Statements"
   ],
-  "problem": "only 1,629 words of text picked (under 2,000): too little to score fairly. Probably not the full annual report (e.g. the financial report alone); a teammate should check the document (https://www.ems-group.com/fileadmin/user_upload/EMS-Group/documents/Business-Reports/EMS_Annual_Report_EN_2025_2026_891552.pdf)"
+  "problem": "only 1,629 words of text picked (under 2,000): too little to score fairly. Either the document isn't the full annual report (e.g. the financial report alone) or the report itself has little narrative text; a teammate should check the document (https://www.ems-group.com/fileadmin/user_upload/EMS-Group/documents/Business-Reports/EMS_Annual_Report_EN_2025_2026_891552.pdf)"
 }

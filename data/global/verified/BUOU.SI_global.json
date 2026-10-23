@@ -1,0 +1,183 @@
+{
+  "ticker": "BUOU.SI",
+  "company_name": "Frasers Logistics & Commercial Trust",
+  "country": "Singapore",
+  "sector": "Real Estate",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/531D1L1A4ZGIBBAO/870400_FLCT%20-%20Annual%20Report%202025.pdf",
+  "english": true,
+  "words_sent": 13632,
+  "source_site": "SGX company announcements",
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the report fully describes a logistics and commercial property REIT and shows no activity that creates or enables creative work.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "insufficient",
+      "evidence_ids": [
+        "SL-E1"
+      ],
+      "valid_evidence_ids": [
+        "SL-E1"
+      ],
+      "kinds": [
+        "community_investment"
+      ],
+      "reason": "Level 2: the annual report names current employee-led community partnerships with Red Cross and Lion Befrienders. It gives no figures (participants, volunteer hours or dollars), so this is limited demonstrated reach, not the substantial reach needed for level 3. Coverage stays insufficient because the people and community discussion is well under about 150 words and points to the ESG Report, and the supplied sustainability report text has no substantive content.",
+      "flags": [],
+      "coverage_trigger": "ai",
+      "score_from_filing": 2,
+      "score_from_report": 2,
+      "report_weight": 0.5,
+      "rescored_from_report": true
+    },
+    "cross_cultural": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "demographics_only"
+      ],
+      "reason": "Level 1: only board diversity statistics and targets plus general code-of-conduct and 'inclusive community' framework language, with no specific inclusion or access activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business is leasing property to local and multinational tenants, with no service or program that enables founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "insufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 16.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [],
+  "internal_note": "",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 16.0,
+  "original_filing_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "full_report_scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 1,
+    "entrepreneurship": 0
+  },
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Employee-led community initiatives, including partnerships with the Red Cross and Lion Befrienders",
+      "quote": "Multiple employee-led community initiatives including partnerships with Red Cross and Lion Befrienders",
+      "source_doc": "filing",
+      "section": "Annual report > ESG highlights > FY2025 key sustainability highlights",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community partnerships, limited reach and no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Board Diversity Policy with a gender representation target and disclosed board gender makeup",
+      "quote": "In progress – As at 30 September 2025, the Board has 1 female director, representing 20% of the Board.",
+      "source_doc": "filing",
+      "section": "Annual report > Corporate governance report > Board diversity policy, targets, timelines and progress",
+      "status": "current",
+      "indicators": "1 female director, 20% of the Board",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: board demographic statistics and diversity targets only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "SL-E1",
+      "activity": "Employee-led community initiatives, including partnerships with the Red Cross and Lion Befrienders",
+      "quote": "Multiple employee-led community initiatives including partnerships with Red Cross and Lion Befrienders",
+      "source_doc": "filing",
+      "section": "ESG highlights > FY2025 key sustainability highlights",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community partnerships and volunteering with named nonprofits, but no participant, hour or dollar figures to show substantial reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The report describes an industrial/logistics and office REIT across Australia, Germany, Singapore, the UK and the Netherlands. People and community content is limited to ESG highlights and framework descriptions. The report points to a separate FY2025 ESG Report (www.frasersproperty.com/reits/flct/who-we-are/sustainability) for detail, so Community should get the automated second look. Compensation-framework mentions of leadership development and learning and development are general language and were not recorded as activities. Code of Business Conduct language encouraging respect for ethnicity and culture is policy only. A director's other directorships (e.g., Thai Beverage) relate to other companies and are not FLCT business activities.",
+  "extract_notes": [],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 3649,
+  "score_source": "Annual report 2025 + standalone sustainability report (half weight)",
+  "second_look": {
+    "status": "scored",
+    "report_url": "https://www.frasersproperty.com/content/dam/frasersproperty/feature/project/frasers_flt/sustainability/FLCT-AR2024-Sustainability-Report.pdf",
+    "report_year": 2024,
+    "themes": [
+      "community"
+    ]
+  }
+}

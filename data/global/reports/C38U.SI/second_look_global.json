@@ -1,0 +1,18 @@
+{
+  "ticker": "C38U.SI",
+  "run_id": "global",
+  "model": "claude-opus-5-5",
+  "themes_rescored": [
+    "community",
+    "cross_cultural"
+  ],
+  "done_at": "2026-10-23T17:36:37",
+  "status": "no standalone report found",
+  "log": [
+    "company domain: cict.com.sg",
+    "search suggested 3 candidate(s)",
+    "rejected (download/read failed: link is not a PDF): https://investor.cict.com.sg/misc/sr_25/index.html",
+    "rejected (download/read failed: link is not a PDF): https://investor.cict.com.sg/misc/sr_24/",
+    "rejected (download/read failed: link is not a PDF): https://investor.cict.com.sg/misc/CICTSR2023.pdf"
+  ]
+}
