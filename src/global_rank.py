@@ -221,7 +221,7 @@ def main():
     needs = []
     for c in companies:
         t = c["ticker"]
-        if t in results:
+        if t in results or t.upper() in skip:  # scored, or formally excluded by the team
             continue
         mine = [f for f in flags if f["ticker"] == t]
         main_flag = next((f for f in mine if f["step"] in ("global_fetch", "global_extract")),

@@ -3,6 +3,23 @@
 Dated record of scoring decisions, newest first. Each one names where it
 lives in the code or config.
 
+## Oct 23, 2026: global screen: the 7 unscored companies are dropped
+
+After the exchange-site retry, 63 of 70 companies are scored. The team dropped
+the other 7 from the screen (listed in `global_skip.csv` with the reason, like
+SWICH.AS), so every country-sector now has final Pass/Fail (35 Pass, 28 Fail):
+
+- SWICH.AS: identity unclear (already excluded).
+- EMSN.SW: the right annual report, but only 1,629 words of text qualify
+  (under the 2,000-word floor).
+- UNVR.JK, ICBP.JK, BBRI.JK, BDMN.JK, ISAT.JK: IDX and the company's own site
+  both block automated downloads.
+
+They stay in `results_global.csv` as "Not scored" with the reason, and are no
+longer in `needs_human.csv`. To bring one back, remove its row from
+`global_skip.csv`, save its PDF as `data/global/manual/{ticker}.pdf` and run
+that country again, then `python run_global.py --rank`.
+
 ## Oct 23, 2026: global screen: exchange filing sites, Provisional groups, TOC fallback
 
 Three team decisions before anyone saves PDFs by hand.

@@ -2,8 +2,6 @@
 
 > Values filter only. Pass = top half of the company's country-sector by final score (ties included). Final = alignment (Creativity/5×35 + Community/5×30 + Cross-cultural/5×20 + Entrepreneurship/5×15) − 10 per verified red flag. Third component: TBD.
 
-**6 companies not scored yet (waiting for a document; see needs_human.csv). Groups with unscored companies are Provisional (no Pass/Fail yet).**
-
 ## Denmark · Financials (4 of 4 scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
@@ -76,13 +74,13 @@
   - New central People & Culture function to develop employees across the group: "In 2025, we established a dedicated People & Culture function to lead the “People” pillar of the strategy and ensure that we develop our organisation in a structured and scalable way."
   - Internal communities of practice and knowledge sharing between employees across entities: "This involves encouraging collaboration between entities, facilitating communities of practice, and making it easier for colleagues to learn from one another’s experiences."
 
-## Indonesia · Communication Services (3 of 4 scored; Provisional: no Pass/Fail until all are scored)
+## Indonesia · Communication Services (3 of 3 scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Elang Mahkota Teknologi (EMTK.JK) | **57** | 57 | - | 4 | 2 | 2 | 3 | Provisional |
-| 2 | Telkom Indonesia (TLK) | **53** | 53 | - | 3 | 3 | 2 | 2 | Provisional |
-| 3 | Indoritel (DNET.JK) | **22** | 22 | - | 0 | 2 | 1 | 2 | Provisional |
+| 1 | Elang Mahkota Teknologi (EMTK.JK) | **57** | 57 | - | 4 | 2 | 2 | 3 | Pass |
+| 2 | Telkom Indonesia (TLK) | **53** | 53 | - | 3 | 3 | 2 | 2 | Pass |
+| 3 | Indoritel (DNET.JK) | **22** | 22 | - | 0 | 2 | 1 | 2 | Fail |
 
 - **Elang Mahkota Teknologi**: Annual report 2025 (non-English source)
   - Operates leading free-to-air TV networks (SCTV, Indosiar, MOJI, Mentari TV) that produce and broadcast entertainment programming: "Meski Indonesia telah beralih penuh ke siaran digital (ASO), EMTEK tetap mempertahankan kepemimpinannya dengan pangsa pemirsa 38,1% pada akhir 2025." (English: "Although Indonesia has fully switched to digital broadcasting (ASO), EMTEK maintained its leadership with a 38.1% audience share at the end of 2025.")
@@ -94,14 +92,14 @@
   - Training and competency development programs for the company's own employees: "Sepanjang tahun 2025, Perseroan telah memfasilitasi karyawan dengan berbagai pelatihan sebagai berikut:" (English: "Throughout 2025, the Company facilitated employees with various training programs as follows:")
   - Indomaret (associate) scholarships for children of the East Kalimantan Dayak Fellowship in Samarinda: "Pemberian beasiswa kepada putra-putri Persekutuan Dayak Kalimantan Timur (PDKT) di Lamin Bakuda Kota Samarinda." (English: "Provision of scholarships for students of the East Kalimantan Dayak Fellowship (PDKT) at Lamin Bakuda, Samarinda City.")
 
-## Indonesia · Consumer Staples (4 of 6 scored; Provisional: no Pass/Fail until all are scored)
+## Indonesia · Consumer Staples (4 of 4 scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Astra Agro Lestari (AALI.JK) | **35** | 35 | - | 0 | 3 | 2 | 3 | Provisional |
-| 2 | Sampoerna (HMSP.JK) | **32** | 42 | tobacco | 1 | 3 | 2 | 3 | Provisional |
-| 3 | Indofood (INDF.JK) | **30** | 30 | - | 1 | 2 | 2 | 1 | Provisional |
-| 4 | Gudang Garam (GGRM.JK) | **29** | 39 | tobacco | 2 | 3 | 1 | 1 | Provisional |
+| 1 | Astra Agro Lestari (AALI.JK) | **35** | 35 | - | 0 | 3 | 2 | 3 | Pass |
+| 2 | Sampoerna (HMSP.JK) | **32** | 42 | tobacco | 1 | 3 | 2 | 3 | Pass |
+| 3 | Indofood (INDF.JK) | **30** | 30 | - | 1 | 2 | 2 | 1 | Fail |
+| 4 | Gudang Garam (GGRM.JK) | **29** | 39 | tobacco | 2 | 3 | 1 | 1 | Fail |
 
 - **Astra Agro Lestari**: Annual report 2025 (non-English source)
   - Village entrepreneurship programs, agricultural processing training, business mentoring and market access support for assisted village MSMEs under the Public Contribution Roadmap: "Pada 2025, melalui payung Public Contribution Roadmap, Perseroan melanjutkan dan memperluas program kewirausahaan desa, pelatihan pengolahan hasil pertanian, serta penguatan akses pasar bagi Usaha, Mikro, Kecil dan Menengah (UMKM) binaan." (English: "In 2025, under the Public Contribution Roadmap, the Company continued and expanded village entrepreneurship programs, agricultural processing training, and strengthening of market access for assisted micro, small and medium enterprises (MSMEs).")
@@ -118,12 +116,12 @@
   - Participates in and supports Kediri City's annual Kediri Nite Carnival cultural parade (and Kediri Half Marathon) as part of the city anniversary: "Perseroan turut berpartisipasi dalam perayaan hari jadi Kota Kediri yang meliputi Kediri Nite Carnival, sebuah parade budaya yang menampilkan kreativitas dan warisan budaya lokal yang diadakan setiap tahun, serta Kediri Half Marathon yang mendorong gaya hidup sehat dan menumbuhkan semangat kebersamaan di tengah masyarakat dan pengunjung." (English: "The Company took part in Kediri City's anniversary celebrations, which include the annual Kediri Nite Carnival, a cultural parade showcasing local creativity and heritage, as well as the Kediri Half Marathon, which promotes a healthy lifestyle while fostering community spirit among residents and visitors.")
   - RED FLAG (tobacco): "Sesuai dengan pasal 3 Anggaran Dasarnya, Perseroan bergerak di bidang industri rokok dan aktivitas lain yang terkait dengan industri rokok."
 
-## Indonesia · Financials (2 of 4 scored; Provisional: no Pass/Fail until all are scored)
+## Indonesia · Financials (2 of 2 scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Bank Mandiri (BMRI.JK) | **56** | 56 | - | 2 | 3 | 3 | 4 | Provisional |
-| 2 | Bank Negara Indonesia (BBNI.JK) | **53** | 53 | - | 2 | 3 | 3 | 3 | Provisional |
+| 1 | Bank Mandiri (BMRI.JK) | **56** | 56 | - | 2 | 3 | 3 | 4 | Pass |
+| 2 | Bank Negara Indonesia (BBNI.JK) | **53** | 53 | - | 2 | 3 | 3 | 3 | Fail |
 
 - **Bank Mandiri**: Annual report 2025
   - Rumah BUMN centres providing training, capacity building and digitalisation for MSMEs: "As of 2025, a total of 17.6 thousand MSMEs had participated in the program, with 7,928 MSMEs successfully moving up a level, supported by more than 295 training programs."
@@ -254,13 +252,13 @@
   - Internal GROW and LEAD talent and leadership development programmes for employees: "In 2025, 90employees (previous year 100) took part in the internal development programmes GROW and LEAD, of these 23women(previous year 30)."
   - Vocational apprenticeship training for young people employed by the company: "Geberit employed 289apprentices at the end of 2025 (previous year 284)."
 
-## Switzerland · Materials (3 of 4 scored; Provisional: no Pass/Fail until all are scored)
+## Switzerland · Materials (3 of 3 scored)
 
 | Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Givaudan (GIVN.SW) | **57** | 57 | - | 3 | 3 | 3 | 2 | Provisional |
-| 2 | DSM-Firmenich (DSFIR.AS) | **53** | 53 | - | 3 | 3 | 2 | 2 | Provisional |
-| 3 | Sika (SIKA.SW) | **30** | 30 | - | 1 | 2 | 2 | 1 | Provisional |
+| 1 | Givaudan (GIVN.SW) | **57** | 57 | - | 3 | 3 | 3 | 2 | Pass |
+| 2 | DSM-Firmenich (DSFIR.AS) | **53** | 53 | - | 3 | 3 | 2 | 2 | Pass |
+| 3 | Sika (SIKA.SW) | **30** | 30 | - | 1 | 2 | 2 | 1 | Fail |
 
 - **Givaudan**: Annual report 2025
   - Fine fragrance creative centre that co-creates fine fragrances with Chinese brands: "L’Appartement 125, our Fine Fragrance Creative Centre in Shanghai, connects Givaudan with Chinese brands to co-create the future of fine fragrances."
@@ -342,11 +340,11 @@
 
 ## Not scored
 
-- Ems-Chemie (EMSN.SW): not scored yet
-- Indosat (ISAT.JK): not scored yet
-- Unilever Indonesia (UNVR.JK): not scored yet
-- Indofood CBP (ICBP.JK): not scored yet
-- Bank Danamon (BDMN.JK): not scored yet
-- Bank Rakyat Indonesia (BBRI.JK): not scored yet
+- Ems-Chemie (EMSN.SW): dropped by the team (Oct 23): annual report has too little narrative text to score (1,629 words, under 2,000)
+- Indosat (ISAT.JK): dropped by the team (Oct 23): annual report download blocked (IDX and company site)
+- Unilever Indonesia (UNVR.JK): dropped by the team (Oct 23): annual report download blocked (IDX and company site)
+- Indofood CBP (ICBP.JK): dropped by the team (Oct 23): annual report download blocked (IDX and company site)
+- Bank Danamon (BDMN.JK): dropped by the team (Oct 23): annual report download blocked (IDX and company site)
+- Bank Rakyat Indonesia (BBRI.JK): dropped by the team (Oct 23): annual report download blocked (IDX and company site)
 - SWI Capital Holding (SWICH.AS): identity unclear: check ticker/name with the team.
 
