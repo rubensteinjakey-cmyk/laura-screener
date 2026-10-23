@@ -82,9 +82,11 @@ def code_of(ticker):
 
 def nasdaq(company, tokens, log_lines):
     """Annual Financial Report announcements on Nasdaq Copenhagen."""
-    words = [fold(t) for t in tokens] or [fold(code_of(company["ticker"]))]
+    # every word of the name ("Jyske Bank" must not match "Jyske Invest")
+    words = [w for w in re.findall(r"[a-z0-9æøå]+", fold(company["company_name"]))
+             if len(w) >= 3] or [fold(t) for t in tokens]
     items = []
-    for q in dict.fromkeys([" ".join(words), max(words, key=len)]):
+    for q in dict.fromkeys([" ".join(words), max(words, key=len)]):  # noqa: B007
         r = _get(NASDAQ_API.format(q=quote(q)))
         r.raise_for_status()
         items = (r.json().get("results") or {}).get("item") or []
