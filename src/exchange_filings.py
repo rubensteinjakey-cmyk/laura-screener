@@ -132,16 +132,11 @@ def nasdaq(company, tokens, log_lines):
                              "english": name.lower().endswith("-en.zip"),
                              "exchange_name": it.get("company", "")})
     esef.sort(key=lambda c: not c["english"])
-    seen, uniq = set(), []
-    for c in out:  # the same report attached twice under two names
-        key = re.sub(r"[_\s-]*\d{8}", "", c["title"].lower())
-        if key not in seen:
-            seen.add(key)
-            uniq.append(c)
+    uniq = out  # every candidate is checked (a 4-page notice can share a name with the report)
     log_lines.append(f"Nasdaq Copenhagen ({items[0].get('company')}): "
                      f"{len(uniq)} annual-report PDF(s) from 2026"
                      + (f", ESEF filing {esef[0]['title']} as a last resort" if esef else ""))
-    return uniq[:3] + esef[:1], page
+    return uniq[:5] + esef[:1], page
 
 
 ESEF_MARK = "#esef"
