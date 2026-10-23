@@ -1,0 +1,258 @@
+{
+  "ticker": "HMSP.JK",
+  "company_name": "Sampoerna",
+  "country": "Indonesia",
+  "sector": "Consumer Staples",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.sampoerna.com/content/dam/pmicom/affiliates/sampoerna/docs/annua-report-and-sustainability-report-2025.pdf",
+  "english": false,
+  "words_sent": 23128,
+  "prompt_chars": 190514,
+  "approx_prompt_tokens": 47628,
+  "scored_at": "2026-10-23T17:17:32",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sampoerna Entrepreneurship Training Center (SETC) trains external participants and mentors MSMEs in market research, product development, marketing and export preparation",
+        "quote": "Sejak tahun 2007, Sampoerna Entrepreneurship Training Center (SETC) yang berlokasi di fasilitas seluas 27 hektare di Pasuruan, Jawa Timur, telah melatih lebih dari 108.000 peserta dalam berbagai bidang, termasuk riset pasar, pengembangan produk, strategi pemasaran, serta persiapan ekspor.",
+        "quote_en": "Since 2007, the Sampoerna Entrepreneurship Training Center (SETC), located at a 27-hectare facility in Pasuruan, East Java, has trained over 108,000 participants in areas including market research, product development, marketing strategies and export preparation.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors (Laporan Direksi) > Strategic partnerships / MSME empowerment",
+        "status": "current",
+        "indicators": "lebih dari 108.000 peserta; lebih dari 1.600 UMKM mendapatkan pendampingan; 80% terdigitalisasi; sedikitnya 350 UMKM menciptakan lapangan kerja; lebih dari 200 UMKM menembus pasar ekspor ke 47 negara",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with participant numbers"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named training and mentoring program for MSMEs with numbers of businesses helped"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Sampoerna Karya Bangsa subsidiary runs skills development and vocational training for people outside the company",
+        "quote": "Program pengembangan keterampilan dan pelatihan vokasional yang bertujuan untuk mencetak wirausahawan mandiri dan tenaga kerja terlatih yang mampu berkontribusi terhadap kemandirian ekonomi nasional.",
+        "quote_en": "Skills development and vocational training program aimed at cultivating independent entrepreneurs and skilled workers capable of contributing to national economic independence.",
+        "source_doc": "filing",
+        "section": "Annual report > Reports of the Board > Sampoerna's Economic Contribution (Kontribusi Ekonomi Sampoerna)",
+        "status": "current",
+        "indicators": ">9,000 partisipan (Pelatihan Vokasi)",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named vocational training program for the public with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Women Ecosystem Catalyst (WEC) Season 2 provides training, mentoring and networking to women entrepreneurs in Central Java",
+        "quote": "Melalui program Women Ecosystem Catalyst (WEC) Season 2 yang dilaksanakan bersama Gerakan Solida ritas Nasional (GSN), Pemerintah Provinsi Jawa Tengah, dan Asosiasi Imajinasi Penaja Mula (Impala), Perseroan melibatkan lebih dari 1.000 wirausaha perempuan di Jawa Tengah melalui pelatihan, pendampingan, serta penguatan jejaring untuk menjawab berbagai tantangan yang dihadapi.",
+        "quote_en": "Through the Women Ecosystem Catalyst (WEC) Season 2 program, implemented with the National Solidarity Movement (GSN), the Central Java Provincial Government and the Impala Association, the Company engaged over 1,000 women entrepreneurs in Central Java through training, mentoring and network strengthening to address the challenges they face.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors (Laporan Direksi) > Strategic partnerships / MSME empowerment",
+        "status": "current",
+        "indicators": "lebih dari 1.000 wirausaha perempuan",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external training and mentoring program with participant numbers"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named coaching program for women-led MSMEs with number of entrepreneurs reached"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "AYO by SRC app gives Sampoerna Retail Community MSME stores digital tools connecting stores, wholesalers and consumers",
+        "quote": "Aplikasi AYO by SRC menghubungkan toko, pedagang grosir, dan konsumen, serta mendorong adopsi digital di kalangan anggota dengan tingkat adopsi sekitar 90% dan telah memfasilitasi lebih dari 11,5 juta transaksi dengan nilai total melebihi USD1 miliar.",
+        "quote_en": "The AYO by SRC app connects stores, wholesalers and consumers and drives digital adoption among members, with an adoption rate of around 90%, and has facilitated more than 11.5 million transactions with a total value exceeding USD1 billion.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors (Laporan Direksi) > Downstream partnerships / SRC",
+        "status": "current",
+        "indicators": "lebih dari 250.000 toko anggota; sekitar 90%; lebih dari 11,5 juta transaksi; melebihi USD1 miliar",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: business software built for micro and small retailers with disclosed user and transaction figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Pojok Lokal initiative gives surrounding MSMEs dedicated shelf space in SRC stores to expand market access",
+        "quote": "Melalui inisiatif seperti Pojok Lokal , SRC juga mendukung UMKM di sekitarnya dengan menyediakan ruang pajang khusus untuk memperluas akses pasar, serta menghasilkan nilai penjualan tahunan sebesar Rp5,65 triliun.",
+        "quote_en": "Through initiatives such as Pojok Lokal, SRC also supports surrounding MSMEs by providing dedicated shelf space to expand market access, generating annual sales of IDR5.65 trillion.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors (Laporan Direksi) > Downstream partnerships / SRC",
+        "status": "current",
+        "indicators": "Rp5,65 triliun",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named market-access program for local MSMEs with disclosed sales value"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Paddy reapers distributed and training given to partner farmer groups with nonprofit partners",
+        "quote": "Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.",
+        "quote_en": "Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors > Food security support",
+        "status": "current",
+        "indicators": "200 paddy reapers; 200 farmer groups; around 2,000 farmers; 1,000 hectares",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community partnership with nonprofits, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Skills for the Future gives employees access to courses, certifications and higher education from external institutions",
+        "quote": "Salah satu inisiatif utama, Skills for the Future , memberikan akses kepada karyawan terhadap kursus singkat, sertifikasi, lokakarya, serta program pendidikan lanjutan yang diselenggarakan oleh institusi eksternal bereputasi, sehingga memungkinkan pengembangan keterampilan yang relevan di masa depan.",
+        "quote_en": "One of the key initiatives, Skills for the Future, gives employees access to short courses, certifications, workshops and higher education programs delivered by reputable external institutions, enabling development of future-relevant skills.",
+        "source_doc": "filing",
+        "section": "Annual report > Our People (Karyawan Kami) > Inspiring Growth and Developing Future-Ready Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Employee resource groups such as the Sampoerna Parents Community and awareness initiatives",
+        "quote": "Budaya inklusif ini didukung oleh berbagai inisiatif peningkatan kesadaran serta kelompok komunitas karyawan, seperti Sampoerna Parents Community , yang membantu karyawan dalam menyeimbangkan peran profesional dan tanggung jawab sebagai orang tua.",
+        "quote_en": "This inclusive culture is supported by awareness initiatives and employee community groups such as the Sampoerna Parents Community, which helps employees balance professional roles and parental responsibilities.",
+        "source_doc": "filing",
+        "section": "Annual report > Our People (Karyawan Kami) > Moving Forward with Shared Purpose",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Equal Pay and Opportunities certification maintained since 2019",
+        "quote": "Inisiatif tersebut diperkuat dengan praktik yang adil dan berbasis merit, sebagaimana tercermin dalam sertifikasi Equal Pay and Opportunities  yang telah dipertahankan oleh Perseroan sejak tahun 2019.",
+        "quote_en": "These initiatives are reinforced by fair, merit-based practices, as reflected in the Equal Pay and Opportunities certification the Company has maintained since 2019.",
+        "source_doc": "filing",
+        "section": "Annual report > Our People (Karyawan Kami) > Moving Forward with Shared Purpose",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusive workplace practice with limited reach"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Brand-building marketing and advertising campaigns",
+        "quote": "Strategi utama kami berfokus pada pengembangan dan penguatan ekuitas merek melalui berbagai saluran pemasaran, termasuk iklan luar ruang, keterlibatan komunitas, dan platform digital, yang menjadi bagian integral dari kampanye pemasaran dan periklanan kami di Indonesia.",
+        "quote_en": "Our primary strategy focuses on developing and strengthening brand equity through multiple marketing channels, including out-of-home advertising, community engagement and digital platforms, which form an integral part of our marketing and advertising campaigns in Indonesia.",
+        "source_doc": "filing",
+        "section": "Annual report > Company Profile > Product and Marketing Aspects",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: creative work used only as a routine business input (marketing)"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E10"
+        ],
+        "reason": "Level 1: the business is tobacco manufacturing, and creative work appears only as routine marketing and brand input."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 3: named external education programs (SETC with over 108,000 trained, SKB vocational training with over 9,000 participants, WEC with over 1,000 women entrepreneurs) show substantial measured reach, but they are not central to the tobacco business strategy, so level 4 is not met."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E8",
+          "E9"
+        ],
+        "reason": "Level 2: employee resource groups and an equal-pay certification are specific current practices, but no membership or reach figures are given."
+      },
+      "entrepreneurship": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 3: named enabling programs and tools (SETC mentoring of over 1,600 MSMEs, the AYO app for SRC stores, Pojok Lokal shelf access, WEC) have measured reach, but SRC mainly serves as the company's own cigarette distribution channel, with no separately disclosed revenue, so level 4 is not met."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "tobacco",
+        "found_by": "",
+        "case_type": "",
+        "quote": "Berawal sebagai perusahaan keluarga sederhana pada tahun 1913, Perseroan kini telah berkembang menjadi perusahaan tembakau terkemuka di Indonesia.",
+        "quote_en": "What began as a humble family company in 1913 has since grown into Indonesia's leading tobacco company.",
+        "section": "Annual report > Report of the Board of Directors (Laporan Direksi)",
+        "explanation": "The core business is manufacturing and trading cigarettes and heated tobacco products, which make up 99.6% of net revenues."
+      }
+    ],
+    "notes": "Single reported operating segment: cigarettes and smoke-free tobacco/nicotine products (99.6% of revenue). SETC figures are cumulative since 2007. PT Sampoerna Karya Bangsa changed its business activity to job training provider in March 2025 and is a small subsidiary by assets. The SRC MoUs with five state-owned enterprises (financial services, food, LPG, logistics and broadband access points) were signed in 2025 but are phrased as future ('will serve'), so they were treated as planned and not scored. The SFP partnership program (600 MSMEs) and the 43 TPOs owned by local entrepreneurs are distribution and contract-manufacturing relationships for the company's own products (serving), so they were not scored as enabling. The Agricultural Partnership Program for 22,500 farmers is supply-chain sourcing and was not scored. 'Community engagement' in marketing was treated as a trap. Employee demographics (12,667 female employees) are disclosure only. The Ethics & Compliance department substantiated 36 of 95 reports, but their type (e.g. harassment or discrimination) is not disclosed, so no rights_finding was listed. The child labor prevention commitment is policy only. The report states that AI tools were used in drafting."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"HMSP.JK\",\"sector\":\"Consumer Staples\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sampoerna Entrepreneurship Training Center (SETC) trains external participants and mentors MSMEs in market research, product development, marketing and export preparation\",\"quote\":\"Sejak tahun 2007, Sampoerna Entrepreneurship Training Center (SETC) yang berlokasi di fasilitas seluas 27 hektare di Pasuruan, Jawa Timur, telah melatih lebih dari 108.000 peserta dalam berbagai bidang, termasuk riset pasar, pengembangan produk, strategi pemasaran, serta persiapan ekspor.\",\"quote_en\":\"Since 2007, the Sampoerna Entrepreneurship Training Center (SETC), located at a 27-hectare facility in Pasuruan, East Java, has trained over 108,000 participants in areas including market research, product development, marketing strategies and export preparation.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors (Laporan Direksi) > Strategic partnerships / MSME empowerment\",\"status\":\"current\",\"indicators\":\"lebih dari 108.000 peserta; lebih dari 1.600 UMKM mendapatkan pendampingan; 80% terdigitalisasi; sedikitnya 350 UMKM menciptakan lapangan kerja; lebih dari 200 UMKM menembus pasar ekspor ke 47 negara\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with participant numbers\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named training and mentoring program for MSMEs with numbers of businesses helped\"}}},{\"id\":\"E2\",\"activity\":\"Sampoerna Karya Bangsa subsidiary runs skills development and vocational training for people outside the company\",\"quote\":\"Program pengembangan keterampilan dan pelatihan vokasional yang bertujuan untuk mencetak wirausahawan mandiri dan tenaga kerja terlatih yang mampu berkontribusi terhadap kemandirian ekonomi nasional.\",\"quote_en\":\"Skills development and vocational training program aimed at cultivating independent entrepreneurs and skilled workers capable of contributing to national economic independence.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Reports of the Board > Sampoerna's Economic Contribution (Kontribusi Ekonomi Sampoerna)\",\"status\":\"current\",\"indicators\":\">9,000 partisipan (Pelatihan Vokasi)\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named vocational training program for the public with participant numbers\"}}},{\"id\":\"E3\",\"activity\":\"Women Ecosystem Catalyst (WEC) Season 2 provides training, mentoring and networking to women entrepreneurs in Central Java\",\"quote\":\"Melalui program Women Ecosystem Catalyst (WEC) Season 2 yang dilaksanakan bersama Gerakan Solida ritas Nasional (GSN), Pemerintah Provinsi Jawa Tengah, dan Asosiasi Imajinasi Penaja Mula (Impala), Perseroan melibatkan lebih dari 1.000 wirausaha perempuan di Jawa Tengah melalui pelatihan, pendampingan, serta penguatan jejaring untuk menjawab berbagai tantangan yang dihadapi.\",\"quote_en\":\"Through the Women Ecosystem Catalyst (WEC) Season 2 program, implemented with the National Solidarity Movement (GSN), the Central Java Provincial Government and the Impala Association, the Company engaged over 1,000 women entrepreneurs in Central Java through training, mentoring and network strengthening to address the challenges they face.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors (Laporan Direksi) > Strategic partnerships / MSME empowerment\",\"status\":\"current\",\"indicators\":\"lebih dari 1.000 wirausaha perempuan\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external training and mentoring program with participant numbers\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named coaching program for women-led MSMEs with number of entrepreneurs reached\"}}},{\"id\":\"E4\",\"activity\":\"AYO by SRC app gives Sampoerna Retail Community MSME stores digital tools connecting stores, wholesalers and consumers\",\"quote\":\"Aplikasi AYO by SRC menghubungkan toko, pedagang grosir, dan konsumen, serta mendorong adopsi digital di kalangan anggota dengan tingkat adopsi sekitar 90% dan telah memfasilitasi lebih dari 11,5 juta transaksi dengan nilai total melebihi USD1 miliar.\",\"quote_en\":\"The AYO by SRC app connects stores, wholesalers and consumers and drives digital adoption among members, with an adoption rate of around 90%, and has facilitated more than 11.5 million transactions with a total value exceeding USD1 billion.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors (Laporan Direksi) > Downstream partnerships / SRC\",\"status\":\"current\",\"indicators\":\"lebih dari 250.000 toko anggota; sekitar 90%; lebih dari 11,5 juta transaksi; melebihi USD1 miliar\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: business software built for micro and small retailers with disclosed user and transaction figures\"}}},{\"id\":\"E5\",\"activity\":\"Pojok Lokal initiative gives surrounding MSMEs dedicated shelf space in SRC stores to expand market access\",\"quote\":\"Melalui inisiatif seperti Pojok Lokal , SRC juga mendukung UMKM di sekitarnya dengan menyediakan ruang pajang khusus untuk memperluas akses pasar, serta menghasilkan nilai penjualan tahunan sebesar Rp5,65 triliun.\",\"quote_en\":\"Through initiatives such as Pojok Lokal, SRC also supports surrounding MSMEs by providing dedicated shelf space to expand market access, generating annual sales of IDR5.65 trillion.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors (Laporan Direksi) > Downstream partnerships / SRC\",\"status\":\"current\",\"indicators\":\"Rp5,65 triliun\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named market-access program for local MSMEs with disclosed sales value\"}}},{\"id\":\"E6\",\"activity\":\"Paddy reapers distributed and training given to partner farmer groups with nonprofit partners\",\"quote\":\"Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.\",\"quote_en\":\"Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors > Food security support\",\"status\":\"current\",\"indicators\":\"200 paddy reapers; 200 farmer groups; around 2,000 farmers; 1,000 hectares\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community partnership with nonprofits, limited reach\"}}},{\"id\":\"E7\",\"activity\":\"Skills for the Future gives employees access to courses, certifications and higher education from external institutions\",\"quote\":\"Salah satu inisiatif utama, Skills for the Future , memberikan akses kepada karyawan terhadap kursus singkat, sertifikasi, lokakarya, serta program pendidikan lanjutan yang diselenggarakan oleh institusi eksternal bereputasi, sehingga memungkinkan pengembangan keterampilan yang relevan di masa depan.\",\"quote_en\":\"One of the key initiatives, Skills for the Future, gives employees access to short courses, certifications, workshops and higher education programs delivered by reputable external institutions, enabling development of future-relevant skills.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our People (Karyawan Kami) > Inspiring Growth and Developing Future-Ready Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E8\",\"activity\":\"Employee resource groups such as the Sampoerna Parents Community and awareness initiatives\",\"quote\":\"Budaya inklusif ini didukung oleh berbagai inisiatif peningkatan kesadaran serta kelompok komunitas karyawan, seperti Sampoerna Parents Community , yang membantu karyawan dalam menyeimbangkan peran profesional dan tanggung jawab sebagai orang tua.\",\"quote_en\":\"This inclusive culture is supported by awareness initiatives and employee community groups such as the Sampoerna Parents Community, which helps employees balance professional roles and parental responsibilities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our People (Karyawan Kami) > Moving Forward with Shared Purpose\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E9\",\"activity\":\"Equal Pay and Opportunities certification maintained since 2019\",\"quote\":\"Inisiatif tersebut diperkuat dengan praktik yang adil dan berbasis merit, sebagaimana tercermin dalam sertifikasi Equal Pay and Opportunities  yang telah dipertahankan oleh Perseroan sejak tahun 2019.\",\"quote_en\":\"These initiatives are reinforced by fair, merit-based practices, as reflected in the Equal Pay and Opportunities certification the Company has maintained since 2019.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our People (Karyawan Kami) > Moving Forward with Shared Purpose\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific inclusive workplace practice with limited reach\"}}},{\"id\":\"E10\",\"activity\":\"Brand-building marketing and advertising campaigns\",\"quote\":\"Strategi utama kami berfokus pada pengembangan dan penguatan ekuitas merek melalui berbagai saluran pemasaran, termasuk iklan luar ruang, keterlibatan komunitas, dan platform digital, yang menjadi bagian integral dari kampanye pemasaran dan periklanan kami di Indonesia.\",\"quote_en\":\"Our primary strategy focuses on developing and strengthening brand equity through multiple marketing channels, including out-of-home advertising, community engagement and digital platforms, which form an integral part of our marketing and advertising campaigns in Indonesia.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Company Profile > Product and Marketing Aspects\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: creative work used only as a routine business input (marketing)\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E10\"],\"reason\":\"Level 1: the business is tobacco manufacturing, and creative work appears only as routine marketing and brand input.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E6\",\"E7\"],\"reason\":\"Level 3: named external education programs (SETC with over 108,000 trained, SKB vocational training with over 9,000 participants, WEC with over 1,000 women entrepreneurs) show substantial measured reach, but they are not central to the tobacco business strategy, so level 4 is not met.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E8\",\"E9\"],\"reason\":\"Level 2: employee resource groups and an equal-pay certification are specific current practices, but no membership or reach figures are given.\"},\"entrepreneurship\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 3: named enabling programs and tools (SETC mentoring of over 1,600 MSMEs, the AYO app for SRC stores, Pojok Lokal shelf access, WEC) have measured reach, but SRC mainly serves as the company's own cigarette distribution channel, with no separately disclosed revenue, so level 4 is not met.\"}},\"notes\":\"Single reported operating segment: cigarettes and smoke-free tobacco/nicotine products (99.6% of revenue). SETC figures are cumulative since 2007. PT Sampoerna Karya Bangsa changed its business activity to job training provider in March 2025 and is a small subsidiary by assets. The SRC MoUs with five state-owned enterprises (financial services, food, LPG, logistics and broadband access points) were signed in 2025 but are phrased as future ('will serve'), so they were treated as planned and not scored. The SFP partnership program (600 MSMEs) and the 43 TPOs owned by local entrepreneurs are distribution and contract-manufacturing relationships for the company's own products (serving), so they were not scored as enabling. The Agricultural Partnership Program for 22,500 farmers is supply-chain sourcing and was not scored. 'Community engagement' in marketing was treated as a trap. Employee demographics (12,667 female employees) are disclosure only. The Ethics & Compliance department substantiated 36 of 95 reports, but their type (e.g. harassment or discrimination) is not disclosed, so no rights_finding was listed. The child labor prevention commitment is policy only. The report states that AI tools were used in drafting.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"tobacco\",\"found_by\":\"\",\"case_type\":\"\",\"quote\":\"Berawal sebagai perusahaan keluarga sederhana pada tahun 1913, Perseroan kini telah berkembang menjadi perusahaan tembakau terkemuka di Indonesia.\",\"quote_en\":\"What began as a humble family company in 1913 has since grown into Indonesia's leading tobacco company.\",\"section\":\"Annual report > Report of the Board of Directors (Laporan Direksi)\",\"explanation\":\"The core business is manufacturing and trading cigarettes and heated tobacco products, which make up 99.6% of net revenues.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 81179,
+      "output_tokens": 12205,
+      "duration_ms": 102196
+    }
+  ]
+}

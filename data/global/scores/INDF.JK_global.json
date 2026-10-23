@@ -1,0 +1,186 @@
+{
+  "ticker": "INDF.JK",
+  "company_name": "Indofood",
+  "country": "Indonesia",
+  "sector": "Consumer Staples",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.indofood.com/uploads/annual/AR_ISM_2025_web.pdf",
+  "english": false,
+  "words_sent": 7550,
+  "prompt_chars": 77431,
+  "approx_prompt_tokens": 19357,
+  "scored_at": "2026-10-23T17:15:49",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Bogasari Next Baker competition for state vocational high school students",
+        "quote": "Kompetisi Bogasari Next Baker bagi siswa Sekolah Menengah Kejuruan Negeri telah sukses diselenggarakan di wilayah Jabodetabek dan pulau Jawa dengan tingkat partisipasi yang tinggi, dan rencananya akan semakin diperluas ke seluruh pulau Jawa dan Sumatera pada tahun 2026 mendatang.",
+        "quote_en": "The Bogasari Next Baker competition for students of state vocational high schools was successfully conducted in the Jabodetabek and Java regions with high participation, and is planned to be extended across all of Java and Sumatra in 2026.",
+        "source_doc": "filing",
+        "section": "Annual report > Operational review > Bogasari Division",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: named current external education program, reach described only as 'high participation' with no figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Educational partnerships with universities and culinary vocational schools",
+        "quote": "Kegiatan edukasi turut diperluas melalui kerjasama dengan berbagai universitas dan sekolah kejuruan tata boga di seluruh Indonesia.",
+        "quote_en": "Educational outreach was further expanded through partnerships with various universities and culinary vocational schools throughout Indonesia.",
+        "source_doc": "filing",
+        "section": "Annual report > Operational review > Bogasari Division",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current partnerships with schools, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Training programs for employees covering technical and soft skills",
+        "quote": "Perseroan menyediakan beragam program pelatihan yang dirancang untuk meningkatkan keterampilan teknis maupun soft skill karyawan.",
+        "quote_en": "The Company provides a variety of training programs designed to improve employees' technical and soft skills.",
+        "source_doc": "filing",
+        "section": "Annual report > Human Resources > Competency development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Lactation rooms for breastfeeding mothers at operational units",
+        "quote": "Untuk mendukung kesejahteraan karyawan, Indofood menyediakan berbagai sarana, seperti ruang-ruang laktasi di unit operasional bagi para ibu menyusui.",
+        "quote_en": "To support employee welfare, Indofood provides facilities such as lactation rooms for breastfeeding mothers in the operational units.",
+        "source_doc": "filing",
+        "section": "Annual report > Human Resources > Employee welfare",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusive workplace benefit, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Sales programs encouraging participation of small and medium enterprises",
+        "quote": "Perseroan mengembangkan program-program penjualan yang meningkatkan keterlibatan pelaku usaha kecil dan menengah.",
+        "quote_en": "The Company developed sales programs that increase the participation of small and medium enterprises.",
+        "source_doc": "filing",
+        "section": "Annual report > Risk management > Sustainability risk",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: unnamed SME sales programs with no specific barrier-reducing service described"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Dairy products marketed to SMEs such as coffee shops and home entrepreneurs through F&B exhibitions",
+        "quote": "To position the Division as a one-stop dairy solution for small and medium-sized enterprise (SME) like coffee shops and home entrepreneurs, we participated in various F&B exhibitions to showcase our product portfolio and diverse applications.",
+        "quote_en": "To position the Division as a one-stop dairy solution for small and medium-sized enterprise (SME) like coffee shops and home entrepreneurs, we participated in various F&B exhibitions to showcase our product portfolio and diverse applications.",
+        "source_doc": "filing",
+        "section": "Annual report > Operational review > Dairy Division",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: selling products to small-business customers"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Beverage product launch promoted through anime and comic event collaborations",
+        "quote": "Peluncuran Fruitamin Cocobit dengan varian rasa buah kekinian dari Jepang didukung oleh kolaborasi dalam berbagai acara anime dan komik, sedangkan kampanye yang dirancang khusus untuk mengedepankan manfaat minum air telah dikembangkan dan dilakukan berkolaborasi dengan berbagai komunitas olahraga.",
+        "quote_en": "The launch of Fruitamin Cocobit with trendy Japanese fruit flavors was supported by collaborations at various anime and comic events, while campaigns specifically designed to highlight the benefits of drinking water were developed and carried out in collaboration with various sports communities.",
+        "source_doc": "filing",
+        "section": "Annual report > Operational review > Beverages Division",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: pop-culture events used as routine brand marketing"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7"
+        ],
+        "reason": "Level 1: the food business creates or enables no creative work, and anime/comic events and K-pop ambassadors are used only as marketing inputs."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: there are specific current external education activities (the Bogasari Next Baker competition and vocational school partnerships) plus employee training, but no participant or dollar figures show substantial reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4"
+        ],
+        "reason": "Level 2: one specific inclusive workplace practice (lactation rooms) with no reach figures; otherwise only equal-opportunity and diversity statements."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 1: SMEs appear only as customers and in unnamed sales programs, with no specific enabling service, financing, coaching or tool described."
+      }
+    },
+    "red_flags": [],
+    "notes": "The source is bilingual (English/Indonesian). Indonesian quotes are used where available; E6 appears only in English in the extract. The Next Baker expansion to all of Java and Sumatra in 2026 is planned and not scored. General statements on community development and MSME collaboration (pages 89 and 109) refer readers to the Sustainability Report without giving specific activities, so they were not scored. Scholarships for employees' children are an employee welfare benefit and were not counted as external education. The 5,500 local farmer partnership is a supply-chain arrangement, not community investment; the ISPO smallholder certification is a commitment. One valid code-of-conduct report was received in 2025, but its type is not stated, so it is not listed as a red flag. A director's past role at a coal mining company does not make coal a company business."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\n  \"ticker\": \"INDF.JK\",\n  \"sector\": \"Consumer Staples\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Annual report: keyword paragraphs (TOC fallback)\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Bogasari Next Baker competition for state vocational high school students\",\n      \"quote\": \"Kompetisi Bogasari Next Baker bagi siswa Sekolah Menengah Kejuruan Negeri telah sukses diselenggarakan di wilayah Jabodetabek dan pulau Jawa dengan tingkat partisipasi yang tinggi, dan rencananya akan semakin diperluas ke seluruh pulau Jawa dan Sumatera pada tahun 2026 mendatang.\",\n      \"quote_en\": \"The Bogasari Next Baker competition for students of state vocational high schools was successfully conducted in the Jabodetabek and Java regions with high participation, and is planned to be extended across all of Java and Sumatra in 2026.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Operational review > Bogasari Division\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"external_education\", \"criterion\": \"level 2: named current external education program, reach described only as 'high participation' with no figures\"}\n      }\n    },\n    {\n      \"id\": \"E2\",\n      \"activity\": \"Educational partnerships with universities and culinary vocational schools\",\n      \"quote\": \"Kegiatan edukasi turut diperluas melalui kerjasama dengan berbagai universitas dan sekolah kejuruan tata boga di seluruh Indonesia.\",\n      \"quote_en\": \"Educational outreach was further expanded through partnerships with various universities and culinary vocational schools throughout Indonesia.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Operational review > Bogasari Division\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"external_education\", \"criterion\": \"level 2: specific current partnerships with schools, no reach figures\"}\n      }\n    },\n    {\n      \"id\": \"E3\",\n      \"activity\": \"Training programs for employees covering technical and soft skills\",\n      \"quote\": \"Perseroan menyediakan beragam program pelatihan yang dirancang untuk meningkatkan keterampilan teknis maupun soft skill karyawan.\",\n      \"quote_en\": \"The Company provides a variety of training programs designed to improve employees' technical and soft skills.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Human Resources > Competency development\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size\"}\n      }\n    },\n    {\n      \"id\": \"E4\",\n      \"activity\": \"Lactation rooms for breastfeeding mothers at operational units\",\n      \"quote\": \"Untuk mendukung kesejahteraan karyawan, Indofood menyediakan berbagai sarana, seperti ruang-ruang laktasi di unit operasional bagi para ibu menyusui.\",\n      \"quote_en\": \"To support employee welfare, Indofood provides facilities such as lactation rooms for breastfeeding mothers in the operational units.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Human Resources > Employee welfare\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific inclusive workplace benefit, no reach figures\"}\n      }\n    },\n    {\n      \"id\": \"E5\",\n      \"activity\": \"Sales programs encouraging participation of small and medium enterprises\",\n      \"quote\": \"Perseroan mengembangkan program-program penjualan yang meningkatkan keterlibatan pelaku usaha kecil dan menengah.\",\n      \"quote_en\": \"The Company developed sales programs that increase the participation of small and medium enterprises.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Risk management > Sustainability risk\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"entrepreneurship\": {\"kind\": \"serving\", \"criterion\": \"level 1: unnamed SME sales programs with no specific barrier-reducing service described\"}\n      }\n    },\n    {\n      \"id\": \"E6\",\n      \"activity\": \"Dairy products marketed to SMEs such as coffee shops and home entrepreneurs through F&B exhibitions\",\n      \"quote\": \"To position the Division as a one-stop dairy solution for small and medium-sized enterprise (SME) like coffee shops and home entrepreneurs, we participated in various F&B exhibitions to showcase our product portfolio and diverse applications.\",\n      \"quote_en\": \"To position the Division as a one-stop dairy solution for small and medium-sized enterprise (SME) like coffee shops and home entrepreneurs, we participated in various F&B exhibitions to showcase our product portfolio and diverse applications.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Operational review > Dairy Division\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"entrepreneurship\": {\"kind\": \"serving\", \"criterion\": \"level 1: selling products to small-business customers\"}\n      }\n    },\n    {\n      \"id\": \"E7\",\n      \"activity\": \"Beverage product launch promoted through anime and comic event collaborations\",\n      \"quote\": \"Peluncuran Fruitamin Cocobit dengan varian rasa buah kekinian dari Jepang didukung oleh kolaborasi dalam berbagai acara anime dan komik, sedangkan kampanye yang dirancang khusus untuk mengedepankan manfaat minum air telah dikembangkan dan dilakukan berkolaborasi dengan berbagai komunitas olahraga.\",\n      \"quote_en\": \"The launch of Fruitamin Cocobit with trendy Japanese fruit flavors was supported by collaborations at various anime and comic events, while campaigns specifically designed to highlight the benefits of drinking water were developed and carried out in collaboration with various sports communities.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Operational review > Beverages Division\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"creativity\": {\"kind\": \"uses_as_input\", \"criterion\": \"level 1: pop-culture events used as routine brand marketing\"}\n      }\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\"score\": 1, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E7\"], \"reason\": \"Level 1: the food business creates or enables no creative work, and anime/comic events and K-pop ambassadors are used only as marketing inputs.\"},\n    \"community\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E2\", \"E3\"], \"reason\": \"Level 2: there are specific current external education activities (the Bogasari Next Baker competition and vocational school partnerships) plus employee training, but no participant or dollar figures show substantial reach.\"},\n    \"cross_cultural\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E4\"], \"reason\": \"Level 2: one specific inclusive workplace practice (lactation rooms) with no reach figures; otherwise only equal-opportunity and diversity statements.\"},\n    \"entrepreneurship\": {\"score\": 1, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E5\", \"E6\"], \"reason\": \"Level 1: SMEs appear only as customers and in unnamed sales programs, with no specific enabling service, financing, coaching or tool described.\"}\n  },\n  \"notes\": \"The source is bilingual (English/Indonesian). Indonesian quotes are used where available; E6 appears only in English in the extract. The Next Baker expansion to all of Java and Sumatra in 2026 is planned and not scored. General statements on community development and MSME collaboration (pages 89 and 109) refer readers to the Sustainability Report without giving specific activities, so they were not scored. Scholarships for employees' children are an employee welfare benefit and were not counted as external education. The 5,500 local farmer partnership is a supply-chain arrangement, not community investment; the ISPO smallholder certification is a commitment. One valid code-of-conduct report was received in 2025, but its type is not stated, so it is not listed as a red flag. A director's past role at a coal mining company does not make coal a company business.\",\n  \"red_flags\": []\n}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 33101,
+      "output_tokens": 6580,
+      "duration_ms": 56559
+    }
+  ]
+}

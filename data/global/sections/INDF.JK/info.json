@@ -1,0 +1,23 @@
+{
+  "ticker": "INDF.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "company website",
+  "fiscal_year": 2025,
+  "url": "https://www.indofood.com/uploads/annual/AR_ISM_2025_web.pdf",
+  "english": false,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 7539
+  },
+  "notes": [
+    "TOC fallback (chapters from the printed contents page hold only 1,079 words): keyword paragraphs across the whole report; skipped 167 of 298 pages (risk, number pages, financial statements from page 137)",
+    "non-English source"
+  ],
+  "people_words": 2635,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "chapters_skipped": [
+    "Laporan Auditor Independen"
+  ],
+  "words_sent": 7550
+}

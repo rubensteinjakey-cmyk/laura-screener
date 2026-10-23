@@ -1,0 +1,358 @@
+{
+  "ticker": "BMRI.JK",
+  "company_name": "Bank Mandiri",
+  "country": "Indonesia",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025+%281%29.pdf/da87ca86-a02b-f394-b2e4-1ff3f268c0ee?t=1777514285182",
+  "english": true,
+  "words_sent": 40912,
+  "prompt_chars": 310032,
+  "approx_prompt_tokens": 77508,
+  "scored_at": "2026-10-23T17:19:24",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Supports Indonesia's creative/craft industry through the INACRAFT craft exhibition",
+        "quote": "Bank Mandiri Supports Creative Industry at INACRAFT as a Momentum for the 27th Anniversary: Synergy to Advance the Country",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Governance > Press releases list",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current sponsorship of creative/craft industry event, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Livin' Fest events across several cities showcasing MSMEs and the creative economy",
+        "quote": "Celebrating the 27th Anniversary, Bank Mandiri Holds Livin' Fest with Synergy of MSMEs and Creative Economy",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Governance > Press releases list",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current event support for creative economy players, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Rumah BUMN centres providing training, capacity building and digitalisation for MSMEs",
+        "quote": "As of 2025, a total of 17.6 thousand MSMEs had participated in the program, with 7,928 MSMEs successfully moving up a level, supported by more than 295 training programs.",
+        "source_doc": "filing",
+        "section": "Annual report > Social and Environmental Responsibility > Rumah BUMN (RB)",
+        "status": "current",
+        "indicators": "17.6 thousand MSMEs; 7,928 MSMEs; 295 training programs",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with participant numbers"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named free training/coaching program for small businesses with numbers helped"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Mandiri Peduli Sekolah school refurbishment and reading corners with employee volunteers",
+        "quote": "In 2025, the program was implemented in 27 schools across Indonesia, involving employees and community members as volunteers to strengthen social engagement and community care.",
+        "source_doc": "filing",
+        "section": "Annual report > Social and Environmental Responsibility > Mandiri Peduli Sekolah",
+        "status": "current",
+        "indicators": "27 schools",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named school partnership program with volunteering and numbers"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Annual social and environmental responsibility (TJSL) spending on community development",
+        "quote": "As such. the Bank integrates social and environmental considerations into its strategy and operations and has allocated Rp251.1 billion in 2025 to support community development and environmental initiatives.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Governance > Funding to Social and/or Political Activities",
+        "status": "current",
+        "indicators": "Rp251.1 billion",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with disclosed dollar amount"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Wirausaha Muda Mandiri young-entrepreneur competition with after-competition mentoring and alumni support",
+        "quote": "At the beginning of 2025, the implementation of WMM was focused on the peak stage of the WMM competition, which served as the main phase in the selection, curation, and assessment of 20 high-potential young entrepreneurs.",
+        "source_doc": "filing",
+        "section": "Annual report > Social and Environmental Responsibility > Wirausaha Muda Mandiri (WMM)",
+        "status": "current",
+        "indicators": "20 high-potential young entrepreneurs",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: named mentoring program for young people outside the company"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: named accelerator-style program for founders, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Mandiri Sahabatku entrepreneurship and financial literacy training for Indonesian migrant workers abroad",
+        "quote": "This empowerment training program for Indonesian Migrant Workers focuses on entrepreneurship preparation, financial literacy and inclusion, as well as mentoring to enhance business capabilities and financial independence.",
+        "source_doc": "filing",
+        "section": "Annual report > Social and Environmental Responsibility > Mandiri Sahabatku",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: named external training program"
+          },
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: named program serving migrant workers"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: entrepreneurship mentoring for underserved would-be founders"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Mandiri Sahabat Difabel: skills training, financial literacy and MSME mentoring for persons with disabilities",
+        "quote": "In 2025, support was provided to 210 persons with disabilities through the following initiatives:",
+        "source_doc": "filing",
+        "section": "Annual report > Social and Environmental Responsibility > Mandiri Sahabat Difabel",
+        "status": "current",
+        "indicators": "210 persons with disabilities",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: named disability inclusion program with numbers"
+          },
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: skills training for people outside the company, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Tailored savings accounts for persons with disabilities, including those without a national ID number",
+        "quote": "Bank Mandiri also strengthens financial inclusion for persons with disabilities through the Inclusive Economic Acceleration Program, which includes opening 10,000 new savings accounts across West Java, Central Java, and Yogyakarta.",
+        "source_doc": "filing",
+        "section": "Annual report > ESG Implementation Report > For Communities > Mandiri Makmur Savings (SiMakmur)",
+        "status": "current",
+        "indicators": "10,000 new savings accounts",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: named accessibility program with numbers"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Kriya Mandiri internship, including a contact-center internship track for people with disabilities",
+        "quote": "For the contact center position, the Bank also offers a specialized internship program for participants with disabilities, known as Kriya Mandiri Contact Center, designed for applicants with a minimum education level of high school.",
+        "source_doc": "filing",
+        "section": "Annual report > Management Discussion and Analysis > Human Capital > Recruitment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusive hiring program, no figures"
+          },
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: internship program for graduates outside the company"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "KUR loan product designed for Indonesian migrant workers",
+        "quote": "KUR for Migrant Workers (KUR TKI), for loan ceilings up to Rp25 million per borrower, with a tenure aligned to the employment contract or a maximum of 12 months.",
+        "source_doc": "filing",
+        "section": "Annual report > ESG Implementation Report > For Communities > People's Business Loan (KUR)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: financial service built for migrant workers"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Livin' Merchant: free point-of-sale and QRIS payment app for micro and small merchants",
+        "quote": "To advance financial inclusion, Livin’ Merchant provides an affordable payment solution for MSMEs, with 3 million registered users, 63% of whom are located in non-urban areas.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors",
+        "status": "current",
+        "indicators": "3 million registered users; 63%",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 4: affordable merchant tool for very small businesses, a core platform with millions of users"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Government-backed People's Business Credit (KUR) for businesses lacking sufficient collateral",
+        "quote": "From the start of the program in 2008 up to 2025, the Bank has disbursed KUR to 963,340 million borrowers, with a total financing value of Rp68.5 trillion.",
+        "source_doc": "filing",
+        "section": "Annual report > ESG Implementation Report > For Communities > People's Business Loan (KUR)",
+        "status": "current",
+        "indicators": "963,340 million borrowers; Rp68.5 trillion",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named financing program for collateral-poor businesses with numbers helped"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "Mandiri UKM Center providing MSMEs with credit access, literacy, mentoring and tax/financial advisory",
+        "quote": "Mandiri UKMC Objectives: Providing a platform for MSMEs to access credit financing more quickly and easily while improving their competencies through literacy programs, mentoring, and training, such as tax advisory, financial report education, and more.",
+        "source_doc": "filing",
+        "section": "Annual report > ESG Implementation Report > For Our Customers > Financial literacy programs",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: named coaching/advisory program for small businesses"
+          },
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: external literacy and mentoring program"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Employee education and training through Mandiri Corporate University",
+        "quote": "Meanwhile, the realization of education and training expenses amounted to Rp326.4 billion as of December 2025, representing 70.9% of the 2025 competency development budget target.",
+        "source_doc": "filing",
+        "section": "Annual report > Management Discussion and Analysis",
+        "status": "current",
+        "indicators": "Rp326.4 billion; 70.9%",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "Aksi Bersih Mandiri environmental volunteering with employees and local communities",
+        "quote": "The initiative successfully collected and recycled approximately 12.7 tonnes of inorganic waste and involved more than 1,350 volunteers from Bank Mandiri employees and surrounding communities.",
+        "source_doc": "filing",
+        "section": "Annual report > Social and Environmental Responsibility > Aksi Bersih Mandiri",
+        "status": "current",
+        "indicators": "12.7 tonnes; 1,350 volunteers",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community volunteering with numbers"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: specific current support for creative-industry events (INACRAFT, Livin' Fest creative economy) with no reach figures; the core business is banking."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E10",
+          "E14",
+          "E15",
+          "E16"
+        ],
+        "reason": "Level 3: external education and community investment with substantial measured reach (Rumah BUMN 17.6 thousand MSMEs, Rp251.1 billion CSR, 27 schools, 1,350 volunteers)."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11"
+        ],
+        "reason": "Level 3: named programs for persons with disabilities and migrant workers with numbers (210 persons, 10,000 savings accounts), not yet a major measured business line."
+      },
+      "entrepreneurship": {
+        "score": 4,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E6",
+          "E7",
+          "E12",
+          "E13",
+          "E14"
+        ],
+        "reason": "Level 4: enabling micro and small businesses is a major business line, with Livin' Merchant (a core platform with 3 million users) and KUR collateral-light financing with disclosed borrower numbers."
+      }
+    },
+    "red_flags": [],
+    "notes": "KUR borrower figure is printed as '963,340 million borrowers', which is likely a typo; it is copied as written. Financing for women (674,338 female micro-entrepreneurs) is a gender breakdown of ordinary KUR/KUM lending, so it was not scored as a separate cross-cultural activity. The disability savings program 'includes opening 10,000 new savings accounts' but does not say whether this was achieved or is a target. The ITB Art Market and the mini-theatre revitalisation appear in the report but do not clearly show Bank Mandiri's role, so they were not used. Workforce gender statistics and board diversity are disclosures only. Ordinary MSME lending (1.27 million borrowers, Rp140.1 trillion) counts as serving. Coal-fired power and mining appear only as financing-policy sectors, and defense equipment loans are lending, not weapons manufacturing, so neither is a red flag. The rights-related content is a Respectful Workplace Policy and a whistleblowing system, with no disclosed findings."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"BMRI.JK\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Supports Indonesia's creative/craft industry through the INACRAFT craft exhibition\",\"quote\":\"Bank Mandiri Supports Creative Industry at INACRAFT as a Momentum for the 27th Anniversary: Synergy to Advance the Country\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Governance > Press releases list\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current sponsorship of creative/craft industry event, limited reach\"}}},{\"id\":\"E2\",\"activity\":\"Livin' Fest events across several cities showcasing MSMEs and the creative economy\",\"quote\":\"Celebrating the 27th Anniversary, Bank Mandiri Holds Livin' Fest with Synergy of MSMEs and Creative Economy\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Governance > Press releases list\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current event support for creative economy players, no reach figures\"}}},{\"id\":\"E3\",\"activity\":\"Rumah BUMN centres providing training, capacity building and digitalisation for MSMEs\",\"quote\":\"As of 2025, a total of 17.6 thousand MSMEs had participated in the program, with 7,928 MSMEs successfully moving up a level, supported by more than 295 training programs.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social and Environmental Responsibility > Rumah BUMN (RB)\",\"status\":\"current\",\"indicators\":\"17.6 thousand MSMEs; 7,928 MSMEs; 295 training programs\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with participant numbers\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named free training/coaching program for small businesses with numbers helped\"}}},{\"id\":\"E4\",\"activity\":\"Mandiri Peduli Sekolah school refurbishment and reading corners with employee volunteers\",\"quote\":\"In 2025, the program was implemented in 27 schools across Indonesia, involving employees and community members as volunteers to strengthen social engagement and community care.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social and Environmental Responsibility > Mandiri Peduli Sekolah\",\"status\":\"current\",\"indicators\":\"27 schools\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named school partnership program with volunteering and numbers\"}}},{\"id\":\"E5\",\"activity\":\"Annual social and environmental responsibility (TJSL) spending on community development\",\"quote\":\"As such. the Bank integrates social and environmental considerations into its strategy and operations and has allocated Rp251.1 billion in 2025 to support community development and environmental initiatives.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Governance > Funding to Social and/or Political Activities\",\"status\":\"current\",\"indicators\":\"Rp251.1 billion\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with disclosed dollar amount\"}}},{\"id\":\"E6\",\"activity\":\"Wirausaha Muda Mandiri young-entrepreneur competition with after-competition mentoring and alumni support\",\"quote\":\"At the beginning of 2025, the implementation of WMM was focused on the peak stage of the WMM competition, which served as the main phase in the selection, curation, and assessment of 20 high-potential young entrepreneurs.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social and Environmental Responsibility > Wirausaha Muda Mandiri (WMM)\",\"status\":\"current\",\"indicators\":\"20 high-potential young entrepreneurs\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: named mentoring program for young people outside the company\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: named accelerator-style program for founders, limited reach\"}}},{\"id\":\"E7\",\"activity\":\"Mandiri Sahabatku entrepreneurship and financial literacy training for Indonesian migrant workers abroad\",\"quote\":\"This empowerment training program for Indonesian Migrant Workers focuses on entrepreneurship preparation, financial literacy and inclusion, as well as mentoring to enhance business capabilities and financial independence.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social and Environmental Responsibility > Mandiri Sahabatku\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: named external training program\"},\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: named program serving migrant workers\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: entrepreneurship mentoring for underserved would-be founders\"}}},{\"id\":\"E8\",\"activity\":\"Mandiri Sahabat Difabel: skills training, financial literacy and MSME mentoring for persons with disabilities\",\"quote\":\"In 2025, support was provided to 210 persons with disabilities through the following initiatives:\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social and Environmental Responsibility > Mandiri Sahabat Difabel\",\"status\":\"current\",\"indicators\":\"210 persons with disabilities\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: named disability inclusion program with numbers\"},\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: skills training for people outside the company, limited reach\"}}},{\"id\":\"E9\",\"activity\":\"Tailored savings accounts for persons with disabilities, including those without a national ID number\",\"quote\":\"Bank Mandiri also strengthens financial inclusion for persons with disabilities through the Inclusive Economic Acceleration Program, which includes opening 10,000 new savings accounts across West Java, Central Java, and Yogyakarta.\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG Implementation Report > For Communities > Mandiri Makmur Savings (SiMakmur)\",\"status\":\"current\",\"indicators\":\"10,000 new savings accounts\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: named accessibility program with numbers\"}}},{\"id\":\"E10\",\"activity\":\"Kriya Mandiri internship, including a contact-center internship track for people with disabilities\",\"quote\":\"For the contact center position, the Bank also offers a specialized internship program for participants with disabilities, known as Kriya Mandiri Contact Center, designed for applicants with a minimum education level of high school.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Management Discussion and Analysis > Human Capital > Recruitment\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific inclusive hiring program, no figures\"},\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: internship program for graduates outside the company\"}}},{\"id\":\"E11\",\"activity\":\"KUR loan product designed for Indonesian migrant workers\",\"quote\":\"KUR for Migrant Workers (KUR TKI), for loan ceilings up to Rp25 million per borrower, with a tenure aligned to the employment contract or a maximum of 12 months.\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG Implementation Report > For Communities > People's Business Loan (KUR)\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: financial service built for migrant workers\"}}},{\"id\":\"E12\",\"activity\":\"Livin' Merchant: free point-of-sale and QRIS payment app for micro and small merchants\",\"quote\":\"To advance financial inclusion, Livin’ Merchant provides an affordable payment solution for MSMEs, with 3 million registered users, 63% of whom are located in non-urban areas.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors\",\"status\":\"current\",\"indicators\":\"3 million registered users; 63%\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 4: affordable merchant tool for very small businesses, a core platform with millions of users\"}}},{\"id\":\"E13\",\"activity\":\"Government-backed People's Business Credit (KUR) for businesses lacking sufficient collateral\",\"quote\":\"From the start of the program in 2008 up to 2025, the Bank has disbursed KUR to 963,340 million borrowers, with a total financing value of Rp68.5 trillion.\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG Implementation Report > For Communities > People's Business Loan (KUR)\",\"status\":\"current\",\"indicators\":\"963,340 million borrowers; Rp68.5 trillion\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named financing program for collateral-poor businesses with numbers helped\"}}},{\"id\":\"E14\",\"activity\":\"Mandiri UKM Center providing MSMEs with credit access, literacy, mentoring and tax/financial advisory\",\"quote\":\"Mandiri UKMC Objectives: Providing a platform for MSMEs to access credit financing more quickly and easily while improving their competencies through literacy programs, mentoring, and training, such as tax advisory, financial report education, and more.\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG Implementation Report > For Our Customers > Financial literacy programs\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: named coaching/advisory program for small businesses\"},\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: external literacy and mentoring program\"}}},{\"id\":\"E15\",\"activity\":\"Employee education and training through Mandiri Corporate University\",\"quote\":\"Meanwhile, the realization of education and training expenses amounted to Rp326.4 billion as of December 2025, representing 70.9% of the 2025 competency development budget target.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Management Discussion and Analysis\",\"status\":\"current\",\"indicators\":\"Rp326.4 billion; 70.9%\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E16\",\"activity\":\"Aksi Bersih Mandiri environmental volunteering with employees and local communities\",\"quote\":\"The initiative successfully collected and recycled approximately 12.7 tonnes of inorganic waste and involved more than 1,350 volunteers from Bank Mandiri employees and surrounding communities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social and Environmental Responsibility > Aksi Bersih Mandiri\",\"status\":\"current\",\"indicators\":\"12.7 tonnes; 1,350 volunteers\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community volunteering with numbers\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: specific current support for creative-industry events (INACRAFT, Livin' Fest creative economy) with no reach figures; the core business is banking.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E10\",\"E14\",\"E15\",\"E16\"],\"reason\":\"Level 3: external education and community investment with substantial measured reach (Rumah BUMN 17.6 thousand MSMEs, Rp251.1 billion CSR, 27 schools, 1,350 volunteers).\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\",\"E8\",\"E9\",\"E10\",\"E11\"],\"reason\":\"Level 3: named programs for persons with disabilities and migrant workers with numbers (210 persons, 10,000 savings accounts), not yet a major measured business line.\"},\"entrepreneurship\":{\"score\":4,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E6\",\"E7\",\"E12\",\"E13\",\"E14\"],\"reason\":\"Level 4: enabling micro and small businesses is a major business line, with Livin' Merchant (a core platform with 3 million users) and KUR collateral-light financing with disclosed borrower numbers.\"}},\"notes\":\"KUR borrower figure is printed as '963,340 million borrowers', which is likely a typo; it is copied as written. Financing for women (674,338 female micro-entrepreneurs) is a gender breakdown of ordinary KUR/KUM lending, so it was not scored as a separate cross-cultural activity. The disability savings program 'includes opening 10,000 new savings accounts' but does not say whether this was achieved or is a target. The ITB Art Market and the mini-theatre revitalisation appear in the report but do not clearly show Bank Mandiri's role, so they were not used. Workforce gender statistics and board diversity are disclosures only. Ordinary MSME lending (1.27 million borrowers, Rp140.1 trillion) counts as serving. Coal-fired power and mining appear only as financing-policy sectors, and defense equipment loans are lending, not weapons manufacturing, so neither is a red flag. The rights-related content is a Respectful Workplace Policy and a whistleblowing system, with no disclosed findings.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 124812,
+      "output_tokens": 13178,
+      "duration_ms": 110137
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ticker": "BMRI.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "company website",
+  "fiscal_year": 2025,
+  "url": "https://www.bankmandiri.co.id/documents/38265486/0/%5BFINAL+-+2904%5D+ANNUAL+REPORT+BMRI+2025+%281%29.pdf/da87ca86-a02b-f394-b2e4-1ff3f268c0ee?t=1777514285182",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 17775,
+    "Annual report: keyword paragraphs from the rest": 23117
+  },
+  "notes": [
+    "over 40,000 words: dropped 272 lowest-relevance keyword paragraph(s) and 0 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 2125,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Operational Highlights (pages 40-41)",
+    "Events Highlights 2025 (pages 53-57)",
+    "Company at A Glance (pages 90-91)",
+    "Culture (pages 97-100)",
+    "Employee Demographics (pages 177-178)",
+    "Corporate Strategy (pages 259-261)",
+    "Strategic Focus (pages 262-262)",
+    "Sustainable Business (pages 263-263)",
+    "Strategy for 2025 (pages 266-266)",
+    "Strategic Focus for 2026 (pages 269-269)",
+    "Subsidiary Performance Overview (pages 319-328)",
+    "Human Capital Framework (pages 410-410)",
+    "Human Capital Management (pages 410-410)",
+    "Human Capital Strategy (pages 411-412)",
+    "Technology Strategic Plan 2025 (pages 442-442)",
+    "Human Capital Policy Committee (pages 658-659)",
+    "Responsibility Committee (TJSL) (pages 677-678)",
+    "to CEO (pages 746-749)",
+    "Bank Strategic Plan (pages 753-753)",
+    "ESG Practices at Bank Mandiri (pages 858-864)",
+    "Social Pillars (pages 877-886)"
+  ],
+  "chapters_skipped": [
+    "Financial Review",
+    "Integrated Risk Committee",
+    "Remunerations",
+    "Risk Management",
+    "Risk Management Committee",
+    "Risk Oversight Committee",
+    "Statement of Financial Position"
+  ],
+  "words_sent": 40912
+}
