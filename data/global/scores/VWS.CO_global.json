@@ -1,0 +1,177 @@
+{
+  "ticker": "VWS.CO",
+  "company_name": "Vestas Wind Systems",
+  "country": "Denmark",
+  "sector": "Industrials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2025/fy-2025/Vestas%20Annual%20Report%202025.pdf.coredownload.inline.pdf",
+  "english": true,
+  "words_sent": 40183,
+  "prompt_chars": 305539,
+  "approx_prompt_tokens": 76384,
+  "scored_at": "2026-10-23T13:02:44",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Local community projects near wind farm projects, which reached a cumulative community-beneficiary target during the year",
+        "quote": "During 2025, we achieved our previous target of 35,000 community beneficiaries and replaced this target with a target to conduct social due diligence on all projects in scope annually.",
+        "source_doc": "filing",
+        "section": "Sustainability statement > Sustainability at Vestas > Embedding sustainability > 3. Social",
+        "status": "current",
+        "indicators": "35,000 community beneficiaries",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment; one beneficiary figure, but the program is not named or described and its target was retired (torn with 3, lower level chosen)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Technical training, capacity building and entrepreneurship courses for community members near Vestas projects (e.g. farmers in Australia)",
+        "quote": "Our Social Due Diligence process advanced toward full annual coverage, and global initiatives supported technical training, capacity building, and entrepreneurship in communities connected to our projects.",
+        "source_doc": "filing",
+        "section": "Our business > In brief > Our people > Acting responsibly across our value chain",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external skills program, limited or undisclosed reach"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific current entrepreneurship courses for community members, limited or undisclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Frontline leadership programme rolled out to Service staff",
+        "quote": "This included the roll-out of a frontline leadership programme, piloted in 2024, to around 300 people in Service to strengthen the safety, quality, people, and cost leadership culture across the organisation.",
+        "source_doc": "filing",
+        "section": "Our business > Performance for the year > Service > Driving value for our customers",
+        "status": "current",
+        "indicators": "around 300 people",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Inclusive Leadership Programme for leaders, with a new module on working across cultures",
+        "quote": "In 2025, we launched “Leading Across Cultures” , as the third module in the Inclusive Leadership Programme in addition to “Foundations” and “Inclusive Interactions” .",
+        "source_doc": "filing",
+        "section": "Sustainability statement > S1 Own workforce – Diversity > Actions and resources > Leadership and culture",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion training program with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Inclusive recruitment practices, including bias-reducing job-ad software and DEIB statements in postings",
+        "quote": "Job advertisements use gender- and identity- neutral language supported by the inclusive writing software “Develop Diverse”; psychometric assessments are mandatory for leadership roles; and DEIB statements are included in postings.",
+        "source_doc": "filing",
+        "section": "Sustainability statement > S1 Own workforce – Diversity > Actions and resources > Inclusive recruitment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusive hiring practice, limited reach disclosed"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Regional DEIB employee networks and Employee Resource Groups that feed into company practices",
+        "quote": "Vestas also monitors gender response patterns in the EES and engaging with regional DEIB networks, which complement global results with locally grounded insights.",
+        "source_doc": "filing",
+        "section": "Sustainability statement > S1 Own workforce – Secure employment > Workforce engagement > Results",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a wind turbine manufacturing and service business with no creative activity ('design' refers only to engineering)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: specific current community investment and external training plus employee development; the 35,000-beneficiary figure is not tied to a named or described program and that target was retired, so 2 was chosen over 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: specific current internal practices (DEIB networks/ERGs, cross-cultural inclusive leadership training, inclusive recruitment) with no membership or participant figures."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2"
+        ],
+        "reason": "Level 2: a specific current entrepreneurship training program for community members near projects, with no disclosed reach."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "discrimination/harassment/labour rights (EthicsLine social and human rights complaints)",
+        "quote": "In 2025, 111 (2024: 78) out of 394 (2024: 353) complaints related to social and human rights were substantiated.",
+        "section": "Sustainability statement > S1 Own workforce – Secure employment > S1-17 Social and human rights related complaints",
+        "explanation": "These cases were substantiated through Vestas' own EthicsLine process (categories include discrimination, harassment, sexual harassment, labour rights and health & safety). The report states zero severe human rights incidents and EUR 0m in fines or compensation, and discloses no outside-body finding."
+      }
+    ],
+    "notes": "The community-beneficiary target (35,000) was reached in 2025 and then replaced by a social due diligence target. Social due diligence coverage of in-scope projects fell to 20% in 2025 from 83% in 2024, which the report attributes to global restructuring. Women in Wind networks were expanded to more countries and ERGs exist in all regions, but no membership figures are given; that quote could not be used because of PDF hyphenation. Engagement with First Nations and Indigenous peoples (FPIC, cultural heritage) is described mainly as rights due diligence and commitment, not as a measured program, so it was not scored separately. The employee survey is offered in 20 languages (an internal practice, not quoted because of line hyphenation). Gender figures (women 25% of leadership, 1,572) are demographics only. The Development segment helps utility and IPP customers grow, which is not small-business enabling. A board member's Schwab Foundation role is not a company activity."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"VWS.CO\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Local community projects near wind farm projects, which reached a cumulative community-beneficiary target during the year\",\"quote\":\"During 2025, we achieved our previous target of 35,000 community beneficiaries and replaced this target with a target to conduct social due diligence on all projects in scope annually.\",\"source_doc\":\"filing\",\"section\":\"Sustainability statement > Sustainability at Vestas > Embedding sustainability > 3. Social\",\"status\":\"current\",\"indicators\":\"35,000 community beneficiaries\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment; one beneficiary figure, but the program is not named or described and its target was retired (torn with 3, lower level chosen)\"}}},{\"id\":\"E2\",\"activity\":\"Technical training, capacity building and entrepreneurship courses for community members near Vestas projects (e.g. farmers in Australia)\",\"quote\":\"Our Social Due Diligence process advanced toward full annual coverage, and global initiatives supported technical training, capacity building, and entrepreneurship in communities connected to our projects.\",\"source_doc\":\"filing\",\"section\":\"Our business > In brief > Our people > Acting responsibly across our value chain\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external skills program, limited or undisclosed reach\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific current entrepreneurship courses for community members, limited or undisclosed reach\"}}},{\"id\":\"E3\",\"activity\":\"Frontline leadership programme rolled out to Service staff\",\"quote\":\"This included the roll-out of a frontline leadership programme, piloted in 2024, to around 300 people in Service to strengthen the safety, quality, people, and cost leadership culture across the organisation.\",\"source_doc\":\"filing\",\"section\":\"Our business > Performance for the year > Service > Driving value for our customers\",\"status\":\"current\",\"indicators\":\"around 300 people\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E4\",\"activity\":\"Inclusive Leadership Programme for leaders, with a new module on working across cultures\",\"quote\":\"In 2025, we launched “Leading Across Cultures” , as the third module in the Inclusive Leadership Programme in addition to “Foundations” and “Inclusive Interactions” .\",\"source_doc\":\"filing\",\"section\":\"Sustainability statement > S1 Own workforce – Diversity > Actions and resources > Leadership and culture\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion training program with no reach figures\"}}},{\"id\":\"E5\",\"activity\":\"Inclusive recruitment practices, including bias-reducing job-ad software and DEIB statements in postings\",\"quote\":\"Job advertisements use gender- and identity- neutral language supported by the inclusive writing software “Develop Diverse”; psychometric assessments are mandatory for leadership roles; and DEIB statements are included in postings.\",\"source_doc\":\"filing\",\"section\":\"Sustainability statement > S1 Own workforce – Diversity > Actions and resources > Inclusive recruitment\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusive hiring practice, limited reach disclosed\"}}},{\"id\":\"E6\",\"activity\":\"Regional DEIB employee networks and Employee Resource Groups that feed into company practices\",\"quote\":\"Vestas also monitors gender response patterns in the EES and engaging with regional DEIB networks, which complement global results with locally grounded insights.\",\"source_doc\":\"filing\",\"section\":\"Sustainability statement > S1 Own workforce – Secure employment > Workforce engagement > Results\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes a wind turbine manufacturing and service business with no creative activity ('design' refers only to engineering).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 2: specific current community investment and external training plus employee development; the 35,000-beneficiary figure is not tied to a named or described program and that target was retired, so 2 was chosen over 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 2: specific current internal practices (DEIB networks/ERGs, cross-cultural inclusive leadership training, inclusive recruitment) with no membership or participant figures.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\"],\"reason\":\"Level 2: a specific current entrepreneurship training program for community members near projects, with no disclosed reach.\"}},\"notes\":\"The community-beneficiary target (35,000) was reached in 2025 and then replaced by a social due diligence target. Social due diligence coverage of in-scope projects fell to 20% in 2025 from 83% in 2024, which the report attributes to global restructuring. Women in Wind networks were expanded to more countries and ERGs exist in all regions, but no membership figures are given; that quote could not be used because of PDF hyphenation. Engagement with First Nations and Indigenous peoples (FPIC, cultural heritage) is described mainly as rights due diligence and commitment, not as a measured program, so it was not scored separately. The employee survey is offered in 20 languages (an internal practice, not quoted because of line hyphenation). Gender figures (women 25% of leadership, 1,572) are demographics only. The Development segment helps utility and IPP customers grow, which is not small-business enabling. A board member's Schwab Foundation role is not a company activity.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"discrimination/harassment/labour rights (EthicsLine social and human rights complaints)\",\"quote\":\"In 2025, 111 (2024: 78) out of 394 (2024: 353) complaints related to social and human rights were substantiated.\",\"section\":\"Sustainability statement > S1 Own workforce – Secure employment > S1-17 Social and human rights related complaints\",\"explanation\":\"These cases were substantiated through Vestas' own EthicsLine process (categories include discrimination, harassment, sexual harassment, labour rights and health & safety). The report states zero severe human rights incidents and EUR 0m in fines or compensation, and discloses no outside-body finding.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 107223,
+      "output_tokens": 7107,
+      "duration_ms": 60292
+    }
+  ]
+}

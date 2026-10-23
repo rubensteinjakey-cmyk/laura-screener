@@ -1,0 +1,258 @@
+{
+  "ticker": "AALI.JK",
+  "company_name": "Astra Agro Lestari",
+  "country": "Indonesia",
+  "sector": "Consumer Staples",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.astra-agro.co.id/wp-content/uploads/2026/03/AR-2025-AALI-web.pdf",
+  "english": false,
+  "words_sent": 14524,
+  "prompt_chars": 128714,
+  "approx_prompt_tokens": 32178,
+  "scored_at": "2026-10-23T13:38:19",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Village entrepreneurship programs, agricultural processing training, business mentoring and market access support for assisted village MSMEs under the Public Contribution Roadmap",
+        "quote": "Pada 2025, melalui payung Public Contribution Roadmap, Perseroan melanjutkan dan memperluas program kewirausahaan desa, pelatihan pengolahan hasil pertanian, serta penguatan akses pasar bagi Usaha, Mikro, Kecil dan Menengah (UMKM) binaan.",
+        "quote_en": "In 2025, under the Public Contribution Roadmap, the Company continued and expanded village entrepreneurship programs, agricultural processing training, and strengthening of market access for assisted micro, small and medium enterprises (MSMEs).",
+        "source_doc": "filing",
+        "section": "Annual report > Triple-P Strategy Highlights > Public Contribution > Village Economic Development and MSMEs",
+        "status": "current",
+        "indicators": "256 assisted villages (Desa); 230 assisted business groups/MSMEs (UMKM); 2,081 direct beneficiaries (Jiwa)",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: external skills training and business mentoring for village communities with participant figures"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: specific enabling program (village entrepreneurship, business mentoring, market access) with number of MSMEs assisted"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Four-pillar CSR program (Education, Health, Economic Development, Environment) for communities around plantations",
+        "quote": "Selanjutnya dalam Public Contribution Roadmap, Perseroan terus berupaya menumbuh-kembangkan kepedulian terhadap masyarakat yang hidup di sekitar perkebunan melalui kegiatan empat pilar Corporate Social Responsibility (CSR), yaitu pilar Pendidikan, Pilar Kesehatan, Pilar Pengembangan Ekonomi, dan Pilar Lingkungan Hidup.",
+        "quote_en": "Under the Public Contribution Roadmap, the Company continues to foster care for communities living around its plantations through activities under four CSR pillars: Education, Health, Economic Development, and Environment.",
+        "source_doc": "filing",
+        "section": "Annual report > Board of Directors' Report > Public Contribution Roadmap > CSR",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community programs (including an education pillar), no reach figures in the paragraph"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Breast cancer prevention outreach with Lovepink Indonesia involving villagers around plantations, health workers and employee wives' community",
+        "quote": "Astra Agro bersama Lovepink Indonesia berkolaborasi dalam upaya pencegahan kanker payudara di Kalimantan Tengah pada 6 Desember 2025 dengan melibatkan masyarakat desa sekitar perkebunan, tenaga kesehatan, serta komunitas PERISKA (Perwakilan Istri Karyawan).",
+        "quote_en": "Astra Agro, together with Lovepink Indonesia, collaborated on breast cancer prevention efforts in Central Kalimantan on December 6, 2025, involving village communities around the plantations, health workers and the PERISKA (Employee Wives' Representatives) community.",
+        "source_doc": "filing",
+        "section": "Annual report > Performance Highlights > Event Highlights 2025 > December",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community partnership with a nonprofit, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Doctoral scholarship program with Newcastle University for bio-pesticide research",
+        "quote": "Perseroan bekerja sama dengan Universitas Newcastle, Inggris, melalui program beasiswa doktoral dalam pengembangan biopestisida organik terbaru yang ramah lingkungan dan sejalan dengan prinsip Perseroan dalam menjalankan praktik budidaya tanaman berkelanjutan.",
+        "quote_en": "The Company partners with Newcastle University, UK, through a doctoral scholarship program to develop the latest environmentally friendly organic bio-pesticides, in line with the Company's sustainable cultivation principles.",
+        "source_doc": "filing",
+        "section": "Annual report > Research and Development > Collaborations",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific scholarship partnership with a university, limited disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Employee training through Astra Agro Academy, Astra Management Development Institute and external vendors",
+        "quote": "Perseroan memiliki program pelatihan yang dijalankan secara internal melalui Astra Agro Academy (AAA), Astra Management Development Institute (AMDI) dan eksternal vendor.",
+        "quote_en": "The Company has training programs run internally through Astra Agro Academy (AAA), Astra Management Development Institute (AMDI), and external vendors.",
+        "source_doc": "filing",
+        "section": "Annual report > Company Profile > Human Resource > Employee Training and Competency Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Expert Track education scholarships for researcher employees",
+        "quote": "Salah satu inisiatif strategis adalah pemberian kesempatan kepada karyawan peniliti untuk mengikuti program beasiswa pendidikan melalui skema Expert Track.",
+        "quote_en": "One strategic initiative is giving researcher employees the opportunity to pursue education scholarships through the Expert Track scheme.",
+        "source_doc": "filing",
+        "section": "Annual report > Company Profile > Human Resource > Competency and Career Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Diversity & Inclusion / Gender Committee with Women Champions in each operational area",
+        "quote": "Currently, the number of Women Champion members within the Company’s operational areas is 39.",
+        "quote_en": "Currently, the number of Women Champion members within the Company’s operational areas is 39.",
+        "source_doc": "filing",
+        "section": "Annual report > Company Profile > Human Resource > Inclusive Environment > Gender Committee and Women Champion Astra Agro",
+        "status": "current",
+        "indicators": "39 Women Champion members",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal inclusion structure; the figure counts appointed representatives, not broad network membership"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "D&I awareness program with materials placed across all subsidiaries, including schools, childcare centres and employee housing",
+        "quote": "Berbagai media informasi seperti poster dan spanduk terkait dengan D&I dibuat dan ditempatkan di berbagai tempat strategis di setiap anak perusahaan Perseroan (fasilitas umum, tempat penitipan anak, sekolah, kantor besar, dan paguyuban).",
+        "quote_en": "Various information media such as D&I posters and banners were created and placed in strategic locations in every subsidiary of the Company (public facilities, childcare centres, schools, head offices, and paguyuban).",
+        "source_doc": "filing",
+        "section": "Annual report > Company Profile > Human Resource > Inclusive Environment > D&I Awareness Program",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusion awareness activity, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "D&I training-for-trainers program to create internal D&I facilitators",
+        "quote": "Selain itu, Perseroan juga menyelenggarakan program training for trainers yang diberikan kepada perwakilan perusahaan untuk selanjutnya berperan sebagai fasilitator internal.",
+        "quote_en": "In addition, the Company also held a training-for-trainers program for company representatives, who will subsequently serve as internal facilitators.",
+        "source_doc": "filing",
+        "section": "Annual report > Company Profile > Human Resource > Inclusive Environment > D&I for Leaders",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusion training activity, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Paguyuban Mandiri employee-family housing communities with regular communal activities, described as valuing cultural diversity",
+        "quote": "Selain sebagai tempat untuk mempererat hubungan sosial antar sesama karyawan dan keluarga, paguyuban juga mencerminkan komitmen Perseroan dalam menciptakan lingkungan kerja yang inklusif, keberagaman budaya dan latar belakang dihargai serta dijaga dengan baik.",
+        "quote_en": "Besides being a place to strengthen social ties among employees and families, the paguyuban also reflects the Company's commitment to creating an inclusive work environment where cultural diversity and backgrounds are valued and well maintained.",
+        "source_doc": "filing",
+        "section": "Annual report > Company Profile > Human Resource > Industrial Relations > Paguyuban Mandiri",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: operating multicultural employee communities, limited reach evidence"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Assistance programs for plasma and independent smallholder farmers",
+        "quote": "In 2025, the Company continued its assistance programs for plasma and independent smallholders, who represent a critical component of the Company’s supply chain.",
+        "quote_en": "In 2025, the Company continued its assistance programs for plasma and independent smallholders, who represent a critical component of the Company’s supply chain.",
+        "source_doc": "filing",
+        "section": "Annual report > Triple-P Strategy Highlights > Partnership Program and Smallholder Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific assistance program for independent smallholder farm businesses, no reach figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a palm oil plantation, milling and refining business and shows no activity that creates or enables creative work."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 3: external education and community investment with reach shown by indicators (village training and mentoring across 256 villages with 2,081 direct beneficiaries), in addition to employee development."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7",
+          "E8",
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 2: specific current internal inclusion practices (D&I committee with Women Champions, awareness and trainer programs, multicultural employee communities) with limited measured reach."
+      },
+      "entrepreneurship": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E11"
+        ],
+        "reason": "Level 3: a specific village entrepreneurship and MSME mentoring and market-access program with disclosed numbers of businesses assisted (230 MSMEs)."
+      }
+    },
+    "red_flags": [],
+    "notes": "E1 figures (256 villages, 230 MSMEs, 2,081 beneficiaries) come from the infographic on the same printed page 9 as the quoted paragraph, but the text was extracted as a separate chunk. If figure verification fails, Community and Entrepreneurship should go to human review (they would likely fall to 2). The report also cites 142,625 'Community Livelihood Program Beneficiaries' (infographic) and 'at least 142 thousand people' benefiting directly from business activities (Board report). These were not recorded as a separate record because the narrative ties the figure to business activities generally and it overlaps E1/E2. The company received an 'Education for All Advocate' award (Republika ESG Now Awards 2025). Contradiction: D&I for Leaders is described as implemented, but the AMDI training table shows D&I training of 8 batches/26 employees in 2024 and none in 2025. Status is kept current per the narrative and flagged here. Gender diversity and women-in-leadership percentages (32.3%, 92.3% shown in the infographic, labels ambiguous) are demographics only and were not scored. Membership in the Orang Rimba Social Development Partnership Forum (FKPS-SAD) is listed only as a membership table entry. Employee training table: 13,199 technical training participants and 136 orientation/leadership participants in 2025; 123,540 employee training hours. Internal communications poster and brochure design is a routine input and was not scored. No red flags are shown in the text; Human Rights Due Diligence training for internal audit staff is not a finding."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "```json\n{\n  \"ticker\": \"AALI.JK\",\n  \"sector\": \"Consumer Staples\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Annual report: selected chapters\", \"Annual report: keyword paragraphs from the rest\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Village entrepreneurship programs, agricultural processing training, business mentoring and market access support for assisted village MSMEs under the Public Contribution Roadmap\",\n      \"quote\": \"Pada 2025, melalui payung Public Contribution Roadmap, Perseroan melanjutkan dan memperluas program kewirausahaan desa, pelatihan pengolahan hasil pertanian, serta penguatan akses pasar bagi Usaha, Mikro, Kecil dan Menengah (UMKM) binaan.\",\n      \"quote_en\": \"In 2025, under the Public Contribution Roadmap, the Company continued and expanded village entrepreneurship programs, agricultural processing training, and strengthening of market access for assisted micro, small and medium enterprises (MSMEs).\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Triple-P Strategy Highlights > Public Contribution > Village Economic Development and MSMEs\",\n      \"status\": \"current\",\n      \"indicators\": \"256 assisted villages (Desa); 230 assisted business groups/MSMEs (UMKM); 2,081 direct beneficiaries (Jiwa)\",\n      \"themes\": {\n        \"community\": {\"kind\": \"external_education\", \"criterion\": \"level 3: external skills training and business mentoring for village communities with participant figures\"},\n        \"entrepreneurship\": {\"kind\": \"enabling\", \"criterion\": \"level 3: specific enabling program (village entrepreneurship, business mentoring, market access) with number of MSMEs assisted\"}\n      }\n    },\n    {\n      \"id\": \"E2\",\n      \"activity\": \"Four-pillar CSR program (Education, Health, Economic Development, Environment) for communities around plantations\",\n      \"quote\": \"Selanjutnya dalam Public Contribution Roadmap, Perseroan terus berupaya menumbuh-kembangkan kepedulian terhadap masyarakat yang hidup di sekitar perkebunan melalui kegiatan empat pilar Corporate Social Responsibility (CSR), yaitu pilar Pendidikan, Pilar Kesehatan, Pilar Pengembangan Ekonomi, dan Pilar Lingkungan Hidup.\",\n      \"quote_en\": \"Under the Public Contribution Roadmap, the Company continues to foster care for communities living around its plantations through activities under four CSR pillars: Education, Health, Economic Development, and Environment.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Board of Directors' Report > Public Contribution Roadmap > CSR\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2: specific current community programs (including an education pillar), no reach figures in the paragraph\"}\n      }\n    },\n    {\n      \"id\": \"E3\",\n      \"activity\": \"Breast cancer prevention outreach with Lovepink Indonesia involving villagers around plantations, health workers and employee wives' community\",\n      \"quote\": \"Astra Agro bersama Lovepink Indonesia berkolaborasi dalam upaya pencegahan kanker payudara di Kalimantan Tengah pada 6 Desember 2025 dengan melibatkan masyarakat desa sekitar perkebunan, tenaga kesehatan, serta komunitas PERISKA (Perwakilan Istri Karyawan).\",\n      \"quote_en\": \"Astra Agro, together with Lovepink Indonesia, collaborated on breast cancer prevention efforts in Central Kalimantan on December 6, 2025, involving village communities around the plantations, health workers and the PERISKA (Employee Wives' Representatives) community.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Performance Highlights > Event Highlights 2025 > December\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2: specific current community partnership with a nonprofit, limited reach\"}\n      }\n    },\n    {\n      \"id\": \"E4\",\n      \"activity\": \"Doctoral scholarship program with Newcastle University for bio-pesticide research\",\n      \"quote\": \"Perseroan bekerja sama dengan Universitas Newcastle, Inggris, melalui program beasiswa doktoral dalam pengembangan biopestisida organik terbaru yang ramah lingkungan dan sejalan dengan prinsip Perseroan dalam menjalankan praktik budidaya tanaman berkelanjutan.\",\n      \"quote_en\": \"The Company partners with Newcastle University, UK, through a doctoral scholarship program to develop the latest environmentally friendly organic bio-pesticides, in line with the Company's sustainable cultivation principles.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Research and Development > Collaborations\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"external_education\", \"criterion\": \"level 2: specific scholarship partnership with a university, limited disclosed reach\"}\n      }\n    },\n    {\n      \"id\": \"E5\",\n      \"activity\": \"Employee training through Astra Agro Academy, Astra Management Development Institute and external vendors\",\n      \"quote\": \"Perseroan memiliki program pelatihan yang dijalankan secara internal melalui Astra Agro Academy (AAA), Astra Management Development Institute (AMDI) dan eksternal vendor.\",\n      \"quote_en\": \"The Company has training programs run internally through Astra Agro Academy (AAA), Astra Management Development Institute (AMDI), and external vendors.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Company Profile > Human Resource > Employee Training and Competency Development\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size (cap)\"}\n      }\n    },\n    {\n      \"id\": \"E6\",\n      \"activity\": \"Expert Track education scholarships for researcher employees\",\n      \"quote\": \"Salah satu inisiatif strategis adalah pemberian kesempatan kepada karyawan peniliti untuk mengikuti program beasiswa pendidikan melalui skema Expert Track.\",\n      \"quote_en\": \"One strategic initiative is giving researcher employees the opportunity to pursue education scholarships through the Expert Track scheme.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Company Profile > Human Resource > Competency and Career Development\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size (cap)\"}\n      }\n    },\n    {\n      \"id\": \"E7\",\n      \"activity\": \"Diversity & Inclusion / Gender Committee with Women Champions in each operational area\",\n      \"quote\": \"Currently, the number of Women Champion members within the Company’s operational areas is 39.\",\n      \"quote_en\": \"Currently, the number of Women Champion members within the Company’s operational areas is 39.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Company Profile > Human Resource > Inclusive Environment > Gender Committee and Women Champion Astra Agro\",\n      \"status\": \"current\",\n      \"indicators\": \"39 Women Champion members\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific internal inclusion structure; the figure counts appointed representatives, not broad network membership\"}\n      }\n    },\n    {\n      \"id\": \"E8\",\n      \"activity\": \"D&I awareness program with materials placed across all subsidiaries, including schools, childcare centres and employee housing\",\n      \"quote\": \"Berbagai media informasi seperti poster dan spanduk terkait dengan D&I dibuat dan ditempatkan di berbagai tempat strategis di setiap anak perusahaan Perseroan (fasilitas umum, tempat penitipan anak, sekolah, kantor besar, dan paguyuban).\",\n      \"quote_en\": \"Various information media such as D&I posters and banners were created and placed in strategic locations in every subsidiary of the Company (public facilities, childcare centres, schools, head offices, and paguyuban).\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Company Profile > Human Resource > Inclusive Environment > D&I Awareness Program\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific inclusion awareness activity, limited reach\"}\n      }\n    },\n    {\n      \"id\": \"E9\",\n      \"activity\": \"D&I training-for-trainers program to create internal D&I facilitators\",\n      \"quote\": \"Selain itu, Perseroan juga menyelenggarakan program training for trainers yang diberikan kepada perwakilan perusahaan untuk selanjutnya berperan sebagai fasilitator internal.\",\n      \"quote_en\": \"In addition, the Company also held a training-for-trainers program for company representatives, who will subsequently serve as internal facilitators.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Company Profile > Human Resource > Inclusive Environment > D&I for Leaders\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific inclusion training activity, no reach figures\"}\n      }\n    },\n    {\n      \"id\": \"E10\",\n      \"activity\": \"Paguyuban Mandiri employee-family housing communities with regular communal activities, described as valuing cultural diversity\",\n      \"quote\": \"Selain sebagai tempat untuk mempererat hubungan sosial antar sesama karyawan dan keluarga, paguyuban juga mencerminkan komitmen Perseroan dalam menciptakan lingkungan kerja yang inklusif, keberagaman budaya dan latar belakang dihargai serta dijaga dengan baik.\",\n      \"quote_en\": \"Besides being a place to strengthen social ties among employees and families, the paguyuban also reflects the Company's commitment to creating an inclusive work environment where cultural diversity and backgrounds are valued and well maintained.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Company Profile > Human Resource > Industrial Relations > Paguyuban Mandiri\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: operating multicultural employee communities, limited reach evidence\"}\n      }\n    },\n    {\n      \"id\": \"E11\",\n      \"activity\": \"Assistance programs for plasma and independent smallholder farmers\",\n      \"quote\": \"In 2025, the Company continued its assistance programs for plasma and independent smallholders, who represent a critical component of the Company’s supply chain.\",\n      \"quote_en\": \"In 2025, the Company continued its assistance programs for plasma and independent smallholders, who represent a critical component of the Company’s supply chain.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Triple-P Strategy Highlights > Partnership Program and Smallholder Inclusion\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"entrepreneurship\": {\"kind\": \"enabling\", \"criterion\": \"level 2: specific assistance program for independent smallholder farm businesses, no reach figures\"}\n      }\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\"score\": 0, \"coverage\": \"sufficient\", \"evidence_ids\": [], \"reason\": \"Level 0: the report fully describes a palm oil plantation, milling and refining business and shows no activity that creates or enables creative work.\"},\n    \"community\": {\"score\": 3, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\", \"E6\"], \"reason\": \"Level 3: external education and community investment with reach shown by indicators (village training and mentoring across 256 villages with 2,081 direct beneficiaries), in addition to employee development.\"},\n    \"cross_cultural\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E7\", \"E8\", \"E9\", \"E10\"], \"reason\": \"Level 2: specific current internal inclusion practices (D&I committee with Women Champions, awareness and trainer programs, multicultural employee communities) with limited measured reach.\"},\n    \"entrepreneurship\": {\"score\": 3, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E11\"], \"reason\": \"Level 3: a specific village entrepreneurship and MSME mentoring and market-access program with disclosed numbers of businesses assisted (230 MSMEs).\"}\n  },\n  \"notes\": \"E1 figures (256 villages, 230 MSMEs, 2,081 beneficiaries) come from the infographic on the same printed page 9 as the quoted paragraph, but the text was extracted as a separate chunk. If figure verification fails, Community and Entrepreneurship should go to human review (they would likely fall to 2). The report also cites 142,625 'Community Livelihood Program Beneficiaries' (infographic) and 'at least 142 thousand people' benefiting directly from business activities (Board report). These were not recorded as a separate record because the narrative ties the figure to business activities generally and it overlaps E1/E2. The company received an 'Education for All Advocate' award (Republika ESG Now Awards 2025). Contradiction: D&I for Leaders is described as implemented, but the AMDI training table shows D&I training of 8 batches/26 employees in 2024 and none in 2025. Status is kept current per the narrative and flagged here. Gender diversity and women-in-leadership percentages (32.3%, 92.3% shown in the infographic, labels ambiguous) are demographics only and were not scored. Membership in the Orang Rimba Social Development Partnership Forum (FKPS-SAD) is listed only as a membership table entry. Employee training table: 13,199 technical training participants and 136 orientation/leadership participants in 2025; 123,540 employee training hours. Internal communications poster and brochure design is a routine input and was not scored. No red flags are shown in the text; Human Rights Due Diligence training for internal audit staff is not a finding.\"\n,\n  \"red_flags\": []\n}\n```",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 55901,
+      "output_tokens": 13988,
+      "duration_ms": 117581
+    }
+  ]
+}

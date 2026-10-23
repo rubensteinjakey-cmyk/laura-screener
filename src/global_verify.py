@@ -56,7 +56,8 @@ def internal_note(internal):
     """One line for values_notes about internally substantiated cases."""
     if not internal:
         return ""
-    kinds = sorted({(r.get("case_type") or "").strip().lower() for r in internal} - {""})
+    kinds = sorted({(r.get("case_type") or "").strip().lower() for r in internal}
+                   - {"", "unspecified", "none", "n/a", "unknown"})
     what = " / ".join(kinds) if kinds else "discrimination, harassment or human-rights"
     return f"Discloses internally substantiated {what} cases; not a red flag under the rule."
 

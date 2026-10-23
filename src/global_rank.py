@@ -84,17 +84,23 @@ def main():
             results[c["ticker"]] = read_json(path)
         else:
             missing.append(c["ticker"])
-    if missing and not args.partial:
-        raise SystemExit(f"{len(missing)} company(ies) not scored yet ({', '.join(missing)}). "
-                         "Pass/Fail is ranked only once every company is scored "
-                         "(or use --partial for a preview).")
+    # Ranked once every country has been run. Companies still waiting for a
+    # document (blocked download, unclear chapters...) are "Not scored" and
+    # don't count in n; their group's Pass/Fail is marked provisional.
     groups = defaultdict(list)
     for r in results.values():
         groups[(r["country"], r["sector"])].append(r)
     for g in groups.values():
         pass_fail(g)
 
-    tag = "_PREVIEW" if missing else ""
+    tag = ""
+    by_group = defaultdict(list)
+    for c in companies:
+        if c["ticker"].upper() not in skip:
+            by_group[(c["country"], c["sector"])].append(c["ticker"])
+    flags_by_t = defaultdict(list)
+    for f in read_gflags():
+        flags_by_t[f["ticker"]].append(f["reason"])
     GOUT.mkdir(parents=True, exist_ok=True)
     with open(GOUT / f"results_global{tag}.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=FIRST + EXTRA)
@@ -105,14 +111,19 @@ def main():
                     "company_name": c["company_name"], "third_component": ""}
             r = results.get(t)
             if not r:
-                why = skip.get(t.upper()) or "not scored yet"
+                why = skip.get(t.upper()) or "; ".join(dict.fromkeys(flags_by_t.get(t, []))) \
+                    or "not scored yet"
                 w.writerow({**base, "values_result": "Not scored", "values_notes": why})
                 continue
+            grp = by_group[(r["country"], r["sector"])]
+            n_scored = sum(1 for x in grp if x in results)
             rf = ", ".join(r["red_flag_kinds"]) or "none"
             notes = (f"{'Top' if r['result'] == 'Pass' else 'Not in top'} half of "
                      f"{r['country']} {r['sector']}; {best_theme_note(r)}; red flag: {rf}"
                      + ("; non-English source" if not r.get("english", True) else "")
-                     + (f"; {r['internal_note']}" if r.get("internal_note") else ""))
+                     + (f"; {r['internal_note']}" if r.get("internal_note") else "")
+                     + (f"; PROVISIONAL: {n_scored} of {len(grp)} in this group scored"
+                        if n_scored < len(grp) else ""))
             w.writerow({
                 **base,
                 "filing_used": f"{r['form']} {r.get('fiscal_year') or ''} {r.get('url', '')}".strip(),
@@ -169,9 +180,12 @@ def main():
           "Cross-cultural/5×20 + Entrepreneurship/5×15) − "
           f"{cfg.get('red_flag_penalty', 10)} per verified red flag. Third component: TBD.", ""]
     if missing:
-        md += [f"**PREVIEW: {len(missing)} companies not scored yet.**", ""]
+        md += [f"**{len(missing)} companies not scored yet (waiting for a document; see "
+               "needs_human.csv). Groups with unscored companies are marked provisional.**", ""]
     for (country, sector), rows in sorted(groups.items()):
-        md += [f"## {country} · {sector} ({len(rows)} scored)", "",
+        total = len(by_group[(country, sector)])
+        md += [f"## {country} · {sector} ({len(rows)} of {total} scored"
+               + ("; Pass/Fail provisional" if len(rows) < total else "") + ")", "",
                "| Rank | Company | Final | Align | Red flags | Creat. | Comm. | Cross-c. | Entr. | Result |",
                "|---|---|---|---|---|---|---|---|---|---|"]
         for r in rows:

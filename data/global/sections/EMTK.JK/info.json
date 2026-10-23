@@ -1,0 +1,50 @@
+{
+  "ticker": "EMTK.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://cms.emtek.co.id/media/annual_report_attachment_en/gcib/AR-EMTEK-2025.pdf",
+  "english": false,
+  "sections": {
+    "Annual report: selected chapters": 30413,
+    "Annual report: keyword paragraphs from the rest": 9717
+  },
+  "notes": [
+    "over 40,000 words: dropped 82 lowest-relevance keyword paragraph(s) and 0 lowest-relevance chapter page(s)",
+    "non-English source"
+  ],
+  "people_words": 13146,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "2025 Business Highlights (pages 4-4)",
+    "Performance Highlights (pages 6-19)",
+    "Financial Highlights (pages 7-7)",
+    "Bonds, Sukuk, or Convertible Bonds Highlights (pages 9-11)",
+    "2025 Event Highlights (pages 9-11)",
+    "The Company at a Glance (pages 34-35)",
+    "Cultural and Sustainability Values (pages 36-36)",
+    "Nilai-Nilai Budaya dan Keberlanjutan (pages 36-36)",
+    "Human Resources (pages 61-75)",
+    "Sumber Daya Manusia (pages 61-75)",
+    "Changes in Laws and Regulations that Significantly Impact The Company (pages 98-98)",
+    "Foundation of Corporate Governance (pages 102-102)",
+    "Legal Cases with Material Impact (pages 165-165)",
+    "Management and Employee Stock Ownership Program (pages 171-171)",
+    "Program Kepemilikan Saham Manajemen dan Karyawan (pages 171-171)",
+    "Corporate Social Responsibility (pages 188-189)",
+    "Tanggung Jawab Sosial Perusahaan (pages 188-189)",
+    "Statement of Members of the Board of Commissioners and the Board of Directors on the Responsibility for the 2025 Annual Report of PT Elang Mahkota Teknologi Tbk (pages 189-189)"
+  ],
+  "chapters_skipped": [
+    "Financial Statements",
+    "Komite Pemantau Risiko",
+    "Laporan Keuangan",
+    "Nomination Committee and Remuneration Committee",
+    "Nomination and Remuneration of the Board of Commissioners and Board of Directors",
+    "Risk Management System",
+    "Risk Oversight Committee",
+    "Shareholder Information",
+    "Sistem Manajemen Risiko"
+  ],
+  "words_sent": 40150
+}

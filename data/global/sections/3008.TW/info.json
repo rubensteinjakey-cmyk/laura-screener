@@ -1,0 +1,30 @@
+{
+  "ticker": "3008.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.largan.com.tw/en/tool-download/page_en_size/file/204/2025%20Company%20Annual%20Report",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 10562,
+    "Annual report: keyword paragraphs from the rest": 2524
+  },
+  "notes": [],
+  "people_words": 3168,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to Shareholders (pages 4-4)",
+    "Presidents, and heads of departments and divisions (pages 5-9)",
+    "Compensation of Directors, Supervisors, President, and Vice Presidents (pages 10-15)",
+    "Issuance of employee stock options (pages 62-62)",
+    "Operational Highlights (pages 63-69)",
+    "Overview of the Market and Production and Sales (pages 70-74)",
+    "Number of employees for the two most recent years (pages 75-83)"
+  ],
+  "chapters_skipped": [
+    "Cash Flow",
+    "Risk Management and Assessment",
+    "and Financial Performance, and Risk Management"
+  ],
+  "words_sent": 13106
+}

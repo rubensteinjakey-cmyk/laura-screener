@@ -1,0 +1,25 @@
+{
+  "ticker": "HMSP.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.sampoerna.com/content/dam/pmicom/affiliates/sampoerna/docs/annua-report-and-sustainability-report-2025.pdf",
+  "english": false,
+  "sections": {
+    "Annual report: selected chapters": 607,
+    "Annual report: keyword paragraphs from the rest": 26
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Highlights (pages 3-3)",
+    "Tanggung Jawab Sosial dan Lingkungan (pages 5-5)",
+    "Corporate Social and Environmental (pages 5-5)",
+    "Responsibility Statements of the Board of (pages 6-6)"
+  ],
+  "chapters_skipped": [
+    "Laporan Keuangan 2025"
+  ],
+  "problem": "only 653 words of narrative text: probably the financial report alone, not the full annual report (a teammate should check which document is the annual report / business report)"
+}

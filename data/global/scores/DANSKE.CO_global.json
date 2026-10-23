@@ -1,0 +1,288 @@
+{
+  "ticker": "DANSKE.CO",
+  "company_name": "Danske Bank",
+  "country": "Denmark",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://danskebank.com/-/media/danske-bank-com/file-cloud/2026/2/annual-report-2025.pdf?rev=16af459cfa094b8ab365a911a324f7f2",
+  "english": true,
+  "words_sent": 39956,
+  "prompt_chars": 303177,
+  "approx_prompt_tokens": 75794,
+  "scored_at": "2026-10-23T13:00:34",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Leadership development programme for employees, expanded in 2025 and made digitally accessible to all staff",
+        "quote": "Our leadership development programme was expanded to build stronger leadership capabilities for strategic execution, seeing a 50% increase in participation, and we digitalised content from the programme to offer full digital accessibility for all employees.",
+        "source_doc": "filing",
+        "section": "Annual report > Management's report > Strategy execution",
+        "status": "current",
+        "indicators": "50% increase in participation",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Graduate, apprenticeship and reskilling programmes for early-career employees",
+        "quote": "Early-career employees are supported through dedicated graduate and apprenticeship programmes and reskilling programmes, all of which helps us to cultivate a diverse pipeline of future skills.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Own workforce > Training and skills development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Danske Bank advisers give financial education to secondary-school students and start-ups through two Fonden for Entreprenørskab programmes (Danish Entrepreneur Festival, Company Programme)",
+        "quote": "In Denmark, Danske Bank supports two programmes through Fonden for Entreprenørskab (owned by the Danish Ministry of business) by providing financial education from Danske Bank advisers to students at secondary schools and to start-ups.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness",
+        "status": "current",
+        "indicators": "2,100 students and teachers (Danish Entrepreneur Festival, 2024); 1,500 participants (Company Programme, school year 2024/2025)",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education programmes with participant numbers"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific free advisory/education programme for start-ups and student ventures; participant figures do not count businesses helped"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Money Smart financial literacy programme for children and young adults in Northern Ireland",
+        "quote": "In Northern Ireland, Danske Bank runs the Money Smart financial literacy programme, a module-based initiative covering topics such as the role of a bank, fraud, credit, budgeting and financial independence.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific named external education programme, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Financial education for young people in Finland with the Deaconess Foundation",
+        "quote": "In Finland, Danske Bank also supports the Deaconess Foundation by providing financial education to young people.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education partnership, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Women's Academy: a six-to-eight-week programme for students, now with a Tech edition",
+        "quote": "Furthermore, our Women’s Academy, which is a six-to-eight-week programme for students that aims to inspire, encourage and learn from young women interested in joining the banking sector, further seeks to attract and provide equal opportunities.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Own workforce > Equal treatment and opportunities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external programme for students, no participant figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Time2Give corporate volunteering: employees work with the Association for Senior Work to promote safe digital use by seniors",
+        "quote": "Through the programme, employees are encouraged to collaborate with the Association for Senior Work to promote safe digital interactions for seniors.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Consumers and end-users > Financial inclusion > Finland",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: named volunteering programme with a nonprofit partner, no figures"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Employee resource groups, including Danske Rainbow Network, Internationals Community and Neurodiversity Community",
+        "quote": "We support and encourage the establishment of employee resource groups, which are voluntary employee-led networks that spark conversations and learning. Such groups include Women in Danske, Danske Rainbow Network, Danske Bank Internationals Community, Neurodiversity Community, Danske Stress Network, Young Minds and Danske Babies.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Own workforce > Equal treatment and opportunities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "First Group-wide DE&I Theme Week, with inclusion training and sessions on neurodiversity and LGBTQ+ topics",
+        "quote": "In June 2025, Danske Bank also hosted its first global Group-wide DE&I Theme Week with the theme Blueprint for Belonging.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Own workforce > Equal treatment and opportunities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal inclusion programme, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Danske Hverdag+ customer package for blind and visually impaired customers, built with the Danish Blind Society",
+        "quote": "Danske Bank remains committed to collaborating with the Danish Blind Society (Dansk Blindesamfund) through the Danske Hverdag+ customer package, designed to support blind and visually impaired customers by providing tailored services.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific accessibility product for customers with disabilities, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Sunflower Programme: dedicated phone line and advisory-centre support for customers with hidden disabilities",
+        "quote": "To help those of our customers who have hidden disabilities or special needs to get the right help and to feel confident when interacting with Danske Bank, we have launched our Sunflower Programme.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: named accessibility programme, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Accessibility features for visually impaired customers in Finnish eBanking and mobile banking",
+        "quote": "These include accessibility features such as voice-over and screen reader for visually impaired individuals in our eBanking and mobile banking solutions.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: accessibility features in digital channels, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Expanded collaboration with the European Investment Fund to support SME investment",
+        "quote": "Lastly, we expanded our collaboration with the European Investment Fund to support small and medium-sized businesses investing in sustainability, innovation and digitalisation.",
+        "source_doc": "filing",
+        "section": "Annual report > Management's report > Strategy execution > Business Customers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: SME financing support, not described as targeting barriers to starting or growing a business"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a banking, pension and insurance business with no creative activity created or enabled."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 3: external education through named Fonden for Entreprenørskab programmes with participant numbers (2,100 and 1,500), alongside other financial-literacy programmes and employee development."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E8",
+          "E9",
+          "E10",
+          "E11",
+          "E12"
+        ],
+        "reason": "Level 2: specific current activities (employee resource groups, a DE&I week, accessibility services for customers with disabilities) but no membership or reach figures."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3"
+        ],
+        "reason": "Level 2: a specific advisory and education programme for start-ups and student ventures, with no count of businesses helped; other SME activity is ordinary serving."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "discrimination/harassment",
+        "quote": "In terms of incidents and complaints reported through our whistleblowing system, 26 incidents related to discrimination within the Group’s workforce were logged in 2025 (2024: 16 incidents).",
+        "section": "Annual report > Sustainability Statement > Own workforce > Culture and Engagement Survey (CES)",
+        "explanation": "Internal whistleblowing reports of discrimination, bullying or harassment logged in 2025. The report does not say how many were substantiated. It states no material fines, penalties or severe human rights incidents, and no outside finding. Recorded for the team's note only; it costs no points."
+      }
+    ],
+    "notes": "The Danish Entrepreneur Festival figure (2,100) refers to the 2024 event; the Company Programme figure (1,500) covers school year 2024/2025. E3 counts once under Community and once under Entrepreneurship, because it independently meets both themes' criteria. Employee resource groups have no membership figures, and the statement that they 'will be included as sounding boards' for DE&I action plans is planned, not current. The Danske Bank Internationals Community (Danish lessons, culture fair) is covered within E8 to avoid double counting. Several items are not counted as cross-cultural evidence: HSB Bospar (approximately 120,000 savers), public-housing lending (DKK 105 billion), ARA loans, first-time-buyer offers, and basic payment accounts, which are regulatory. These are treated as general financial inclusion and housing finance, not cultural or underserved-community access programmes. Gender-balance targets and pay-gap data are demographic disclosures. Mandatory compliance training is not counted. The arms and defence position statement and lending to defence-sector customers show financing, not weapons manufacturing."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DANSKE.CO\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Leadership development programme for employees, expanded in 2025 and made digitally accessible to all staff\",\"quote\":\"Our leadership development programme was expanded to build stronger leadership capabilities for strategic execution, seeing a 50% increase in participation, and we digitalised content from the programme to offer full digital accessibility for all employees.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Management's report > Strategy execution\",\"status\":\"current\",\"indicators\":\"50% increase in participation\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E2\",\"activity\":\"Graduate, apprenticeship and reskilling programmes for early-career employees\",\"quote\":\"Early-career employees are supported through dedicated graduate and apprenticeship programmes and reskilling programmes, all of which helps us to cultivate a diverse pipeline of future skills.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Own workforce > Training and skills development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Danske Bank advisers give financial education to secondary-school students and start-ups through two Fonden for Entreprenørskab programmes (Danish Entrepreneur Festival, Company Programme)\",\"quote\":\"In Denmark, Danske Bank supports two programmes through Fonden for Entreprenørskab (owned by the Danish Ministry of business) by providing financial education from Danske Bank advisers to students at secondary schools and to start-ups.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness\",\"status\":\"current\",\"indicators\":\"2,100 students and teachers (Danish Entrepreneur Festival, 2024); 1,500 participants (Company Programme, school year 2024/2025)\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education programmes with participant numbers\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific free advisory/education programme for start-ups and student ventures; participant figures do not count businesses helped\"}}},{\"id\":\"E4\",\"activity\":\"Money Smart financial literacy programme for children and young adults in Northern Ireland\",\"quote\":\"In Northern Ireland, Danske Bank runs the Money Smart financial literacy programme, a module-based initiative covering topics such as the role of a bank, fraud, credit, budgeting and financial independence.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific named external education programme, no reach figures\"}}},{\"id\":\"E5\",\"activity\":\"Financial education for young people in Finland with the Deaconess Foundation\",\"quote\":\"In Finland, Danske Bank also supports the Deaconess Foundation by providing financial education to young people.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education partnership, no reach figures\"}}},{\"id\":\"E6\",\"activity\":\"Women's Academy: a six-to-eight-week programme for students, now with a Tech edition\",\"quote\":\"Furthermore, our Women’s Academy, which is a six-to-eight-week programme for students that aims to inspire, encourage and learn from young women interested in joining the banking sector, further seeks to attract and provide equal opportunities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Own workforce > Equal treatment and opportunities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external programme for students, no participant figures\"}}},{\"id\":\"E7\",\"activity\":\"Time2Give corporate volunteering: employees work with the Association for Senior Work to promote safe digital use by seniors\",\"quote\":\"Through the programme, employees are encouraged to collaborate with the Association for Senior Work to promote safe digital interactions for seniors.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Consumers and end-users > Financial inclusion > Finland\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: named volunteering programme with a nonprofit partner, no figures\"}}},{\"id\":\"E8\",\"activity\":\"Employee resource groups, including Danske Rainbow Network, Internationals Community and Neurodiversity Community\",\"quote\":\"We support and encourage the establishment of employee resource groups, which are voluntary employee-led networks that spark conversations and learning. Such groups include Women in Danske, Danske Rainbow Network, Danske Bank Internationals Community, Neurodiversity Community, Danske Stress Network, Young Minds and Danske Babies.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Own workforce > Equal treatment and opportunities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}},{\"id\":\"E9\",\"activity\":\"First Group-wide DE&I Theme Week, with inclusion training and sessions on neurodiversity and LGBTQ+ topics\",\"quote\":\"In June 2025, Danske Bank also hosted its first global Group-wide DE&I Theme Week with the theme Blueprint for Belonging.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Own workforce > Equal treatment and opportunities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific internal inclusion programme, no reach figures\"}}},{\"id\":\"E10\",\"activity\":\"Danske Hverdag+ customer package for blind and visually impaired customers, built with the Danish Blind Society\",\"quote\":\"Danske Bank remains committed to collaborating with the Danish Blind Society (Dansk Blindesamfund) through the Danske Hverdag+ customer package, designed to support blind and visually impaired customers by providing tailored services.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific accessibility product for customers with disabilities, no reach figures\"}}},{\"id\":\"E11\",\"activity\":\"Sunflower Programme: dedicated phone line and advisory-centre support for customers with hidden disabilities\",\"quote\":\"To help those of our customers who have hidden disabilities or special needs to get the right help and to feel confident when interacting with Danske Bank, we have launched our Sunflower Programme.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: named accessibility programme, no reach figures\"}}},{\"id\":\"E12\",\"activity\":\"Accessibility features for visually impaired customers in Finnish eBanking and mobile banking\",\"quote\":\"These include accessibility features such as voice-over and screen reader for visually impaired individuals in our eBanking and mobile banking solutions.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > Consumers and end-users > Financial literacy and inclusiveness\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: accessibility features in digital channels, no reach figures\"}}},{\"id\":\"E13\",\"activity\":\"Expanded collaboration with the European Investment Fund to support SME investment\",\"quote\":\"Lastly, we expanded our collaboration with the European Investment Fund to support small and medium-sized businesses investing in sustainability, innovation and digitalisation.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Management's report > Strategy execution > Business Customers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: SME financing support, not described as targeting barriers to starting or growing a business\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes a banking, pension and insurance business with no creative activity created or enabled.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\",\"E6\",\"E7\"],\"reason\":\"Level 3: external education through named Fonden for Entreprenørskab programmes with participant numbers (2,100 and 1,500), alongside other financial-literacy programmes and employee development.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E8\",\"E9\",\"E10\",\"E11\",\"E12\"],\"reason\":\"Level 2: specific current activities (employee resource groups, a DE&I week, accessibility services for customers with disabilities) but no membership or reach figures.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\"],\"reason\":\"Level 2: a specific advisory and education programme for start-ups and student ventures, with no count of businesses helped; other SME activity is ordinary serving.\"}},\"notes\":\"The Danish Entrepreneur Festival figure (2,100) refers to the 2024 event; the Company Programme figure (1,500) covers school year 2024/2025. E3 counts once under Community and once under Entrepreneurship, because it independently meets both themes' criteria. Employee resource groups have no membership figures, and the statement that they 'will be included as sounding boards' for DE&I action plans is planned, not current. The Danske Bank Internationals Community (Danish lessons, culture fair) is covered within E8 to avoid double counting. Several items are not counted as cross-cultural evidence: HSB Bospar (approximately 120,000 savers), public-housing lending (DKK 105 billion), ARA loans, first-time-buyer offers, and basic payment accounts, which are regulatory. These are treated as general financial inclusion and housing finance, not cultural or underserved-community access programmes. Gender-balance targets and pay-gap data are demographic disclosures. Mandatory compliance training is not counted. The arms and defence position statement and lending to defence-sector customers show financing, not weapons manufacturing.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"discrimination/harassment\",\"quote\":\"In terms of incidents and complaints reported through our whistleblowing system, 26 incidents related to discrimination within the Group’s workforce were logged in 2025 (2024: 16 incidents).\",\"section\":\"Annual report > Sustainability Statement > Own workforce > Culture and Engagement Survey (CES)\",\"explanation\":\"Internal whistleblowing reports of discrimination, bullying or harassment logged in 2025. The report does not say how many were substantiated. It states no material fines, penalties or severe human rights incidents, and no outside finding. Recorded for the team's note only; it costs no points.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 105145,
+      "output_tokens": 10332,
+      "duration_ms": 85330
+    }
+  ]
+}

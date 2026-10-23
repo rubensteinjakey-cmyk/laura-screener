@@ -374,9 +374,9 @@ def extract_company(company, cfg, force=False):
         return
     sent, verify_text = res
     if info["kind"] != "20-F" and word_count(sent) < MIN_NARRATIVE_WORDS:
-        problem = (f"only {word_count(sent):,} words of narrative text: probably the financial "
-                   "report alone, not the full annual report (a teammate should check which "
-                   "document is the annual report / business report)")
+        problem = (f"only {word_count(sent):,} words of narrative text picked: either the "
+                   "document is the financial report alone, or its contents page couldn't be "
+                   "read correctly (a teammate should check the document and its chapters)")
         gflag(t, STEP, "wrong document? too little narrative text; not scored", problem)
         log(STEP, f"{t}: {problem} - not scored")
         info["problem"] = problem

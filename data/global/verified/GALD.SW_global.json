@@ -1,0 +1,254 @@
+{
+  "ticker": "GALD.SW",
+  "company_name": "Galderma Group",
+  "country": "Switzerland",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.galderma.com/sites/default/files/2026-03/galderma_ar_2025_consolidated-doc_8b_260304_-_full.pdf",
+  "english": true,
+  "words_sent": 23690,
+  "themes": {
+    "creativity": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E6",
+        "E7"
+      ],
+      "valid_evidence_ids": [
+        "E6",
+        "E7"
+      ],
+      "kinds": [
+        "uses_as_input"
+      ],
+      "reason": "Level 1: the only creative activity is brand marketing content (podcast, influencer content) used as a routine business input, and the core business is dermatology products.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 3: GAIN is a named external education program with large measured reach (more than 100,000 HCPs trained across over 10,000 events), supported by Camp Wonder community investment and employee development; level 4 was not chosen because the training is aimed at customers and partly commercial, so the lower level applies.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4",
+        "E5"
+      ],
+      "valid_evidence_ids": [
+        "E4",
+        "E5"
+      ],
+      "kinds": [
+        "demographics_only",
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific current internal gender-diversity practices with no reach figures, plus demographic disclosure and anti-discrimination policy.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1, resting on general description only: customers include independent aesthetic practitioners, and GAIN ASCENT includes a business-skills component, but no specific program is aimed at barriers to starting or growing a business.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 1,
+    "community": 3,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 36.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [],
+  "internal_note": "",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 36.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Galderma Aesthetic Injector Network (GAIN), a global hands-on clinical training platform for external aesthetic practitioners, with in-person events, the GAIN Connect e-learning platform and the GAIN ASCENT program for emerging injectors",
+      "quote": "In 2025, we trained more than 100,000 healthcare professionals across over 10,000 GAIN events.",
+      "source_doc": "filing",
+      "section": "Annual report > Shaping the future of dermatology: market-leading education and services > A premium worldwide network of injectors",
+      "status": "current",
+      "indicators": "more than 100,000 healthcare professionals; over 10,000 GAIN events; more than 800 expert trainers",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 3: named external education program with substantial measured reach (participants, events); central to strategy but partly commercial/customer-facing, so the lower level is chosen"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Long-running support for Camp Wonder (Children's Skin Disease Foundation) through funding, product donations and employee volunteering",
+      "quote": "In 2025, four volunteers from across our business joined as Camp Wonder volunteers to help make camp a safe and carefree space for kids living with chronic skin conditions.",
+      "source_doc": "filing",
+      "section": "Annual report > One global team > Celebrating 25 years of impact at Camp Wonder",
+      "status": "current",
+      "indicators": "four volunteers",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current nonprofit partnership with volunteering, limited in reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Employee development through stretch assignments, cross-functional moves, formal learning, coaching and mentoring",
+      "quote": "Meaningful development through stretch assignments, cross-functional moves, formal learning, coaching and mentoring supports continuous progression.",
+      "source_doc": "filing",
+      "section": "Annual report > One global team > Nurturing future success",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Global gender-diversity hiring and succession practices, including removing gender-coded language from job postings and tracking diversity in hiring and succession",
+      "quote": "These include but are not limited to removing gender-coded language in job postings, tracking gender diversity throughout our hiring process to ensure a balanced representation of candidates, actively tracking diversity in succession planning, including for senior roles, and launching both global and local diversity and inclusion initiatives.",
+      "source_doc": "filing",
+      "section": "Annual report > Part 3 Report on non-financial matters > Labor practices > Approach",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current internal inclusion practices with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Disclosure of the share of women in management against a target",
+      "quote": "Despite the decrease, Galderma remains above its mid-term ambition of at least 40% women in Galderma management.",
+      "source_doc": "filing",
+      "section": "Annual report > Part 3 Report on non-financial matters > Labor practices > Performance",
+      "status": "current",
+      "indicators": "at least 40%",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: workforce demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Branded podcast and video series hosted by the CEO about dermatology and aesthetics",
+      "quote": "Beauty x Medicine is Galderma’s podcast and video series examining the intersection of science, aesthetics and clinical practice in dermatology.",
+      "source_doc": "filing",
+      "section": "Annual report > In focus: Beauty × Medicine",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "uses_as_input",
+          "criterion": "level 1: brand content and marketing storytelling used as a routine business input"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Cetaphil influencer and content marketing program targeting Gen Z and Gen Alpha",
+      "quote": "Across nine countries, the program delivered authentic, always-on content that resonated with culture, sparked meaningful conversations, and strengthened Gen Z and Gen Alpha’s emotional connection with the brand.",
+      "source_doc": "filing",
+      "section": "Annual report > In focus: strengthening our connection with the next generation",
+      "status": "current",
+      "indicators": "nine countries",
+      "themes": {
+        "creativity": {
+          "kind": "uses_as_input",
+          "criterion": "level 1: marketing content used as a routine business input"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "GAIN is described both as genuine clinical skills education and as a commercial tool to 'drive penetration and increase loyalty', so it is scored as external education at level 3 rather than 4. Aggregate HCP reach was 295,704 in 2025 (over 290,000 reached), up from 226,601, against a target of >250,000 annually by 2030; this KPI is linked to executive short-term incentives. The aggregate also includes SKIN (65 HCPs at the Berlin summit), GSSF and MSL activities, which are not recorded separately to avoid double counting. GAIN ASCENT's 'business skills' component was considered for Entrepreneurship but is ancillary to clinical training, so Entrepreneurship stays at 1. A planned Hortolândia Center of Excellence (opening 2027) to train Latin American HCPs is planned and not scored. Camp Wonder funding totals ~2 million USD since 2012, but that figure sits in a separate paragraph from the quote. The Speak Up indicator is only defined; no substantiated case counts are disclosed in the provided text.",
+  "extract_notes": [],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 11774,
+  "score_source": "Annual report 2025",
+  "second_look": null
+}

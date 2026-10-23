@@ -1,0 +1,30 @@
+{
+  "ticker": "2357.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.asus.com/EVENT/Investor/Content/attachment_en/2025_Annual_Report_en.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 19079,
+    "Annual report: keyword paragraphs from the rest": 11379
+  },
+  "notes": [],
+  "people_words": 6883,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to shareholders (pages 4-6)",
+    "Directors, President, Vice President, Assistant V.P., and Department Heads (pages 7-28)",
+    "6. Limit on Employee New Bonus Share ……………………………………………... (pages 112-112)",
+    "Overview of business operation (pages 113-118)",
+    "Status of employees (pages 125-125)",
+    "Employee / employer relation s (pages 126-143)"
+  ],
+  "chapters_skipped": [
+    "Cash flows Analysis",
+    "Review of financial position, financial performance and risk management",
+    "Risk management",
+    "worked for the independent auditor or the related party in the most recent years"
+  ],
+  "words_sent": 30478
+}

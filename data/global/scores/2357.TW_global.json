@@ -1,0 +1,288 @@
+{
+  "ticker": "2357.TW",
+  "company_name": "ASUS",
+  "country": "Taiwan",
+  "sector": "Information Technology",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.asus.com/EVENT/Investor/Content/attachment_en/2025_Annual_Report_en.pdf",
+  "english": true,
+  "words_sent": 30478,
+  "prompt_chars": 231291,
+  "approx_prompt_tokens": 57822,
+  "scored_at": "2026-10-23T13:25:02",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Heartfelt 99 student short-film contest co-organized with Taiwan PTS, with campus lecture tours and volunteer video workshops",
+        "quote": "The Foundation also promotes image education through short film competitions, ASUS volunteer video workshops, and campus lecture tours.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (5) Heartfelt 99 project under Taiwan PTS",
+        "status": "current",
+        "indicators": "399 submissions; 6 campus lectures; 756 students; 1,197 students; over 5,200 works; more than 13,000 students",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 3: named, ongoing arts-education (film) program with participant numbers"
+          },
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program for students with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Sponsorship of domestic arts and culture, including instructor and training fees for youth orchestra, choir, drum and lion dance teams",
+        "quote": "In 2025, ASUS supported the development of domestic culture by committing a total of NT$7.4 million in sponsorship.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (7) Support the development of domestic arts and culture",
+        "status": "current",
+        "indicators": "NT$7.4 million",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2-3: arts sponsorship and youth arts training with dollars disclosed"
+          },
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: sponsorship of school and youth arts teams"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Sponsoring instructor fees for an art collective of autistic youth and exhibiting their work at the ASUS Art Gallery",
+        "quote": "In terms of cultural equity, ASUS supports autistic youth in their pursuit of artistic and musical creation.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (7) Support the development of domestic arts and culture",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific support for artists, limited reach"
+          },
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific inclusion program for people with disabilities, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Providing ASUS phones free of charge to Taiwanese drama filming teams",
+        "quote": "In 2025, a total of 2 drama programs were supported: The Wedding I Owed You and Supernatural Pampers, contributing to Taiwan's film and television industry.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (7) Support the development of domestic arts and culture",
+        "status": "current",
+        "indicators": "2 drama programs",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific support for film/TV production, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Creator laptops as one of several laptop product lines",
+        "quote": "ASUS continues to invest R&D resources in new types of computer products, such as AI PCs, gaming laptops, creator laptops, commercial laptops, and Chrome OS new -category computing devices.",
+        "source_doc": "filing",
+        "section": "Annual report > Overview of Business Operation > Research and Development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: creator product line with no disclosed revenue or users"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "ASUS Foundation refurbished-computer donation and digital training for NPOs serving underprivileged children, seniors, people with disabilities and new immigrants",
+        "quote": "Through the donation of refurbished computers and the provision of software courses and teaching materials, the total number of direct and indirect beneficiaries exceeded 200,000 person-times in 2025.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (1) Refurbished Computer and Digital Training Program",
+        "status": "current",
+        "indicators": "200,000 person-times",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external digital-education program with beneficiary numbers"
+          },
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 3: named program serving people with disabilities and new immigrants, with reach figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Digital learning centers established with NPOs in developing countries (Taiwan Digital Opportunity Center / Digital Cultivation Program)",
+        "quote": "Over the past 16 years, ASUS has assisted 50 countries in establishing digital learning centers, donating more than 30,000 information devices, including new ASUS computers, refurbished computers, and tablets.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (2) Digital Opportunity Center",
+        "status": "current",
+        "indicators": "16 years; 50 countries; more than 30,000 information devices",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with measured reach"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "International volunteer program with university teams building digital learning environments in remote areas",
+        "quote": "To date, the program has served over 30,000 teachers and students in remote areas, helping to build digital learning environments and promote educational equity.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (4) ASUS international volunteer worker project",
+        "status": "current",
+        "indicators": "over 30,000 teachers and students; seven universities",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Indigenous Tribes, Digital Care computer donations to tribal schools, culture and health stations",
+        "quote": "Since 2019, ASUS has promoted the \"Indigenous Tribes, Digital Care\" refurbished computer donation project, with a cumulative total of over 1,000 refurbished computers donated to date.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (1) Refurbished Computer and Digital Training Program",
+        "status": "current",
+        "indicators": "over 1,000 refurbished computers; 120 refurbished computers",
+        "themes": {
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 3: named program for indigenous communities with numbers"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Hiring employees with mental disabilities and hosting the Children Are Us Bakery in the staff canteen",
+        "quote": "ASUS has recruited 9 full-time employees with menta l disabilities since 2008.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (6) The Growth and Training Program of Children Are Us",
+        "status": "current",
+        "indicators": "9 full-time employees",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusive hiring practice, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Charitable donations to social welfare organizations and disaster relief for Hualien",
+        "quote": "Furthermore, in 2025, ASUS provided over NT$3 million in emergency aid for the Mataian area in Hualien, Taiwan.",
+        "source_doc": "filing",
+        "section": "Annual report > Corporate Social Responsibility > Social engagement > (8) Money collection, fund raising, and donation of materials",
+        "status": "current",
+        "indicators": "38 social welfare organizations; over NT$40 million; over NT$3 million",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with dollars disclosed"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Group-wide employee training and talent development",
+        "quote": "Total training hours across the group reached 387,112 hours, averaging 22.9 hours per employee.",
+        "source_doc": "filing",
+        "section": "Annual report > Overview of Business Operation > Employee/employer relations > Employee Development and Training",
+        "status": "current",
+        "indicators": "387,112 hours; 22.9 hours per employee",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5"
+        ],
+        "reason": "Level 3: a named, ongoing film-education program with participant numbers plus NT$7.4 million arts sponsorship, but creative enablement is not a major reported segment."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E6",
+          "E7",
+          "E8",
+          "E11",
+          "E12"
+        ],
+        "reason": "Level 3: external digital-education programs and community investment with substantial measured reach, run through the ASUS Foundation rather than central to business strategy."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E6",
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 3: named programs serving indigenous communities, people with disabilities and new immigrants, with reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own innovation and 'startup creativity'; no enabling service for founders or small businesses is described."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "unspecified human rights risk incidents (harassment and workplace bullying handling described)",
+        "quote": "In 2025, all identified human rights risk incidents across the Company's operations and supply chain were fully investigated and remediated, with ongoing tracking of improvement progress.",
+        "section": "Annual report > Corporate Governance > Social issues > Human Rights Due Diligence",
+        "explanation": "The company's own due diligence identified and remediated human rights risk incidents, with none rated high risk. No court, regulator or outside-body finding is disclosed. Listed for the team's notes only; no points deducted."
+      }
+    ],
+    "notes": "Business is 97.98% 3C hardware. Creator laptops and creator-segment motherboards are mentioned without revenue, so they stay below level 4. Gaming hardware and eSports-promotion subsidiaries were not counted as creative work. E9 (indigenous project) is a named sub-project of the broader refurbished-computer program (E6); E9 is cited only for cross-cultural to limit overlap, but the 200,000 person-times figure in E6 may include it. The Digital Opportunity Center's 2009-2014 APEC phase is past; only the ongoing TDOC/Digital Cultivation work was scored. Hua-Cheng Venture Capital invests in computer peripheral businesses and is not described as a founder-enabling program. 'Weaponization of generative AI' is a cybersecurity phrase, not a weapons flag. Many Community and Cross-cultural activities are run through the ASUS Foundation, which the company funds by board-approved donation."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"2357.TW\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Heartfelt 99 student short-film contest co-organized with Taiwan PTS, with campus lecture tours and volunteer video workshops\",\"quote\":\"The Foundation also promotes image education through short film competitions, ASUS volunteer video workshops, and campus lecture tours.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (5) Heartfelt 99 project under Taiwan PTS\",\"status\":\"current\",\"indicators\":\"399 submissions; 6 campus lectures; 756 students; 1,197 students; over 5,200 works; more than 13,000 students\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 3: named, ongoing arts-education (film) program with participant numbers\"},\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program for students with participant numbers\"}}},{\"id\":\"E2\",\"activity\":\"Sponsorship of domestic arts and culture, including instructor and training fees for youth orchestra, choir, drum and lion dance teams\",\"quote\":\"In 2025, ASUS supported the development of domestic culture by committing a total of NT$7.4 million in sponsorship.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (7) Support the development of domestic arts and culture\",\"status\":\"current\",\"indicators\":\"NT$7.4 million\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2-3: arts sponsorship and youth arts training with dollars disclosed\"},\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: sponsorship of school and youth arts teams\"}}},{\"id\":\"E3\",\"activity\":\"Sponsoring instructor fees for an art collective of autistic youth and exhibiting their work at the ASUS Art Gallery\",\"quote\":\"In terms of cultural equity, ASUS supports autistic youth in their pursuit of artistic and musical creation.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (7) Support the development of domestic arts and culture\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific support for artists, limited reach\"},\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 2: specific inclusion program for people with disabilities, limited reach\"}}},{\"id\":\"E4\",\"activity\":\"Providing ASUS phones free of charge to Taiwanese drama filming teams\",\"quote\":\"In 2025, a total of 2 drama programs were supported: The Wedding I Owed You and Supernatural Pampers, contributing to Taiwan's film and television industry.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (7) Support the development of domestic arts and culture\",\"status\":\"current\",\"indicators\":\"2 drama programs\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific support for film/TV production, limited reach\"}}},{\"id\":\"E5\",\"activity\":\"Creator laptops as one of several laptop product lines\",\"quote\":\"ASUS continues to invest R&D resources in new types of computer products, such as AI PCs, gaming laptops, creator laptops, commercial laptops, and Chrome OS new -category computing devices.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Overview of Business Operation > Research and Development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: creator product line with no disclosed revenue or users\"}}},{\"id\":\"E6\",\"activity\":\"ASUS Foundation refurbished-computer donation and digital training for NPOs serving underprivileged children, seniors, people with disabilities and new immigrants\",\"quote\":\"Through the donation of refurbished computers and the provision of software courses and teaching materials, the total number of direct and indirect beneficiaries exceeded 200,000 person-times in 2025.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (1) Refurbished Computer and Digital Training Program\",\"status\":\"current\",\"indicators\":\"200,000 person-times\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external digital-education program with beneficiary numbers\"},\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 3: named program serving people with disabilities and new immigrants, with reach figures\"}}},{\"id\":\"E7\",\"activity\":\"Digital learning centers established with NPOs in developing countries (Taiwan Digital Opportunity Center / Digital Cultivation Program)\",\"quote\":\"Over the past 16 years, ASUS has assisted 50 countries in establishing digital learning centers, donating more than 30,000 information devices, including new ASUS computers, refurbished computers, and tablets.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (2) Digital Opportunity Center\",\"status\":\"current\",\"indicators\":\"16 years; 50 countries; more than 30,000 information devices\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with measured reach\"}}},{\"id\":\"E8\",\"activity\":\"International volunteer program with university teams building digital learning environments in remote areas\",\"quote\":\"To date, the program has served over 30,000 teachers and students in remote areas, helping to build digital learning environments and promote educational equity.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (4) ASUS international volunteer worker project\",\"status\":\"current\",\"indicators\":\"over 30,000 teachers and students; seven universities\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with participant numbers\"}}},{\"id\":\"E9\",\"activity\":\"Indigenous Tribes, Digital Care computer donations to tribal schools, culture and health stations\",\"quote\":\"Since 2019, ASUS has promoted the \\\"Indigenous Tribes, Digital Care\\\" refurbished computer donation project, with a cumulative total of over 1,000 refurbished computers donated to date.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (1) Refurbished Computer and Digital Training Program\",\"status\":\"current\",\"indicators\":\"over 1,000 refurbished computers; 120 refurbished computers\",\"themes\":{\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 3: named program for indigenous communities with numbers\"}}},{\"id\":\"E10\",\"activity\":\"Hiring employees with mental disabilities and hosting the Children Are Us Bakery in the staff canteen\",\"quote\":\"ASUS has recruited 9 full-time employees with menta l disabilities since 2008.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (6) The Growth and Training Program of Children Are Us\",\"status\":\"current\",\"indicators\":\"9 full-time employees\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific inclusive hiring practice, limited reach\"}}},{\"id\":\"E11\",\"activity\":\"Charitable donations to social welfare organizations and disaster relief for Hualien\",\"quote\":\"Furthermore, in 2025, ASUS provided over NT$3 million in emergency aid for the Mataian area in Hualien, Taiwan.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Corporate Social Responsibility > Social engagement > (8) Money collection, fund raising, and donation of materials\",\"status\":\"current\",\"indicators\":\"38 social welfare organizations; over NT$40 million; over NT$3 million\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with dollars disclosed\"}}},{\"id\":\"E12\",\"activity\":\"Group-wide employee training and talent development\",\"quote\":\"Total training hours across the group reached 387,112 hours, averaging 22.9 hours per employee.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Overview of Business Operation > Employee/employer relations > Employee Development and Training\",\"status\":\"current\",\"indicators\":\"387,112 hours; 22.9 hours per employee\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}}],\"themes\":{\"creativity\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\"],\"reason\":\"Level 3: a named, ongoing film-education program with participant numbers plus NT$7.4 million arts sponsorship, but creative enablement is not a major reported segment.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E6\",\"E7\",\"E8\",\"E11\",\"E12\"],\"reason\":\"Level 3: external digital-education programs and community investment with substantial measured reach, run through the ASUS Foundation rather than central to business strategy.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E6\",\"E9\",\"E10\"],\"reason\":\"Level 3: named programs serving indigenous communities, people with disabilities and new immigrants, with reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own innovation and 'startup creativity'; no enabling service for founders or small businesses is described.\"}},\"notes\":\"Business is 97.98% 3C hardware. Creator laptops and creator-segment motherboards are mentioned without revenue, so they stay below level 4. Gaming hardware and eSports-promotion subsidiaries were not counted as creative work. E9 (indigenous project) is a named sub-project of the broader refurbished-computer program (E6); E9 is cited only for cross-cultural to limit overlap, but the 200,000 person-times figure in E6 may include it. The Digital Opportunity Center's 2009-2014 APEC phase is past; only the ongoing TDOC/Digital Cultivation work was scored. Hua-Cheng Venture Capital invests in computer peripheral businesses and is not described as a founder-enabling program. 'Weaponization of generative AI' is a cybersecurity phrase, not a weapons flag. Many Community and Cross-cultural activities are run through the ASUS Foundation, which the company funds by board-approved donation.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"unspecified human rights risk incidents (harassment and workplace bullying handling described)\",\"quote\":\"In 2025, all identified human rights risk incidents across the Company's operations and supply chain were fully investigated and remediated, with ongoing tracking of improvement progress.\",\"section\":\"Annual report > Corporate Governance > Social issues > Human Rights Due Diligence\",\"explanation\":\"The company's own due diligence identified and remediated human rights risk incidents, with none rated high risk. No court, regulator or outside-body finding is disclosed. Listed for the team's notes only; no points deducted.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 88618,
+      "output_tokens": 9815,
+      "duration_ms": 80132
+    }
+  ]
+}

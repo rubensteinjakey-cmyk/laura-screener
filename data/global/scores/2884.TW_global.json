@@ -1,0 +1,359 @@
+{
+  "ticker": "2884.TW",
+  "company_name": "E.SUN Financial Holding",
+  "country": "Taiwan",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.esunbank.com/en/-/media/ESUNFHC/Files/Investor-Relations/About-ESUN/Annual-Reports/Annual-Reports-FHC/esunfhc_annual_2025",
+  "english": true,
+  "words_sent": 40096,
+  "prompt_chars": 312526,
+  "approx_prompt_tokens": 78131,
+  "scored_at": "2026-10-23T13:22:52",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Employee-produced, story-based information security awareness videos used in internal training",
+        "quote": "To increase the diversity of training, in addition to external lecture courses, information security awareness videos produced by employees are also utilized, featuring vivid scenario-based stories relevant to daily life, to continuously strengthen the information security awareness of all employees.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.8 Cyber Security Management",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "uses_as_input",
+            "criterion": "level 1: storytelling used only as a routine internal training input"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "E.SUN Golden Seed Project, which builds school libraries and donates books to students",
+        "quote": "As of December 2025, the company has established 198 E.SUN Libraries, donated over 470,000 books, and benefited more than 170,000 students.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.5.3 Social aspect > (1) Academic Support and Promotion > A. E.SUN Golden Seed Project",
+        "status": "current",
+        "indicators": "198 E.SUN Libraries, over 470,000 books, more than 170,000 students",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing education-focused community program with participant and output figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "E.SUN Cultivating Outstanding Talent Scholarship for university students",
+        "quote": "For 21 consecutive years, the company has awarded scholarships to nurture exceptional students, supporting talent in five major fields: management, technology, humanities, nursing, and ASEAN studies.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.5.3 Social aspect > (1) Academic Support and Promotion > B. E.SUN Cultivating Outstanding Talent Scholarship",
+        "status": "current",
+        "indicators": "21 consecutive years, 357 students",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named, ongoing scholarship program with recipient numbers"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "E.SUN youth baseball championship, training camps and equipment subsidies for remote schools",
+        "quote": "This initiative includes the E.SUN Cup Youth Baseball Championship, which has been held for 19 consecutive years, as well as the E.SUN Youth Baseball Training Camp and the E.SUN Youth Baseball Protection Camp, which feature touring lectures and health check activities.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.5.3 Social aspect",
+        "status": "current",
+        "indicators": "19 consecutive years, over 3,600 young athletes, more than 44 schools",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing youth program with participant and school counts"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Blood donation campaign run with professional associations",
+        "quote": "In 2025, the company collaborated with six professional associations (including those representing doctors, dentists, traditional Chinese medicine practitioners, accountants, lawyers, and architects) to donate 10,950 bags of blood.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.5.3 Social aspect",
+        "status": "current",
+        "indicators": "six professional associations, 10,950 bags of blood",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: named community partnership with measured output"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "International free medical clinic in Cambodia held with Mackay Memorial Hospital",
+        "quote": "Additionally, in 2025, E.SUN partnered with Mackay Memorial Hospital for the seventh time to hold the “Sending Love to Cambodia ~ International Free Clinic” event, providing 922 consultations over three days.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.5.3 Social aspect",
+        "status": "current",
+        "indicators": "seventh time, 922 consultations, three days",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: recurring community partnership with participant figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Social impact credit cards that allocate part of card spending to charitable donations",
+        "quote": "A portion of the spending on these cards is allocated for charitable donations, with general and administrative expenses of NT$62,436 thousand recognized, resulting in cash outflows from operating activities.",
+        "source_doc": "filing",
+        "section": "Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Expanding Markets for Financial Inclusion",
+        "status": "current",
+        "indicators": "751,333 social impact cards, NT$62,436 thousand",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: charitable giving with disclosed dollar amount"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Industry-academic collaboration, AI competitions and campus business plan contests",
+        "quote": "To promote fintech development and identify AI innovation and digital finance talent, initiatives such as industry-academic collaboration, AI competitions, and campus business plan contests resulted in general and administrative expenses of NT$22,836 thousand, leading to cash outflows from operating activities.",
+        "source_doc": "filing",
+        "section": "Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Strategic Leveraging of Technology and AI",
+        "status": "current",
+        "indicators": "NT$22,836 thousand",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2-3: external student and academic programs with disclosed spending"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Financial-friendly seminars for seniors in local communities",
+        "quote": "Conducted financial friendly seminars for seniors within local communities and implemented internal staff training to foster an empathetic service culture.",
+        "source_doc": "filing",
+        "section": "Annual report > Appendix: Sustainability-Related Financial Information > 3.3.2 Opportunities on Strategy > Expanding Markets for Financial Inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education activity, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Company-wide employee training through internal courses and external institutions",
+        "quote": "In 2025, the company and its subsidiaries held 749 internal training courses, and selected personnel to participate in 1,463 training courses at specialized institutions, with a total of 236,851 participants.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.4 Human resources > 4.4.3 Employee Continuing Education and Training",
+        "status": "current",
+        "indicators": "749 internal training courses, 1,463 training courses, 236,851 participants",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Bilingual service at every domestic bank branch, staffed by trained bilingual specialists, with bilingual forms, ATMs and digital channels",
+        "quote": "Achieved 100% bilingual branches across all 139 branches in 2025, ahead of the 2026 target.",
+        "source_doc": "filing",
+        "section": "Annual report > Appendix: Sustainability-Related Financial Information > 3.3.2 Opportunities on Strategy > Expanding Markets for Financial Inclusion",
+        "status": "current",
+        "indicators": "100% bilingual branches, 139 branches",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: named multilingual access program with measured network-wide reach"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Barrier-free branch facilities and video sign language interpretation for customers with disabilities",
+        "quote": "To optimize barrier-free facilities at business outlets, properties and equipment—net of NT$15,627 thousand was recognized, leading to cash outflows from investing activities for the period, with depreciation and amortization expenses of NT$3,251 thousand.",
+        "source_doc": "filing",
+        "section": "Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Expanding Markets for Financial Inclusion",
+        "status": "current",
+        "indicators": "NT$15,627 thousand, NT$3,251 thousand",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: accessibility program with disclosed spending"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Financial inclusion loan products, including micro-enterprise, young entrepreneur and new immigrant loans",
+        "quote": "In response to market demand, total discounts and loans for financial inclusion products (e.g., micro-enterprise, young entrepreneur loans, new immigrant loans, and E-Mini loan) amounted to NT$138,514,913 thousand.",
+        "source_doc": "filing",
+        "section": "Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Expanding Markets for Financial Inclusion",
+        "status": "current",
+        "indicators": "NT$138,514,913 thousand",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named micro-enterprise and young entrepreneur lending products with disclosed volume"
+          },
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: loan product built for new immigrants; figure is not broken out by product"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "Small-enterprise inclusion lending program aimed at financing barriers for businesses with revenue below NT$50 million",
+        "quote": "Address financing challenges for small enterprises with annual revenues below NT$ 50 million, and support individuals and businesses with local social impact.",
+        "source_doc": "filing",
+        "section": "Annual report > Appendix: Sustainability-Related Financial Information > 5.1.2 Sustainability Related Opportunities > Expanding Markets for Financial Inclusion",
+        "status": "current",
+        "indicators": "7,256 accounts",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: targeted program addressing financing barriers, with number of small businesses helped"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Sustainable Golden Triangle agri-food initiative combining advisory support, financing and promotion for small operators",
+        "quote": "Through the power of credit to support individual entrepreneurs and small enterprises, and promotes the development of a sustainable agri-food system.",
+        "source_doc": "filing",
+        "section": "Annual report > 4.1 Business scope (keyword paragraph)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific advisory-plus-financing program for entrepreneurs, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "E.SUN Venture Capital subsidiary providing startup investment",
+        "quote": "Our subsidiaries—E.SUN Bank, E.SUN Securities, and E.SUN Venture Capital—contributed net profits of NT$32.786 billion, NT$2.61 billion, and NT$120 million, respectively.",
+        "source_doc": "filing",
+        "section": "Annual report > 1. Letter to Shareholders > A Leap Forward",
+        "status": "current",
+        "indicators": "NT$120 million",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: startup investment subsidiary, a small part of the group"
+          }
+        }
+      },
+      {
+        "id": "E17",
+        "activity": "Marriage subsidies and benefits for employees in same-sex marriages",
+        "quote": "The Company provides marriage subsidies and other benefits to employees in same-sex marriages, implements Taiwan’s national gender equality policies, and continuously advances sexual harassment prevention and gender-equality awareness.",
+        "source_doc": "filing",
+        "section": "Annual report > 2.2 Corporate Governance > 4. Social Issues",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: inclusive benefit, no figures"
+          }
+        }
+      },
+      {
+        "id": "E18",
+        "activity": "Disclosure of women's share of workforce and management",
+        "quote": "Women represent 57.51% of all employees across the Company and its subsidiaries, and women hold 42.23% of management positions.",
+        "source_doc": "filing",
+        "section": "Annual report > 2.2 Corporate Governance > 4. Social Issues",
+        "status": "current",
+        "indicators": "57.51%, 42.23%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce demographics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the business is banking and securities, and the only creative work is routine internal use of story-based training videos."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 3: named external education and community investment programs with substantial measured reach, including 198 libraries reaching more than 170,000 students, 357 scholarship recipients and over 3,600 youth athletes, but nothing shows them as central to strategy."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E11",
+          "E12",
+          "E13",
+          "E17"
+        ],
+        "reason": "Level 3: named customer-access programs with measured reach, including bilingual service at all 139 branches, barrier-free facilities with disclosed spending and new immigrant loans, though they are not a major business line."
+      },
+      "entrepreneurship": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E13",
+          "E14",
+          "E15",
+          "E16"
+        ],
+        "reason": "Level 3: specific enabling lending programs (micro-enterprise, startup and young entrepreneur loans) with 7,256 small-enterprise accounts and disclosed loan volume, while startup investment remains a minor business line."
+      }
+    },
+    "red_flags": [],
+    "notes": "No coverage gaps, so no second look is needed. The NT$138,514,913 thousand financial inclusion figure combines micro-enterprise, young entrepreneur, new immigrant and E-Mini loans, so the immigrant-specific and founder-specific reach is not broken out. Ordinary small-business lending (29,446 small business loans, NT$676,588,566 thousand) counts only as serving and was not used for scoring. Artworks reproduced in the report (Ugo Rondinone, Chen Yin-Huei) are not described as company activities, and the E.SUN Culture and Education Foundation is named without described activities, so neither was scored. Possible contradiction: the governance section reports donations to public welfare organizations as 'none', while the sustainability appendix discloses NT$62,436 thousand of charitable donations through social impact credit cards (likely made via the card program or foundations rather than the holding company itself). The bilingual target cites 139 branches, while section 4.3.1 lists 140 domestic branches. Coal and unconventional oil and gas exposure of NT$12,259,307 thousand is a small share of the loan book and is subject to a phase-out policy, so it is not a red flag. The free clinic in Cambodia used translation support but was scored only under Community, since overseas operations alone do not count for Cross-cultural. Senior-focused seminars and simplified trusts for the elderly and disabled were recorded under Community or omitted rather than double counted."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"2884.TW\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Employee-produced, story-based information security awareness videos used in internal training\",\"quote\":\"To increase the diversity of training, in addition to external lecture courses, information security awareness videos produced by employees are also utilized, featuring vivid scenario-based stories relevant to daily life, to continuously strengthen the information security awareness of all employees.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.8 Cyber Security Management\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"uses_as_input\",\"criterion\":\"level 1: storytelling used only as a routine internal training input\"}}},{\"id\":\"E2\",\"activity\":\"E.SUN Golden Seed Project, which builds school libraries and donates books to students\",\"quote\":\"As of December 2025, the company has established 198 E.SUN Libraries, donated over 470,000 books, and benefited more than 170,000 students.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.5.3 Social aspect > (1) Academic Support and Promotion > A. E.SUN Golden Seed Project\",\"status\":\"current\",\"indicators\":\"198 E.SUN Libraries, over 470,000 books, more than 170,000 students\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing education-focused community program with participant and output figures\"}}},{\"id\":\"E3\",\"activity\":\"E.SUN Cultivating Outstanding Talent Scholarship for university students\",\"quote\":\"For 21 consecutive years, the company has awarded scholarships to nurture exceptional students, supporting talent in five major fields: management, technology, humanities, nursing, and ASEAN studies.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.5.3 Social aspect > (1) Academic Support and Promotion > B. E.SUN Cultivating Outstanding Talent Scholarship\",\"status\":\"current\",\"indicators\":\"21 consecutive years, 357 students\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named, ongoing scholarship program with recipient numbers\"}}},{\"id\":\"E4\",\"activity\":\"E.SUN youth baseball championship, training camps and equipment subsidies for remote schools\",\"quote\":\"This initiative includes the E.SUN Cup Youth Baseball Championship, which has been held for 19 consecutive years, as well as the E.SUN Youth Baseball Training Camp and the E.SUN Youth Baseball Protection Camp, which feature touring lectures and health check activities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.5.3 Social aspect\",\"status\":\"current\",\"indicators\":\"19 consecutive years, over 3,600 young athletes, more than 44 schools\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing youth program with participant and school counts\"}}},{\"id\":\"E5\",\"activity\":\"Blood donation campaign run with professional associations\",\"quote\":\"In 2025, the company collaborated with six professional associations (including those representing doctors, dentists, traditional Chinese medicine practitioners, accountants, lawyers, and architects) to donate 10,950 bags of blood.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.5.3 Social aspect\",\"status\":\"current\",\"indicators\":\"six professional associations, 10,950 bags of blood\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2-3: named community partnership with measured output\"}}},{\"id\":\"E6\",\"activity\":\"International free medical clinic in Cambodia held with Mackay Memorial Hospital\",\"quote\":\"Additionally, in 2025, E.SUN partnered with Mackay Memorial Hospital for the seventh time to hold the “Sending Love to Cambodia ~ International Free Clinic” event, providing 922 consultations over three days.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.5.3 Social aspect\",\"status\":\"current\",\"indicators\":\"seventh time, 922 consultations, three days\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2-3: recurring community partnership with participant figures\"}}},{\"id\":\"E7\",\"activity\":\"Social impact credit cards that allocate part of card spending to charitable donations\",\"quote\":\"A portion of the spending on these cards is allocated for charitable donations, with general and administrative expenses of NT$62,436 thousand recognized, resulting in cash outflows from operating activities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Expanding Markets for Financial Inclusion\",\"status\":\"current\",\"indicators\":\"751,333 social impact cards, NT$62,436 thousand\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: charitable giving with disclosed dollar amount\"}}},{\"id\":\"E8\",\"activity\":\"Industry-academic collaboration, AI competitions and campus business plan contests\",\"quote\":\"To promote fintech development and identify AI innovation and digital finance talent, initiatives such as industry-academic collaboration, AI competitions, and campus business plan contests resulted in general and administrative expenses of NT$22,836 thousand, leading to cash outflows from operating activities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Strategic Leveraging of Technology and AI\",\"status\":\"current\",\"indicators\":\"NT$22,836 thousand\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2-3: external student and academic programs with disclosed spending\"}}},{\"id\":\"E9\",\"activity\":\"Financial-friendly seminars for seniors in local communities\",\"quote\":\"Conducted financial friendly seminars for seniors within local communities and implemented internal staff training to foster an empathetic service culture.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Appendix: Sustainability-Related Financial Information > 3.3.2 Opportunities on Strategy > Expanding Markets for Financial Inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education activity, no reach figures\"}}},{\"id\":\"E10\",\"activity\":\"Company-wide employee training through internal courses and external institutions\",\"quote\":\"In 2025, the company and its subsidiaries held 749 internal training courses, and selected personnel to participate in 1,463 training courses at specialized institutions, with a total of 236,851 participants.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.4 Human resources > 4.4.3 Employee Continuing Education and Training\",\"status\":\"current\",\"indicators\":\"749 internal training courses, 1,463 training courses, 236,851 participants\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E11\",\"activity\":\"Bilingual service at every domestic bank branch, staffed by trained bilingual specialists, with bilingual forms, ATMs and digital channels\",\"quote\":\"Achieved 100% bilingual branches across all 139 branches in 2025, ahead of the 2026 target.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Appendix: Sustainability-Related Financial Information > 3.3.2 Opportunities on Strategy > Expanding Markets for Financial Inclusion\",\"status\":\"current\",\"indicators\":\"100% bilingual branches, 139 branches\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: named multilingual access program with measured network-wide reach\"}}},{\"id\":\"E12\",\"activity\":\"Barrier-free branch facilities and video sign language interpretation for customers with disabilities\",\"quote\":\"To optimize barrier-free facilities at business outlets, properties and equipment—net of NT$15,627 thousand was recognized, leading to cash outflows from investing activities for the period, with depreciation and amortization expenses of NT$3,251 thousand.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Expanding Markets for Financial Inclusion\",\"status\":\"current\",\"indicators\":\"NT$15,627 thousand, NT$3,251 thousand\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: accessibility program with disclosed spending\"}}},{\"id\":\"E13\",\"activity\":\"Financial inclusion loan products, including micro-enterprise, young entrepreneur and new immigrant loans\",\"quote\":\"In response to market demand, total discounts and loans for financial inclusion products (e.g., micro-enterprise, young entrepreneur loans, new immigrant loans, and E-Mini loan) amounted to NT$138,514,913 thousand.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Appendix: Sustainability-Related Financial Information > 3.4.2 Financial Effects > Expanding Markets for Financial Inclusion\",\"status\":\"current\",\"indicators\":\"NT$138,514,913 thousand\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named micro-enterprise and young entrepreneur lending products with disclosed volume\"},\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: loan product built for new immigrants; figure is not broken out by product\"}}},{\"id\":\"E14\",\"activity\":\"Small-enterprise inclusion lending program aimed at financing barriers for businesses with revenue below NT$50 million\",\"quote\":\"Address financing challenges for small enterprises with annual revenues below NT$ 50 million, and support individuals and businesses with local social impact.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Appendix: Sustainability-Related Financial Information > 5.1.2 Sustainability Related Opportunities > Expanding Markets for Financial Inclusion\",\"status\":\"current\",\"indicators\":\"7,256 accounts\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: targeted program addressing financing barriers, with number of small businesses helped\"}}},{\"id\":\"E15\",\"activity\":\"Sustainable Golden Triangle agri-food initiative combining advisory support, financing and promotion for small operators\",\"quote\":\"Through the power of credit to support individual entrepreneurs and small enterprises, and promotes the development of a sustainable agri-food system.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 4.1 Business scope (keyword paragraph)\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific advisory-plus-financing program for entrepreneurs, no reach figures\"}}},{\"id\":\"E16\",\"activity\":\"E.SUN Venture Capital subsidiary providing startup investment\",\"quote\":\"Our subsidiaries—E.SUN Bank, E.SUN Securities, and E.SUN Venture Capital—contributed net profits of NT$32.786 billion, NT$2.61 billion, and NT$120 million, respectively.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 1. Letter to Shareholders > A Leap Forward\",\"status\":\"current\",\"indicators\":\"NT$120 million\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: startup investment subsidiary, a small part of the group\"}}},{\"id\":\"E17\",\"activity\":\"Marriage subsidies and benefits for employees in same-sex marriages\",\"quote\":\"The Company provides marriage subsidies and other benefits to employees in same-sex marriages, implements Taiwan’s national gender equality policies, and continuously advances sexual harassment prevention and gender-equality awareness.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 2.2 Corporate Governance > 4. Social Issues\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: inclusive benefit, no figures\"}}},{\"id\":\"E18\",\"activity\":\"Disclosure of women's share of workforce and management\",\"quote\":\"Women represent 57.51% of all employees across the Company and its subsidiaries, and women hold 42.23% of management positions.\",\"source_doc\":\"filing\",\"section\":\"Annual report > 2.2 Corporate Governance > 4. Social Issues\",\"status\":\"current\",\"indicators\":\"57.51%, 42.23%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce demographics only\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 1: the business is banking and securities, and the only creative work is routine internal use of story-based training videos.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\",\"E10\"],\"reason\":\"Level 3: named external education and community investment programs with substantial measured reach, including 198 libraries reaching more than 170,000 students, 357 scholarship recipients and over 3,600 youth athletes, but nothing shows them as central to strategy.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E11\",\"E12\",\"E13\",\"E17\"],\"reason\":\"Level 3: named customer-access programs with measured reach, including bilingual service at all 139 branches, barrier-free facilities with disclosed spending and new immigrant loans, though they are not a major business line.\"},\"entrepreneurship\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E13\",\"E14\",\"E15\",\"E16\"],\"reason\":\"Level 3: specific enabling lending programs (micro-enterprise, startup and young entrepreneur loans) with 7,256 small-enterprise accounts and disclosed loan volume, while startup investment remains a minor business line.\"}},\"notes\":\"No coverage gaps, so no second look is needed. The NT$138,514,913 thousand financial inclusion figure combines micro-enterprise, young entrepreneur, new immigrant and E-Mini loans, so the immigrant-specific and founder-specific reach is not broken out. Ordinary small-business lending (29,446 small business loans, NT$676,588,566 thousand) counts only as serving and was not used for scoring. Artworks reproduced in the report (Ugo Rondinone, Chen Yin-Huei) are not described as company activities, and the E.SUN Culture and Education Foundation is named without described activities, so neither was scored. Possible contradiction: the governance section reports donations to public welfare organizations as 'none', while the sustainability appendix discloses NT$62,436 thousand of charitable donations through social impact credit cards (likely made via the card program or foundations rather than the holding company itself). The bilingual target cites 139 branches, while section 4.3.1 lists 140 domestic branches. Coal and unconventional oil and gas exposure of NT$12,259,307 thousand is a small share of the loan book and is subject to a phase-out policy, so it is not a red flag. The free clinic in Cambodia used translation support but was scored only under Community, since overseas operations alone do not count for Cross-cultural. Senior-focused seminars and simplified trusts for the elderly and disabled were recorded under Community or omitted rather than double counted.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 114314,
+      "output_tokens": 12452,
+      "duration_ms": 103336
+    }
+  ]
+}

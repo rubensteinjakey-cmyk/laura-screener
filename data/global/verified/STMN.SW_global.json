@@ -1,0 +1,362 @@
+{
+  "ticker": "STMN.SW",
+  "company_name": "Straumann",
+  "country": "Switzerland",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.straumann.com/content/dam/media-center/group/en/documents/annual-report/2025/Straumann_AR25.pdf",
+  "english": true,
+  "words_sent": 40146,
+  "themes": {
+    "creativity": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1"
+      ],
+      "valid_evidence_ids": [
+        "E1"
+      ],
+      "kinds": [
+        "enables"
+      ],
+      "reason": "Level 2: the core business is dental implants and digital dentistry with no creative activity; the only creative item is one small arts sponsorship (art therapy workshops).",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E10"
+      ],
+      "valid_evidence_ids": [
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E10"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 3: external clinical education with substantial measured reach (over 370 000 professionals, about 10 700 activities, 42% in LMICs), supported by named scholarship, skills and foundation programs.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ],
+      "valid_evidence_ids": [
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ],
+      "kinds": [
+        "connecting_communities",
+        "customer_access",
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific current inclusion programs (female talent, Choose Inclusion, Pride support, disability dental access, translated education) with no reach figures.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: rests on general language only; customers are dental practices and DSOs and the report cites an 'entrepreneurial mindset', but no specific enabling program for founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 2,
+    "community": 3,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 43.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [
+    {
+      "id": "R1",
+      "flag": "rights_finding",
+      "found_by": "internal",
+      "case_type": "discrimination and harassment",
+      "quote": "Incidents reported on discrimination, including harassment: Number of complaints reported and identified through keyword-based filtering for harassment and discrimination.",
+      "section": "Annual report > Sustainability report > S1 Own workforce > Accounting principles",
+      "explanation": "The report discloses 51 reported discrimination and harassment incidents in 2025, received through internal channels such as SpeakUp. These are complaints identified by keyword filtering, not confirmed findings by a court, regulator or outside body, so they cost no points and are noted for the team only.",
+      "source_doc": "filing",
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "internal_note": "Discloses internally substantiated discrimination and harassment cases; not a red flag under the rule.",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 43.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Sponsors art therapy workshops for hospital patients in France (Sur un lit de couleurs)",
+      "quote": "Sur un lit de couleurs Supports hospital patients psychologically through art therapy workshops",
+      "source_doc": "filing",
+      "section": "Annual report > Company profile > Philanthropy > Local community engagement (France)",
+      "status": "current",
+      "indicators": "Ongoing since 2015",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 2: a single, small arts sponsorship with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Global clinical education programme for dental professionals, run with partners ITI and ILAPEO, with a target share delivered in low- and middle-income countries",
+      "quote": "In 2025, over 370 000 dental professionals were reached through approximately 10 700 educational activities worldwide, contributing to the availability of qualified care and the long-term strengthening of local healthcare systems.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability report > Sustainability targets and performance",
+      "status": "current",
+      "indicators": "over 370 000 dental professionals; approximately 10 700 educational activities; 42% of educational activities in low- and middle-income countries",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 3: external education with substantial measured reach (participants, activities, LMIC share)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Funds a dental student scholarship program in Cambodia (Hope for all Clinic)",
+      "quote": "Dental student scholarship program Ongoing since 2007",
+      "source_doc": "filing",
+      "section": "Annual report > Company profile > Philanthropy > Main initiatives and projects sponsored (Cambodia)",
+      "status": "current",
+      "indicators": "Ongoing since 2007",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific scholarship program with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Skills development and income-generation initiative for women in local communities in Brazil (Futuro Sorriso)",
+      "quote": "Futuro Sorriso (Future Smile) Skills development and income generation for women in local communities Ongoing since 2025",
+      "source_doc": "filing",
+      "section": "Annual report > Company profile > Philanthropy > Local community engagement (Brazil)",
+      "status": "current",
+      "indicators": "Ongoing since 2025",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific skills program with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Straumann Group Foundation funds oral-care access programs for underserved populations with NGOs, clinics and academic partners",
+      "quote": "The Straumann Group Foundation is dedicated to improving access to oral health care for underserved populations through long-term, sustainable initiatives.",
+      "source_doc": "filing",
+      "section": "Annual report > Company profile > Philanthropy > Oral health and care",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: named foundation and community investment with no dollar or reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Employee training and development programs, including EDGE!UP, Leadership Academy and Leadership Horizons",
+      "quote": "In 2025, employees completed more than 160 000 hours of training.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability report > S1 Own workforce > Talent and skills availability > Metrics and targets",
+      "status": "current",
+      "indicators": "more than 160 000 hours of training",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Female talent development programs, including female talent group sessions and the EmpowerHER program in EMEA",
+      "quote": "These sessions focused on executive presence, strategic thinking, innovation, and business acumen, as well as the “EmpowerHER” program in the EMEA region, offering opportunities for women to grow both professionally and personally.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability report > S1 Own workforce > Gender balance and inclusion > Actions",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific internal inclusion program with no participation figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E8",
+      "activity": "Choose Inclusion program on unconscious bias for teams",
+      "quote": "We also continued offering the “Choose Inclusion” program, designed to raise awareness about unconscious bias and to help teams embed inclusivity into their everyday actions.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability report > S1 Own workforce > Gender balance and inclusion > Actions",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific inclusion program with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E9",
+      "activity": "Supports the Milano Pride LGBTQIA+ community",
+      "quote": "Milano Pride Support LGBTQIA+ community Ongoing since 2023",
+      "source_doc": "filing",
+      "section": "Annual report > Company profile > Philanthropy > Local community engagement (Italy)",
+      "status": "current",
+      "indicators": "Ongoing since 2023",
+      "themes": {
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2: specific community support with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E10",
+      "activity": "Donated dental treatment for people with disabilities, the elderly and the medically fragile, via Dental Lifeline Network in the US",
+      "quote": "Donated Dental Services program to treat individuals with disabilities, the elderly or medically fragile who cannot afford or otherwise access treatment for severe dental conditions",
+      "source_doc": "filing",
+      "section": "Annual report > Company profile > Philanthropy > Main initiatives and projects sponsored (US)",
+      "status": "current",
+      "indicators": "Ongoing since 2021",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific partnership with no reach figures"
+        },
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: access program for people with disabilities, no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E11",
+      "activity": "Translated educational content and free online materials to widen access to professional education",
+      "quote": "During 2025, stakeholder feedback prompted adjustments to educational content and formats to make them more inclusive, for example, through content translation and the provision of free online materials for wider accessibility.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability report > S4 Consumers and end-users > Customer training and education > Engagement",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: multilingual and accessible content with no reach figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Creativity 2 rests on one small art-therapy sponsorship; 1 is defensible if art therapy is not treated as arts sponsorship. Community: customer education is commercially motivated (effectiveness is partly measured by 'sales outcomes from participants'), which edges toward the 'educating customers as marketing' trap. It was still counted as external education because it is substantive clinical training with nonprofit and academic partners and an LMIC target. Level 4 is arguable ('Investing in education continues to be part of our core business'); the lower level was chosen because I was torn. Contradiction: the CEO letter says education was 'intensified', but the metrics show activities fell from 12 000 to 10 700 and participants from 400 000 to 370 000 versus 2024. Past programs, recorded as context only: Stiftung Schönes Lächeln (Switzerland), It's for Kids (Germany), Present a tree (Russia) and Krebsliga Pink Team (Switzerland), all marked Completed. Women in leadership rose to 39.4% against a 45% 2030 target; this is a demographic outcome and was not separately scored. The 'learn and grow' employee score target is 'Not on track' (76 versus a target of 80). Affected communities (S3) was assessed as non-material in the double materiality assessment.",
+  "extract_notes": [
+    "over 40,000 words: dropped 65 lowest-relevance keyword paragraph(s) and 26 lowest-relevance chapter page(s)"
+  ],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 23708,
+  "score_source": "Annual report 2025",
+  "second_look": null
+}

@@ -1,0 +1,224 @@
+{
+  "ticker": "SCHN.SW",
+  "company_name": "Schindler Group",
+  "country": "Switzerland",
+  "sector": "Industrials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://group.schindler.com/content/dam/website/group/docs/investors/2025/2025-schindler-fy-group-review-en.pdf/_jcr_content/renditions/original./2025-schindler-fy-group-review-en.pdf",
+  "english": true,
+  "words_sent": 8316,
+  "themes": {
+    "creativity": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests only on general language. Design (Schindler X8 interiors, Milan Design Week debut, architects' 'creative freedom') is a routine product-design input, and the brief 'media solutions' mention shows no creating or enabling of creative work.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "employee_development"
+      ],
+      "reason": "Level 2: only employee development is shown (modernization training, safety learning program, apprentices, Pune campus), so the score is capped at 2.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4",
+        "E5"
+      ],
+      "valid_evidence_ids": [
+        "E4",
+        "E5"
+      ],
+      "kinds": [
+        "customer_access"
+      ],
+      "reason": "Level 2: specific current customer-access activity (accessibility features for hearing- and sight-impaired users, accessibility upgrades for elderly residents) with no measured reach specific to accessibility.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: this rests only on general language about the company's own innovation and 'entrepreneurial success', with no program that enables founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 1,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 30.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [],
+  "internal_note": "",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 30.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Training the workforce on modernization-specific skills",
+      "quote": "We’re training our workforce on competencies specific to modernization.",
+      "source_doc": "filing",
+      "section": "Annual report > Enhancing the quality of urban living > Bangkok, Thailand",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Operational Learning Event program where certified facilitators work with technicians on safety and quality improvements",
+      "quote": "Certified facilitators work with technicians to analyze how work is performed and identify safety, quality, and efficiency improvements.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability > Health and safety > Learning from the field: a new approach to safety",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Pune, India campus and university attached to the factory, with an audience (employees or external) not specified",
+      "quote": "Campus and university Pune, India Elevator and escalator factory >3 000 students per year",
+      "source_doc": "filing",
+      "section": "Annual report > Global presence map > ASIA-PACIFIC",
+      "status": "current",
+      "indicators": ">3 000 students per year",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: training activity; the text does not show the students are external, so it is treated as employee development (lower level when torn)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Accessibility features (induction loops, voice signaling, Braille) installed in modernized hospital elevators",
+      "quote": "For accessibility, each elevator includes induction loops for the hearing impaired, voice signaling inside the cabins, and Braille markings.",
+      "source_doc": "filing",
+      "section": "Annual report > Enhancing the quality of urban living > Warsaw, Poland > Children’s Memorial Health Institute",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: specific accessibility features for people with disabilities, limited reach (single project)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Residential elevator modernizations improving accessibility for elderly people and families",
+      "quote": "We’ve delivered several modernization projects in residential buildings that have truly improved everyday life for residents – through smoother rides, more reliable performance, and greater accessibility for elderly people and families with children.",
+      "source_doc": "filing",
+      "section": "Annual report > Enhancing the quality of urban living > Warsaw, Poland > Interview with head of Schindler Poland",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 2: specific accessibility-oriented modernization, no measured reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Target for women in senior leadership",
+      "quote": "Gender diversity: 30% female executives by 2030",
+      "source_doc": "filing",
+      "section": "Annual report > About Schindler > Our targets",
+      "status": "planned",
+      "indicators": "30%",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1 at most: demographic target, not an activity"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The CEO says 'several hundred apprentices worldwide' take part in training programs. This is employee development and was not quoted because the sentence is heavily hyphenated in the source; it does not change the capped Community score. The Pune 'campus and university' (>3 000 students per year) could include external students, but the text does not say so, so it is scored as employee development. The V Tower refugee housing with UNHCR (2022) was the customer's activity, not Schindler's, and is excluded. Inclusion and diversity appear as a Sustainability Roadmap focus area with a 30% women-in-senior-leadership target (26% result in 2025, US excluded), which is a demographic disclosure only. The mission 'making cities and buildings accessible and livable for everyone' and the 'silver society' business driver suggest accessibility is broadly relevant to elevators, but no accessibility-specific reach is disclosed, so the lower level was chosen. Detailed social data is referred to the Nonfinancial Report 2025, but the report gives enough specific activities to be judged sufficient. The Forbes best-employer ranking is recognition, not an activity.",
+  "extract_notes": [],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 3198,
+  "score_source": "Annual report 2025",
+  "second_look": null
+}

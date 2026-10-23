@@ -1,0 +1,40 @@
+{
+  "ticker": "SCHN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://group.schindler.com/content/dam/website/group/docs/investors/2025/2025-schindler-fy-group-review-en.pdf/_jcr_content/renditions/original./2025-schindler-fy-group-review-en.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 5688,
+    "Annual report: keyword paragraphs from the rest": 2608
+  },
+  "notes": [],
+  "people_words": 1496,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "Highlights (pages 3-3)",
+    "Chairman of the Board of Directors and CEO in conversation (pages 6-9)",
+    "Sustainability progress recognized by EcoVadis and CDP (pages 10-10)",
+    "Business model (pages 14-15)",
+    "People (pages 14-14)",
+    "People (pages 15-15)",
+    "Sustainability (pages 16-17)",
+    "Progress across our Sustainability Roadmap 2030 (pages 17-17)",
+    "Learning from the field: a new approach to safety (pages 17-17)",
+    "Sustainable cities (pages 19-19)",
+    "From a “castle” to a community (pages 30-33)",
+    "Employees at Schindler Warsaw (pages 37-37)",
+    "Employees at Schindler Shanghai (pages 56-57)",
+    "Employees at Schindler Bangkok (pages 72-73)",
+    "Employees at Schindler San Francisco (pages 94-95)",
+    "Five-year overview (pages 107-108)",
+    "Key sustainability figures (pages 111-111)",
+    "Greenhouse gas (GHG) emissions overview: scope 1, 2, and 31 (pages 111-111)"
+  ],
+  "chapters_skipped": [
+    "Cash flow",
+    "Cash flow from operating activities"
+  ],
+  "words_sent": 8316
+}

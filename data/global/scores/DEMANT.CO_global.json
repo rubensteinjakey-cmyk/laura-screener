@@ -1,0 +1,203 @@
+{
+  "ticker": "DEMANT.CO",
+  "company_name": "Demant",
+  "country": "Denmark",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://assets-we.cas.dgs.com/-/media/demant/shared/new-library-2022/financial-reports/annual-report-english/demant-annual-report-2025.pdf?la=en&rev=AE32&hash=F68551D4B2CB09858AD389A748D55FF6",
+  "english": true,
+  "words_sent": 34662,
+  "prompt_chars": 251532,
+  "approx_prompt_tokens": 62883,
+  "scored_at": "2026-10-23T13:01:42",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Core business sells hearing aids (assistive technology) and runs clinics that test and fit people with hearing loss, a disability, so they can communicate and take part in daily life",
+        "quote": "In 2025, 1.6 million people were tested for hearing loss in our clinics, and we improved more than 12.1 million lives with Demant’s hearing aids.",
+        "source_doc": "filing",
+        "section": "Annual report > Overview > CEO letter > Lives improved",
+        "status": "current",
+        "indicators": "1.6 million people were tested; 12.1 million lives",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 4: customer access for people with a disability (hearing loss) is a major part of the business, with measured reach"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Basic-to-premium hearing aid range that includes lower-priced, more accessible products for lower-income users",
+        "quote": "Through our diversified portfolio of hearing aids, with products and services ranging from basic to premium, we offer a range of lower-priced and more easily accessible products, which benefits users with a lower income.",
+        "source_doc": "filing",
+        "section": "Annual report > Social > S4 Consumers and end-users > Providing life-changing hearing health > Ensuring access",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific current access measure for lower-income users with disabilities, reach not quantified separately"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Clinical training for ENT doctors, audiologists and healthcare professionals in countries and regions with little or no formal audiology education",
+        "quote": "Our training offerings help support building hearing health capacity in countries and regions with no or very little formal audiology education, enabling better access to higher quality hearing healthcare for people living with hearing loss.",
+        "source_doc": "filing",
+        "section": "Annual report > Social > S4 Consumers and end-users > Providing life-changing hearing health > Building capacity in healthcare",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, reach not quantified"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Clinic outreach in local communities, including free hearing screening",
+        "quote": "Many of our hearing care clinics actively engage with their local communities to create public awareness and to connect with those who may have a hearing loss but are unaware of it.",
+        "source_doc": "filing",
+        "section": "Annual report > Social > S4 Consumers and end-users > Providing life-changing hearing health > Raising awareness of hearing loss",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current local community outreach (free screening), limited and partly commercial, no figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Global Graduate Programme: a two-year development programme for young professionals hired by the company",
+        "quote": "In 2025, we welcomed 10 new graduates to our Global Graduate Programme, which offers opportunities for young professionals to develop their personal and professional skills over a two-year journey across our entire global organisation.",
+        "source_doc": "filing",
+        "section": "Annual report > Social > S1 Own workforce > Working conditions > Development opportunities",
+        "status": "current",
+        "indicators": "10 new graduates",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Leadership development programme for all leaders, built on the Leadership Compass",
+        "quote": "In 2025, we implemented a dedicated leadership development programme for all leaders, focusing on learning journeys across the five essential pillars of leadership outlined in our Leadership Compass.",
+        "source_doc": "filing",
+        "section": "Annual report > Social > S1 Own workforce > General information on own workforce > Standardising leadership development and support",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Voluntary employee resource groups in Denmark and the US, consulted on equal treatment",
+        "quote": "Currently, Demant has ERGs in Denmark and the US.",
+        "source_doc": "filing",
+        "section": "Annual report > Social > S1 Own workforce > Equal treatment and opportunities for all > Employee resource groups",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Diversity and inclusion celebrations, including participation in Copenhagen Pride",
+        "quote": "Celebrated diversity and inclusion in various countries, for example through our participation in Copenhagen Pride in Denmark.",
+        "source_doc": "filing",
+        "section": "Annual report > Social > S1 Own workforce > Equal treatment and opportunities for all > Learning and awareness",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion activity, limited reach"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business is hearing aids, diagnostics and hearing clinics, with no creative activity ('state-of-the-art' and product design are traps)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: specific external clinical training and local clinic outreach with no reach figures, plus employee development programmes."
+      },
+      "cross_cultural": {
+        "score": 4,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 4: customer access for people with a disability (hearing loss) is a major part of the business, with measured reach (12.1 million lives, 1.6 million tested); chose 4 over 5 because the rubric says to pick the lower level when torn."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: based only on general description; the company sells to hearing care professionals and largely independent clinics but offers no specific enabling programme for them."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "discrimination and/or harassment",
+        "quote": "In 2025, Demant received 38 reports through its whistleblower hotline concerning discrimination and/or harassment.",
+        "section": "Annual report > Social > S1 Own workforce > Equal treatment and opportunities for all > S1-17",
+        "explanation": "These are internal whistleblower reports (32 of 38 handled); the text does not say how many were substantiated. It reports no fines, penalties, compensation or confirmed severe human rights incidents and no outside finding. Noted for the team only; costs no points."
+      }
+    ],
+    "notes": "Cross-cultural score of 4 depends on treating hearing aids and clinic services as disability access (assistive technology helping people with hearing loss 'connect and communicate with the world around them'); flag for human check on consistency with other Health Care companies. Revised Diversity and Inclusion Policy applies only from Q1 2026 (planned, not scored). Global Policy on Remuneration and Rewards was postponed to 2026. KIND (acquired Dec 2025, about 3,000 employees) is not covered by 2025 policies or actions. Oticon Medical and EPOS are being divested. Distributor support ('maturing their business') is channel development for its own sales, not an entrepreneurship enabling programme. Inclusion score (4.30) and gender metrics are disclosures only. No tobacco, coal or weapons involvement; these are reported as not material."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DEMANT.CO\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Core business sells hearing aids (assistive technology) and runs clinics that test and fit people with hearing loss, a disability, so they can communicate and take part in daily life\",\"quote\":\"In 2025, 1.6 million people were tested for hearing loss in our clinics, and we improved more than 12.1 million lives with Demant’s hearing aids.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Overview > CEO letter > Lives improved\",\"status\":\"current\",\"indicators\":\"1.6 million people were tested; 12.1 million lives\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 4: customer access for people with a disability (hearing loss) is a major part of the business, with measured reach\"}}},{\"id\":\"E2\",\"activity\":\"Basic-to-premium hearing aid range that includes lower-priced, more accessible products for lower-income users\",\"quote\":\"Through our diversified portfolio of hearing aids, with products and services ranging from basic to premium, we offer a range of lower-priced and more easily accessible products, which benefits users with a lower income.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social > S4 Consumers and end-users > Providing life-changing hearing health > Ensuring access\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific current access measure for lower-income users with disabilities, reach not quantified separately\"}}},{\"id\":\"E3\",\"activity\":\"Clinical training for ENT doctors, audiologists and healthcare professionals in countries and regions with little or no formal audiology education\",\"quote\":\"Our training offerings help support building hearing health capacity in countries and regions with no or very little formal audiology education, enabling better access to higher quality hearing healthcare for people living with hearing loss.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social > S4 Consumers and end-users > Providing life-changing hearing health > Building capacity in healthcare\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, reach not quantified\"}}},{\"id\":\"E4\",\"activity\":\"Clinic outreach in local communities, including free hearing screening\",\"quote\":\"Many of our hearing care clinics actively engage with their local communities to create public awareness and to connect with those who may have a hearing loss but are unaware of it.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social > S4 Consumers and end-users > Providing life-changing hearing health > Raising awareness of hearing loss\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current local community outreach (free screening), limited and partly commercial, no figures\"}}},{\"id\":\"E5\",\"activity\":\"Global Graduate Programme: a two-year development programme for young professionals hired by the company\",\"quote\":\"In 2025, we welcomed 10 new graduates to our Global Graduate Programme, which offers opportunities for young professionals to develop their personal and professional skills over a two-year journey across our entire global organisation.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social > S1 Own workforce > Working conditions > Development opportunities\",\"status\":\"current\",\"indicators\":\"10 new graduates\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E6\",\"activity\":\"Leadership development programme for all leaders, built on the Leadership Compass\",\"quote\":\"In 2025, we implemented a dedicated leadership development programme for all leaders, focusing on learning journeys across the five essential pillars of leadership outlined in our Leadership Compass.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social > S1 Own workforce > General information on own workforce > Standardising leadership development and support\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E7\",\"activity\":\"Voluntary employee resource groups in Denmark and the US, consulted on equal treatment\",\"quote\":\"Currently, Demant has ERGs in Denmark and the US.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social > S1 Own workforce > Equal treatment and opportunities for all > Employee resource groups\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}},{\"id\":\"E8\",\"activity\":\"Diversity and inclusion celebrations, including participation in Copenhagen Pride\",\"quote\":\"Celebrated diversity and inclusion in various countries, for example through our participation in Copenhagen Pride in Denmark.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Social > S1 Own workforce > Equal treatment and opportunities for all > Learning and awareness\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusion activity, limited reach\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business is hearing aids, diagnostics and hearing clinics, with no creative activity ('state-of-the-art' and product design are traps).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 2: specific external clinical training and local clinic outreach with no reach figures, plus employee development programmes.\"},\"cross_cultural\":{\"score\":4,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E7\",\"E8\"],\"reason\":\"Level 4: customer access for people with a disability (hearing loss) is a major part of the business, with measured reach (12.1 million lives, 1.6 million tested); chose 4 over 5 because the rubric says to pick the lower level when torn.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: based only on general description; the company sells to hearing care professionals and largely independent clinics but offers no specific enabling programme for them.\"}},\"notes\":\"Cross-cultural score of 4 depends on treating hearing aids and clinic services as disability access (assistive technology helping people with hearing loss 'connect and communicate with the world around them'); flag for human check on consistency with other Health Care companies. Revised Diversity and Inclusion Policy applies only from Q1 2026 (planned, not scored). Global Policy on Remuneration and Rewards was postponed to 2026. KIND (acquired Dec 2025, about 3,000 employees) is not covered by 2025 policies or actions. Oticon Medical and EPOS are being divested. Distributor support ('maturing their business') is channel development for its own sales, not an entrepreneurship enabling programme. Inclusion score (4.30) and gender metrics are disclosures only. No tobacco, coal or weapons involvement; these are reported as not material.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"discrimination and/or harassment\",\"quote\":\"In 2025, Demant received 38 reports through its whistleblower hotline concerning discrimination and/or harassment.\",\"section\":\"Annual report > Social > S1 Own workforce > Equal treatment and opportunities for all > S1-17\",\"explanation\":\"These are internal whistleblower reports (32 of 38 handled); the text does not say how many were substantiated. It reports no fines, penalties, compensation or confirmed severe human rights incidents and no outside finding. Noted for the team only; costs no points.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 90882,
+      "output_tokens": 7604,
+      "duration_ms": 66425
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "ticker": "DNET.JK",
+  "company_name": "Indoritel",
+  "country": "Indonesia",
+  "sector": "Communication Services",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.indoritel.co.id/storage/files/pdf/AR%20Indoritel%202025_%20ok%20_1777368195.pdf",
+  "english": false,
+  "words_sent": 36476,
+  "prompt_chars": 288925,
+  "approx_prompt_tokens": 72231,
+  "scored_at": "2026-10-23T13:34:27",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Training and competency development programs for the company's own employees",
+        "quote": "Sepanjang tahun 2025, Perseroan telah memfasilitasi karyawan dengan berbagai pelatihan sebagai berikut:",
+        "quote_en": "Throughout 2025, the Company facilitated employees with various training programs as follows:",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social Performance > Competency Development [IDX S.05]",
+        "status": "current",
+        "indicators": "9,2 jam/karyawan; 346 orang; 50,73%",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Indomaret (associate) scholarships for children of the East Kalimantan Dayak Fellowship in Samarinda",
+        "quote": "Pemberian beasiswa kepada putra-putri Persekutuan Dayak Kalimantan Timur (PDKT) di Lamin Bakuda Kota Samarinda.",
+        "quote_en": "Provision of scholarships for students of the East Kalimantan Dayak Fellowship (PDKT) at Lamin Bakuda, Samarinda City.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Education",
+        "status": "current",
+        "indicators": "100 siswa",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Indomaret (associate) Posyandu toddler health services and free health check-ups for the elderly",
+        "quote": "Mengadakan Posyandu Balita & Cek Kesehatan yang mencakup acara senam sehat, penyuluhan kesehatan, pengecekan perkembangan balita, imunisasi, dan pengecekan kesehatan gratis bagi lansia.",
+        "quote_en": "Organizing Integrated Health Service Post (Posyandu) activities for toddlers and health check-ups, including healthy exercise sessions, health education, toddler development monitoring, immunization, and free health check-ups for the elderly.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Health Programs",
+        "status": "current",
+        "indicators": "20 kota",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach (no participant or dollar figures)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Indomaret (associate) mosquito-breeding eradication and dengue prevention education with local health offices",
+        "quote": "Menyelenggarakan Pemberantasan Sarang Nyamuk (PSN) bersama Jumantik (Juru Pemantau Jentik) dan Dinas Kesehatan di kota masing-masing untuk memberikan penyuluhan terkait pencegahan demam berdarah.",
+        "quote_en": "Organizing Mosquito Breeding Eradication (PSN) activities together with Jumantik (Larvae Monitoring Officers) and local Health Offices to provide education on dengue fever prevention.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Health Programs",
+        "status": "current",
+        "indicators": "16 kota",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community partnership, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "FiberStar (subsidiary) disaster recovery support in Sukabumi: emergency telecom infrastructure and donations",
+        "quote": "Akibat bencana banjir dan tanah longsor yang mengakibatkan kerusakan di beberapa kecamatan di Kabupaten Sukabumi, FiberStar berinisiatif membantu pemulihan bencana dengan menyediakan infrastruktur layanan internet dan telekomunikasi untuk memastikan komunikasi tetap berjalan, serta memberikan donasi untuk mendukung pemulihan yang lebih tangguh dan berkelanjutan setelah bencana.",
+        "quote_en": "Following floods and landslides that caused damage in several districts in Sukabumi Regency, FiberStar took the initiative to support disaster recovery by providing internet and telecommunications service infrastructure to ensure communication continuity, as well as donating to support a stronger and more sustainable post-disaster recovery.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > FiberStar",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "FiberStar (subsidiary) humanitarian aid and Starlink emergency internet for Sumatra flood victims",
+        "quote": "Akibat adanya bencana banjir bandang dan tanah longsor besar yang melanda Sumatera, FiberStar berinisiatif membantu dengan menyalurkan bantuan logistik bagi masyarakat terdampak serta menyediakan akses internet darurat Starlink untuk memastikan komunikasi dan koordinasi tim di lapangan tetap berjalan lancar.",
+        "quote_en": "Following severe flash floods and landslides that struck Sumatra, FiberStar provided logistical assistance to affected communities and deployed Starlink emergency internet access to ensure communication and coordination among field teams remained operational.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > FiberStar",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Indomaret (associate) donation of an ambulance to North Lampung Regency",
+        "quote": "Pemberian bantuan mobil ambulans untuk pelayanan kesehatan masyarakat Kabupaten Lampung Utara.",
+        "quote_en": "Provision of an ambulance to support public healthcare services in North Lampung Regency.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Health Programs",
+        "status": "current",
+        "indicators": "1 (satu) unit ambulans",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Indomaret (associate) donation of agricultural equipment to Muna Regency",
+        "quote": "Pemberian bantuan alat pertanian untuk Kabupaten Muna.",
+        "quote_en": "Provision of agricultural equipment assistance for Muna Regency.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Economic",
+        "status": "current",
+        "indicators": "4 (empat) unit traktor mini, 3 (tiga) unit mesin perontok jagung, dan 1 (satu) unit mesin pemotong rumput",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Indomaret (associate) clean water facility in Bolok Village, East Nusa Tenggara",
+        "quote": "Pemberian bantuan sumber air bersih di Desa Bolok, Kupang Barat, Nusa Tenggara Timur.",
+        "quote_en": "Provision of clean water facilities in Bolok Village, West Kupang, East Nusa Tenggara.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Environment",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "ROTI (associate) donations to disaster-affected communities",
+        "quote": "Bantuan kepada masyarakat yang tertimpa bencana serta masyarakat yang menjadi korban banjir bandang dan tanah longsor.",
+        "quote_en": "Donations to support communities affected by disasters, as well as those affected by flash floods and landslides.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > ROTI > Natural Disaster",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "FAST/KFC (associate) one-day community food-sharing event in Bandung",
+        "quote": "Pada 16 Maret 2025, FAST menyelenggarakan kegiatan sosial bertajuk “Berbagi Berkah Bersama KFC” sebagai bentuk kepedulian kepada masyarakat sekitar.",
+        "quote_en": "On March 16, 2025, FAST organized a community outreach event titled “Sharing Blessings with KFC” as a gesture of care for the local community.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > CSR Activities in 2025 > FAST > Social",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community activity, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Indomaret (associate) gives local MSMEs access to sell their products in its outlets",
+        "quote": "Entitas asosiasi Perseroan, Indomaret, terus berupaya menyediakan lapangan kerja bagi warga sekitar dan akses bagi UMKM lokal untuk memasarkan produk-produknya di sebagian besar gerainya.",
+        "quote_en": "The Company’s associate entity, Indomaret, continues to create employment opportunities for local communities and provide access for local MSMEs to market their products in many of its outlets.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social Performance > Community [POJK A.6c3]",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific current enabling program (retail shelf access for local MSMEs), no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Indomaret MoU with GP Ansor to support youth economic independence and empowerment",
+        "quote": "Indomaret melakukan penandatanganan Nota Kesepahaman dengan Gerakan Pemuda (GP) Ansor yang bertujuan untuk mendukung kemandirian dan pemberdayaan ekonomi pemuda.",
+        "quote_en": "Indomaret signed a Memorandum of Understanding with the Ansor Youth Movement (GP Ansor), which aims to support youth independence and economic empowerment.",
+        "source_doc": "filing",
+        "section": "Annual report > Performance Highlights > 2025 Event Highlights > Indomaret",
+        "status": "planned",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "context only: MoU signed, no operating activities described"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes the businesses (fiber-optic infrastructure, minimarkets, fast food, bakery) and shows no current creative activity. Web design under the 1998 Dyviacom IT division is historical only."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11"
+        ],
+        "reason": "Level 2: there are several specific current external activities with limited or modest disclosed reach, plus employee training. These include 100 scholarships, health programs in 20 and 16 cities, disaster relief and equipment donations. None is a large measured program, so the score stays at the lower level."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the score rests only on general language. This covers the equal-opportunity and non-discrimination statement, a 'commitment' to equal product access, and gender and age demographic tables, with no specific inclusion practice, accessibility feature or community-connecting program."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E12"
+        ],
+        "reason": "Level 2: associate Indomaret runs a current program giving local MSMEs shelf access to market their products in its outlets, but the report gives no number of businesses or revenue."
+      }
+    },
+    "red_flags": [],
+    "notes": "Indoritel is a holding company. Most CSR activities belong to non-consolidated associates (Indomaret, FAST, ROTI), and the report includes them within its scope. Only FiberStar is a subsidiary. Training figures conflict: the training table shows 346 employees (50.73%) at 9.2 hours each, while the Directors' explanation (p.168) states 90% of employees participated at 9 hours average. Code of conduct section conflicts between languages: the Indonesian text says 'tidak menerima sejumlah laporan' (did not receive reports), the English says 'received several reports', and both say the reports were investigated and sanctioned. The violation types are not stated. The human-rights section reports zero discrimination or harassment cases. This is not treated as a rights finding. The Dayak Fellowship scholarship (E2) targets an indigenous community and could arguably support Cross-cultural. Its reach is small and it is not described as removing cultural barriers, so it is counted under Community only. The Indomaret franchise model (1997) is described only in the English text, which shows no franchisee figures, so it was not scored. The President Commissioner is also President Commissioner of a coal miner (Indo Tambangraya Megah). That is an external board seat, not the company's business, so it is not a red flag."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DNET.JK\",\"sector\":\"Communication Services\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Training and competency development programs for the company's own employees\",\"quote\":\"Sepanjang tahun 2025, Perseroan telah memfasilitasi karyawan dengan berbagai pelatihan sebagai berikut:\",\"quote_en\":\"Throughout 2025, the Company facilitated employees with various training programs as follows:\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social Performance > Competency Development [IDX S.05]\",\"status\":\"current\",\"indicators\":\"9,2 jam/karyawan; 346 orang; 50,73%\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Indomaret (associate) scholarships for children of the East Kalimantan Dayak Fellowship in Samarinda\",\"quote\":\"Pemberian beasiswa kepada putra-putri Persekutuan Dayak Kalimantan Timur (PDKT) di Lamin Bakuda Kota Samarinda.\",\"quote_en\":\"Provision of scholarships for students of the East Kalimantan Dayak Fellowship (PDKT) at Lamin Bakuda, Samarinda City.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Education\",\"status\":\"current\",\"indicators\":\"100 siswa\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, limited reach\"}}},{\"id\":\"E3\",\"activity\":\"Indomaret (associate) Posyandu toddler health services and free health check-ups for the elderly\",\"quote\":\"Mengadakan Posyandu Balita & Cek Kesehatan yang mencakup acara senam sehat, penyuluhan kesehatan, pengecekan perkembangan balita, imunisasi, dan pengecekan kesehatan gratis bagi lansia.\",\"quote_en\":\"Organizing Integrated Health Service Post (Posyandu) activities for toddlers and health check-ups, including healthy exercise sessions, health education, toddler development monitoring, immunization, and free health check-ups for the elderly.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Health Programs\",\"status\":\"current\",\"indicators\":\"20 kota\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach (no participant or dollar figures)\"}}},{\"id\":\"E4\",\"activity\":\"Indomaret (associate) mosquito-breeding eradication and dengue prevention education with local health offices\",\"quote\":\"Menyelenggarakan Pemberantasan Sarang Nyamuk (PSN) bersama Jumantik (Juru Pemantau Jentik) dan Dinas Kesehatan di kota masing-masing untuk memberikan penyuluhan terkait pencegahan demam berdarah.\",\"quote_en\":\"Organizing Mosquito Breeding Eradication (PSN) activities together with Jumantik (Larvae Monitoring Officers) and local Health Offices to provide education on dengue fever prevention.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Health Programs\",\"status\":\"current\",\"indicators\":\"16 kota\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community partnership, limited reach\"}}},{\"id\":\"E5\",\"activity\":\"FiberStar (subsidiary) disaster recovery support in Sukabumi: emergency telecom infrastructure and donations\",\"quote\":\"Akibat bencana banjir dan tanah longsor yang mengakibatkan kerusakan di beberapa kecamatan di Kabupaten Sukabumi, FiberStar berinisiatif membantu pemulihan bencana dengan menyediakan infrastruktur layanan internet dan telekomunikasi untuk memastikan komunikasi tetap berjalan, serta memberikan donasi untuk mendukung pemulihan yang lebih tangguh dan berkelanjutan setelah bencana.\",\"quote_en\":\"Following floods and landslides that caused damage in several districts in Sukabumi Regency, FiberStar took the initiative to support disaster recovery by providing internet and telecommunications service infrastructure to ensure communication continuity, as well as donating to support a stronger and more sustainable post-disaster recovery.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > FiberStar\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach\"}}},{\"id\":\"E6\",\"activity\":\"FiberStar (subsidiary) humanitarian aid and Starlink emergency internet for Sumatra flood victims\",\"quote\":\"Akibat adanya bencana banjir bandang dan tanah longsor besar yang melanda Sumatera, FiberStar berinisiatif membantu dengan menyalurkan bantuan logistik bagi masyarakat terdampak serta menyediakan akses internet darurat Starlink untuk memastikan komunikasi dan koordinasi tim di lapangan tetap berjalan lancar.\",\"quote_en\":\"Following severe flash floods and landslides that struck Sumatra, FiberStar provided logistical assistance to affected communities and deployed Starlink emergency internet access to ensure communication and coordination among field teams remained operational.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > FiberStar\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach\"}}},{\"id\":\"E7\",\"activity\":\"Indomaret (associate) donation of an ambulance to North Lampung Regency\",\"quote\":\"Pemberian bantuan mobil ambulans untuk pelayanan kesehatan masyarakat Kabupaten Lampung Utara.\",\"quote_en\":\"Provision of an ambulance to support public healthcare services in North Lampung Regency.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Health Programs\",\"status\":\"current\",\"indicators\":\"1 (satu) unit ambulans\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach\"}}},{\"id\":\"E8\",\"activity\":\"Indomaret (associate) donation of agricultural equipment to Muna Regency\",\"quote\":\"Pemberian bantuan alat pertanian untuk Kabupaten Muna.\",\"quote_en\":\"Provision of agricultural equipment assistance for Muna Regency.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Economic\",\"status\":\"current\",\"indicators\":\"4 (empat) unit traktor mini, 3 (tiga) unit mesin perontok jagung, dan 1 (satu) unit mesin pemotong rumput\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach\"}}},{\"id\":\"E9\",\"activity\":\"Indomaret (associate) clean water facility in Bolok Village, East Nusa Tenggara\",\"quote\":\"Pemberian bantuan sumber air bersih di Desa Bolok, Kupang Barat, Nusa Tenggara Timur.\",\"quote_en\":\"Provision of clean water facilities in Bolok Village, West Kupang, East Nusa Tenggara.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > Indomaret > Environment\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach\"}}},{\"id\":\"E10\",\"activity\":\"ROTI (associate) donations to disaster-affected communities\",\"quote\":\"Bantuan kepada masyarakat yang tertimpa bencana serta masyarakat yang menjadi korban banjir bandang dan tanah longsor.\",\"quote_en\":\"Donations to support communities affected by disasters, as well as those affected by flash floods and landslides.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > ROTI > Natural Disaster\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited reach\"}}},{\"id\":\"E11\",\"activity\":\"FAST/KFC (associate) one-day community food-sharing event in Bandung\",\"quote\":\"Pada 16 Maret 2025, FAST menyelenggarakan kegiatan sosial bertajuk “Berbagi Berkah Bersama KFC” sebagai bentuk kepedulian kepada masyarakat sekitar.\",\"quote_en\":\"On March 16, 2025, FAST organized a community outreach event titled “Sharing Blessings with KFC” as a gesture of care for the local community.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > CSR Activities in 2025 > FAST > Social\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community activity, limited reach\"}}},{\"id\":\"E12\",\"activity\":\"Indomaret (associate) gives local MSMEs access to sell their products in its outlets\",\"quote\":\"Entitas asosiasi Perseroan, Indomaret, terus berupaya menyediakan lapangan kerja bagi warga sekitar dan akses bagi UMKM lokal untuk memasarkan produk-produknya di sebagian besar gerainya.\",\"quote_en\":\"The Company’s associate entity, Indomaret, continues to create employment opportunities for local communities and provide access for local MSMEs to market their products in many of its outlets.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social Performance > Community [POJK A.6c3]\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific current enabling program (retail shelf access for local MSMEs), no reach figures\"}}},{\"id\":\"E13\",\"activity\":\"Indomaret MoU with GP Ansor to support youth economic independence and empowerment\",\"quote\":\"Indomaret melakukan penandatanganan Nota Kesepahaman dengan Gerakan Pemuda (GP) Ansor yang bertujuan untuk mendukung kemandirian dan pemberdayaan ekonomi pemuda.\",\"quote_en\":\"Indomaret signed a Memorandum of Understanding with the Ansor Youth Movement (GP Ansor), which aims to support youth independence and economic empowerment.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Performance Highlights > 2025 Event Highlights > Indomaret\",\"status\":\"planned\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"context only: MoU signed, no operating activities described\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes the businesses (fiber-optic infrastructure, minimarkets, fast food, bakery) and shows no current creative activity. Web design under the 1998 Dyviacom IT division is historical only.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\",\"E10\",\"E11\"],\"reason\":\"Level 2: there are several specific current external activities with limited or modest disclosed reach, plus employee training. These include 100 scholarships, health programs in 20 and 16 cities, disaster relief and equipment donations. None is a large measured program, so the score stays at the lower level.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: the score rests only on general language. This covers the equal-opportunity and non-discrimination statement, a 'commitment' to equal product access, and gender and age demographic tables, with no specific inclusion practice, accessibility feature or community-connecting program.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E12\"],\"reason\":\"Level 2: associate Indomaret runs a current program giving local MSMEs shelf access to market their products in its outlets, but the report gives no number of businesses or revenue.\"}},\"notes\":\"Indoritel is a holding company. Most CSR activities belong to non-consolidated associates (Indomaret, FAST, ROTI), and the report includes them within its scope. Only FiberStar is a subsidiary. Training figures conflict: the training table shows 346 employees (50.73%) at 9.2 hours each, while the Directors' explanation (p.168) states 90% of employees participated at 9 hours average. Code of conduct section conflicts between languages: the Indonesian text says 'tidak menerima sejumlah laporan' (did not receive reports), the English says 'received several reports', and both say the reports were investigated and sanctioned. The violation types are not stated. The human-rights section reports zero discrimination or harassment cases. This is not treated as a rights finding. The Dayak Fellowship scholarship (E2) targets an indigenous community and could arguably support Cross-cultural. Its reach is small and it is not described as removing cultural barriers, so it is counted under Community only. The Indomaret franchise model (1997) is described only in the English text, which shows no franchisee figures, so it was not scored. The President Commissioner is also President Commissioner of a coal miner (Indo Tambangraya Megah). That is an external board seat, not the company's business, so it is not a red flag.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 128864,
+      "output_tokens": 10060,
+      "duration_ms": 83308
+    }
+  ]
+}
