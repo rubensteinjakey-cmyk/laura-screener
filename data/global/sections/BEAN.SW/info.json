@@ -1,0 +1,37 @@
+{
+  "ticker": "BEAN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://report.belimo.com/ar25/app/uploads/Annual-Report-2025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 28045,
+    "Annual report: keyword paragraphs from the rest": 2166
+  },
+  "notes": [],
+  "people_words": 618,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "Letter to Shareholders (pages 5-7)",
+    "Sustainability Report (pages 83-196)",
+    "Sustainability Governance (pages 86-97)",
+    "Business Model & Value Chain (pages 98-100)",
+    "Strategy & Targets (pages 104-107)",
+    "Social Topics (pages 128-149)",
+    "IFRS Sustainability Disclosures (pages 165-172)",
+    "Sustainability Notes (pages 175-196)",
+    "Our Employees (pages 190-191)",
+    "Occupational Health, Safety & Wellbeing (pages 192-196)"
+  ],
+  "chapters_skipped": [
+    "Consolidated Financial Statements of Belimo Group",
+    "Financial Statements of BELIMO Holding AG",
+    "Remuneration 2025",
+    "Remuneration Governance",
+    "Remuneration Policy",
+    "Remuneration Report",
+    "Statutory Auditors"
+  ],
+  "words_sent": 30231
+}

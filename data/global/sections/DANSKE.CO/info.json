@@ -1,0 +1,36 @@
+{
+  "ticker": "DANSKE.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://danskebank.com/-/media/danske-bank-com/file-cloud/2026/2/annual-report-2025.pdf?rev=16af459cfa094b8ab365a911a324f7f2",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 39949,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 19 lowest-relevance keyword paragraph(s) and 38 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to our stakeholders (pages 2-2)",
+    "Financial highlights - Danske Bank Group (pages 3-3)",
+    "Danske Bank at a glance (pages 4-4)",
+    "Strategy execution (pages 6-8)",
+    "Sustainability Statement (pages 40-133)"
+  ],
+  "chapters_skipped": [
+    "Balance sheet",
+    "Cash flow statement",
+    "Financial review",
+    "Financial statements – Danske Bank Group",
+    "Income statement",
+    "Income statements",
+    "Independent Auditor’s report",
+    "Risk management",
+    "Statement of comprehensive income"
+  ],
+  "words_sent": 39956
+}

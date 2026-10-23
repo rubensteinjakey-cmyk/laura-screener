@@ -1,0 +1,15 @@
+{
+  "ticker": "HMSP.JK",
+  "run_id": "global",
+  "model": "claude-opus-5-5",
+  "themes_rescored": [
+    "community",
+    "cross_cultural"
+  ],
+  "done_at": "2026-10-23T09:54:30",
+  "status": "no standalone report found",
+  "log": [
+    "company domain: sampoerna.com",
+    "search suggested 0 candidate(s)"
+  ]
+}

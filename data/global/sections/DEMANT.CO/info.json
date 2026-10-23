@@ -1,0 +1,28 @@
+{
+  "ticker": "DEMANT.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://assets-we.cas.dgs.com/-/media/demant/shared/new-library-2022/financial-reports/annual-report-english/demant-annual-report-2025.pdf?la=en&rev=AE32&hash=F68551D4B2CB09858AD389A748D55FF6",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 22926,
+    "Annual report: keyword paragraphs from the rest": 11716
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Overview (pages 3-11)",
+    "Market and strategy (pages 12-17)",
+    "Sustainability in Demant (pages 49-60)",
+    "Social (pages 77-94)",
+    "report on the sustainability statement (pages 197-201)"
+  ],
+  "chapters_skipped": [
+    "Consolidated financial statements",
+    "Independent auditor’s reports",
+    "Parent financial statements"
+  ],
+  "words_sent": 34662
+}

@@ -1,0 +1,202 @@
+{
+  "ticker": "BAVA.CO",
+  "company_name": "Bavarian Nordic",
+  "country": "Denmark",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.bavarian-nordic.com/media/380028/bn_annual_report_2025.pdf",
+  "english": true,
+  "words_sent": 39980,
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the report fully describes a vaccine business and shows no creative work created, enabled or supported.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E3",
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E3",
+        "E4"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 2: the evidence is employee development plus a one-off in-kind vaccine donation that is not a named ongoing community program; between 2 and 3, the lower level was chosen.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E2"
+      ],
+      "valid_evidence_ids": [
+        "E2"
+      ],
+      "kinds": [
+        "customer_access"
+      ],
+      "reason": "Level 3: a specific current lowest-price vaccine access program for 77 low- and lower-middle-income countries serves underserved communities with measured reach, but it is not shown to be a major part of the business.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: the report shows only the company's own R&D and innovation (general language) and no service or program that enables founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 3,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 27.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [
+    {
+      "id": "R1",
+      "flag": "rights_finding",
+      "found_by": "internal",
+      "case_type": "discrimination, including harassment",
+      "quote": "Incidents of discrimination, including harassment 6 0",
+      "section": "Annual report > Sustainability statements > S1 Own workforce > Total number of incidents and complaints (S1 – table 9)",
+      "explanation": "6 discrimination/harassment incidents were reported in 2025 to the company's own Ethics Hotline or Legal & Compliance team (0 in 2024); fines, penalties and compensation were DKK 0 and no outside body made a finding. The report does not say whether the incidents were substantiated.",
+      "source_doc": "filing",
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "internal_note": "Discloses internally substantiated discrimination, including harassment cases; not a red flag under the rule.",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 27.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "In-kind donation of mpox vaccine doses to Africa CDC and UNICEF for outbreak response in Uganda and Liberia",
+      "quote": "As part of our partnership with African CDC and UNICEF, Bavarian Nordic has donated a total of 130,000 doses of our mpox vaccine to help strengthen outbreak response.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability statements > S4 Consumers and end-users > Access to vaccines > Action 1 > Donations",
+      "status": "current",
+      "indicators": "130,000 doses",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current community investment (in-kind donation) with a figure; not a named ongoing program, so held at the lower level"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Lowest-price mpox vaccine access for low- and lower-middle-income countries through Gavi and UNICEF agreements",
+      "quote": "Through these contracts, we have worked together with all aforementioned parties to ensure vaccine access with the lowest price for the 77 low- and lower-middle-income countries.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability statements > S4 Consumers and end-users > Access to vaccines > Action 1 > Mpox: Working with partners to reach populations in low- and lower-middle-income countries",
+      "status": "current",
+      "indicators": "77 low- and lower-middle-income countries",
+      "themes": {
+        "cross_cultural": {
+          "kind": "customer_access",
+          "criterion": "level 3: specific current access program for underserved communities that removes an affordability barrier, with reach shown by indicators"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "Career Accelerator Pilot giving high-potential employees structured learning, mentoring and project experience",
+      "quote": "The pilot was introduced in our Global Operations department and our Quality Assurance department, currently engaging five participants.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability statements > S1 Own workforce > Career paths & opportunities > Career accelerator pilot",
+      "status": "current",
+      "indicators": "five participants",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Company-wide Project Management Training Program for employees",
+      "quote": "During 2025, we hosted two foundational project management courses and one advanced project management course.",
+      "source_doc": "filing",
+      "section": "Annual report > Sustainability statements > S1 Own workforce > Skills & knowledge > Internal courses",
+      "status": "current",
+      "indicators": "two foundational project management courses, one advanced project management course",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "Community: the 130,000-dose donation (110,000 to Uganda via Africa CDC, 20,000 to UNICEF for Liberia) is in-kind product donation during an outbreak, not an education or mentoring program. The Career Accelerator is a pilot with five participants, continued through Q2 2027. The Diversity & Inclusion policy and the gender and age statistics are policy and demographic disclosures only, so they add nothing above E2. Clinical partnerships with academia and the Serum Institute of India license are R&D and commercial arrangements, not community or cross-cultural programs. Smallpox vaccine supply 'for defense purposes' is a vaccine, not weapons. The S1 table reports 6 discrimination/harassment incidents raised through internal channels, with no fines or outside findings.",
+  "extract_notes": [
+    "over 40,000 words: dropped 10 lowest-relevance keyword paragraph(s) and 6 lowest-relevance chapter page(s)"
+  ],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 27094,
+  "score_source": "Annual report 2025",
+  "second_look": null
+}

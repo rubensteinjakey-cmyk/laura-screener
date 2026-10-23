@@ -1,0 +1,219 @@
+{
+  "ticker": "HLUN-B.CO",
+  "company_name": "Lundbeck",
+  "country": "Denmark",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/annual-reporting/2025/Lundbeck_Annual_Report_2025.pdf",
+  "english": true,
+  "words_sent": 40149,
+  "prompt_chars": 302469,
+  "approx_prompt_tokens": 75617,
+  "scored_at": "2026-10-23T08:56:07",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Enterprise Leadership Program rolled out to train and develop the company's people leaders",
+        "quote": "In order to support our leaders, we have rolled out an Enterprise Leadership Program, equipping them with the mindset and capabilities to deliver business value today while driving sustainable transformation.",
+        "source_doc": "filing",
+        "section": "Annual report > Business and strategy > Strategy update > Our people are key drivers of success",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Mandatory unconscious-bias and cultural-awareness training for employees",
+        "quote": "In parallel, mandatory trainings on unconscious bias and cultural awareness continue to reinforce our commitment to inclusion and belonging.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > S1 Own workforce > Inclusion, diversity, and equity > People-focused actions",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal inclusion practice with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Employee resource groups open to all employees, which grew in number in 2025",
+        "quote": "Additionally, Lundbeck encourages and supports the establishment of employee resource groups (ERGs), voluntary employee-led groups open to all employees that engage in awareness and drive dialogue.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > S1 Own workforce > Engaging with our own workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Long-standing sponsorship of Clubhouse International's community-based mental health awareness campaign",
+        "quote": "In 2025, we continued our long-standing partnership with Clubhouse International by sponsoring their mental health awareness efforts.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Mental health community-based care",
+        "status": "current",
+        "indicators": "25 clubhouses from eight countries",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named nonprofit partnership with participation figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Sponsorship of the European Migraine and Headache Alliance's Migraine Friendly Workplace program, which educates employers and employees",
+        "quote": "In 2025, 93 organizations across different sectors were accredited as migraine-friendly workplaces by the EMHA, including Lundbeck.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Partnership for migraine awareness in the workplace",
+        "status": "current",
+        "indicators": "93 organizations",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: sponsored named external education program with reach figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Product donation partnership with International Health Partners supplying treatments to low- and middle-income countries",
+        "quote": "In 2025, Lundbeck manufactured 4,291 treatments that were donated in LMICs.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Product donations through IHP",
+        "status": "current",
+        "indicators": "4,291 treatments; 23,000 patients",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named donation program with numbers reached"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Funding for Danish Red Cross mental health and psychosocial support in Ukraine, including training for Red Cross volunteers",
+        "quote": "In December 2023, Lundbeck committed DKK 5 million to support Danish Red Cross Mental Health and Psychosocial Support (MHPSS) activities in Ukraine during 2024 and 2025.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Partnering with the Red Cross for psychosocial support in Ukraine",
+        "status": "current",
+        "indicators": "DKK 5 million committed; DKK 3.5 million paid in 2025",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with disclosed dollars"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Leadership of the Lighthouse Life Science public-private partnership focused on mental health",
+        "quote": "Under Lundbeck’s leadership from 2023 to 2025, the partnership’s focus has been on mental health.",
+        "source_doc": "filing",
+        "section": "Annual report > Business and strategy > Science and innovation > Lighthouse Life Science",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community partnership, limited disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Annual #1VoiceSummit global advocacy event that brings patient communities together to share best practices",
+        "quote": "For the past 11 years, Lundbeck has hosted an annual global advocacy event, the #1VoiceSummit.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statement > S4 Consumers and end-users > Patient voice > Key actions",
+        "status": "current",
+        "indicators": "11 years; 28 patient advocacy groups; nine countries",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: named ongoing collaboration program with patient communities, with participant figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a neuroscience pharmaceutical business and shows no creative activity ('state-of-the-art' and trial 'design' are traps)."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9"
+        ],
+        "reason": "Level 3: several named external community investments have disclosed reach and dollars (Red Cross DKK 3.5 million paid in 2025, 4,291 donated treatments, Clubhouse and EMHA sponsorships), but they are not central or large enough for level 4."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: specific current internal inclusion practices (employee resource groups, unconscious-bias and cultural-awareness training) with no membership or reach figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests only on general language about the company's own innovation and R&D partnerships, with no program enabling founders or small businesses."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "harassment and/or discrimination",
+        "quote": "In 2025, 15 harassment and/or discrimination cases were reported, of which three were substantiated.",
+        "section": "Annual report > Sustainability Statement > S1 Own workforce > Performance on incidents & complaints",
+        "explanation": "Three harassment or discrimination cases were substantiated through the company's own reporting channels (managers, Employee Relations, ombudsmen, Compliance Hotline). Fines, penalties and compensation are reported as nil, and no outside-body finding is disclosed, so this costs no points."
+      }
+    ],
+    "notes": "Health Care pharma focused on brain disorders. R&D partnerships (External Innovation Unit, Contera, Iambic, Michael J. Fox Foundation grants received by Lundbeck) are licensing or research collaborations and were not counted for Community or Entrepreneurship. The LMIC product donations and the Equity-based Tiered Pricing framework could arguably support Cross-cultural customer access. They were kept under Community only to avoid double counting, and the level was held at 2 when torn. The report also describes a Neurodiversity commitment that adapts working conditions, and a Migraine-Friendly Workplace certification, as further internal practices. Workforce gender and age statistics are demographics only. The 2025 inclusion score target (8.5) was missed (8.2). In 2025 the company moved to a partner-led model in 27 countries (602 employees impacted) and exited Pakistan (22 employees). The Sustainability Strategy is being updated, with a new strategy due in 2026. Older legal matters (EU competition fine from 2013, US DOJ CID, Humana kickback complaint) do not involve rights findings."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"HLUN-B.CO\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Enterprise Leadership Program rolled out to train and develop the company's people leaders\",\"quote\":\"In order to support our leaders, we have rolled out an Enterprise Leadership Program, equipping them with the mindset and capabilities to deliver business value today while driving sustainable transformation.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business and strategy > Strategy update > Our people are key drivers of success\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Mandatory unconscious-bias and cultural-awareness training for employees\",\"quote\":\"In parallel, mandatory trainings on unconscious bias and cultural awareness continue to reinforce our commitment to inclusion and belonging.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > S1 Own workforce > Inclusion, diversity, and equity > People-focused actions\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal inclusion practice with no reach figures\"}}},{\"id\":\"E3\",\"activity\":\"Employee resource groups open to all employees, which grew in number in 2025\",\"quote\":\"Additionally, Lundbeck encourages and supports the establishment of employee resource groups (ERGs), voluntary employee-led groups open to all employees that engage in awareness and drive dialogue.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > S1 Own workforce > Engaging with our own workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}},{\"id\":\"E4\",\"activity\":\"Long-standing sponsorship of Clubhouse International's community-based mental health awareness campaign\",\"quote\":\"In 2025, we continued our long-standing partnership with Clubhouse International by sponsoring their mental health awareness efforts.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Mental health community-based care\",\"status\":\"current\",\"indicators\":\"25 clubhouses from eight countries\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named nonprofit partnership with participation figures\"}}},{\"id\":\"E5\",\"activity\":\"Sponsorship of the European Migraine and Headache Alliance's Migraine Friendly Workplace program, which educates employers and employees\",\"quote\":\"In 2025, 93 organizations across different sectors were accredited as migraine-friendly workplaces by the EMHA, including Lundbeck.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Partnership for migraine awareness in the workplace\",\"status\":\"current\",\"indicators\":\"93 organizations\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: sponsored named external education program with reach figures\"}}},{\"id\":\"E6\",\"activity\":\"Product donation partnership with International Health Partners supplying treatments to low- and middle-income countries\",\"quote\":\"In 2025, Lundbeck manufactured 4,291 treatments that were donated in LMICs.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Product donations through IHP\",\"status\":\"current\",\"indicators\":\"4,291 treatments; 23,000 patients\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named donation program with numbers reached\"}}},{\"id\":\"E7\",\"activity\":\"Funding for Danish Red Cross mental health and psychosocial support in Ukraine, including training for Red Cross volunteers\",\"quote\":\"In December 2023, Lundbeck committed DKK 5 million to support Danish Red Cross Mental Health and Psychosocial Support (MHPSS) activities in Ukraine during 2024 and 2025.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > S4 Consumers and end-users > Access to health actions > Partnering with the Red Cross for psychosocial support in Ukraine\",\"status\":\"current\",\"indicators\":\"DKK 5 million committed; DKK 3.5 million paid in 2025\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with disclosed dollars\"}}},{\"id\":\"E8\",\"activity\":\"Leadership of the Lighthouse Life Science public-private partnership focused on mental health\",\"quote\":\"Under Lundbeck’s leadership from 2023 to 2025, the partnership’s focus has been on mental health.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business and strategy > Science and innovation > Lighthouse Life Science\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community partnership, limited disclosed reach\"}}},{\"id\":\"E9\",\"activity\":\"Annual #1VoiceSummit global advocacy event that brings patient communities together to share best practices\",\"quote\":\"For the past 11 years, Lundbeck has hosted an annual global advocacy event, the #1VoiceSummit.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Statement > S4 Consumers and end-users > Patient voice > Key actions\",\"status\":\"current\",\"indicators\":\"11 years; 28 patient advocacy groups; nine countries\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2-3: named ongoing collaboration program with patient communities, with participant figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes a neuroscience pharmaceutical business and shows no creative activity ('state-of-the-art' and trial 'design' are traps).\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\"],\"reason\":\"Level 3: several named external community investments have disclosed reach and dollars (Red Cross DKK 3.5 million paid in 2025, 4,291 donated treatments, Clubhouse and EMHA sponsorships), but they are not central or large enough for level 4.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E3\"],\"reason\":\"Level 2: specific current internal inclusion practices (employee resource groups, unconscious-bias and cultural-awareness training) with no membership or reach figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests only on general language about the company's own innovation and R&D partnerships, with no program enabling founders or small businesses.\"}},\"notes\":\"Health Care pharma focused on brain disorders. R&D partnerships (External Innovation Unit, Contera, Iambic, Michael J. Fox Foundation grants received by Lundbeck) are licensing or research collaborations and were not counted for Community or Entrepreneurship. The LMIC product donations and the Equity-based Tiered Pricing framework could arguably support Cross-cultural customer access. They were kept under Community only to avoid double counting, and the level was held at 2 when torn. The report also describes a Neurodiversity commitment that adapts working conditions, and a Migraine-Friendly Workplace certification, as further internal practices. Workforce gender and age statistics are demographics only. The 2025 inclusion score target (8.5) was missed (8.2). In 2025 the company moved to a partner-led model in 27 countries (602 employees impacted) and exited Pakistan (22 employees). The Sustainability Strategy is being updated, with a new strategy due in 2026. Older legal matters (EU competition fine from 2013, US DOJ CID, Humana kickback complaint) do not involve rights findings.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"harassment and/or discrimination\",\"quote\":\"In 2025, 15 harassment and/or discrimination cases were reported, of which three were substantiated.\",\"section\":\"Annual report > Sustainability Statement > S1 Own workforce > Performance on incidents & complaints\",\"explanation\":\"Three harassment or discrimination cases were substantiated through the company's own reporting channels (managers, Employee Relations, ombudsmen, Compliance Hotline). Fines, penalties and compensation are reported as nil, and no outside-body finding is disclosed, so this costs no points.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 111128,
+      "output_tokens": 8809,
+      "duration_ms": 76065
+    }
+  ]
+}

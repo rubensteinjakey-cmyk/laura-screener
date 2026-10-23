@@ -1,0 +1,41 @@
+{
+  "ticker": "DSFIR.AS",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://annualreport.dsm-firmenich.com/2025/_assets/downloads/entire-dsmfirmenich-iar25.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 17432,
+    "Annual report: keyword paragraphs from the rest": 16388
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed table of contents",
+  "chapters": [
+    "Letter to stakeholders (pages 9-11)",
+    "Our strategy (pages 12-19)",
+    "Our Businesses (pages 23-23)",
+    "Sustainability Performance (pages 52-52)",
+    "Letter from the CSO (pages 52-53)",
+    "Our Sustainability program (pages 54-56)",
+    "Sustainability Statements (pages 127-127)",
+    "Social information (pages 178-196)"
+  ],
+  "chapters_skipped": [
+    "Appendix to the Sustainability",
+    "Auditors",
+    "Balance sheet",
+    "Cash flow statement",
+    "Compensation Report",
+    "Governance, Risk Management,",
+    "Material risks and uncertainties",
+    "Notes to the Consolidated",
+    "Notes to the Parent Company",
+    "Our approach to risk",
+    "Parent Company Financial",
+    "Report of the Statutory Auditor",
+    "Statutory Auditor’s Report"
+  ],
+  "words_sent": 33840
+}

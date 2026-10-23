@@ -1,0 +1,172 @@
+{
+  "ticker": "GEBN.SW",
+  "company_name": "Geberit",
+  "country": "Switzerland",
+  "sector": "Industrials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://reports.geberit.com/annual-report/2025/_assets/downloads/geberit-ar25-en-entire.pdf",
+  "english": true,
+  "words_sent": 39904,
+  "prompt_chars": 298361,
+  "approx_prompt_tokens": 74590,
+  "scored_at": "2026-10-23T09:12:06",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Internal GROW and LEAD talent and leadership development programmes for employees",
+        "quote": "In 2025, 90employees (previous year 100) took part in the internal development programmes GROW and LEAD, of these 23women(previous year 30).",
+        "source_doc": "filing",
+        "section": "Sustainability > Social matters > Own workforce > Education and further training > Internal development programmes",
+        "status": "current",
+        "indicators": "90employees; 23women; 57% of vacancies filled internally",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Vocational apprenticeship training for young people employed by the company",
+        "quote": "Geberit employed 289apprentices at the end of 2025 (previous year 284).",
+        "source_doc": "filing",
+        "section": "Sustainability > Social matters > Own workforce > Education and further training > Vocational training and internships",
+        "status": "current",
+        "indicators": "289apprentices; 21professions",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (apprentices are employees)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Local cooperations with universities and institutes for student internships and theses",
+        "quote": "The local companies maintain local cooperations for internships and theses.",
+        "source_doc": "filing",
+        "section": "Sustainability > Social matters > Own workforce > Education and further training > University cooperations and talent acquisition",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education activity, limited reach, no figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "In-person and digital training for plumbers, sanitary engineers and other customer employees at 30 Geberit Information Centres",
+        "quote": "This is apparent in particular in the sharp increases in visitor numbers to customer events as well as higher attendance numbers at in-person training at the Geberit Information Centres, where Geberit reinforced specialist expertise and interpersonal dialogue.",
+        "source_doc": "filing",
+        "section": "Sustainability > Social matters > Employees in the value chain > Measures and key figures in the reporting year > Employees at customer companies",
+        "status": "current",
+        "indicators": "30 information centres; 87,850 customers reached through in-person trainings; 20,170 customers reached through digital trainings",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: large reach, but defined as product training integral to the sales model, so close to the 'educating customers as marketing' trap; lower level chosen"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Disclosure of the share of employees with disabilities",
+        "quote": "People with disabilities are part of the company – in 2025, they accounted for 6.5% of the workforce.",
+        "source_doc": "filing",
+        "section": "Sustainability > Sustainability 2025 at a glance > Inclusive workplaces",
+        "status": "current",
+        "indicators": "6.5% of the workforce",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce demographic statistic only, no described practice"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Sells mainly via wholesalers to plumbers who install its products",
+        "quote": "The main customers at wholesalers are plumbers who install the Geberit products and solutions in buildings.",
+        "source_doc": "filing",
+        "section": "Sustainability > Business model and value chain > Value chain > Downstream value chain",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "serving",
+            "criterion": "level 1: tradesperson/small-business customers with no specific enabling programme"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business description covers sanitary technology, piping and bathroom products with no creative work created, enabled or supported; 'ecodesign' is engineering design."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: substantial employee development plus external university cooperations without figures and product-focused customer training tied to the sales model, which is too close to the marketing trap to support level 3."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5"
+        ],
+        "reason": "Level 1: only demographic statistics (disability and gender shares) and non-discrimination policy and compliance training, with no specific inclusion or customer-access activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E6"
+        ],
+        "reason": "Level 1: plumbers and plumbing companies are served as customers and the company cites its own innovation, but there is no specific programme aimed at barriers to starting or growing a business."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "sexual harassment",
+        "quote": "However, seven cases of sexual harassment were reported.",
+        "section": "Sustainability > Governance matters > Corporate culture and antitrust legislation > Measures and key figures in the reporting year > Human rights",
+        "explanation": "Seven sexual harassment cases were reported and handled through internal investigations, leading to two dismissals, two departures and three disciplinary warnings. The report states no fines or outside findings, so this costs no points."
+      }
+    ],
+    "notes": "Source covers the sustainability chapters only. The Business Report 'Social responsibility' section is referenced but was not provided. Customer training (~110,000 customers; 87,850 in-person and 20,170 digital) is defined as 'familiarising customers with how Geberit's products and solutions are used', with a focus on product training integral to the sales model, so it was not treated as level-3 external education. Project partnerships with the Hilti Foundation and Swisscontact appear only as entries in a stakeholder table with no described activity or figures, so they were not scored. The Sales Development Programme for 'external prospects' is recruitment into employment. The Integrity Line and supplier Code of Conduct are multilingual (15 languages), but these are compliance tools and were not scored as customer access. An official competition-law investigation is pending; this is not a rubric red flag. Seven sexual harassment cases were handled internally (see R1)."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"GEBN.SW\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Internal GROW and LEAD talent and leadership development programmes for employees\",\"quote\":\"In 2025, 90employees (previous year 100) took part in the internal development programmes GROW and LEAD, of these 23women(previous year 30).\",\"source_doc\":\"filing\",\"section\":\"Sustainability > Social matters > Own workforce > Education and further training > Internal development programmes\",\"status\":\"current\",\"indicators\":\"90employees; 23women; 57% of vacancies filled internally\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Vocational apprenticeship training for young people employed by the company\",\"quote\":\"Geberit employed 289apprentices at the end of 2025 (previous year 284).\",\"source_doc\":\"filing\",\"section\":\"Sustainability > Social matters > Own workforce > Education and further training > Vocational training and internships\",\"status\":\"current\",\"indicators\":\"289apprentices; 21professions\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (apprentices are employees)\"}}},{\"id\":\"E3\",\"activity\":\"Local cooperations with universities and institutes for student internships and theses\",\"quote\":\"The local companies maintain local cooperations for internships and theses.\",\"source_doc\":\"filing\",\"section\":\"Sustainability > Social matters > Own workforce > Education and further training > University cooperations and talent acquisition\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education activity, limited reach, no figures\"}}},{\"id\":\"E4\",\"activity\":\"In-person and digital training for plumbers, sanitary engineers and other customer employees at 30 Geberit Information Centres\",\"quote\":\"This is apparent in particular in the sharp increases in visitor numbers to customer events as well as higher attendance numbers at in-person training at the Geberit Information Centres, where Geberit reinforced specialist expertise and interpersonal dialogue.\",\"source_doc\":\"filing\",\"section\":\"Sustainability > Social matters > Employees in the value chain > Measures and key figures in the reporting year > Employees at customer companies\",\"status\":\"current\",\"indicators\":\"30 information centres; 87,850 customers reached through in-person trainings; 20,170 customers reached through digital trainings\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: large reach, but defined as product training integral to the sales model, so close to the 'educating customers as marketing' trap; lower level chosen\"}}},{\"id\":\"E5\",\"activity\":\"Disclosure of the share of employees with disabilities\",\"quote\":\"People with disabilities are part of the company – in 2025, they accounted for 6.5% of the workforce.\",\"source_doc\":\"filing\",\"section\":\"Sustainability > Sustainability 2025 at a glance > Inclusive workplaces\",\"status\":\"current\",\"indicators\":\"6.5% of the workforce\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce demographic statistic only, no described practice\"}}},{\"id\":\"E6\",\"activity\":\"Sells mainly via wholesalers to plumbers who install its products\",\"quote\":\"The main customers at wholesalers are plumbers who install the Geberit products and solutions in buildings.\",\"source_doc\":\"filing\",\"section\":\"Sustainability > Business model and value chain > Value chain > Downstream value chain\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"serving\",\"criterion\":\"level 1: tradesperson/small-business customers with no specific enabling programme\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the business description covers sanitary technology, piping and bathroom products with no creative work created, enabled or supported; 'ecodesign' is engineering design.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: substantial employee development plus external university cooperations without figures and product-focused customer training tied to the sales model, which is too close to the marketing trap to support level 3.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\"],\"reason\":\"Level 1: only demographic statistics (disability and gender shares) and non-discrimination policy and compliance training, with no specific inclusion or customer-access activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E6\"],\"reason\":\"Level 1: plumbers and plumbing companies are served as customers and the company cites its own innovation, but there is no specific programme aimed at barriers to starting or growing a business.\"}},\"notes\":\"Source covers the sustainability chapters only. The Business Report 'Social responsibility' section is referenced but was not provided. Customer training (~110,000 customers; 87,850 in-person and 20,170 digital) is defined as 'familiarising customers with how Geberit's products and solutions are used', with a focus on product training integral to the sales model, so it was not treated as level-3 external education. Project partnerships with the Hilti Foundation and Swisscontact appear only as entries in a stakeholder table with no described activity or figures, so they were not scored. The Sales Development Programme for 'external prospects' is recruitment into employment. The Integrity Line and supplier Code of Conduct are multilingual (15 languages), but these are compliance tools and were not scored as customer access. An official competition-law investigation is pending; this is not a rubric red flag. Seven sexual harassment cases were handled internally (see R1).\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"sexual harassment\",\"quote\":\"However, seven cases of sexual harassment were reported.\",\"section\":\"Sustainability > Governance matters > Corporate culture and antitrust legislation > Measures and key figures in the reporting year > Human rights\",\"explanation\":\"Seven sexual harassment cases were reported and handled through internal investigations, leading to two dismissals, two departures and three disciplinary warnings. The report states no fines or outside findings, so this costs no points.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 103676,
+      "output_tokens": 5109,
+      "duration_ms": 45819
+    }
+  ]
+}

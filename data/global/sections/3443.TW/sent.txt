@@ -1,0 +1,1912 @@
+<section name="Annual report: selected chapters">
+[page 1]
+Qisda
+TWSE 3443
+2025
+ANNUAL REPORT
+Taiwan Stock Exchange Market Observation Post System / 
+mops.twse.com.tw / GUC company website / www.guc-asic.com
+Printed on Mar 23,2026
+ANNUAL REPORT2025Global Unichip Corporation
+
+[page 3]
+Letter to 
+Shareholders
+FY2025 Operational Results
+Summary of the FY2026 Business Plan
+01
+2 3Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+
+[page 4]
+4 5
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+4 5Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+01  Letter to Shareholders
+Dear shareholders,
+In 2025, against the backdrop of easing inflation and major central banks gradually shifting monetary policies 
+toward accommodation, the global economy showed a moderate recovery. Despite disruptions from reciprocal 
+tariffs and ﬂuctuations in the NTD exchange rate, the technology industry, supported by the continued expansion of 
+demand for AI training and inference, saw overall conditions across the related semiconductor supply chain remain 
+stronger than in the previous year. The K-shaped recovery in 2025 exhibited pronounced divergence across 
+different market segments, with strong demand for AI servers and high-performance computing chips sustaining 
+robust growth momentum in areas such as advanced process wafer foundry services, high-speed interfaces, 
+advanced packaging, and memory.
+Beneﬁting from years of continuous investment in R&D related to advanced process and advanced packaging IP, 
+GUC has continuously strengthened the technical competitiveness of its chip design services, providing customers 
+with optimal solutions that balance performance and cost, and successfully establishing differentiated advantages. 
+In 2025, consolidated operating revenue and earnings per share both reached new historical highs. Full-year 
+consolidated operating revenue amounted to NTD 34.141 billion, representing a 36% increase compared to the 
+previous year, while consolidated earnings per share were NTD 28.13. Proﬁtability has exceeded two times the 
+paid-in capital for four consecutive years.
+2025 Business Results
+(I) Business Plan Implementation Results
+In 2025, demand for cloud products such as AI servers, high-performance computing chips, and cryptocurrencies 
+was strong, with revenue increasing by 83% compared to the previous year. However, consumer electronics 
+products were affected by uncertainties related to reciprocal tariffs and performed below expectations, declining 
+by 12% year over year. In the automotive chip segment, benefiting from the rapid expansion of the ADAS 
+and intelligent driving market, the annual growth rate reached 225%. As AI-related design service projects 
+undertaken by GUC in recent years have gradually entered the verification and mass production stages, 
+revenue was able to reach a record high.
+In terms of R&D, in addition to actively expanding investment and continuously increasing R&D personnel, 
+GUC has invested in advanced process design service solutions, advanced packaging technologies, and the 
+development of related IP. The Company has also acquired a new facility in Zhunan to establish a high-speed 
+computing center and expand the hardware equipment required for R&D, in order to meet the computing 
+demands of more advanced processes below 3 nanometers and high-end packaging designs in the future, 
+maintain its technological leadership, and pursue long-term growth in revenue and proﬁtability.
+(II) Analysis of Operating Revenue and Proﬁtability
+GUC's consolidated operating revenue in 2025 amounted to NTD 34.141 billion, an increase of 36% compared 
+to NTD 25.044 billion in the previous year. Net proﬁt after tax was NTD 3.77 billion, up 9% year over year. Due 
+to the increased proportion of integrated chip manufacturing services (Turnkey Service), the gross margin 
+in 2025 was 24.8%, a decrease of 8 percentage points from 32.4% in the prior year. In addition, operating 
+expenses were well controlled, with operating expenses totaling NT$4.104 billion, representing a decrease 
+of 5 percentage points compared to the previous year. Consolidated earnings per share were NTD 28.13, 
+representing an increase of 9 percentage points compared to the previous year.
+(III) Technology Development
+In terms of new technology development, GUC is actively advancing co-packaged optics (CPO) technology 
+to develop next-generation AI high-speed data transmission solutions. A new Multi-Chip Package (MCP) 
+design integrates TSMC COUPE optical engine technology to replace traditional electrical interconnects and 
+directly connect to the MCP organic substrate, enabling full-duplex optical interfaces exceeding 100 Tbps and 
+breaking through the limits of conventional electrical signal transmission. GUC also achieved multiple major 
+technological breakthroughs and innovative accomplishments in 2025 as follows:
+• Multi-chip interconnect solutions following UCIe industrial standard for inter-operability. 
+1. GUC successfully taped out the UCIe compliant, chip interconnect IP "UCIe 1.0" in 3nm in Nov, 2023. 
+The silicon was validated in 3Q25. The solution is ready to provide customers with complete multi-chip 
+interconnect solutions following UCIe industrial standard for inter-operability.
+2. GUC successfully taped out the UCIe compliant, chip interconnect IP "UCIe LP 32G" in 5nm in Oct, 
+2024. The silicon is expected silicon proven by 2Q26.
+3. GUC successfully taped out the UCIe compliant, chip interconnect IP "UCIe 64G" in 3nm in Dec, 2025. 
+The silicon is expected silicon proven in 1Q27.
+• GUC successfully supported a key customer in developing customized N3 and N5 GLink-3D IPs for 
+die-on-die interconnects in TSMC SoIC-X N3-on-N5 stacking, with design tape-outs completed in 
+Jun25 and Jul25, respectively.
+• GUC 3nm HBM4 12G (PHY and Controller) IP was successfully taped out in 1Q25 and became 
+silicon-proven in 1Q26, supporting TSMC CoWoS advanced packaging technology. In addition, the 
+2nm HBM4E 16G IP is currently under development and is scheduled for tape-out in 1H26.
+• GUC took an industry-leading position in adopting TSMC CPO technology, including 3nm electronic 
+integrated circuits (EIC), 65nm photonic integrated circuits (PIC), and silicon photonics engine–based 
+3D packaging technologies. The corresponding design ﬂows were completed in 4Q25, and customer 
+tape-out is planned for 2H26.
+• GUC took an industry-leading position in adopting TSMC IVR technology, completing architecture 
+design and tape-out in 4Q25. Design flow development is planned for 1H26, incorporating 16nm 
+power management integrated circuits (PMIC), on-wafer inductors (OWL), and deep trench capacitors 
+(DTC) through heterogeneous integration technologies.
+• GUC has taken the lead in 2nm design technology, completing the development of the N2P design 
+ﬂow in 2Q25 and successfully achieving silicon veriﬁcation of a 2nm test chip in 3Q25, demonstrating 
+the company's technology leadership in advanced process nodes and high-end chip design.
+As of the end of 2025, the Company had obtained a total of 610 patents worldwide, demonstrating GUC's 
+active investment in R&D and further enhancing its core competitiveness.
+Summary of the 2026 Business Plan
+Looking ahead to 2026, as major economies enter low-interest-rate or rate-cutting cycles, global economic 
+conditions are expected to support further recovery in investment and technology-related capital expenditures. 
+Building on the K-shaped recovery of 2025, AI will remain the primary growth driver of the industry in 2026, and 
+demand in markets such as cloud computing, high-performance computing chips, automotive electronics, advanced 
+packaging, and high-speed interconnects is expected to continue expanding. Against the backdrop of rapid 
+advancements in AI technology and the deepening of vertical applications, GUC has also beneﬁted from increased 
+customer turnkey volumes and the expansion of diversified application markets, strengthening its operational
+</section>
+
+<section name="Annual report: keyword paragraphs from the rest of the report">
+[page 5]
+6 7
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+6 7Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+01  Letter to Shareholders
+Future company development strategies and the impact 
+of the external competitive environment, regulatory 
+environment, and macroeconomic conditions
+Although the overall macroeconomic trend continues to provide positive support for the chip design services and 
+turnkey manufacturing services industry. ASIC chips continue to expand driven by applications in data centers, 
+high-speed network infrastructure, automotive electronics, and edge computing. Customer demand for highly 
+integrated, high-performance, and differentiated chips is also growing increasingly strong. However, in the face of a 
+regulatory environment characterized by rapidly changing export control measures and tariff policies, the Company 
+will maintain a prudent approach, comply with relevant regulations, and implement rigorous review procedures to 
+ensure that it serves global customers on a lawful and compliant basis. In addition, we will continue to invest in talent 
+and R&D to maintain our leading position, widen the technological gap with competitors, and enhance the long-term 
+interests of the Company's shareholders and employees.
+
+[page 5]
+Finally, we wish everyone good health and every success.
+foundation.
+GUC's outlook for 2026 is as follows:
+1. The AI application market is expected to grow signiﬁcantly:
+
+[page 5]
+The key factor lies in Google's self-developed Tensor Processing Unit (TPU), which offers exceptional energy 
+efﬁciency and cost advantages. GUC has also beneﬁted from this wave by providing customers with professional 
+support in CoWoS and Physical Design, assisting in the development of AI accelerator chips, and is expected to 
+maintain healthy momentum in advanced process projects such as 2nm and 3nm.
+
+[page 5]
+2. The trends of silicon intellectual property (IP), system-level SoCs, and advanced packaging are strengthening the 
+momentum of the Company's high-end design projects:
+As major cloud service providers accelerate the development of in-house chips, customers increasingly rely on 
+mature and rapidly deployable silicon intellectual property (IP) to shorten time to market. As demand for data 
+throughput driven by AI and high-performance computing rises rapidly, high-speed interconnects within and 
+between chips have become critical, driving the adoption and integration demand for high-speed transmission IP 
+such as HBM4E PHY, controllers, and UCIe. The Company expects to continue close collaboration with wafer 
+foundries and backend packaging houses, enhancing customer project development efficiency and overall 
+competitiveness through advanced process validation, IP expansion, and strengthened design platforms.
+
+[page 5]
+On the other hand, as 2.5D/3D advanced packaging and chiplet architectures gradually become mainstream, 
+design complexity has increased significantly, and customer demand for design services with system-level 
+integration capabilities and the ability to integrate multiple key IPs has expanded accordingly. This trend is 
+favorable for the Company to enter high-end NRE projects with higher technical barriers and better unit pricing 
+and margin levels, becoming an important driver of mid-term to long-term growth.
+
+[page 5]
+(I) Expected Sales
+GUC will continue to strengthen the bond and collaboration with existing customers by delivering outstanding 
+design services. GUC pledges to accelerate advanced manufacturing processes, shorten design time, and 
+achieve rapid product launches for customers. Additionally, GUC will focus on the R&D and deployment of 
+essential semiconductor intellectual property rights for advanced manufacturing processes and advanced 
+packaging.
+
+[page 5]
+(II) Major Production and Sales Policies
+The Company will continue to strengthen collaboration with wafer foundries and consistently provide customers 
+with superior design and manufacturing services. We are committed to helping customers accelerate the 
+advancement of advanced process technologies, shorten design cycles, and achieve rapid time to market, 
+while actively investing in the R&D and deployment of silicon intellectual property required for advanced 
+processes and advanced packaging.
+
+[page 7]
+TSMC (note 1)
+Male/ 
+81
+2023.05.18 3 year 2003.01.23 46,687,859 34.84% 46,687,859 34.84% 0 0.00% 0 0.00% None None None None None
+Representative:  
+F.C. Tseng 2023.05.18 3 year 2003.01.23 0 0.00% 0 0.00% 0 0.00% 0 0.00%
+Bachelor in Electrical 
+Engineering, National Cheng 
+Kung University, Master in 
+Electrical Engineering, National 
+Chiao Tung University, Ph.D. in 
+Electrical Engineering, National 
+Cheng Kung University, 
+Honorary Doctorate of National 
+Chiao Tung University, 
+President of Vanguard 
+International Semiconductor 
+Corporation, Vice Chairman 
+of TSMC, President of TSMC, 
+Deputy Chief Executive 
+Officer of TSMC, President of 
+TSMC Education and Culture 
+Foundation , Director of National 
+Culture and Arts Foundation
+Note 3 None None None
+R.O.C.
+
+[page 7]
+TSMC
+Female/ 
+67
+2023.05.18 3 year 2006.06.30 46,687,859 34.84% 46,687,859 34.84% 0 0.00% 0 0.00% None None None None None
+Representative:  
+Lie-Szu Juang 2025.04.09 (note2) 2025.04.09 7,436 0.01% 7,436 0.01% 0 0.00% 0 0.00%
+Ph.D. in Computer Science 
+from University of Pennsylvania
+Senior Director of Research 
+& Development / Design & 
+Technology Platform of TSMC.
+
+[page 9]
+14 15
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+14 15Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+02  Corporate Governance
+(1) Information on directors March 23, 2026
+Nationality 
+or place of 
+registration
+Name Gender/
+Age
+Date on 
+which 
+current 
+position 
+was 
+assumed
+Term of 
+contract
+Commencement 
+date of  
+the first term
+Shares held  
+at the time of election
+Number of  
+shares currently held
+Number of  
+shares currently held  
+by their spouses, 
+children of minor age
+Shares held  
+through nominees Principal work experience 
+and academic qualifications
+Position(s) held 
+concurrently in the 
+company and/or in 
+any other company
+Heads, directors or 
+supervisors with a 
+spouse or relatives 
+within the second 
+degree of kinship
+Number of 
+shares
+Shareholding 
+ratio
+Number of 
+shares
+Shareholding 
+ratio
+Number of 
+shares
+Shareholding 
+ratio
+Number of 
+shares
+Shareholding 
+ratio Title Name Relation
+R.O.C. Huang, Tsui-Hui Female/ 
+61 2023.05.18 3year 2022.05.19 0 0.00% 0 0.00% 0 0.00% 0 0.00%
+M.B.A. at Cornell University, 
+U.S.A., B.A. in Business from 
+National Taiwan University, 
+Chair of Taiwan Venture 
+Capital Association, Chair and 
+President of Hotung Venture 
+Capital Group, Member 
+of President's Council of 
+Cornell University, Chair of 
+the International Business 
+Committee of Taiwan Securities 
+Association, Board Director 
+of Taipei Exchange, Vice 
+Chair of The Children Charity 
+Association
+Note 3 None None None
+0 0.00% 0 0.00% 0 0.00%
+Note 1:  The full name is Taiwan Semiconductor Manufacturing Co., Ltd., denoting the term TSMC hereinafter mentioned.
+
+[page 10]
+16 17
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+16 17Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+02  Corporate Governance
+(2) Disclosure of Professional Qualiﬁcations of Directors and Independence of 
+Independent Directors
+March 23, 2026
+Conditions
+Name
+Independent 
+Directors
+Member of Audit 
+Committee Professional qualification and experience Status of independence Number of public companies where  
+the person holds the title as independent director
+F.C. Tseng -- --
+Principal academic qualification: Ph.D. in Electrical Engineering, National Cheng 
+Kung University, Honorary Doctorate of National Chiao Tung University
+Principal work experience: President of Vanguard International Semiconductor 
+Corporation, Vice Chairman of TSMC, President of TSMC, Deputy Chief 
+Executive Officer of TSMC
+Not applicable
+0
+Lie-Szu 
+Juang -- --
+Principal academic qualification: University of Pennsylvania, MSEE
+Principal work experience: Senior Director of Research & Development / Design 
+& Technology Platform of TSMC.
+
+[page 10]
+2
+Huang,  
+Tsui-Hui V V
+Principal academic qualification: M.B.A. at Cornell University, U.S.A.
+B.A. in Business from National Taiwan University
+Principal work experience: Chair of Taiwan Venture Capital Association, Chair 
+and President of Hotung Venture Capital Group, Member of President's Council 
+of Cornell University,Chair of the International 
+Business Committee of Taiwan Securities Association,Board Director of  Taipei 
+Exchange, Vice Chair of The Children Charity Association, Honorary Chair of 
+Taiwan Venture Capital Association,Chair and CEO of Hotung Venture Capital 
+Group, Member of President's Council of Cornell Women, Director of Taiwan 
+Women on Boards Association
+Not a person to whom any conditions defined in Article 30 of the Company Act 
+apply.
+
+[page 11]
+18 19
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+18 19Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+02  Corporate Governance
+(3) Board Diversity Policy and Implementation Status
+The Company attaches great importance to the diversity of board members. In order to reinforce corporate 
+governance and promote sound development of board composition and structure, the capabilities that the board of 
+directors should possess as speciﬁed in Article 20 of the Company's "Corporate Governance Code" are as follows:
+
+[page 11]
+Dr. Cheng-Wen Wu resigned on 2024/05/15 because he will become Minister of NFCT. The Company's current 
+board of directors consists of eight directors. Four of them, accounting for 50%, are the Company's independent 
+directors, and the relationship of spouses or relatives by blood within the second degree of relationship do not exist 
+among the directors. Moreover, only one director is taking the Company's managerial ofﬁcer position, i.e. Mr. Sean 
+Tai, one of the juristic-person directors' representatives, concurrently serving as the Company's president. These 
+facts indicate that the Board Independence requirement is met in the Company's board of directors. Additionally, 
+the Company's board members possess cross-industry and cross-ﬁeld capabilities, demonstrating Board diversity 
+and complementary support among board members. Directors also have their own skills and experiences in various 
+professions such as legal, ﬁnancial/accounting, industry, marketing/R&D, technology, business management, etc.
+
+[page 11]
+Please refer to page    of this Annual Report for details of directors' educational and business experiences. The 
+Company's current implementation of Board Diversity Policy is indicated by individual directors' portfolios listed in 
+the table below:
+
+[page 11]
+Furthermore, by the end of 2025, two board members are female.
+The diversity goals for the future include but are not limited to the following three aspects/standards:
+
+[page 11]
+1. Basic conditions and values: gender, age, nationality, culture, etc.  One female director was elected in the by-
+election in 2023 shareholders' meeting. And from Apr 9, 2025 onwards, the representative of TSMC has been 
+changed from Mr. L.C. Lu to Mrs Lie-Szu Juang, who is elected as vice chairman on July 31 2025. In the future, 
+at least one female director seat will be reserved and long-term female seat target is one-third of all board 
+members. And the age criteria will be planned to achieve a balanced structure.
+
+[page 12]
+20 21
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+20 21Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+02  Corporate Governance
+(4) Information on the company's president, vice president, assistant vice 
+president, and the heads of all the company's divisions and branch units
+March 23, 2026
+Title Nationality Name Gender Date on  
+Appointment
+Shares held
+Number of shares 
+currently held by their 
+spouses, children of 
+minor age
+Shares held through 
+nominees Principal work experience and academic 
+qualifications
+Position(s) held 
+concurrently in 
+other company
+Managerial officer with 
+a spouse or relatives 
+within the second degree 
+of kinship
+Number 
+of shares
+Shareholding 
+ratio
+Number 
+of shares
+Shareholding 
+ratio
+Number 
+of shares
+Shareholding 
+ratio Title Name Relation
+President R.O.C. Sean 
+Tai Male 2021.12.01 0 0.00% 0 0.00% 0 0.00%
+Ph.D. in Electrical Engineering, Yale University, 
+President of Nuvoton Technology Corporation, 
+President of China/Japan Subsidiaries, Realtek 
+Semiconductor Corp., President of Silicon Touch 
+Technology Inc., Assistant vice president of 
+Winbond, Technical Manager of TSMC
+None None None None
+Senior Vice 
+President R.O.C. Louis 
+Lin Male 1998.07.01 8,041 0.01% 0 0.00% 0 0.00%
+Ph.D., Institute of Electronic Engineering, National 
+Chiao Tung University, Senior Director for Design 
+Service, GUC
+note None None None
+Vice President & 
+CFO R.O.C. James 
+Liao Male 2025.10.30 0 0.00% 0 0.00% 0 0.00%
+Master of Accounting, National Taiwan University.
+
+[page 12]
+note None None None
+Accounting 
+Controller R.O.C. Blithe 
+Chiang Male 2009.07.27 0 0.00% 0 0.00% 0 0.00%
+Department of Accounting, Chung Yuan Christian 
+University, Vice Manager of Coretronic Culture 
+and Arts Foundation, Manager of GUC Accounting 
+Department.
+
+[page 14]
+Bonus and special 
+disbursement, etc. (C)
+(Note 3) 
+Compensation to the employees (D)
+(note 4) 
+The sum of A, B, C and D in 
+proportion to net profit after tax (%) 
+(note 8)
+Remuneration received 
+from an invested 
+company other than the 
+company's subsidiary or 
+parent company (note 9)The 
+Company
+All companies 
+mentioned in 
+the financial 
+statements 
+(note 5) 
+The 
+Company
+All companies 
+mentioned in 
+the financial 
+statements 
+(note 5) 
+The 
+Company
+All companies 
+mentioned in 
+the financial 
+statements 
+(note 5) 
+The Company
+All companies mentioned 
+in the financial statements 
+(note 5) 
+The 
+Company
+All companies 
+mentioned in the 
+financial statements 
+(note 5) Cash Stock Cash Stock
+President Sean Tai
+22,766 22,766 30,000 30,000 45,505 45,505 94,500 0 94,500 0 192,771
+5.11%
+192,771
+5.11% none
+Senior Vice President 
+& CFO
+Daniel Chien
+(note 10)
+Senior Vice 
+President Louis Lin
+Vice President Justin Hsieh
+Vice President
+& CFO
+James Liao
+(note 11) 
+Vice President Patrick Wang
+Note 1: Names of the president and vice presidents are listed separately, while the payment amounts are disclosed in an 
+aggregated manner.
+Note 2: Referring to the salaries, duties allowance, and resignation payment listed for the president and vice presidents in 2025.
+Note 3: Referring to the in-kind provision and other remuneration amounts such as bonuses, incentives, travel expenses, 
+special disbursement, various allowances, dormitories, company cars, etc. listed for the president and vice presidents 
+in 2025. For houses, cars and other means of transportation being provided, or exclusive personal expenses, the 
+nature and cost, actual or fair-market rent, fuel expenses and other payments of the assets being provided should be 
+disclosed.
+Note 4: Referring to the proposed 2025 employees' remuneration (including stocks and cash) approved by the Board on Jan 
+29, 2026 before the 2026 Shareholders' Meeting.
+Note 5: Disclosure of the total amount of remuneration paid to the Company's president and vice presidents by all companies 
+(including the Company) included in consolidated reports
+Note 6: For the total remuneration amount paid by the Company to the president and each vice president, the names of the 
+president and vice presidents were disclosed in the respective payment levels that the president and vice presidents 
+belong to.  
+Note 7: For disclosure of the total amount of remuneration paid to the Company's president and vice presidents by all 
+companies (including the Company) included in consolidated statements, the names of the president and vice 
+presidents were disclosed in the respective payment levels that the president and vice presidents belong to.
+Note 8: Net profit after tax refers to the most recent year's net profit after tax indicated in individual financial reports.
+Note 9: Disclosure of relevant compensation received by the Company's president and vice presidents from reinvestment 
+businesses other than subsidiaries or parent companies. The compensation refers to the return, remuneration (including 
+remuneration for employees, directors and supervisors) and compensation for business performance expenses 
+received by the Company's president and vice presidents when serving as directors, supervisors or managerial officers 
+in reinvestment businesses other than subsidiaries or parent companies.
+Note 10: Senior Vice President Daniel Chien resigned on May 16, 2025.
+Note 11: Vice President James Liao assumed on Oct 30, 2025. 
+Classiﬁcation of remuneration
+Classification of remuneration paid  
+to president and vice presidents
+Name of president and vice presidents
+The Company  
+(note 6) 
+All companies mentioned  
+in the financial statements 
+ (note 7) 
+Less than NT$1,000,000 - -
+NT$ 1,000,000 (inclusive)～ NT$ 2,000,000 (exclusive)
+NT$ 2,000,000 (inclusive)～ NT$ 3,500,000 (exclusive) - -
+NT$ 3,500,000 (inclusive)～ NT$ 5,000,000 (exclusive) James Liao James Liao
+NT$ 5,000,000 (inclusive)～ NT$ 10,000,000 (exclusive) - -
+NT$ 10,000,000 (inclusive)～ NT$ 15,000,000 (exclusive) - -
+NT$ 15,000,000 (inclusive)～ NT$ 30,000,000 (exclusive)  Patrick Wang  Patrick Wang
+NT$ 30,000,000 (inclusive)～ NT$ 50,000,000 (exclusive) Louis Lin, Daniel Chien, 
+Justin Hsieh
+Louis Lin, Daniel Chien, Justin 
+Hsieh
+NT$ 50,000,000 (inclusive)～ NT$ 100,000,000 (exclusive) Sean Tai Sean Tai
+Over NT$ 100,000,000 - -
+Total 6 6
+
+[page 15]
+(3)The Company's remuneration policy is formulated based on the individual's capabilities, contribution to 
+the Company and performance achievement, with a positive correlation with the Company's business 
+performance. In addition, with proper control over ESG and future risks, the Company's remuneration 
+policy is also well correlated with future risks and ESG. The overall compensation/remuneration portfolio 
+primarily includes three parts:  basic salary, bonus/employee profit-sharing, benefits, etc. In regards to 
+the remuneration payment standards, the basic salary is determined based on the Company's policy and 
+the market competition status of the employee's position; bonus and profit-sharing contribution are given 
+on a basis connected with the employee's/department's goal achievement or the Company's business 
+performance. Regarding beneﬁts program design, the prerequisite is to fulﬁll regulatory requirements, and to 
+meet employees' needs with measures that provide beneﬁts for employees.
+
+[page 17]
+Compared with 2024, the self-evaluation results showed declines only in the dimensions of "internal 
+relationship management and communication" and "director professionalism and continuing education," while 
+the remaining dimensions either increased or remained the same.
+
+[page 17]
+The Company is planning to gradually improve the board composition and structure to improve the Company's overall 
+performance through the implementation of Board Diversity Policy, and to respond to the initiative advocated in "Corporate 
+Governance Best Practice Principles for TWSE/TPEx Listed Companies" that the appointment of an independent director 
+is advisably not to exceed three consecutive terms. 10th-term board directors, including one female independent director, 
+are elected in the 2023 Shareholders' Meeting. Meanwhile, one female legal representative of TSMC Ms. Lie-Szu Juang, is 
+appointed in 2025 and she is elected as Vice Chairman of GUC.  After the election in 2023, all the Company's independent 
+directors having served their independent-directorship for not more than three consecutive terms.
+
+[page 21]
+Items for evaluation
+Implementation Status Deviation from 
+the Corporate 
+Governance Best-
+Practice Principles 
+for the TWSE/TPEx 
+Listed Companies 
+and reasons
+Yes No Summary
+3. Composition and 
+Responsibilities of the 
+Board of Directors
+(1) Has the Board 
+established a 
+diversity policy for 
+the composition and 
+specific management 
+goals of its members 
+and implemented it 
+accordingly?
+
+[page 21]
+In order to implement the Company's guidelines for Board 
+diversity, the directors being appointed all have their own 
+backgrounds in professions such as legal, accounting, 
+industry, finance, marketing/R&D, technology, business 
+management, professional skills, industrial experiences, 
+etc. (Please refer to page   of this Annual Report for 
+directors' information.)
+The diversity goals for the future include but are not limited 
+to the following two aspects/standards:
+
+[page 21]
+1. Basic conditions and values: gender, age, nationality, 
+culture, etc. One female director was elected in the by-
+election in 2023 shareholders' meeting. In the future, 
+at least one female director seat will be reserved and 
+long-term female seat target is one-third of all board 
+members. And the age criteria will be planned to 
+achieve a balanced structure.
+
+[page 24]
+8. Is there any other important 
+information to facilitate a 
+better understanding of 
+the Company's corporate 
+governance practices 
+(including, but not limited 
+to, employee rights and 
+benefits, employee care, 
+investor relations, supplier 
+relations, stakeholder 
+rights, status of directors' 
+continuing education, 
+implementation of risk 
+management policies 
+and risk assessment 
+criteria, implementation of 
+customer related policies, 
+and purchase of liability 
+insurance for directors 
+and supervisors by the 
+Company)?
+
+[page 24]
+In terms of employees' rights & interests and employee care, the Company takes relevant government laws and 
+regulations such as Labor Standards Act, Act of Gender Equality in Employment, Sexual Harassment Prevention Act, 
+etc. as benchmarks for the formulation of personnel management regulations to protect employees' rights and interests.
+
+[page 25]
+Title Name
+Date of 
+Advanced 
+study
+Organized by Course Name
+Number 
+of 
+Hours
+Chairman F.C. 
+Tseng
+114/04/24 Securities and 
+Futures Institute
+Practical Operations of the Compensation 
+Committee 3
+114/08/12
+Taiwan Corporate 
+Governance 
+Association
+The Board of Directors' Governance 
+Responsibilities in Sustainability Risk and 
+Crisis Management
+2
+114/12/05
+Taiwan Corporate 
+Governance 
+Association
+Sustainability Equals Innovation: Trends in 
+Corporate Sustainability and ESG Value 
+Management
+3
+Director
+Lie-Szu 
+Juang
+114/07/29 Securities and 
+Futures Institute
+Practical Training Program for Directors, 
+Supervisors, and the Chief Corporate 
+Governance Officer
+12
+114/07/30
+Sean 
+Tai
+114/04/24 Securities and 
+Futures Institute
+Practical Operations of the Compensation 
+Committee 3
+114/12/05
+Taiwan Corporate 
+Governance 
+Association
+Sustainability Equals Innovation: Trends in 
+Corporate Sustainability and ESG Value 
+Management
+3
+Wendell 
+Huang
+114/08/12
+Taiwan Corporate 
+Governance 
+Association
+The Board of Directors' Governance 
+Responsibilities in Sustainability Risk and 
+Crisis Management
+2
+114/11/24 Taiwan Academy 
+of Banking and 
+Finance
+Environmental Sustainability Classification 
+Assessment and Greenwashing Prevention 2
+114/12/08 The Business Value and Digital Risks of 
+Generative AI 3
+Independent 
+Director
+Huang, 
+Tsui-Hui
+114/04/24 Securities and 
+Futures Institute
+Practical Operations of the Compensation 
+Committee 3
+114/07/09 TWSE 2025 Cathay Sustainable Finance and 
+Climate Change Summit 3
+Jesse 
+Ding
+114/04/24
+Securities and 
+Futures Institute
+Practical Operations of the Compensation 
+Committee 3
+114/05/06 Taiwan's Overall Compensation Trends 
+and Talent Sustainability 3
+Ho-Min 
+Chen
+114/04/24 Securities and 
+Futures Institute
+Practical Operations of the Compensation 
+Committee 3
+114/07/24
+Taiwan Corporate 
+Governance 
+Association
+Practical Approaches to Trade Secret 
+Protection and Fraud Prevention 3
+Corporate Risk and Corporate Social 
+Responsibility 3
+114/08/20
+The Business 
+Development 
+Foundation of the 
+Chinese Straits
+Global and Taiwan Economic, Financial, 
+and Investment Trends and Outlook 3
+Global and Taiwan Technology Industry 
+Trends and Business Opportunities Amid 
+Geopolitical Developments
+3
+Kenneth 
+Kin
+114/04/24 Securities and 
+Futures Institute
+Practical Operations of the Compensation 
+Committee 3
+114/12/05
+Taiwan Corporate 
+Governance 
+Association
+Sustainability Equals Innovation: Trends in 
+Corporate Sustainability and ESG Value 
+Management
+3
+3. Business Implementation and Continuing studying status for the Corporate Governance Officers 
+Since 2020/07/30, Corporate Governance Officer (CGO) was appointed by the board of directors to take the 
+responsibility for corporate governance-related affairs and handling relevant reporting and filing operations. Mr.Charles 
+Huang, Director of Legal Divison of GUC, is apponited by the board of directors as CGO starting from 2024/11/01, 
+and this information has been reported to the Market Observation Post System as required. For the overview of the 
+Officer's business implementation, please refer to the section of Corporate Governance on the Company's website.
+
+[page 25]
+(2) The Dow Jones Sustainability Indices (DJSI) score improved to 68 points, establishing the Company's leadership 
+within Taiwan's IC design industry.
+(3) The Net-Zero (net zero emissions) plan was validated by SBTi.
+
+[page 27]
+As a member of the global community, the Company 
+actively advances its commitment to carbon reduction 
+and the use of sustainable energy. Beginning in 2023, the 
+Company integrated a self-generated solar photovoltaic 
+system for self-consumption into its power supply and 
+commenced the use of purchased green electricity in 
+December 2023, contributing to the mitigation of global 
+warming and the reduction of environmental pollution.
+
+[page 28]
+52 53
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+52 53Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+02  Corporate Governance
+Items for evaluation
+Implementation Status Any difference 
+from the Corporate 
+Sustainable 
+Development Best 
+Practice Principles 
+for TWSE/TPEx 
+Listed Companies, 
+and the reason for 
+such difference
+Yes No Summary
+4. Social issues No major difference
+(1) Has the Company 
+established related 
+management policy 
+and procedure in 
+accordance with 
+applicable legal rules 
+and international 
+conventions on 
+human rights?
+
+[page 28]
+V GUC supports and is committed to pursuing compliance 
+with international labor and human rights standards, 
+including the United Nations Universal Declaration of 
+Human Rights, the United Nations Global Compact, 
+the United Nations Guiding Principles on Business and 
+Human Rights, the OECD Guidelines for Multinational 
+Enterprises, and the Social Accountability International 
+(SAI) standard, as well as the regulations of the countries 
+in which it operates. GUC takes actions consistent with the 
+Responsible Business Alliance (RBA) Code of Conduct, 
+treating all personnel with dignity and respect. GUC has 
+established implementation policies to enforce its human 
+rights policy and requires its supply chain partners to 
+adhere to the same standard.
+
+[page 28]
+The Company has conducted human rights due 
+diligence and publicly disclosed its Human Rights Due 
+Diligence Report since 2023; additionally, it has included 
+human rights due diligence as one of its major items for 
+sustainable business operations. The Company's human 
+rights due diligence is conducted in accordance with the 
+United Nations Universal Declaration of Human Rights, 
+the United Nations Global Compact, the United Nations 
+Guiding Principles on Business and Human Rights, 
+and the International Labor Organization Declaration 
+of Fundamental Principles and Rights at Work, and 
+the management status of human rights is periodically 
+reviewed in accordance with the aforementioned 
+documents. The human resources unit conducts due 
+diligence at least once every 3 years for detection and 
+examination of major issues related to human rights, and 
+the implementation status is monitored thereafter. The 
+Company conducts regular annual training on human 
+rights–related topics. New hires are also required to 
+complete orientation training on occupational safety and 
+health, as well as courses on the prevention of workplace 
+misconduct and unlawful infringement. Please refer to 
+pages 121–123 of the Company's 2024 ESG Report and 
+the ESG section on the Company's website for details on 
+human rights policies and implementation guidelines as 
+well as human rights issues and management.
+
+[page 28]
+No major difference
+(3) Has the Company 
+provided a safe 
+and health work 
+environment for 
+the employees, and 
+provided education 
+on labor safety and 
+health regularly?
+
+[page 28]
+V The Company regularly conducts safety and health 
+education for employees. A total of 24 occupational safety 
+and health education and training sessions were held 
+in 2025, with participation totaling 1,699.5person-hours.
+
+[page 29]
+V Global Unichip Corporation is committed to enhancing 
+environmental sustainability and leading by example. 
+By complying with third-party verification and relevant 
+standards, the Company seeks to contribute to 
+environmental protection and extends these principles 
+to its suppliers, striving to balance steady growth with 
+environmental sustainability. Prior to engaging staffing 
+agencies or service contractors, Global Unichip Corporation 
+conducts assessments of their compliance with labor 
+laws and regulations and requires them to commit to 
+six key sustainability principles (including labor rights 
+and human rights protection) as part of the evaluation 
+criteria for partnership approval. In addition, the Company 
+requires service contractors to sign the "Global Unichip 
+Corporation Code of Conduct and Supplier Code of 
+Conduct Commitment Letter" to clearly stipulate compliance 
+with labor regulations and corporate ethics. During the 
+cooperation period, the Company continues to monitor 
+whether the working conditions of dispatched (assigned) 
+personnel comply with applicable labor laws and proactively 
+conducts investigations, audits, or other necessary 
+management measures to safeguard labor compliance and 
+employee rights.
+
+[page 31]
+In terms of legal compliance, the Company complies 
+with the Company Act, Securities and Exchange Act, 
+Commercial Accounting Law, Political Donations Act, 
+Anti-corruption Act, Government Procurement Act, Act on 
+Recusal of Public Servants Due to Conflicts of Interest, 
+regulations governing TWSE/TPEx Listed Companies, 
+or other laws governing business conduct to carry out 
+ethical management. With respect to the active practices 
+that the Board and managerial officer have committed to, 
+The Company's directors all demonstrate a high degree 
+of self-discipline by avoiding participation in discussion 
+and voting for board meeting proposals which involve 
+interests of their own or the juristic persons they represent 
+and there is a concern about harming the Company's 
+interests. They only address their opinions and answer 
+inquiries without joining discussions and voting. In 
+addition, the directors are required to avoid being present 
+while the discussions and voting are in progress, and are 
+not allowed to exercise the voting right on behalf of other 
+directors. Self-discipline also prevails among directors; 
+there is no inappropriate support among directors.
+
+[page 31]
+V The Company has specified matters of caution when 
+performing business activities in "Operating Procedures 
+for Ethical Management & Business Code of Ethics". For 
+business activities that involve higher risks of dishonest 
+or unethical conduct, measures are taken to forbid the 
+providing or receiving of improper benefits, the facilitation 
+payment/handling fee, or the providing of political 
+contributions. (Please refer to the Company's "Operating 
+Procedures for Ethical Management & Business Code of 
+Ethics" for details of the measures.)
+Therefore, before a business relationship is established, 
+the Company will first evaluate the legality and ethical 
+management policies of the agents, suppliers, customers 
+or other business partners, and check whether there 
+has been any record of dishonest or unethical conduct 
+to ensure that their businesses are operated in a fair and 
+transparent way. And we will never ask, offer or accept 
+bribes. The Company's personnel are required to explain 
+the Company's ethical management policy and relevant 
+regulations to transaction counterparties when engaging 
+in business activities, and expressly refuse to directly or 
+indirectly provide, promise, request or accept any form 
+of improper benefits for any reason, including kickbacks, 
+commissions, facilitation payments, or offering/receiving 
+improper benefits through other means. To have all the 
+employees across the company comply with the rule, the 
+Company inculcates the rule in all new entrants when 
+they report to work, and regularly provides educational 
+training every year for the entire body of employees.
+
+[page 31]
+Relevant educational training and promotional programs 
+are conducted on a yearly basis to help all personnel 
+of the Company comply with these regulations. 
+Specific complaint & whistleblowing regulations are 
+also formulated by the Company's HR Department.
+
+[page 31]
+Please refer to the Corporate Social Responsibility 
+section on the Company's website.
+In order to completely put the above principles into 
+practice, not only the Company's employees but also 
+suppliers are required to abide by the Company's ethical 
+standards and culture. Suppliers should sign "GUC's 
+Collaborative Company's Business Ethics (Business 
+Conduct) Commitment" as a declaration and guarantee.
+
+[page 32]
+V In order to realize ethical management through effective 
+accounting and internal control systems, the Company 
+has established effective accounting systems and internal 
+control systems for business activities that involve higher 
+risks of dishonest or unethical conduct. Such activities 
+are also included in risk assessments for regular review, 
+through which no external-purpose financial statements 
+or reserved/secret accounts shall be allowed. The review 
+is conducted on a rolling basis to ensure the continuing 
+effectiveness of the systems' design and implementation.
+
+[page 33]
+V The Company's HR Department is responsible for 
+the promotion of ethical management training and 
+awareness-raising education for all employees. The 
+educational training is conducted through e-learning 
+to help employees be aware of matters of caution 
+when engaging in business activities. Moreover, online 
+Business Code of Ethics courses were also offered for 
+all the Company's directors in 2025, in which regulations 
+related to insider trading were included.
+
+[page 33]
+V The Company has uploaded the Board-approved 
+"Operating Procedures for Ethical Management & 
+Business Code of Ethics" to the Company's website and 
+the Market Observation Post System as a disclosure 
+of ethical management information. Currently, the 
+Company's Reporting System for Business Ethics 
+Violation on the website is presented in both Chinese 
+and English. Dedicated HR personnel are designated 
+for the collection and disclosure of the Company's 
+relevant information. HR Department regularly provides 
+learning materials and test questions for internal training, 
+awareness-raising promotion and testing through 
+e-learning in the fourth quarter of each year. For ethical 
+management educational training programs conducted in 
+2025, and various complaints and corresponding handling 
+progress, please refer to the section of Corporate 
+Governance on the Company's website.
+
+[page 33]
+Attachment 1:
+2025 2024 2023 2022 2021
+Independent Director's Mailbox (Audit Committee) 0 0 1 0 0
+Reporting System for Business Ethics Violation 0 0 0 0 0
+Others 0 2 0 0 0
+Employees' Major Complaints 0 1 2 4 2
+Sexual Harassment & Wrongful Harm Complaints 1(note 1) 0 0 0 0
+Cases Confirmed After Investigation 1 2 0 0 2
+Note 1: According to regulations, an investigation and handling were carried out. After responding to the complainant, the 
+complainant expressed satisfaction with the company's resolution. The case is now closed.
+
+[page 34]
+3. The Company determines the design and operating effectiveness of its internal control system in accordance 
+with the determining factors provided in the Regulations Governing the Establishment of Internal Control 
+Systems by Public Companies (hereinafter referred to as the "Regulations"). The internal control system 
+determining factors specified in the Regulations divide an internal control system into five elements based 
+on its management:  1. Control Environment, 2. Risk Assessment, 3. Control Operations, 4. Information and 
+Communications, and 5. Monitoring. Each element further contains several items. Refer to the Regulations for 
+the aforementioned items.
+
+[page 34]
+4. The Company has adopted the aforementioned internal control system determining factors to examine the 
+design and operating effectiveness of its internal control system.
+5. Based on the findings of the evaluation mentioned in the preceding paragraph, the Company deems that the 
+internal control system as of December 31, 2022 (including supervision and management of subsidiaries), 
+which encompass internal controls for knowledge of the accomplishment degree of operating effectiveness 
+and efficiency, reliability, timeliness, transparency of reporting, and compliance with the governing laws 
+and regulations, are effectively designed and implemented, and reasonably assure accomplishment of the 
+abovementioned aims.
+
+[page 44]
+• Embedded memory, logic, and analog components for application ICs. 
+• Cell libraries for application ICs. 
+• EDA tools for application ICs. 
+• IP (Intellectual Property) customization, design, technical support, and licensing.
+
+[page 44]
+(B) Providing technological support and consulting services related to the aforementioned products.
+1-1.2. Revenue breakdown by category Units: NT$ Thousand
+Sales breakdown
+2024 2025
+Amount % Amount %
+ASIC& Wafers 16,161,027 64.53% 25,735,801 75.38%
+NRE 8,435,858 33.68% 8,032,384 23.53%
+Others 447,307 1.79% 372,793 1.09%
+Total 25,044,192 100.00% 34,140,978 100.00%
+(A) ASIC and Wafer Products: Provide customers with a complete one-stop service covering the entire 
+process from design through wafer fabrication, packaging, and testing.
+
+[page 44]
+(B) NRE (Non-Recurring Engineering): NRE services provide the circuit design cell libraries and IP required 
+for product development, as well as the layout design necessary for mask generation. GUC also 
+assists customers by coordinating with foundry and manufacturing partners for mask fabrication, wafer 
+manufacturing, dicing, and packaging. Product testing is subsequently performed by GUC's engineering 
+team, after which prototype samples are delivered to customers for pilot production and evaluation.
+
+[page 44]
+(C) MPW (Multiple-Project Wafer): The MPW program integrates multiple design projects from different 
+customers onto a single mask set and a shared engineer run, enabling the cost of mask fabrication and 
+wafer manufacturing to be distributed across participants. This approach provides a cost-effective and 
+time-efficient chip verification service, allowing design engineers to validate prototype designs using 
+advanced process technologies prior to volume production. As a result, customers can achieve rapid 
+silicon validation with signiﬁcantly reduced development cost and time-to-market risk.
+
+[page 44]
+(D) IP (Intellectual Property): refers to IC designs that have been developed and validated, provide speciﬁc 
+functionality, and can be reused across multiple applications. As semiconductor manufacturing 
+technologies continue to advance, multifunctional chips and systems on a chip (SoCs) have become the 
+mainstream approach in IC design. The reusable IP solutions provided by GUC help customers reduce 
+duplicated design efforts, shorten development time, and optimize the use of design resources, thereby 
+improving overall design efﬁciency.
+
+[page 44]
+1-1.3. Products and services planned for development
+GUC continues to develop silicon IP applicable to advanced process nodes, including 7nm/6nm, 5nm/4nm, 
+3nm, and 2nm technologies. Ongoing R&D initiatives include high-speed interface IP for 2.5D interconnect 
+and 3D stacking (GLink and UCIe), high-bandwidth memory IP (HBM4/4E PHY and Controller), as well as 
+mixed-signal IP solutions. In addition, existing critical components, such as low power solution and clock 
+cells, continue to be migrated and implemented on more advanced process nodes. GUC also provides 
+customized standard cell library offerings, enabling customers to enhance design ﬂexibility and access more 
+comprehensive and integrated design solutions.
+
+[page 44]
+1-2. Industry overview
+1-2.1. Current status and industry development trends
+As semiconductor process technologies continue to advance, IC design and mask costs have risen 
+steadily. Although the trend toward integrating multiple functions into a single chip remains unchanged, the 
+overall number of chip design projects has gradually slowed and, in some cases, shown a slight decline.
+
+[page 44]
+Nevertheless, continued growth across application markets such as high-performance computing (HPC), 
+artiﬁcial intelligence (AI), 5G and data center networking, the Internet of Things (IoT), low-earth-orbit (LEO) 
+satellites, advanced driver-assistance systems (ADAS), and augmented and virtual reality (AR/VR) has 
+helped partially offset the decline in ASIC and ASSP design projects.
+
+[page 44]
+In recent years, consolidation has continued across the global semiconductor industry, with mergers and 
+acquisitions becoming a key strategy for IC design companies to strengthen product portfolios, reduce 
+operating costs, and expand economies of scale. At the same time, Taiwan faces increasing competitive 
+pressure as Mainland China actively supports the development of its semiconductor industry and intensiﬁes 
+efforts to recruit experienced Taiwanese semiconductor talent. Under these industry dynamics, the number of 
+design service providers available to customers is expected to gradually decrease. Nevertheless, customers' 
+demand for product differentiation remains strong, as standardized solutions are no longer sufficient to 
+address increasingly diverse performance and application requirements. As a result, a growing number 
+of leading global companies are pursuing custom IC designs to differentiate their products and enhance 
+performance. For GUC, these trends translate into expanded opportunities for future business growth.
+
+[page 44]
+To address rapidly evolving customer requirements and ongoing changes in the semiconductor industry, GUC 
+has established its Advanced ASIC Services platform, which integrates a comprehensive IP portfolio with 
+end-to-end design services. Through this platform, GUC supports customers across the entire semiconductor 
+value chain, from product concept and speciﬁcation deﬁnition to design, veriﬁcation, manufacturing, and mass 
+production. Advanced ASIC Services comprise three core components: IP solutions, chip implementation and 
+advanced packaging, and ASIC manufacturing. By delivering comprehensive IP solutions and closely aligned 
+technical support, GUC helps reduce design cycles and development costs while enabling highly customized 
+IC implementations. In chip implementation and advanced packaging, GUC works closely with TSMC to 
+assist customers in accelerating volume production, improving yield performance, and strengthening market 
+competitiveness. In addition, GUC's ASIC manufacturing services serve as an effective bridge between 
+foundry and assembly and test providers, supporting efﬁcient supply-chain coordination and reliable mass-
+production execution.
+
+[page 45]
+88 89
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+88 89Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+04  Operational Highlights
+1-2.2. Links between the upstream, midstream, and downstream segments of the supply 
+chain
+Taiwan's semiconductor industry supply chain can be broadly divided into upstream, midstream, and 
+downstream segments, encompassing four major categories: IC design, wafer manufacturing, packaging, 
+and testing services.
+
+[page 45]
+Up stream Mid stream Down stream
+IP/IC
+design services
+IC Design
+IC Manufacturing
+Mask Che
+mical
+IC Packaging Testing
+Manufacture
+and
+equipment
+Manufacture
+and
+equipment
+subst
+rate
+lead
+ fram
+IC
+module
+Distributor
+1-2.3. Product development trends and competitive landscape
+Over the past several years, the smartphone market has represented the largest application segment 
+in terms of shipment volume and growth. As major brands continue to pursue product differentiation, an 
+increasing number of smartphone manufacturers have invested in the in-house development and production 
+of application processor (AP) chips. Consequently, the addressable market for IC design service providers 
+within this segment has gradually become more limited.
+
+[page 45]
+At the current stage, applications such as data centers, 5G, IoT, automotive electronics, drones, and robotics, 
+supported by sustained innovation and ongoing technology investment, have seen their related technologies 
+and business models progressively mature. These applications have become the primary sources of 
+business for IC design service providers. Meanwhile, emerging applications including high-performance 
+computing (HPC), artiﬁcial intelligence (AI), data center networking, low-earth-orbit (LEO) satellites, advanced 
+driver assistance systems (ADAS), and virtual/augmented reality (AR/VR) continue to attract market 
+attention. Although many of these applications remain in the development stage, meaningful progress has 
+emerged, and they are widely regarded as important drivers of future industry growth and mid- to long-term 
+business opportunities.
+
+[page 45]
+To address the expected growth in ASIC demand, GUC provides advanced design services, together with 2.5D 
+and 3D advanced packaging technologies, to support customers adopting TSMC 7nm/6nm, 5nm/4nm, 3nm, 
+and 2nm process nodes, as well as mature process nodes. Leveraging proven design expertise and a solid 
+track record in manufacturing execution, and by addressing customer requirements for high performance and 
+low power ASIC products, GUC continues to strengthen its competitive positioning in the highly competitive 
+ASIC design services market.
+
+[page 45]
+1-3.2. Technologies and products successfully developed during the most recent ﬁscal 
+year or during the current ﬁscal year up to the date of publication of the annual 
+report 
+2025
+1. Completed the development of 2nm and 3nm process design ﬂows.
+
+[page 45]
+2. Completed the development of functional safety-aware USF/SSF design ﬂows. 
+3. Completed the development of 3Dblox 3.0 advanced packaging design ﬂows. 
+4. Completed tape-out of an integrated voltage regulator (IVR) test chip.
+
+[page 45]
+1-4. Short-term and long-term business development plans 
+1-4-1. Short-term initiatives
+(1) Develop total solutions by bundling GUC in-house IP with advanced process technologies and 
+packaging design, leveraging multiple-project wafer (MPW) test-chip veriﬁcation to      signiﬁcantly lower 
+customers' entry barriers and effectively manage development risks.
+
+[page 45]
+(5) Provide comprehensive application-based platform solutions incorporating silicon IP portfolios, system 
+design integration know-how, and SoC design-for-manufacturability expertise.
+
+[page 46]
+(4) Work closely with GUC's exclusive foundry partner to develop advanced design service platforms, 2.5D and 
+3D advanced packaging technologies, silicon photonics-based co-packaged optics (CPO), and integrated 
+voltage regulators (IVR), delivering high-performance, system-level design solutions with industry-leading 
+competitiveness.
+
+[page 46]
+(5) Cultivate strong partnerships with global system companies to advance core technology development.
+(6) Foster long-term strategic collaborations with third-party IP suppliers.
+(7) Enhance front-end SoC design capabilities tailored to diverse application platforms to streamline system 
+design veriﬁcation and accelerate customers' time-to-market.
+
+[page 46]
+2-1-2. Market share, and future market demand and supply conditions 
+(1) Market share
+GUC is the leading design service company in Taiwan and ranks among the top pure ASIC design service 
+companies in the word in terms of revenue.
+
+[page 46]
+(2) Future market demand and supply conditions
+According to the World Semiconductor Trade Statistics (WSTS) forecast, following a strong rebound in 
+2024, the global semiconductor market sustained its growth momentum in 2025, reaching an estimated 
+market size of approximately USD 791.7 billion, representing year-over-year growth of about 25.6%. This 
+growth was primarily driven by continued strong demand in the memory and logic segments, as well as 
+expanding applications related to artiﬁcial intelligence and cloud infrastructure. Looking ahead to 2026, 
+WSTS forecasts that the global semiconductor market will grow by approximately 26.3%, reaching around 
+USD 999.9 billion, with growth momentum expected to broaden from a few key segments to a wider 
+range of product categories and end-market applications. (See Appendix 1)
+In addition, according to statistics from the Industrial Economics & Knowledge Center (IEK) of ITRI, 
+Taiwan's IC industry output value reached NT$6.5225 trillion (USD 205.0 billion) in 2025, representing 
+year-over-year growth of 22.7% compared with 2024. Among this, the IC design sector recorded output 
+value of NT$1.4245 trillion (USD 44.8 billion), up 12.0% year over year from 2024. (See Appendix 2)
+With the rapid advancement of generative AI applications, design engagements for AI and HPC chips from 
+global industry leaders are expected to continue increasing, while demand from major brand customers 
+for advanced process technologies and high-end packaging solutions remains robust. In addition, the 
+continued rollout of infrastructure such as 5G, data center communication networks, and low Earth 
+orbit (LEO) satellite communications is further accelerating the development of applications including 
+autonomous driving, unmanned aerial vehicles, smart factories, smart healthcare, smart agriculture, and 
+smart cities. As a result, the global ASIC market is expected to continue generating diverse and scalable 
+growth opportunities.
+
+[page 46]
+Appendix 2
+2022–2026 Taiwan IC Industry Revenues Unit: NT$100 million
+2022 YoY 2023 YoY 2024 YoY 2025 YoY 2026(E) YoY(E)
+IC Industry Revenue 48,370 18.5% 43,428 -10.2% 53,151 22.4% 65,225 22.7% 77,150 18.3%
+IC Design 12,320 1.4% 10,965 -11.0% 12,721 16.0% 14,245 12.0% 15,214 6.8%
+IC Manufacturing 29,203 31.0% 26,626 -8.8% 34,195 28.4% 43,869 28.3% 54,339 23.9%
+IC packaging 4,660 7.0% 3,931 -15.6% 4,233 7.7% 4,825 14.0% 5,163 7.0%
+IC Testing 2,187 7.7% 1,906 -12.8% 2,002 5.0% 2,286 14.2% 2,434 6.5%
+Source: TSIA; IEK/ITRI (Feb., 2026)
+
+[page 47]
+92 93
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+92 93Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+04  Operational Highlights
+(3) Market growth potential 
+For mature application segments, such as consumer electronics, storage devices, IoT, automotive 
+electronics, drones, and robotics, customers typically plan to integrate additional functions into a single 
+SoC to reduce bill-of-materials costs while enhancing functionality. As a result, the number of chip design 
+engagements from these customers is expected to continue growing steadily.
+
+[page 47]
+As process technologies continue to advance, development and investment costs have risen signiﬁcantly, 
+prompting IC design companies to increasingly rely on design service providers for advanced-node 
+product development. In parallel, system companies are increasingly designing key chips in-house 
+to accelerate time-to-market and enhance product differentiation, further expanding opportunities 
+for the design services market. To address these trends, GUC has progressively offered design and 
+mass production services across 7/6nm, 5/4nm, as well as 3nm and 2nm process technologies, while 
+continuing to invest in advanced design innovations such as silicon photonics-based CPO (co-packaged 
+optics) and IVR (integrated voltage regulator), positioning the company to meet customer demand for 
+both design services and silicon IP and to drive sustained industry growth.
+
+[page 47]
+Since the 5G standard was ﬁnalized in 2019, global deployment of 5G base stations has accelerated, and 
+major smartphone vendors have successively introduced new generations of 5G devices. In particular, 
+the launch of the latest iPhone models by Apple has further accelerated the transition to next-generation 
+mobile communications. Compared with 3G and 4G technologies, 5G wireless communications offer 
+more than tenfold improvements in transmission performance and support a wide range of application 
+scenarios, meeting the low-latency and high-bandwidth requirements of emerging applications such as 
+AI, AR/VR, 8K video, and connected vehicles. As service providers roll out these applications, demand for 
+large-scale data centers and cloud storage infrastructure continues to increase, driving growth in related 
+semiconductor components, including CPUs, AI accelerators, switches, optical communication devices, 
+and storage solutions.  At the same time, as the industry begins to look toward the next generation 
+of mobile communication technologies, the company has proactively invested in relevant technology 
+development and design capabilities to prepare for future 6G applications.
+
+[page 47]
+AI ASICs are custom-designed chips optimized for specific application requirements, offering superior 
+power efficiency and cost effectiveness compared with application-specific standard product (ASSP) 
+chips. As generative AI technologies continue to advance and application scenarios increasingly permeate 
+everyday life, many market research ﬁrms forecast a positive outlook for AI ASIC market opportunities, 
+as well as growing demand for ASIC design services and silicon IP. From cloud-based AI training and 
+inference accelerators to edge and end-point devices, AI ASIC adoption is expected to sustain long-term 
+growth momentum, further driving demand for ASIC design services and silicon IP.
+
+[page 47]
+UCIe was officially released in March 2022 as a key milestone in the standardization of die-to-die 
+interfaces, laying the foundation for the emergence of the chiplet era. Its objective is to establish an 
+open and interoperable platform at the advanced packaging level, aligning the industry around common 
+standards to enable ﬂexible and scalable chiplet-based solutions. As the ecosystem matures over the 
+coming years and adoption expands across applications such as AI, HPC, and data centers, the chiplet 
+market is expected to gain increasing momentum, driving growing demand for interconnect technologies 
+and design services.
+
+[page 47]
+To address the growing demand for ASIC solutions from system companies and to further strengthen its 
+competitive position in advanced ASIC design services, GUC has continued to develop comprehensive 
+system design platforms spanning IP subsystems, design methodologies, system integration, 2.5D 
+and 3D advanced packaging technologies, as well as manufacturing and supply chain management 
+capabilities, enabling customers to efﬁciently develop their own custom chips. As advanced computing, 
+AI, and emerging applications continue to expand, the advanced ASIC application market is expected to 
+maintain a sustained growth trajectory in the coming years.
+
+[page 47]
+2-1-3. GUC's competitive niche, positive and negative factors for future development, and 
+GUC's response to such factors 
+(1) Competitive niche
+A. Advanced design ﬂow and 2.5D and 3D advanced packaging technologies
+GUC maintains a close and collaborative partnership with TSMC and has established strong 
+capabilities in advanced process development, enabling the early establishment of related design 
+ﬂows and effectively shortening customers' time to adoption of advanced nodes. The company has 
+successfully completed multiple projects spanning 7/6nm, 5/4nm, 3nm, and 2nm, and continues to 
+work closely with ecosystem partners on silicon photonics–based CPO development. In parallel, 
+GUC has invested substantial resources in the advancement of 2.5D and 3D packaging solutions.
+
+[page 47]
+Leveraging extensive practical experience, GUC is well positioned to deliver industry-leading technical 
+expertise in advanced process nodes and advanced packaging applications.
+B. Technology-leading R&D team
+GUC continues to invest in the development of its proprietary core technologies and has, over the 
+years, built an R&D team with extensive hands-on experience. The team provides comprehensive 
+design resources and reliable technical support, enabling customers to develop products that are 
+competitive in the global market.
+
+[page 47]
+C. Profound IP development and integration experience
+GUC has developed a highly competitive portfolio of advanced silicon IP, which has been licensed to IC 
+design houses and system companies worldwide. In addition, this IP has been successfully integrated 
+into numerous designs, supporting customers in achieving volume production.
+
+[page 47]
+D. Mature and comprehensive design and veriﬁcation ﬂows
+Leveraging its mature and comprehensive design and veriﬁcation ﬂows, GUC effectively reduces IC 
+design risks while signiﬁcantly shortening veriﬁcation cycles, enabling customers to complete product 
+designs more efﬁciently and accelerate time-to-market.
+
+[page 47]
+E. Silicon IP partnerships
+GUC provides a comprehensive IP ecosystem through the development of selected in-house IP, as 
+well as collaboration with leading semiconductor IP vendors, such as Analog Bits, Aragio, ARM, Arteris, 
+Cadence, CAST, Ceva, Credo, Chips&Media, Comcores, Dolphin Design, eMemory, Imagination, M31, 
+NSCore, OmniDesign, proteanTecs, PUFsecurity, Rambus, Silicongate, Silicon Creations, Synopsys, 
+TCI, and TSMC. Through these partnerships, GUC is able to provide customers with comprehensive, 
+end-to-end design solutions.
+
+[page 48]
+94 95
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+94 95Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+04  Operational Highlights
+F. Diversiﬁed service models
+GUC provides one-stop-shop services through comprehensive SoC solutions, supporting customers 
+throughout the entire process from design concept to volume production and market launch.
+
+[page 48]
+Customers may select different service models based on their specific requirements and technical 
+capabilities.
+G. IP transaction servicesl
+GUC provides an IP transaction platform that connects IP suppliers and users, assisting customers 
+in obtaining the IP and related services required for SoC design. Through a single point of contact, 
+customers are able to access comprehensive, high-quality IP licensing and support services.
+
+[page 48]
+(2) Positive and negative factors for future development and GUC's response 
+A. Positive factors
+a. World-leading foundry and advanced process technologies
+TSMC is the world's leading semiconductor foundry, with a global market share exceeding 50%, and 
+maintains a dominant position in advanced process technologies. Taiwan-based companies provide 
+indispensable technologies and services to the global semiconductor industry. Whether customers 
+engage directly with foundries or work through design service providers for production, Taiwan's 
+semiconductor ecosystem is able to deliver comprehensive and highly competitive solutions. Through 
+the mutually beneficial collaboration between foundries and design service providers, Taiwan has 
+become a key partner and an important manufacturing base for semiconductor companies worldwide.
+
+[page 48]
+b. Rapidly expanding emerging technologies and startups 
+The expansion of human knowledge has never ceased, and applications and services driven by 
+technological innovation have long served as a key engine of industrial progress. From the early 
+development of personal computers, SoC architectures, and analog mobile communications to today's 
+5G networks, technology has continued to evolve. In recent years, the rapid advancement of HPC, AI, 
+and cloud-based data center services has generated rapidly changing market demands, giving rise to 
+a growing number of startups focused on developing new technologies and products. These startups 
+help translate innovative ideas into practical applications and further drive industry growth. Given their 
+typically limited resources and manpower, startups often rely on design service providers and the 
+effective reuse of proven silicon IP to accelerate the transformation of ideas into chip products. The 
+continuous iteration of emerging technologies and startups forms a positive cycle, injecting sustained 
+momentum into the growth of the semiconductor industry.
+
+[page 48]
+c. The trend toward IDM Fablite and the division of labor in chip design 
+The development of advanced process technologies, along with the associated capital equipment 
+and photomask costs, is extremely expensive, prompting IDMs to increasingly focus on their core 
+competencies and adopt fablite operating models. For system companies and IC design firms, 
+achieving higher performance through advanced process technologies requires substantially larger 
+engineering teams and more advanced hardware and software development environments, placing 
+significant financial and operational burdens on companies of ordinary scale. By engaging design 
+service providers, system companies and IC design ﬁrms can concentrate their resources on front-
+end design, while delegating back-end chip implementation, physical design, packaging and testing, 
+and the integration of related silicon IP to specialized design service providers and their ecosystem 
+partners. This clear division of labor enables advanced products to be developed in a faster, more 
+efﬁcient, and more reliable manner, supporting the timely realization of leading-edge solutions.
+
+[page 48]
+B. Negative factors and GUC's mitigation strategies
+a. Limited availability of critical silicon IP for certain application segments
+Some customer products, particularly those targeting HPC, AI, and data center networking applications, 
+require advanced IP such as chip interconnect and stacking IP, and HBM. The availability of such 
+critical IP plays an important role in customers' selection of design partners.
+
+[page 48]
+b. Increasing diversity of customer applications requires broader expertise
+As customer applications become increasingly diverse, GUC must continue to broaden its knowledge 
+across multiple domains in order to better understand application-specific requirements and further 
+enhance the quality of design services.
+
+[page 49]
+2-2. Production process of GUC's major products
+The company's production ﬂow includes two major steps: Front-end design service, and mass production.
+Step 1: The process of front-end design:
+
+[page 49]
+Product 
+specification 
+evaluation and 
+signoff
+Front-end 
+Design service
+Circuit layout and 
+verification
+Client design check Sample 
+manufacturing Sample delivery
+Step 2: After the sample has been veriﬁed by the customer, the production stage begins:
+
+[page 50]
+98 99
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+98 99Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+04  Operational Highlights
+3.Human Capital
+Year 2024 2025 As of March 23, 2026
+2025 As of March 17, 2025
+Number of 
+employees
+Managerial ofﬁcer 7 7 7
+Professionals 873 902 909
+Total 880 909 916
+Average age 39.5 38.9 39.0
+Average years of seniority 6.9 7.1 7.2
+Educational level
+Ph. D 1.9% 1.8% 1.7%
+Master 61.7% 63.1% 63.4%
+Bachelor 36.0% 34.8% 34.5%
+High School 0.4% 0.3% 0.3%
+Note 1: The above information was presented based on consolidated statements.
+
+[page 50]
+5. Labor-management relations
+(1) The Company's employee beneﬁts, further education, training, retirement 
+system and the implementation status as well as status of labor-
+management agreements and measures taken to preserve employee 
+rights and interests
+1. Employee Beneﬁts
+The Company's "Employee Welfare Committee" has been set up since December 20, 1999, and was approved 
+by Hsinchu Science Industrial Park Administration. Funds are allocated on a monthly basis for organizing regular 
+activities to enhance employees' welfare. Detailed beneﬁts programs and budget planning are carried out every 
+year, including gift vouchers for festivals, health-promotion and leisure activities for employees, family days, local/
+overseas tours, wedding and funeral subsidies, hospitalization subsidies for employees and their families, etc. In 
+addition, the Company also provides the following beneﬁts:
+
+[page 50]
+(9) Employees can enjoy professional massage and stress-relieving services in the Company at a discount 
+price, and meanwhile help the visually impaired workers from "Hsinchu County Blind Welfare Association", 
+achieving two purposes (stress relief and charity) at the same time.
+
+[page 50]
+2. Further education and training
+The Company designates employee training and development as a key focus of human resource management. 
+In alignment with the Company's operational strategy and based on core competencies, it establishes a 
+comprehensive training blueprint, supported by a knowledge management system and diversified training 
+approaches, including in-person courses, online courses, blended learning, self-directed learning, and talent 
+development programs, to continuously provide employees with training resources and opportunities for growth 
+and development. In addition, the Company also makes effective use of external resources by subsidizing 
+employees' in-service education, participation in professional training, and language learning courses.
+
+[page 50]
+The Company's training blueprint includes the following main programs:
+(1) New Employee Training: To enable new employees to understand the Company, including both formal 
+systems and intangible culture, supplemented by a mentorship mechanism and experience sharing by 
+supervisors to accelerate adaptation to the environment.
+
+[page 50]
+(6) Self-learning: Provide scholarships to support employees in pursuing degree programs, and offer language 
+learning subsidies to encourage the enhancement of language proﬁciency.
+
+[page 51]
+100 101
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+100 101Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+04  Operational Highlights
+The achievements of the Company's educational training in the most recent year are as follows:
+
+[page 52]
+The Company cares for the health of its employees and arranges annual health checkups (surpassing 
+governmental regulations). The Company has established a health classiﬁcation system and conducts employee 
+health management, providing on-site physician services to safeguard employee health. In 2025, GUC organized 
+multiple practical and diverse health promotion seminars and activities and periodically updated its website with 
+health education information to ensure employee access to comprehensive health management services and 
+resources.
+
+[page 53]
+(2.3) Conduct educational training to improve employees' information security awareness and capability. 
+In addition to listing proprietary information control as a mandatory topic for new employees' 
+training, all employees should also be re-trained twice every year to continuously strengthen and 
+enhance their information security awareness.
+
+[page 53]
+PIP training 2023 2024 2025
+Total number of employees in the prevailing year 819 839 874
+Ratio of employees who completed the training 100% 100% 100%
+(2.4) Regarding PIP violations, management measures have been formulated, and reporting mechanisms 
+have been established to assess responsibility and administer penalties. Relevant punishments and 
+required corrections have been made in accordance with the cause of the violation and the degree 
+of the impact, and dissemination as well as educational training has continued. The PIP violations 
+occurring over the years are listed as follows, and there were no incidents of employees violating 
+conﬁdential information protection procedures in 2025. There was one incident of an outsourcing 
+vendor violating the rules, and relevant disciplinary actions have been taken, along with enhanced 
+training for the outsourcing vendor's personnel and measures to prevent recurrence.:The total 
+number of violations resulting from employee's failure to comply with the proprietary information 
+protection procedure in 2025 accounts for 0.12% of the number of employees.
+
+[page 53]
+The PIP violations occurring over the years are listed as follows:
+PIP violation condition 2023 2024 2025
+Number of violations by colleagues 1 1 0
+Number of violations by outsourcing suppliers 0 0 1
+1. Information security governance systems, goals and strategies
+GUC aims at building a tight and effective information security defense network as its information security 
+vision. With consistency in information security governance, the Company is gradually improving its 
+comprehensive protection capabilities, and hopes to become an enterprise with outstanding performance 
+and maturity in information security governance. The Information Security Department is in overall 
+charge of the information security system and relevant compliance. It also promotes the implementation 
+of relevant operations to continue the improvement of information security awareness and professional 
+capabilities. Through the application of technologies, the information security risks and weaknesses are 
+identiﬁed, for which effective reinforcement measures are taken to build up a sound governance system 
+and comprehensive information security protection capabilities, and meanwhile to cultivate employees' 
+information security awareness.
+
+[page 54]
+106 107
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+106 107Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+04  Operational Highlights
+4. Security risk management framework countermeasures
+(1) Information security defense capability reinforcement and maturity evaluation:
+
+[page 54]
+To further reinforce its anti-hacking capabilities, the Company engaged a locally-renowned white hat 
+hacker team to simulate offensive and defensive assessments with a Red Team in 2022 and conducted 
+penetration testing in 2024 and 2025. Apart from taking the initiative to understand hacker's thinking 
+and strengthening employees' anti-hacking awareness, such experience has been used to continue to 
+improve the intranet automatic joint defense system.
+
+[page 55]
+108 109
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+108 109Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+04  Operational Highlights
+(3.8) Currently no Information Security Insurance has been taken out; however, for the above-
+mentioned risk concerns, several measures such as the application of information security 
+management principles, introduction of technological solutions, and reinforcement of information 
+security educational training are concurrently employed to establish fortiﬁed information security 
+management mechanisms. The key measures are as follows:
+
+[page 55]
+(3.12) The responsible persons of respective information systems have been weekly convened to 
+discuss current week's information security incidents and adopt required protection measures.
+(4) Educational training
+The Information Security Department also conducts Information Security Awareness-raising Educational 
+Training for all employees on a quarterly basis. The topics are determined based on the encountered 
+internal/external threats. The topic for each quarter of 2025 is listed as follows:2025 Information Security 
+Awareness-raising Educational Training
+2025 Information Security Awareness-raising Educational Training
+Quarter Topic
+Quarter 1 HTML Phishing is a trend that hides links in HTML attachments in email
+ Quarter 2 Poisoned AI chatbot!?
+
+[page 55]
+Quarter 3 QR Codes Scam Alert
+ Quarter 4 AI Browser
+(5) Resources invested for information security
+The Company keeps investing resources in information security related ﬁelds. Resources being invested 
+in improving the fundamental structure for governance and technology, strengthening the equipment 
+for information security defense, information/data monitoring and analysis, incident response drills, 
+educational training, etc. to comprehensively enhance the information security capabilities.
+
+[page 60]
+Description
+Investee
+Reinvestment Policy
+2025 
+Investment 
+proﬁt/loss 
+(NT$1,000)
+Main reason for  
+proﬁt or loss
+Improvement 
+Plan
+Investment 
+plan for 
+the coming 
+year
+Global Unichip 
+Corp.-NA
+The main purpose is to help expand 
+the US market, and to directly 
+provide product design, technical 
+support and consulting services for 
+customers on a local basis.
+
+[page 60]
+8,800
+The main proﬁt source is 
+the stable revenue from 
+product design, technical 
+support and consulting 
+services
+N/A None
+Global Unichip 
+Japan Co., Ltd.
+The main purpose is to help expand 
+the Japanese market, and to directly 
+provide product consulting services 
+for customers on a local basis.
+
+[page 60]
+12,247
+The main proﬁt source is 
+the stable revenue from 
+product design, technical 
+support and consulting 
+services
+N/A None
+Global Unichip 
+Corp. Europe 
+B.V.
+The main purpose is to help expand 
+the European market, and to directly 
+provide product consulting services 
+for customers on a local basis.
+
+[page 62]
+122 123
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+122 123Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+05   Operating Results and Status of Risk Management
+6-3.Research and development work to be carried out in the future, and 
+further expenditures expected for research and development work
+To address future growth requirements, GUC will continue to invest in R&D resources to further optimize its 
+5/4nm, 3nm, and 2nm design ﬂows, while advancing the development of silicon photonics-based co-packaged 
+optics (CPO) and integrated voltage regulator (IVR) technologies. In parallel, the company will continue to 
+develop higher-speed chip interconnect and stacking IP (such as GLink and UCIe), HBM PHY and Controller 
+solutions, as well as mixed-signal IP. GUC plans to invest over NT$3.6 billion into R&D over the next two 
+years.  The related R&D plans are outlined below.
+
+[page 62]
+R&D Area Test Chip Tape-out Schedule/
+Development Status System Validation Schedule
+3nm HBM4E 12G Controller & PHY Completed test-chip tape-out in Q1 
+2025 Silicon veriﬁed in Q1 2026 
+2nm HBM4E 16G Controller & PHY Test-chip tape-out scheduled for 
+Q2 2026
+Silicon veriﬁcation scheduled for Q1 
+2027 
+2nm HBM4E 16G Face-Up Controller 
+& PHY 
+Test-chip tape-out scheduled for 
+Q4 2026
+Silicon veriﬁcation scheduled for Q4 
+2027
+5nm UCIe LP 32G Completed test-chip tape-out in Q4 
+2024
+Silicon veriﬁcation scheduled for Q2 
+2026
+5nm UCIe LP 32G Face-Up Completed test-chip tape-out in Q3 
+2025
+Silicon veriﬁcation scheduled for Q3 
+2026
+3nm UCIe 64G Completed test-chip tape-out in Q4 
+2025
+Silicon veriﬁcation scheduled for Q1 
+2027
+2nm UCIe 64G Test-chip tape-out scheduled for 
+Q4 2026
+Silicon veriﬁcation scheduled for Q4 
+2027
+3nm and 5nm custom GLink-3D Completed test-chip tape-out in Q3 
+2025
+Silicon veriﬁcation scheduled for Q3 
+2026
+2nm GLink-3D/UCIe-3D Test-chip tape-out scheduled for 
+Q4 2026
+Silicon veriﬁcation scheduled for Q4 
+2027
+Functional safety-aware design ﬂow Completed functional safety- aware 
+USF/SSF design ﬂow in Q1 2025
+Customer tape-out silicon veriﬁed in 
+Q4 2025
+2nm design ﬂow Completed N2P V1.0 design flow 
+in Q2 2025 Test-chip silicon veriﬁed in Q2 2025
+2.5D advanced packaging design ﬂow CoWoS-L design flow completion 
+scheduled for Q3 2026
+Test-chip silicon veriﬁcation 
+scheduled for H1 2027
+3D advanced packaging design ﬂow Completed 3Dblox 3.0 design ﬂow 
+in Q4 2025
+Customer tape-out silicon 
+veriﬁcation scheduled for H1 2027
+CPO Test-chip tap-out scheduled for 
+Q2 2026
+Test-chip silicon veriﬁcation 
+scheduled for Q2 2027 
+16nm IVR Completed test-chip tape-out in 
+Q4 2025
+Test-chip silicon veriﬁcation 
+scheduled for Q2 2026
+6-4.Impact of changes in critical domestic/foreign policies and laws on the 
+company's ﬁnance/business, and the countermeasures to be taken
+All business of the Company is operated in accordance with laws and regulations set by the competent 
+authorities. The Company's ﬁnance/business has not been impacted by changes in critical domestic/foreign 
+policies and laws in the most recent year up to the publication date of this annual report.
+
+[page 63]
+124 125
+　創意電子 110 年度年報 Global Unichip Corp. 2021 Annual Report　
+124 125Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+05   Operating Results and Status of Risk Management
+6-10.Impact and risks of the transfer of stakes held by directors or major 
+shareholders holding stakes over 10 %, and the countermeasures to be 
+taken:  No such condition
+6-11.Impact and risks of changes in ownership of the company, and the 
+countermeasures to be taken:  No such condition
+6-12.Litigious or non-litigious events: It is necessary to list the major 
+adjudicated or pending litigious/non-litigious or administrative dispute 
+events in which the company or any of the company's directors, 
+president, de facto responsible person, any of the major shareholders 
+holding stakes over 10%, or any of the subordinate companies is 
+involved. For events whose consequences may have a material impact 
+on shareholders' equity or the price of securities, it is necessary to 
+disclose the disputed facts at issue, the claim amount, the litigation 
+start date, and the main parties involved as well as the processing 
+status up until the publication date of this annual report: No such 
+condition
+As is the case with many companies in the semiconductor industry, the Company has received from time 
+to time communications from third parties asserting that its technologies, its manufacturing processes, or 
+the design of the semiconductors made by TSMC or the use of those semiconductors by its customers may 
+infringe upon their patents or other intellectual property rights. These assertions have at times resulted in 
+litigation by or against the Company and settlement payments by the Company. Irrespective of the validity 
+of these claims, the Company could incur signiﬁcant costs in the defense thereof or could suffer adverse 
+effects on its operations. The Company is also subject to antitrust compliance requirements and scrutiny 
+by governmental regulators in multiple jurisdictions. Any adverse results of such proceeding or other similar 
+proceedings that may arise in those jurisdictions could harm TSMC's business and distract its management, 
+and thereby have a material adverse effect on its results of operations or prospects, and subject the 
+Company to potential signiﬁcant legal liability.
+
+[page 65]
+(GUC-Japan)
+Global Unichip 
+(Nanjing) Ltd.
+(GUC-NJ)
+GLOBAL UNICHIP
+(SHANGHAI)
+COMPANY, LIMITED 
+ (GUC-CN)
+Global Unichip Corp 
+Europe B.V.
+(GUC-Europe)
+Global Unichip 
+Vietnam Co.,Ltd. 
+(GUC-VN)
+100%
+100% 100%
+100%100%
+100%
+100%
+December 31, 2025
+128 129Global Unichip Corp. 2025 Annual Report 　Global Unichip Corp. 2025 Annual Report
+06   Special Disclosure
+1. Summary of afﬁliated companies
+(1) Afﬁliated companies' consolidated business report
+1. Organizational chart of the company's afﬁliated companies
+2. Proﬁles of the Company's afﬁliated companies
+Name of 
+enterprise
+Date of
+establishment Address Paid-in Capital Main business or production 
+items
+establishment Address Paid-in Capital Main business or production items
+GUC-NA 2004.02.02 2841 Junction Ave. Suite 201 
+San Jose, CA 95134, USA
+USD 
+800,000
+Assist in product design, technical 
+support, and consulting services 
+for GUC's North American market.
+
+[page 65]
+GUC-Japan 2005.06.16
+Yokohama Landmark Tower 
+16F, 2-2-1, Minatomirai, Nishiku, 
+Yokohama, 220-8116, Japan
+YEN 
+55,000,000
+Assist in product design, technical 
+support, and consulting services 
+for GUC's Japan market.
+
+[page 65]
+GUC-Europe 2008.05.09
+World Trade Center, Tower H - 
+6th Floor, Zuidplein 58, 1077 XV 
+Amsterdam.
+EUR 
+200,000
+Assist in product design, technical 
+support, and consulting services 
+for GUC's Europe market.
+
+[page 65]
+GUC-CN 2009.11.04
+Room 2305, No. 1350, Sichuan 
+North Road, Hongkou District, 
+Shanghai
+USD 
+1,000,000
+Assist in product design, technical 
+support, and consulting services 
+for GUC's Mainland China market.
+
+[page 65]
+GUC-Korea 2016.11.21 3F, 208 Teheran-ro, Gangnam-
+gu, Seoul
+KRW 
+220,000,000
+Assist in product design, technical 
+support, and consulting services 
+for GUC's Korea market.
+GUC-NJ 2017.07.24
+14th Floor, Block C, Fuying 
+Building, No. 99, Tuanjie Road, 
+Pukou District, Nanjing City
+USD 
+10,000,000
+Assist in product design, technical 
+support, and consulting services 
+for GUC's Mainland China market.
+
+[page 65]
+GUC-VN 2023.02.20
+7th Floor, The Grace Tower, 71 
+Hoang Van Thai Street, Tan My 
+Ward, District 7, Ho Chi Minh 
+City 700000, Vietnam
+USD 
+1,000,000
+Assist in product design, technical 
+support, and consulting services 
+for GUC's Vietnam market.
+</section>

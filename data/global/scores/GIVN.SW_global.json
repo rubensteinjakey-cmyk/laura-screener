@@ -1,0 +1,339 @@
+{
+  "ticker": "GIVN.SW",
+  "company_name": "Givaudan",
+  "country": "Switzerland",
+  "sector": "Materials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.givaudan.com/file/1366761/download",
+  "english": true,
+  "words_sent": 40036,
+  "prompt_chars": 302269,
+  "approx_prompt_tokens": 75567,
+  "scored_at": "2026-10-23T09:15:56",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Fine fragrance creative centre that co-creates fine fragrances with Chinese brands",
+        "quote": "L’Appartement 125, our Fine Fragrance Creative Centre in Shanghai, connects Givaudan with Chinese brands to co-create the future of fine fragrances.",
+        "source_doc": "filing",
+        "section": "Annual report > Delivering on our 2025 ambitions > Co-creation: driving innovation together",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "creates",
+            "criterion": "level 3: named, ongoing creative centre for original fine-fragrance creation"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Fragrance and flavour creation for customer briefs, co-created with customers and partners",
+        "quote": "Co-creation and collaboration with our customers and partners are powerful drivers of innovation and long-term value and help us find cutting-edge solutions for the more than 300,000 briefs we receive each year.",
+        "source_doc": "filing",
+        "section": "Annual report > Delivering on our 2025 ambitions > Co-creation: driving innovation together",
+        "status": "current",
+        "indicators": "more than 300,000 briefs",
+        "themes": {
+          "creativity": {
+            "kind": "creates",
+            "criterion": "level 3: creative scent and flavour creation with substantial reach shown by brief volume"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Givaudan Foundation community projects with partner organisations",
+        "quote": "In 2025, the Foundation ran 67 social and environmental projects in 27 countries that touched more than 90,200 community members where Givaudan sources and operates, and worked with 63 partner organisations, to ensure projects are relevant and maximise positive impact.",
+        "source_doc": "filing",
+        "section": "Annual report > Business conduct > Maximising our benefit to communities > Givaudan Foundation",
+        "status": "current",
+        "indicators": "67 projects, 27 countries, more than 90,200 community members, 63 partner organisations",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named foundation programme with participant and partner figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Community initiatives tied to the Communities purpose target",
+        "quote": "Through our Sourcing4Good programme we achieved 69% of materials and services responsibly sourced and in pursuit of our efforts to improve the lives of millions of people in the communities where we source and operate, we reached 820,137 beneficiaries.",
+        "source_doc": "filing",
+        "section": "Annual report > ESG impact and progress > Accelerating progress on our ESG agenda",
+        "status": "current",
+        "indicators": "820,137 beneficiaries",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: measured community commitment with beneficiary figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Foundation-funded school sanitation and safe-water project in turmeric-sourcing communities in India",
+        "quote": "The project included the construction of five new toilets with handwashing stations and the installation of four water filtration systems to ensure access to safe drinking water, directly benefiting 572 students and 44 staff members.",
+        "source_doc": "filing",
+        "section": "Annual report > Water security > Our supply chain, partners and communities > Our actions and progress",
+        "status": "current",
+        "indicators": "572 students and 44 staff members",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: school partnership with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Child labour training and vigilance programme for supplier employees and field collectors",
+        "quote": "Since its start, the programme has covered 55 supply chains and provided training to more than 3,000 external partners, such as supplier employees and field collectors.",
+        "source_doc": "filing",
+        "section": "Annual report > Human rights and labour conditions > Child labour, forced labour, compulsory labour and human trafficking",
+        "status": "current",
+        "indicators": "55 supply chains, more than 3,000 external partners",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external training programme with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Farmer training group promoting good agricultural, social and environmental practices in patchouli supply chain",
+        "quote": "With a little over 500 farmers engaged through our Patchouli Champions Group (PCG), our approach to promoting good agricultural, social and environmental practices remains comprehensive.",
+        "source_doc": "filing",
+        "section": "Annual report > Biodiversity and ecosystems > Addressing risks associated with cultivated raw materials",
+        "status": "current",
+        "indicators": "a little over 500 farmers",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external farmer education programme with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Humanitarian Fund donations for disaster response",
+        "quote": "At the end of 2025, we committed a further CHF 150,000 donation to the Swiss Red Cross to support communities in Indonesia, Sri Lanka, and Vietnam following devastating cyclones, totaling CHF 350,000 for the year.",
+        "source_doc": "filing",
+        "section": "Annual report > Business conduct > Maximising our benefit to communities > Humanitarian fund",
+        "status": "current",
+        "indicators": "CHF 150,000; CHF 350,000",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific donations, limited in scale"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Employee volunteering in Givaudan Foundation projects",
+        "quote": "Since 2014, over 2,500 Givaudan employees have actively participated in the Foundation’s work as volunteers.",
+        "source_doc": "filing",
+        "section": "Annual report > Business conduct > Maximising our benefit to communities > Givaudan Foundation",
+        "status": "current",
+        "indicators": "over 2,500 Givaudan employees",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: volunteering with numbers"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Leadership Senses leadership development curriculum for employees",
+        "quote": "Since its launch in 2015, a total of 3,038 managers have participated in of the five modules of Leadership Senses: Discover, Begin, Grow, Evolve and Enhance.",
+        "source_doc": "filing",
+        "section": "Annual report > Our people and culture > Growing skills and careers > Developing and managing our talented people",
+        "status": "current",
+        "indicators": "3,038 managers",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Givaudan Perfumery School and mentoring/trainee programmes for flavourists",
+        "quote": "Taste & Wellbeing features a dedicated sales academy, while Fragrance & Beauty continues to build excellence through the renowned Givaudan Perfumery School.",
+        "source_doc": "filing",
+        "section": "Annual report > Our people and culture > Growing skills and careers",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Employee Community Groups for women, ethnic groups and LGBTQIA+ employees",
+        "quote": "Across many sites, we have active Employee Community Groups that represent, support and celebrate diverse communities, including women, ethnic groups and LGBTQIA+ employees.",
+        "source_doc": "filing",
+        "section": "Annual report > Our people and culture > Inclusively Givaudan > Our approach to inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no figures"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Unconscious Bias eLearning programme for employees",
+        "quote": "An additional 4,526 people have completed the eLearning on Unconscious Bias in 2025, designed to enhance self-awareness of biases and deepen understanding of inclusivity.",
+        "source_doc": "filing",
+        "section": "Annual report > Our people and culture > Inclusively Givaudan > Our approach to inclusion",
+        "status": "current",
+        "indicators": "4,526 people",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 3: named inclusion programme with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "Equal pay certification (Fair-ON-Pay) across countries",
+        "quote": "After initially securing equal pay certification for all sites in Switzerland in 2021, we have added 15 more country certifications over the past four years, and we are pursuing our certification for three more sites.",
+        "source_doc": "filing",
+        "section": "Annual report > Our people and culture > Rewarding contribution to our success",
+        "status": "current",
+        "indicators": "15 more country certifications; 80% of our population",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 3: inclusive pay practice with coverage figures"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Accessibility features on corporate website for people with disabilities",
+        "quote": "In line with our commitment, we enhanced several functionalities of our corporate website in 2024 to make it more accessible to people with a range of needs relating to vision, hearing, cognition and neurodivergence.",
+        "source_doc": "filing",
+        "section": "Annual report > Our people and culture > Inclusively Givaudan > Our approach to inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: accessibility features, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "Front-End Innovation support for start-ups with technical, market and commercialisation capabilities",
+        "quote": "Our Front-End Innovation (FEI) efforts enhance our innovation capacity by supporting promising start-ups that are creating disruptive innovations.",
+        "source_doc": "filing",
+        "section": "Annual report > Delivering on our 2025 ambitions > Co-creation: driving innovation together",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific start-up support programme, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E17",
+        "activity": "Givaudan Foundation support for women's literacy and entrepreneurship",
+        "quote": "The Givaudan Foundation continues to support broader community investments into women’s literacy and entrepreneurship.",
+        "source_doc": "filing",
+        "section": "Annual report > Human rights and labour conditions > Strengthening human rights in the ylang-ylang supply chain (Our key actions)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific entrepreneurship support, limited/undisclosed reach"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 3: specific current creative activity (fine-fragrance creation centre and perfumer-led creation for more than 300,000 briefs a year) with substantial reach; no creative-segment revenue is disclosed for level 4, and when torn the lower level is used."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11"
+        ],
+        "reason": "Level 3: external community investment and education with substantial measured reach (Foundation's 67 projects touching 90,200+ people, 820,137 beneficiaries, 3,000+ external partners trained); level 4 is not taken because donation sums are modest (CHF 350,000), and when torn the lower level is used."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E12",
+          "E13",
+          "E14",
+          "E15"
+        ],
+        "reason": "Level 3: specific internal inclusion practices with indicators (4,526 completions of unconscious-bias training, equal-pay certification covering 80% of employees), plus employee community groups and website accessibility features."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E16",
+          "E17"
+        ],
+        "reason": "Level 2: specific enabling activities (Front-End Innovation support for start-ups and Foundation support for women's entrepreneurship) with no disclosed reach."
+      }
+    },
+    "red_flags": [],
+    "notes": "The report says the target of 50% senior leaders from high-growth markets was discontinued for the 2030 strategy. The goal of being a leading employer for inclusion was not met by 2025 and has been restated for 2030. Inclusion figures are inconsistent across the report (74% status, 88% inclusion index, 82% engagement score). Some activities are pilots (rose GAP programme for about 60 producers; women's leadership coaching), so they were not treated as company-wide. The FEI start-up support also serves Givaudan's own innovation. Small and local customers (59% of sales to local and regional customers) count only as serving. The ongoing competition-authority investigation into the fragrance industry is not a rights finding. Ooby and the AI creation tools are internal creative inputs and were not scored above 1."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"GIVN.SW\",\"sector\":\"Materials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Fine fragrance creative centre that co-creates fine fragrances with Chinese brands\",\"quote\":\"L’Appartement 125, our Fine Fragrance Creative Centre in Shanghai, connects Givaudan with Chinese brands to co-create the future of fine fragrances.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Delivering on our 2025 ambitions > Co-creation: driving innovation together\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"creates\",\"criterion\":\"level 3: named, ongoing creative centre for original fine-fragrance creation\"}}},{\"id\":\"E2\",\"activity\":\"Fragrance and flavour creation for customer briefs, co-created with customers and partners\",\"quote\":\"Co-creation and collaboration with our customers and partners are powerful drivers of innovation and long-term value and help us find cutting-edge solutions for the more than 300,000 briefs we receive each year.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Delivering on our 2025 ambitions > Co-creation: driving innovation together\",\"status\":\"current\",\"indicators\":\"more than 300,000 briefs\",\"themes\":{\"creativity\":{\"kind\":\"creates\",\"criterion\":\"level 3: creative scent and flavour creation with substantial reach shown by brief volume\"}}},{\"id\":\"E3\",\"activity\":\"Givaudan Foundation community projects with partner organisations\",\"quote\":\"In 2025, the Foundation ran 67 social and environmental projects in 27 countries that touched more than 90,200 community members where Givaudan sources and operates, and worked with 63 partner organisations, to ensure projects are relevant and maximise positive impact.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business conduct > Maximising our benefit to communities > Givaudan Foundation\",\"status\":\"current\",\"indicators\":\"67 projects, 27 countries, more than 90,200 community members, 63 partner organisations\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named foundation programme with participant and partner figures\"}}},{\"id\":\"E4\",\"activity\":\"Community initiatives tied to the Communities purpose target\",\"quote\":\"Through our Sourcing4Good programme we achieved 69% of materials and services responsibly sourced and in pursuit of our efforts to improve the lives of millions of people in the communities where we source and operate, we reached 820,137 beneficiaries.\",\"source_doc\":\"filing\",\"section\":\"Annual report > ESG impact and progress > Accelerating progress on our ESG agenda\",\"status\":\"current\",\"indicators\":\"820,137 beneficiaries\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: measured community commitment with beneficiary figures\"}}},{\"id\":\"E5\",\"activity\":\"Foundation-funded school sanitation and safe-water project in turmeric-sourcing communities in India\",\"quote\":\"The project included the construction of five new toilets with handwashing stations and the installation of four water filtration systems to ensure access to safe drinking water, directly benefiting 572 students and 44 staff members.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Water security > Our supply chain, partners and communities > Our actions and progress\",\"status\":\"current\",\"indicators\":\"572 students and 44 staff members\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: school partnership with participant numbers\"}}},{\"id\":\"E6\",\"activity\":\"Child labour training and vigilance programme for supplier employees and field collectors\",\"quote\":\"Since its start, the programme has covered 55 supply chains and provided training to more than 3,000 external partners, such as supplier employees and field collectors.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Human rights and labour conditions > Child labour, forced labour, compulsory labour and human trafficking\",\"status\":\"current\",\"indicators\":\"55 supply chains, more than 3,000 external partners\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external training programme with participant numbers\"}}},{\"id\":\"E7\",\"activity\":\"Farmer training group promoting good agricultural, social and environmental practices in patchouli supply chain\",\"quote\":\"With a little over 500 farmers engaged through our Patchouli Champions Group (PCG), our approach to promoting good agricultural, social and environmental practices remains comprehensive.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Biodiversity and ecosystems > Addressing risks associated with cultivated raw materials\",\"status\":\"current\",\"indicators\":\"a little over 500 farmers\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external farmer education programme with participant numbers\"}}},{\"id\":\"E8\",\"activity\":\"Humanitarian Fund donations for disaster response\",\"quote\":\"At the end of 2025, we committed a further CHF 150,000 donation to the Swiss Red Cross to support communities in Indonesia, Sri Lanka, and Vietnam following devastating cyclones, totaling CHF 350,000 for the year.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business conduct > Maximising our benefit to communities > Humanitarian fund\",\"status\":\"current\",\"indicators\":\"CHF 150,000; CHF 350,000\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific donations, limited in scale\"}}},{\"id\":\"E9\",\"activity\":\"Employee volunteering in Givaudan Foundation projects\",\"quote\":\"Since 2014, over 2,500 Givaudan employees have actively participated in the Foundation’s work as volunteers.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business conduct > Maximising our benefit to communities > Givaudan Foundation\",\"status\":\"current\",\"indicators\":\"over 2,500 Givaudan employees\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: volunteering with numbers\"}}},{\"id\":\"E10\",\"activity\":\"Leadership Senses leadership development curriculum for employees\",\"quote\":\"Since its launch in 2015, a total of 3,038 managers have participated in of the five modules of Leadership Senses: Discover, Begin, Grow, Evolve and Enhance.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our people and culture > Growing skills and careers > Developing and managing our talented people\",\"status\":\"current\",\"indicators\":\"3,038 managers\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E11\",\"activity\":\"Givaudan Perfumery School and mentoring/trainee programmes for flavourists\",\"quote\":\"Taste & Wellbeing features a dedicated sales academy, while Fragrance & Beauty continues to build excellence through the renowned Givaudan Perfumery School.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our people and culture > Growing skills and careers\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E12\",\"activity\":\"Employee Community Groups for women, ethnic groups and LGBTQIA+ employees\",\"quote\":\"Across many sites, we have active Employee Community Groups that represent, support and celebrate diverse communities, including women, ethnic groups and LGBTQIA+ employees.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our people and culture > Inclusively Givaudan > Our approach to inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no figures\"}}},{\"id\":\"E13\",\"activity\":\"Unconscious Bias eLearning programme for employees\",\"quote\":\"An additional 4,526 people have completed the eLearning on Unconscious Bias in 2025, designed to enhance self-awareness of biases and deepen understanding of inclusivity.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our people and culture > Inclusively Givaudan > Our approach to inclusion\",\"status\":\"current\",\"indicators\":\"4,526 people\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 3: named inclusion programme with participant numbers\"}}},{\"id\":\"E14\",\"activity\":\"Equal pay certification (Fair-ON-Pay) across countries\",\"quote\":\"After initially securing equal pay certification for all sites in Switzerland in 2021, we have added 15 more country certifications over the past four years, and we are pursuing our certification for three more sites.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our people and culture > Rewarding contribution to our success\",\"status\":\"current\",\"indicators\":\"15 more country certifications; 80% of our population\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 3: inclusive pay practice with coverage figures\"}}},{\"id\":\"E15\",\"activity\":\"Accessibility features on corporate website for people with disabilities\",\"quote\":\"In line with our commitment, we enhanced several functionalities of our corporate website in 2024 to make it more accessible to people with a range of needs relating to vision, hearing, cognition and neurodivergence.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our people and culture > Inclusively Givaudan > Our approach to inclusion\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: accessibility features, limited reach\"}}},{\"id\":\"E16\",\"activity\":\"Front-End Innovation support for start-ups with technical, market and commercialisation capabilities\",\"quote\":\"Our Front-End Innovation (FEI) efforts enhance our innovation capacity by supporting promising start-ups that are creating disruptive innovations.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Delivering on our 2025 ambitions > Co-creation: driving innovation together\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific start-up support programme, no reach figures\"}}},{\"id\":\"E17\",\"activity\":\"Givaudan Foundation support for women's literacy and entrepreneurship\",\"quote\":\"The Givaudan Foundation continues to support broader community investments into women’s literacy and entrepreneurship.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Human rights and labour conditions > Strengthening human rights in the ylang-ylang supply chain (Our key actions)\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific entrepreneurship support, limited/undisclosed reach\"}}}],\"themes\":{\"creativity\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 3: specific current creative activity (fine-fragrance creation centre and perfumer-led creation for more than 300,000 briefs a year) with substantial reach; no creative-segment revenue is disclosed for level 4, and when torn the lower level is used.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\",\"E10\",\"E11\"],\"reason\":\"Level 3: external community investment and education with substantial measured reach (Foundation's 67 projects touching 90,200+ people, 820,137 beneficiaries, 3,000+ external partners trained); level 4 is not taken because donation sums are modest (CHF 350,000), and when torn the lower level is used.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E12\",\"E13\",\"E14\",\"E15\"],\"reason\":\"Level 3: specific internal inclusion practices with indicators (4,526 completions of unconscious-bias training, equal-pay certification covering 80% of employees), plus employee community groups and website accessibility features.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E16\",\"E17\"],\"reason\":\"Level 2: specific enabling activities (Front-End Innovation support for start-ups and Foundation support for women's entrepreneurship) with no disclosed reach.\"}},\"notes\":\"The report says the target of 50% senior leaders from high-growth markets was discontinued for the 2030 strategy. The goal of being a leading employer for inclusion was not met by 2025 and has been restated for 2030. Inclusion figures are inconsistent across the report (74% status, 88% inclusion index, 82% engagement score). Some activities are pilots (rose GAP programme for about 60 producers; women's leadership coaching), so they were not treated as company-wide. The FEI start-up support also serves Givaudan's own innovation. Small and local customers (59% of sales to local and regional customers) count only as serving. The ongoing competition-authority investigation into the fragrance industry is not a rights finding. Ooby and the AI creation tools are internal creative inputs and were not scored above 1.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 108712,
+      "output_tokens": 9381,
+      "duration_ms": 77684
+    }
+  ]
+}

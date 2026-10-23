@@ -1,0 +1,23 @@
+{
+  "ticker": "HLUN-B.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/annual-reporting/2025/Lundbeck_Annual_Report_2025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 40142,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 1 lowest-relevance keyword paragraph(s) and 132 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 0,
+  "chapter_method": "printed table of contents",
+  "chapters": [
+    "Key highlights (pages 7-7)",
+    "Letter from the Chair and CEO (pages 9-213)"
+  ],
+  "chapters_skipped": [],
+  "words_sent": 40149
+}

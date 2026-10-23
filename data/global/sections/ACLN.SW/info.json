@@ -1,0 +1,43 @@
+{
+  "ticker": "ACLN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://accelleron.com/content/dam/accelleronind/documents/investors/accelleron-annual-report-2025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 39246,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 33 lowest-relevance keyword paragraph(s) and 14 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 9809,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "Key Figures at a glance (pages 2-2)",
+    "01 Company overview (pages 4-13)",
+    "Letter to shareholders (pages 5-6)",
+    "Accelleron at a glance (pages 7-7)",
+    "Highlights (pages 8-9)",
+    "Strategy (pages 10-11)",
+    "03 Sustainability (pages 20-77)",
+    "Sustainability at Accelleron (pages 24-27)",
+    "People (pages 50-60)"
+  ],
+  "chapters_skipped": [
+    "05 Compensation Report",
+    "06 Consolidated Financial Statements of Accelleron",
+    "07 Accelleron Statutory Financial Statements",
+    "Balance Sheets & Statements of Cash Flows",
+    "Financial statement",
+    "Notes to Financial Statements",
+    "Notes to the Consolidated and Combined Financia l Statements",
+    "Operating segments financial reviewOperating segments financial review",
+    "Report of the statutory auditor",
+    "Statutory Auditorʼs Report",
+    "Takeover and defense measures/Auditors",
+    "glossary"
+  ],
+  "words_sent": 39253
+}

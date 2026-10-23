@@ -1,0 +1,319 @@
+{
+  "ticker": "S68.SI",
+  "company_name": "Singapore Exchange",
+  "country": "Singapore",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/FileOpen/2025_SGX_Annual_Report.ashx?App=Announcement&FileID=859054",
+  "english": true,
+  "words_sent": 18020,
+  "themes": {
+    "creativity": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E9"
+      ],
+      "valid_evidence_ids": [
+        "E9"
+      ],
+      "kinds": [
+        "enables"
+      ],
+      "reason": "Level 1: the business is a multi-asset exchange with no creative product line; the only creative activity is incidental volunteer craft workshops, and when torn between 1 and 2 the lower level was chosen.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 3,
+      "score": 3,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E8"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E8"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development",
+        "external_education"
+      ],
+      "reason": "Level 3: named external education (SGX Academy, over 170 events and more than 22,000 participants) and a named community-investment programme (Bull Charge, more than $52 million raised) show substantial measured reach, but neither is central to strategy.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "valid_evidence_ids": [
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "kinds": [
+        "connecting_communities",
+        "internal_practice"
+      ],
+      "reason": "Level 2: specific current activities (outreach with the autism and disability communities, and a diversity-focused board search practice) with no reach figures.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 1: the exchange serves listing companies and issuers, but describes no current, specific programme aimed at barriers for founders or small businesses; the emerging-companies initiative (E10) is planned only.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 1,
+    "community": 3,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 36.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [],
+  "internal_note": "",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 36.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "SGX Cares Bull Charge, an annual fundraising programme (Charity Run, Charity Futsal) supporting underprivileged children and families, persons with disabilities and seniors",
+      "quote": "Over two decades, SGX Group has raised more than $52 million through SGX Cares Bull Charge, bringing together the financial community, Singapore-listed companies, business and technology partners to support the needs of underprivileged children and families, persons with disabilities and seniors.",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Corporate Social Responsibility > Bull Charge",
+      "status": "current",
+      "indicators": "$52 million",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 3: named, ongoing community fundraising programme with dollar figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "SGX Academy financial literacy and investor education programmes, run with local tertiary institutions",
+      "quote": "Over the past year, SGX Academy hosted over 170 events in financial literacy and investor education, reaching more than 22,000 participants – many of whom were young and first-time investors.",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Corporate Social Responsibility > Financial Literacy",
+      "status": "current",
+      "indicators": "over 170 events, more than 22,000 participants",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 3: named external education programme with participant numbers"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "One-day experiential capital-markets programme for 17- to 19-year-old students (SGX Capital Markets Conversations for You(th))",
+      "quote": "Over 300 attendees gained insights into the diversity and dynamism of capital markets and how it shapes their daily lives.",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Corporate Social Responsibility > Financial Literacy",
+      "status": "current",
+      "indicators": "Over 300 attendees",
+      "themes": {
+        "community": {
+          "kind": "external_education",
+          "criterion": "level 2: specific external education activity with limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Employee volunteering and outreach with supported beneficiaries, including the Autism Association (Singapore)",
+      "quote": "Throughout the year, SGX Group organised outreach activities to engage our supported beneficiaries: Autism Association (Singapore), AWWA Limited, Fei Yue Community Services and HCSA Community Services.",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Corporate Social Responsibility > Outreach",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific volunteering activity"
+        },
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2: specific outreach engaging people with disabilities, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Team-level engagement with dementia and adult disability centre beneficiaries (\"Embracing Communities\")",
+      "quote": "Through “Embracing Communities”, the Operations and Technology team connected with beneficiaries, joining them for karaoke and crafting at AWWA Dementia Day Care Centre and shopped for grocery essentials with seniors from the Adult Disability Centre.",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Corporate Social Responsibility > Bull Charge",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "connecting_communities",
+          "criterion": "level 2: specific activity with people with disabilities, limited reach"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E6",
+      "activity": "Board search practice requiring external search firms to prioritise diversity, especially gender diversity",
+      "quote": "External search firms that are engaged, are instructed that diversity is a key criterion in the search and in particular, gender diversity.",
+      "source_doc": "filing",
+      "section": "Annual report > Governance > Corporate Governance Report > Board Diversity",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific inclusion practice, limited reach (board level only)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E7",
+      "activity": "Disclosure of female board representation against target",
+      "quote": "Since FY2023, SGX has reached its target goal in achieving 30% representation of female directors on the Board.",
+      "source_doc": "filing",
+      "section": "Annual report > Governance > Corporate Governance Report > Diversity Targets and Progress in FY2025",
+      "status": "current",
+      "indicators": "30%",
+      "themes": {
+        "cross_cultural": {
+          "kind": "demographics_only",
+          "criterion": "level 1: demographic statistics only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E8",
+      "activity": "Employee training programmes",
+      "quote": "Average training hours per employee at 49 hours for SGX and 42 hours for SGX Group",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Key Highlights of Our Performance and Targets > Employment practices and employee development",
+      "status": "current",
+      "indicators": "49 hours, 42 hours",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E9",
+      "activity": "Volunteer-run craft and design workshops with seniors and youths",
+      "quote": "Various craft and design workshops were run with seniors and youths, along with enhancing financial literacy through board games and many more.",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Corporate Social Responsibility > Outreach",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "creativity": {
+          "kind": "enables",
+          "criterion": "level 1: incidental volunteer craft activity, not a creative business line (torn between 1 and 2, lower chosen)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E10",
+      "activity": "Planned support for emerging listed companies via research, investor engagement and liquidity provision",
+      "quote": "Key initiatives include supporting emerging companies through targeted research, investor engagement and liquidity provision, with the goal of expanding the pool of index-eligible firms and strengthening SGX’s role as a premier capital raising venue for companies at different stages of growth.",
+      "source_doc": "filing",
+      "section": "Annual report > Value Creation & Sustainability > Strategic Priorities > Equities – Cash",
+      "status": "planned",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: planned initiative serving listed companies; context only"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "SGX Academy investor education sits close to the 'educating customers' trap, because the exchange benefits from new investors. It is counted because the report frames it under CSR financial literacy, partners with tertiary institutions and targets young first-time investors. Community 3 also rests independently on Bull Charge. Several figures are split by PDF layout callouts and could not be quoted as continuous text: $2.25 million raised in 2024, about 4,500 Charity Run participants, and over 2,800 volunteer hours across 33 activities. The Sports Fun Workshops for people on the autism spectrum were also split this way. The report points to a separate FY2025 Sustainability Report for fuller detail, but the annual report itself describes specific activities, so coverage is sufficient. The chairman's letter discusses startups and venture capital as policy commentary only. Catalist is mentioned only as a 2007 milestone. Workforce gender, age and geographic splits are disclosed but count as demographics only.",
+  "extract_notes": [],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 4870,
+  "score_source": "Annual report 2025",
+  "second_look": null
+}

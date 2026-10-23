@@ -1,0 +1,411 @@
+{
+  "ticker": "DSFIR.AS",
+  "company_name": "DSM-Firmenich",
+  "country": "Switzerland",
+  "sector": "Materials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://annualreport.dsm-firmenich.com/2025/_assets/downloads/entire-dsmfirmenich-iar25.pdf",
+  "english": true,
+  "words_sent": 33840,
+  "prompt_chars": 263287,
+  "approx_prompt_tokens": 65821,
+  "scored_at": "2026-10-23T09:14:37",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Perfumery & Beauty business unit creates fragrances for global and local brands, using in-house perfumers",
+        "quote": "P&B is a leading creation and innovation partner for the most iconic global and local brands in consumer goods, lifestyle, and luxury beauty.",
+        "source_doc": "filing",
+        "section": "Annual report > Our Company > Our Strategy > Our Approach to Business > Our Business Units > Perfumery & Beauty (P&B)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "creates",
+            "criterion": "level 3: fragrance creation is a reported business unit, but no revenue, user or customer figures for it appear in the provided text"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Company perfumer created bespoke fragrances and olfactory installations for an art exhibition at the Petit Palais museum in Paris",
+        "quote": "Our perfumer Daphné Bugey created bespoke fragrances and designed olfactory installations exclusively for this exhibition.",
+        "source_doc": "filing",
+        "section": "Annual report > Our Businesses > Perfumery & Beauty > museum collaboration (Petit Palais)",
+        "status": "current",
+        "indicators": "more than 130 works",
+        "themes": {
+          "creativity": {
+            "kind": "creates",
+            "criterion": "level 2-3: specific current arts collaboration with a major museum"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Donated the DSM Art Collection to the municipality of Heerlen, with public exhibition in 2025",
+        "quote": "In 2025, 200 pieces were exhibited publicly for the first time during the exhibition “Rooted in Change,” making this cultural heritage accessible to the broader community.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > General information > Community engagement > Netherlands: DSM Art Collection donation",
+        "status": "current",
+        "indicators": "more than 500 works; 200 pieces",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2-3: specific arts donation that gives the public access to artworks"
+          },
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2-3: donation to a local municipality, with figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "LearnNow learning platform and academies for employees",
+        "quote": "Designed to inspire curiosity and collaboration, LearnNow offers access to more than 45,000 virtual courses, 16,000 business books, more than 40 academies for our Business Units and Business Partners, and company leadership programs, creating opportunities for growth across all roles and regions.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Own workforce > Training and skills",
+        "status": "current",
+        "indicators": "45,000 virtual courses; 16,000 business books; 40 academies",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Through the Jasmine Coalition, entrepreneurial and financial literacy training for jasmine pickers and farmers in Egypt",
+        "quote": "Delivered tailored entrepreneurial and financial literacy training to over 340 pickers and farmers, with a strong focus on women’s participation",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Workers in the value chain > Key activities and achievements delivered in 2025",
+        "status": "current",
+        "indicators": "over 340 pickers and farmers",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: external skills program with participant numbers"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific entrepreneurial training for smallholder producers, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Through the Jasmine Coalition, access to financial services including microloans for picker families",
+        "quote": "Supported access to financial services, including prepaid cards, savings accounts, and microloans, enabling families to improve their livelihoods",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Workers in the value chain > Key activities and achievements delivered in 2025",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: microfinance access for underserved rural households, no figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Through the Jasmine Coalition, summer school programs and children's rights sessions for children in jasmine-growing communities",
+        "quote": "Enrolled more than 2,600 children in summer school programs and awareness sessions on children’s rights",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Workers in the value chain > Key activities and achievements delivered in 2025",
+        "status": "current",
+        "indicators": "more than 2,600 children",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: external education program with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Long-running partnership with the UN World Food Programme, supported by the Progress Foundation, renewed through 2027",
+        "quote": "Supported by the Progress Foundation, our two-decade partnership with the World Food Programme (WFP) renewed in 2025 through to 2027.",
+        "source_doc": "filing",
+        "section": "Annual report > Our Performance > Sustainability > Our Activities > Tackling rising malnutrition and reducing the global micronutrient gap",
+        "status": "current",
+        "indicators": "60 million people in 32 countries (target)",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing nonprofit partnership with reach figures"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Founding member of the Millers for Nutrition coalition, giving technical support to millers",
+        "quote": "Through M4N, we provide technical support to millers and partners to help improve access to quality premix and ensure compliance with national standards.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Consumers and end-users > The Gates Foundation",
+        "status": "current",
+        "indicators": "750 millers; over 560 million people",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named capacity-building coalition with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Youth Impact program in Türkiye where students co-create sustainability solutions",
+        "quote": "In collaboration with WBCSD Türkiye and the Yenibirlider Association, we ran the Youth Impact program, selecting 21 students to co-create solutions in sustainability, together with industry representatives.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > General information > Community engagement > Working with communities all over the world",
+        "status": "current",
+        "indicators": "21 students",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education program, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Donated lab equipment to a Tanzanian university for pharmaceutical education",
+        "quote": "Lab equipment from our former Kaisersaugst facilities was donated to a Tanzanian university, supporting pharmaceutical education under the BIRS program.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > General information > Community engagement > Switzerland: Lab equipment donation",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific in-kind donation to a university, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Employee volunteering for a local food pantry in Belvidere, NJ",
+        "quote": "In Belvidere, NJ, volunteers collected and sorted 1,200 pounds of food for the Warren County Food Pantry.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > General information > Community engagement > Working with communities all over the world",
+        "status": "current",
+        "indicators": "1,200 pounds; 300 families",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: volunteering with figures, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Partnerships with local organizations and training centers giving people with disabilities training, job shadowing and employment pathways",
+        "quote": "We partnered with local organizations, training centers, and inclusion networks to support people with disabilities.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > General information > Community engagement > Working with communities all over the world",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external training and employment pathways, no figures"
+          },
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific program for people with disabilities, no figures"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "Employee Resource Groups hosting global events",
+        "quote": "Our Employee Resource Groups continued to grow as engines of connection and belonging, hosting more than sixty global events.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Own workforce > Inclusion and belonging",
+        "status": "current",
+        "indicators": "more than sixty global events",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks; event count but no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Global Allyship program introduced during Pride Month",
+        "quote": "During Pride Month, we introduced a Global Allyship program to equip employees with tools and confidence to advocate for inclusion.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Own workforce > Inclusion and belonging",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal inclusion program, no figures"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "External inclusion partnerships for gender equality, disability and the LGBTIQ+ community",
+        "quote": "These include LEAD Network, focused on gender equality and strengthening mentoring opportunities and visibility for talent across industries; Purple Space, supporting people with diverse abilities; and Workplace Pride, advancing inclusion for our LGBTIQ+ community.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Own workforce > Inclusion and belonging",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific workplace inclusion partnerships, no figures"
+          }
+        }
+      },
+      {
+        "id": "E17",
+        "activity": "Women Acceleration Program for women's career advancement",
+        "quote": "We also had over 100 participants in our Women Acceleration Program, and elevated 630 Mental Health Champions company-wide.",
+        "source_doc": "filing",
+        "section": "Annual report > Our Performance > Sustainability > Our Activities > How inclusion and belonging are building a more engaged workforce",
+        "status": "current",
+        "indicators": "over 100 participants",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: named internal program for an underrepresented group, modest reach"
+          }
+        }
+      },
+      {
+        "id": "E18",
+        "activity": "Inclusive Sensory Panels program hiring blind and visually impaired professionals in several countries",
+        "quote": "A global inclusive Sensory Panels program: Partnering with agencies in China, Mexico, the UK, Switzerland, India, South Africa, and Singapore to hire blind and visually impaired professionals for sensory evaluation panels — bringing unique perspectives to product development and promoting workplace inclusion",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Workers in the value chain > Advancing supplier diversity and inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific accessible-employment program, no participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E19",
+        "activity": "Local Supplier Diversity program supporting women-owned and ethnic minority-owned businesses",
+        "quote": "A local Supplier Diversity program: Supporting women-owned and ethnic minority-owned businesses, reinforcing our commitment to equitable economic opportunities",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Statements > Social information > Workers in the value chain > Advancing supplier diversity and inclusion",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific program aimed at underrepresented business owners, local and no figures"
+          }
+        }
+      },
+      {
+        "id": "E20",
+        "activity": "Corporate venture arm (dsm-firmenich Ventures) investing in early-stage startups for strategic partnerships",
+        "quote": "We made investments in two startups: P2 Sciences and ExoLab.",
+        "source_doc": "filing",
+        "section": "Annual report > Our Company > Science & Research > dsm-firmenich Ventures",
+        "status": "current",
+        "indicators": "two startups",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: strategic venture investment tied to the company's own innovation"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 3: perfumers in the P&B unit create fragrances, backed by specific arts activities with reach figures (130+ works museum exhibition, 500+ work art collection donation), but no P&B revenue, users or customers are disclosed in the provided text, so level 4 is not met."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5",
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11",
+          "E12",
+          "E13"
+        ],
+        "reason": "Level 3: external education and community investment with substantial measured reach (2,600+ children enrolled, 340+ pickers trained, 750 millers supported, renewed WFP partnership), alongside large employee development; when torn against level 4, the lower level was chosen."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E13",
+          "E14",
+          "E15",
+          "E16",
+          "E17",
+          "E18"
+        ],
+        "reason": "Level 2: several specific current inclusion activities (ERGs with 60+ events, allyship program, disability and LGBTIQ+ partnerships, sensory panels employing blind professionals, Women Acceleration Program), but no ERG membership figures or large measured reach, so torn between 2 and 3 and the lower level was chosen."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6",
+          "E19"
+        ],
+        "reason": "Level 2: specific enabling activities of limited reach (entrepreneurial training for 340+ jasmine pickers, microloan access, a local supplier diversity program for women- and minority-owned businesses); venture investments in two startups count only as own innovation."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "discrimination and harassment",
+        "quote": "Moreover, there were 72 alleged cases of incidents (2024: 52) of discrimination and harassment. 60 cases were closed, 14 of these cases (2024: 12) were substantiated.",
+        "section": "Annual report > Sustainability Statements > Social information > Own workforce > Incidents and human rights impacts",
+        "explanation": "Cases substantiated through the company's own Speak Up process. The report states no fines, sanctions or compensation for human rights incidents in its own workforce in 2025. This is listed for the team's information and costs no points."
+      }
+    ],
+    "notes": "Jasmine Coalition activities (E5-E7) are delivered jointly with coalition partners (Fair Labor Association, ILO, producers, Egyptian government), not by dsm-firmenich alone. The WFP reach figure (60 million people in 32 countries) is a target to 2027. The 775 million people reached with micronutrients comes through the company's own nutrition improvement segment (product sales), so it was not counted as community investment. Partnership contributions are disclosed as close to €2 million a year, which was not quoted because the sentence exceeds the quote length limit. P&B segment revenue is not in the provided text; with revenue disclosure, Creativity could reach 4. The Animal Nutrition & Health divestment was announced February 9, 2026 (planned). A planned nature-positive target was removed from the program. An ongoing competition-authority investigation into the fragrance industry is mentioned; it is not a rights finding. Workforce demographics (GMT diversity of 48% non-western European, 36.4% women) and the 71% inclusion score are disclosures only and were not scored as activities. DSM's historical coal mining ended in 1973 and is not a red flag."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\n  \"ticker\": \"DSFIR.AS\",\n  \"sector\": \"Materials\",\n  \"fiscal_year\": 2025,\n  \"sections_read\": [\"Annual report: selected chapters\", \"Annual report: keyword paragraphs from the rest\"],\n  \"evidence\": [\n    {\n      \"id\": \"E1\",\n      \"activity\": \"Perfumery & Beauty business unit creates fragrances for global and local brands, using in-house perfumers\",\n      \"quote\": \"P&B is a leading creation and innovation partner for the most iconic global and local brands in consumer goods, lifestyle, and luxury beauty.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Our Company > Our Strategy > Our Approach to Business > Our Business Units > Perfumery & Beauty (P&B)\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\"creativity\": {\"kind\": \"creates\", \"criterion\": \"level 3: fragrance creation is a reported business unit, but no revenue, user or customer figures for it appear in the provided text\"}}\n    },\n    {\n      \"id\": \"E2\",\n      \"activity\": \"Company perfumer created bespoke fragrances and olfactory installations for an art exhibition at the Petit Palais museum in Paris\",\n      \"quote\": \"Our perfumer Daphné Bugey created bespoke fragrances and designed olfactory installations exclusively for this exhibition.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Our Businesses > Perfumery & Beauty > museum collaboration (Petit Palais)\",\n      \"status\": \"current\",\n      \"indicators\": \"more than 130 works\",\n      \"themes\": {\"creativity\": {\"kind\": \"creates\", \"criterion\": \"level 2-3: specific current arts collaboration with a major museum\"}}\n    },\n    {\n      \"id\": \"E3\",\n      \"activity\": \"Donated the DSM Art Collection to the municipality of Heerlen, with public exhibition in 2025\",\n      \"quote\": \"In 2025, 200 pieces were exhibited publicly for the first time during the exhibition “Rooted in Change,” making this cultural heritage accessible to the broader community.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > General information > Community engagement > Netherlands: DSM Art Collection donation\",\n      \"status\": \"current\",\n      \"indicators\": \"more than 500 works; 200 pieces\",\n      \"themes\": {\n        \"creativity\": {\"kind\": \"enables\", \"criterion\": \"level 2-3: specific arts donation that gives the public access to artworks\"},\n        \"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2-3: donation to a local municipality, with figures\"}\n      }\n    },\n    {\n      \"id\": \"E4\",\n      \"activity\": \"LearnNow learning platform and academies for employees\",\n      \"quote\": \"Designed to inspire curiosity and collaboration, LearnNow offers access to more than 45,000 virtual courses, 16,000 business books, more than 40 academies for our Business Units and Business Partners, and company leadership programs, creating opportunities for growth across all roles and regions.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Own workforce > Training and skills\",\n      \"status\": \"current\",\n      \"indicators\": \"45,000 virtual courses; 16,000 business books; 40 academies\",\n      \"themes\": {\"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size\"}}\n    },\n    {\n      \"id\": \"E5\",\n      \"activity\": \"Through the Jasmine Coalition, entrepreneurial and financial literacy training for jasmine pickers and farmers in Egypt\",\n      \"quote\": \"Delivered tailored entrepreneurial and financial literacy training to over 340 pickers and farmers, with a strong focus on women’s participation\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Workers in the value chain > Key activities and achievements delivered in 2025\",\n      \"status\": \"current\",\n      \"indicators\": \"over 340 pickers and farmers\",\n      \"themes\": {\n        \"community\": {\"kind\": \"external_education\", \"criterion\": \"level 3: external skills program with participant numbers\"},\n        \"entrepreneurship\": {\"kind\": \"enabling\", \"criterion\": \"level 2: specific entrepreneurial training for smallholder producers, limited reach\"}\n      }\n    },\n    {\n      \"id\": \"E6\",\n      \"activity\": \"Through the Jasmine Coalition, access to financial services including microloans for picker families\",\n      \"quote\": \"Supported access to financial services, including prepaid cards, savings accounts, and microloans, enabling families to improve their livelihoods\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Workers in the value chain > Key activities and achievements delivered in 2025\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\"entrepreneurship\": {\"kind\": \"enabling\", \"criterion\": \"level 2: microfinance access for underserved rural households, no figures\"}}\n    },\n    {\n      \"id\": \"E7\",\n      \"activity\": \"Through the Jasmine Coalition, summer school programs and children's rights sessions for children in jasmine-growing communities\",\n      \"quote\": \"Enrolled more than 2,600 children in summer school programs and awareness sessions on children’s rights\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Workers in the value chain > Key activities and achievements delivered in 2025\",\n      \"status\": \"current\",\n      \"indicators\": \"more than 2,600 children\",\n      \"themes\": {\"community\": {\"kind\": \"external_education\", \"criterion\": \"level 3: external education program with participant numbers\"}}\n    },\n    {\n      \"id\": \"E8\",\n      \"activity\": \"Long-running partnership with the UN World Food Programme, supported by the Progress Foundation, renewed through 2027\",\n      \"quote\": \"Supported by the Progress Foundation, our two-decade partnership with the World Food Programme (WFP) renewed in 2025 through to 2027.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Our Performance > Sustainability > Our Activities > Tackling rising malnutrition and reducing the global micronutrient gap\",\n      \"status\": \"current\",\n      \"indicators\": \"60 million people in 32 countries (target)\",\n      \"themes\": {\"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 3: named, ongoing nonprofit partnership with reach figures\"}}\n    },\n    {\n      \"id\": \"E9\",\n      \"activity\": \"Founding member of the Millers for Nutrition coalition, giving technical support to millers\",\n      \"quote\": \"Through M4N, we provide technical support to millers and partners to help improve access to quality premix and ensure compliance with national standards.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Consumers and end-users > The Gates Foundation\",\n      \"status\": \"current\",\n      \"indicators\": \"750 millers; over 560 million people\",\n      \"themes\": {\"community\": {\"kind\": \"external_education\", \"criterion\": \"level 3: named capacity-building coalition with participant numbers\"}}\n    },\n    {\n      \"id\": \"E10\",\n      \"activity\": \"Youth Impact program in Türkiye where students co-create sustainability solutions\",\n      \"quote\": \"In collaboration with WBCSD Türkiye and the Yenibirlider Association, we ran the Youth Impact program, selecting 21 students to co-create solutions in sustainability, together with industry representatives.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > General information > Community engagement > Working with communities all over the world\",\n      \"status\": \"current\",\n      \"indicators\": \"21 students\",\n      \"themes\": {\"community\": {\"kind\": \"external_education\", \"criterion\": \"level 2: specific external education program, limited reach\"}}\n    },\n    {\n      \"id\": \"E11\",\n      \"activity\": \"Donated lab equipment to a Tanzanian university for pharmaceutical education\",\n      \"quote\": \"Lab equipment from our former Kaisersaugst facilities was donated to a Tanzanian university, supporting pharmaceutical education under the BIRS program.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > General information > Community engagement > Switzerland: Lab equipment donation\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2: specific in-kind donation to a university, limited reach\"}}\n    },\n    {\n      \"id\": \"E12\",\n      \"activity\": \"Employee volunteering for a local food pantry in Belvidere, NJ\",\n      \"quote\": \"In Belvidere, NJ, volunteers collected and sorted 1,200 pounds of food for the Warren County Food Pantry.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > General information > Community engagement > Working with communities all over the world\",\n      \"status\": \"current\",\n      \"indicators\": \"1,200 pounds; 300 families\",\n      \"themes\": {\"community\": {\"kind\": \"community_investment\", \"criterion\": \"level 2: volunteering with figures, limited reach\"}}\n    },\n    {\n      \"id\": \"E13\",\n      \"activity\": \"Partnerships with local organizations and training centers giving people with disabilities training, job shadowing and employment pathways\",\n      \"quote\": \"We partnered with local organizations, training centers, and inclusion networks to support people with disabilities.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > General information > Community engagement > Working with communities all over the world\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\n        \"community\": {\"kind\": \"external_education\", \"criterion\": \"level 2: specific external training and employment pathways, no figures\"},\n        \"cross_cultural\": {\"kind\": \"connecting_communities\", \"criterion\": \"level 2: specific program for people with disabilities, no figures\"}\n      }\n    },\n    {\n      \"id\": \"E14\",\n      \"activity\": \"Employee Resource Groups hosting global events\",\n      \"quote\": \"Our Employee Resource Groups continued to grow as engines of connection and belonging, hosting more than sixty global events.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Own workforce > Inclusion and belonging\",\n      \"status\": \"current\",\n      \"indicators\": \"more than sixty global events\",\n      \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: employee networks; event count but no membership figures\"}}\n    },\n    {\n      \"id\": \"E15\",\n      \"activity\": \"Global Allyship program introduced during Pride Month\",\n      \"quote\": \"During Pride Month, we introduced a Global Allyship program to equip employees with tools and confidence to advocate for inclusion.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Own workforce > Inclusion and belonging\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific internal inclusion program, no figures\"}}\n    },\n    {\n      \"id\": \"E16\",\n      \"activity\": \"External inclusion partnerships for gender equality, disability and the LGBTIQ+ community\",\n      \"quote\": \"These include LEAD Network, focused on gender equality and strengthening mentoring opportunities and visibility for talent across industries; Purple Space, supporting people with diverse abilities; and Workplace Pride, advancing inclusion for our LGBTIQ+ community.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Own workforce > Inclusion and belonging\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific workplace inclusion partnerships, no figures\"}}\n    },\n    {\n      \"id\": \"E17\",\n      \"activity\": \"Women Acceleration Program for women's career advancement\",\n      \"quote\": \"We also had over 100 participants in our Women Acceleration Program, and elevated 630 Mental Health Champions company-wide.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Our Performance > Sustainability > Our Activities > How inclusion and belonging are building a more engaged workforce\",\n      \"status\": \"current\",\n      \"indicators\": \"over 100 participants\",\n      \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: named internal program for an underrepresented group, modest reach\"}}\n    },\n    {\n      \"id\": \"E18\",\n      \"activity\": \"Inclusive Sensory Panels program hiring blind and visually impaired professionals in several countries\",\n      \"quote\": \"A global inclusive Sensory Panels program: Partnering with agencies in China, Mexico, the UK, Switzerland, India, South Africa, and Singapore to hire blind and visually impaired professionals for sensory evaluation panels — bringing unique perspectives to product development and promoting workplace inclusion\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Workers in the value chain > Advancing supplier diversity and inclusion\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific accessible-employment program, no participant numbers\"}}\n    },\n    {\n      \"id\": \"E19\",\n      \"activity\": \"Local Supplier Diversity program supporting women-owned and ethnic minority-owned businesses\",\n      \"quote\": \"A local Supplier Diversity program: Supporting women-owned and ethnic minority-owned businesses, reinforcing our commitment to equitable economic opportunities\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Workers in the value chain > Advancing supplier diversity and inclusion\",\n      \"status\": \"current\",\n      \"indicators\": \"none disclosed\",\n      \"themes\": {\"entrepreneurship\": {\"kind\": \"enabling\", \"criterion\": \"level 2: specific program aimed at underrepresented business owners, local and no figures\"}}\n    },\n    {\n      \"id\": \"E20\",\n      \"activity\": \"Corporate venture arm (dsm-firmenich Ventures) investing in early-stage startups for strategic partnerships\",\n      \"quote\": \"We made investments in two startups: P2 Sciences and ExoLab.\",\n      \"source_doc\": \"filing\",\n      \"section\": \"Annual report > Our Company > Science & Research > dsm-firmenich Ventures\",\n      \"status\": \"current\",\n      \"indicators\": \"two startups\",\n      \"themes\": {\"entrepreneurship\": {\"kind\": \"own_innovation\", \"criterion\": \"level 1: strategic venture investment tied to the company's own innovation\"}}\n    }\n  ],\n  \"themes\": {\n    \"creativity\": {\"score\": 3, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E2\", \"E3\"], \"reason\": \"Level 3: perfumers in the P&B unit create fragrances, backed by specific arts activities with reach figures (130+ works museum exhibition, 500+ work art collection donation), but no P&B revenue, users or customers are disclosed in the provided text, so level 4 is not met.\"},\n    \"community\": {\"score\": 3, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E3\", \"E4\", \"E5\", \"E7\", \"E8\", \"E9\", \"E10\", \"E11\", \"E12\", \"E13\"], \"reason\": \"Level 3: external education and community investment with substantial measured reach (2,600+ children enrolled, 340+ pickers trained, 750 millers supported, renewed WFP partnership), alongside large employee development; when torn against level 4, the lower level was chosen.\"},\n    \"cross_cultural\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E13\", \"E14\", \"E15\", \"E16\", \"E17\", \"E18\"], \"reason\": \"Level 2: several specific current inclusion activities (ERGs with 60+ events, allyship program, disability and LGBTIQ+ partnerships, sensory panels employing blind professionals, Women Acceleration Program), but no ERG membership figures or large measured reach, so torn between 2 and 3 and the lower level was chosen.\"},\n    \"entrepreneurship\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E5\", \"E6\", \"E19\"], \"reason\": \"Level 2: specific enabling activities of limited reach (entrepreneurial training for 340+ jasmine pickers, microloan access, a local supplier diversity program for women- and minority-owned businesses); venture investments in two startups count only as own innovation.\"}\n  },\n  \"notes\": \"Jasmine Coalition activities (E5-E7) are delivered jointly with coalition partners (Fair Labor Association, ILO, producers, Egyptian government), not by dsm-firmenich alone. The WFP reach figure (60 million people in 32 countries) is a target to 2027. The 775 million people reached with micronutrients comes through the company's own nutrition improvement segment (product sales), so it was not counted as community investment. Partnership contributions are disclosed as close to €2 million a year, which was not quoted because the sentence exceeds the quote length limit. P&B segment revenue is not in the provided text; with revenue disclosure, Creativity could reach 4. The Animal Nutrition & Health divestment was announced February 9, 2026 (planned). A planned nature-positive target was removed from the program. An ongoing competition-authority investigation into the fragrance industry is mentioned; it is not a rights finding. Workforce demographics (GMT diversity of 48% non-western European, 36.4% women) and the 71% inclusion score are disclosures only and were not scored as activities. DSM's historical coal mining ended in 1973 and is not a red flag.\",\n  \"red_flags\": [\n    {\n      \"id\": \"R1\",\n      \"flag\": \"rights_finding\",\n      \"found_by\": \"internal\",\n      \"case_type\": \"discrimination and harassment\",\n      \"quote\": \"Moreover, there were 72 alleged cases of incidents (2024: 52) of discrimination and harassment. 60 cases were closed, 14 of these cases (2024: 12) were substantiated.\",\n      \"section\": \"Annual report > Sustainability Statements > Social information > Own workforce > Incidents and human rights impacts\",\n      \"explanation\": \"Cases substantiated through the company's own Speak Up process. The report states no fines, sanctions or compensation for human rights incidents in its own workforce in 2025. This is listed for the team's information and costs no points.\"\n    }\n  ]\n}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 96537,
+      "output_tokens": 17474,
+      "duration_ms": 149689
+    }
+  ]
+}

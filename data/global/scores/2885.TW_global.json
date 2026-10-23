@@ -1,0 +1,331 @@
+{
+  "ticker": "2885.TW",
+  "company_name": "Yuanta Financial Holding",
+  "country": "Taiwan",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.yuanta.com/Files/970ac88b-be51-4dbd-8070-c3c680efcebe/YFH2025_E.pdf",
+  "english": true,
+  "words_sent": 40186,
+  "prompt_chars": 304855,
+  "approx_prompt_tokens": 76213,
+  "scored_at": "2026-10-23T09:36:20",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Yuanta Cultural and Educational Foundation runs a group-wide public welfare platform of charity, education and volunteer events",
+        "quote": "A total of 5,069 volunteers participated in the events and the events benefited more than 770,000 participants.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics",
+        "status": "current",
+        "indicators": "767 events in 2025; 5,069 volunteers; more than 770,000 participants",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing community program with participant and volunteer figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Yuanta Dreams Take Flight Scholarship for students from rural and disadvantaged areas, run with Fu Jen Catholic University",
+        "quote": "A total of 2,564 persons have been awarded the scholarship.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > Scholarship to Train Talents in Rural Areas",
+        "status": "current",
+        "indicators": "249 students approved in the reporting semesters; 2,564 persons awarded in total",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named scholarship program with recipient numbers"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Online one-on-one tutoring for disadvantaged urban schoolchildren, delivered by Fu Jen Catholic University students",
+        "quote": "Since 2014, 458 children have received the services, and a total of 4,960 class sessions have been held.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > Online Tutor for Schoolchildren",
+        "status": "current",
+        "indicators": "458 children; 4,960 class sessions",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named tutoring program with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Yuanta Excellent Talents Scholarship for disadvantaged high-achieving students from high school to master's level",
+        "quote": "For the past 10 years, it has been awarded to 665 students to help them pursue their dreams.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > Yuanta Excellent Talents Scholarship",
+        "status": "current",
+        "indicators": "665 students",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named scholarship program with recipient numbers"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "NTU Hope Scholarships and corporate internships for financially disadvantaged students under a five-year plan with National Taiwan University",
+        "quote": "NTU Hope Scholarships were offered to 10 students and corporate summer internship opportunities to 16 students.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > NTU Hope Scholarships",
+        "status": "current",
+        "indicators": "10 scholarship students; 16 internship students",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific scholarship and internship program, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Yuanta Wealth Management Day: employee volunteers teach basic financial education in remote schools",
+        "quote": "Over the past 8 years, Yuanta has organized 52 financial charity events that benefited 1,506 people with the help of 579 volunteers.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (IV) Inclusive Financing/Innovation & Cultivation > Yuanta Wealth Management Volunteer Activity",
+        "status": "current",
+        "indicators": "52 events; 1,506 people; 579 volunteers",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2-3: named financial education program with participant figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Dream Big Yuanta Social Welfare Plan funds and staffs schools and social welfare groups' education projects",
+        "quote": "In the past 9 years, it has worked with 60 groups to realize their dreams, involving 9,659 volunteers and benefiting 241,732 individuals.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (I) Involvement in Volunteers Public Welfare Platform > Dream Big Yuanta Social Welfare Plan",
+        "status": "current",
+        "indicators": "60 groups; 9,659 volunteers; 241,732 individuals",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named community investment program with volunteer and beneficiary figures"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Long-term sponsorship of Kids' Bookhouse after-school learning centers for disadvantaged children in Taitung",
+        "quote": "Yuanta Foundation has sponsored “Kids’ Bookhouse” in Taitung for 15 years consecutively to help it hire the local youth to act as the cram school teachers and encourage college graduates to return to their hometown to provide services.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (II) Aid for Disadvantaged Group Caring for Children and Juvenile > Train Local Teachers by Kids' Bookhouse in Taitung",
+        "status": "current",
+        "indicators": "7 bookhouses; 200 children",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific sponsored education program, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Love Book Fun drive collects donated books and devices for schools, after-school programs and libraries in rural areas",
+        "quote": "Yuanta “Love Book Fun” has raised more than 10,000 books since it was initiated, and provided the abundant reading resources to 79 different entities throughout Taiwan.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (VI) Community Service & Environmental Protection > Yuanta Love Book Fun",
+        "status": "current",
+        "indicators": "more than 10,000 books; 79 different entities",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific donation program with modest figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Group-wide employee training program (management, professional, license, life and sustainability schools)",
+        "quote": "Yuanta Group’s employee training program 2025 offered a total of 4,626 courses, attended by a total of 487,318 trainees.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainable development implementation > Social issues > Career development training plan implementation results",
+        "status": "current",
+        "indicators": "4,626 courses; 487,318 trainees; 713,877 hours; NT$72.6 million",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Sand painting and bronze sculpture skills classes for people returning from prison, helping them find work or start a business",
+        "quote": "For the past 10 years, it has been working with the Department of Corrections, Ministry of Justice, and the Taiwan Rehabilitation and Protection Association, Taipei Branch to organize the “Sand Painting Workshop” and the “ Bronze Sculpture Skills Class” for the learning of skills, train the employability and assist in starting a new business and construct a social rei ntegration mechanism.",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (VI) Community Service & Environmental Protection > Assist After-Care's Return to Society",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific arts-skills education program, limited reach, no figures"
+          },
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific skills program for people outside the company, no figures"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific program aimed at barriers to starting a business, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Mandatory peaceful-workplace training for all employees covering human rights and DEI concepts",
+        "quote": "This training includes content on Yuanta FHC’s human rights policy, the interests and rights of statutory laborers, diversity, equality and inclusion (DEI) concepts, as well as Yuanta FHC’s work rules, prevention of sexual harassment, and grievance channels.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainable development implementation > 4. Social issues > (1) Human rights management policies",
+        "status": "current",
+        "indicators": "25,376 attendance; 20,043 training hours",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal inclusion training, largely mandatory"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Employee volunteer session supporting persons with disabilities to break down social barriers and join community activities",
+        "quote": "played T-ball games with students of the Tamsui Zhongzheng Sheltered Workshop organized by Eden Social Welfare Foundation commissioned by the New Taipei City Government Social Welfare Department to support persons with disabilities in breaking down social barriers and entering the community",
+        "source_doc": "filing",
+        "section": "Annual report > V. Corporate Social Responsibilities and Ethics > (I) Involvement in Volunteers Public Welfare Platform > Charity Volunteer Platform",
+        "status": "current",
+        "indicators": "four sessions of summer volunteer services",
+        "themes": {
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific inclusion activity for people with disabilities, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "Yuanta Securities Investment Trust project to build accessible web pages for persons with disabilities",
+        "quote": "Friendly services will be provided to persons with disabilities.",
+        "source_doc": "filing",
+        "section": "Annual report > Research and development > Yuanta Securities Investment Trust > (L) Project for construction of accessible web pages on official website",
+        "status": "planned",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "planned: context only, not scored"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Disclosure of female share of employees and supervisors",
+        "quote": "In 2025, the proportion of female employees reached 63.18%, and the proportion of female supervisors was up to 56.88%.",
+        "source_doc": "filing",
+        "section": "Annual report > IX. Relations between laborers and employer > (III) Working environment and employee safety",
+        "status": "current",
+        "indicators": "63.18%; 56.88%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: workforce demographics only"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "Yuanta Venture Capital provides capital plus management and consulting services to investee enterprises",
+        "quote": "Provide corporate operation, management, and consulting services to investee enterprises",
+        "source_doc": "filing",
+        "section": "Annual report > Business services of subsidiaries > 8. Yuanta Venture Capital Co., Ltd. > (1) Main business services",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: specific venture financing and advisory service, a minor part of the group"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E11"
+        ],
+        "reason": "Level 2: one specific current arts-skills program (sand painting and bronze sculpture classes) with limited reach and no figures, in an otherwise non-creative financial business."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10",
+          "E11"
+        ],
+        "reason": "Level 3: named external education and community investment programs with substantial disclosed reach (770,000+ foundation participants, 2,564 scholarship recipients); not clearly central to strategy, so not level 4."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E12",
+          "E13"
+        ],
+        "reason": "Level 2: specific current activities with limited reach (DEI-inclusive mandatory training, disability-inclusion volunteer sessions); the accessibility web project is only planned and gender figures are demographics only."
+      },
+      "entrepreneurship": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E11",
+          "E16"
+        ],
+        "reason": "Level 2: specific current enabling services of limited reach (venture capital with advisory services, after-care program helping people start a business), with no figures on businesses helped."
+      }
+    },
+    "red_flags": [],
+    "notes": "The accessible web page project (E14) is described as forthcoming and is recorded as planned only. The claim that more than 45,000 people in Taiwan hold the sustainable finance certificate covers an industry-wide system co-convened by Yuanta, so it was not credited. Three suppliers violated occupational safety and health laws; this is not a listed red-flag category. The company reports 0 sexual harassment reports and 0 bullying instances in 2025. Venture capital revenue fell in 2025, and the unit is a small part of the group. Several source sentences contain PDF spacing artifacts (e.g. 'rei ntegration', '“ Bronze'), which are kept verbatim in the quotes."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"2885.TW\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Yuanta Cultural and Educational Foundation runs a group-wide public welfare platform of charity, education and volunteer events\",\"quote\":\"A total of 5,069 volunteers participated in the events and the events benefited more than 770,000 participants.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics\",\"status\":\"current\",\"indicators\":\"767 events in 2025; 5,069 volunteers; more than 770,000 participants\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing community program with participant and volunteer figures\"}}},{\"id\":\"E2\",\"activity\":\"Yuanta Dreams Take Flight Scholarship for students from rural and disadvantaged areas, run with Fu Jen Catholic University\",\"quote\":\"A total of 2,564 persons have been awarded the scholarship.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > Scholarship to Train Talents in Rural Areas\",\"status\":\"current\",\"indicators\":\"249 students approved in the reporting semesters; 2,564 persons awarded in total\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named scholarship program with recipient numbers\"}}},{\"id\":\"E3\",\"activity\":\"Online one-on-one tutoring for disadvantaged urban schoolchildren, delivered by Fu Jen Catholic University students\",\"quote\":\"Since 2014, 458 children have received the services, and a total of 4,960 class sessions have been held.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > Online Tutor for Schoolchildren\",\"status\":\"current\",\"indicators\":\"458 children; 4,960 class sessions\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named tutoring program with participant numbers\"}}},{\"id\":\"E4\",\"activity\":\"Yuanta Excellent Talents Scholarship for disadvantaged high-achieving students from high school to master's level\",\"quote\":\"For the past 10 years, it has been awarded to 665 students to help them pursue their dreams.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > Yuanta Excellent Talents Scholarship\",\"status\":\"current\",\"indicators\":\"665 students\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named scholarship program with recipient numbers\"}}},{\"id\":\"E5\",\"activity\":\"NTU Hope Scholarships and corporate internships for financially disadvantaged students under a five-year plan with National Taiwan University\",\"quote\":\"NTU Hope Scholarships were offered to 10 students and corporate summer internship opportunities to 16 students.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (III) Educate and Train Youth's Independence > NTU Hope Scholarships\",\"status\":\"current\",\"indicators\":\"10 scholarship students; 16 internship students\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific scholarship and internship program, limited reach\"}}},{\"id\":\"E6\",\"activity\":\"Yuanta Wealth Management Day: employee volunteers teach basic financial education in remote schools\",\"quote\":\"Over the past 8 years, Yuanta has organized 52 financial charity events that benefited 1,506 people with the help of 579 volunteers.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (IV) Inclusive Financing/Innovation & Cultivation > Yuanta Wealth Management Volunteer Activity\",\"status\":\"current\",\"indicators\":\"52 events; 1,506 people; 579 volunteers\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2-3: named financial education program with participant figures\"}}},{\"id\":\"E7\",\"activity\":\"Dream Big Yuanta Social Welfare Plan funds and staffs schools and social welfare groups' education projects\",\"quote\":\"In the past 9 years, it has worked with 60 groups to realize their dreams, involving 9,659 volunteers and benefiting 241,732 individuals.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (I) Involvement in Volunteers Public Welfare Platform > Dream Big Yuanta Social Welfare Plan\",\"status\":\"current\",\"indicators\":\"60 groups; 9,659 volunteers; 241,732 individuals\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named community investment program with volunteer and beneficiary figures\"}}},{\"id\":\"E8\",\"activity\":\"Long-term sponsorship of Kids' Bookhouse after-school learning centers for disadvantaged children in Taitung\",\"quote\":\"Yuanta Foundation has sponsored “Kids’ Bookhouse” in Taitung for 15 years consecutively to help it hire the local youth to act as the cram school teachers and encourage college graduates to return to their hometown to provide services.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (II) Aid for Disadvantaged Group Caring for Children and Juvenile > Train Local Teachers by Kids' Bookhouse in Taitung\",\"status\":\"current\",\"indicators\":\"7 bookhouses; 200 children\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific sponsored education program, limited reach\"}}},{\"id\":\"E9\",\"activity\":\"Love Book Fun drive collects donated books and devices for schools, after-school programs and libraries in rural areas\",\"quote\":\"Yuanta “Love Book Fun” has raised more than 10,000 books since it was initiated, and provided the abundant reading resources to 79 different entities throughout Taiwan.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (VI) Community Service & Environmental Protection > Yuanta Love Book Fun\",\"status\":\"current\",\"indicators\":\"more than 10,000 books; 79 different entities\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific donation program with modest figures\"}}},{\"id\":\"E10\",\"activity\":\"Group-wide employee training program (management, professional, license, life and sustainability schools)\",\"quote\":\"Yuanta Group’s employee training program 2025 offered a total of 4,626 courses, attended by a total of 487,318 trainees.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainable development implementation > Social issues > Career development training plan implementation results\",\"status\":\"current\",\"indicators\":\"4,626 courses; 487,318 trainees; 713,877 hours; NT$72.6 million\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E11\",\"activity\":\"Sand painting and bronze sculpture skills classes for people returning from prison, helping them find work or start a business\",\"quote\":\"For the past 10 years, it has been working with the Department of Corrections, Ministry of Justice, and the Taiwan Rehabilitation and Protection Association, Taipei Branch to organize the “Sand Painting Workshop” and the “ Bronze Sculpture Skills Class” for the learning of skills, train the employability and assist in starting a new business and construct a social rei ntegration mechanism.\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (VI) Community Service & Environmental Protection > Assist After-Care's Return to Society\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific arts-skills education program, limited reach, no figures\"},\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific skills program for people outside the company, no figures\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific program aimed at barriers to starting a business, limited reach\"}}},{\"id\":\"E12\",\"activity\":\"Mandatory peaceful-workplace training for all employees covering human rights and DEI concepts\",\"quote\":\"This training includes content on Yuanta FHC’s human rights policy, the interests and rights of statutory laborers, diversity, equality and inclusion (DEI) concepts, as well as Yuanta FHC’s work rules, prevention of sexual harassment, and grievance channels.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainable development implementation > 4. Social issues > (1) Human rights management policies\",\"status\":\"current\",\"indicators\":\"25,376 attendance; 20,043 training hours\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific internal inclusion training, largely mandatory\"}}},{\"id\":\"E13\",\"activity\":\"Employee volunteer session supporting persons with disabilities to break down social barriers and join community activities\",\"quote\":\"played T-ball games with students of the Tamsui Zhongzheng Sheltered Workshop organized by Eden Social Welfare Foundation commissioned by the New Taipei City Government Social Welfare Department to support persons with disabilities in breaking down social barriers and entering the community\",\"source_doc\":\"filing\",\"section\":\"Annual report > V. Corporate Social Responsibilities and Ethics > (I) Involvement in Volunteers Public Welfare Platform > Charity Volunteer Platform\",\"status\":\"current\",\"indicators\":\"four sessions of summer volunteer services\",\"themes\":{\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 2: specific inclusion activity for people with disabilities, limited reach\"}}},{\"id\":\"E14\",\"activity\":\"Yuanta Securities Investment Trust project to build accessible web pages for persons with disabilities\",\"quote\":\"Friendly services will be provided to persons with disabilities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Research and development > Yuanta Securities Investment Trust > (L) Project for construction of accessible web pages on official website\",\"status\":\"planned\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"planned: context only, not scored\"}}},{\"id\":\"E15\",\"activity\":\"Disclosure of female share of employees and supervisors\",\"quote\":\"In 2025, the proportion of female employees reached 63.18%, and the proportion of female supervisors was up to 56.88%.\",\"source_doc\":\"filing\",\"section\":\"Annual report > IX. Relations between laborers and employer > (III) Working environment and employee safety\",\"status\":\"current\",\"indicators\":\"63.18%; 56.88%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: workforce demographics only\"}}},{\"id\":\"E16\",\"activity\":\"Yuanta Venture Capital provides capital plus management and consulting services to investee enterprises\",\"quote\":\"Provide corporate operation, management, and consulting services to investee enterprises\",\"source_doc\":\"filing\",\"section\":\"Annual report > Business services of subsidiaries > 8. Yuanta Venture Capital Co., Ltd. > (1) Main business services\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: specific venture financing and advisory service, a minor part of the group\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E11\"],\"reason\":\"Level 2: one specific current arts-skills program (sand painting and bronze sculpture classes) with limited reach and no figures, in an otherwise non-creative financial business.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\",\"E10\",\"E11\"],\"reason\":\"Level 3: named external education and community investment programs with substantial disclosed reach (770,000+ foundation participants, 2,564 scholarship recipients); not clearly central to strategy, so not level 4.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E12\",\"E13\"],\"reason\":\"Level 2: specific current activities with limited reach (DEI-inclusive mandatory training, disability-inclusion volunteer sessions); the accessibility web project is only planned and gender figures are demographics only.\"},\"entrepreneurship\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E11\",\"E16\"],\"reason\":\"Level 2: specific current enabling services of limited reach (venture capital with advisory services, after-care program helping people start a business), with no figures on businesses helped.\"}},\"notes\":\"The accessible web page project (E14) is described as forthcoming and is recorded as planned only. The claim that more than 45,000 people in Taiwan hold the sustainable finance certificate covers an industry-wide system co-convened by Yuanta, so it was not credited. Three suppliers violated occupational safety and health laws; this is not a listed red-flag category. The company reports 0 sexual harassment reports and 0 bullying instances in 2025. Venture capital revenue fell in 2025, and the unit is a small part of the group. Several source sentences contain PDF spacing artifacts (e.g. 'rei ntegration', '“ Bronze'), which are kept verbatim in the quotes.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 112261,
+      "output_tokens": 11069,
+      "duration_ms": 95214
+    }
+  ]
+}

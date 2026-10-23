@@ -1,0 +1,16 @@
+{
+  "ticker": "ALC",
+  "run_id": "global",
+  "model": "claude-opus-5-5",
+  "themes_rescored": [
+    "cross_cultural"
+  ],
+  "done_at": "2026-10-23T09:15:58",
+  "status": "no standalone report found",
+  "log": [
+    "company domain: alcon.com",
+    "search suggested 2 candidate(s)",
+    "rejected (not on alcon.com or a brand-name domain): https://alcon.widen.net/s/wbhqgbszgl/alcon-2025-sustainabililty-and-social-impact-report",
+    "rejected (link not found on company page https://www.alcon.com/en-AU/about-us/social-impact-and-sustainability): https://s1.q4cdn.com/963204942/files/doc_events/2025/May/06/Alcon-2024-Sustainabililty-and-Social-Impact-Report.pdf"
+  ]
+}

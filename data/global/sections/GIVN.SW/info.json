@@ -1,0 +1,50 @@
+{
+  "ticker": "GIVN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.givaudan.com/file/1366761/download",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 40029,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 3 lowest-relevance keyword paragraph(s) and 100 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 10748,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "Created by people, for people (pages 3-3)",
+    "Overview (pages 7-30)",
+    "Chairman’s letter (pages 10-10)",
+    "CEO review (pages 11-12)",
+    "Overview of our financial and non-financial performance (pages 18-18)",
+    "Our strategy and purpose (pages 31-56)",
+    "Progress on our 2025 people purpose targets (pages 47-47)",
+    "Megatrends influencing our 2030 strategy (pages 49-50)",
+    "Introducing our 2030 strategy (pages 51-54)",
+    "Responsible value creation (pages 57-74)",
+    "Value creation story – business model (pages 58-59)",
+    "Stakeholder engagement (pages 70-74)",
+    "ESG impact and progress (pages 75-187)",
+    "Accelerating progress on our ESG agenda (pages 76-76)",
+    "Our sustainability journey (pages 77-77)",
+    "Biodiversity and ecosystems (pages 103-112)",
+    "Social (pages 129-158)",
+    "Our social material topics (pages 130-130)",
+    "Our social ambitions (pages 131-131)",
+    "Human rights and labour conditions (pages 132-140)",
+    "Workforce health and safety (pages 141-147)",
+    "Our people and culture (pages 148-158)",
+    "Our CEO and Chairman succession plans (pages 162-162)"
+  ],
+  "chapters_skipped": [
+    "Appendix",
+    "Climate risk assessment",
+    "Consolidated financial statements",
+    "Independent practitioner’s assurance statement",
+    "Risk management and disclosure statement"
+  ],
+  "words_sent": 40036
+}

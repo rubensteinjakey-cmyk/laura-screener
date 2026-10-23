@@ -1,0 +1,234 @@
+{
+  "ticker": "GGRM.JK",
+  "company_name": "Gudang Garam",
+  "country": "Indonesia",
+  "sector": "Consumer Staples",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.gudanggaramtbk.com/media/uploads/files/GGRM_AR_2025_FINAL.pdf",
+  "english": false,
+  "words_sent": 17271,
+  "prompt_chars": 144112,
+  "approx_prompt_tokens": 36028,
+  "scored_at": "2026-10-23T09:53:57",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Participates in and supports Kediri City's annual Kediri Nite Carnival cultural parade (and Kediri Half Marathon) as part of the city anniversary",
+        "quote": "Perseroan turut berpartisipasi dalam perayaan hari jadi Kota Kediri yang meliputi Kediri Nite Carnival, sebuah parade budaya yang menampilkan kreativitas dan warisan budaya lokal yang diadakan setiap tahun, serta Kediri Half Marathon yang mendorong gaya hidup sehat dan menumbuhkan semangat kebersamaan di tengah masyarakat dan pengunjung.",
+        "quote_en": "The Company took part in Kediri City's anniversary celebrations, which include the annual Kediri Nite Carnival, a cultural parade showcasing local creativity and heritage, as well as the Kediri Half Marathon, which promotes a healthy lifestyle while fostering community spirit among residents and visitors.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Kediri and Surroundings",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: single arts/cultural sponsorship, limited disclosed reach"
+          },
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific local community event support, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Corporate social responsibility spending on education, infrastructure, religious, social welfare and emergency programmes for surrounding communities",
+        "quote": "Pada tahun 2025, Gudang Garam mengeluarkan dana sebesar Rp 212,8 miliar untuk kegiatan tanggung jawab sosial Perusahaan.",
+        "quote_en": "In 2025, Gudang Garam spent Rp 212.8 billion on CSR programmes.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social",
+        "status": "current",
+        "indicators": "Rp 212,8 miliar",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with substantial disclosed dollar amount"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Routine donation of tents to support officers managing holiday traffic in East and Central Java",
+        "quote": "Sebagai bagian dari dukungan rutin Perseroan, pada tahun 2025 Perseroan memberikan sumbangan berupa 121 tenda untuk membantu petugas yang berdinas menjaga jalur padat kendaraan di daerah Jawa Timur dan Jawa Tengah selama periode hari raya Idul Fitri, Natal, dan Tahun Baru.",
+        "quote_en": "As part of its routine support, in 2025 the Company donated 121 tents to assist officers supervising peak traffic routes across East and Central Java during the Idul Fitri, Christmas and New Year holidays.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Kediri and Surroundings",
+        "status": "current",
+        "indicators": "121 tenda",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific in-kind community donation, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Support for the East Java Provincial Environmental Agency's World Environment Day exhibition",
+        "quote": "Dalam rangka memperingati Hari Lingkungan Hidup Sedunia tahun 2025, Gudang Garam memberikan dukungan kepada Dinas Lingkungan Hidup Provinsi Jawa Timur dengan turut berpartisipasi dalam Pameran Hari Lingkungan Hidup Sedunia, sebagai wujud komitmen Perseroan yang berkelanjutan terhadap peningkatan kesadaran lingkungan.",
+        "quote_en": "In celebration of World Environment Day 2025, Gudang Garam supported the East Java Provincial Environmental Agency by participating in the World Environment Day Exhibition, demonstrating its continued commitment to environmental awareness.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Contributing to Local Communities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific partnership with local public agency, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Support for the Station Road area urban revitalization programme in Kediri City",
+        "quote": "Perseroan juga mendukung peresmian program revitalisasi kawasan Jalan Stasiun di Kota Kediri yang bertujuan untuk menciptakan lingkungan perkotaan yang lebih tertata dan menarik.",
+        "quote_en": "The Company also supported the inauguration of the Station Road area revitalization program in Kediri City, aimed at creating a more orderly and attractive urban environment.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Contributing to Local Communities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific local community investment, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Support for the first-anniversary commemoration of Teras Gubug at an Islamic boarding school in Kediri",
+        "quote": "Selain itu, Perseroan memberikan dukungan terhadap peringatan satu tahun “Teras Gubug” di Pondok Pesantren Al Falah Mojo, Kediri, sebagai bentuk kepeduliaan Perseroan terhadap kegiatan keagamaan.",
+        "quote_en": "In addition, the Company supported the first anniversary commemoration of \"Teras Gubug\" at Pondok Pesantren Al Falah Mojo, Kediri, reflecting its care for religious activities.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Contributing to Local Communities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific support to a local community institution, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Contribution to the Kediri Regency Government's New Year 'Gempita Tahun Baru' celebration to promote regional tourism",
+        "quote": "Sebagai bagian dari perayaan Tahun Baru 2026, Perseroan berkontribusi dalam kegiatan “Gempita Tahun Baru” yang diselenggarakan oleh Pemerintah Kabupaten Kediri di kawasan Simpang Lima Gumul, yang bertujuan untuk mendorong pengembangan pariwisata daerah.",
+        "quote_en": "As part of the New Year 2026 celebrations, the Company contributed to the \"Gempita Tahun Baru\" event organized by the Kediri Regency Government at Simpang Lima Gumul, aimed at promoting regional tourism development.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Kediri and Surroundings",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific local community event support, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Participation in community automotive events (Kelud Vespa Day, Kediri Scooter Festival 8) supporting community-based tourism",
+        "quote": "Dalam rangka mendukung pengembangan pariwisata berbasis komunitas, Perseroan turut berpartisipasi dalam berbagai kegiatan komunitas otomotif, antara lain “Kelud Vespa Day” di Lembah Kelud yang merupakan bagian dari program UMKM dan Pariwisata Pemerintah Kabupaten Kediri, serta “Kediri Scooter Festival 8” yang diselenggarakan di GOR Joyoboyo.",
+        "quote_en": "To support community-based tourism, the Company participated in automotive community events, including \"Kelud Vespa Day\" at Lembah Kelud under the Kediri Regency Government's MSME and Tourism program, and the \"Kediri Scooter Festival 8\" at GOR Joyoboyo.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability Report > Social > Kediri and Surroundings",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific local community event participation, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Leadership, vocational and technical training programmes for employees",
+        "quote": "Program pelatihan kepemimpinan, vokasional, dan teknis dilaksanakan sesuai dengan kebutuhan dan kondisi operasional Perusahaan.",
+        "quote_en": "Leadership, vocational and technical training programmes were carried out in line with the Company's needs and operating conditions.",
+        "source_doc": "filing",
+        "section": "Annual report > Operations > Human Resources",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: a single specific current cultural sponsorship (Kediri Nite Carnival) with no reach figures; the core business is tobacco and in-house packaging printing is only a routine input."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E2",
+          "E1",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9"
+        ],
+        "reason": "Level 3: community investment is backed by a disclosed CSR spend of Rp 212.8 billion, plus several specific local programmes and employee training."
+      },
+      "cross_cultural": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the score rests only on general language (equal-opportunity, diversity and inclusiveness statements) and a gender/age workforce breakdown, with no specific inclusion or access activity."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: the score rests only on general language about retailer, farmer and business-partner relationships and livelihoods, with no specific enabling programme for founders or small businesses."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "tobacco",
+        "found_by": "",
+        "case_type": "",
+        "quote": "Sesuai dengan pasal 3 Anggaran Dasarnya, Perseroan bergerak di bidang industri rokok dan aktivitas lain yang terkait dengan industri rokok.",
+        "quote_en": "In accordance with article 3 of its Articles of Association, the Company is engaged in the cigarette industry and other related cigarette industry activities.",
+        "section": "Annual report > Notes to the consolidated financial statements > General",
+        "explanation": "Cigarette manufacturing is the company's core business, making up 98.2% of total revenue."
+      }
+    ],
+    "notes": "Cigarettes provide 98.2% of revenue, so tobacco is the core business. The workforce fell from 30,308 to 21,964 through an early retirement programme in 2025; employee training continued 'in line with current needs'. CSR spend rose from Rp 29.4bn (2023) to Rp 212.8bn (2025), but no breakdown by programme is given. The itemized activities are mostly small local event sponsorships and donations, so the Community level 3 rests on the aggregate dollar figure. Kelud Vespa Day falls under a government MSME and Tourism programme, but the company only took part in the event; this is not counted as enabling entrepreneurship. Subsidiary PT Graha Surya Media is described only as 'entertainment services', with no detail, so it is not scored. Coal-free, but the business includes airport and toll-road concessions."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"GGRM.JK\",\"sector\":\"Consumer Staples\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Participates in and supports Kediri City's annual Kediri Nite Carnival cultural parade (and Kediri Half Marathon) as part of the city anniversary\",\"quote\":\"Perseroan turut berpartisipasi dalam perayaan hari jadi Kota Kediri yang meliputi Kediri Nite Carnival, sebuah parade budaya yang menampilkan kreativitas dan warisan budaya lokal yang diadakan setiap tahun, serta Kediri Half Marathon yang mendorong gaya hidup sehat dan menumbuhkan semangat kebersamaan di tengah masyarakat dan pengunjung.\",\"quote_en\":\"The Company took part in Kediri City's anniversary celebrations, which include the annual Kediri Nite Carnival, a cultural parade showcasing local creativity and heritage, as well as the Kediri Half Marathon, which promotes a healthy lifestyle while fostering community spirit among residents and visitors.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Kediri and Surroundings\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: single arts/cultural sponsorship, limited disclosed reach\"},\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific local community event support, no reach figures\"}}},{\"id\":\"E2\",\"activity\":\"Corporate social responsibility spending on education, infrastructure, religious, social welfare and emergency programmes for surrounding communities\",\"quote\":\"Pada tahun 2025, Gudang Garam mengeluarkan dana sebesar Rp 212,8 miliar untuk kegiatan tanggung jawab sosial Perusahaan.\",\"quote_en\":\"In 2025, Gudang Garam spent Rp 212.8 billion on CSR programmes.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social\",\"status\":\"current\",\"indicators\":\"Rp 212,8 miliar\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with substantial disclosed dollar amount\"}}},{\"id\":\"E3\",\"activity\":\"Routine donation of tents to support officers managing holiday traffic in East and Central Java\",\"quote\":\"Sebagai bagian dari dukungan rutin Perseroan, pada tahun 2025 Perseroan memberikan sumbangan berupa 121 tenda untuk membantu petugas yang berdinas menjaga jalur padat kendaraan di daerah Jawa Timur dan Jawa Tengah selama periode hari raya Idul Fitri, Natal, dan Tahun Baru.\",\"quote_en\":\"As part of its routine support, in 2025 the Company donated 121 tents to assist officers supervising peak traffic routes across East and Central Java during the Idul Fitri, Christmas and New Year holidays.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Kediri and Surroundings\",\"status\":\"current\",\"indicators\":\"121 tenda\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific in-kind community donation, limited reach\"}}},{\"id\":\"E4\",\"activity\":\"Support for the East Java Provincial Environmental Agency's World Environment Day exhibition\",\"quote\":\"Dalam rangka memperingati Hari Lingkungan Hidup Sedunia tahun 2025, Gudang Garam memberikan dukungan kepada Dinas Lingkungan Hidup Provinsi Jawa Timur dengan turut berpartisipasi dalam Pameran Hari Lingkungan Hidup Sedunia, sebagai wujud komitmen Perseroan yang berkelanjutan terhadap peningkatan kesadaran lingkungan.\",\"quote_en\":\"In celebration of World Environment Day 2025, Gudang Garam supported the East Java Provincial Environmental Agency by participating in the World Environment Day Exhibition, demonstrating its continued commitment to environmental awareness.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Contributing to Local Communities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific partnership with local public agency, limited reach\"}}},{\"id\":\"E5\",\"activity\":\"Support for the Station Road area urban revitalization programme in Kediri City\",\"quote\":\"Perseroan juga mendukung peresmian program revitalisasi kawasan Jalan Stasiun di Kota Kediri yang bertujuan untuk menciptakan lingkungan perkotaan yang lebih tertata dan menarik.\",\"quote_en\":\"The Company also supported the inauguration of the Station Road area revitalization program in Kediri City, aimed at creating a more orderly and attractive urban environment.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Contributing to Local Communities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific local community investment, no reach figures\"}}},{\"id\":\"E6\",\"activity\":\"Support for the first-anniversary commemoration of Teras Gubug at an Islamic boarding school in Kediri\",\"quote\":\"Selain itu, Perseroan memberikan dukungan terhadap peringatan satu tahun “Teras Gubug” di Pondok Pesantren Al Falah Mojo, Kediri, sebagai bentuk kepeduliaan Perseroan terhadap kegiatan keagamaan.\",\"quote_en\":\"In addition, the Company supported the first anniversary commemoration of \\\"Teras Gubug\\\" at Pondok Pesantren Al Falah Mojo, Kediri, reflecting its care for religious activities.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Contributing to Local Communities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific support to a local community institution, limited reach\"}}},{\"id\":\"E7\",\"activity\":\"Contribution to the Kediri Regency Government's New Year 'Gempita Tahun Baru' celebration to promote regional tourism\",\"quote\":\"Sebagai bagian dari perayaan Tahun Baru 2026, Perseroan berkontribusi dalam kegiatan “Gempita Tahun Baru” yang diselenggarakan oleh Pemerintah Kabupaten Kediri di kawasan Simpang Lima Gumul, yang bertujuan untuk mendorong pengembangan pariwisata daerah.\",\"quote_en\":\"As part of the New Year 2026 celebrations, the Company contributed to the \\\"Gempita Tahun Baru\\\" event organized by the Kediri Regency Government at Simpang Lima Gumul, aimed at promoting regional tourism development.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Kediri and Surroundings\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific local community event support, limited reach\"}}},{\"id\":\"E8\",\"activity\":\"Participation in community automotive events (Kelud Vespa Day, Kediri Scooter Festival 8) supporting community-based tourism\",\"quote\":\"Dalam rangka mendukung pengembangan pariwisata berbasis komunitas, Perseroan turut berpartisipasi dalam berbagai kegiatan komunitas otomotif, antara lain “Kelud Vespa Day” di Lembah Kelud yang merupakan bagian dari program UMKM dan Pariwisata Pemerintah Kabupaten Kediri, serta “Kediri Scooter Festival 8” yang diselenggarakan di GOR Joyoboyo.\",\"quote_en\":\"To support community-based tourism, the Company participated in automotive community events, including \\\"Kelud Vespa Day\\\" at Lembah Kelud under the Kediri Regency Government's MSME and Tourism program, and the \\\"Kediri Scooter Festival 8\\\" at GOR Joyoboyo.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability Report > Social > Kediri and Surroundings\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific local community event participation, limited reach\"}}},{\"id\":\"E9\",\"activity\":\"Leadership, vocational and technical training programmes for employees\",\"quote\":\"Program pelatihan kepemimpinan, vokasional, dan teknis dilaksanakan sesuai dengan kebutuhan dan kondisi operasional Perusahaan.\",\"quote_en\":\"Leadership, vocational and technical training programmes were carried out in line with the Company's needs and operating conditions.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Operations > Human Resources\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: a single specific current cultural sponsorship (Kediri Nite Carnival) with no reach figures; the core business is tobacco and in-house packaging printing is only a routine input.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E2\",\"E1\",\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\"],\"reason\":\"Level 3: community investment is backed by a disclosed CSR spend of Rp 212.8 billion, plus several specific local programmes and employee training.\"},\"cross_cultural\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: the score rests only on general language (equal-opportunity, diversity and inclusiveness statements) and a gender/age workforce breakdown, with no specific inclusion or access activity.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: the score rests only on general language about retailer, farmer and business-partner relationships and livelihoods, with no specific enabling programme for founders or small businesses.\"}},\"notes\":\"Cigarettes provide 98.2% of revenue, so tobacco is the core business. The workforce fell from 30,308 to 21,964 through an early retirement programme in 2025; employee training continued 'in line with current needs'. CSR spend rose from Rp 29.4bn (2023) to Rp 212.8bn (2025), but no breakdown by programme is given. The itemized activities are mostly small local event sponsorships and donations, so the Community level 3 rests on the aggregate dollar figure. Kelud Vespa Day falls under a government MSME and Tourism programme, but the company only took part in the event; this is not counted as enabling entrepreneurship. Subsidiary PT Graha Surya Media is described only as 'entertainment services', with no detail, so it is not scored. Coal-free, but the business includes airport and toll-road concessions.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"tobacco\",\"found_by\":\"\",\"case_type\":\"\",\"quote\":\"Sesuai dengan pasal 3 Anggaran Dasarnya, Perseroan bergerak di bidang industri rokok dan aktivitas lain yang terkait dengan industri rokok.\",\"quote_en\":\"In accordance with article 3 of its Articles of Association, the Company is engaged in the cigarette industry and other related cigarette industry activities.\",\"section\":\"Annual report > Notes to the consolidated financial statements > General\",\"explanation\":\"Cigarette manufacturing is the company's core business, making up 98.2% of total revenue.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 62818,
+      "output_tokens": 9725,
+      "duration_ms": 81975
+    }
+  ]
+}

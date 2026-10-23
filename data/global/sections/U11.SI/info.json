@@ -1,0 +1,31 @@
+{
+  "ticker": "U11.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.uobgroup.com/investor-relations/assets/pdfs/investor/annual/uob-annual-report-2025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 11679,
+    "Annual report: keyword paragraphs from the rest": 5523
+  },
+  "notes": [],
+  "people_words": 1349,
+  "chapter_method": "printed table of contents",
+  "chapters": [
+    "Our Highlights for the Year (pages 6-7)",
+    "Our Purpose and Strategic Priorities (pages 10-11)",
+    "Chairman’s Statement (pages 30-31)",
+    "Deputy Chairman and CEO’s Report (pages 32-35)",
+    "Financial Highlights (pages 36-40)",
+    "Investor Highlights (pages 41-47)",
+    "Sustainability Highlights (pages 48-53)",
+    "E nabling Our People to Build (pages 66-71)",
+    "Doing Right by Our Communities (pages 72-77)"
+  ],
+  "chapters_skipped": [
+    "Financial Statements",
+    "Risk Management"
+  ],
+  "words_sent": 17222
+}

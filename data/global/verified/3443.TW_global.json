@@ -1,0 +1,229 @@
+{
+  "ticker": "3443.TW",
+  "company_name": "Global Unichip Corp.",
+  "country": "Taiwan",
+  "sector": "Information Technology",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2026,
+  "url": "https://www.guc-asic.com/upload/2026_04_16/8_202604161551145dnuwxrHk5.pdf",
+  "english": true,
+  "words_sent": 13129,
+  "themes": {
+    "creativity": {
+      "ai_score": 0,
+      "score": 0,
+      "coverage": "sufficient",
+      "evidence_ids": [],
+      "valid_evidence_ids": [],
+      "kinds": [],
+      "reason": "Level 0: the business is ASIC chip design services and IP licensing, which fall under the 'design meaning engineering or chip design' and patent-licensing traps, so there is no creative activity.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "community": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "kinds": [
+        "community_investment",
+        "employee_development"
+      ],
+      "reason": "Level 2: employee development of any size plus one small local nonprofit partnership with no figures, so there is no external education or community investment with substantial reach.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "cross_cultural": {
+      "ai_score": 2,
+      "score": 2,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E3"
+      ],
+      "valid_evidence_ids": [
+        "E3"
+      ],
+      "kinds": [
+        "internal_practice"
+      ],
+      "reason": "Level 2: one specific current activity supporting visually impaired workers, limited in reach; the board female-seat target is planned and the female-director counts are demographics only.",
+      "flags": [],
+      "coverage_trigger": ""
+    },
+    "entrepreneurship": {
+      "ai_score": 1,
+      "score": 1,
+      "coverage": "sufficient",
+      "evidence_ids": [
+        "E4"
+      ],
+      "valid_evidence_ids": [
+        "E4"
+      ],
+      "kinds": [
+        "serving"
+      ],
+      "reason": "Level 1: the company serves chip-design customers, and startups appear only as a market trend, with no specific enabling program aimed at founders or small businesses.",
+      "flags": [],
+      "coverage_trigger": ""
+    }
+  },
+  "scores": {
+    "creativity": 0,
+    "community": 2,
+    "cross_cultural": 2,
+    "entrepreneurship": 1
+  },
+  "coverage": {
+    "creativity": "sufficient",
+    "community": "sufficient",
+    "cross_cultural": "sufficient",
+    "entrepreneurship": "sufficient"
+  },
+  "alignment_score": 23.0,
+  "red_flags": [],
+  "red_flags_removed": [],
+  "internal_findings": [
+    {
+      "id": "R1",
+      "flag": "rights_finding",
+      "found_by": "internal",
+      "case_type": "harassment",
+      "quote": "Sexual Harassment & Wrongful Harm Complaints 1(note 1) 0 0 0 0",
+      "section": "Annual report > 02 Corporate Governance > Ethical management > Attachment 1",
+      "explanation": "One sexual harassment/wrongful harm complaint in 2025 was handled through the company's internal process and closed to the complainant's satisfaction. No court, regulator or outside-body finding is disclosed, so this costs no points.",
+      "source_doc": "filing",
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "internal_note": "Discloses internally substantiated harassment cases; not a red flag under the rule.",
+  "red_flag_kinds": [],
+  "red_flag_score": 0.0,
+  "final_score": 23.0,
+  "original_filing_scores": null,
+  "full_report_scores": null,
+  "evidence": [
+    {
+      "id": "E1",
+      "activity": "Company-wide employee training blueprint with in-person, online and blended courses, mentoring and talent development programs",
+      "quote": "The Company designates employee training and development as a key focus of human resource management.",
+      "source_doc": "filing",
+      "section": "Annual report > 04 Operational Highlights > Labor-management relations > Further education and training",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E2",
+      "activity": "Scholarships for employees pursuing degree programs and language-learning subsidies",
+      "quote": "(6) Self-learning: Provide scholarships to support employees in pursuing degree programs, and offer language learning subsidies to encourage the enhancement of language proﬁciency.",
+      "source_doc": "filing",
+      "section": "Annual report > 04 Operational Highlights > Labor-management relations > Further education and training",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "employee_development",
+          "criterion": "level 2: employee development of any size (cap)"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E3",
+      "activity": "On-site massage service staffed by visually impaired workers from a local blind welfare association",
+      "quote": "Employees can enjoy professional massage and stress-relieving services in the Company at a discount price, and meanwhile help the visually impaired workers from \"Hsinchu County Blind Welfare Association\", achieving two purposes (stress relief and charity) at the same time.",
+      "source_doc": "filing",
+      "section": "Annual report > 04 Operational Highlights > Labor-management relations > Employee Benefits",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "community": {
+          "kind": "community_investment",
+          "criterion": "level 2: specific current partnership with a local nonprofit, limited reach, no figures"
+        },
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "level 2: specific current activity providing work for people with disabilities, limited reach, no figures"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E4",
+      "activity": "Multiple-Project Wafer program that shares mask and wafer costs across customers to lower prototype costs",
+      "quote": "This approach provides a cost-effective and time-efficient chip verification service, allowing design engineers to validate prototype designs using advanced process technologies prior to volume production.",
+      "source_doc": "filing",
+      "section": "Annual report > 04 Operational Highlights > Revenue breakdown by category > MPW (Multiple-Project Wafer)",
+      "status": "current",
+      "indicators": "none disclosed",
+      "themes": {
+        "entrepreneurship": {
+          "kind": "serving",
+          "criterion": "level 1: general cost-sharing service for chip-design customers, not aimed at founders or small businesses"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    },
+    {
+      "id": "E5",
+      "activity": "Planned reservation of a female board seat and a long-term target of one-third female directors",
+      "quote": "In the future, at least one female director seat will be reserved and long-term female seat target is one-third of all board members.",
+      "source_doc": "filing",
+      "section": "Annual report > 02 Corporate Governance > Board Diversity Policy and Implementation Status",
+      "status": "planned",
+      "indicators": "one-third",
+      "themes": {
+        "cross_cultural": {
+          "kind": "internal_practice",
+          "criterion": "context only: planned board diversity target, not current"
+        }
+      },
+      "figures_removed": [],
+      "warnings": [],
+      "verified": true,
+      "problem": ""
+    }
+  ],
+  "notes": "The document is the 2025 Annual Report, printed Mar 23, 2026; fiscal_year is set to 2026 as instructed. The cover page reads 'Qisda' while the rest of the report is Global Unichip Corp., an apparent extraction artifact. The internal control statement refers to December 31, 2022, which is inconsistent with the reporting year. The MPW short-term initiative says it will 'lower customers' entry barriers', but the report does not target it at startups or small businesses, so it is scored as serving (level 1). Under the lower-level rule this was a close call between 1 and 2. Occupational safety, information security, PIP and ethics training are compliance training and are excluded. Directors' outside roles (TSMC Education and Culture Foundation, National Culture and Arts Foundation, Children Charity Association) are personal affiliations, not company activities. The ethics whistleblowing system offered in Chinese and English is too minor to score. Human rights policy details are referred to the 2024 ESG Report, but the human capital section has enough specific content to be sufficient.",
+  "extract_notes": [],
+  "quote_check_status": "passed",
+  "flags": [],
+  "people_words": 3561,
+  "score_source": "Annual report 2026",
+  "second_look": null
+}

@@ -1,0 +1,161 @@
+{
+  "ticker": "ZEAL.CO",
+  "company_name": "Zealand Pharma",
+  "country": "Denmark",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.zealandpharma.com/media/2oeew4jl/zealand-pharma-annual-report-2025.pdf",
+  "english": true,
+  "words_sent": 24438,
+  "prompt_chars": 189932,
+  "approx_prompt_tokens": 47483,
+  "scored_at": "2026-10-23T08:54:50",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Continuous employee skills development with an emphasis on on-the-job training, supported by internal mentoring and leadership programs",
+        "quote": "We emphasize on-the-job training, and our 2025 employee engagement survey reveals that only 2% of our employees believe they do not learn new things in their current job.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability > Social > Our people > Employee engagement, development, and culture > Employee development",
+        "status": "current",
+        "indicators": "2%",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Funding support and clinical trial collaboration with patient organizations for rare diseases",
+        "quote": "At Zealand Pharma, we have longstanding relationships with patient organizations, including Congenital Hyperinsulinism International and The Oley Foundation, and engage with them through initiatives such as funding support and clinical trial collaboration.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability > Social > Our patients > Access to medicines > Rare disease programs",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific current community investment, limited in reach (no figures)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Inclusiveness Index built into the employee engagement survey to give managers feedback on team inclusiveness",
+        "quote": "We have integrated an Inclusiveness Index into our annual employee engagement survey, which provides managers with valuable feedback on team inclusiveness, helping them continuously improve and create a more equitable and welcoming environment.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability > Social > Our people > Diversity, Equity, and Inclusion > Our approach and policies",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal inclusion practice, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Diverse selection panels used in recruitment for management positions",
+        "quote": "For management positions, we ensure a diverse selection panel to enhance equitable and inclusive decision-making.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability > Social > Our people > Diversity, Equity, and Inclusion > Our approach and policies",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusive recruitment practice, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Joined the UN Global Compact Nordic Programme on Non-Discrimination",
+        "quote": "Furthermore, we actively collaborate with peers and experts on initiatives, and in 2025 we joined the UN Global Compact's Nordic Programme on Non-Discrimination further strengthening our efforts in diversity, equity, inclusion, and non-discrimination.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability > Social > Our people > Diversity, Equity, and Inclusion > Our approach and policies",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current non-discrimination program participation, limited in reach"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Workforce nationality and age diversity disclosure",
+        "quote": "Our workforce is notably diverse, representing 36 different nationalities and a good representation of various age groups.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability > Social > Our people > Characteristics of Zealand Pharma's employees",
+        "status": "current",
+        "indicators": "36 different nationalities",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a peptide drug R&D business with no creative activity. 'Design' here means drug design, and the patient story is not a creative activity."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: the report shows employee development plus funding support for named patient organizations, but gives no figures showing substantial external reach."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5",
+          "E6"
+        ],
+        "reason": "Level 2: the report shows specific current internal inclusion practices (Inclusiveness Index, diverse selection panels, Nordic non-discrimination programme), but no reach figures beyond workforce demographics."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only. The report describes only the company's own innovation and R&D partnerships, with no service enabling founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "Not counted: the 44 scientific communications (sharing with the scientific community, not external education); the CHI Expanded Access Program (patient access to medicine, not a theme activity); collaboration and license agreements with Roche, Boehringer Ingelheim and OTR Therapeutics (licensing deals, a trap). The 'Embedding diversity in clinical trial design' passage is stated as an aim with no specifics, so it was not scored. Planned items recorded for context only: the Boston research site (2026), the Develop Diverse tool and inclusive leadership training (2026), and further EAP expansion (2026). The report discloses 0 discrimination incidents and 0 related fines. The coal mention is an investment exclusion, not exposure. The report hosts its diversity policy on the company website but also describes specific practices itself, so coverage is sufficient."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"ZEAL.CO\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Continuous employee skills development with an emphasis on on-the-job training, supported by internal mentoring and leadership programs\",\"quote\":\"We emphasize on-the-job training, and our 2025 employee engagement survey reveals that only 2% of our employees believe they do not learn new things in their current job.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability > Social > Our people > Employee engagement, development, and culture > Employee development\",\"status\":\"current\",\"indicators\":\"2%\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap)\"}}},{\"id\":\"E2\",\"activity\":\"Funding support and clinical trial collaboration with patient organizations for rare diseases\",\"quote\":\"At Zealand Pharma, we have longstanding relationships with patient organizations, including Congenital Hyperinsulinism International and The Oley Foundation, and engage with them through initiatives such as funding support and clinical trial collaboration.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability > Social > Our patients > Access to medicines > Rare disease programs\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific current community investment, limited in reach (no figures)\"}}},{\"id\":\"E3\",\"activity\":\"Inclusiveness Index built into the employee engagement survey to give managers feedback on team inclusiveness\",\"quote\":\"We have integrated an Inclusiveness Index into our annual employee engagement survey, which provides managers with valuable feedback on team inclusiveness, helping them continuously improve and create a more equitable and welcoming environment.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability > Social > Our people > Diversity, Equity, and Inclusion > Our approach and policies\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal inclusion practice, limited in reach\"}}},{\"id\":\"E4\",\"activity\":\"Diverse selection panels used in recruitment for management positions\",\"quote\":\"For management positions, we ensure a diverse selection panel to enhance equitable and inclusive decision-making.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability > Social > Our people > Diversity, Equity, and Inclusion > Our approach and policies\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusive recruitment practice, limited in reach\"}}},{\"id\":\"E5\",\"activity\":\"Joined the UN Global Compact Nordic Programme on Non-Discrimination\",\"quote\":\"Furthermore, we actively collaborate with peers and experts on initiatives, and in 2025 we joined the UN Global Compact's Nordic Programme on Non-Discrimination further strengthening our efforts in diversity, equity, inclusion, and non-discrimination.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability > Social > Our people > Diversity, Equity, and Inclusion > Our approach and policies\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current non-discrimination program participation, limited in reach\"}}},{\"id\":\"E6\",\"activity\":\"Workforce nationality and age diversity disclosure\",\"quote\":\"Our workforce is notably diverse, representing 36 different nationalities and a good representation of various age groups.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability > Social > Our people > Characteristics of Zealand Pharma's employees\",\"status\":\"current\",\"indicators\":\"36 different nationalities\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes a peptide drug R&D business with no creative activity. 'Design' here means drug design, and the patient story is not a creative activity.\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: the report shows employee development plus funding support for named patient organizations, but gives no figures showing substantial external reach.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\",\"E6\"],\"reason\":\"Level 2: the report shows specific current internal inclusion practices (Inclusiveness Index, diverse selection panels, Nordic non-discrimination programme), but no reach figures beyond workforce demographics.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only. The report describes only the company's own innovation and R&D partnerships, with no service enabling founders or small businesses.\"}},\"notes\":\"Not counted: the 44 scientific communications (sharing with the scientific community, not external education); the CHI Expanded Access Program (patient access to medicine, not a theme activity); collaboration and license agreements with Roche, Boehringer Ingelheim and OTR Therapeutics (licensing deals, a trap). The 'Embedding diversity in clinical trial design' passage is stated as an aim with no specifics, so it was not scored. Planned items recorded for context only: the Boston research site (2026), the Develop Diverse tool and inclusive leadership training (2026), and further EAP expansion (2026). The report discloses 0 discrimination incidents and 0 related fines. The coal mention is an investment exclusion, not exposure. The report hosts its diversity policy on the company website but also describes specific practices itself, so coverage is sufficient.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 68681,
+      "output_tokens": 5637,
+      "duration_ms": 46676
+    }
+  ]
+}

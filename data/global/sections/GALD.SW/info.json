@@ -1,0 +1,26 @@
+{
+  "ticker": "GALD.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.galderma.com/sites/default/files/2026-03/galderma_ar_2025_consolidated-doc_8b_260304_-_full.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 2491,
+    "Annual report: keyword paragraphs from the rest": 21179
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "HIGHLIGHTS (pages 1-1)",
+    "BUSINESS HIGHLIGHTS (pages 2-2)",
+    "Our Integrated Dermatology Strategy (pages 10-10)",
+    "market-leading education and services (pages 26-30)",
+    "advancing our ESG Strategy (pages 40-41)"
+  ],
+  "chapters_skipped": [
+    "COMPENSATION REPORT"
+  ],
+  "words_sent": 23690
+}

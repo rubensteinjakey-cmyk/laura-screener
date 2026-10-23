@@ -1,0 +1,22 @@
+{
+  "ticker": "GGRM.JK",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.gudanggaramtbk.com/media/uploads/files/GGRM_AR_2025_FINAL.pdf",
+  "english": false,
+  "sections": {
+    "Annual report: selected chapters": 7832,
+    "Annual report: keyword paragraphs from the rest": 9419
+  },
+  "notes": [
+    "non-English source"
+  ],
+  "people_words": 0,
+  "chapter_method": "printed table of contents",
+  "chapters": [
+    "Laporan Keberlanjutan (pages 66-85)"
+  ],
+  "chapters_skipped": [],
+  "words_sent": 17271
+}

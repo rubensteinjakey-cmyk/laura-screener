@@ -1,0 +1,21 @@
+{
+  "ticker": "ALC",
+  "kind": "20-F",
+  "form": "20-F",
+  "fiscal_year": 2025,
+  "url": "https://www.sec.gov/Archives/edgar/data/1167379/000116737926000014/alc-20251231.htm",
+  "english": true,
+  "sections": {
+    "20-F Item 4: Information on the Company": 15845,
+    "20-F Item 5: Operating and Financial Review (targeted paragraphs)": 339,
+    "20-F Item 6.D: Employees": 114
+  },
+  "notes": [],
+  "people_words": 114,
+  "chapters": [
+    "20-F Item 4: Information on the Company",
+    "20-F Item 5: Operating and Financial Review (targeted paragraphs)",
+    "20-F Item 6.D: Employees"
+  ],
+  "words_sent": 16328
+}

@@ -1,0 +1,36 @@
+{
+  "ticker": "GEBN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://reports.geberit.com/annual-report/2025/_assets/downloads/geberit-ar25-en-entire.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 39897,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 36 lowest-relevance keyword paragraph(s) and 4 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 0,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "Business year 2025 at a glance (pages 5-5)",
+    "Financial year 2025 at a glance (pages 117-117)",
+    "Sustainability (pages 177-284)",
+    "Sustainability 2025 at a glance (pages 178-178)",
+    "Sustainability report (report on non-financial matters) (pages 179-180)",
+    "Business model and value chain (pages 184-189)",
+    "ESG governance (pages 190-199)",
+    "Sustainability strategy (pages 207-209)",
+    "Social matters – Performance 2025 (pages 228-249)"
+  ],
+  "chapters_skipped": [
+    "Audit Report Greenhouse Gas Balance",
+    "Business and financial review",
+    "Consolidated Financial Statements Geberit Group",
+    "Financial statements Geberit AG",
+    "Remuneration Report"
+  ],
+  "words_sent": 39904
+}

@@ -1,0 +1,184 @@
+{
+  "ticker": "STMN.SW",
+  "run_id": "global",
+  "model": "claude-opus-5-5",
+  "themes_rescored": [
+    "community",
+    "cross_cultural"
+  ],
+  "done_at": "2026-10-23T09:17:48",
+  "status": "scored",
+  "report_url": "https://www.straumann.com/content/dam/media-center/neodent/pt-br/documents/comunica%C3%A7%C3%A3o-interna/Straumann_AR25_Sustainability.pdf",
+  "report_year": 2025,
+  "report_text_file": "report_2025_chapters.txt",
+  "chapters": [
+    "S1 Own workforce"
+  ],
+  "chapter_method": "pdf bookmarks",
+  "prompt_chars": 70267,
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company-wide employee training programs",
+        "quote": "In 2025, employees completed more than 160 000 hours of training.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Talent and skills availability > Metrics and targets",
+        "status": "current",
+        "indicators": "160 000 hours",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Career Days global internal career-growth initiative for employees",
+        "quote": "One of the key initiatives was Career Days, a global journey of personal growth and leadership insights   launched in 2025, connecting more than 1 200 people to opportunities across the organization.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Talent and skills availability > Actions",
+        "status": "current",
+        "indicators": "1 200 people",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Leadership Academy and Management Essentials leadership development programs",
+        "quote": "Our leadership development programs, Leadership Academy and Management Essentials, now in their fourth year, continue to inspire and challenge leaders to perform for today while transforming for tomorrow.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Talent and skills availability > Actions",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap)"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Female talent group sessions and EmpowerHER development program for women",
+        "quote": "These included female talent group sessions in selected business units. These sessions focused on executive presence, strategic thinking, innovation, and business acumen, as well as the “EmpowerHER” program in the EMEA region, offering opportunities for women to grow both professionally and personally.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Gender balance and inclusion > Actions",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion program, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Choose Inclusion unconscious-bias awareness program for teams",
+        "quote": "We also continued offering the “Choose Inclusion” program, designed to raise awareness about unconscious bias and to help teams embed inclusivity into their everyday actions.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Gender balance and inclusion > Actions",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusion program, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Female Talent Pool within the group talent management process",
+        "quote": "Moreover, as part of our focus on gender diversity, the Female Talent Pool forms an integral element of the overall Talent Management Process.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Gender balance and inclusion > Policies",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal practice, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Employee engagement survey offered in all relevant languages",
+        "quote": "To ensure inclusivity, the WeEngage survey is made available in all relevant languages.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Engagement",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: multilingual access for employees, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Disclosure of share of women in leadership positions",
+        "quote": "Representation of women in leadership positions increased from 38.5% in 2024 to 39.4% in 2025, marking early progress towards the 2030 ambition of 45%.",
+        "source_doc": "sustainability_report",
+        "section": "S1 Own Workforce > Gender balance and inclusion > Metrics and targets",
+        "status": "current",
+        "indicators": "38.5%, 39.4%, 45%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 2: the report describes substantial current employee development. This includes 160 000 training hours, Career Days reaching 1 200 people, and the Leadership Academy and Management Essentials programs. No external education or described community investment is shown, so the employee-development cap of 2 applies."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E4",
+          "E5",
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 2: there are specific current internal inclusion practices: the EmpowerHER and female talent sessions, the Choose Inclusion unconscious-bias program, the Female Talent Pool, and a multilingual engagement survey. No participant or reach figures are given for these programs. The women-in-leadership statistics (E8) are demographics only. Level 3 is not met."
+      }
+    },
+    "notes": "1. The filing's related-party note shows contributions to the ITI Foundation (CHF 10 016 thousand) and the Straumann Group Foundation (CHF 1 500 thousand). It does not say what these entities do or describe any educational or community purpose, so they were not scored. The ITI payments are described as based on a 'collaboration agreement', which is a rubric trap. 2. Planned items are context only and were not scored: the refreshed Leadership Academy (2026) and the 45% women-in-leadership target (2030). 3. The Code of Conduct e-training with anti-harassment and anti-discrimination content (10 445 enrolled, 38 countries) is treated as compliance training and not scored. 4. The Switzerland-only Employee Assistance Program is wellbeing support and does not qualify for either theme."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "```json\n{\"evidence\": [\n  {\"id\": \"E1\", \"activity\": \"Company-wide employee training programs\", \"quote\": \"In 2025, employees completed more than 160 000 hours of training.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Talent and skills availability > Metrics and targets\", \"status\": \"current\", \"indicators\": \"160 000 hours\", \"themes\": {\"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size (cap)\"}}},\n  {\"id\": \"E2\", \"activity\": \"Career Days global internal career-growth initiative for employees\", \"quote\": \"One of the key initiatives was Career Days, a global journey of personal growth and leadership insights   launched in 2025, connecting more than 1 200 people to opportunities across the organization.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Talent and skills availability > Actions\", \"status\": \"current\", \"indicators\": \"1 200 people\", \"themes\": {\"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size (cap)\"}}},\n  {\"id\": \"E3\", \"activity\": \"Leadership Academy and Management Essentials leadership development programs\", \"quote\": \"Our leadership development programs, Leadership Academy and Management Essentials, now in their fourth year, continue to inspire and challenge leaders to perform for today while transforming for tomorrow.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Talent and skills availability > Actions\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"community\": {\"kind\": \"employee_development\", \"criterion\": \"level 2: employee development of any size (cap)\"}}},\n  {\"id\": \"E4\", \"activity\": \"Female talent group sessions and EmpowerHER development program for women\", \"quote\": \"These included female talent group sessions in selected business units. These sessions focused on executive presence, strategic thinking, innovation, and business acumen, as well as the “EmpowerHER” program in the EMEA region, offering opportunities for women to grow both professionally and personally.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Gender balance and inclusion > Actions\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific current inclusion program, no reach figures\"}}},\n  {\"id\": \"E5\", \"activity\": \"Choose Inclusion unconscious-bias awareness program for teams\", \"quote\": \"We also continued offering the “Choose Inclusion” program, designed to raise awareness about unconscious bias and to help teams embed inclusivity into their everyday actions.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Gender balance and inclusion > Actions\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific current inclusion program, no reach figures\"}}},\n  {\"id\": \"E6\", \"activity\": \"Female Talent Pool within the group talent management process\", \"quote\": \"Moreover, as part of our focus on gender diversity, the Female Talent Pool forms an integral element of the overall Talent Management Process.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Gender balance and inclusion > Policies\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: specific current internal practice, no reach figures\"}}},\n  {\"id\": \"E7\", \"activity\": \"Employee engagement survey offered in all relevant languages\", \"quote\": \"To ensure inclusivity, the WeEngage survey is made available in all relevant languages.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Engagement\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"cross_cultural\": {\"kind\": \"internal_practice\", \"criterion\": \"level 2: multilingual access for employees, limited reach\"}}},\n  {\"id\": \"E8\", \"activity\": \"Disclosure of share of women in leadership positions\", \"quote\": \"Representation of women in leadership positions increased from 38.5% in 2024 to 39.4% in 2025, marking early progress towards the 2030 ambition of 45%.\", \"source_doc\": \"sustainability_report\", \"section\": \"S1 Own Workforce > Gender balance and inclusion > Metrics and targets\", \"status\": \"current\", \"indicators\": \"38.5%, 39.4%, 45%\", \"themes\": {\"cross_cultural\": {\"kind\": \"demographics_only\", \"criterion\": \"level 1: demographic statistics only\"}}}\n ],\n \"themes\": {\n  \"community\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\", \"E2\", \"E3\"], \"reason\": \"Level 2: the report describes substantial current employee development. This includes 160 000 training hours, Career Days reaching 1 200 people, and the Leadership Academy and Management Essentials programs. No external education or described community investment is shown, so the employee-development cap of 2 applies.\"},\n  \"cross_cultural\": {\"score\": 2, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E4\", \"E5\", \"E6\", \"E7\"], \"reason\": \"Level 2: there are specific current internal inclusion practices: the EmpowerHER and female talent sessions, the Choose Inclusion unconscious-bias program, the Female Talent Pool, and a multilingual engagement survey. No participant or reach figures are given for these programs. The women-in-leadership statistics (E8) are demographics only. Level 3 is not met.\"}\n },\n \"notes\": \"1. The filing's related-party note shows contributions to the ITI Foundation (CHF 10 016 thousand) and the Straumann Group Foundation (CHF 1 500 thousand). It does not say what these entities do or describe any educational or community purpose, so they were not scored. The ITI payments are described as based on a 'collaboration agreement', which is a rubric trap. 2. Planned items are context only and were not scored: the refreshed Leadership Academy (2026) and the 45% women-in-leadership target (2030). 3. The Code of Conduct e-training with anti-harassment and anti-discrimination content (10 445 enrolled, 38 countries) is treated as compliance training and not scored. 4. The Switzerland-only Employee Assistance Program is wellbeing support and does not qualify for either theme.\"}\n```",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 25665,
+      "output_tokens": 4521,
+      "duration_ms": 39447
+    }
+  ],
+  "log": [
+    "company domain: straumann.com",
+    "search suggested 4 candidate(s)",
+    "accepted https://www.straumann.com/content/dam/media-center/neodent/pt-br/documents/comunica%C3%A7%C3%A3o-interna/Straumann_AR25_Sustainability.pdf (2025, 87 pages)"
+  ]
+}

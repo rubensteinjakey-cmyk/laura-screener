@@ -1,0 +1,30 @@
+{
+  "ticker": "2884.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.esunbank.com/en/-/media/ESUNFHC/Files/Investor-Relations/About-ESUN/Annual-Reports/Annual-Reports-FHC/esunfhc_annual_2025",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 34642,
+    "Annual report: keyword paragraphs from the rest": 5434
+  },
+  "notes": [
+    "over 40,000 words: dropped 20 lowest-relevance keyword paragraph(s) and 0 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 2350,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to Shareholders (pages 4-5)",
+    "Status of Employee Stock Option Plan and Restricted Stock Awards (pages 50-50)",
+    "Human resources (pages 56-56)",
+    "Corporate responsibility and ethics (pages 57-57)",
+    "E.SUN Financial Holding Company, Ltd. 2025 Sustainability-Related Financial Information (pages 71-99)"
+  ],
+  "chapters_skipped": [
+    "Cash Flow",
+    "Directors, independent directors and senior managers",
+    "Risk Management"
+  ],
+  "words_sent": 40096
+}

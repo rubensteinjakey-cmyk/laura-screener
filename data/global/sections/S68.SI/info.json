@@ -1,0 +1,38 @@
+{
+  "ticker": "S68.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/FileOpen/2025_SGX_Annual_Report.ashx?App=Announcement&FileID=859054",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 12775,
+    "Annual report: keyword paragraphs from the rest": 5225
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "04 Performance Overview (pages 4-9)",
+    "04-03 Business at a Glance (pages 9-9)",
+    "05 Group Overview (pages 10-29)",
+    "05-02 Letter from the Chairman (pages 13-15)",
+    "05-03 Letter from the CEO (pages 16-18)",
+    "06-02 Strategic Priorities (pages 33-35)",
+    "06-04 Sustainability (pages 41-46)",
+    "06-05 CSR (pages 47-49)"
+  ],
+  "chapters_skipped": [
+    "06-03 Risk Management",
+    "07-02 Remuneration Report",
+    "07-05 Report of Independent Committees",
+    "08-02 Independent Auditors’ Report",
+    "08-03 Statement of Comprehensive Income",
+    "08-04 Statement of Financial Position",
+    "08-05 Consolidated Statement of Changes in Equity",
+    "08-06 Statement of Changes in Equity",
+    "08-07 Consolidated Statement of Cash Flows",
+    "08-08 Notes to the Financial Statements"
+  ],
+  "words_sent": 18020
+}

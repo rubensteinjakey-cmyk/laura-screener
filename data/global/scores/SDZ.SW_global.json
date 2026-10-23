@@ -1,0 +1,235 @@
+{
+  "ticker": "SDZ.SW",
+  "company_name": "Sandoz Group",
+  "country": "Switzerland",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://sandoz-com.cms.sandoz.com/sites/default/files/Media%20Documents/Sandoz%20Integrated%20Annual%20Report%202025.pdf",
+  "english": true,
+  "words_sent": 24128,
+  "prompt_chars": 189893,
+  "approx_prompt_tokens": 47473,
+  "scored_at": "2026-10-23T09:09:03",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Company-wide employee learning offer: free language courses and a large online program library, with per-FTE learning spend",
+        "quote": "Beyond compliance, we provide free access to language courses and a portfolio of 10,000+ online programs from world-class providers, complemented by on-the-job learning and communities of practice.",
+        "source_doc": "filing",
+        "section": "Annual report > Empowering our People > Learning and development",
+        "status": "current",
+        "indicators": "10,000+ online programs; USD 935 per FTE",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size (cap applies if alone)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Leadership development programs for employees, including the New Leader Program",
+        "quote": "This year, four cohorts graduated through three flagship programs, alongside over 250 graduates on the New Leader Program.",
+        "source_doc": "filing",
+        "section": "Annual report > Empowering our People > Shaping leadership",
+        "status": "current",
+        "indicators": "four cohorts; three flagship programs; over 250 graduates",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Early-career partnerships with schools and universities offering internships, trainee programs, apprenticeships and thesis collaborations",
+        "quote": "We strategically focus on attracting, developing and retaining early-career talent through partnerships with schools, universities and research institutions.",
+        "source_doc": "filing",
+        "section": "Annual report > Empowering our People > Learning and development",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education activity, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Charitable medicine donations through relief organizations such as Americares, Direct Relief and International Health Partners",
+        "quote": "We continue to work closely with leading health-focused relief and development organizations, including Americares, Direct Relief, and International Health Partners by providing charitable donations of medicines.",
+        "source_doc": "filing",
+        "section": "Annual report > Driving Impact and Access > Reaching underserved markets",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community investment through nonprofit partners, no reach figures for donations"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Access program for low- and middle-income countries: lower prices, licensing, non-enforcement of patents and healthcare professional training, reaching underserved populations",
+        "quote": "Our essential medicines have reached underserved and disaster-affected populations in more than 40 LMICs, helping to strengthen health systems where our help is needed most.",
+        "source_doc": "filing",
+        "section": "Annual report > Driving Impact and Access > Reaching underserved markets",
+        "status": "current",
+        "indicators": "more than 40 LMICs",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: specific access activity for underserved communities with reach indicators"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "US Patient Assistance Program access for patients in financial hardship or without prescription coverage",
+        "quote": "In the US, for example, we make certain Sandoz medicines available through the federal Patient Assistance Program, which provides access for patients experiencing financial hardship, or for those who cannot afford the medications they need due to limited (or no) prescription coverage.",
+        "source_doc": "filing",
+        "section": "Annual report > Driving Impact and Access > Reaching underserved markets",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific service for underserved customers, no figures"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Making Access Happen Forum, an ongoing collaborative community of patient organizations",
+        "quote": "One of our main activities is the Making Access Happen Forum, which brought together almost 40 patient organizations from around the world.",
+        "source_doc": "filing",
+        "section": "Annual report > Driving Impact and Access > Amplifying the patient voice",
+        "status": "current",
+        "indicators": "almost 40 patient organizations; 31",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing partnership with nonprofit patient organizations, with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Patient and Customer Engagement (PACE) Week, in which employees engage with patient organizations",
+        "quote": "More than 40 countries participated in 2025, with 6,000 employees engaging in 130 activities and connecting with 35 patient organizations.",
+        "source_doc": "filing",
+        "section": "Annual report > Driving Impact and Access > Amplifying the patient voice",
+        "status": "current",
+        "indicators": "More than 40 countries; 6,000 employees; 130 activities; 35 patient organizations",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named, ongoing employee engagement with nonprofit organizations, with figures"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Employee-led Communities of Belonging (employee resource groups) open to all staff",
+        "quote": "Communities of Belonging (CoBs) are employee-led communities with common interests, experiences and perspectives.",
+        "source_doc": "filing",
+        "section": "Annual report > Empowering our People > Our Communities of Belonging (CoBs)",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: employee networks with no membership figures"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Partnerships with Stonewall, ILO and Healthcare Businesswomen Association on LGBTQI+, gender and disability inclusion",
+        "quote": "Supporting our ambitions on LGBTQI+, Gender and Disability topics by partnering with organizations such as Stonewall, the International Labour Organization (ILO) and the Healthcare Businesswomen Association",
+        "source_doc": "filing",
+        "section": "Annual report > Empowering our People > Inclusion at Sandoz",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific inclusion partnerships, no reach figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes a generics and biosimilars business with no creative activity ('storytelling' and 'state-of-the-art' uses are traps)."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7",
+          "E8",
+          "E3",
+          "E4",
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 3: named, ongoing partnerships with nonprofit patient organizations (Making Access Happen Forum, PACE Week) with participant figures, alongside external early-career programs, medicine donations and employee development."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6",
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 3: a specific access program for underserved populations reaching more than 40 LMICs, plus employee networks and inclusion partnerships with no figures."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1, based only on general language: the report shows only the company's own 'entrepreneurial spirit' and 'oldest startup' culture and has no program enabling founders or small businesses."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "harassment",
+        "quote": "Sexual harassment  2   3",
+        "section": "ESG Disclosures > ESG performance indicators > Grievance indicators: SpeakUp office",
+        "explanation": "The SpeakUp internal process substantiated 2 sexual harassment cases in 2025 (0 discrimination, 0 human and labor rights). These are internal findings only and cost no points."
+      }
+    ],
+    "notes": "Final score per formula: 0 + 18 + 12 + 3 = 33/100. Cross-cultural level 3 rests on the LMIC access program (E5). The theme counts serving underserved communities, but this program is economic and affordability access rather than cultural or language access, so it is borderline between 2 and 3 and worth a quick human check. In 2025 the Board removed the 'female representation in senior leadership' metric from the 2024–2026 and 2025–2027 LTPP cycles for regulatory compliance reasons. The report still states an inclusive culture, which is a contradiction worth noting, although current practices (CoBs, pay equity studies) continue. Planned items recorded for context only and not scored: OurShare all-employee share program (2026), People Manager Capability Program (in development), Leader of Leader Program (2026), Supplier Sustainability Engagement Program (2026). Workforce demographics (111 nationalities, gender splits) are disclosure only. The Patients and Patents campaign is advocacy by partner patient organizations and is not scored separately."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"SDZ.SW\",\"sector\":\"Health Care\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Company-wide employee learning offer: free language courses and a large online program library, with per-FTE learning spend\",\"quote\":\"Beyond compliance, we provide free access to language courses and a portfolio of 10,000+ online programs from world-class providers, complemented by on-the-job learning and communities of practice.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Empowering our People > Learning and development\",\"status\":\"current\",\"indicators\":\"10,000+ online programs; USD 935 per FTE\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size (cap applies if alone)\"}}},{\"id\":\"E2\",\"activity\":\"Leadership development programs for employees, including the New Leader Program\",\"quote\":\"This year, four cohorts graduated through three flagship programs, alongside over 250 graduates on the New Leader Program.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Empowering our People > Shaping leadership\",\"status\":\"current\",\"indicators\":\"four cohorts; three flagship programs; over 250 graduates\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Early-career partnerships with schools and universities offering internships, trainee programs, apprenticeships and thesis collaborations\",\"quote\":\"We strategically focus on attracting, developing and retaining early-career talent through partnerships with schools, universities and research institutions.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Empowering our People > Learning and development\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education activity, no reach figures\"}}},{\"id\":\"E4\",\"activity\":\"Charitable medicine donations through relief organizations such as Americares, Direct Relief and International Health Partners\",\"quote\":\"We continue to work closely with leading health-focused relief and development organizations, including Americares, Direct Relief, and International Health Partners by providing charitable donations of medicines.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Driving Impact and Access > Reaching underserved markets\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community investment through nonprofit partners, no reach figures for donations\"}}},{\"id\":\"E5\",\"activity\":\"Access program for low- and middle-income countries: lower prices, licensing, non-enforcement of patents and healthcare professional training, reaching underserved populations\",\"quote\":\"Our essential medicines have reached underserved and disaster-affected populations in more than 40 LMICs, helping to strengthen health systems where our help is needed most.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Driving Impact and Access > Reaching underserved markets\",\"status\":\"current\",\"indicators\":\"more than 40 LMICs\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: specific access activity for underserved communities with reach indicators\"}}},{\"id\":\"E6\",\"activity\":\"US Patient Assistance Program access for patients in financial hardship or without prescription coverage\",\"quote\":\"In the US, for example, we make certain Sandoz medicines available through the federal Patient Assistance Program, which provides access for patients experiencing financial hardship, or for those who cannot afford the medications they need due to limited (or no) prescription coverage.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Driving Impact and Access > Reaching underserved markets\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific service for underserved customers, no figures\"}}},{\"id\":\"E7\",\"activity\":\"Making Access Happen Forum, an ongoing collaborative community of patient organizations\",\"quote\":\"One of our main activities is the Making Access Happen Forum, which brought together almost 40 patient organizations from around the world.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Driving Impact and Access > Amplifying the patient voice\",\"status\":\"current\",\"indicators\":\"almost 40 patient organizations; 31\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing partnership with nonprofit patient organizations, with participant numbers\"}}},{\"id\":\"E8\",\"activity\":\"Patient and Customer Engagement (PACE) Week, in which employees engage with patient organizations\",\"quote\":\"More than 40 countries participated in 2025, with 6,000 employees engaging in 130 activities and connecting with 35 patient organizations.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Driving Impact and Access > Amplifying the patient voice\",\"status\":\"current\",\"indicators\":\"More than 40 countries; 6,000 employees; 130 activities; 35 patient organizations\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named, ongoing employee engagement with nonprofit organizations, with figures\"}}},{\"id\":\"E9\",\"activity\":\"Employee-led Communities of Belonging (employee resource groups) open to all staff\",\"quote\":\"Communities of Belonging (CoBs) are employee-led communities with common interests, experiences and perspectives.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Empowering our People > Our Communities of Belonging (CoBs)\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: employee networks with no membership figures\"}}},{\"id\":\"E10\",\"activity\":\"Partnerships with Stonewall, ILO and Healthcare Businesswomen Association on LGBTQI+, gender and disability inclusion\",\"quote\":\"Supporting our ambitions on LGBTQI+, Gender and Disability topics by partnering with organizations such as Stonewall, the International Labour Organization (ILO) and the Healthcare Businesswomen Association\",\"source_doc\":\"filing\",\"section\":\"Annual report > Empowering our People > Inclusion at Sandoz\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific inclusion partnerships, no reach figures\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes a generics and biosimilars business with no creative activity ('storytelling' and 'state-of-the-art' uses are traps).\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\",\"E8\",\"E3\",\"E4\",\"E1\",\"E2\"],\"reason\":\"Level 3: named, ongoing partnerships with nonprofit patient organizations (Making Access Happen Forum, PACE Week) with participant figures, alongside external early-career programs, medicine donations and employee development.\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\",\"E9\",\"E10\"],\"reason\":\"Level 3: a specific access program for underserved populations reaching more than 40 LMICs, plus employee networks and inclusion partnerships with no figures.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1, based only on general language: the report shows only the company's own 'entrepreneurial spirit' and 'oldest startup' culture and has no program enabling founders or small businesses.\"}},\"notes\":\"Final score per formula: 0 + 18 + 12 + 3 = 33/100. Cross-cultural level 3 rests on the LMIC access program (E5). The theme counts serving underserved communities, but this program is economic and affordability access rather than cultural or language access, so it is borderline between 2 and 3 and worth a quick human check. In 2025 the Board removed the 'female representation in senior leadership' metric from the 2024–2026 and 2025–2027 LTPP cycles for regulatory compliance reasons. The report still states an inclusive culture, which is a contradiction worth noting, although current practices (CoBs, pay equity studies) continue. Planned items recorded for context only and not scored: OurShare all-employee share program (2026), People Manager Capability Program (in development), Leader of Leader Program (2026), Supplier Sustainability Engagement Program (2026). Workforce demographics (111 nationalities, gender splits) are disclosure only. The Patients and Patents campaign is advocacy by partner patient organizations and is not scored separately.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"harassment\",\"quote\":\"Sexual harassment  2   3\",\"section\":\"ESG Disclosures > ESG performance indicators > Grievance indicators: SpeakUp office\",\"explanation\":\"The SpeakUp internal process substantiated 2 sexual harassment cases in 2025 (0 discrimination, 0 human and labor rights). These are internal findings only and cost no points.\"}]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 70974,
+      "output_tokens": 8028,
+      "duration_ms": 75578
+    }
+  ]
+}

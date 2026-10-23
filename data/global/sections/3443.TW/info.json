@@ -1,0 +1,22 @@
+{
+  "ticker": "3443.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2026,
+  "url": "https://www.guc-asic.com/upload/2026_04_16/8_202604161551145dnuwxrHk5.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 1163,
+    "Annual report: keyword paragraphs from the rest": 11946
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed table of contents",
+  "chapters": [
+    "Letter to Shareholders (pages 1-1)",
+    "Capital Overview (pages 3-3)",
+    "Operational Highlights (pages 4-4)"
+  ],
+  "chapters_skipped": [],
+  "words_sent": 13129
+}

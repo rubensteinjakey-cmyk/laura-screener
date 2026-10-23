@@ -1,0 +1,35 @@
+{
+  "ticker": "SCHN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://group.schindler.com/content/dam/website/group/docs/investors/2025/2025-schindler-fy-financial-statements-en.pdf/_jcr_content/renditions/original./2025-schindler-fy-financial-statements-en.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 0,
+    "Annual report: keyword paragraphs from the rest": 1547
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [],
+  "chapters_skipped": [
+    "25 Cash flow statement",
+    "9 Financial instruments and risk management",
+    "Balance sheet",
+    "Compensation Report",
+    "Consolidated Financial Statements",
+    "Consolidated balance sheet",
+    "Consolidated cash flow statement",
+    "Consolidated income statement",
+    "Consolidated statement of changes in equity",
+    "Consolidated statement of comprehensive income",
+    "Financial Statements 2025",
+    "Financial Statements of\nSchindler Holding Ltd.",
+    "Income statement",
+    "Notes to the consolidated financial statements",
+    "Notes to the financial statements",
+    "Report of the statutory auditor"
+  ],
+  "words_sent": 1567
+}
