@@ -1,0 +1,34 @@
+{
+  "ticker": "LONN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements (secondary listing)",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/LJE7WPRJD5EBVAED/881490_Lonza%20Annual%20Report%202025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 8264,
+    "Annual report: keyword paragraphs from the rest": 9951
+  },
+  "notes": [],
+  "people_words": 1901,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter from the CEO (pages 4-5)",
+    "Lonza at a Glance (pages 6-6)",
+    "Financial Highlights (pages 7-8)",
+    "One Lonza Strategy (pages 10-11)",
+    "Our People (pages 13-15)",
+    "Letter from the Chair (pages 86-88)"
+  ],
+  "chapters_skipped": [
+    "Auditors",
+    "Balance Sheet – Lonza",
+    "Consolidated Cash",
+    "Financial Statements",
+    "Income Statement –",
+    "Notes to the",
+    "Notes to the Financial"
+  ],
+  "words_sent": 18235
+}

@@ -295,8 +295,9 @@ def short_extract_problem(words):
     if words >= MIN_SCORED_WORDS:
         return ""
     return (f"only {words:,} words of text picked (under {MIN_SCORED_WORDS:,}): too little "
-            "to score fairly. Probably not the full annual report (e.g. the financial report "
-            "alone); a teammate should check the document")
+            "to score fairly. Either the document isn't the full annual report (e.g. the "
+            "financial report alone) or the report itself has little narrative text; a "
+            "teammate should check the document")
 
 
 def excluded_pages(pages):

@@ -1,0 +1,33 @@
+{
+  "ticker": "EMSN.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "company website",
+  "fiscal_year": 2025,
+  "url": "https://www.ems-group.com/fileadmin/user_upload/EMS-Group/documents/Business-Reports/EMS_Annual_Report_EN_2025_2026_891552.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 1618
+  },
+  "notes": [
+    "TOC fallback (chapters from the printed contents page hold only 619 words): keyword paragraphs across the whole report; skipped 45 of 73 pages (risk, number pages, financial statements from page 35)"
+  ],
+  "people_words": 478,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "chapters_skipped": [
+    "Auditor’s Report on the Audit of the Remuneration Report",
+    "Consolidated Financial Consolidated Income Statement",
+    "Consolidated Statement of Cash Flows",
+    "Consolidated Statement of Changes in Equity",
+    "EMS-CHEMIE HOLDING AG Income Statement",
+    "Financial Statements  Balance Sheet",
+    "May 1, 2025 – April 30, 2026  Notes to the Financial Statements",
+    "Notes to the Consolidated Financial Statements",
+    "Remuneration Report",
+    "Statements Consolidated Balance Sheet",
+    "the Consolidated Financial Statements",
+    "the Financial Statements"
+  ],
+  "problem": "only 1,629 words of text picked (under 2,000): too little to score fairly. Probably not the full annual report (e.g. the financial report alone); a teammate should check the document (https://www.ems-group.com/fileadmin/user_upload/EMS-Group/documents/Business-Reports/EMS_Annual_Report_EN_2025_2026_891552.pdf)"
+}
