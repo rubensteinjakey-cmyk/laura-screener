@@ -38,7 +38,7 @@ from pypdf import PdfReader
 from ai import parse_json_reply, run_claude
 from common import Sec, load_config, log, write_json
 from download import ARCHIVE_URL, INDEX_URL, filings_table, parse_filing_index, ticker_to_cik
-from global_common import (G_DOCS, G_MANUAL, add_global_args, gclear, gflag,
+from global_common import (G_DOCS, G_MANUAL, add_global_args, gclear, gflag, manual_pdf,
                            load_global_companies, skipped)
 from second_look import IR_FILE_HOSTS, link_on_page, registered_domain
 
@@ -277,9 +277,9 @@ def fetch_company(sec, cik_map, company, cfg):
             return
 
     # 2) a PDF a teammate saved by hand
-    manual = G_MANUAL / f"{t}.pdf"
+    manual = manual_pdf(t)
     lines = []
-    if manual.exists():
+    if manual:
         shutil.copyfile(manual, folder / "annual_report.pdf")
         reader = PdfReader(str(manual))
         sample = "\n".join((reader.pages[i].extract_text() or "")

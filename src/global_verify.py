@@ -30,14 +30,35 @@ from verify import (COVERAGE_BACKUP_THEMES, HUMAN_CAPITAL_MIN_WORDS, RUBRIC_VERS
 STEP = "global_verify"
 
 
+OUTSIDE = {"court", "regulator", "outside_body"}
+
+
 def check_red_flags(red_flags, sources):
     """Keep only red flags whose quote is found word for word in the source.
-    Returns (kept, removed): lists of red-flag records (with 'verified')."""
+    Rule 4 (Oct 23): a rights finding counts only if a court, regulator or
+    other outside body found it (or it's a fine/settlement); cases the
+    company substantiated itself are set aside as "internal" (no points).
+    Returns (kept, removed, internal): lists of red-flag records."""
     recs = [dict(r, source_doc=r.get("source_doc") or "filing") for r in red_flags]
     checked = check_evidence(recs, sources, default_doc="filing")
-    kept = [r for r in checked.values() if r["verified"]]
-    removed = [r for r in checked.values() if not r["verified"]]
-    return kept, removed
+    kept, removed, internal = [], [], []
+    for r in checked.values():
+        if not r["verified"]:
+            removed.append(r)
+        elif r["flag"] == "rights_finding" and r.get("found_by") not in OUTSIDE:
+            internal.append(r)
+        else:
+            kept.append(r)
+    return kept, removed, internal
+
+
+def internal_note(internal):
+    """One line for values_notes about internally substantiated cases."""
+    if not internal:
+        return ""
+    kinds = sorted({(r.get("case_type") or "").strip().lower() for r in internal} - {""})
+    what = " / ".join(kinds) if kinds else "discrimination, harassment or human-rights"
+    return f"Discloses internally substantiated {what} cases; not a red flag under the rule."
 
 
 def red_flag_result(kept, alignment, penalty):
@@ -105,7 +126,7 @@ def verify_record(rec, run_id, cfg):
                             f"{source} + standalone sustainability report ({weight:g} weight)")
 
     # red flags
-    kept, removed = check_red_flags(rec["ai"].get("red_flags", []), {"filing": text})
+    kept, removed, internal = check_red_flags(rec["ai"].get("red_flags", []), {"filing": text})
     for r in removed:
         flags.append(f"red flag {r['id']} ({r['flag']}) removed: quote not found")
         gflag(t, step, "red flag quote failed (flag removed)",
@@ -145,6 +166,7 @@ def verify_record(rec, run_id, cfg):
         "themes": themes, "scores": scores,
         "coverage": {th: themes[th]["coverage"] for th in THEMES},
         "alignment_score": alignment, "red_flags": kept, "red_flags_removed": removed,
+        "internal_findings": internal, "internal_note": internal_note(internal),
         "red_flag_kinds": kinds, "red_flag_score": deducted, "final_score": final,
         "original_filing_scores": original if full_report else None,
         "full_report_scores": full_report,

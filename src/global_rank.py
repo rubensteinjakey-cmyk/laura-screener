@@ -111,7 +111,8 @@ def main():
             rf = ", ".join(r["red_flag_kinds"]) or "none"
             notes = (f"{'Top' if r['result'] == 'Pass' else 'Not in top'} half of "
                      f"{r['country']} {r['sector']}; {best_theme_note(r)}; red flag: {rf}"
-                     + ("; non-English source" if not r.get("english", True) else ""))
+                     + ("; non-English source" if not r.get("english", True) else "")
+                     + (f"; {r['internal_note']}" if r.get("internal_note") else ""))
             w.writerow({
                 **base,
                 "filing_used": f"{r['form']} {r.get('fiscal_year') or ''} {r.get('url', '')}".strip(),
@@ -147,11 +148,13 @@ def main():
                                 if isinstance(v, dict)),
                             "source_doc": e.get("source_doc", ""), "verified": e.get("verified"),
                             "figures_removed": ", ".join(e.get("figures_removed", []))})
-            for e in r["red_flags"] + r["red_flags_removed"]:
+            for e in r["red_flags"] + r["red_flags_removed"] + r.get("internal_findings", []):
                 w.writerow({"ticker": r["ticker"], "id": e["id"], "kind": "red flag",
                             "activity": e.get("explanation", ""), "quote": e.get("quote", ""),
                             "quote_en": e.get("quote_en", ""), "section": e.get("section", ""),
-                            "themes_or_flag": e.get("flag", ""), "source_doc": e.get("source_doc"),
+                            "themes_or_flag": e.get("flag", "") + (
+                                f" (found by: {e['found_by']})" if e.get("found_by") else ""),
+                            "source_doc": e.get("source_doc"),
                             "verified": e.get("verified")})
 
     flags = [f for f in read_gflags() if any(f["ticker"] == c["ticker"] for c in companies)]

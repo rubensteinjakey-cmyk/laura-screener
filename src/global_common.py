@@ -46,6 +46,16 @@ def skipped():
         return {r["ticker"].strip().upper(): r["reason"].strip() for r in csv.DictReader(f)}
 
 
+def manual_pdf(ticker, suffix=""):
+    """A PDF a teammate saved in data/global/manual/: {ticker}{suffix}.pdf, or
+    without the exchange suffix (UNVR.JK -> UNVR.pdf, GMAB_sustainability.pdf)."""
+    for name in (ticker, ticker.split(".")[0]):
+        path = G_MANUAL / f"{name}{suffix}.pdf"
+        if path.exists():
+            return path
+    return None
+
+
 def add_global_args(p):
     p.add_argument("--country", default="", help="e.g. Denmark (comma-separated ok)")
     p.add_argument("--tickers", default="", help="e.g. GMAB,SIKA.SW")
@@ -82,4 +92,4 @@ def read_gflags():
 
 __all__ = ["GDATA", "G_DOCS", "G_MANUAL", "G_SECTIONS", "G_SCORES", "G_VERIFIED",
            "G_REPORTS", "GOUT", "load_global_companies", "skipped", "add_global_args",
-           "gflag", "gclear", "read_gflags", "NEEDS_HUMAN_FIELDS"]
+           "gflag", "gclear", "read_gflags", "manual_pdf", "NEEDS_HUMAN_FIELDS"]

@@ -3,6 +3,31 @@
 Dated record of scoring decisions, newest first. Each one names where it
 lives in the code or config.
 
+## Oct 23, 2026: global red flag 4 narrowed to outside findings
+
+Rule 4 now reads: "A discrimination, harassment, forced/child labor or
+human-rights violation found by a court, regulator or other outside body,
+or a fine or settlement for one, during the reporting period."
+
+- Why: cases a company substantiated through its own compliance or
+  whistleblower process don't count. Most large companies with a working
+  hotline report these; penalizing them would reward companies that
+  disclose less.
+- Where: the scoring prompt (`src/global_score.py`) asks who found each
+  rights finding (`found_by`); `src/global_verify.py` drops internal ones
+  (no points) and `values_notes` gets one line instead, e.g. "Discloses
+  internally substantiated harassment cases; not a red flag under the rule."
+  Test case 11 in `tests/test_checker.py`.
+- Effect found in the test: Sika's 10-point deduction (internally
+  substantiated harassment cases) is removed and it is off needs_human.csv.
+  The four test companies were rescored with the final prompt so every
+  company uses the same wording.
+- Blocked downloads: teammates save PDFs in `data/global/manual/`
+  (`{ticker}.pdf` or without the exchange suffix, e.g. `UNVR.pdf`; a
+  standalone sustainability report as `{ticker}_sustainability.pdf`, e.g.
+  `GMAB_sustainability.pdf`). The next run picks them up; a sustainability
+  PDF redoes the second look (half weight).
+
 ## Oct 23, 2026: global sleeve values screen ("Rooted Capital", 70 companies)
 
 A second, separate run on 70 non-US companies (Denmark, Switzerland,

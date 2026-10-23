@@ -13,6 +13,8 @@ each one is caught:
   8. Entrepreneurship scored 3 with only "serving" evidence -> capped at 1
 Global screen (Oct 23):
   9. a RED FLAG whose quote is not in the source is removed (no penalty)
+ 11. a rights finding the company substantiated ITSELF (internal hotline /
+     compliance case) is not a red flag: no penalty, only a note
  10. an ORIGINAL-LANGUAGE (non-English) quote is checked word for word:
      the exact Chinese quote passes, an altered one fails
 plus correct answers that must pass untouched (so the checker isn't just
@@ -31,7 +33,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 from verify import check_evidence, check_theme  # noqa: E402
-from global_verify import check_red_flags, red_flag_result  # noqa: E402
+from global_verify import check_red_flags, internal_note, red_flag_result  # noqa: E402
 
 FILLER = ("The Corporation is subject to an extensive regulatory framework applicable "
           "to bank holding companies, financial holding companies and banks. ") * 20
@@ -118,6 +120,13 @@ RED_FLAGS = [
     {"id": "R1", "flag": "tobacco", "quote": "We sell cigarettes and other tobacco products in 30 markets"},
     {"id": "R2", "flag": "weapons", "quote": "We manufacture munitions for national defense forces"},
 ]
+GLOBAL_SOURCE += """
+Our compliance team substantiated 12 harassment cases reported through our whistleblower hotline in 2025.
+"""
+INTERNAL_ONLY = [
+    {"id": "R3", "flag": "rights_finding", "found_by": "internal", "case_type": "harassment",
+     "quote": "Our compliance team substantiated 12 harassment cases reported through our whistleblower hotline"},
+]
 ZH_EVIDENCE = [
     {"id": "Z1", "activity": "STEM camps", "status": "current", "source_doc": "filing",
      "section": "Annual report > Social engagement", "indicators": "3,000",
@@ -138,7 +147,9 @@ def has(r, text):
 def main():
     ev = check_evidence(EVIDENCE, {"10-K": FILING})
     res = {name: check_theme(theme, ans, ev) for name, theme, ans in CASES}
-    kept, removed = check_red_flags(RED_FLAGS, {"filing": GLOBAL_SOURCE})
+    kept, removed, _ = check_red_flags(RED_FLAGS, {"filing": GLOBAL_SOURCE})
+    in_kept, in_removed, in_internal = check_red_flags(INTERNAL_ONLY, {"filing": GLOBAL_SOURCE})
+    in_kinds, in_deducted, in_final = red_flag_result(in_kept, 30.0, 10)
     rf_kinds, rf_deducted, rf_final = red_flag_result(kept, 23.0, 10)
     zh = check_evidence(ZH_EVIDENCE, {"filing": GLOBAL_SOURCE}, default_doc="filing")
     checks = [
@@ -177,6 +188,9 @@ def main():
          [r["id"] for r in kept] == ["R1"] and [r["id"] for r in removed] == ["R2"]
          and rf_kinds == ["tobacco"] and rf_deducted == 10 and rf_final == 13.0),
         ("   (red-flag penalty never goes below 0)", red_flag_result(kept, 4.0, 10)[2] == 0.0),
+        ("11. Internal-only finding (own hotline/compliance) gets no penalty, only a note",
+         not in_kept and not in_removed and len(in_internal) == 1 and in_deducted == 0
+         and in_final == 30.0 and "not a red flag" in internal_note(in_internal)),
         ("10. Non-English quote checked in the original language (exact passes, altered fails)",
          zh["Z1"]["verified"] and not zh["Z1"]["figures_removed"]
          and not zh["Z2"]["verified"] and zh["Z2"]["problem"] == "quote_check_failed"),

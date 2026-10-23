@@ -26,6 +26,7 @@ from pypdf import PdfReader
 from ai import ClaudeError, check_reply, parse_json_reply, run_claude
 from common import ROOT, load_config, log, read_json, write_json
 from global_common import (G_DOCS, G_MANUAL, G_REPORTS, G_SECTIONS, G_VERIFIED, gclear, gflag,
+                           manual_pdf,
                            load_global_companies)
 from score import ask_claude
 from second_look import (IR_FILE_HOSTS, MIN_REPORT_PAGES, SECOND_LOOK_THEMES, fetch_pdf,
@@ -106,8 +107,8 @@ def find_report(company, cfg, lines):
     if not dom:
         return None
     ar_url = read_json(G_DOCS / t / "meta.json").get("url", "")
-    manual = G_MANUAL / f"{t}_sustainability.pdf"
-    if manual.exists():  # a teammate saved it by hand (site blocked the download)
+    manual = manual_pdf(t, "_sustainability")
+    if manual:  # a teammate saved it by hand (site blocked the download)
         reader = PdfReader(str(manual))
         text, chapters, method = relevant_text(reader)
         if text:
@@ -177,8 +178,11 @@ def second_look(company, cfg, run_id, themes):
     folder.mkdir(parents=True, exist_ok=True)
     out_path = folder / f"second_look_{run_id}.json"
     if out_path.exists():
-        log(STEP, f"{t}: already done, skipping")
-        return
+        done = read_json(out_path)
+        if done.get("status") == "scored" or not manual_pdf(t, "_sustainability"):
+            log(STEP, f"{t}: already done, skipping")
+            return
+        log(STEP, f"{t}: a manual sustainability PDF appeared; redoing the second look")
     step = f"{STEP}:{run_id}"
     gclear(t, step)
     lines = []

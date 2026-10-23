@@ -25,13 +25,15 @@ from score import ask_claude
 from verify import RUBRIC_VERSION
 
 STEP = "global_score"
+FOUND_BY = {"court", "regulator", "outside_body", "internal"}
 RED_FLAGS = {
     "tobacco": "tobacco products as a core business",
     "thermal_coal": "thermal coal mining or coal-fired power as a significant business",
     "weapons": "weapons manufacturing",
-    "rights_finding": ("a disclosed finding, fine or settlement during the reporting period "
-                       "for discrimination, harassment, forced or child labor, or serious "
-                       "human-rights abuses"),
+    # rule 4, as narrowed on Oct 23 (DECISIONS.md): outside bodies only
+    "rights_finding": ("a discrimination, harassment, forced/child labor or human-rights "
+                       "violation found by a court, regulator or other outside body, or a "
+                       "fine or settlement for one, during the reporting period"),
 }
 
 PROMPT = """Score this company against the rubric below. Read the whole rubric carefully, including every trap, cap and rule.
@@ -59,11 +61,12 @@ Instructions:
     "tobacco" = tobacco products as a core business;
     "thermal_coal" = thermal coal mining or coal-fired power as a significant business;
     "weapons" = weapons manufacturing;
-    "rights_finding" = a disclosed finding, fine or settlement during the reporting period for discrimination, harassment, forced or child labor, or serious human-rights abuses.
+    "rights_finding" = a discrimination, harassment, forced/child labor or human-rights violation found by a court, regulator or other outside body, or a fine or settlement for one, during the reporting period.
+  For "rights_finding", set "found_by" to "court", "regulator" or "outside_body". Cases the company substantiated through its OWN compliance, hotline or whistleblower process are NOT a red flag: if the text discloses only such internal cases, still list them once with "flag": "rights_finding", "found_by": "internal" and "case_type" (e.g. "harassment"), so the team can note them; they cost no points. For the other three flags, leave "found_by" empty.
   Only what the text states (a policy against child labor, an audit with no finding, or a small coal exposure in a loan book is NOT a red flag). If none apply, "red_flags": [].
 - Set "sections_read" to {sections_json} and "fiscal_year" to {fiscal_year}.
 - Reply with ONE JSON object in exactly the rubric's output format, plus the "red_flags" list, and nothing else (no explanation, no markdown):
-  "red_flags": [{{"id": "R1", "flag": "tobacco", "quote": "", {quote_en_field}"section": "", "explanation": ""}}]
+  "red_flags": [{{"id": "R1", "flag": "tobacco", "found_by": "", "case_type": "", "quote": "", {quote_en_field}"section": "", "explanation": ""}}]
 
 {source_text}
 """
@@ -87,6 +90,8 @@ def check_global_reply(obj):
         for f in ("id", "quote"):
             if not isinstance(r.get(f), str) or not r[f].strip():
                 raise ValueError(f"red_flags[{i}].{f} must be text")
+        if r["flag"] == "rights_finding" and r.get("found_by") not in FOUND_BY:
+            raise ValueError(f"red_flags[{i}].found_by must be one of {sorted(FOUND_BY)}")
 
 
 def build_prompt(company, info):
