@@ -191,6 +191,83 @@ def chapters_all_levels(reader):
     return out
 
 
+CONTENTS_HEAD = re.compile(r"\b(?:table of )?contents\b|daftar isi|目錄|目录|indhold|inhalt|"
+                           r"sommaire|innehåll", re.I)
+NUM_ONLY = re.compile(r"^\s*(\d{1,3})\s*$")
+TITLE_THEN_NUM = re.compile(r"^\s*(?:[\dIVX]+(?:\.\d+)*\.?\s+)?([^\d\s].{1,88}?)[\s.·…]+(\d{1,3})\s*$")
+NUM_THEN_TITLE = re.compile(r"^\s*(\d{1,3})\s+([^\d\s].{1,88}?)\s*$")
+
+
+def chapters_from_contents_page(reader):
+    """Read a printed contents page in its common layouts: "Overview 5",
+    "1. Letter to Shareholders  1", "5 Overview", or a title line followed by
+    a line holding only the page number. Printed page numbers are mapped to
+    PDF pages by finding the titles (also handles two printed pages per PDF
+    page). Returns [] if it can't do this cleanly."""
+    n = len(reader.pages)
+    texts = {}
+
+    def text(i):
+        if i not in texts:
+            texts[i] = (reader.pages[i].extract_text() or "") if 0 <= i < n else ""
+        return texts[i]
+
+    pages = [i for i in range(min(15, n)) if CONTENTS_HEAD.search(text(i))]
+    if not pages:
+        return []
+    first = pages[0]
+    entries = []
+    for i in (first, first + 1):
+        lines = [l.strip() for l in text(i).split("\n")]
+        for k, line in enumerate(lines):
+            if not line or CONTENTS_HEAD.fullmatch(line.lower()):
+                continue
+            m = TITLE_THEN_NUM.match(line)
+            if m and re.search(r"[A-Za-z\u4e00-\u9fff]{3}", m.group(1)):
+                entries.append((m.group(1).strip(" .·"), int(m.group(2))))
+                continue
+            m = NUM_THEN_TITLE.match(line)
+            if m and re.search(r"[A-Za-z\u4e00-\u9fff]{3}", m.group(2)):
+                entries.append((m.group(2).strip(), int(m.group(1))))
+                continue
+            m = NUM_ONLY.match(line)
+            if m and k > 0 and re.search(r"[A-Za-z\u4e00-\u9fff]{3}", lines[k - 1]) \
+                    and not NUM_ONLY.match(lines[k - 1]):
+                entries.append((lines[k - 1].strip(), int(m.group(1))))
+    seen, clean = set(), []
+    for title, num in entries:
+        key = title.lower()[:30]
+        if 1 <= num <= 2 * n + 5 and key not in seen and len(title) >= 3:
+            seen.add(key)
+            clean.append((title, num))
+    if len(clean) < 4:
+        return []
+
+    def hits(mapper):
+        found = 0
+        for title, num in clean[:12]:
+            words = title.lower()[:22]
+            if any(words in text(mapper(num) + d).lower() for d in (0, 1)):
+                found += 1
+        return found
+
+    best, best_hits = None, 0
+    for scale in (1.0, 0.5):
+        for off in range(-4, 12):
+            mapper = (lambda num, s=scale, o=off: int((num - 1) * s) + o)
+            h = hits(mapper)
+            if h > best_hits:
+                best, best_hits = mapper, h
+    if not best or best_hits < 3:
+        return []
+    mapped = sorted({(t, min(max(best(num), 0), n - 1)) for t, num in clean}, key=lambda x: x[1])
+    out = []
+    for i, (title, start) in enumerate(mapped):
+        end = next((p for _, p in mapped[i + 1:] if p > start), n)
+        out.append({"title": title, "start": start, "end": max(end, start + 1)})
+    return out
+
+
 def extract_annual_report(t, folder, out, info, max_words):
     reader = PdfReader(str(folder / "annual_report.pdf"))
     n = len(reader.pages)
@@ -199,6 +276,9 @@ def extract_annual_report(t, folder, out, info, max_words):
                                   encoding="utf-8")
     chapters = chapters_all_levels(reader)
     method = "pdf bookmarks (all levels)"
+    if not [c for c in chapters if WANT.search(c["title"])]:
+        chapters = chapters_from_contents_page(reader)
+        method = "printed contents page"
     if not [c for c in chapters if WANT.search(c["title"])]:
         chapters = chapters_from_toc_page(reader)
         method = "printed table of contents"

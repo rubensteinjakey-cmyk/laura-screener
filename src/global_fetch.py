@@ -30,7 +30,7 @@ import logging
 import re
 import shutil
 from datetime import date
-from urllib.parse import unquote, urlparse
+from urllib.parse import unquote, urljoin, urlparse
 
 import requests
 from pypdf import PdfReader
@@ -46,6 +46,7 @@ logging.getLogger("pypdf").setLevel(logging.ERROR)  # font warnings are noise he
 
 STEP = "global_fetch"
 RETRY = False
+CFG = None
 MIN_FISCAL_YEAR = 2025
 MIN_AR_PAGES = 30
 MAX_AR_BYTES = 200_000_000
@@ -59,10 +60,11 @@ Use web search. Rules:
 - Only links on the company's own website, or on an investor-relations file service (for example q4cdn.com) that the company's own website links to. No third-party sites (stock exchanges, data aggregators, news).
 - "found_on": the company web page that links to the PDF. Always give it; it is REQUIRED when the PDF is not on the company's own domain (document hosts such as ipaper or a CDN).
 - "website": the company's official website home page.
+- "ir_page": the page on the company's own website that lists its annual reports.
 
 Reply with ONLY this JSON, nothing else:
-{{"website": "https://www.company.com", "candidates": [{{"url": "https://...", "title": "...", "fiscal_year": 2025, "language": "English", "found_on": "https://www.company.com/investors/..."}}]}}
-List up to 5 candidates, best first. If you find nothing, reply {{"website": "", "candidates": []}}."""
+{{"website": "https://www.company.com", "ir_page": "https://www.company.com/investors/annual-reports", "candidates": [{{"url": "https://...", "title": "...", "fiscal_year": 2025, "language": "English", "found_on": "https://www.company.com/investors/..."}}]}}
+List up to 5 candidates, best first. If you find nothing, reply {{"website": "", "ir_page": "", "candidates": []}}."""
 
 
 def http_get(url, cfg, **kw):
@@ -87,7 +89,10 @@ def confirm_website(website, company, cfg, log_lines):
     reg = registered_domain(host)
     label = reg.split(".")[0]
     tokens = name_tokens(company["company_name"])
-    if any(t in label or label in t for t in tokens if len(label) >= 3):
+    words = re.findall(r"[a-z0-9]+", company["company_name"].lower())
+    initials = "".join(w[0] for w in words if w not in ("pt", "tbk", "the", "of", "and"))
+    if any(t in label or label in t for t in tokens if len(label) >= 3) or \
+            (len(initials) >= 3 and label.startswith(initials[:3])):
         log_lines.append(f"website {reg} confirmed (domain matches the company name)")
         return reg
     try:
@@ -153,6 +158,53 @@ def download_pdf(url, cfg):
     return data
 
 
+def pdf_links_on_page(page, cfg):
+    """PDF links on a company web page that look like a 2025 annual report
+    (the code reads the page itself, so a link found here is the company's)."""
+    html = http_get(page, cfg, timeout=60)
+    html.raise_for_status()
+    out = []
+    for m in re.finditer(r"""href\s*=\s*["']([^"'#]+)["'][^>]*>(.{0,200}?)</a>""", html.text,
+                         re.I | re.S):
+        href, label = m.group(1).replace("&amp;", "&"), re.sub(r"<[^>]+>", " ", m.group(2))
+        url = urljoin(page, href)
+        hay = unquote(url + " " + label).lower()
+        if ".pdf" not in hay and "download" not in hay:
+            continue
+        if re.search(r"annual|integrated|ar[-_ ]?20?25|laporan tahunan|年報|arsrapport|årsrapport",
+                     hay) and re.search(r"2025|(?<!\d)25(?!\d)", hay) and \
+                not re.search(r"sustainab|esg|summary|presentation|20-?f|interim|quarter|"
+                              r"half[- ]year|notice|proxy|minutes", hay):
+            out.append(url)
+    return list(dict.fromkeys(out))[:6]
+
+
+def try_pdf(url, found_on, own, on_main, title, log_lines):
+    """Download and check one candidate. Returns (data, info), or (None, "blocked"/"")."""
+    try:
+        data = download_pdf(url, CFG)
+        reader = PdfReader(io.BytesIO(data))
+    except Exception as e:
+        log_lines.append(f"download failed ({e}): {url}")
+        return None, ("blocked" if re.search(r"40[13]|429|Forbidden|CERTIFICATE", str(e), re.I)
+                      else "")
+    year = report_year(url, reader)
+    if not year or year < MIN_FISCAL_YEAR:
+        log_lines.append(f"rejected (year {year} < {MIN_FISCAL_YEAR}): {url}")
+        return None, ""
+    if len(reader.pages) < MIN_AR_PAGES:
+        log_lines.append(f"rejected (only {len(reader.pages)} pages): {url}")
+        return None, ""
+    sample = "\n".join((reader.pages[i].extract_text() or "")
+                       for i in range(min(len(reader.pages), 12)))
+    english = is_english(sample)
+    log_lines.append(f"acceptable: {url} ({year}, {len(reader.pages)} pages, "
+                     f"{'English' if english else 'non-English'})")
+    return data, {"url": url, "year": year, "pages": len(reader.pages), "english": english,
+                  "found_on": found_on, "on_main_domain": on_main, "own_domain": own,
+                  "title": title}
+
+
 def find_annual_report(company, cfg, log_lines):
     """Returns (pdf_bytes, info) or (None, info with the reason)."""
     t = company["ticker"]
@@ -163,19 +215,23 @@ def find_annual_report(company, cfg, log_lines):
         found = parse_json_reply(reply)
     except ValueError:
         found = {}
-    cands = found.get("candidates", []) if isinstance(found, dict) else []
+    found = found if isinstance(found, dict) else {}
+    cands = found.get("candidates", []) or []
     if not cands and re.search(r"permission|denied|not available|unable to (?:search|use)",
                                reply, re.I):
         raise RuntimeError(f"web search did not run: {reply[:300]}")
-    website = str(found.get("website", "")) if isinstance(found, dict) else ""
-    log_lines.append(f"search: website {website or '?'}, {len(cands)} candidate(s)")
+    website = str(found.get("website", ""))
+    log_lines.append(f"search: website {website or '?'}, ir_page {found.get('ir_page') or '?'}, "
+                     f"{len(cands)} candidate(s)")
     own = confirm_website(website, company, cfg, log_lines) if website else ""
     if not own:
         return None, {"reason": "company website not confirmed", "page": website}
 
-    accepted, blocked = [], []
+    accepted, blocked, pages = [], [], []
     for c in cands:
         url, page = str(c.get("url", "")), str(c.get("found_on") or "")
+        if page and domain_ok(page, own)[0]:
+            pages.append(page)
         ok, on_main = domain_ok(url, own)
         found_on = ""
         if not ok:
@@ -185,7 +241,7 @@ def find_annual_report(company, cfg, log_lines):
             # a quick human check, since it isn't on the main domain).
             host = registered_domain(urlparse(url).hostname or "")
             if not page or not domain_ok(page, own)[0]:
-                log_lines.append(f"rejected (on file service {host}, no company page given): {url}")
+                log_lines.append(f"rejected (on {host}, no company page given): {url}")
                 continue
             try:
                 if not link_on_page(page, url, cfg):
@@ -197,32 +253,43 @@ def find_annual_report(company, cfg, log_lines):
                     blocked.append(page)
                 continue
             found_on = page
-        try:
-            data = download_pdf(url, cfg)
-            reader = PdfReader(io.BytesIO(data))
-        except Exception as e:
-            log_lines.append(f"download failed ({e}): {url}")
-            if re.search(r"40[13]|429|timed? ?out|Forbidden|not a PDF", str(e), re.I):
+        data, info = try_pdf(url, found_on, own, on_main, str(c.get("title", "")), log_lines)
+        if data is None:
+            if info == "blocked":
                 blocked.append(page or url)
             continue
-        year = report_year(url, reader)
-        if not year or year < MIN_FISCAL_YEAR:
-            log_lines.append(f"rejected (year {year} < {MIN_FISCAL_YEAR}): {url}")
-            continue
-        if len(reader.pages) < MIN_AR_PAGES:
-            log_lines.append(f"rejected (only {len(reader.pages)} pages): {url}")
-            continue
-        sample = "\n".join((reader.pages[i].extract_text() or "")
-                           for i in range(min(len(reader.pages), 12)))
-        english = is_english(sample)
-        info = {"url": url, "year": year, "pages": len(reader.pages), "english": english,
-                "found_on": found_on, "on_main_domain": on_main, "own_domain": own,
-                "title": str(c.get("title", ""))}
-        log_lines.append(f"acceptable: {url} ({year}, {len(reader.pages)} pages, "
-                         f"{'English' if english else 'non-English'})")
         accepted.append((data, info))
-        if english:
+        if info["english"]:
             break  # official English version found
+
+    # The search's links can be stale or guessed: read the company's own IR
+    # page(s) and take the annual-report PDF links found there.
+    if not any(i["english"] for _, i in accepted):
+        ir = str(found.get("ir_page") or "")
+        if ir and domain_ok(ir, own)[0]:
+            pages.insert(0, ir)
+        for page in list(dict.fromkeys(pages))[:3]:
+            try:
+                links = pdf_links_on_page(page, cfg)
+            except Exception as e:
+                log_lines.append(f"couldn't read IR page {page}: {e}")
+                if re.search(r"40[13]|429|Forbidden", str(e), re.I):
+                    blocked.append(page)
+                continue
+            log_lines.append(f"IR page {page}: {len(links)} annual-report link(s)")
+            for url in links:
+                ok, on_main = domain_ok(url, own)
+                data, info = try_pdf(url, "" if ok else page, own, on_main, "from IR page",
+                                     log_lines)
+                if data is None:
+                    if info == "blocked":
+                        blocked.append(page)
+                    continue
+                accepted.append((data, info))
+                if info["english"]:
+                    break
+            if any(i["english"] for _, i in accepted):
+                break
     if accepted:
         data, info = next(((d, i) for d, i in accepted if i["english"]), accepted[0])
         return data, info
@@ -336,8 +403,9 @@ def main():
     add_global_args(p)
     p.add_argument("--retry", action="store_true", help="search again for companies that failed")
     args = p.parse_args()
-    global RETRY
+    global RETRY, CFG
     RETRY = args.retry
+    CFG = cfg
     sec = Sec(cfg)
     cik_map = ticker_to_cik(sec)
     for c in load_global_companies(args.country, args.tickers):
