@@ -1,0 +1,23 @@
+{
+  "ticker": "A17U.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/VLMUR6L61OAEVKHB/881419_CLAR%20-%20AR%202025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 5075
+  },
+  "notes": [
+    "TOC fallback (chapters from the printed contents page hold only 2,823 words): keyword paragraphs across the whole report; skipped 118 of 212 pages (risk, number pages, financial statements from page 110)"
+  ],
+  "people_words": 385,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "chapters_skipped": [
+    "Appendix",
+    "Risk Management"
+  ],
+  "words_sent": 5086
+}

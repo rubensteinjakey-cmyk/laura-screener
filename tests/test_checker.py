@@ -165,7 +165,8 @@ def main():
              + ["Risk Management\n" + narrative]
              + [narrative] * 3
              + ["Independent Auditor's Report\n" + narrative]
-             + ["Notes to the consolidated financial statements\n" + narrative] * 4)
+             + ["Notes to the consolidated financial statements\n" + narrative] * 4
+             + ["Sustainability Report\n" + narrative] * 2)
     finfo = {"notes": [], "people_words": 0}
     (fsent, _), _ = extract_toc_fallback("TEST", pages, finfo, 40000, "no usable table of contents")
     fb_pages = sorted({int(m) for m in re.findall(r"\[page (\d+)\]", fsent)})
@@ -214,8 +215,9 @@ def main():
         ("12. Group with 2 of 6 scored is Provisional (no Pass); a complete group gets Pass/Fail",
          [r["result"] for r in part] == ["Provisional", "Provisional"]
          and [r["result"] for r in full] == ["Pass", "Fail"]),
-        ("13. TOC fallback: keyword paragraphs, skipping risk pages and financial statements",
-         fb_pages == [1, 2, 3, 4, 5, 6, 8, 9, 10]
+        ("13. TOC fallback: keyword paragraphs, skipping risk pages and financial statements "
+         "(a sustainability chapter after them is kept)",
+         fb_pages == [1, 2, 3, 4, 5, 6, 8, 9, 10, 16, 17]
          and any(n.startswith("TOC fallback") for n in finfo["notes"])),
         ("14. Under 2,000 words is never scored (HMSP's 564); 2,500 is",
          short_extract_problem(564) != "" and short_extract_problem(2500) == ""),

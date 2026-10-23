@@ -1,0 +1,31 @@
+{
+  "ticker": "BUOU.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/531D1L1A4ZGIBBAO/870400_FLCT%20-%20Annual%20Report%202025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 7350,
+    "Annual report: keyword paragraphs from the rest": 6262
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Financial highlights (pages 7-8)",
+    "Our strategy for value creation (pages 10-10)",
+    "Letter to Unitholders (pages 11-14)",
+    "In conversation with the CEO (pages 15-17)",
+    "Portfolio overview (pages 37-48)",
+    "ESG highlights (pages 67-68)"
+  ],
+  "chapters_skipped": [
+    "Enterprise risk management",
+    "Financial review",
+    "Financial statements",
+    "Glossary"
+  ],
+  "words_sent": 13632
+}

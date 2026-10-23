@@ -1,0 +1,19 @@
+{
+  "ticker": "BN4.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/CMLEN559K1LSH1QR/880492_1.%20Keppel%20Ltd._Annual%20Report%202025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 8688
+  },
+  "notes": [
+    "TOC fallback (no usable table of contents): keyword paragraphs across the whole report; skipped 146 of 245 pages (risk, number pages, financial statements from page 105)"
+  ],
+  "people_words": 1577,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "words_sent": 8699
+}

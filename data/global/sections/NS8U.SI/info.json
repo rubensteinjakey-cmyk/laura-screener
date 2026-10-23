@@ -1,0 +1,36 @@
+{
+  "ticker": "NS8U.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/NJVPQZT3VFNIX7HM/882457_HPHT%20AR2025%20SGX.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 32949,
+    "Annual report: keyword paragraphs from the rest": 6537
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "PORTFOLIO OVERVIEW (pages 6-7)",
+    "LETTER TO UNITHOLDERS (pages 8-9)",
+    "CORPORATE HIGHLIGHTS (pages 10-15)",
+    "SUSTAINABILITY REPORT (pages 28-94)"
+  ],
+  "chapters_skipped": [
+    "CONSOLIDATED INCOME STATEMENT",
+    "CONSOLIDATED STATEMENT OF CASH FLOWS",
+    "CONSOLIDATED STATEMENT OF CHANGES IN EQUITY",
+    "CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME",
+    "CONSOLIDATED STATEMENT OF FINANCIAL POSITION",
+    "FINANCIAL REVIEW",
+    "GLOSSARY",
+    "INDEPENDENT AUDITOR'S REPORT",
+    "NOTES TO THE FINANCIAL STATEMENTS",
+    "STATEMENT OF CHANGES IN EQUITY OF HUTCHISON PORT HOLDINGS TRUST",
+    "STATEMENT OF FINANCIAL POSITION OF HUTCHISON PORT HOLDINGS TRUST"
+  ],
+  "words_sent": 39506
+}

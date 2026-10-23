@@ -1,0 +1,24 @@
+{
+  "ticker": "S58.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2026,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/KDUEMRFCNK9XYXB6/895114_SATS_Annual_Report_FY2026.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 7333
+  },
+  "notes": [
+    "TOC fallback (chapters from the printed contents page hold only 3,244 words): keyword paragraphs across the whole report; skipped 34 of 121 pages (risk, number pages, financial statements from page 94)"
+  ],
+  "people_words": 1906,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "chapters_skipped": [
+    "Financial Review",
+    "Financial Statements",
+    "Glossary of Capitalised Terms"
+  ],
+  "words_sent": 7344
+}

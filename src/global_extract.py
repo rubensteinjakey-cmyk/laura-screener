@@ -300,15 +300,33 @@ def short_extract_problem(words):
             "teammate should check the document")
 
 
+RESUME = re.compile(r"sustainability\s+(?:report|statement)|corporate\s+governance|"
+                    r"governance\s+report|laporan\s+keberlanjutan|tata\s+kelola|永續|公司治理", re.I)
+
+
 def excluded_pages(pages):
     """Pages left out without a contents page: risk-heading pages, number
-    pages, and everything from the financial statements on (back half)."""
+    pages, and the financial statements and notes."""
     n = len(pages)
     head = lambda p: "\n".join(p.strip().split("\n")[:6])
-    fin_start = next((i for i in range(n // 3, n) if FIN_START.search(head(pages[i]))), n)
-    skip = set(range(fin_start, n))
+    # from the first auditor's report / statements / notes heading (back
+    # two-thirds) everything is skipped, except chapters printed after the
+    # financials that open with a governance or sustainability heading; those
+    # run until the next financial heading
+    fin_start = next((i for i in range(n // 3, n) if FIN_START.search(head(pages[i]))
+                      and not re.search(r"assurance", head(pages[i]), re.I)), n)
+    skip, resumed, narrative = set(), [], False
+    for i in range(fin_start, n):
+        if RESUME.search(head(pages[i])):
+            narrative = True
+        elif FIN_START.search(head(pages[i])):
+            narrative = False
+        if narrative:
+            resumed.append(i)
+        else:
+            skip.add(i)
     skip |= {i for i in range(n) if RISK_PAGE.search(head(pages[i])) or page_is_numbers(pages[i])}
-    return skip, fin_start
+    return skip, (fin_start, resumed)
 
 
 def keyword_paragraphs(pages, page_list):
@@ -335,14 +353,16 @@ def cap_keyword_paragraphs(kw, budget):
 
 def extract_toc_fallback(t, pages, info, max_words, why):
     """Keyword paragraphs across the whole report (same cap and exclusions)."""
-    skip, fin_start = excluded_pages(pages)
+    skip, (fin_start, resumed) = excluded_pages(pages)
     kw = keyword_paragraphs(pages, [p for p in range(len(pages)) if p not in skip])
     kw, dropped = cap_keyword_paragraphs(kw, max_words)
     info["chapter_method"] = "TOC fallback: keyword paragraphs across the whole report"
     info["chapters"] = []
     info["notes"].append(f"TOC fallback ({why}): keyword paragraphs across the whole report; "
                          f"skipped {len(skip)} of {len(pages)} pages (risk, number pages, "
-                         f"financial statements from page {fin_start + 1})")
+                         f"financial statements from page {fin_start + 1}"
+                         + (f", except {len(resumed)} governance/sustainability page(s) after "
+                            "them" if resumed else "") + ")")
     if dropped:
         info["notes"].append(f"over {max_words:,} words: dropped {dropped} lowest-relevance "
                              "keyword paragraph(s)")

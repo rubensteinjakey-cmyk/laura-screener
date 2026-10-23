@@ -1,0 +1,27 @@
+{
+  "ticker": "C38U.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/PY3VCKEQ8KS6R716/878885_2_CICT%20AR%202025_Final.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: keyword paragraphs (TOC fallback)": 8638
+  },
+  "notes": [
+    "TOC fallback (chapters from the pdf bookmarks (all levels) hold only 3,622 words): keyword paragraphs across the whole report; skipped 109 of 199 pages (risk, number pages, financial statements from page 97)"
+  ],
+  "people_words": 1060,
+  "chapter_method": "TOC fallback: keyword paragraphs across the whole report",
+  "chapters": [],
+  "chapters_skipped": [
+    "Financial Review",
+    "Financial Statements",
+    "Independent Auditor’s Report to the Unitholders",
+    "Notes to the Financial Statements",
+    "Risk Management",
+    "Statement of Cash Flows"
+  ],
+  "words_sent": 8649
+}

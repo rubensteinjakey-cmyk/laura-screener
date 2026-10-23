@@ -1,0 +1,31 @@
+{
+  "ticker": "C6L.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "SGX company announcements",
+  "fiscal_year": 2025,
+  "url": "https://links.sgx.com/1.0.0/corporate-announcements/CBBHM38X24NO0DHG/894198_Annual%20Report%20FY2025-26.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 5256,
+    "Annual report: keyword paragraphs from the rest": 7386
+  },
+  "notes": [],
+  "people_words": 1082,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Chairman’s Letter to Shareholders (pages 3-4)",
+    "Three-year Financial Highlights (pages 8-8)",
+    "Statistical Highlights (pages 9-10)",
+    "Our Strategy for the Future (pages 18-20)",
+    "People Development (pages 40-42)",
+    "Sustainability (pages 43-44)",
+    "The Singapore Airlines Foundation (pages 45-45)"
+  ],
+  "chapters_skipped": [
+    "57 Financial Review",
+    "Financial Review",
+    "Statement on Risk Management"
+  ],
+  "words_sent": 12662
+}

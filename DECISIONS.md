@@ -41,9 +41,11 @@ Three team decisions before anyone saves PDFs by hand.
    words, e.g. HMSP's chapter numbers read as page numbers), the company is
    no longer skipped: the keyword-paragraph method runs across the whole
    report, with the same word cap and exclusions (risk-heading pages, number
-   pages, and everything from the auditor's report / financial statements
-   on). Noted as "TOC fallback" in the flags. Any extract under 2,000 words
-   is flagged and not scored (it was 5,000 words of narrative before).
+   pages, and the financial-statements block from the auditor's report to
+   the last statements/notes page; narrative chapters printed after the
+   financials, such as governance or sustainability, are kept). Noted as
+   "TOC fallback" in the flags. Any extract under 2,000 words is flagged and
+   not scored (it was 5,000 words of narrative before).
 
 ## Oct 23, 2026: global red flag 4 narrowed to outside findings
 
