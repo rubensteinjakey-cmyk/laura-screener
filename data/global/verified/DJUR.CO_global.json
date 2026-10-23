@@ -212,8 +212,18 @@
     "non-English source"
   ],
   "quote_check_status": "passed",
-  "flags": [],
+  "flags": [
+    "coverage insufficient (community, cross_cultural); second look: no standalone report found"
+  ],
   "people_words": 0,
   "score_source": "Annual report 2025",
-  "second_look": null
+  "second_look": {
+    "status": "no standalone report found",
+    "report_url": "",
+    "report_year": null,
+    "themes": [
+      "community",
+      "cross_cultural"
+    ]
+  }
 }
