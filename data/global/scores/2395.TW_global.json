@@ -1,0 +1,278 @@
+{
+  "ticker": "2395.TW",
+  "company_name": "Advantech",
+  "country": "Taiwan",
+  "sector": "Information Technology",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://doc.twse.com.tw/pdf/2025_2395_20260529FE4_20261024_015050.pdf",
+  "english": true,
+  "words_sent": 30307,
+  "prompt_chars": 232854,
+  "approx_prompt_tokens": 58213,
+  "scored_at": "2026-10-23T18:00:56",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Advantech Foundation funds arts and culture promotion, sustainable education and public welfare",
+        "quote": "An amount of NT$14,958,767 was expensed for arts and culture promotion in 2025; an amount of NT$11,705,796 was expensed for sustainable education, and an amount of NT$16,820,482 was expensed for public welfare.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 4. Sustainable innovative education and support to arts",
+        "status": "current",
+        "indicators": "NT$14,958,767 arts and culture; NT$11,705,796 sustainable education; NT$16,820,482 public welfare",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: arts and culture sponsorship with dollars spent but no named program or reach figures"
+          },
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment in education and public welfare with disclosed dollars"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "AIoT Inno works developer program for university students worldwide",
+        "quote": "An amount more than NT$8.7 million was invested in AIoT Inno works developer program with 1,440 students recruited from 122 universities in 6 countries around the world to participate and 360 projects completed.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 3. IoT and industry-Academia Cooperation Education",
+        "status": "current",
+        "indicators": "NT$8.7 million; 1,440 students; 122 universities; 6 countries; 360 projects",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with participant and dollar figures"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "AIoT Academy IoT higher-education and certification courses run on university campuses",
+        "quote": "A total of more than 3,500 WISE-IoTSuite technical certificates were issued in campus collaboration in 2021~2025.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 3. IoT and industry-Academia Cooperation Education",
+        "status": "current",
+        "indicators": "more than 3,500 WISE-IoTSuite technical certificates (2021~2025); NT$2.85 million; 5 IoT seminars",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named campus education and certification program with figures"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Elite 100 Internship Program for students",
+        "quote": "An amount around NT$4.08 million was invested in the Elite 100 Internship Program.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 3. IoT and industry-Academia Cooperation Education",
+        "status": "current",
+        "indicators": "NT$4.08 million; 26 interns",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: named internship program, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Partnership with Society of Wilderness on wetland conservation with eco-tours and volunteer courses",
+        "quote": "Outcomes include: guided eco-tours, biodiversity volunteer courses, removal of invasive species, and hands-on trail maintenance, with a total of 217 participants annually.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Environmental aspects > Biodiversity activities",
+        "status": "current",
+        "indicators": "217 participants annually",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: nonprofit partnership with participant figures, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Paid volunteer leave for all employees used for local volunteer service",
+        "quote": "Every Advantech employee is entitled to 2-day paid volunteer leave per year.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 5. Volunteer Activities",
+        "status": "current",
+        "indicators": "2-day paid volunteer leave per year",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: company-wide volunteering program"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Global APEX talent development program for high-potential employees",
+        "quote": "In 2025, two global APEX programs were held, with a total of 64 high-potential participants from both domestic and international operations.",
+        "source_doc": "filing",
+        "section": "Annual report > IV. Operational Highlights > 5. Labor-Employer Relation > Employee Training and Development > Global APEX Program",
+        "status": "current",
+        "indicators": "two global APEX programs; 64 high-potential participants",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Cultural diversity and multinational-team communication training",
+        "quote": "To strengthen communication and collaboration in a multicultural workplace, Advantech organized two specialized training sessions in 2025, featuring external speakers who shared practical experiences in managing multinational teams.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > DEI & Workplace Soft Skills > iii. Cultural Diversity & Communication Training",
+        "status": "current",
+        "indicators": "two specialized training sessions; 66 participants",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific internal cross-cultural program, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Inclusive leadership training for managers",
+        "quote": "In 2025, a total of four sessions were conducted, with 136 mid- to senior-level managers participating.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > DEI & Workplace Soft Skills > i. Cross-Generational & Inclusive Leadership Development",
+        "status": "current",
+        "indicators": "four sessions; 136 mid- to senior-level managers",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: inclusion training, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Global online seminar on women's career development and cross-cultural adaptation",
+        "quote": "In 2025, Advantech invited six mid- to senior-level professionals from six key global operating locations, representing diverse nationalities, roles, and backgrounds, to participate in a global online seminar.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > DEI & Workplace Soft Skills > ii. Gender & Career Development",
+        "status": "current",
+        "indicators": "six mid- to senior-level professionals; six key global operating locations; 139 managers and employees",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: single inclusion event, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "Official leave for Indigenous employees to attend cultural events",
+        "quote": "Indigenous employees are granted official leave for cultural events (e.g., harvest festivals) in accordance with labor regulations.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Human Rights Risk Mitigation and Remediation > Indigenous Peoples",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: inclusive benefit, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Special support projects for foreign colleagues, including cultural fusion",
+        "quote": "Special projects are implemented for the selection, training, employment, retention, cultural fusion, health, and safety of foreign colleagues.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Diversity and equality in the workplace",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific practice for foreign employees, no figures"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Disclosure of female workforce and supervisor shares",
+        "quote": "The average proportion of female employees in the Company accounted for 42.3% in 2025, and the average proportion of female supervisors accounted for 22.1%.",
+        "source_doc": "filing",
+        "section": "Annual report > II. Corporate Governance Report > Sustainable development > Diversity and equality in the workplace",
+        "status": "current",
+        "indicators": "42.3% female employees; 22.1% female supervisors",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 2: a current arts and culture sponsorship with dollars disclosed but no named program or reach figures; the core business is industrial computing, and product design awards are only a routine design input."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7"
+        ],
+        "reason": "Level 3: named external education programs (for example, AIoT Inno works with 1,440 students from 122 universities) and community investment with dollar and participant figures, but they are not large enough relative to the business to reach level 4."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E8",
+          "E9",
+          "E10",
+          "E11",
+          "E12"
+        ],
+        "reason": "Level 2: specific internal inclusion practices (cultural diversity and inclusive leadership training, Indigenous cultural leave, foreign-colleague projects) whose reach is limited to small participant numbers."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only, namely the company's own innovation and links to 'startup ecosystems' by its strategy office, with no specific program that enables founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "The arts, education and public-welfare spending (E1) is made by the Advantech Foundation, a non-profit shareholder chaired by the company chairman. The annual report presents it as part of the company's social activities. E2–E4 are components of a total of NT$51,577,293 spent on industry-academia collaboration in 2025. The university research co-creation projects (NT$29 million, 11 projects) were excluded as company R&D rather than external education. The iF Design awards and Aures 'design capabilities' refer to product design, which counts only as a routine input. On page 102 the report expands DEI inconsistently, as 'Demand, Innovation, and Integrity'; elsewhere it uses Diversity, Equity, Inclusion. The report states 'Zero reported cases of discrimination or harassment in 2025', so there are no internal or external rights findings."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"2395.TW\",\"sector\":\"Information Technology\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Advantech Foundation funds arts and culture promotion, sustainable education and public welfare\",\"quote\":\"An amount of NT$14,958,767 was expensed for arts and culture promotion in 2025; an amount of NT$11,705,796 was expensed for sustainable education, and an amount of NT$16,820,482 was expensed for public welfare.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 4. Sustainable innovative education and support to arts\",\"status\":\"current\",\"indicators\":\"NT$14,958,767 arts and culture; NT$11,705,796 sustainable education; NT$16,820,482 public welfare\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: arts and culture sponsorship with dollars spent but no named program or reach figures\"},\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment in education and public welfare with disclosed dollars\"}}},{\"id\":\"E2\",\"activity\":\"AIoT Inno works developer program for university students worldwide\",\"quote\":\"An amount more than NT$8.7 million was invested in AIoT Inno works developer program with 1,440 students recruited from 122 universities in 6 countries around the world to participate and 360 projects completed.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 3. IoT and industry-Academia Cooperation Education\",\"status\":\"current\",\"indicators\":\"NT$8.7 million; 1,440 students; 122 universities; 6 countries; 360 projects\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with participant and dollar figures\"}}},{\"id\":\"E3\",\"activity\":\"AIoT Academy IoT higher-education and certification courses run on university campuses\",\"quote\":\"A total of more than 3,500 WISE-IoTSuite technical certificates were issued in campus collaboration in 2021~2025.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 3. IoT and industry-Academia Cooperation Education\",\"status\":\"current\",\"indicators\":\"more than 3,500 WISE-IoTSuite technical certificates (2021~2025); NT$2.85 million; 5 IoT seminars\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named campus education and certification program with figures\"}}},{\"id\":\"E4\",\"activity\":\"Elite 100 Internship Program for students\",\"quote\":\"An amount around NT$4.08 million was invested in the Elite 100 Internship Program.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 3. IoT and industry-Academia Cooperation Education\",\"status\":\"current\",\"indicators\":\"NT$4.08 million; 26 interns\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: named internship program, limited reach\"}}},{\"id\":\"E5\",\"activity\":\"Partnership with Society of Wilderness on wetland conservation with eco-tours and volunteer courses\",\"quote\":\"Outcomes include: guided eco-tours, biodiversity volunteer courses, removal of invasive species, and hands-on trail maintenance, with a total of 217 participants annually.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Environmental aspects > Biodiversity activities\",\"status\":\"current\",\"indicators\":\"217 participants annually\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: nonprofit partnership with participant figures, limited reach\"}}},{\"id\":\"E6\",\"activity\":\"Paid volunteer leave for all employees used for local volunteer service\",\"quote\":\"Every Advantech employee is entitled to 2-day paid volunteer leave per year.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > 5. Volunteer Activities\",\"status\":\"current\",\"indicators\":\"2-day paid volunteer leave per year\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: company-wide volunteering program\"}}},{\"id\":\"E7\",\"activity\":\"Global APEX talent development program for high-potential employees\",\"quote\":\"In 2025, two global APEX programs were held, with a total of 64 high-potential participants from both domestic and international operations.\",\"source_doc\":\"filing\",\"section\":\"Annual report > IV. Operational Highlights > 5. Labor-Employer Relation > Employee Training and Development > Global APEX Program\",\"status\":\"current\",\"indicators\":\"two global APEX programs; 64 high-potential participants\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E8\",\"activity\":\"Cultural diversity and multinational-team communication training\",\"quote\":\"To strengthen communication and collaboration in a multicultural workplace, Advantech organized two specialized training sessions in 2025, featuring external speakers who shared practical experiences in managing multinational teams.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > DEI & Workplace Soft Skills > iii. Cultural Diversity & Communication Training\",\"status\":\"current\",\"indicators\":\"two specialized training sessions; 66 participants\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific internal cross-cultural program, limited reach\"}}},{\"id\":\"E9\",\"activity\":\"Inclusive leadership training for managers\",\"quote\":\"In 2025, a total of four sessions were conducted, with 136 mid- to senior-level managers participating.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > DEI & Workplace Soft Skills > i. Cross-Generational & Inclusive Leadership Development\",\"status\":\"current\",\"indicators\":\"four sessions; 136 mid- to senior-level managers\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: inclusion training, limited reach\"}}},{\"id\":\"E10\",\"activity\":\"Global online seminar on women's career development and cross-cultural adaptation\",\"quote\":\"In 2025, Advantech invited six mid- to senior-level professionals from six key global operating locations, representing diverse nationalities, roles, and backgrounds, to participate in a global online seminar.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Social Aspects > DEI & Workplace Soft Skills > ii. Gender & Career Development\",\"status\":\"current\",\"indicators\":\"six mid- to senior-level professionals; six key global operating locations; 139 managers and employees\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: single inclusion event, limited reach\"}}},{\"id\":\"E11\",\"activity\":\"Official leave for Indigenous employees to attend cultural events\",\"quote\":\"Indigenous employees are granted official leave for cultural events (e.g., harvest festivals) in accordance with labor regulations.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Human Rights Risk Mitigation and Remediation > Indigenous Peoples\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: inclusive benefit, no reach figures\"}}},{\"id\":\"E12\",\"activity\":\"Special support projects for foreign colleagues, including cultural fusion\",\"quote\":\"Special projects are implemented for the selection, training, employment, retention, cultural fusion, health, and safety of foreign colleagues.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Diversity and equality in the workplace\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific practice for foreign employees, no figures\"}}},{\"id\":\"E13\",\"activity\":\"Disclosure of female workforce and supervisor shares\",\"quote\":\"The average proportion of female employees in the Company accounted for 42.3% in 2025, and the average proportion of female supervisors accounted for 22.1%.\",\"source_doc\":\"filing\",\"section\":\"Annual report > II. Corporate Governance Report > Sustainable development > Diversity and equality in the workplace\",\"status\":\"current\",\"indicators\":\"42.3% female employees; 22.1% female supervisors\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\"],\"reason\":\"Level 2: a current arts and culture sponsorship with dollars disclosed but no named program or reach figures; the core business is industrial computing, and product design awards are only a routine design input.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\",\"E5\",\"E6\",\"E7\"],\"reason\":\"Level 3: named external education programs (for example, AIoT Inno works with 1,440 students from 122 universities) and community investment with dollar and participant figures, but they are not large enough relative to the business to reach level 4.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E8\",\"E9\",\"E10\",\"E11\",\"E12\"],\"reason\":\"Level 2: specific internal inclusion practices (cultural diversity and inclusive leadership training, Indigenous cultural leave, foreign-colleague projects) whose reach is limited to small participant numbers.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only, namely the company's own innovation and links to 'startup ecosystems' by its strategy office, with no specific program that enables founders or small businesses.\"}},\"red_flags\":[],\"notes\":\"The arts, education and public-welfare spending (E1) is made by the Advantech Foundation, a non-profit shareholder chaired by the company chairman. The annual report presents it as part of the company's social activities. E2–E4 are components of a total of NT$51,577,293 spent on industry-academia collaboration in 2025. The university research co-creation projects (NT$29 million, 11 projects) were excluded as company R&D rather than external education. The iF Design awards and Aures 'design capabilities' refer to product design, which counts only as a routine input. On page 102 the report expands DEI inconsistently, as 'Demand, Innovation, and Integrity'; elsewhere it uses Diversity, Equity, Inclusion. The report states 'Zero reported cases of discrimination or harassment in 2025', so there are no internal or external rights findings.\"}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 86982,
+      "output_tokens": 9803,
+      "duration_ms": 83920
+    }
+  ]
+}

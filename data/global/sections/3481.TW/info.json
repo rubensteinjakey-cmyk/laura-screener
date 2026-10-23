@@ -1,0 +1,32 @@
+{
+  "ticker": "3481.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "MOPS",
+  "fiscal_year": 2025,
+  "url": "https://doc.twse.com.tw/pdf/2025_3481_20260527FE4_20261024_015318.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 22968,
+    "Annual report: keyword paragraphs from the rest": 14025
+  },
+  "notes": [],
+  "people_words": 6101,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to Shareholders (pages 3-10)",
+    "Capital Overview (pages 84-88)",
+    "Employee Stock Options (pages 89-89)",
+    "New Restricted Employee Shares (pages 90-90)",
+    "Operational Highlights (pages 91-104)",
+    "Market and Sales Overview (pages 105-111)",
+    "Human Resources (pages 112-121)"
+  ],
+  "chapters_skipped": [
+    "Analysis of Cash Flow",
+    "Analysis of Risk Management",
+    "Remuneration of Directors, President, and Vice President",
+    "Review of Financial Conditions, Operating Results, and Risk Management"
+  ],
+  "words_sent": 37013
+}

@@ -1,0 +1,210 @@
+{
+  "ticker": "DNORD.CO",
+  "company_name": "D/S Norden",
+  "country": "Denmark",
+  "sector": "Industrials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/ac6824c31a47a615477d702aedbbdb9ad#esef",
+  "english": true,
+  "words_sent": 19517,
+  "prompt_chars": 152792,
+  "approx_prompt_tokens": 38198,
+  "scored_at": "2026-10-23T17:57:50",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sponsors maritime cadets from West Africa at a regional maritime academy, with training voyages aboard company vessels",
+        "quote": "As part of this regional approach, NORDEN, in partnership with Orient’s Fond, has sponsored 12 cadets at the Regional Academy of Marine Sciences and Technologies (ARSTM).",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > Environmental > Case story: Developing local talent and opportunity in Gabon",
+        "status": "current",
+        "indicators": "12 cadets",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific current external education programme, limited in reach (12 cadets)"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Two-year trainee programme developed with Danish Shipping Education across several offices",
+        "quote": "Our two-year programme, developed in collaboration with Danish Shipping Education, provides hands-on experience across multiple NORDEN locations.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > Social > ESRS S1 Own workforce",
+        "status": "current",
+        "indicators": "10 trainees",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Leadership Essentials development programme for all managers",
+        "quote": "All managers across levels and locations were trained in 2025 over multiple days.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > Social > ESRS S1 Own workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "NORDEN Days, a company-wide week of learning and knowledge sharing for all employees",
+        "quote": "Through interactive sessions focused on collaboration through the NORDEN value chain, employees deepened their understanding of how individual contributions drive collective results.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > ESG at NORDEN > S: People are our most important resource",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Bias-mitigating recruitment practices, including diverse panels and a bias-awareness guide",
+        "quote": "To support this, we use diverse recruitment panels, predefined criteria, a bias-awareness guide and a semi-structured interview process.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > Social > ESRS S1 Own workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current inclusive workplace practice with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Participates in Women in Shipping industry network, with CEO as advisory member and an employee as board member",
+        "quote": "On an industry level, NORDEN aims to empower the diversity agenda through Women in Shipping (WIS), a professional network with the aim of achieving more diversity and equality within the industry.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > Social > ESRS S1 Own workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "connecting_communities",
+            "criterion": "level 2: specific current participation in an industry inclusion network, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Awareness and training sessions on collaboration and psychological safety in a multicultural workforce",
+        "quote": "Cross-cultural understanding and respect are crucial in a multicultural environment, which is why we in 2025 further enhanced awareness and training sessions on how to foster a strong feedback culture, effective collaboration and unlock the potential of psychological safety for all employees and managers.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > Social > ESRS S1 Own workforce",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific current internal practice with no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Workforce nationality statistics",
+        "quote": "NORDEN employees represented 50 different nationalities in 2025 and the percentage of non-Danish employees has stayed the same as in 2024, at 59%.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > Social > ESRS S1 Own workforce",
+        "status": "current",
+        "indicators": "50 different nationalities, 59%",
+        "themes": {
+          "cross_cultural": {
+            "kind": "demographics_only",
+            "criterion": "level 1: demographic statistics only"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Minority stake in, and collaboration with, renewable-fuel company MASH Makes to validate fuels for its own operations",
+        "quote": "NORDEN acquired a minority stake in MASH Makes in 2023 and has since worked closely with the company to validate renewable fuels for maritime applications.",
+        "source_doc": "filing",
+        "section": "Annual report > Sustainability statement > ESG at NORDEN > E: Delivering on the decarbonisation agenda",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: strategic investment serving the company's own innovation, not an enabling programme"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the report fully describes an ocean freight and port logistics business with no creative activity ('innovative design' of vessels is engineering design, a trap)."
+      },
+      "community": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3",
+          "E4"
+        ],
+        "reason": "Level 2: a specific external cadet sponsorship of limited reach (12 cadets) plus employee development programmes; the reach is not substantial enough for level 3."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E5",
+          "E6",
+          "E7",
+          "E8"
+        ],
+        "reason": "Level 2: specific current internal inclusion practices and an industry diversity network role, with no reach figures beyond workforce demographics."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E9"
+        ],
+        "reason": "Level 1: only the company's own innovation and a strategic startup stake; there is no programme enabling founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "Final score = 0 + 12 + 8 + 3 = 23/100. Contradiction: the corporate governance section (p.38) says the 40% board gender target for 2025 is not met at 33%, while the Gender Balance Act table (p.71-72) states a 33% target that is met. The cadet programme also has 'four cadets' completing voyages, but that figure sits in a separate paragraph and was not used as an indicator. S3 Affected Communities was assessed as non-material. Coal appears only as a dry bulk cargo the company transports; it is not mining or coal power, so it is not a red flag. Whistleblower and harassment surveys are mentioned without any disclosed substantiated cases."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"DNORD.CO\",\"sector\":\"Industrials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: selected chapters\",\"Annual report: keyword paragraphs from the rest\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sponsors maritime cadets from West Africa at a regional maritime academy, with training voyages aboard company vessels\",\"quote\":\"As part of this regional approach, NORDEN, in partnership with Orient’s Fond, has sponsored 12 cadets at the Regional Academy of Marine Sciences and Technologies (ARSTM).\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > Environmental > Case story: Developing local talent and opportunity in Gabon\",\"status\":\"current\",\"indicators\":\"12 cadets\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific current external education programme, limited in reach (12 cadets)\"}}},{\"id\":\"E2\",\"activity\":\"Two-year trainee programme developed with Danish Shipping Education across several offices\",\"quote\":\"Our two-year programme, developed in collaboration with Danish Shipping Education, provides hands-on experience across multiple NORDEN locations.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > Social > ESRS S1 Own workforce\",\"status\":\"current\",\"indicators\":\"10 trainees\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E3\",\"activity\":\"Leadership Essentials development programme for all managers\",\"quote\":\"All managers across levels and locations were trained in 2025 over multiple days.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > Social > ESRS S1 Own workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E4\",\"activity\":\"NORDEN Days, a company-wide week of learning and knowledge sharing for all employees\",\"quote\":\"Through interactive sessions focused on collaboration through the NORDEN value chain, employees deepened their understanding of how individual contributions drive collective results.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > ESG at NORDEN > S: People are our most important resource\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E5\",\"activity\":\"Bias-mitigating recruitment practices, including diverse panels and a bias-awareness guide\",\"quote\":\"To support this, we use diverse recruitment panels, predefined criteria, a bias-awareness guide and a semi-structured interview process.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > Social > ESRS S1 Own workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current inclusive workplace practice with no reach figures\"}}},{\"id\":\"E6\",\"activity\":\"Participates in Women in Shipping industry network, with CEO as advisory member and an employee as board member\",\"quote\":\"On an industry level, NORDEN aims to empower the diversity agenda through Women in Shipping (WIS), a professional network with the aim of achieving more diversity and equality within the industry.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > Social > ESRS S1 Own workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"connecting_communities\",\"criterion\":\"level 2: specific current participation in an industry inclusion network, limited reach\"}}},{\"id\":\"E7\",\"activity\":\"Awareness and training sessions on collaboration and psychological safety in a multicultural workforce\",\"quote\":\"Cross-cultural understanding and respect are crucial in a multicultural environment, which is why we in 2025 further enhanced awareness and training sessions on how to foster a strong feedback culture, effective collaboration and unlock the potential of psychological safety for all employees and managers.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > Social > ESRS S1 Own workforce\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific current internal practice with no reach figures\"}}},{\"id\":\"E8\",\"activity\":\"Workforce nationality statistics\",\"quote\":\"NORDEN employees represented 50 different nationalities in 2025 and the percentage of non-Danish employees has stayed the same as in 2024, at 59%.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > Social > ESRS S1 Own workforce\",\"status\":\"current\",\"indicators\":\"50 different nationalities, 59%\",\"themes\":{\"cross_cultural\":{\"kind\":\"demographics_only\",\"criterion\":\"level 1: demographic statistics only\"}}},{\"id\":\"E9\",\"activity\":\"Minority stake in, and collaboration with, renewable-fuel company MASH Makes to validate fuels for its own operations\",\"quote\":\"NORDEN acquired a minority stake in MASH Makes in 2023 and has since worked closely with the company to validate renewable fuels for maritime applications.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sustainability statement > ESG at NORDEN > E: Delivering on the decarbonisation agenda\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"own_innovation\",\"criterion\":\"level 1: strategic investment serving the company's own innovation, not an enabling programme\"}}}],\"themes\":{\"creativity\":{\"score\":0,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 0: the report fully describes an ocean freight and port logistics business with no creative activity ('innovative design' of vessels is engineering design, a trap).\"},\"community\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\",\"E4\"],\"reason\":\"Level 2: a specific external cadet sponsorship of limited reach (12 cadets) plus employee development programmes; the reach is not substantial enough for level 3.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E5\",\"E6\",\"E7\",\"E8\"],\"reason\":\"Level 2: specific current internal inclusion practices and an industry diversity network role, with no reach figures beyond workforce demographics.\"},\"entrepreneurship\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E9\"],\"reason\":\"Level 1: only the company's own innovation and a strategic startup stake; there is no programme enabling founders or small businesses.\"}},\"notes\":\"Final score = 0 + 12 + 8 + 3 = 23/100. Contradiction: the corporate governance section (p.38) says the 40% board gender target for 2025 is not met at 33%, while the Gender Balance Act table (p.71-72) states a 33% target that is met. The cadet programme also has 'four cadets' completing voyages, but that figure sits in a separate paragraph and was not used as an indicator. S3 Affected Communities was assessed as non-material. Coal appears only as a dry bulk cargo the company transports; it is not mining or coal power, so it is not a red flag. Whistleblower and harassment surveys are mentioned without any disclosed substantiated cases.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 56082,
+      "output_tokens": 6392,
+      "duration_ms": 54382
+    }
+  ]
+}

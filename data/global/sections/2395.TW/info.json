@@ -1,0 +1,29 @@
+{
+  "ticker": "2395.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "MOPS",
+  "fiscal_year": 2025,
+  "url": "https://doc.twse.com.tw/pdf/2025_2395_20260529FE4_20261024_015050.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 6709,
+    "Annual report: keyword paragraphs from the rest": 23578
+  },
+  "notes": [],
+  "people_words": 3123,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Capital Overview (pages 139-144)",
+    "Employee Stock Options (pages 146-146)",
+    "New Restricted Employee Shares (pages 147-147)",
+    "Operational Highlights (pages 148-154)",
+    "Employee information (pages 164-168)"
+  ],
+  "chapters_skipped": [
+    "Remuneration of Directors, Pre sidents, and Vice Presidents  2",
+    "Review of Financial Condition s, Operating Results , and Risk Management",
+    "Risk analysis and evaluation:"
+  ],
+  "words_sent": 30307
+}

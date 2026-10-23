@@ -1,0 +1,383 @@
+{
+  "ticker": "BBNI.JK",
+  "company_name": "Bank Negara Indonesia",
+  "country": "Indonesia",
+  "sector": "Financials",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.bni.co.id/Portals/1/BNI/Perusahaan/HubunganInvestor/Docs/BNI-AR-2025-IND.pdf",
+  "english": false,
+  "words_sent": 41096,
+  "prompt_chars": 345709,
+  "approx_prompt_tokens": 86427,
+  "scored_at": "2026-10-23T18:06:21",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Title sponsorship of the BNI Java Jazz Festival 2025 music festival, run alongside customer promotions",
+        "quote": "Sebagai bagian dukungan BNI dalam event International BNI Java Jazz Festival 2025, BNI menyiapkan deretan promo menarik selama festival musik terbesar di Asia Tenggara tersebut berlangsung.",
+        "quote_en": "As part of BNI's support for the International BNI Java Jazz Festival 2025, BNI prepared a series of attractive promotions during the largest music festival in Southeast Asia.",
+        "source_doc": "filing",
+        "section": "Annual report > Peristiwa Penting 2025 > 30 Mei - 1 Juni BNI Java Jazz Festival 2025",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: single arts (music festival) sponsorship, limited disclosed reach"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Support for the Indonesian film industry through a collaboration on the film TIMUR (press-release headline only)",
+        "quote": "BNI Dukung Industri Film Nasional Lewat Kolaborasi dengan Iko Uwais di Film TIMUR",
+        "quote_en": "BNI supports the national film industry through a collaboration with Iko Uwais on the film TIMUR",
+        "source_doc": "filing",
+        "section": "Annual report > Tata Kelola Perusahaan > Akses Informasi > Siaran Pers 2025",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "creativity": {
+            "kind": "enables",
+            "criterion": "level 2: specific current support for film production, limited detail and reach"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Character-education program for schools and international English certification for teachers in West Nusa Tenggara",
+        "quote": "Program ini menjangkau 10 sekolah di Lombok dengan melibatkan 3.400 siswa, 150 guru, dan 390 orang tua melalui penguatan pendidikan karakter yang menekankan sinergi antara sekolah dan keluarga.",
+        "quote_en": "The program reached 10 schools in Lombok, involving 3,400 students, 150 teachers and 390 parents, by strengthening character education that emphasizes synergy between school and family.",
+        "source_doc": "filing",
+        "section": "Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Pendidikan",
+        "status": "current",
+        "indicators": "10 sekolah; 3.400 siswa; 150 guru; 390 orang tua",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Scholarship program for students",
+        "quote": "Sebagai bagian dari komitmen BNI dalam mendukung peningkatan akses dan keberlanjutan pendidikan, sepanjang tahun 2025 BNI menyalurkan program beasiswa kepada 786 penerima.",
+        "quote_en": "As part of BNI's commitment to improving access to and continuity of education, during 2025 BNI provided scholarships to 786 recipients.",
+        "source_doc": "filing",
+        "section": "Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Beasiswa",
+        "status": "current",
+        "indicators": "786 penerima",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: scholarships with recipient numbers"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Building, renovating and equipping schools and educational institutions",
+        "quote": "Pada tahun 2025, BNI berkontribusi dalam peningkatan kualitas pendidikan melalui penyaluran bantuan kepada 127 sekolah dan instansi pendidikan di berbagai wilayah kerja BNI, meliputi pembangunan dan renovasi gedung sekolah, ruang kelas, serta laboratorium, penyediaan sarana dan prasarana pendukung pembelajaran, alat peraga edukatif, dan taman baca.",
+        "quote_en": "In 2025, BNI contributed to better education quality by providing assistance to 127 schools and educational institutions across its working areas, including building and renovating school buildings, classrooms and laboratories, and providing learning facilities, teaching aids and reading gardens.",
+        "source_doc": "filing",
+        "section": "Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Sarana Prasarana Pendidikan",
+        "status": "current",
+        "indicators": "127 sekolah dan instansi pendidikan",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment in schools with numbers"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Total Social and Environmental Responsibility (TJSL) community spending",
+        "quote": "Pada tahun 2025, total realisasi anggaran TJSL mencapai Rp1 16,82 miliar, naik/turun dari tahun sebelumnya sebesar Rp129,9 miliar, mencerminkan komitmen BNI dalam menciptakan dampak positif yang berkelanjutan.",
+        "quote_en": "In 2025, total realized TJSL (CSR) spending reached Rp116.82 billion, up/down from the previous year's Rp129.9 billion, reflecting BNI's commitment to sustainable positive impact.",
+        "source_doc": "filing",
+        "section": "Annual report > Tata Kelola Perusahaan > Penyediaan Dana untuk Kegiatan Sosial dan Politik",
+        "status": "current",
+        "indicators": "Rp1 16,82 miliar (2025); Rp129,9 miliar (prior year)",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community investment with disclosed dollar amount"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Rumah BUMN centres providing training, coaching and licensing help to micro and small entrepreneurs",
+        "quote": "Saat ini, BNI memiliki 23 Rumah BUMN yang merupakan tempat pengembangan usaha bagi lebih dari 6.908 pelaku UMK dan telah mendapatkan 507 kali pelatihan serta membantu mendapatkan izin legalitas sebanyak 5.512 perizinan (PIRT , NIB, Sertifikat Halal, BPOM).",
+        "quote_en": "BNI currently has 23 Rumah BUMN, business development centres for more than 6,908 micro and small entrepreneurs, which have received 507 training sessions and help obtaining 5,512 legal permits (PIRT, NIB, Halal certificates, BPOM).",
+        "source_doc": "filing",
+        "section": "Annual report > Tanggung Jawab Sosial dan Lingkungan > Pilar Ekonomi > Dukungan untuk Pertumbuhan Ekonomi Masyarakat > Rumah BUMN",
+        "status": "current",
+        "indicators": "23 Rumah BUMN; 6.908 pelaku UMK; 507 kali pelatihan; 5.512 perizinan",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named free coaching/training program with number of businesses helped"
+          },
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external skills-training program with participant and session numbers"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Employee volunteering program through the BNI Hi Movers community",
+        "quote": "Pada tahun 2025, tingkat keterlibatan karyawan melalui komunitas BNI Hi Movers dalam Program Employee Volunteering mencapai 96% dari total pegawai BNI, yang mencerminkan tingginya partisipasi, kepedulian sosial, serta internalisasi nilai keberlanjutan sebagai bagian dari budaya perusahaan.",
+        "quote_en": "In 2025, employee participation in the Employee Volunteering Program through the BNI Hi Movers community reached 96% of all BNI employees, reflecting high participation, social concern and internalized sustainability values.",
+        "source_doc": "filing",
+        "section": "Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Employee Volunteering Program",
+        "status": "current",
+        "indicators": "96% dari total pegawai BNI",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: volunteering with participation figures"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Company-wide employee training through BNI Corporate University",
+        "quote": "Sepanjang tahun 2025, BNI telah menyelenggarakan berbagai program pendidikan dan pelatihan yang diikuti oleh 26.937 pegawai atau setara dengan 99,96% dari total pegawai BNI.",
+        "quote_en": "During 2025, BNI ran various education and training programs attended by 26,937 employees, or 99.96% of all BNI employees.",
+        "source_doc": "filing",
+        "section": "Annual report > Komitmen ESG > Pengembangan Sumber Daya Manusia > Praktik",
+        "status": "current",
+        "indicators": "26.937 pegawai; 99,96%; 146,7 jam/pegawai",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Grants to places of worship of various religions",
+        "quote": "Pada tahun 2025, BNI telah menyalurkan bantuan kepada 142 sarana ibadah dari berbagai agama yang tersebar di berbagai wilayah kerja BNI.",
+        "quote_en": "In 2025, BNI provided assistance to 142 places of worship of various religions across BNI's working areas.",
+        "source_doc": "filing",
+        "section": "Annual report > Tanggung Jawab Sosial dan Lingkungan > Dukungan untuk Kota dan Pemukiman > Sarana Ibadah",
+        "status": "current",
+        "indicators": "142 sarana ibadah",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: community grants with numbers"
+          }
+        }
+      },
+      {
+        "id": "E11",
+        "activity": "BNI Agen46 branchless-banking agent network extending financial services to remote and underserved (3T) regions",
+        "quote": "Dalam rangka memperluas jangkauan, BNI memiliki 217 .013 Agen46 dengan 28.177 Agen atau sekitar 13% berada di wilayah 3T BNI Agen46 yang merupakan mitra BNI dalam menyediakan layanan perbankan kepada masyarakat dalam rangka keuangan inklusif.",
+        "quote_en": "To expand reach, BNI has 217,013 Agen46 agents, of which 28,177 (about 13%) are in frontier, outermost and disadvantaged (3T) regions; Agen46 are BNI partners providing banking services to the public for financial inclusion.",
+        "source_doc": "filing",
+        "section": "Annual report > Komitmen ESG > Inklusi Keuangan > BNI Agen46",
+        "status": "current",
+        "indicators": "217 .013 Agen46; 28.177 Agen; sekitar 13% di wilayah 3T",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 3: named access service for underserved communities with measured reach"
+          }
+        }
+      },
+      {
+        "id": "E12",
+        "activity": "Support for 10 small businesses run by people with disabilities, with the Ministry of Social Affairs",
+        "quote": "BNI juga berkolaborasi dengan Kementerian Sosial Republik Indonesia dalam memberikan dukungan kepada 10 UMKM disabilitas, berupa bantuan peralatan usaha, pendampingan pengembangan usaha, pendampingan pengelolaan media sosial, serta penyediaan alat bantu disabilitas.",
+        "quote_en": "BNI also worked with the Ministry of Social Affairs to support 10 MSMEs run by people with disabilities, with business equipment, business development mentoring, social media coaching and assistive devices.",
+        "source_doc": "filing",
+        "section": "Annual report > Tanggung Jawab Sosial dan Lingkungan > Pilar Ekonomi > Pemberdayaan Penyandang Disabilitas",
+        "status": "current",
+        "indicators": "10 UMKM disabilitas",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: specific program for people with disabilities, limited reach"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: coaching and equipment for underserved business owners, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E13",
+        "activity": "Capacity building and financial literacy for Indonesian migrant workers (PMI) in Hong Kong via BNI Remittance",
+        "quote": "BNI Remittance juga aktif terlibat dalam beberapa kegiatan dengan PMI seperti capacity building , literasi keuangan, kunjungan ke komunitas-komunitas PMI di Hong Kong, dan lain sebagainya.",
+        "quote_en": "BNI Remittance is also actively involved in activities with Indonesian migrant workers (PMI), such as capacity building, financial literacy and visits to PMI communities in Hong Kong.",
+        "source_doc": "filing",
+        "section": "Annual report > Analisis dan Pembahasan > Perusahaan Anak > BNI Remittance",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "customer_access",
+            "criterion": "level 2: services for migrant workers, no figures"
+          }
+        }
+      },
+      {
+        "id": "E14",
+        "activity": "BNI Xpora program helping MSMEs export (financing, business matching, training modules, legal setup)",
+        "quote": "Hingga 31 Desember 2025, program BNI Xpora telah mendorong 12.094 pelaku UMKM untuk meraih pasar global.",
+        "quote_en": "As of 31 December 2025, the BNI Xpora program has helped 12,094 MSMEs reach global markets.",
+        "source_doc": "filing",
+        "section": "Annual report > Fungsi Penunjang Bisnis > Teknologi Informasi > BNI Xpora",
+        "status": "current",
+        "indicators": "12.094 pelaku UMKM; Rp35,0 triliun kredit ekspor UMKM",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named enabling program with number of businesses helped"
+          }
+        }
+      },
+      {
+        "id": "E15",
+        "activity": "Launch of hi by hibank app for MSME business management, financing and development",
+        "quote": "Pada tahun 2025, hibank secara resmi meluncurkan aplikasi mobile banking hi by hibank sebagai solusi digital terintegrasi yang dirancang khusus untuk mendukung digitalisasi serta pengembangan UMKM di Indonesia.",
+        "quote_en": "In 2025, hibank officially launched the hi by hibank mobile banking app as an integrated digital solution designed specifically to support the digitalization and development of MSMEs in Indonesia.",
+        "source_doc": "filing",
+        "section": "Annual report > Profil Perusahaan > Perusahaan Anak > PT Bank Hibank Indonesia",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: business software built for small businesses, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E16",
+        "activity": "BNIdirect bisnis digital banking platform designed for MSMEs",
+        "quote": "Salah satu inovasi utama yang diluncurkan pada Agustus 2025 adalah BNIdirect bisnis, sebuah platform digital yang dirancang khusus untuk merangkul dan mempermudah bisnis berskala UMKM agar dapat menikmati layanan perbankan digital yang setara dengan perusahaan korporasi.",
+        "quote_en": "A key innovation launched in August 2025 is BNIdirect bisnis, a digital platform designed specifically to bring MSME-scale businesses digital banking services on par with corporations.",
+        "source_doc": "filing",
+        "section": "Annual report > Analisis dan Pembahasan > Corporate Banking > Keunggulan Kompetitif dan Inovasi",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: business tool built for small businesses, no user figures"
+          }
+        }
+      },
+      {
+        "id": "E17",
+        "activity": "BNI Ventures BNV Arcade startup acceleration and incubation program",
+        "quote": "Dalam rangkaian aktivitas tersebut, BNI Ventures menyelenggarakan program akselerasi dan inkubasi dengan menggandeng mitra strategis, serta membuka pintu match-making antara perusahaan rintisan dengan unit bisnis terkait di BNI Group.",
+        "quote_en": "In these activities, BNI Ventures runs acceleration and incubation programs with strategic partners and opens match-making between startups and relevant BNI Group business units.",
+        "source_doc": "filing",
+        "section": "Annual report > Analisis dan Pembahasan > Perusahaan Anak > BNI Ventures",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: accelerator/incubator program, no reach figures"
+          }
+        }
+      },
+      {
+        "id": "E18",
+        "activity": "Government-subsidized People's Business Credit (KUR) for micro, small and medium businesses",
+        "quote": "Kredit Usaha Rakyat (KUR) merupakan program pembiayaan bersubsidi dari pemerintah yang dirancang untuk meningkatkan akses permodalan bagi Usaha Mikro, Kecil, dan Menengah (UMKM).",
+        "quote_en": "People's Business Credit (KUR) is a government-subsidized financing program designed to improve access to capital for micro, small and medium enterprises.",
+        "source_doc": "filing",
+        "section": "Annual report > Analisis dan Pembahasan > SME Business & Business Program",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 2: subsidized financing aimed at capital-access barriers for micro businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2"
+        ],
+        "reason": "Level 2: specific current creative support (a music festival sponsorship and a film collaboration) with limited disclosed scale."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E3",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9",
+          "E10"
+        ],
+        "reason": "Level 3: external education and community investment with substantial reach shown by indicators (Rp116.82bn TJSL, 786 scholarships, 127 schools, 3,400 students, 6,908 entrepreneurs trained)."
+      },
+      "cross_cultural": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E11",
+          "E12",
+          "E13"
+        ],
+        "reason": "Level 3: a named access service for underserved remote regions with measured reach (28,177 agents in 3T areas), plus disability and migrant-worker programs."
+      },
+      "entrepreneurship": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E7",
+          "E14",
+          "E12",
+          "E15",
+          "E16",
+          "E17",
+          "E18"
+        ],
+        "reason": "Level 3: named enabling programs with numbers of businesses helped (Xpora 12,094 MSMEs; Rumah BUMN 6,908 entrepreneurs), not shown as a distinct major business line with revenue."
+      }
+    },
+    "red_flags": [],
+    "notes": "Java Jazz sponsorship is framed largely as customer acquisition. The film TIMUR collaboration, the ICCF creative-ecosystem event and the animation-studio financing appear only as press-release headlines with no detail, so Creativity stays at 2. The TJSL sentence says 'naik/turun' (up/down), but the figures (Rp116.82bn vs Rp129.9bn) show a decrease. Training cost is given as Rp192,9 miliar in one place and Rp192,8 miliar in another. Government aid disbursements (PIP, Beasiswa Unggulan, teacher allowances) are BNI acting as a paying agent, not its own investment, so they are not counted. The SME segment credit (Rp78.7T) and ordinary SME lending count only as 'serving'. hibank reports applying DEIB principles, and an award cites a 'Diversity Inclusivity ESG Report', but no specific practice is described, so neither scored. Board diversity policy is boilerplate. Wondr Everywhere Beijing (diaspora event) was mainly marketing and was not scored. The training of 400 women weavers was not scored for Creativity (production capacity, unnamed program). Cross-cultural credit for Agen46 rests on its reach into remote 3T regions; reviewers may want to confirm that this fits the theme."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\":\"BBNI.JK\",\"sector\":\"Financials\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Title sponsorship of the BNI Java Jazz Festival 2025 music festival, run alongside customer promotions\",\"quote\":\"Sebagai bagian dukungan BNI dalam event International BNI Java Jazz Festival 2025, BNI menyiapkan deretan promo menarik selama festival musik terbesar di Asia Tenggara tersebut berlangsung.\",\"quote_en\":\"As part of BNI's support for the International BNI Java Jazz Festival 2025, BNI prepared a series of attractive promotions during the largest music festival in Southeast Asia.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Peristiwa Penting 2025 > 30 Mei - 1 Juni BNI Java Jazz Festival 2025\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: single arts (music festival) sponsorship, limited disclosed reach\"}}},{\"id\":\"E2\",\"activity\":\"Support for the Indonesian film industry through a collaboration on the film TIMUR (press-release headline only)\",\"quote\":\"BNI Dukung Industri Film Nasional Lewat Kolaborasi dengan Iko Uwais di Film TIMUR\",\"quote_en\":\"BNI supports the national film industry through a collaboration with Iko Uwais on the film TIMUR\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tata Kelola Perusahaan > Akses Informasi > Siaran Pers 2025\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"creativity\":{\"kind\":\"enables\",\"criterion\":\"level 2: specific current support for film production, limited detail and reach\"}}},{\"id\":\"E3\",\"activity\":\"Character-education program for schools and international English certification for teachers in West Nusa Tenggara\",\"quote\":\"Program ini menjangkau 10 sekolah di Lombok dengan melibatkan 3.400 siswa, 150 guru, dan 390 orang tua melalui penguatan pendidikan karakter yang menekankan sinergi antara sekolah dan keluarga.\",\"quote_en\":\"The program reached 10 schools in Lombok, involving 3,400 students, 150 teachers and 390 parents, by strengthening character education that emphasizes synergy between school and family.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Pendidikan\",\"status\":\"current\",\"indicators\":\"10 sekolah; 3.400 siswa; 150 guru; 390 orang tua\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with participant numbers\"}}},{\"id\":\"E4\",\"activity\":\"Scholarship program for students\",\"quote\":\"Sebagai bagian dari komitmen BNI dalam mendukung peningkatan akses dan keberlanjutan pendidikan, sepanjang tahun 2025 BNI menyalurkan program beasiswa kepada 786 penerima.\",\"quote_en\":\"As part of BNI's commitment to improving access to and continuity of education, during 2025 BNI provided scholarships to 786 recipients.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Beasiswa\",\"status\":\"current\",\"indicators\":\"786 penerima\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: scholarships with recipient numbers\"}}},{\"id\":\"E5\",\"activity\":\"Building, renovating and equipping schools and educational institutions\",\"quote\":\"Pada tahun 2025, BNI berkontribusi dalam peningkatan kualitas pendidikan melalui penyaluran bantuan kepada 127 sekolah dan instansi pendidikan di berbagai wilayah kerja BNI, meliputi pembangunan dan renovasi gedung sekolah, ruang kelas, serta laboratorium, penyediaan sarana dan prasarana pendukung pembelajaran, alat peraga edukatif, dan taman baca.\",\"quote_en\":\"In 2025, BNI contributed to better education quality by providing assistance to 127 schools and educational institutions across its working areas, including building and renovating school buildings, classrooms and laboratories, and providing learning facilities, teaching aids and reading gardens.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Sarana Prasarana Pendidikan\",\"status\":\"current\",\"indicators\":\"127 sekolah dan instansi pendidikan\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment in schools with numbers\"}}},{\"id\":\"E6\",\"activity\":\"Total Social and Environmental Responsibility (TJSL) community spending\",\"quote\":\"Pada tahun 2025, total realisasi anggaran TJSL mencapai Rp1 16,82 miliar, naik/turun dari tahun sebelumnya sebesar Rp129,9 miliar, mencerminkan komitmen BNI dalam menciptakan dampak positif yang berkelanjutan.\",\"quote_en\":\"In 2025, total realized TJSL (CSR) spending reached Rp116.82 billion, up/down from the previous year's Rp129.9 billion, reflecting BNI's commitment to sustainable positive impact.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tata Kelola Perusahaan > Penyediaan Dana untuk Kegiatan Sosial dan Politik\",\"status\":\"current\",\"indicators\":\"Rp1 16,82 miliar (2025); Rp129,9 miliar (prior year)\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community investment with disclosed dollar amount\"}}},{\"id\":\"E7\",\"activity\":\"Rumah BUMN centres providing training, coaching and licensing help to micro and small entrepreneurs\",\"quote\":\"Saat ini, BNI memiliki 23 Rumah BUMN yang merupakan tempat pengembangan usaha bagi lebih dari 6.908 pelaku UMK dan telah mendapatkan 507 kali pelatihan serta membantu mendapatkan izin legalitas sebanyak 5.512 perizinan (PIRT , NIB, Sertifikat Halal, BPOM).\",\"quote_en\":\"BNI currently has 23 Rumah BUMN, business development centres for more than 6,908 micro and small entrepreneurs, which have received 507 training sessions and help obtaining 5,512 legal permits (PIRT, NIB, Halal certificates, BPOM).\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tanggung Jawab Sosial dan Lingkungan > Pilar Ekonomi > Dukungan untuk Pertumbuhan Ekonomi Masyarakat > Rumah BUMN\",\"status\":\"current\",\"indicators\":\"23 Rumah BUMN; 6.908 pelaku UMK; 507 kali pelatihan; 5.512 perizinan\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named free coaching/training program with number of businesses helped\"},\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external skills-training program with participant and session numbers\"}}},{\"id\":\"E8\",\"activity\":\"Employee volunteering program through the BNI Hi Movers community\",\"quote\":\"Pada tahun 2025, tingkat keterlibatan karyawan melalui komunitas BNI Hi Movers dalam Program Employee Volunteering mencapai 96% dari total pegawai BNI, yang mencerminkan tingginya partisipasi, kepedulian sosial, serta internalisasi nilai keberlanjutan sebagai bagian dari budaya perusahaan.\",\"quote_en\":\"In 2025, employee participation in the Employee Volunteering Program through the BNI Hi Movers community reached 96% of all BNI employees, reflecting high participation, social concern and internalized sustainability values.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tanggung Jawab Sosial dan Lingkungan > Pelaksanaan Program TJSL > Employee Volunteering Program\",\"status\":\"current\",\"indicators\":\"96% dari total pegawai BNI\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: volunteering with participation figures\"}}},{\"id\":\"E9\",\"activity\":\"Company-wide employee training through BNI Corporate University\",\"quote\":\"Sepanjang tahun 2025, BNI telah menyelenggarakan berbagai program pendidikan dan pelatihan yang diikuti oleh 26.937 pegawai atau setara dengan 99,96% dari total pegawai BNI.\",\"quote_en\":\"During 2025, BNI ran various education and training programs attended by 26,937 employees, or 99.96% of all BNI employees.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Komitmen ESG > Pengembangan Sumber Daya Manusia > Praktik\",\"status\":\"current\",\"indicators\":\"26.937 pegawai; 99,96%; 146,7 jam/pegawai\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E10\",\"activity\":\"Grants to places of worship of various religions\",\"quote\":\"Pada tahun 2025, BNI telah menyalurkan bantuan kepada 142 sarana ibadah dari berbagai agama yang tersebar di berbagai wilayah kerja BNI.\",\"quote_en\":\"In 2025, BNI provided assistance to 142 places of worship of various religions across BNI's working areas.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tanggung Jawab Sosial dan Lingkungan > Dukungan untuk Kota dan Pemukiman > Sarana Ibadah\",\"status\":\"current\",\"indicators\":\"142 sarana ibadah\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: community grants with numbers\"}}},{\"id\":\"E11\",\"activity\":\"BNI Agen46 branchless-banking agent network extending financial services to remote and underserved (3T) regions\",\"quote\":\"Dalam rangka memperluas jangkauan, BNI memiliki 217 .013 Agen46 dengan 28.177 Agen atau sekitar 13% berada di wilayah 3T BNI Agen46 yang merupakan mitra BNI dalam menyediakan layanan perbankan kepada masyarakat dalam rangka keuangan inklusif.\",\"quote_en\":\"To expand reach, BNI has 217,013 Agen46 agents, of which 28,177 (about 13%) are in frontier, outermost and disadvantaged (3T) regions; Agen46 are BNI partners providing banking services to the public for financial inclusion.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Komitmen ESG > Inklusi Keuangan > BNI Agen46\",\"status\":\"current\",\"indicators\":\"217 .013 Agen46; 28.177 Agen; sekitar 13% di wilayah 3T\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 3: named access service for underserved communities with measured reach\"}}},{\"id\":\"E12\",\"activity\":\"Support for 10 small businesses run by people with disabilities, with the Ministry of Social Affairs\",\"quote\":\"BNI juga berkolaborasi dengan Kementerian Sosial Republik Indonesia dalam memberikan dukungan kepada 10 UMKM disabilitas, berupa bantuan peralatan usaha, pendampingan pengembangan usaha, pendampingan pengelolaan media sosial, serta penyediaan alat bantu disabilitas.\",\"quote_en\":\"BNI also worked with the Ministry of Social Affairs to support 10 MSMEs run by people with disabilities, with business equipment, business development mentoring, social media coaching and assistive devices.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Tanggung Jawab Sosial dan Lingkungan > Pilar Ekonomi > Pemberdayaan Penyandang Disabilitas\",\"status\":\"current\",\"indicators\":\"10 UMKM disabilitas\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: specific program for people with disabilities, limited reach\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: coaching and equipment for underserved business owners, limited reach\"}}},{\"id\":\"E13\",\"activity\":\"Capacity building and financial literacy for Indonesian migrant workers (PMI) in Hong Kong via BNI Remittance\",\"quote\":\"BNI Remittance juga aktif terlibat dalam beberapa kegiatan dengan PMI seperti capacity building , literasi keuangan, kunjungan ke komunitas-komunitas PMI di Hong Kong, dan lain sebagainya.\",\"quote_en\":\"BNI Remittance is also actively involved in activities with Indonesian migrant workers (PMI), such as capacity building, financial literacy and visits to PMI communities in Hong Kong.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Analisis dan Pembahasan > Perusahaan Anak > BNI Remittance\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"customer_access\",\"criterion\":\"level 2: services for migrant workers, no figures\"}}},{\"id\":\"E14\",\"activity\":\"BNI Xpora program helping MSMEs export (financing, business matching, training modules, legal setup)\",\"quote\":\"Hingga 31 Desember 2025, program BNI Xpora telah mendorong 12.094 pelaku UMKM untuk meraih pasar global.\",\"quote_en\":\"As of 31 December 2025, the BNI Xpora program has helped 12,094 MSMEs reach global markets.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Fungsi Penunjang Bisnis > Teknologi Informasi > BNI Xpora\",\"status\":\"current\",\"indicators\":\"12.094 pelaku UMKM; Rp35,0 triliun kredit ekspor UMKM\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named enabling program with number of businesses helped\"}}},{\"id\":\"E15\",\"activity\":\"Launch of hi by hibank app for MSME business management, financing and development\",\"quote\":\"Pada tahun 2025, hibank secara resmi meluncurkan aplikasi mobile banking hi by hibank sebagai solusi digital terintegrasi yang dirancang khusus untuk mendukung digitalisasi serta pengembangan UMKM di Indonesia.\",\"quote_en\":\"In 2025, hibank officially launched the hi by hibank mobile banking app as an integrated digital solution designed specifically to support the digitalization and development of MSMEs in Indonesia.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Profil Perusahaan > Perusahaan Anak > PT Bank Hibank Indonesia\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: business software built for small businesses, no reach figures\"}}},{\"id\":\"E16\",\"activity\":\"BNIdirect bisnis digital banking platform designed for MSMEs\",\"quote\":\"Salah satu inovasi utama yang diluncurkan pada Agustus 2025 adalah BNIdirect bisnis, sebuah platform digital yang dirancang khusus untuk merangkul dan mempermudah bisnis berskala UMKM agar dapat menikmati layanan perbankan digital yang setara dengan perusahaan korporasi.\",\"quote_en\":\"A key innovation launched in August 2025 is BNIdirect bisnis, a digital platform designed specifically to bring MSME-scale businesses digital banking services on par with corporations.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Analisis dan Pembahasan > Corporate Banking > Keunggulan Kompetitif dan Inovasi\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: business tool built for small businesses, no user figures\"}}},{\"id\":\"E17\",\"activity\":\"BNI Ventures BNV Arcade startup acceleration and incubation program\",\"quote\":\"Dalam rangkaian aktivitas tersebut, BNI Ventures menyelenggarakan program akselerasi dan inkubasi dengan menggandeng mitra strategis, serta membuka pintu match-making antara perusahaan rintisan dengan unit bisnis terkait di BNI Group.\",\"quote_en\":\"In these activities, BNI Ventures runs acceleration and incubation programs with strategic partners and opens match-making between startups and relevant BNI Group business units.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Analisis dan Pembahasan > Perusahaan Anak > BNI Ventures\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: accelerator/incubator program, no reach figures\"}}},{\"id\":\"E18\",\"activity\":\"Government-subsidized People's Business Credit (KUR) for micro, small and medium businesses\",\"quote\":\"Kredit Usaha Rakyat (KUR) merupakan program pembiayaan bersubsidi dari pemerintah yang dirancang untuk meningkatkan akses permodalan bagi Usaha Mikro, Kecil, dan Menengah (UMKM).\",\"quote_en\":\"People's Business Credit (KUR) is a government-subsidized financing program designed to improve access to capital for micro, small and medium enterprises.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Analisis dan Pembahasan > SME Business & Business Program\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 2: subsidized financing aimed at capital-access barriers for micro businesses\"}}}],\"themes\":{\"creativity\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\"],\"reason\":\"Level 2: specific current creative support (a music festival sponsorship and a film collaboration) with limited disclosed scale.\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E3\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\",\"E10\"],\"reason\":\"Level 3: external education and community investment with substantial reach shown by indicators (Rp116.82bn TJSL, 786 scholarships, 127 schools, 3,400 students, 6,908 entrepreneurs trained).\"},\"cross_cultural\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E11\",\"E12\",\"E13\"],\"reason\":\"Level 3: a named access service for underserved remote regions with measured reach (28,177 agents in 3T areas), plus disability and migrant-worker programs.\"},\"entrepreneurship\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E7\",\"E14\",\"E12\",\"E15\",\"E16\",\"E17\",\"E18\"],\"reason\":\"Level 3: named enabling programs with numbers of businesses helped (Xpora 12,094 MSMEs; Rumah BUMN 6,908 entrepreneurs), not shown as a distinct major business line with revenue.\"}},\"notes\":\"Java Jazz sponsorship is framed largely as customer acquisition. The film TIMUR collaboration, the ICCF creative-ecosystem event and the animation-studio financing appear only as press-release headlines with no detail, so Creativity stays at 2. The TJSL sentence says 'naik/turun' (up/down), but the figures (Rp116.82bn vs Rp129.9bn) show a decrease. Training cost is given as Rp192,9 miliar in one place and Rp192,8 miliar in another. Government aid disbursements (PIP, Beasiswa Unggulan, teacher allowances) are BNI acting as a paying agent, not its own investment, so they are not counted. The SME segment credit (Rp78.7T) and ordinary SME lending count only as 'serving'. hibank reports applying DEIB principles, and an award cites a 'Diversity Inclusivity ESG Report', but no specific practice is described, so neither scored. Board diversity policy is boilerplate. Wondr Everywhere Beijing (diaspora event) was mainly marketing and was not scored. The training of 400 women weavers was not scored for Creativity (production capacity, unnamed program). Cross-cultural credit for Agen46 rests on its reach into remote 3T regions; reviewers may want to confirm that this fits the theme.\",\"red_flags\":[]}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 171562,
+      "output_tokens": 14765,
+      "duration_ms": 122829
+    }
+  ]
+}

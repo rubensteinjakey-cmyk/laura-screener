@@ -1,0 +1,45 @@
+{
+  "ticker": "DNORD.CO",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "Nasdaq Copenhagen company announcements",
+  "fiscal_year": 2025,
+  "url": "https://attachment.news.eu.nasdaq.com/ac6824c31a47a615477d702aedbbdb9ad#esef",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 15911,
+    "Annual report: keyword paragraphs from the rest": 3586
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter from the Chair and CEO (pages 5-7)",
+    "Financial highlights (pages 9-9)",
+    "ESG highlights (pages 10-10)",
+    "Our business model (pages 15-16)",
+    "Strategy towards 2030 (pages 17-20)",
+    "Group fleet overview (pages 28-30)",
+    "ESG at NORDEN (pages 51-55)",
+    "Social (pages 68-73)",
+    "ESG accounting policies (pages 81-90)",
+    "ESG performance data (pages 93-99)"
+  ],
+  "chapters_skipped": [
+    "Dry cargo financial review",
+    "Group financial review",
+    "Income statement",
+    "Independent auditor's",
+    "Independent auditor's report",
+    "Notes to the consolidated",
+    "Notes to the parent company",
+    "Risk management",
+    "Shareholder information",
+    "Statement of cash flows",
+    "Statement of changes in equity",
+    "Statement of comprehensive",
+    "Statement of financial position",
+    "Tankers financial review"
+  ],
+  "words_sent": 19517
+}

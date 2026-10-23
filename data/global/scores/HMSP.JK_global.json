@@ -1,0 +1,262 @@
+{
+  "ticker": "HMSP.JK",
+  "company_name": "Sampoerna",
+  "country": "Indonesia",
+  "sector": "Consumer Staples",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.sampoerna.com/content/dam/pmicom/affiliates/sampoerna/docs/annua-report-and-sustainability-report-2025.pdf",
+  "english": false,
+  "words_sent": 39685,
+  "prompt_chars": 313904,
+  "approx_prompt_tokens": 78476,
+  "scored_at": "2026-10-23T18:04:17",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Sampoerna Entrepreneurship Training Center (SETC) runs entrepreneurship training, mentoring and export preparation for MSMEs and the public",
+        "quote": "Sejak tahun 2007, Sampoerna Entrepreneurship Training Center (SETC) yang berlokasi di fasilitas seluas 27 hektare di Pasuruan, Jawa Timur, telah melatih lebih dari 108.000 peserta dalam berbagai bidang, termasuk riset pasar, pengembangan produk, strategi pemasaran, serta persiapan ekspor.",
+        "quote_en": "Since 2007, the Sampoerna Entrepreneurship Training Center (SETC), based at our 27-hectare facility in Pasuruan, East Java, has trained over 108,000 participants in areas including market research, product development, marketing strategies, and export preparation.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships",
+        "status": "current",
+        "indicators": "108.000 peserta; 27 hektare; 1.600 UMKM pendampingan; 200 UMKM ekspor ke 47 negara",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external education program with participant numbers"
+          },
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named free training and mentoring program for MSMEs with numbers of businesses helped"
+          }
+        }
+      },
+      {
+        "id": "E2",
+        "activity": "Sampoerna Retail Community (SRC) network with the AYO by SRC app giving small grocery stores digital business tools",
+        "quote": "Aplikasi AYO by SRC menghubungkan toko, pedagang grosir, dan konsumen, serta mendorong adopsi digital di kalangan anggota dengan tingkat adopsi sekitar 90% dan telah memfasilitasi lebih dari 11,5 juta transaksi dengan nilai total melebihi USD1 miliar.",
+        "quote_en": "The AYO by SRC app connects stores, wholesalers and consumers and drives digital adoption among members, with around 90% adoption, and has facilitated over 11.5 million transactions with a total value exceeding USD1 billion.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships",
+        "status": "current",
+        "indicators": "250.000 toko anggota; 10.000 paguyuban; 6.300 pedagang grosir; sekitar 90%; 11,5 juta transaksi; USD1 miliar",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: business software and coaching for very small retailers with disclosed numbers of businesses"
+          }
+        }
+      },
+      {
+        "id": "E3",
+        "activity": "Women Ecosystem Catalyst (WEC) Season 2 training, mentoring and networking for women entrepreneurs in Central Java",
+        "quote": "Melalui program Women Ecosystem Catalyst (WEC) Season 2 yang dilaksanakan bersama Gerakan Solida ritas Nasional (GSN), Pemerintah Provinsi Jawa Tengah, dan Asosiasi Imajinasi Penaja Mula (Impala), Perseroan melibatkan lebih dari 1.000 wirausaha perempuan di Jawa Tengah melalui pelatihan, pendampingan, serta penguatan jejaring untuk menjawab berbagai tantangan yang dihadapi.",
+        "quote_en": "Through the Women Ecosystem Catalyst (WEC) Season 2 program, implemented with GSN, the Central Java Provincial Government and the Impala Association, the Company engaged over 1,000 women entrepreneurs in Central Java through training, mentoring and networking to address the challenges they face.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships",
+        "status": "current",
+        "indicators": "1.000 wirausaha perempuan",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "enabling",
+            "criterion": "level 3: named coaching program for women-led MSMEs with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E4",
+        "activity": "Sampoerna Karya Bangsa subsidiary runs vocational and skills training for the public",
+        "quote": "Program pengembangan keterampilan dan pelatihan vokasional yang bertujuan untuk mencetak wirausahawan mandiri dan tenaga kerja terlatih yang mampu berkontribusi terhadap kemandirian ekonomi nasional.",
+        "quote_en": "Skills development and vocational training program aimed to cultivate independent entrepreneurs and skilled workers capable of contributing to national economic independence.",
+        "source_doc": "filing",
+        "section": "Annual report > Sampoerna's Economic Contribution > Vocational Training",
+        "status": "current",
+        "indicators": ">9,000 partisipan",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: named external vocational training program with participant numbers"
+          }
+        }
+      },
+      {
+        "id": "E5",
+        "activity": "Higher-education support for students from underprivileged families with Putera Sampoerna Foundation",
+        "quote": "From 2010 to 2025, this program has provided support to more than 1,300 college students across Indonesia.",
+        "quote_en": "From 2010 to 2025, this program has provided support to more than 1,300 college students across Indonesia.",
+        "source_doc": "filing",
+        "section": "Sustainability Report > Socioeconomic Well-being within Our Communities > Support for Education",
+        "status": "current",
+        "indicators": "more than 1,300 college students",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 3: scholarship program with student numbers"
+          }
+        }
+      },
+      {
+        "id": "E6",
+        "activity": "Sampoerna Rescue (SAR) volunteer disaster relief missions",
+        "quote": "By 2025, SAR had carried out over 340 humanitarian missions, reaching various disaster-affected areas, providing direct assistance to over 215,000 beneficiaries, and received 12 awards for disaster relief missions and mitigation efforts.",
+        "quote_en": "By 2025, SAR had carried out over 340 humanitarian missions, reaching various disaster-affected areas, providing direct assistance to over 215,000 beneficiaries, and received 12 awards for disaster relief missions and mitigation efforts.",
+        "source_doc": "filing",
+        "section": "Sustainability Report > Socioeconomic Well-being within Our Communities > Sampoerna Rescue (SAR)",
+        "status": "current",
+        "indicators": "340 humanitarian missions; 215,000 beneficiaries",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 3: named volunteer community program with beneficiary numbers"
+          }
+        }
+      },
+      {
+        "id": "E7",
+        "activity": "Training and development program for children of farmers and workers in Rembang",
+        "quote": "Di tahun 2025, Sampoerna mengadakan program pelatihan dan pengembangan bagi masyarakat desa di Rembang, Jawa Tengah, khususnya anak-anak petani dan pekerja yang berusia 6-15 tahun.",
+        "quote_en": "In 2025, Sampoerna held a training and development program for villagers in Rembang, Central Java, specifically for children of farmers and workers aged 6-15 years.",
+        "source_doc": "filing",
+        "section": "Sustainability Report > Sustainable Supply Chain Management > Child Labor Eradication Program",
+        "status": "current",
+        "indicators": "521 anak",
+        "themes": {
+          "community": {
+            "kind": "external_education",
+            "criterion": "level 2: specific external education activity, limited reach"
+          }
+        }
+      },
+      {
+        "id": "E8",
+        "activity": "Distribution of paddy reapers and training for farmer groups",
+        "quote": "Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.",
+        "quote_en": "Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.",
+        "source_doc": "filing",
+        "section": "Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships",
+        "status": "current",
+        "indicators": "200 paddy reapers; 200 farmer groups; around 2,000 farmers",
+        "themes": {
+          "community": {
+            "kind": "community_investment",
+            "criterion": "level 2: specific community investment with farmer partners, moderate reach"
+          }
+        }
+      },
+      {
+        "id": "E9",
+        "activity": "Skills for the Future employee learning program with external institutions",
+        "quote": "One of our key initiatives, Skills for the Future, provides access to short courses, certifications, workshops, and higher education programs delivered by reputable external institutions, enabling employees to develop future-relevant skills.",
+        "quote_en": "One of our key initiatives, Skills for the Future, provides access to short courses, certifications, workshops, and higher education programs delivered by reputable external institutions, enabling employees to develop future-relevant skills.",
+        "source_doc": "filing",
+        "section": "Annual report > Our People > Inspiring Growth and Developing Future-Ready Talent",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "community": {
+            "kind": "employee_development",
+            "criterion": "level 2: employee development of any size"
+          }
+        }
+      },
+      {
+        "id": "E10",
+        "activity": "Disability inclusion program: awareness platform for employees, plus access evaluations and hiring of persons with disabilities",
+        "quote": "Melalui diseminasi informasi serta penyediaan platform interaksi terkait disabilitas kepada karyawan, Perusahaan meningkatkan pemahaman karyawan mengenai kebutuhan penyandang disabilitas serta mendorong terciptanya lingkungan kerja yang inklusif dan kolaboratif.",
+        "quote_en": "Through the dissemination of information and the provision of interactive platforms on disability-related topics, the Company enhances employees' understanding of the needs of persons with disabilities and fosters an inclusive and collaborative work environment.",
+        "source_doc": "filing",
+        "section": "Sustainability Report > Healthy and Fair Working Environment > Inclusion for People with Disabilities",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "cross_cultural": {
+            "kind": "internal_practice",
+            "criterion": "level 2: specific disability-inclusion practice with no figures"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 1: rests on general language only; the business is tobacco manufacturing, and creative work appears only as a routine input (brand marketing and advertising)."
+      },
+      "community": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E4",
+          "E5",
+          "E6",
+          "E7",
+          "E8",
+          "E9"
+        ],
+        "reason": "Level 3: external education and community investment with substantial measured reach (SETC 108,000 trained, SKB vocational >9,000, 1,300 scholarship students, SAR 215,000 beneficiaries); not clearly central to the tobacco business strategy, so 4 is not met."
+      },
+      "cross_cultural": {
+        "score": 2,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E10"
+        ],
+        "reason": "Level 2: a specific disability-inclusion practice with no reach figures; the rest is women-in-leadership statistics and equal-opportunity language."
+      },
+      "entrepreneurship": {
+        "score": 3,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1",
+          "E2",
+          "E3"
+        ],
+        "reason": "Level 3: named enabling programs with substantial measured reach (SETC mentoring and training, SRC/AYO digital tools for 250,000 small stores, WEC for 1,000+ women entrepreneurs); not a revenue-generating business line, so 4 is not met."
+      }
+    },
+    "red_flags": [
+      {
+        "id": "R1",
+        "flag": "tobacco",
+        "found_by": "",
+        "case_type": "",
+        "quote": "Berawal sebagai perusahaan keluarga sederhana pada tahun 1913, Perseroan kini telah berkembang menjadi perusahaan tembakau terkemuka di Indonesia.",
+        "quote_en": "What began as a humble family company in 1913 has since grown into Indonesia's leading tobacco company.",
+        "section": "Annual report > Report of the Board of Directors",
+        "explanation": "Manufacturing and trading cigarettes and tobacco products is the core business (one operating segment, 99.6% of net revenues)."
+      },
+      {
+        "id": "R2",
+        "flag": "rights_finding",
+        "found_by": "internal",
+        "case_type": "unspecified compliance violations",
+        "quote": "Dari seluruh laporan, 36 laporan memiliki bukti yang cukup bagi Perseroan untuk memberi sanksi kepada karyawan bersangkutan.",
+        "quote_en": "Of all reports, 36 had sufficient evidence for the Company to sanction the employees concerned.",
+        "section": "Annual report > Corporate Governance > Code of Conduct / Speak Up",
+        "explanation": "The internal Ethics & Compliance process substantiated 36 cases in 2025. Case types are not broken out and may be mostly non-rights matters such as fraud. No finding by a court, regulator or outside body is disclosed, so this costs no points."
+      }
+    ],
+    "notes": "Core business is tobacco: one segment, 99.6% of net revenue. SRC is a real support program for small retailers, but it is also the company's route-to-market channel for its own cigarettes, which tempers the Entrepreneurship score. The 43 Third Party Operators owned by local entrepreneurs and cooperatives are contract manufacturing (serving, not enabling), so they are not scored. The Rembang children's program lists arts and culture as one component among many; this was too incidental to score Creativity above 1. Sampoerna Parents Community is an employee group about parenting, not a cross-cultural network, so it is not scored. The SmartWork flexible-working program was replaced by a full return-to-office in 2025 (past). Sampoerna Karya Bangsa took on job training as its business activity in March 2025. The Pasuruan Entrepreneurship Week (200 displaced workers) and SETC Collaborator Hub (20 collaborators) are part of SETC and not counted separately. The SETC figure is cumulative since 2007. The 1,300 scholarship figure is cumulative 2010-2025."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "```json\n{\"ticker\":\"HMSP.JK\",\"sector\":\"Consumer Staples\",\"fiscal_year\":2025,\"sections_read\":[\"Annual report: keyword paragraphs (TOC fallback)\"],\"evidence\":[{\"id\":\"E1\",\"activity\":\"Sampoerna Entrepreneurship Training Center (SETC) runs entrepreneurship training, mentoring and export preparation for MSMEs and the public\",\"quote\":\"Sejak tahun 2007, Sampoerna Entrepreneurship Training Center (SETC) yang berlokasi di fasilitas seluas 27 hektare di Pasuruan, Jawa Timur, telah melatih lebih dari 108.000 peserta dalam berbagai bidang, termasuk riset pasar, pengembangan produk, strategi pemasaran, serta persiapan ekspor.\",\"quote_en\":\"Since 2007, the Sampoerna Entrepreneurship Training Center (SETC), based at our 27-hectare facility in Pasuruan, East Java, has trained over 108,000 participants in areas including market research, product development, marketing strategies, and export preparation.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships\",\"status\":\"current\",\"indicators\":\"108.000 peserta; 27 hektare; 1.600 UMKM pendampingan; 200 UMKM ekspor ke 47 negara\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external education program with participant numbers\"},\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named free training and mentoring program for MSMEs with numbers of businesses helped\"}}},{\"id\":\"E2\",\"activity\":\"Sampoerna Retail Community (SRC) network with the AYO by SRC app giving small grocery stores digital business tools\",\"quote\":\"Aplikasi AYO by SRC menghubungkan toko, pedagang grosir, dan konsumen, serta mendorong adopsi digital di kalangan anggota dengan tingkat adopsi sekitar 90% dan telah memfasilitasi lebih dari 11,5 juta transaksi dengan nilai total melebihi USD1 miliar.\",\"quote_en\":\"The AYO by SRC app connects stores, wholesalers and consumers and drives digital adoption among members, with around 90% adoption, and has facilitated over 11.5 million transactions with a total value exceeding USD1 billion.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships\",\"status\":\"current\",\"indicators\":\"250.000 toko anggota; 10.000 paguyuban; 6.300 pedagang grosir; sekitar 90%; 11,5 juta transaksi; USD1 miliar\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: business software and coaching for very small retailers with disclosed numbers of businesses\"}}},{\"id\":\"E3\",\"activity\":\"Women Ecosystem Catalyst (WEC) Season 2 training, mentoring and networking for women entrepreneurs in Central Java\",\"quote\":\"Melalui program Women Ecosystem Catalyst (WEC) Season 2 yang dilaksanakan bersama Gerakan Solida ritas Nasional (GSN), Pemerintah Provinsi Jawa Tengah, dan Asosiasi Imajinasi Penaja Mula (Impala), Perseroan melibatkan lebih dari 1.000 wirausaha perempuan di Jawa Tengah melalui pelatihan, pendampingan, serta penguatan jejaring untuk menjawab berbagai tantangan yang dihadapi.\",\"quote_en\":\"Through the Women Ecosystem Catalyst (WEC) Season 2 program, implemented with GSN, the Central Java Provincial Government and the Impala Association, the Company engaged over 1,000 women entrepreneurs in Central Java through training, mentoring and networking to address the challenges they face.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships\",\"status\":\"current\",\"indicators\":\"1.000 wirausaha perempuan\",\"themes\":{\"entrepreneurship\":{\"kind\":\"enabling\",\"criterion\":\"level 3: named coaching program for women-led MSMEs with participant numbers\"}}},{\"id\":\"E4\",\"activity\":\"Sampoerna Karya Bangsa subsidiary runs vocational and skills training for the public\",\"quote\":\"Program pengembangan keterampilan dan pelatihan vokasional yang bertujuan untuk mencetak wirausahawan mandiri dan tenaga kerja terlatih yang mampu berkontribusi terhadap kemandirian ekonomi nasional.\",\"quote_en\":\"Skills development and vocational training program aimed to cultivate independent entrepreneurs and skilled workers capable of contributing to national economic independence.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Sampoerna's Economic Contribution > Vocational Training\",\"status\":\"current\",\"indicators\":\">9,000 partisipan\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: named external vocational training program with participant numbers\"}}},{\"id\":\"E5\",\"activity\":\"Higher-education support for students from underprivileged families with Putera Sampoerna Foundation\",\"quote\":\"From 2010 to 2025, this program has provided support to more than 1,300 college students across Indonesia.\",\"quote_en\":\"From 2010 to 2025, this program has provided support to more than 1,300 college students across Indonesia.\",\"source_doc\":\"filing\",\"section\":\"Sustainability Report > Socioeconomic Well-being within Our Communities > Support for Education\",\"status\":\"current\",\"indicators\":\"more than 1,300 college students\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 3: scholarship program with student numbers\"}}},{\"id\":\"E6\",\"activity\":\"Sampoerna Rescue (SAR) volunteer disaster relief missions\",\"quote\":\"By 2025, SAR had carried out over 340 humanitarian missions, reaching various disaster-affected areas, providing direct assistance to over 215,000 beneficiaries, and received 12 awards for disaster relief missions and mitigation efforts.\",\"quote_en\":\"By 2025, SAR had carried out over 340 humanitarian missions, reaching various disaster-affected areas, providing direct assistance to over 215,000 beneficiaries, and received 12 awards for disaster relief missions and mitigation efforts.\",\"source_doc\":\"filing\",\"section\":\"Sustainability Report > Socioeconomic Well-being within Our Communities > Sampoerna Rescue (SAR)\",\"status\":\"current\",\"indicators\":\"340 humanitarian missions; 215,000 beneficiaries\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 3: named volunteer community program with beneficiary numbers\"}}},{\"id\":\"E7\",\"activity\":\"Training and development program for children of farmers and workers in Rembang\",\"quote\":\"Di tahun 2025, Sampoerna mengadakan program pelatihan dan pengembangan bagi masyarakat desa di Rembang, Jawa Tengah, khususnya anak-anak petani dan pekerja yang berusia 6-15 tahun.\",\"quote_en\":\"In 2025, Sampoerna held a training and development program for villagers in Rembang, Central Java, specifically for children of farmers and workers aged 6-15 years.\",\"source_doc\":\"filing\",\"section\":\"Sustainability Report > Sustainable Supply Chain Management > Child Labor Eradication Program\",\"status\":\"current\",\"indicators\":\"521 anak\",\"themes\":{\"community\":{\"kind\":\"external_education\",\"criterion\":\"level 2: specific external education activity, limited reach\"}}},{\"id\":\"E8\",\"activity\":\"Distribution of paddy reapers and training for farmer groups\",\"quote\":\"Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.\",\"quote_en\":\"Recognizing that many tobacco and clove partner farmers also grow food crops, we collaborated with the National Solidarity Movement (GSN) and the STAPA Center Foundation to distribute 200 paddy reapers and provide training to 200 farmer groups.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Report of the Board of Directors > Fostering organization development and strengthening strategic partnerships\",\"status\":\"current\",\"indicators\":\"200 paddy reapers; 200 farmer groups; around 2,000 farmers\",\"themes\":{\"community\":{\"kind\":\"community_investment\",\"criterion\":\"level 2: specific community investment with farmer partners, moderate reach\"}}},{\"id\":\"E9\",\"activity\":\"Skills for the Future employee learning program with external institutions\",\"quote\":\"One of our key initiatives, Skills for the Future, provides access to short courses, certifications, workshops, and higher education programs delivered by reputable external institutions, enabling employees to develop future-relevant skills.\",\"quote_en\":\"One of our key initiatives, Skills for the Future, provides access to short courses, certifications, workshops, and higher education programs delivered by reputable external institutions, enabling employees to develop future-relevant skills.\",\"source_doc\":\"filing\",\"section\":\"Annual report > Our People > Inspiring Growth and Developing Future-Ready Talent\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"community\":{\"kind\":\"employee_development\",\"criterion\":\"level 2: employee development of any size\"}}},{\"id\":\"E10\",\"activity\":\"Disability inclusion program: awareness platform for employees, plus access evaluations and hiring of persons with disabilities\",\"quote\":\"Melalui diseminasi informasi serta penyediaan platform interaksi terkait disabilitas kepada karyawan, Perusahaan meningkatkan pemahaman karyawan mengenai kebutuhan penyandang disabilitas serta mendorong terciptanya lingkungan kerja yang inklusif dan kolaboratif.\",\"quote_en\":\"Through the dissemination of information and the provision of interactive platforms on disability-related topics, the Company enhances employees' understanding of the needs of persons with disabilities and fosters an inclusive and collaborative work environment.\",\"source_doc\":\"filing\",\"section\":\"Sustainability Report > Healthy and Fair Working Environment > Inclusion for People with Disabilities\",\"status\":\"current\",\"indicators\":\"none disclosed\",\"themes\":{\"cross_cultural\":{\"kind\":\"internal_practice\",\"criterion\":\"level 2: specific disability-inclusion practice with no figures\"}}}],\"themes\":{\"creativity\":{\"score\":1,\"coverage\":\"sufficient\",\"evidence_ids\":[],\"reason\":\"Level 1: rests on general language only; the business is tobacco manufacturing, and creative work appears only as a routine input (brand marketing and advertising).\"},\"community\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E4\",\"E5\",\"E6\",\"E7\",\"E8\",\"E9\"],\"reason\":\"Level 3: external education and community investment with substantial measured reach (SETC 108,000 trained, SKB vocational >9,000, 1,300 scholarship students, SAR 215,000 beneficiaries); not clearly central to the tobacco business strategy, so 4 is not met.\"},\"cross_cultural\":{\"score\":2,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E10\"],\"reason\":\"Level 2: a specific disability-inclusion practice with no reach figures; the rest is women-in-leadership statistics and equal-opportunity language.\"},\"entrepreneurship\":{\"score\":3,\"coverage\":\"sufficient\",\"evidence_ids\":[\"E1\",\"E2\",\"E3\"],\"reason\":\"Level 3: named enabling programs with substantial measured reach (SETC mentoring and training, SRC/AYO digital tools for 250,000 small stores, WEC for 1,000+ women entrepreneurs); not a revenue-generating business line, so 4 is not met.\"}},\"notes\":\"Core business is tobacco: one segment, 99.6% of net revenue. SRC is a real support program for small retailers, but it is also the company's route-to-market channel for its own cigarettes, which tempers the Entrepreneurship score. The 43 Third Party Operators owned by local entrepreneurs and cooperatives are contract manufacturing (serving, not enabling), so they are not scored. The Rembang children's program lists arts and culture as one component among many; this was too incidental to score Creativity above 1. Sampoerna Parents Community is an employee group about parenting, not a cross-cultural network, so it is not scored. The SmartWork flexible-working program was replaced by a full return-to-office in 2025 (past). Sampoerna Karya Bangsa took on job training as its business activity in March 2025. The Pasuruan Entrepreneurship Week (200 displaced workers) and SETC Collaborator Hub (20 collaborators) are part of SETC and not counted separately. The SETC figure is cumulative since 2007. The 1,300 scholarship figure is cumulative 2010-2025.\",\"red_flags\":[{\"id\":\"R1\",\"flag\":\"tobacco\",\"found_by\":\"\",\"case_type\":\"\",\"quote\":\"Berawal sebagai perusahaan keluarga sederhana pada tahun 1913, Perseroan kini telah berkembang menjadi perusahaan tembakau terkemuka di Indonesia.\",\"quote_en\":\"What began as a humble family company in 1913 has since grown into Indonesia's leading tobacco company.\",\"section\":\"Annual report > Report of the Board of Directors\",\"explanation\":\"Manufacturing and trading cigarettes and tobacco products is the core business (one operating segment, 99.6% of net revenues).\"},{\"id\":\"R2\",\"flag\":\"rights_finding\",\"found_by\":\"internal\",\"case_type\":\"unspecified compliance violations\",\"quote\":\"Dari seluruh laporan, 36 laporan memiliki bukti yang cukup bagi Perseroan untuk memberi sanksi kepada karyawan bersangkutan.\",\"quote_en\":\"Of all reports, 36 had sufficient evidence for the Company to sanction the employees concerned.\",\"section\":\"Annual report > Corporate Governance > Code of Conduct / Speak Up\",\"explanation\":\"The internal Ethics & Compliance process substantiated 36 cases in 2025. Case types are not broken out and may be mostly non-rights matters such as fraud. No finding by a court, regulator or outside body is disclosed, so this costs no points.\"}]}\n```",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 136745,
+      "output_tokens": 14986,
+      "duration_ms": 126307
+    }
+  ]
+}

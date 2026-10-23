@@ -1,0 +1,32 @@
+{
+  "ticker": "2890.TW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "source_site": "MOPS",
+  "fiscal_year": 2025,
+  "url": "https://doc.twse.com.tw/pdf/2025_2890_20260526FE4_20261024_014510.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 39914,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 113 lowest-relevance keyword paragraph(s) and 13 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 1154,
+  "chapter_method": "printed contents page",
+  "chapters": [
+    "Letter to Shareholders (pages 3-7)",
+    "Directors, President, and Principal Officers (pages 17-40)",
+    "Employee Shares (pages 137-137)",
+    "Overview of Business Operation (pages 139-193)",
+    "Market and Business Overview (pages 194-200)",
+    "Workforce (pages 201-201)",
+    "Corporate Responsibility and Ethical Behavior (pages 202-205)"
+  ],
+  "chapters_skipped": [
+    "Financial Positions and Risk Management",
+    "Risk Management"
+  ],
+  "words_sent": 39921
+}
