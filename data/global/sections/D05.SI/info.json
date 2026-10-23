@@ -1,0 +1,31 @@
+{
+  "ticker": "D05.SI",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.dbs.com/annualreports/2025/i/pdf/dbs-ar-2025.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 15095,
+    "Annual report: keyword paragraphs from the rest": 21231
+  },
+  "notes": [],
+  "people_words": 0,
+  "chapter_method": "printed table of contents",
+  "chapters": [
+    "Who we are (pages 6-6)",
+    "Letter from Chairman and CEO (pages 17-19)",
+    "CEO reflections (pages 21-22)",
+    "POSB Highlights (pages 43-44)",
+    "How we create value – our business model (pages 73-74)",
+    "Sustainability as a driver of long-term value (pages 76-76)",
+    "Sustainability governance structure (pages 78-78)"
+  ],
+  "chapters_skipped": [
+    "Remuneration report",
+    "Risk management",
+    "Independent auditor’s report",
+    "Financial statements"
+  ],
+  "words_sent": 36346
+}

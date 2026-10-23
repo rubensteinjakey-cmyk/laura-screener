@@ -1,0 +1,80 @@
+{
+  "ticker": "GMAB",
+  "company_name": "Genmab",
+  "country": "Denmark",
+  "sector": "Health Care",
+  "run_id": "global",
+  "rubric_version": "2.1",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "kind": "20-F",
+  "form": "20-F",
+  "fiscal_year": 2025,
+  "url": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000014/gmab-20251231_d2.htm",
+  "english": true,
+  "words_sent": 24493,
+  "prompt_chars": 187178,
+  "approx_prompt_tokens": 46794,
+  "scored_at": "2026-10-23T03:21:35",
+  "ai": {
+    "evidence": [
+      {
+        "id": "E1",
+        "activity": "Develops its own proprietary antibody technology platforms, used in its own pipeline and licensed to pharmaceutical partners",
+        "quote": "Our leading proprietary antibody technology platforms play a key role in building our product pipeline, enhancing our collaborations and generating revenue.",
+        "source_doc": "filing",
+        "section": "20-F Item 4 > B. Business Overview > Our Business Strategy",
+        "status": "current",
+        "indicators": "none disclosed",
+        "themes": {
+          "entrepreneurship": {
+            "kind": "own_innovation",
+            "criterion": "level 1: the company's own innovation, not enabling other founders or small businesses"
+          }
+        }
+      }
+    ],
+    "themes": {
+      "creativity": {
+        "score": 0,
+        "coverage": "sufficient",
+        "evidence_ids": [],
+        "reason": "Level 0: the business section fully describes an antibody biotech business, and 'create' refers only to creating antibodies, so there is no creative, artistic or storytelling activity."
+      },
+      "community": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage (condition 2): the only workforce discussion, Item 6.D Employees, is under about 150 words and gives headcounts with no training, education or community activity, and the 'collaborations' cited elsewhere are licensing deals, which are a trap."
+      },
+      "cross_cultural": {
+        "score": 0,
+        "coverage": "insufficient",
+        "evidence_ids": [],
+        "reason": "Level 0 with insufficient coverage (conditions 1 and 2): there is no inclusion, accessibility or diversity discussion, the employee section is under about 150 words, and employees by country only reflect international operations, which don't count."
+      },
+      "entrepreneurship": {
+        "score": 1,
+        "coverage": "sufficient",
+        "evidence_ids": [
+          "E1"
+        ],
+        "reason": "Level 1: the filing shows only the company's own innovation (technology platforms licensed to large pharma partners) and no specific service or program enabling founders or small businesses."
+      }
+    },
+    "red_flags": [],
+    "notes": "Pure-play antibody biotech, so none of the themes apply to the core business. The filing lacks human-capital discussion, so Community and Cross-cultural coverage is insufficient and the company triggers the automated second look using the company's sustainability report. Acasunlimab development was discontinued in December 2025, which is context only. The Chugai patent suits and the AbbVie trade-secret and ITC complaints are intellectual-property disputes, not rights findings. Collaboration and license agreements (AbbVie, Pfizer, BioNTech, J&J, Gilead, etc.) were treated as legal and licensing structures under the Community and Entrepreneurship traps."
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw_reply": "{\"ticker\": \"GMAB\", \"sector\": \"Health Care\", \"fiscal_year\": 2025, \"sections_read\": [\"20-F Item 4: Information on the Company\", \"20-F Item 5: Operating and Financial Review (targeted paragraphs)\", \"20-F Item 6.D: Employees\"], \"evidence\": [{\"id\": \"E1\", \"activity\": \"Develops its own proprietary antibody technology platforms, used in its own pipeline and licensed to pharmaceutical partners\", \"quote\": \"Our leading proprietary antibody technology platforms play a key role in building our product pipeline, enhancing our collaborations and generating revenue.\", \"source_doc\": \"filing\", \"section\": \"20-F Item 4 > B. Business Overview > Our Business Strategy\", \"status\": \"current\", \"indicators\": \"none disclosed\", \"themes\": {\"entrepreneurship\": {\"kind\": \"own_innovation\", \"criterion\": \"level 1: the company's own innovation, not enabling other founders or small businesses\"}}}], \"themes\": {\"creativity\": {\"score\": 0, \"coverage\": \"sufficient\", \"evidence_ids\": [], \"reason\": \"Level 0: the business section fully describes an antibody biotech business, and 'create' refers only to creating antibodies, so there is no creative, artistic or storytelling activity.\"}, \"community\": {\"score\": 0, \"coverage\": \"insufficient\", \"evidence_ids\": [], \"reason\": \"Level 0 with insufficient coverage (condition 2): the only workforce discussion, Item 6.D Employees, is under about 150 words and gives headcounts with no training, education or community activity, and the 'collaborations' cited elsewhere are licensing deals, which are a trap.\"}, \"cross_cultural\": {\"score\": 0, \"coverage\": \"insufficient\", \"evidence_ids\": [], \"reason\": \"Level 0 with insufficient coverage (conditions 1 and 2): there is no inclusion, accessibility or diversity discussion, the employee section is under about 150 words, and employees by country only reflect international operations, which don't count.\"}, \"entrepreneurship\": {\"score\": 1, \"coverage\": \"sufficient\", \"evidence_ids\": [\"E1\"], \"reason\": \"Level 1: the filing shows only the company's own innovation (technology platforms licensed to large pharma partners) and no specific service or program enabling founders or small businesses.\"}}, \"notes\": \"Pure-play antibody biotech, so none of the themes apply to the core business. The filing lacks human-capital discussion, so Community and Cross-cultural coverage is insufficient and the company triggers the automated second look using the company's sustainability report. Acasunlimab development was discontinued in December 2025, which is context only. The Chugai patent suits and the AbbVie trade-secret and ITC complaints are intellectual-property disputes, not rights findings. Collaboration and license agreements (AbbVie, Pfizer, BioNTech, J&J, Gilead, etc.) were treated as legal and licensing structures under the Community and Entrepreneurship traps.\", \"red_flags\": []}",
+      "models_used": [
+        "claude-opus-5-5"
+      ],
+      "input_tokens": 62581,
+      "output_tokens": 2151,
+      "duration_ms": 24487
+    }
+  ]
+}

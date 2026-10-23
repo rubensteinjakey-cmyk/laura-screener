@@ -1,0 +1,12 @@
+{
+  "ticker": "SIKA.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.sika.com/dam/dms/corporate/media/glo-ar-25-annual-report.pdf",
+  "english": true,
+  "sections": {},
+  "notes": [],
+  "people_words": 0,
+  "problem": "no usable table of contents (chapters can't be found cleanly)"
+}

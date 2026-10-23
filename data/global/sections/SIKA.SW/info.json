@@ -1,0 +1,63 @@
+{
+  "ticker": "SIKA.SW",
+  "kind": "annual_report",
+  "form": "Annual report",
+  "fiscal_year": 2025,
+  "url": "https://www.sika.com/dam/dms/corporate/media/glo-ar-25-annual-report.pdf",
+  "english": true,
+  "sections": {
+    "Annual report: selected chapters": 39700,
+    "Annual report: keyword paragraphs from the rest": 0
+  },
+  "notes": [
+    "over 40,000 words: dropped 18 lowest-relevance keyword paragraph(s) and 78 lowest-relevance chapter page(s)"
+  ],
+  "people_words": 11845,
+  "chapter_method": "pdf bookmarks (all levels)",
+  "chapters": [
+    "Letter to stakeholders (pages 2-3)",
+    "At a glance (pages 5-9)",
+    "Strategic report (pages 10-22)",
+    "Business model (pages 12-13)",
+    "Strategy 2028 – Beyond the Expected (pages 16-17)",
+    "Strategic Target Markets (pages 19-20)",
+    "Sustainability report (pages 38-174)",
+    "Introduction by the Chair of the Sustainability Committee (pages 40-40)",
+    "Sustainability at Sika (pages 41-52)",
+    "Strategy 2028: non-financial performance (pages 41-41)",
+    "Sustainability organizational structure (pages 44-46)",
+    "Stakeholder engagement (pages 51-52)",
+    "Social (pages 107-131)",
+    "Own workforce (pages 108-125)",
+    "ESG data governance including re-baselining (pages 155-155)",
+    "Employees (pages 269-269)"
+  ],
+  "chapters_skipped": [
+    "24. Cash flow statement",
+    "25. Financial instruments and risk management",
+    "Business model and risk management",
+    "Compensation Report",
+    "Compensation awarded to the Board of Directors in 2025 (audited)",
+    "Compensation awarded to the CEO and to Group Management in 2025 (audited)",
+    "Consolidated balance sheet",
+    "Consolidated balance sheet as at December 31",
+    "Consolidated financial statements",
+    "Consolidated income statement",
+    "Consolidated statement of cash flows",
+    "Consolidated statement of changes in equity",
+    "Consolidated statement of comprehensive income",
+    "Independent Assurance Report",
+    "Information on balance sheet and income statement items",
+    "Notes to the Sika AG financial statements",
+    "Notes to the consolidated financial statements",
+    "Report of the statutory auditor",
+    "Risk management",
+    "Sales, profit, cash flow",
+    "Sika AG balance sheet",
+    "Sika AG income statement",
+    "Sika AG, Baar, financial statements",
+    "Statutory Auditor’s Report",
+    "Supporting information to the consolidated financial statements"
+  ],
+  "words_sent": 39707
+}
